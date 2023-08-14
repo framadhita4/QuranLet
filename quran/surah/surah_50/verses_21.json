@@ -1,0 +1,112 @@
+{
+  "id": 4651,
+  "chapter_id": 50,
+  "verse_key": "50:21",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 23677,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_021_001.mp3",
+      "text": "وَجَآءَتْ",
+      "translation": "dan datang",
+      "transliteration": "wajāat"
+    },
+    {
+      "id": 23678,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_021_002.mp3",
+      "text": "كُلُّ",
+      "translation": "setiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 23679,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_021_003.mp3",
+      "text": "نَفْسٍۢ",
+      "translation": "jiwa/diri",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 23680,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_021_004.mp3",
+      "text": "مَّعَهَا",
+      "translation": "bersamanya",
+      "transliteration": "maʿahā"
+    },
+    {
+      "id": 23681,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_021_005.mp3",
+      "text": "سَآئِقٌۭ",
+      "translation": "seorang penggiring",
+      "transliteration": "sāiqun"
+    },
+    {
+      "id": 23682,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_021_006.mp3",
+      "text": "وَشَهِيدٌۭ",
+      "translation": "dan seorang saksi",
+      "transliteration": "washahīdun"
+    },
+    {
+      "id": 23683,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan datanglah tiap-tiap diri, bersama dengan dia seorang malaikat penggiring dan seorang malaikat penyaksi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 253190,
+    "timestamp_to": 266020,
+    "duration": 12830,
+    "segments": [
+      [
+        1,
+        253135,
+        255895
+      ],
+      [
+        2,
+        255895,
+        256505
+      ],
+      [
+        3,
+        256505,
+        257265
+      ],
+      [
+        4,
+        257265,
+        259285
+      ],
+      [
+        5,
+        259285,
+        262925
+      ],
+      [
+        6,
+        262925,
+        265900
+      ]
+    ]
+  }
+}

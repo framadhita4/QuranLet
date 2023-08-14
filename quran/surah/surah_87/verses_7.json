@@ -1,0 +1,151 @@
+{
+  "id": 5955,
+  "chapter_id": 87,
+  "verse_key": "87:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 8087,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 8088,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_002.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 8089,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_003.mp3",
+      "text": "شَآءَ",
+      "translation": "dikehendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 8090,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_004.mp3",
+      "text": "ٱللَّهُ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 8092,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_006.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 8093,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_007.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 8094,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_008.mp3",
+      "text": "ٱلْجَهْرَ",
+      "translation": "terang",
+      "transliteration": "l-jahra"
+    },
+    {
+      "id": 8095,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_009.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 8096,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_007_010.mp3",
+      "text": "يَخْفَىٰ",
+      "translation": "tersembunyi",
+      "transliteration": "yakhfā"
+    },
+    {
+      "id": 8097,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali kalau Allah menghendaki.  Sesungguhnya Dia mengetahui yang terang dan yang tersembunyi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 25730,
+    "timestamp_to": 37980,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        25145,
+        26015
+      ],
+      [
+        2,
+        26015,
+        26375
+      ],
+      [
+        3,
+        26375,
+        28435
+      ],
+      [
+        4,
+        28435,
+        31525
+      ],
+      [
+        5,
+        31525,
+        33275
+      ],
+      [
+        6,
+        33275,
+        34165
+      ],
+      [
+        7,
+        34165,
+        35175
+      ],
+      [
+        8,
+        35175,
+        35815
+      ],
+      [
+        9,
+        35815,
+        36790
+      ]
+    ]
+  }
+}

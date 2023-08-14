@@ -1,0 +1,86 @@
+{
+  "id": 5939,
+  "chapter_id": 86,
+  "verse_key": "86:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 9253,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_008_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 9254,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_008_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 9255,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_008_003.mp3",
+      "text": "رَجْعِهِۦ",
+      "translation": "mengembalikanya",
+      "transliteration": "rajʿihi"
+    },
+    {
+      "id": 9256,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_008_004.mp3",
+      "text": "لَقَادِرٌۭ",
+      "translation": "benar-benar berkuasa",
+      "transliteration": "laqādirun"
+    },
+    {
+      "id": 9257,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah benar-benar kuasa untuk mengembalikannya (hidup sesudah mati).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41600,
+    "timestamp_to": 46930,
+    "duration": 5330,
+    "segments": [
+      [
+        1,
+        41545,
+        43395
+      ],
+      [
+        2,
+        43395,
+        44135
+      ],
+      [
+        3,
+        44135,
+        45255
+      ],
+      [
+        4,
+        45255,
+        46820
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4984,
+  "chapter_id": 56,
+  "verse_key": "56:5",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 4909,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_005_001.mp3",
+      "text": "وَبُسَّتِ",
+      "translation": "dan dihancurkan",
+      "transliteration": "wabussati"
+    },
+    {
+      "id": 4910,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_005_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 4911,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_005_003.mp3",
+      "text": "بَسًّۭا",
+      "translation": "sehancur-hancurnya",
+      "transliteration": "bassan"
+    },
+    {
+      "id": 4912,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gunung-gunung dihancurluluhkan sehancur-hancurnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15050,
+    "timestamp_to": 19050,
+    "duration": 4000,
+    "segments": [
+      [
+        1,
+        14485,
+        15665
+      ],
+      [
+        2,
+        15665,
+        16835
+      ],
+      [
+        3,
+        16835,
+        18020
+      ]
+    ]
+  }
+}

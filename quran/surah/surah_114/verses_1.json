@@ -1,0 +1,86 @@
+{
+  "id": 6231,
+  "chapter_id": 114,
+  "verse_key": "114:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3",
+  "words": [
+    {
+      "id": 115,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_001_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 116,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_001_002.mp3",
+      "text": "أَعُوذُ",
+      "translation": "aku berlindung",
+      "transliteration": "aʿūdhu"
+    },
+    {
+      "id": 117,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_001_003.mp3",
+      "text": "بِرَبِّ",
+      "translation": "Tuhannya",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 118,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_001_004.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 119,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6110,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        0,
+        330
+      ],
+      [
+        2,
+        330,
+        1230
+      ],
+      [
+        3,
+        1230,
+        2050
+      ],
+      [
+        4,
+        2050,
+        6085
+      ]
+    ]
+  }
+}

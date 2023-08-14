@@ -1,0 +1,73 @@
+{
+  "id": 4846,
+  "chapter_id": 53,
+  "verse_key": "53:62",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 55823,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_062_001.mp3",
+      "text": "فَٱسْجُدُوا۟",
+      "translation": "maka bersujudlah",
+      "transliteration": "fa-us'judū"
+    },
+    {
+      "id": 55824,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_062_002.mp3",
+      "text": "لِلَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 55825,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_062_003.mp3",
+      "text": "وَٱعْبُدُوا۟ ۩",
+      "translation": "dan sembahlah (Dia)",
+      "transliteration": "wa-uʿ'budū"
+    },
+    {
+      "id": 55827,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "Maka bersujudlah kepada Allah dan sembahlah (Dia).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 460950,
+    "timestamp_to": 466750,
+    "duration": 5800,
+    "segments": [
+      [
+        1,
+        460885,
+        461815
+      ],
+      [
+        2,
+        461815,
+        463265
+      ],
+      [
+        3,
+        463265,
+        464620
+      ]
+    ]
+  }
+}

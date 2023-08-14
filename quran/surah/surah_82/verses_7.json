@@ -1,0 +1,86 @@
+{
+  "id": 5836,
+  "chapter_id": 82,
+  "verse_key": "82:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 8056,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_007_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 8057,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_007_002.mp3",
+      "text": "خَلَقَكَ",
+      "translation": "telah menciptakan kamu",
+      "transliteration": "khalaqaka"
+    },
+    {
+      "id": 8058,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_007_003.mp3",
+      "text": "فَسَوَّىٰكَ",
+      "translation": "lalu Dia menyempurnakan kamu",
+      "transliteration": "fasawwāka"
+    },
+    {
+      "id": 8059,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_007_004.mp3",
+      "text": "فَعَدَلَكَ",
+      "translation": "lalu Dia menjadikan kamu seimbang",
+      "transliteration": "faʿadalaka"
+    },
+    {
+      "id": 8060,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang telah menciptakan kamu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30720,
+    "timestamp_to": 35370,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        30635,
+        31575
+      ],
+      [
+        2,
+        31575,
+        32485
+      ],
+      [
+        3,
+        32485,
+        33805
+      ],
+      [
+        4,
+        33805,
+        35160
+      ]
+    ]
+  }
+}

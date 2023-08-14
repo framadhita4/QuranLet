@@ -1,0 +1,86 @@
+{
+  "id": 5361,
+  "chapter_id": 69,
+  "verse_key": "69:38",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 39803,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_038_001.mp3",
+      "text": "فَلَآ",
+      "translation": "maka",
+      "transliteration": "falā"
+    },
+    {
+      "id": 39804,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_038_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "Aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 39805,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_038_003.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 39806,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_038_004.mp3",
+      "text": "تُبْصِرُونَ",
+      "translation": "kamu lihat",
+      "transliteration": "tub'ṣirūna"
+    },
+    {
+      "id": 39807,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Aku bersumpah dengan apa yang kamu lihat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 290390,
+    "timestamp_to": 297550,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        290305,
+        292795
+      ],
+      [
+        2,
+        292795,
+        293655
+      ],
+      [
+        3,
+        293655,
+        294255
+      ],
+      [
+        4,
+        294255,
+        297410
+      ]
+    ]
+  }
+}

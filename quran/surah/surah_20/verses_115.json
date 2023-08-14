@@ -1,0 +1,177 @@
+{
+  "id": 2463,
+  "chapter_id": 20,
+  "verse_key": "20:115",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "page_number": 320,
+  "juz_number": 16,
+  "text_uthmani": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 75315,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 75316,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_002.mp3",
+      "text": "عَهِدْنَآ",
+      "translation": "telah Kami janjikan/perintahkan",
+      "transliteration": "ʿahid'nā"
+    },
+    {
+      "id": 75317,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_003.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 75318,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_004.mp3",
+      "text": "ءَادَمَ",
+      "translation": "Adam",
+      "transliteration": "ādama"
+    },
+    {
+      "id": 75319,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 75320,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_006.mp3",
+      "text": "قَبْلُ",
+      "translation": "sebelum/dahulu",
+      "transliteration": "qablu"
+    },
+    {
+      "id": 75321,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_007.mp3",
+      "text": "فَنَسِىَ",
+      "translation": "maka dia lupa",
+      "transliteration": "fanasiya"
+    },
+    {
+      "id": 75322,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_008.mp3",
+      "text": "وَلَمْ",
+      "translation": "dan tidak",
+      "transliteration": "walam"
+    },
+    {
+      "id": 75323,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_009.mp3",
+      "text": "نَجِدْ",
+      "translation": "Kami dapati",
+      "transliteration": "najid"
+    },
+    {
+      "id": 75324,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_010.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya/padanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 75325,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_115_011.mp3",
+      "text": "عَزْمًۭا",
+      "translation": "kemauan yang kuat",
+      "transliteration": "ʿazman"
+    },
+    {
+      "id": 75326,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١١٥",
+      "translation": "(115)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami perintahkan <sup foot_note_id=\"947\">1</sup> kepada Adam dahulu, maka ia lupa (akan perintah itu) dan tidak Kami dapati padanya kemauan yang kuat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1328300,
+    "timestamp_to": 1339720,
+    "duration": 11420,
+    "segments": [
+      [
+        1,
+        1328235,
+        1329025
+      ],
+      [
+        2,
+        1329025,
+        1331475
+      ],
+      [
+        3,
+        1331475,
+        1333255
+      ],
+      [
+        4,
+        1333255,
+        1334065
+      ],
+      [
+        5,
+        1334065,
+        1335075
+      ],
+      [
+        6,
+        1335075,
+        1335635
+      ],
+      [
+        7,
+        1335635,
+        1336575
+      ],
+      [
+        8,
+        1336575,
+        1337045
+      ],
+      [
+        9,
+        1337045,
+        1337755
+      ],
+      [
+        10,
+        1337755,
+        1338315
+      ],
+      [
+        11,
+        1338315,
+        1339600
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5837,
+  "chapter_id": 82,
+  "verse_key": "82:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 9226,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_008_001.mp3",
+      "text": "فِىٓ",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 9227,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_008_002.mp3",
+      "text": "أَىِّ",
+      "translation": "apa saja",
+      "transliteration": "ayyi"
+    },
+    {
+      "id": 9228,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_008_003.mp3",
+      "text": "صُورَةٍۢ",
+      "translation": "gambar/bentuk",
+      "transliteration": "ṣūratin"
+    },
+    {
+      "id": 9229,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_008_004.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 9230,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_008_005.mp3",
+      "text": "شَآءَ",
+      "translation": "yang Dia kehendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 9231,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_008_006.mp3",
+      "text": "رَكَّبَكَ",
+      "translation": "Dia menyusunmu",
+      "transliteration": "rakkabaka"
+    },
+    {
+      "id": 9232,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dalam bentuk apa saja yang Dia kehendaki, Dia menyusun tubuhmu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 35370,
+    "timestamp_to": 42840,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        35245,
+        36825
+      ],
+      [
+        2,
+        36825,
+        37425
+      ],
+      [
+        3,
+        37425,
+        38375
+      ],
+      [
+        4,
+        38375,
+        39345
+      ],
+      [
+        5,
+        39345,
+        40825
+      ],
+      [
+        6,
+        40825,
+        42360
+      ]
+    ]
+  }
+}

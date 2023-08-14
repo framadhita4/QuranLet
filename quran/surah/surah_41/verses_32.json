@@ -1,0 +1,86 @@
+{
+  "id": 4250,
+  "chapter_id": 41,
+  "verse_key": "41:32",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "ruku_number": 418,
+  "manzil_number": 6,
+  "page_number": 480,
+  "juz_number": 24,
+  "text_uthmani": "نُزُلًا مِّنْ غَفُورٍ رَّحِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 34365,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_032_001.mp3",
+      "text": "نُزُلًۭا",
+      "translation": "pemberian",
+      "transliteration": "nuzulan"
+    },
+    {
+      "id": 34366,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_032_002.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 34367,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_032_003.mp3",
+      "text": "غَفُورٍۢ",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūrin"
+    },
+    {
+      "id": 34368,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_032_004.mp3",
+      "text": "رَّحِيمٍۢ",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīmin"
+    },
+    {
+      "id": 34369,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebagai hidangan (bagimu) dari Tuhan Yang Maha Pengampun lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 634090,
+    "timestamp_to": 641140,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        634065,
+        634945
+      ],
+      [
+        2,
+        634945,
+        636195
+      ],
+      [
+        3,
+        636195,
+        637285
+      ],
+      [
+        4,
+        637285,
+        641090
+      ]
+    ]
+  }
+}

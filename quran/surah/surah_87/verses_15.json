@@ -1,0 +1,86 @@
+{
+  "id": 5963,
+  "chapter_id": 87,
+  "verse_key": "87:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 17611,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_015_001.mp3",
+      "text": "وَذَكَرَ",
+      "translation": "dan dia mengingat",
+      "transliteration": "wadhakara"
+    },
+    {
+      "id": 17612,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_015_002.mp3",
+      "text": "ٱسْمَ",
+      "translation": "nama",
+      "transliteration": "is'ma"
+    },
+    {
+      "id": 17613,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_015_003.mp3",
+      "text": "رَبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 17614,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_015_004.mp3",
+      "text": "فَصَلَّىٰ",
+      "translation": "dan dia mendirikan sholat",
+      "transliteration": "faṣallā"
+    },
+    {
+      "id": 17615,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dia ingat nama Tuhan-nya, lalu dia salat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71070,
+    "timestamp_to": 75220,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        70575,
+        71365
+      ],
+      [
+        2,
+        71365,
+        71865
+      ],
+      [
+        3,
+        71865,
+        72965
+      ],
+      [
+        4,
+        72965,
+        74210
+      ]
+    ]
+  }
+}

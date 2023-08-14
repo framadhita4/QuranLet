@@ -1,0 +1,151 @@
+{
+  "id": 5253,
+  "chapter_id": 67,
+  "verse_key": "67:12",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "ruku_number": 498,
+  "manzil_number": 7,
+  "page_number": 562,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/67.mp3",
+  "words": [
+    {
+      "id": 13922,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 13923,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 13924,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_003.mp3",
+      "text": "يَخْشَوْنَ",
+      "translation": "mereka takut",
+      "transliteration": "yakhshawna"
+    },
+    {
+      "id": 13925,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_004.mp3",
+      "text": "رَبَّهُم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbahum"
+    },
+    {
+      "id": 13926,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_005.mp3",
+      "text": "بِٱلْغَيْبِ",
+      "translation": "dengan gaib/tidak kelihatan",
+      "transliteration": "bil-ghaybi"
+    },
+    {
+      "id": 13927,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_006.mp3",
+      "text": "لَهُم",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 13928,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_007.mp3",
+      "text": "مَّغْفِرَةٌۭ",
+      "translation": "ampunan",
+      "transliteration": "maghfiratun"
+    },
+    {
+      "id": 13929,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_008.mp3",
+      "text": "وَأَجْرٌۭ",
+      "translation": "dan pahala",
+      "transliteration": "wa-ajrun"
+    },
+    {
+      "id": 13930,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_012_009.mp3",
+      "text": "كَبِيرٌۭ",
+      "translation": "besar",
+      "transliteration": "kabīrun"
+    },
+    {
+      "id": 13931,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang takut kepada Tuhan-nya yang tidak nampak oleh mereka, mereka akan memperoleh ampunan dan pahala yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 159020,
+    "timestamp_to": 173100,
+    "duration": 14080,
+    "segments": [
+      [
+        1,
+        158955,
+        160185
+      ],
+      [
+        2,
+        160185,
+        161165
+      ],
+      [
+        3,
+        161165,
+        162265
+      ],
+      [
+        4,
+        162265,
+        163985
+      ],
+      [
+        5,
+        163985,
+        164935
+      ],
+      [
+        6,
+        164935,
+        165575
+      ],
+      [
+        7,
+        165575,
+        168135
+      ],
+      [
+        8,
+        168135,
+        169985
+      ],
+      [
+        9,
+        169985,
+        172960
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5544,
+  "chapter_id": 74,
+  "verse_key": "74:49",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 47947,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_049_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka mengapa",
+      "transliteration": "famā"
+    },
+    {
+      "id": 47948,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_049_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 47949,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_049_003.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 47950,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_049_004.mp3",
+      "text": "ٱلتَّذْكِرَةِ",
+      "translation": "peringatan",
+      "transliteration": "l-tadhkirati"
+    },
+    {
+      "id": 47951,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_049_005.mp3",
+      "text": "مُعْرِضِينَ",
+      "translation": "orang-orang yang berpaling",
+      "transliteration": "muʿ'riḍīna"
+    },
+    {
+      "id": 47952,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mengapa mereka (orang-orang kafir) berpaling dari peringatan (Allah)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 265460,
+    "timestamp_to": 271440,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        265385,
+        265995
+      ],
+      [
+        2,
+        265995,
+        266525
+      ],
+      [
+        3,
+        266525,
+        266915
+      ],
+      [
+        4,
+        266915,
+        268185
+      ],
+      [
+        5,
+        268185,
+        271290
+      ]
+    ]
+  }
+}

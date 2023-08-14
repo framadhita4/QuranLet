@@ -1,0 +1,125 @@
+{
+  "id": 4403,
+  "chapter_id": 43,
+  "verse_key": "43:78",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "لَقَدْ جِئْنَـٰكُم بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَـٰرِهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 63267,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_001.mp3",
+      "text": "لَقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 63268,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_002.mp3",
+      "text": "جِئْنَـٰكُم",
+      "translation": "Kami datang kepadamu",
+      "transliteration": "ji'nākum"
+    },
+    {
+      "id": 63269,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 63270,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_004.mp3",
+      "text": "وَلَـٰكِنَّ",
+      "translation": "tetapi",
+      "transliteration": "walākinna"
+    },
+    {
+      "id": 63271,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_005.mp3",
+      "text": "أَكْثَرَكُمْ",
+      "translation": "kebanyakan kamu",
+      "transliteration": "aktharakum"
+    },
+    {
+      "id": 63272,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_006.mp3",
+      "text": "لِلْحَقِّ",
+      "translation": "pada kebenaran",
+      "transliteration": "lil'ḥaqqi"
+    },
+    {
+      "id": 63273,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_078_007.mp3",
+      "text": "كَـٰرِهُونَ",
+      "translation": "benci",
+      "transliteration": "kārihūna"
+    },
+    {
+      "id": 63274,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami benar-benar telah memhawa kebenaran kepada kamu, tetapi kebanyakan di antara kamu benci pada kebenaran itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1072730,
+    "timestamp_to": 1083440,
+    "duration": 10710,
+    "segments": [
+      [
+        1,
+        1072665,
+        1073355
+      ],
+      [
+        2,
+        1073355,
+        1074725
+      ],
+      [
+        3,
+        1074725,
+        1076035
+      ],
+      [
+        4,
+        1076035,
+        1078145
+      ],
+      [
+        5,
+        1078145,
+        1079375
+      ],
+      [
+        6,
+        1079375,
+        1080455
+      ],
+      [
+        7,
+        1080455,
+        1083320
+      ]
+    ]
+  }
+}

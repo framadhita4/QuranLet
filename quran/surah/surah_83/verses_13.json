@@ -1,0 +1,125 @@
+{
+  "id": 5861,
+  "chapter_id": 83,
+  "verse_key": "83:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 15383,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 15384,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_002.mp3",
+      "text": "تُتْلَىٰ",
+      "translation": "dibacakan",
+      "transliteration": "tut'lā"
+    },
+    {
+      "id": 15385,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_003.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya/kepadanya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 15386,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_004.mp3",
+      "text": "ءَايَـٰتُنَا",
+      "translation": "ayat-ayat Kami",
+      "transliteration": "āyātunā"
+    },
+    {
+      "id": 15387,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_005.mp3",
+      "text": "قَالَ",
+      "translation": "ia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 15388,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_006.mp3",
+      "text": "أَسَـٰطِيرُ",
+      "translation": "dongen-dongen",
+      "transliteration": "asāṭīru"
+    },
+    {
+      "id": 15389,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_013_007.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang dahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 15390,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang apabila dibacakan kepadanya ayat-ayat Kami, ia berkata, \"Itu adalah dongengan orang-orang yang dahulu\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87720,
+    "timestamp_to": 97390,
+    "duration": 9670,
+    "segments": [
+      [
+        1,
+        87655,
+        88395
+      ],
+      [
+        2,
+        88395,
+        89205
+      ],
+      [
+        3,
+        89205,
+        90055
+      ],
+      [
+        4,
+        90055,
+        91485
+      ],
+      [
+        5,
+        91485,
+        92205
+      ],
+      [
+        6,
+        92205,
+        93395
+      ],
+      [
+        7,
+        93395,
+        97260
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3971,
+  "chapter_id": 38,
+  "verse_key": "38:1",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 393,
+  "manzil_number": 6,
+  "page_number": 453,
+  "juz_number": 23,
+  "text_uthmani": " صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 903,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_001_001.mp3",
+      "text": "صٓ ۚ",
+      "translation": "shad",
+      "transliteration": "sad"
+    },
+    {
+      "id": 905,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_001_003.mp3",
+      "text": "وَٱلْقُرْءَانِ",
+      "translation": "demi Al Quran",
+      "transliteration": "wal-qur'āni"
+    },
+    {
+      "id": 906,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_001_004.mp3",
+      "text": "ذِى",
+      "translation": "mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 907,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_001_005.mp3",
+      "text": "ٱلذِّكْرِ",
+      "translation": "peringatan",
+      "transliteration": "l-dhik'ri"
+    },
+    {
+      "id": 908,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ṣād, demi Al-Qur`ān yang mempunyai keagungan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 7940,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        0,
+        4940
+      ],
+      [
+        2,
+        4940,
+        6300
+      ],
+      [
+        3,
+        6300,
+        6410
+      ],
+      [
+        4,
+        6410,
+        7915
+      ]
+    ]
+  }
+}

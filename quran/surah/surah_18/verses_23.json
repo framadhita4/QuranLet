@@ -1,0 +1,125 @@
+{
+  "id": 2163,
+  "chapter_id": 18,
+  "verse_key": "18:23",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "ruku_number": 255,
+  "manzil_number": 4,
+  "page_number": 296,
+  "juz_number": 15,
+  "text_uthmani": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 25631,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 25632,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_002.mp3",
+      "text": "تَقُولَنَّ",
+      "translation": "kamu mengatakan",
+      "transliteration": "taqūlanna"
+    },
+    {
+      "id": 25633,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_003.mp3",
+      "text": "لِشَا۟ىْءٍ",
+      "translation": "kepada sesuatu",
+      "transliteration": "lishāy'in"
+    },
+    {
+      "id": 25634,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_004.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 25635,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_005.mp3",
+      "text": "فَاعِلٌۭ",
+      "translation": "mengerjakan",
+      "transliteration": "fāʿilun"
+    },
+    {
+      "id": 25636,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_006.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 25637,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_023_007.mp3",
+      "text": "غَدًا",
+      "translation": "besok",
+      "transliteration": "ghadan"
+    },
+    {
+      "id": 25638,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jangan sekali-kali kamu mengatakan terhadap sesuatu, \"Sesungguhnya aku akan mengerjakan itu besok pagi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 449950,
+    "timestamp_to": 458990,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        449855,
+        450895
+      ],
+      [
+        2,
+        450895,
+        452735
+      ],
+      [
+        3,
+        452735,
+        453845
+      ],
+      [
+        4,
+        453845,
+        455325
+      ],
+      [
+        5,
+        455325,
+        456315
+      ],
+      [
+        6,
+        456315,
+        457705
+      ],
+      [
+        7,
+        457705,
+        458550
+      ]
+    ]
+  }
+}

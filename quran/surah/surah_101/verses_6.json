@@ -1,0 +1,86 @@
+{
+  "id": 6163,
+  "chapter_id": 101,
+  "verse_key": "101:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 6037,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_006_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 6038,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_006_002.mp3",
+      "text": "مَن",
+      "translation": "siapa/orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 6039,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_006_003.mp3",
+      "text": "ثَقُلَتْ",
+      "translation": "berat",
+      "transliteration": "thaqulat"
+    },
+    {
+      "id": 6040,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_006_004.mp3",
+      "text": "مَوَٰزِينُهُۥ",
+      "translation": "timbangannya",
+      "transliteration": "mawāzīnuhu"
+    },
+    {
+      "id": 6041,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan adapun orang-orang yang berat timbangan (kebaikan)nya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 25590,
+    "timestamp_to": 31310,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        25525,
+        27525
+      ],
+      [
+        2,
+        27525,
+        28495
+      ],
+      [
+        3,
+        28495,
+        29425
+      ],
+      [
+        4,
+        29425,
+        31180
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2739,
+  "chapter_id": 23,
+  "verse_key": "23:66",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 346,
+  "juz_number": 18,
+  "text_uthmani": "قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 57712,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_001.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "qad"
+    },
+    {
+      "id": 57713,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_002.mp3",
+      "text": "كَانَتْ",
+      "translation": "adalah",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 57714,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_003.mp3",
+      "text": "ءَايَـٰتِى",
+      "translation": "ayat-ayat-Ku",
+      "transliteration": "āyātī"
+    },
+    {
+      "id": 57715,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_004.mp3",
+      "text": "تُتْلَىٰ",
+      "translation": "dibacakan",
+      "transliteration": "tut'lā"
+    },
+    {
+      "id": 57716,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_005.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 57717,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_006.mp3",
+      "text": "فَكُنتُمْ",
+      "translation": "maka kamu adalah",
+      "transliteration": "fakuntum"
+    },
+    {
+      "id": 57718,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_007.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 57719,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_008.mp3",
+      "text": "أَعْقَـٰبِكُمْ",
+      "translation": "tumitmu/kebelakang",
+      "transliteration": "aʿqābikum"
+    },
+    {
+      "id": 57720,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_066_009.mp3",
+      "text": "تَنكِصُونَ",
+      "translation": "kamu surut/berpaling",
+      "transliteration": "tankiṣūna"
+    },
+    {
+      "id": 57721,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ayat-ayat-Ku (Al-Qur`ān) selalu dibacakan kepada kamu sekalian, maka kamu selalu berpaling ke belakang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 844670,
+    "timestamp_to": 857940,
+    "duration": 13270,
+    "segments": [
+      [
+        1,
+        844625,
+        845125
+      ],
+      [
+        2,
+        845125,
+        845965
+      ],
+      [
+        3,
+        845965,
+        847215
+      ],
+      [
+        4,
+        847215,
+        848075
+      ],
+      [
+        5,
+        848075,
+        849055
+      ],
+      [
+        6,
+        849055,
+        850785
+      ],
+      [
+        7,
+        850785,
+        852635
+      ],
+      [
+        8,
+        852635,
+        854075
+      ],
+      [
+        9,
+        854075,
+        857840
+      ]
+    ]
+  }
+}

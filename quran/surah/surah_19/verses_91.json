@@ -1,0 +1,86 @@
+{
+  "id": 2341,
+  "chapter_id": 19,
+  "verse_key": "19:91",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ وَلَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 68587,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_091_001.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 68588,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_091_002.mp3",
+      "text": "دَعَوْا۟",
+      "translation": "mereka mendakwakan",
+      "transliteration": "daʿaw"
+    },
+    {
+      "id": 68589,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_091_003.mp3",
+      "text": "لِلرَّحْمَـٰنِ",
+      "translation": "bagi/terhadap Yang Maha Pengasih",
+      "transliteration": "lilrraḥmāni"
+    },
+    {
+      "id": 68590,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_091_004.mp3",
+      "text": "وَلَدًۭا",
+      "translation": "seorang anak",
+      "transliteration": "waladan"
+    },
+    {
+      "id": 68591,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩١",
+      "translation": "(91)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena mereka mendakwakan Allah Yang Maha Pemurah mempunyai anak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1197860,
+    "timestamp_to": 1202690,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        1197525,
+        1198505
+      ],
+      [
+        2,
+        1198505,
+        1199465
+      ],
+      [
+        3,
+        1199465,
+        1201075
+      ],
+      [
+        4,
+        1201075,
+        1202130
+      ]
+    ]
+  }
+}

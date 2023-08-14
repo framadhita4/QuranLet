@@ -1,0 +1,177 @@
+{
+  "id": 2485,
+  "chapter_id": 21,
+  "verse_key": "21:2",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 278,
+  "manzil_number": 4,
+  "page_number": 322,
+  "juz_number": 17,
+  "text_uthmani": "مَا يَأْتِيهِم مِّن ذِكْرٍ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 1225,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1226,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_002.mp3",
+      "text": "يَأْتِيهِم",
+      "translation": "datang kepada mereka",
+      "transliteration": "yatīhim"
+    },
+    {
+      "id": 1227,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 1228,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_004.mp3",
+      "text": "ذِكْرٍۢ",
+      "translation": "peringatan/ayat",
+      "transliteration": "dhik'rin"
+    },
+    {
+      "id": 1229,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_005.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 1230,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_006.mp3",
+      "text": "رَّبِّهِم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 1231,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_007.mp3",
+      "text": "مُّحْدَثٍ",
+      "translation": "yang baru",
+      "transliteration": "muḥ'dathin"
+    },
+    {
+      "id": 1232,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_008.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 1233,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_009.mp3",
+      "text": "ٱسْتَمَعُوهُ",
+      "translation": "mereka mendengarkannya",
+      "transliteration": "is'tamaʿūhu"
+    },
+    {
+      "id": 1234,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_010.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 1235,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_002_011.mp3",
+      "text": "يَلْعَبُونَ",
+      "translation": "mereka mempermain-mainkan",
+      "transliteration": "yalʿabūna"
+    },
+    {
+      "id": 1236,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak datang kepada mereka suatu ayat Al-Qur`ān pun yang baru (di-turunkan) dari Tuhan mereka, melainkan mereka mendengarnya, sedang mereka bermain-main,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10160,
+    "timestamp_to": 23220,
+    "duration": 13060,
+    "segments": [
+      [
+        1,
+        10135,
+        10715
+      ],
+      [
+        2,
+        10715,
+        11775
+      ],
+      [
+        3,
+        11775,
+        13265
+      ],
+      [
+        4,
+        13265,
+        14405
+      ],
+      [
+        5,
+        14405,
+        15175
+      ],
+      [
+        6,
+        15175,
+        16415
+      ],
+      [
+        7,
+        16415,
+        18015
+      ],
+      [
+        8,
+        18015,
+        18505
+      ],
+      [
+        9,
+        18505,
+        19875
+      ],
+      [
+        10,
+        19875,
+        20435
+      ],
+      [
+        11,
+        20435,
+        23170
+      ]
+    ]
+  }
+}

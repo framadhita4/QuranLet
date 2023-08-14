@@ -1,0 +1,73 @@
+{
+  "id": 2683,
+  "chapter_id": 23,
+  "verse_key": "23:10",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 11531,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_010_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 11532,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_010_002.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 11533,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_010_003.mp3",
+      "text": "ٱلْوَٰرِثُونَ",
+      "translation": "orang-orang yang mewarisi",
+      "transliteration": "l-wārithūna"
+    },
+    {
+      "id": 11534,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka itulah orang-orang yang akan mewarisi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80160,
+    "timestamp_to": 87240,
+    "duration": 7080,
+    "segments": [
+      [
+        1,
+        80105,
+        83064
+      ],
+      [
+        2,
+        83065,
+        83385
+      ],
+      [
+        3,
+        83385,
+        87140
+      ]
+    ]
+  }
+}

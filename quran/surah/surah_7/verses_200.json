@@ -1,0 +1,164 @@
+{
+  "id": 1154,
+  "chapter_id": 7,
+  "verse_key": "7:200",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "page_number": 176,
+  "juz_number": 9,
+  "text_uthmani": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَـٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ ۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 85301,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_001.mp3",
+      "text": "وَإِمَّا",
+      "translation": "dan jika",
+      "transliteration": "wa-immā"
+    },
+    {
+      "id": 85302,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_002.mp3",
+      "text": "يَنزَغَنَّكَ",
+      "translation": "menipu/menggodamu",
+      "transliteration": "yanzaghannaka"
+    },
+    {
+      "id": 85303,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 85304,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_004.mp3",
+      "text": "ٱلشَّيْطَـٰنِ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāni"
+    },
+    {
+      "id": 85305,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_005.mp3",
+      "text": "نَزْغٌۭ",
+      "translation": "tipuan/godaan",
+      "transliteration": "nazghun"
+    },
+    {
+      "id": 85306,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_006.mp3",
+      "text": "فَٱسْتَعِذْ",
+      "translation": "maka berlindunglah",
+      "transliteration": "fa-is'taʿidh"
+    },
+    {
+      "id": 85307,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_007.mp3",
+      "text": "بِٱللَّهِ ۚ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 85309,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_009.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 85310,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_010.mp3",
+      "text": "سَمِيعٌ",
+      "translation": "Maha Mendengar",
+      "transliteration": "samīʿun"
+    },
+    {
+      "id": 85311,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_200_011.mp3",
+      "text": "عَلِيمٌ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 85312,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٠٠",
+      "translation": "(200)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika kamu ditimpa sesuatu godaan setan maka berlindunglah kepada Allah<sup foot_note_id=\"590\">1</sup>. Sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4662220,
+    "timestamp_to": 4681630,
+    "duration": 19410,
+    "segments": [
+      [
+        1,
+        4662195,
+        4664015
+      ],
+      [
+        2,
+        4664015,
+        4667525
+      ],
+      [
+        3,
+        4667525,
+        4667875
+      ],
+      [
+        4,
+        4667875,
+        4669375
+      ],
+      [
+        5,
+        4669375,
+        4670995
+      ],
+      [
+        6,
+        4670995,
+        4672015
+      ],
+      [
+        7,
+        4672015,
+        4675595
+      ],
+      [
+        8,
+        4675595,
+        4677524
+      ],
+      [
+        9,
+        4677525,
+        4678565
+      ],
+      [
+        10,
+        4678565,
+        4681580
+      ]
+    ]
+  }
+}

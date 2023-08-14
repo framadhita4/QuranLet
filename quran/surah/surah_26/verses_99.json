@@ -1,0 +1,86 @@
+{
+  "id": 3031,
+  "chapter_id": 26,
+  "verse_key": "26:99",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 70976,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_099_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 70977,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_099_002.mp3",
+      "text": "أَضَلَّنَآ",
+      "translation": "menyesatkan kita",
+      "transliteration": "aḍallanā"
+    },
+    {
+      "id": 70978,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_099_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 70979,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_099_004.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdusta",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 70980,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tiadalah yang menyesatkan kami, kecuali orang-orang yang berdosa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 919140,
+    "timestamp_to": 927660,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        919075,
+        920935
+      ],
+      [
+        2,
+        920935,
+        923345
+      ],
+      [
+        3,
+        923345,
+        923975
+      ],
+      [
+        4,
+        923975,
+        927570
+      ]
+    ]
+  }
+}

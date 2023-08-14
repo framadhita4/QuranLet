@@ -1,0 +1,86 @@
+{
+  "id": 5692,
+  "chapter_id": 78,
+  "verse_key": "78:20",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 22905,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_001.mp3",
+      "text": "وَسُيِّرَتِ",
+      "translation": "dan dijalankan/dihapuskan",
+      "transliteration": "wasuyyirati"
+    },
+    {
+      "id": 22906,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 22907,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_003.mp3",
+      "text": "فَكَانَتْ",
+      "translation": "maka jadilah ia",
+      "transliteration": "fakānat"
+    },
+    {
+      "id": 22908,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_004.mp3",
+      "text": "سَرَابًا",
+      "translation": "fatamorgana",
+      "transliteration": "sarāban"
+    },
+    {
+      "id": 22909,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dijalankanlah gunung-gunung maka menjadi fatamorganalah ia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 103830,
+    "timestamp_to": 109630,
+    "duration": 5800,
+    "segments": [
+      [
+        1,
+        103725,
+        105195
+      ],
+      [
+        2,
+        105195,
+        106475
+      ],
+      [
+        3,
+        106475,
+        107625
+      ],
+      [
+        4,
+        107625,
+        109450
+      ]
+    ]
+  }
+}

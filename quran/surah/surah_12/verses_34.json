@@ -1,0 +1,164 @@
+{
+  "id": 1630,
+  "chapter_id": 12,
+  "verse_key": "12:34",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "ruku_number": 196,
+  "manzil_number": 3,
+  "page_number": 239,
+  "juz_number": 12,
+  "text_uthmani": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 36605,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_001.mp3",
+      "text": "فَٱسْتَجَابَ",
+      "translation": "maka memperkenankan doa",
+      "transliteration": "fa-is'tajāba"
+    },
+    {
+      "id": 36606,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya (Yusuf)",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 36607,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_003.mp3",
+      "text": "رَبُّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbuhu"
+    },
+    {
+      "id": 36608,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_004.mp3",
+      "text": "فَصَرَفَ",
+      "translation": "maka Dia palingkan",
+      "transliteration": "faṣarafa"
+    },
+    {
+      "id": 36609,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_005.mp3",
+      "text": "عَنْهُ",
+      "translation": "daripadanya (Yusuf)",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 36610,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_006.mp3",
+      "text": "كَيْدَهُنَّ ۚ",
+      "translation": "tipu daya mereka",
+      "transliteration": "kaydahunna"
+    },
+    {
+      "id": 36612,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_008.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 36613,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_009.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 36614,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_010.mp3",
+      "text": "ٱلسَّمِيعُ",
+      "translation": "Maha Mendengar",
+      "transliteration": "l-samīʿu"
+    },
+    {
+      "id": 36615,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_034_011.mp3",
+      "text": "ٱلْعَلِيمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-ʿalīmu"
+    },
+    {
+      "id": 36616,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Tuhan-nya memperkenankan doa Yūsuf dan Dia menghindarkan Yūsuf dari tipu daya mereka.  Sesungguhnya Dia-lah Yang Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 743750,
+    "timestamp_to": 758140,
+    "duration": 14390,
+    "segments": [
+      [
+        1,
+        743695,
+        744875
+      ],
+      [
+        2,
+        744875,
+        745715
+      ],
+      [
+        3,
+        745715,
+        746725
+      ],
+      [
+        4,
+        746725,
+        747665
+      ],
+      [
+        5,
+        747665,
+        748325
+      ],
+      [
+        6,
+        748325,
+        750665
+      ],
+      [
+        7,
+        750665,
+        752915
+      ],
+      [
+        8,
+        752915,
+        753295
+      ],
+      [
+        9,
+        753295,
+        754415
+      ],
+      [
+        10,
+        754415,
+        758050
+      ]
+    ]
+  }
+}

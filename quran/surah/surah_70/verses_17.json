@@ -1,0 +1,86 @@
+{
+  "id": 5392,
+  "chapter_id": 70,
+  "verse_key": "70:17",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 19511,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_001.mp3",
+      "text": "تَدْعُوا۟",
+      "translation": "ia memanggil",
+      "transliteration": "tadʿū"
+    },
+    {
+      "id": 19512,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_002.mp3",
+      "text": "مَنْ",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 19513,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_003.mp3",
+      "text": "أَدْبَرَ",
+      "translation": "dia membelakang",
+      "transliteration": "adbara"
+    },
+    {
+      "id": 19514,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_004.mp3",
+      "text": "وَتَوَلَّىٰ",
+      "translation": "dan dia berpaling",
+      "transliteration": "watawallā"
+    },
+    {
+      "id": 19515,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang memanggil orang yang membelakang dan yang berpaling (dari agama).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 94080,
+    "timestamp_to": 97870,
+    "duration": 3790,
+    "segments": [
+      [
+        1,
+        93515,
+        94365
+      ],
+      [
+        2,
+        94365,
+        94755
+      ],
+      [
+        3,
+        94755,
+        95645
+      ],
+      [
+        4,
+        95645,
+        96990
+      ]
+    ]
+  }
+}

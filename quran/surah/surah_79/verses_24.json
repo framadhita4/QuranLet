@@ -1,0 +1,86 @@
+{
+  "id": 5736,
+  "chapter_id": 79,
+  "verse_key": "79:24",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 27117,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_024_001.mp3",
+      "text": "فَقَالَ",
+      "translation": "maka dia berkata",
+      "transliteration": "faqāla"
+    },
+    {
+      "id": 27118,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_024_002.mp3",
+      "text": "أَنَا۠",
+      "translation": "aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 27119,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_024_003.mp3",
+      "text": "رَبُّكُمُ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbukumu"
+    },
+    {
+      "id": 27120,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_024_004.mp3",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation": "paling tinggi",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 27121,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Seraya) berkata, \"Akulah tuhanmu yang paling tinggi\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101810,
+    "timestamp_to": 105700,
+    "duration": 3890,
+    "segments": [
+      [
+        1,
+        101335,
+        102205
+      ],
+      [
+        2,
+        102205,
+        102535
+      ],
+      [
+        3,
+        102535,
+        103515
+      ],
+      [
+        4,
+        103515,
+        104820
+      ]
+    ]
+  }
+}

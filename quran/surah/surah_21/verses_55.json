@@ -1,0 +1,125 @@
+{
+  "id": 2538,
+  "chapter_id": 21,
+  "verse_key": "21:55",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّـٰعِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 51708,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 51709,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_002.mp3",
+      "text": "أَجِئْتَنَا",
+      "translation": "apakah kamu datang kepada kami",
+      "transliteration": "aji'tanā"
+    },
+    {
+      "id": 51710,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan benar/sungguh-sungguh",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 51711,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_004.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah",
+      "transliteration": "am"
+    },
+    {
+      "id": 51712,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_005.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 51713,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 51714,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_055_007.mp3",
+      "text": "ٱللَّـٰعِبِينَ",
+      "translation": "orang yang bermain-main",
+      "transliteration": "l-lāʿibīna"
+    },
+    {
+      "id": 51715,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Apakah kamu datang kepada kami dengan sungguh-sungguh ataukah kamu termasuk orang-orang yang bermain-main <sup foot_note_id=\"961\">1</sup>?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 776050,
+    "timestamp_to": 785250,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        776005,
+        777915
+      ],
+      [
+        2,
+        777915,
+        779105
+      ],
+      [
+        3,
+        779105,
+        780105
+      ],
+      [
+        4,
+        780105,
+        780405
+      ],
+      [
+        5,
+        780405,
+        781925
+      ],
+      [
+        6,
+        781925,
+        782235
+      ],
+      [
+        7,
+        782235,
+        785150
+      ]
+    ]
+  }
+}

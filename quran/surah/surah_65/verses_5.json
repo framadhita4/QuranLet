@@ -1,0 +1,216 @@
+{
+  "id": 5222,
+  "chapter_id": 65,
+  "verse_key": "65:5",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "ruku_number": 494,
+  "manzil_number": 7,
+  "page_number": 558,
+  "juz_number": 28,
+  "text_uthmani": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/65.mp3",
+  "words": [
+    {
+      "id": 5132,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 5133,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_002.mp3",
+      "text": "أَمْرُ",
+      "translation": "perintah",
+      "transliteration": "amru"
+    },
+    {
+      "id": 5134,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 5135,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_004.mp3",
+      "text": "أَنزَلَهُۥٓ",
+      "translation": "Dia diturunkannya",
+      "transliteration": "anzalahu"
+    },
+    {
+      "id": 5136,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_005.mp3",
+      "text": "إِلَيْكُمْ ۚ",
+      "translation": "kepada kamu",
+      "transliteration": "ilaykum"
+    },
+    {
+      "id": 5138,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_007.mp3",
+      "text": "وَمَن",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 5139,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_008.mp3",
+      "text": "يَتَّقِ",
+      "translation": "bertakwa",
+      "transliteration": "yattaqi"
+    },
+    {
+      "id": 5140,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_009.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 5141,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_010.mp3",
+      "text": "يُكَفِّرْ",
+      "translation": "Dia menutupi/menghapus",
+      "transliteration": "yukaffir"
+    },
+    {
+      "id": 5142,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_011.mp3",
+      "text": "عَنْهُ",
+      "translation": "dari padanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 5143,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_012.mp3",
+      "text": "سَيِّـَٔاتِهِۦ",
+      "translation": "kesalahan-kesalahannya",
+      "transliteration": "sayyiātihi"
+    },
+    {
+      "id": 5144,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_013.mp3",
+      "text": "وَيُعْظِمْ",
+      "translation": "dan Dia memperbesar",
+      "transliteration": "wayuʿ'ẓim"
+    },
+    {
+      "id": 5145,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_014.mp3",
+      "text": "لَهُۥٓ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 5146,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/065_005_015.mp3",
+      "text": "أَجْرًا",
+      "translation": "pahala",
+      "transliteration": "ajran"
+    },
+    {
+      "id": 5147,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah perintah Allah yang diturunkan-Nya kepada kamu, dan barang siapa yang bertakwa kepada Allah, niscaya Dia akan menghapus kesalahan-kesalahannya dan akan melipatgandakan pahala baginya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 137760,
+    "timestamp_to": 154560,
+    "duration": 16800,
+    "segments": [
+      [
+        1,
+        137665,
+        138455
+      ],
+      [
+        2,
+        138455,
+        138915
+      ],
+      [
+        3,
+        138915,
+        139745
+      ],
+      [
+        4,
+        139745,
+        142785
+      ],
+      [
+        5,
+        142785,
+        144245
+      ],
+      [
+        6,
+        144245,
+        144595
+      ],
+      [
+        5,
+        144595,
+        145775
+      ],
+      [
+        8,
+        145775,
+        147025
+      ],
+      [
+        9,
+        147025,
+        147895
+      ],
+      [
+        10,
+        147895,
+        148525
+      ],
+      [
+        11,
+        148525,
+        150135
+      ],
+      [
+        12,
+        150135,
+        151115
+      ],
+      [
+        13,
+        151115,
+        153045
+      ],
+      [
+        14,
+        153045,
+        154410
+      ]
+    ]
+  }
+}

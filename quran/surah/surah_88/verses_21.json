@@ -1,0 +1,86 @@
+{
+  "id": 5988,
+  "chapter_id": 88,
+  "verse_key": "88:21",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 23739,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_021_001.mp3",
+      "text": "فَذَكِّرْ",
+      "translation": "maka berilah peringatan",
+      "transliteration": "fadhakkir"
+    },
+    {
+      "id": 23740,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_021_002.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 23741,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_021_003.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 23742,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_021_004.mp3",
+      "text": "مُذَكِّرٌۭ",
+      "translation": "seorang pemberi peringatan",
+      "transliteration": "mudhakkirun"
+    },
+    {
+      "id": 23743,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka berilah peringatan, karena sesungguhnya kamu hanyalah orang yang memberi peringatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 88390,
+    "timestamp_to": 95080,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        88345,
+        89185
+      ],
+      [
+        2,
+        89185,
+        92365
+      ],
+      [
+        3,
+        92365,
+        93585
+      ],
+      [
+        4,
+        93585,
+        94960
+      ]
+    ]
+  }
+}

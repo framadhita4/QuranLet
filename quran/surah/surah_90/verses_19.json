@@ -1,0 +1,112 @@
+{
+  "id": 6042,
+  "chapter_id": 90,
+  "verse_key": "90:19",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 22064,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_019_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 22065,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_019_002.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 22066,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_019_003.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "dengan ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 22067,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_019_004.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 22068,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_019_005.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "golongan",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 22069,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_019_006.mp3",
+      "text": "ٱلْمَشْـَٔمَةِ",
+      "translation": "kiri",
+      "transliteration": "l-mashamati"
+    },
+    {
+      "id": 22070,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 93440,
+    "timestamp_to": 100680,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        93365,
+        94585
+      ],
+      [
+        2,
+        94585,
+        95485
+      ],
+      [
+        3,
+        95485,
+        97255
+      ],
+      [
+        4,
+        97255,
+        97695
+      ],
+      [
+        5,
+        97695,
+        98695
+      ],
+      [
+        6,
+        98695,
+        100540
+      ]
+    ]
+  }
+}

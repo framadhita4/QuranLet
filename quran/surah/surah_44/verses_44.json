@@ -1,0 +1,60 @@
+{
+  "id": 4458,
+  "chapter_id": 44,
+  "verse_key": "44:44",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "طَعَامُ ٱلْأَثِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 44292,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_044_001.mp3",
+      "text": "طَعَامُ",
+      "translation": "makanan",
+      "transliteration": "ṭaʿāmu"
+    },
+    {
+      "id": 44293,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_044_002.mp3",
+      "text": "ٱلْأَثِيمِ",
+      "translation": "orang yang berdosa",
+      "transliteration": "l-athīmi"
+    },
+    {
+      "id": 44294,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "makanan orang yang banyak berdosa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 445050,
+    "timestamp_to": 449670,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        445025,
+        445915
+      ],
+      [
+        2,
+        445915,
+        449620
+      ]
+    ]
+  }
+}

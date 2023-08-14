@@ -1,0 +1,99 @@
+{
+  "id": 1863,
+  "chapter_id": 15,
+  "verse_key": "15:61",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 55345,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_061_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 55346,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_061_002.mp3",
+      "text": "جَآءَ",
+      "translation": "datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 55347,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_061_003.mp3",
+      "text": "ءَالَ",
+      "translation": "keluarga",
+      "transliteration": "āla"
+    },
+    {
+      "id": 55348,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_061_004.mp3",
+      "text": "لُوطٍ",
+      "translation": "Luth",
+      "transliteration": "lūṭin"
+    },
+    {
+      "id": 55349,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_061_005.mp3",
+      "text": "ٱلْمُرْسَلُونَ",
+      "translation": "para utusan",
+      "transliteration": "l-mur'salūna"
+    },
+    {
+      "id": 55350,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tatkala para utusan itu datang kepada kaum Lūṭ beserta pengikut-pengikutnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 597660,
+    "timestamp_to": 605890,
+    "duration": 8230,
+    "segments": [
+      [
+        1,
+        597635,
+        599165
+      ],
+      [
+        2,
+        599165,
+        601195
+      ],
+      [
+        3,
+        601195,
+        601835
+      ],
+      [
+        4,
+        601835,
+        602685
+      ],
+      [
+        5,
+        602685,
+        605820
+      ]
+    ]
+  }
+}

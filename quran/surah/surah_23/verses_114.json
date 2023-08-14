@@ -1,0 +1,151 @@
+{
+  "id": 2787,
+  "chapter_id": 23,
+  "verse_key": "23:114",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 349,
+  "juz_number": 18,
+  "text_uthmani": "قَـٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 75185,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_001.mp3",
+      "text": "قَـٰلَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 75186,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_002.mp3",
+      "text": "إِن",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 75187,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_003.mp3",
+      "text": "لَّبِثْتُمْ",
+      "translation": "kamu tinggal",
+      "transliteration": "labith'tum"
+    },
+    {
+      "id": 75188,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_004.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 75189,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_005.mp3",
+      "text": "قَلِيلًۭا ۖ",
+      "translation": "sedikit/sebentar",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 75191,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_007.mp3",
+      "text": "لَّوْ",
+      "translation": "sekiranya",
+      "transliteration": "law"
+    },
+    {
+      "id": 75192,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_008.mp3",
+      "text": "أَنَّكُمْ",
+      "translation": "bahwasanya kamu",
+      "transliteration": "annakum"
+    },
+    {
+      "id": 75193,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_009.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 75194,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_114_010.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 75195,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١٤",
+      "translation": "(114)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Kamu tidak tinggal (di bumi), melainkan sebentar saja kalau kamu sesungguhnya mengetahui\" <sup foot_note_id=\"1027\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1419290,
+    "timestamp_to": 1430470,
+    "duration": 11180,
+    "segments": [
+      [
+        1,
+        1419265,
+        1419935
+      ],
+      [
+        2,
+        1419935,
+        1420145
+      ],
+      [
+        3,
+        1420145,
+        1421355
+      ],
+      [
+        4,
+        1421355,
+        1422195
+      ],
+      [
+        5,
+        1422195,
+        1423145
+      ],
+      [
+        6,
+        1423145,
+        1423725
+      ],
+      [
+        7,
+        1423725,
+        1425545
+      ],
+      [
+        8,
+        1425545,
+        1427355
+      ],
+      [
+        9,
+        1427355,
+        1430390
+      ]
+    ]
+  }
+}

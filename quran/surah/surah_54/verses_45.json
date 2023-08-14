@@ -1,0 +1,86 @@
+{
+  "id": 4891,
+  "chapter_id": 54,
+  "verse_key": "54:45",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 45132,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_045_001.mp3",
+      "text": "سَيُهْزَمُ",
+      "translation": "akan dihacurkan/dikalahkan",
+      "transliteration": "sayuh'zamu"
+    },
+    {
+      "id": 45133,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_045_002.mp3",
+      "text": "ٱلْجَمْعُ",
+      "translation": "semua/golongan",
+      "transliteration": "l-jamʿu"
+    },
+    {
+      "id": 45134,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_045_003.mp3",
+      "text": "وَيُوَلُّونَ",
+      "translation": "dan mereka berpaling/mundur",
+      "transliteration": "wayuwallūna"
+    },
+    {
+      "id": 45135,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_045_004.mp3",
+      "text": "ٱلدُّبُرَ",
+      "translation": "belakang",
+      "transliteration": "l-dubura"
+    },
+    {
+      "id": 45136,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Golongan itu pasti akan dikalahkan dan mereka akan mundur ke belakang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 405930,
+    "timestamp_to": 411020,
+    "duration": 5090,
+    "segments": [
+      [
+        1,
+        405875,
+        407035
+      ],
+      [
+        2,
+        407035,
+        407945
+      ],
+      [
+        3,
+        407945,
+        409565
+      ],
+      [
+        4,
+        409565,
+        410900
+      ]
+    ]
+  }
+}

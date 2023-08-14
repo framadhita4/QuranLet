@@ -1,0 +1,164 @@
+{
+  "id": 5600,
+  "chapter_id": 76,
+  "verse_key": "76:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 10343,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_001.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 10344,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_002.mp3",
+      "text": "نُطْعِمُكُمْ",
+      "translation": "kami memberi makan kepadamu",
+      "transliteration": "nuṭ'ʿimukum"
+    },
+    {
+      "id": 10345,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_003.mp3",
+      "text": "لِوَجْهِ",
+      "translation": "karena mengharap keridhaan",
+      "transliteration": "liwajhi"
+    },
+    {
+      "id": 10346,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 10347,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_005.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 10348,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_006.mp3",
+      "text": "نُرِيدُ",
+      "translation": "kami mengharap",
+      "transliteration": "nurīdu"
+    },
+    {
+      "id": 10349,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_007.mp3",
+      "text": "مِنكُمْ",
+      "translation": "dari kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 10350,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_008.mp3",
+      "text": "جَزَآءًۭ",
+      "translation": "balasan",
+      "transliteration": "jazāan"
+    },
+    {
+      "id": 10351,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 10352,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_009_010.mp3",
+      "text": "شُكُورًا",
+      "translation": "terima kasih",
+      "transliteration": "shukūran"
+    },
+    {
+      "id": 10353,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kami memberi makanan kepadamu hanyalah untuk mengharapkan keridaan Allah, kami tidak menghendaki balasan dari kamu dan tidak pula (ucapan) terima kasih.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81380,
+    "timestamp_to": 93340,
+    "duration": 11970,
+    "segments": [
+      [
+        1,
+        81355,
+        83035
+      ],
+      [
+        2,
+        83035,
+        84105
+      ],
+      [
+        3,
+        84105,
+        84975
+      ],
+      [
+        4,
+        84975,
+        85785
+      ],
+      [
+        5,
+        85785,
+        86135
+      ],
+      [
+        6,
+        86135,
+        86905
+      ],
+      [
+        7,
+        86905,
+        88205
+      ],
+      [
+        8,
+        88205,
+        90915
+      ],
+      [
+        9,
+        90915,
+        91405
+      ],
+      [
+        10,
+        91405,
+        93270
+      ]
+    ]
+  }
+}

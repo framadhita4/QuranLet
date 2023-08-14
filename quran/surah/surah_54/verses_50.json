@@ -1,0 +1,112 @@
+{
+  "id": 4896,
+  "chapter_id": 54,
+  "verse_key": "54:50",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 48625,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_050_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 48626,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_050_002.mp3",
+      "text": "أَمْرُنَآ",
+      "translation": "perintah Kami",
+      "transliteration": "amrunā"
+    },
+    {
+      "id": 48627,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_050_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 48628,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_050_004.mp3",
+      "text": "وَٰحِدَةٌۭ",
+      "translation": "satu/sekali",
+      "transliteration": "wāḥidatun"
+    },
+    {
+      "id": 48629,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_050_005.mp3",
+      "text": "كَلَمْحٍۭ",
+      "translation": "seperti/secepat kejapan",
+      "transliteration": "kalamḥin"
+    },
+    {
+      "id": 48630,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_050_006.mp3",
+      "text": "بِٱلْبَصَرِ",
+      "translation": "dengan pandangan mata",
+      "transliteration": "bil-baṣari"
+    },
+    {
+      "id": 48631,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan perintah Kami hanyalah satu perkataan seperti kejapan mata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 440640,
+    "timestamp_to": 451430,
+    "duration": 10790,
+    "segments": [
+      [
+        1,
+        440565,
+        442655
+      ],
+      [
+        2,
+        442655,
+        444905
+      ],
+      [
+        3,
+        444905,
+        445765
+      ],
+      [
+        4,
+        445765,
+        447685
+      ],
+      [
+        5,
+        447685,
+        449275
+      ],
+      [
+        6,
+        449275,
+        451280
+      ]
+    ]
+  }
+}

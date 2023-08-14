@@ -1,0 +1,99 @@
+{
+  "id": 2361,
+  "chapter_id": 20,
+  "verse_key": "20:13",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 14938,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_013_001.mp3",
+      "text": "وَأَنَا",
+      "translation": "dan Aku",
+      "transliteration": "wa-anā"
+    },
+    {
+      "id": 14939,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_013_002.mp3",
+      "text": "ٱخْتَرْتُكَ",
+      "translation": "Aku telah memilih kamu",
+      "transliteration": "ikh'tartuka"
+    },
+    {
+      "id": 14940,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_013_003.mp3",
+      "text": "فَٱسْتَمِعْ",
+      "translation": "maka dengarkanlah",
+      "transliteration": "fa-is'tamiʿ"
+    },
+    {
+      "id": 14941,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_013_004.mp3",
+      "text": "لِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "limā"
+    },
+    {
+      "id": 14942,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_013_005.mp3",
+      "text": "يُوحَىٰٓ",
+      "translation": "diwahyukan",
+      "transliteration": "yūḥā"
+    },
+    {
+      "id": 14943,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Aku telah memilih kamu, maka dengarkanlah apa yang akan diwahyukan (kepadamu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 113080,
+    "timestamp_to": 118380,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        112685,
+        113415
+      ],
+      [
+        2,
+        113415,
+        114645
+      ],
+      [
+        3,
+        114645,
+        115745
+      ],
+      [
+        4,
+        115745,
+        116575
+      ],
+      [
+        5,
+        116575,
+        117620
+      ]
+    ]
+  }
+}

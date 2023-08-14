@@ -1,0 +1,112 @@
+{
+  "id": 5519,
+  "chapter_id": 74,
+  "verse_key": "74:24",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 27084,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_024_001.mp3",
+      "text": "فَقَالَ",
+      "translation": "lalu dia berkata",
+      "transliteration": "faqāla"
+    },
+    {
+      "id": 27085,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_024_002.mp3",
+      "text": "إِنْ",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 27086,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_024_003.mp3",
+      "text": "هَـٰذَآ",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 27087,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_024_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 27088,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_024_005.mp3",
+      "text": "سِحْرٌۭ",
+      "translation": "sihir",
+      "transliteration": "siḥ'run"
+    },
+    {
+      "id": 27089,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_024_006.mp3",
+      "text": "يُؤْثَرُ",
+      "translation": "diceritakan/dipelajari",
+      "transliteration": "yu'tharu"
+    },
+    {
+      "id": 27090,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu dia berkata, \"(Al-Qur`ān) ini tidak lain hanyalah sihir yang dipelajari (dari orang-orang dahulu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87450,
+    "timestamp_to": 93900,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        87375,
+        88155
+      ],
+      [
+        2,
+        88155,
+        88475
+      ],
+      [
+        3,
+        88475,
+        90525
+      ],
+      [
+        4,
+        90525,
+        91315
+      ],
+      [
+        5,
+        91315,
+        92085
+      ],
+      [
+        6,
+        92085,
+        93760
+      ]
+    ]
+  }
+}

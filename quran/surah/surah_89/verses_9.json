@@ -1,0 +1,99 @@
+{
+  "id": 6002,
+  "chapter_id": 89,
+  "verse_key": "89:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 10277,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_001.mp3",
+      "text": "وَثَمُودَ",
+      "translation": "dan Samud",
+      "transliteration": "wathamūda"
+    },
+    {
+      "id": 10278,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 10279,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_003.mp3",
+      "text": "جَابُوا۟",
+      "translation": "(mereka) memotong",
+      "transliteration": "jābū"
+    },
+    {
+      "id": 10280,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_004.mp3",
+      "text": "ٱلصَّخْرَ",
+      "translation": "batu-batu besar",
+      "transliteration": "l-ṣakhra"
+    },
+    {
+      "id": 10281,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_005.mp3",
+      "text": "بِٱلْوَادِ",
+      "translation": "di lembah",
+      "transliteration": "bil-wādi"
+    },
+    {
+      "id": 10282,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum Ṡamūd yang memotong batu-batu besar di lembah<sup foot_note_id=\"1575\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30540,
+    "timestamp_to": 37720,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        30485,
+        31595
+      ],
+      [
+        2,
+        31595,
+        32715
+      ],
+      [
+        3,
+        32715,
+        33355
+      ],
+      [
+        4,
+        33355,
+        34255
+      ],
+      [
+        5,
+        34255,
+        37600
+      ]
+    ]
+  }
+}

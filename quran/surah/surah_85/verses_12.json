@@ -1,0 +1,86 @@
+{
+  "id": 5921,
+  "chapter_id": 85,
+  "verse_key": "85:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 14282,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_012_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 14283,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_012_002.mp3",
+      "text": "بَطْشَ",
+      "translation": "kekuatan (azab)",
+      "transliteration": "baṭsha"
+    },
+    {
+      "id": 14284,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_012_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 14285,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_012_004.mp3",
+      "text": "لَشَدِيدٌ",
+      "translation": "benar-benar/sangat keras",
+      "transliteration": "lashadīdun"
+    },
+    {
+      "id": 14286,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya azab Tuhan-mu benar-benar keras.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 112970,
+    "timestamp_to": 119530,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        112775,
+        114315
+      ],
+      [
+        2,
+        114315,
+        114955
+      ],
+      [
+        3,
+        114955,
+        115725
+      ],
+      [
+        4,
+        115725,
+        119270
+      ]
+    ]
+  }
+}

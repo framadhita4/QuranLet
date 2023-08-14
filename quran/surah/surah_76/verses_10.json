@@ -1,0 +1,125 @@
+{
+  "id": 5601,
+  "chapter_id": 76,
+  "verse_key": "76:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 11585,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 11586,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_002.mp3",
+      "text": "نَخَافُ",
+      "translation": "kami takut",
+      "transliteration": "nakhāfu"
+    },
+    {
+      "id": 11587,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 11588,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_004.mp3",
+      "text": "رَّبِّنَا",
+      "translation": "Tuhan kami",
+      "transliteration": "rabbinā"
+    },
+    {
+      "id": 11589,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_005.mp3",
+      "text": "يَوْمًا",
+      "translation": "suatu hari",
+      "transliteration": "yawman"
+    },
+    {
+      "id": 11590,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_006.mp3",
+      "text": "عَبُوسًۭا",
+      "translation": "bermuka masam",
+      "transliteration": "ʿabūsan"
+    },
+    {
+      "id": 11591,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_010_007.mp3",
+      "text": "قَمْطَرِيرًۭا",
+      "translation": "penuh kesulitan",
+      "transliteration": "qamṭarīran"
+    },
+    {
+      "id": 11592,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kami takut akan (azab) Tuhan kami pada suatu hari yang (di hari itu) orang-orang bermuka masam penuh kesulitan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 93340,
+    "timestamp_to": 101200,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        93285,
+        94645
+      ],
+      [
+        2,
+        94645,
+        95455
+      ],
+      [
+        3,
+        95455,
+        95585
+      ],
+      [
+        4,
+        95585,
+        96775
+      ],
+      [
+        5,
+        96775,
+        97485
+      ],
+      [
+        6,
+        97485,
+        98495
+      ],
+      [
+        7,
+        98495,
+        101100
+      ]
+    ]
+  }
+}

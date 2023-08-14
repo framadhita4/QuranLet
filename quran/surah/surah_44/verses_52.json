@@ -1,0 +1,73 @@
+{
+  "id": 4466,
+  "chapter_id": 44,
+  "verse_key": "44:52",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 49820,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_052_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 49821,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_052_002.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "taman-taman",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 49822,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_052_003.mp3",
+      "text": "وَعُيُونٍۢ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 49823,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) di dalam taman-taman dan mata-air-mata-air;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 502330,
+    "timestamp_to": 508940,
+    "duration": 6610,
+    "segments": [
+      [
+        1,
+        502255,
+        502745
+      ],
+      [
+        2,
+        502745,
+        505975
+      ],
+      [
+        3,
+        505975,
+        508810
+      ]
+    ]
+  }
+}

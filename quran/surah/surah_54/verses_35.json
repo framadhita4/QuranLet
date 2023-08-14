@@ -1,0 +1,125 @@
+{
+  "id": 4881,
+  "chapter_id": 54,
+  "verse_key": "54:35",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 37192,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_001.mp3",
+      "text": "نِّعْمَةًۭ",
+      "translation": "ni'mat",
+      "transliteration": "niʿ'matan"
+    },
+    {
+      "id": 37193,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_002.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 37194,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_003.mp3",
+      "text": "عِندِنَا ۚ",
+      "translation": "sisi Kami",
+      "transliteration": "ʿindinā"
+    },
+    {
+      "id": 37196,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_005.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 37197,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_006.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 37198,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_007.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 37199,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_035_008.mp3",
+      "text": "شَكَرَ",
+      "translation": "ia bersyukur",
+      "transliteration": "shakara"
+    },
+    {
+      "id": 37200,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sebagai nikmat dari Kami.  Demikianlah Kami memberi balasan kepada orang-orang yang bersyukur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 316280,
+    "timestamp_to": 325630,
+    "duration": 9350,
+    "segments": [
+      [
+        1,
+        316195,
+        317155
+      ],
+      [
+        2,
+        317155,
+        318335
+      ],
+      [
+        3,
+        318335,
+        320425
+      ],
+      [
+        4,
+        320425,
+        322035
+      ],
+      [
+        5,
+        322035,
+        322965
+      ],
+      [
+        6,
+        322965,
+        324195
+      ],
+      [
+        7,
+        324195,
+        325290
+      ]
+    ]
+  }
+}

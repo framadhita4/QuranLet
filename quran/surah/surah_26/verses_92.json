@@ -1,0 +1,112 @@
+{
+  "id": 3024,
+  "chapter_id": 26,
+  "verse_key": "26:92",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 68606,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_001.mp3",
+      "text": "وَقِيلَ",
+      "translation": "dan dikatakan",
+      "transliteration": "waqīla"
+    },
+    {
+      "id": 68607,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 68608,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_003.mp3",
+      "text": "أَيْنَ",
+      "translation": "dimanakah",
+      "transliteration": "ayna"
+    },
+    {
+      "id": 68609,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_004.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 68610,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 68611,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_006.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu sembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 68612,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dikatakan kepada mereka, \"Di manakah berhala-berhala yang dahulu kamu selalu menyembah(nya)",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 868100,
+    "timestamp_to": 875620,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        868045,
+        869035
+      ],
+      [
+        2,
+        869035,
+        869545
+      ],
+      [
+        3,
+        869545,
+        870155
+      ],
+      [
+        4,
+        870155,
+        870595
+      ],
+      [
+        5,
+        870595,
+        872335
+      ],
+      [
+        6,
+        872335,
+        875510
+      ]
+    ]
+  }
+}

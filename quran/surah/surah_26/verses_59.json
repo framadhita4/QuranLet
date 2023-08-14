@@ -1,0 +1,86 @@
+{
+  "id": 2991,
+  "chapter_id": 26,
+  "verse_key": "26:59",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ إِسْرَٰٓءِيلَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 53903,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_059_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 53904,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_059_002.mp3",
+      "text": "وَأَوْرَثْنَـٰهَا",
+      "translation": "dan Kami wariskannya",
+      "transliteration": "wa-awrathnāhā"
+    },
+    {
+      "id": 53905,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_059_003.mp3",
+      "text": "بَنِىٓ",
+      "translation": "Bani",
+      "transliteration": "banī"
+    },
+    {
+      "id": 53906,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_059_004.mp3",
+      "text": "إِسْرَٰٓءِيلَ",
+      "translation": "Israil",
+      "transliteration": "is'rāīla"
+    },
+    {
+      "id": 53907,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "demikianlah halnya dan Kami anugerahkan semuanya (itu) kepada Bani Isrā`īl <sup foot_note_id=\"1085\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 598750,
+    "timestamp_to": 608680,
+    "duration": 9930,
+    "segments": [
+      [
+        1,
+        598725,
+        600215
+      ],
+      [
+        2,
+        600215,
+        602105
+      ],
+      [
+        3,
+        602105,
+        604085
+      ],
+      [
+        4,
+        604085,
+        608590
+      ]
+    ]
+  }
+}

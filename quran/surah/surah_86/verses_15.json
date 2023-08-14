@@ -1,0 +1,73 @@
+{
+  "id": 5946,
+  "chapter_id": 86,
+  "verse_key": "86:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 17607,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_015_001.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 17608,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_015_002.mp3",
+      "text": "يَكِيدُونَ",
+      "translation": "mereka membuat tipu daya",
+      "transliteration": "yakīdūna"
+    },
+    {
+      "id": 17609,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_015_003.mp3",
+      "text": "كَيْدًۭا",
+      "translation": "tipu daya",
+      "transliteration": "kaydan"
+    },
+    {
+      "id": 17610,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang kafir itu merencanakan tipu daya yang jahat dengan sebenar-benarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 73260,
+    "timestamp_to": 78010,
+    "duration": 4760,
+    "segments": [
+      [
+        1,
+        72885,
+        74735
+      ],
+      [
+        2,
+        74735,
+        76115
+      ],
+      [
+        3,
+        76115,
+        77140
+      ]
+    ]
+  }
+}

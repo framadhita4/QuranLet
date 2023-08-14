@@ -1,0 +1,86 @@
+{
+  "id": 5780,
+  "chapter_id": 80,
+  "verse_key": "80:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 25002,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_022_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 25003,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_022_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 25004,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_022_003.mp3",
+      "text": "شَآءَ",
+      "translation": "Dia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 25005,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_022_004.mp3",
+      "text": "أَنشَرَهُۥ",
+      "translation": "Dia membangkitkan",
+      "transliteration": "ansharahu"
+    },
+    {
+      "id": 25006,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian bila Dia menghendaki, Dia membangkitkannya kembali.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 88710,
+    "timestamp_to": 95210,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        88655,
+        90125
+      ],
+      [
+        2,
+        90125,
+        90725
+      ],
+      [
+        3,
+        90725,
+        92995
+      ],
+      [
+        4,
+        92995,
+        95090
+      ]
+    ]
+  }
+}

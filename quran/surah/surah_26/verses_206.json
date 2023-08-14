@@ -1,0 +1,99 @@
+{
+  "id": 3138,
+  "chapter_id": 26,
+  "verse_key": "26:206",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "ثُمَّ جَآءَهُم مَّا كَانُوا۟ يُوعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85513,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_206_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 85514,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_206_002.mp3",
+      "text": "جَآءَهُم",
+      "translation": "datang kepada mereka",
+      "transliteration": "jāahum"
+    },
+    {
+      "id": 85515,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_206_003.mp3",
+      "text": "مَّا",
+      "translation": "apa (azab)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 85516,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_206_004.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 85517,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_206_005.mp3",
+      "text": "يُوعَدُونَ",
+      "translation": "mereka diancam",
+      "transliteration": "yūʿadūna"
+    },
+    {
+      "id": 85518,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٠٦",
+      "translation": "(206)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, datang kepada mereka azab yang telah diancamkan kepada mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1782750,
+    "timestamp_to": 1791400,
+    "duration": 8650,
+    "segments": [
+      [
+        1,
+        1782645,
+        1783615
+      ],
+      [
+        2,
+        1783615,
+        1786475
+      ],
+      [
+        3,
+        1786475,
+        1787305
+      ],
+      [
+        4,
+        1787305,
+        1788335
+      ],
+      [
+        5,
+        1788335,
+        1791250
+      ]
+    ]
+  }
+}

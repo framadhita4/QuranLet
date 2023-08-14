@@ -1,0 +1,125 @@
+{
+  "id": 3148,
+  "chapter_id": 26,
+  "verse_key": "26:216",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85851,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_001.mp3",
+      "text": "فَإِنْ",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 85852,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_002.mp3",
+      "text": "عَصَوْكَ",
+      "translation": "mereka mendurhakaimu",
+      "transliteration": "ʿaṣawka"
+    },
+    {
+      "id": 85853,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_003.mp3",
+      "text": "فَقُلْ",
+      "translation": "maka katakanlah",
+      "transliteration": "faqul"
+    },
+    {
+      "id": 85854,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_004.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 85855,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_005.mp3",
+      "text": "بَرِىٓءٌۭ",
+      "translation": "berlepas diri",
+      "transliteration": "barīon"
+    },
+    {
+      "id": 85856,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_006.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 85857,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_007.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 85858,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢١٦",
+      "translation": "(216)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika mereka mendurhakaimu maka katakanlah, \"Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1860310,
+    "timestamp_to": 1871150,
+    "duration": 10840,
+    "segments": [
+      [
+        1,
+        1860285,
+        1860855
+      ],
+      [
+        2,
+        1860855,
+        1861835
+      ],
+      [
+        3,
+        1861835,
+        1862475
+      ],
+      [
+        4,
+        1862475,
+        1863925
+      ],
+      [
+        5,
+        1863925,
+        1866044
+      ],
+      [
+        6,
+        1866045,
+        1868115
+      ],
+      [
+        7,
+        1868115,
+        1871100
+      ]
+    ]
+  }
+}

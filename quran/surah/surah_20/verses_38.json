@@ -1,0 +1,112 @@
+{
+  "id": 2386,
+  "chapter_id": 20,
+  "verse_key": "20:38",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 314,
+  "juz_number": 16,
+  "text_uthmani": "إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 39698,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_038_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 39699,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_038_002.mp3",
+      "text": "أَوْحَيْنَآ",
+      "translation": "Kami wahyukan/ilhamkan",
+      "transliteration": "awḥaynā"
+    },
+    {
+      "id": 39700,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_038_003.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 39701,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_038_004.mp3",
+      "text": "أُمِّكَ",
+      "translation": "ibumu",
+      "transliteration": "ummika"
+    },
+    {
+      "id": 39702,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_038_005.mp3",
+      "text": "مَا",
+      "translation": "apa/sesuatu",
+      "transliteration": "mā"
+    },
+    {
+      "id": 39703,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_038_006.mp3",
+      "text": "يُوحَىٰٓ",
+      "translation": "yang diwahyukan/ilhamkan",
+      "transliteration": "yūḥā"
+    },
+    {
+      "id": 39704,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu ketika Kami mengilhamkan kepada ibumu suatu yang diilhamkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 269080,
+    "timestamp_to": 277650,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        269055,
+        269545
+      ],
+      [
+        2,
+        269545,
+        271485
+      ],
+      [
+        3,
+        271485,
+        274145
+      ],
+      [
+        4,
+        274145,
+        275665
+      ],
+      [
+        5,
+        275665,
+        276015
+      ],
+      [
+        6,
+        276015,
+        277150
+      ]
+    ]
+  }
+}

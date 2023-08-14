@@ -1,0 +1,125 @@
+{
+  "id": 3578,
+  "chapter_id": 33,
+  "verse_key": "33:45",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "ruku_number": 368,
+  "manzil_number": 5,
+  "page_number": 424,
+  "juz_number": 22,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 45161,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "hai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 45162,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_002.mp3",
+      "text": "ٱلنَّبِىُّ",
+      "translation": "nabi",
+      "transliteration": "l-nabiyu"
+    },
+    {
+      "id": 45163,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_003.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 45164,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_004.mp3",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation": "Kami mengutusmu",
+      "transliteration": "arsalnāka"
+    },
+    {
+      "id": 45165,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_005.mp3",
+      "text": "شَـٰهِدًۭا",
+      "translation": "menjadi saksi",
+      "transliteration": "shāhidan"
+    },
+    {
+      "id": 45166,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_006.mp3",
+      "text": "وَمُبَشِّرًۭا",
+      "translation": "dan pembawa kabar gembira",
+      "transliteration": "wamubashiran"
+    },
+    {
+      "id": 45167,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_045_007.mp3",
+      "text": "وَنَذِيرًۭا",
+      "translation": "dan pemberi peringatan",
+      "transliteration": "wanadhīran"
+    },
+    {
+      "id": 45168,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai Nabi, sesungguhnya Kami mengutusmu untuk jadi saksi dan pembawa kabar gembira dan pemberi peringatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 937450,
+    "timestamp_to": 950980,
+    "duration": 13530,
+    "segments": [
+      [
+        1,
+        937065,
+        939455
+      ],
+      [
+        2,
+        939455,
+        941065
+      ],
+      [
+        3,
+        941065,
+        942545
+      ],
+      [
+        4,
+        942545,
+        945295
+      ],
+      [
+        5,
+        945295,
+        946525
+      ],
+      [
+        6,
+        946525,
+        948735
+      ],
+      [
+        7,
+        948735,
+        950570
+      ]
+    ]
+  }
+}

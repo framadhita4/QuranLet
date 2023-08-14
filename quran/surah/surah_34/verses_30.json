@@ -1,0 +1,164 @@
+{
+  "id": 3636,
+  "chapter_id": 34,
+  "verse_key": "34:30",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "ruku_number": 374,
+  "manzil_number": 5,
+  "page_number": 431,
+  "juz_number": 22,
+  "text_uthmani": "قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3",
+  "words": [
+    {
+      "id": 33132,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_001.mp3",
+      "text": "قُل",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 33133,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_002.mp3",
+      "text": "لَّكُم",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 33134,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_003.mp3",
+      "text": "مِّيعَادُ",
+      "translation": "janji",
+      "transliteration": "mīʿādu"
+    },
+    {
+      "id": 33135,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_004.mp3",
+      "text": "يَوْمٍۢ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 33136,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_005.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 33137,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_006.mp3",
+      "text": "تَسْتَـْٔخِرُونَ",
+      "translation": "kamu dapat minta diundurkan",
+      "transliteration": "tastakhirūna"
+    },
+    {
+      "id": 33138,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_007.mp3",
+      "text": "عَنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 33139,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_008.mp3",
+      "text": "سَاعَةًۭ",
+      "translation": "sesaat",
+      "transliteration": "sāʿatan"
+    },
+    {
+      "id": 33140,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 33141,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_030_010.mp3",
+      "text": "تَسْتَقْدِمُونَ",
+      "translation": "kamu dapat minta diajukan",
+      "transliteration": "tastaqdimūna"
+    },
+    {
+      "id": 33142,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Bagimu ada hari yang telah dijanjikan (hari kiamat) yang tiada dapat kamu minta mundur darinya barang sesaat pun dan tidak (pula) kamu dapat meminta supaya diajukan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 527270,
+    "timestamp_to": 538550,
+    "duration": 11290,
+    "segments": [
+      [
+        1,
+        527245,
+        527625
+      ],
+      [
+        2,
+        527625,
+        528445
+      ],
+      [
+        3,
+        528445,
+        529975
+      ],
+      [
+        4,
+        529975,
+        530585
+      ],
+      [
+        5,
+        530585,
+        531035
+      ],
+      [
+        6,
+        531035,
+        532455
+      ],
+      [
+        7,
+        532455,
+        532965
+      ],
+      [
+        8,
+        532965,
+        534585
+      ],
+      [
+        9,
+        534585,
+        535055
+      ],
+      [
+        10,
+        535055,
+        538480
+      ]
+    ]
+  }
+}

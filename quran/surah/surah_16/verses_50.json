@@ -1,0 +1,125 @@
+{
+  "id": 1951,
+  "chapter_id": 16,
+  "verse_key": "16:50",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "ruku_number": 229,
+  "manzil_number": 3,
+  "page_number": 272,
+  "juz_number": 14,
+  "text_uthmani": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 48997,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_001.mp3",
+      "text": "يَخَافُونَ",
+      "translation": "mereka takut",
+      "transliteration": "yakhāfūna"
+    },
+    {
+      "id": 48998,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_002.mp3",
+      "text": "رَبَّهُم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbahum"
+    },
+    {
+      "id": 48999,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 49000,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_004.mp3",
+      "text": "فَوْقِهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "fawqihim"
+    },
+    {
+      "id": 49001,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_005.mp3",
+      "text": "وَيَفْعَلُونَ",
+      "translation": "dan mereka mengerjakan",
+      "transliteration": "wayafʿalūna"
+    },
+    {
+      "id": 49002,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_006.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 49003,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_050_007.mp3",
+      "text": "يُؤْمَرُونَ ۩",
+      "translation": "mereka diperintahkan",
+      "transliteration": "yu'marūna"
+    },
+    {
+      "id": 49005,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "Mereka takut kepada Tuhan mereka yang di atas mereka dan melaksanakan apa yang diperintahkan (kepada mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 901230,
+    "timestamp_to": 913060,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        901195,
+        902595
+      ],
+      [
+        2,
+        902595,
+        903805
+      ],
+      [
+        3,
+        903805,
+        904695
+      ],
+      [
+        4,
+        904695,
+        906635
+      ],
+      [
+        5,
+        906635,
+        908375
+      ],
+      [
+        6,
+        908375,
+        908905
+      ],
+      [
+        7,
+        908905,
+        912970
+      ]
+    ]
+  }
+}

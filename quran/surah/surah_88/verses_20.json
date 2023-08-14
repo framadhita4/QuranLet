@@ -1,0 +1,86 @@
+{
+  "id": 5987,
+  "chapter_id": 88,
+  "verse_key": "88:20",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 22570,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_020_001.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 22571,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_020_002.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 22572,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_020_003.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 22573,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_020_004.mp3",
+      "text": "سُطِحَتْ",
+      "translation": "ia dihamparkan",
+      "transliteration": "suṭiḥat"
+    },
+    {
+      "id": 22574,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bumi, bagaimana ia dihamparkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 84970,
+    "timestamp_to": 88390,
+    "duration": 3420,
+    "segments": [
+      [
+        1,
+        84925,
+        85515
+      ],
+      [
+        2,
+        85515,
+        86455
+      ],
+      [
+        3,
+        86455,
+        86995
+      ],
+      [
+        4,
+        86995,
+        88300
+      ]
+    ]
+  }
+}

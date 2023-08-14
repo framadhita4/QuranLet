@@ -1,0 +1,73 @@
+{
+  "id": 5633,
+  "chapter_id": 77,
+  "verse_key": "77:11",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 12984,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_011_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 12985,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_011_002.mp3",
+      "text": "ٱلرُّسُلُ",
+      "translation": "rasul-rasul",
+      "transliteration": "l-rusulu"
+    },
+    {
+      "id": 12986,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_011_003.mp3",
+      "text": "أُقِّتَتْ",
+      "translation": "ditetapkan waktunya",
+      "transliteration": "uqqitat"
+    },
+    {
+      "id": 12987,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila rasul-rasul telah ditetapkan waktu (mereka)<sup foot_note_id=\"1540\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32020,
+    "timestamp_to": 34710,
+    "duration": 2690,
+    "segments": [
+      [
+        1,
+        31965,
+        32535
+      ],
+      [
+        2,
+        32535,
+        33415
+      ],
+      [
+        3,
+        33415,
+        34600
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4784,
+  "chapter_id": 52,
+  "verse_key": "52:49",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 48042,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_049_001.mp3",
+      "text": "وَمِنَ",
+      "translation": "dan dari",
+      "transliteration": "wamina"
+    },
+    {
+      "id": 48043,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_049_002.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 48044,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_049_003.mp3",
+      "text": "فَسَبِّحْهُ",
+      "translation": "maka bertasbihlah",
+      "transliteration": "fasabbiḥ'hu"
+    },
+    {
+      "id": 48045,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_049_004.mp3",
+      "text": "وَإِدْبَـٰرَ",
+      "translation": "dan dibelakang/terbenam",
+      "transliteration": "wa-id'bāra"
+    },
+    {
+      "id": 48046,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_049_005.mp3",
+      "text": "ٱلنُّجُومِ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-nujūmi"
+    },
+    {
+      "id": 48047,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bertasbihlah kepada-Nya pada beberapa saat di malam hari dan di waktu terbenam bintang-bintang (di waktu fajar)<sup foot_note_id=\"1429\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 480440,
+    "timestamp_to": 490710,
+    "duration": 10270,
+    "segments": [
+      [
+        1,
+        480355,
+        481035
+      ],
+      [
+        2,
+        481035,
+        482055
+      ],
+      [
+        3,
+        482055,
+        483645
+      ],
+      [
+        4,
+        483645,
+        484995
+      ],
+      [
+        5,
+        484995,
+        489160
+      ]
+    ]
+  }
+}

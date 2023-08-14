@@ -1,0 +1,112 @@
+{
+  "id": 4861,
+  "chapter_id": 54,
+  "verse_key": "54:15",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 17278,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_015_001.mp3",
+      "text": "وَلَقَد",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 17279,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_015_002.mp3",
+      "text": "تَّرَكْنَـٰهَآ",
+      "translation": "Kami telah jadikan",
+      "transliteration": "taraknāhā"
+    },
+    {
+      "id": 17280,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_015_003.mp3",
+      "text": "ءَايَةًۭ",
+      "translation": "pelajaran",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 17281,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_015_004.mp3",
+      "text": "فَهَلْ",
+      "translation": "maka adakah",
+      "transliteration": "fahal"
+    },
+    {
+      "id": 17282,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_015_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17283,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_015_006.mp3",
+      "text": "مُّدَّكِرٍۢ",
+      "translation": "mengambil pelajaran",
+      "transliteration": "muddakirin"
+    },
+    {
+      "id": 17284,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami jadikan kapal itu sebagai pelajaran, maka adakah orang yang mau mengambil pelajaran?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 138460,
+    "timestamp_to": 148050,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        138415,
+        139135
+      ],
+      [
+        2,
+        139135,
+        142675
+      ],
+      [
+        3,
+        142675,
+        144345
+      ],
+      [
+        4,
+        144345,
+        145055
+      ],
+      [
+        5,
+        145055,
+        145365
+      ],
+      [
+        6,
+        145365,
+        147920
+      ]
+    ]
+  }
+}

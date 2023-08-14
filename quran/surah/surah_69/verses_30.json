@@ -1,0 +1,60 @@
+{
+  "id": 5353,
+  "chapter_id": 69,
+  "verse_key": "69:30",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "خُذُوهُ فَغُلُّوهُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 32812,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_030_001.mp3",
+      "text": "خُذُوهُ",
+      "translation": "peganglah ia/tangkaplah ia",
+      "transliteration": "khudhūhu"
+    },
+    {
+      "id": 32813,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_030_002.mp3",
+      "text": "فَغُلُّوهُ",
+      "translation": "lalu belenggulah ia",
+      "transliteration": "faghullūhu"
+    },
+    {
+      "id": 32814,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Peganglah dia lalu belenggulah tangannya ke lehernya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 232140,
+    "timestamp_to": 236970,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        232095,
+        233005
+      ],
+      [
+        2,
+        233005,
+        236820
+      ]
+    ]
+  }
+}

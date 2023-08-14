@@ -1,0 +1,125 @@
+{
+  "id": 4375,
+  "chapter_id": 43,
+  "verse_key": "43:50",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 430,
+  "manzil_number": 6,
+  "page_number": 493,
+  "juz_number": 25,
+  "text_uthmani": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 48679,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 48680,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_002.mp3",
+      "text": "كَشَفْنَا",
+      "translation": "Kami hilangkan",
+      "transliteration": "kashafnā"
+    },
+    {
+      "id": 48681,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_003.mp3",
+      "text": "عَنْهُمُ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhumu"
+    },
+    {
+      "id": 48682,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_004.mp3",
+      "text": "ٱلْعَذَابَ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhāba"
+    },
+    {
+      "id": 48683,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_005.mp3",
+      "text": "إِذَا",
+      "translation": "tiba-tiba",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 48684,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_006.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 48685,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_050_007.mp3",
+      "text": "يَنكُثُونَ",
+      "translation": "mereka memungkiri",
+      "transliteration": "yankuthūna"
+    },
+    {
+      "id": 48686,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tatkala Kami hilangkan azab itu dari mereka dengan serta merta mereka memungkiri (janjinya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 714500,
+    "timestamp_to": 724300,
+    "duration": 9800,
+    "segments": [
+      [
+        1,
+        714435,
+        715965
+      ],
+      [
+        2,
+        715965,
+        717035
+      ],
+      [
+        3,
+        717035,
+        717805
+      ],
+      [
+        4,
+        717805,
+        718835
+      ],
+      [
+        5,
+        718835,
+        719415
+      ],
+      [
+        6,
+        719415,
+        719825
+      ],
+      [
+        7,
+        719825,
+        724190
+      ]
+    ]
+  }
+}

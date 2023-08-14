@@ -1,0 +1,99 @@
+{
+  "id": 3808,
+  "chapter_id": 37,
+  "verse_key": "37:20",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 23264,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_020_001.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan mereka berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 23265,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_020_002.mp3",
+      "text": "يَـٰوَيْلَنَا",
+      "translation": "betapa celakanya kami",
+      "transliteration": "yāwaylanā"
+    },
+    {
+      "id": 23266,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_020_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 23267,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_020_004.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 23268,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_020_005.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 23269,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka berkata, \"Aduhai celakalah kita!\" Inilah hari pembalasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 147320,
+    "timestamp_to": 155160,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        147245,
+        148385
+      ],
+      [
+        2,
+        148385,
+        150025
+      ],
+      [
+        3,
+        150025,
+        150885
+      ],
+      [
+        4,
+        150885,
+        151485
+      ],
+      [
+        5,
+        151485,
+        155010
+      ]
+    ]
+  }
+}

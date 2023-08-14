@@ -1,0 +1,112 @@
+{
+  "id": 4019,
+  "chapter_id": 38,
+  "verse_key": "38:49",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "هَـٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَـَٔابٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 48334,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 48335,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_002.mp3",
+      "text": "ذِكْرٌۭ ۚ",
+      "translation": "peringatan/pelajaran",
+      "transliteration": "dhik'run"
+    },
+    {
+      "id": 48337,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_004.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 48338,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_005.mp3",
+      "text": "لِلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang bertakwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 48339,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_006.mp3",
+      "text": "لَحُسْنَ",
+      "translation": "benar-benar baik",
+      "transliteration": "laḥus'na"
+    },
+    {
+      "id": 48340,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_007.mp3",
+      "text": "مَـَٔابٍۢ",
+      "translation": "tempat kembali",
+      "transliteration": "maābin"
+    },
+    {
+      "id": 48341,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah kehormatan (bagi mereka).  Dan sesungguhnya bagi orang-orang yang bertakwa benar-benar (disediakan) tempat kembali yang baik,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 668090,
+    "timestamp_to": 677310,
+    "duration": 9220,
+    "segments": [
+      [
+        1,
+        668055,
+        669005
+      ],
+      [
+        2,
+        669005,
+        670095
+      ],
+      [
+        3,
+        670095,
+        671405
+      ],
+      [
+        4,
+        671405,
+        673195
+      ],
+      [
+        5,
+        673195,
+        674175
+      ],
+      [
+        6,
+        674175,
+        677220
+      ]
+    ]
+  }
+}

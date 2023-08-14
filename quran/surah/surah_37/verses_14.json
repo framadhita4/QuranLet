@@ -1,0 +1,90 @@
+{
+  "id": 3802,
+  "chapter_id": 37,
+  "verse_key": "37:14",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 16746,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_014_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 16747,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_014_002.mp3",
+      "text": "رَأَوْا۟",
+      "translation": "mereka melihat",
+      "transliteration": "ra-aw"
+    },
+    {
+      "id": 16748,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_014_003.mp3",
+      "text": "ءَايَةًۭ",
+      "translation": "tanda-tanda",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 16749,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_014_004.mp3",
+      "text": "يَسْتَسْخِرُونَ",
+      "translation": "mereka memperolok-olok",
+      "transliteration": "yastaskhirūna"
+    },
+    {
+      "id": 16750,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila mereka melihat sesuatu tanda kebesaran Allah, mereka sangat menghinakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 91645,
+    "timestamp_to": 98240,
+    "duration": 6610,
+    "segments": [
+      [
+        1,
+        91575,
+        92701
+      ],
+      [
+        2,
+        92701,
+        93240
+      ],
+      [
+        3,
+        93240,
+        94802
+      ],
+      [
+        4,
+        94802,
+        97783
+      ],
+      [
+        4,
+        97783
+      ]
+    ]
+  }
+}

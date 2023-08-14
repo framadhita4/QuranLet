@@ -1,0 +1,125 @@
+{
+  "id": 2543,
+  "chapter_id": 21,
+  "verse_key": "21:60",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 327,
+  "juz_number": 17,
+  "text_uthmani": "قَالُوا۟ سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 54463,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 54464,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_002.mp3",
+      "text": "سَمِعْنَا",
+      "translation": "kami mendengar",
+      "transliteration": "samiʿ'nā"
+    },
+    {
+      "id": 54465,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_003.mp3",
+      "text": "فَتًۭى",
+      "translation": "seorang pemuda",
+      "transliteration": "fatan"
+    },
+    {
+      "id": 54466,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_004.mp3",
+      "text": "يَذْكُرُهُمْ",
+      "translation": "dia menyebut/mencela mereka",
+      "transliteration": "yadhkuruhum"
+    },
+    {
+      "id": 54467,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_005.mp3",
+      "text": "يُقَالُ",
+      "translation": "dikatakan (bernama)",
+      "transliteration": "yuqālu"
+    },
+    {
+      "id": 54468,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_006.mp3",
+      "text": "لَهُۥٓ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 54469,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_060_007.mp3",
+      "text": "إِبْرَٰهِيمُ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīmu"
+    },
+    {
+      "id": 54470,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Kami dengar ada seorang pemuda yang mencela berhala-berhala ini yang bernama Ibrāhīm\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 830090,
+    "timestamp_to": 840490,
+    "duration": 10400,
+    "segments": [
+      [
+        1,
+        830035,
+        830825
+      ],
+      [
+        2,
+        830825,
+        831845
+      ],
+      [
+        3,
+        831845,
+        832325
+      ],
+      [
+        4,
+        832325,
+        834255
+      ],
+      [
+        5,
+        834255,
+        835155
+      ],
+      [
+        6,
+        835155,
+        837185
+      ],
+      [
+        7,
+        837185,
+        840380
+      ]
+    ]
+  }
+}

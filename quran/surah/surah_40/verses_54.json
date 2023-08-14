@@ -1,0 +1,86 @@
+{
+  "id": 4187,
+  "chapter_id": 40,
+  "verse_key": "40:54",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "ruku_number": 411,
+  "manzil_number": 6,
+  "page_number": 473,
+  "juz_number": 24,
+  "text_uthmani": "هُدًى وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 50974,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_001.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 50975,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_002.mp3",
+      "text": "وَذِكْرَىٰ",
+      "translation": "dan peringatan",
+      "transliteration": "wadhik'rā"
+    },
+    {
+      "id": 50976,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_003.mp3",
+      "text": "لِأُو۟لِى",
+      "translation": "bagi orang-orang yang mempunyai",
+      "transliteration": "li-ulī"
+    },
+    {
+      "id": 50977,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_004.mp3",
+      "text": "ٱلْأَلْبَـٰبِ",
+      "translation": "pikiran",
+      "transliteration": "l-albābi"
+    },
+    {
+      "id": 50978,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk menjadi petunjuk dan peringatan bagi orang-orang yang berpikir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1000600,
+    "timestamp_to": 1006220,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        1000545,
+        1001705
+      ],
+      [
+        2,
+        1001705,
+        1002605
+      ],
+      [
+        3,
+        1002605,
+        1003265
+      ],
+      [
+        4,
+        1003265,
+        1006140
+      ]
+    ]
+  }
+}

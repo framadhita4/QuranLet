@@ -1,0 +1,99 @@
+{
+  "id": 2762,
+  "chapter_id": 23,
+  "verse_key": "23:89",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 67511,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_089_001.mp3",
+      "text": "سَيَقُولُونَ",
+      "translation": "mereka akan mengatakan",
+      "transliteration": "sayaqūlūna"
+    },
+    {
+      "id": 67512,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_089_002.mp3",
+      "text": "لِلَّهِ ۚ",
+      "translation": "kepunyaan Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 67514,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_089_004.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 67515,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_089_005.mp3",
+      "text": "فَأَنَّىٰ",
+      "translation": "maka bagaimana",
+      "transliteration": "fa-annā"
+    },
+    {
+      "id": 67516,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_089_006.mp3",
+      "text": "تُسْحَرُونَ",
+      "translation": "kamu ditipu",
+      "transliteration": "tus'ḥarūna"
+    },
+    {
+      "id": 67517,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka akan menjawab, \"Kepunyaan Allah\".  Katakanlah, \"(Kalau demikian), maka dari jalan manakah kamu ditipu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1117110,
+    "timestamp_to": 1126460,
+    "duration": 9350,
+    "segments": [
+      [
+        1,
+        1117045,
+        1118445
+      ],
+      [
+        2,
+        1118445,
+        1121305
+      ],
+      [
+        3,
+        1121305,
+        1121575
+      ],
+      [
+        4,
+        1121575,
+        1123225
+      ],
+      [
+        5,
+        1123225,
+        1126340
+      ]
+    ]
+  }
+}

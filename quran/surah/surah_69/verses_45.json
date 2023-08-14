@@ -1,0 +1,73 @@
+{
+  "id": 5368,
+  "chapter_id": 69,
+  "verse_key": "69:45",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 45227,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_045_001.mp3",
+      "text": "لَأَخَذْنَا",
+      "translation": "niscaya Kami ambil",
+      "transliteration": "la-akhadhnā"
+    },
+    {
+      "id": 45228,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_045_002.mp3",
+      "text": "مِنْهُ",
+      "translation": "darinya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 45229,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_045_003.mp3",
+      "text": "بِٱلْيَمِينِ",
+      "translation": "dengan tangan kanan",
+      "transliteration": "bil-yamīni"
+    },
+    {
+      "id": 45230,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya benar-benar Kami pegang dia pada tangan kanannya<sup foot_note_id=\"1510\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 342450,
+    "timestamp_to": 347470,
+    "duration": 5020,
+    "segments": [
+      [
+        1,
+        342395,
+        343725
+      ],
+      [
+        2,
+        343725,
+        344335
+      ],
+      [
+        3,
+        344335,
+        347340
+      ]
+    ]
+  }
+}

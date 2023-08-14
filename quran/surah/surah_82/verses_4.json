@@ -1,0 +1,73 @@
+{
+  "id": 5833,
+  "chapter_id": 82,
+  "verse_key": "82:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 4214,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_004_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 4215,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_004_002.mp3",
+      "text": "ٱلْقُبُورُ",
+      "translation": "kuburan-kuburan",
+      "transliteration": "l-qubūru"
+    },
+    {
+      "id": 4216,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_004_003.mp3",
+      "text": "بُعْثِرَتْ",
+      "translation": "di bongkar",
+      "transliteration": "buʿ'thirat"
+    },
+    {
+      "id": 4217,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila kuburan-kuburan dibongkar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12200,
+    "timestamp_to": 15540,
+    "duration": 3340,
+    "segments": [
+      [
+        1,
+        12155,
+        12845
+      ],
+      [
+        2,
+        12845,
+        13975
+      ],
+      [
+        3,
+        13975,
+        15460
+      ]
+    ]
+  }
+}

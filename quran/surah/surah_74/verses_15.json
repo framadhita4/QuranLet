@@ -1,0 +1,86 @@
+{
+  "id": 5510,
+  "chapter_id": 74,
+  "verse_key": "74:15",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 17466,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_015_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 17467,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_015_002.mp3",
+      "text": "يَطْمَعُ",
+      "translation": "dia ingin sekali",
+      "transliteration": "yaṭmaʿu"
+    },
+    {
+      "id": 17468,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_015_003.mp3",
+      "text": "أَنْ",
+      "translation": "bahwa/supaya",
+      "transliteration": "an"
+    },
+    {
+      "id": 17469,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_015_004.mp3",
+      "text": "أَزِيدَ",
+      "translation": "Aku menambahnya",
+      "transliteration": "azīda"
+    },
+    {
+      "id": 17470,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian dia ingin sekali supaya Aku menambahnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53710,
+    "timestamp_to": 58930,
+    "duration": 5230,
+    "segments": [
+      [
+        1,
+        53265,
+        54375
+      ],
+      [
+        2,
+        54375,
+        55175
+      ],
+      [
+        3,
+        55175,
+        55525
+      ],
+      [
+        4,
+        55525,
+        58430
+      ]
+    ]
+  }
+}

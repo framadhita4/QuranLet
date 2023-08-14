@@ -1,0 +1,138 @@
+{
+  "id": 5489,
+  "chapter_id": 73,
+  "verse_key": "73:14",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 16751,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 16752,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_002.mp3",
+      "text": "تَرْجُفُ",
+      "translation": "bergoncang",
+      "transliteration": "tarjufu"
+    },
+    {
+      "id": 16753,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_003.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 16754,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_004.mp3",
+      "text": "وَٱلْجِبَالُ",
+      "translation": "dan gunung-gunung",
+      "transliteration": "wal-jibālu"
+    },
+    {
+      "id": 16755,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_005.mp3",
+      "text": "وَكَانَتِ",
+      "translation": "dan adalah/jadilah",
+      "transliteration": "wakānati"
+    },
+    {
+      "id": 16756,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_006.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 16757,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_007.mp3",
+      "text": "كَثِيبًۭا",
+      "translation": "tumpukan pasir",
+      "transliteration": "kathīban"
+    },
+    {
+      "id": 16758,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_014_008.mp3",
+      "text": "مَّهِيلًا",
+      "translation": "licin/bertaburan",
+      "transliteration": "mahīlan"
+    },
+    {
+      "id": 16759,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari bumi dan gunung-gunung bergoncangan, dan menjadilah gunung-gunung itu tumpukan-tumpukan pasir yang beterbangan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 85680,
+    "timestamp_to": 94350,
+    "duration": 8670,
+    "segments": [
+      [
+        1,
+        85185,
+        85795
+      ],
+      [
+        2,
+        85795,
+        86555
+      ],
+      [
+        3,
+        86555,
+        87415
+      ],
+      [
+        4,
+        87415,
+        88555
+      ],
+      [
+        5,
+        88555,
+        89485
+      ],
+      [
+        6,
+        89485,
+        90465
+      ],
+      [
+        7,
+        90465,
+        91285
+      ],
+      [
+        8,
+        91285,
+        93800
+      ]
+    ]
+  }
+}

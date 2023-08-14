@@ -1,0 +1,112 @@
+{
+  "id": 5004,
+  "chapter_id": 56,
+  "verse_key": "56:25",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 27765,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_025_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 27766,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_025_002.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 27767,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_025_003.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 27768,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_025_004.mp3",
+      "text": "لَغْوًۭا",
+      "translation": "sia-sia",
+      "transliteration": "laghwan"
+    },
+    {
+      "id": 27769,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_025_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 27770,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_025_006.mp3",
+      "text": "تَأْثِيمًا",
+      "translation": "menimbulkan dosa",
+      "transliteration": "tathīman"
+    },
+    {
+      "id": 27771,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tidak mendengar di dalamnya perkataan yang sia-sia dan tidak pula perkataan yang menimbulkan dosa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 154900,
+    "timestamp_to": 162370,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        154795,
+        155315
+      ],
+      [
+        2,
+        155315,
+        156705
+      ],
+      [
+        3,
+        156705,
+        157715
+      ],
+      [
+        4,
+        157715,
+        158515
+      ],
+      [
+        5,
+        158515,
+        160045
+      ],
+      [
+        6,
+        160045,
+        161680
+      ]
+    ]
+  }
+}

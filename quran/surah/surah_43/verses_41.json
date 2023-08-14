@@ -1,0 +1,112 @@
+{
+  "id": 4366,
+  "chapter_id": 43,
+  "verse_key": "43:41",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "فَإِمَّا نَذْهَبَنَّ بِكَ فَإِنَّا مِنْهُم مُّنتَقِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 41988,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_041_001.mp3",
+      "text": "فَإِمَّا",
+      "translation": "maka jika",
+      "transliteration": "fa-immā"
+    },
+    {
+      "id": 41989,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_041_002.mp3",
+      "text": "نَذْهَبَنَّ",
+      "translation": "sungguh Kami wafatkan",
+      "transliteration": "nadhhabanna"
+    },
+    {
+      "id": 41990,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_041_003.mp3",
+      "text": "بِكَ",
+      "translation": "dengan kamu",
+      "transliteration": "bika"
+    },
+    {
+      "id": 41991,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_041_004.mp3",
+      "text": "فَإِنَّا",
+      "translation": "maka sesungguhnya Kami",
+      "transliteration": "fa-innā"
+    },
+    {
+      "id": 41992,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_041_005.mp3",
+      "text": "مِنْهُم",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 41993,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_041_006.mp3",
+      "text": "مُّنتَقِمُونَ",
+      "translation": "orang-orang yang disiksa",
+      "transliteration": "muntaqimūna"
+    },
+    {
+      "id": 41994,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sungguh, jika Kami mewafatkan kamu (sebelum kamu mencapai kemenangan), maka sesungguhnya Kami akan menyiksa mereka (di akhirat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 591740,
+    "timestamp_to": 603390,
+    "duration": 11650,
+    "segments": [
+      [
+        1,
+        591695,
+        593395
+      ],
+      [
+        2,
+        593395,
+        595435
+      ],
+      [
+        3,
+        595435,
+        595855
+      ],
+      [
+        4,
+        595855,
+        597585
+      ],
+      [
+        5,
+        597585,
+        598295
+      ],
+      [
+        6,
+        598295,
+        603320
+      ]
+    ]
+  }
+}

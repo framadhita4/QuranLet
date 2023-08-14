@@ -1,0 +1,73 @@
+{
+  "id": 5433,
+  "chapter_id": 71,
+  "verse_key": "71:14",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 16263,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_014_001.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 16264,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_014_002.mp3",
+      "text": "خَلَقَكُمْ",
+      "translation": "menciptakan kalian",
+      "transliteration": "khalaqakum"
+    },
+    {
+      "id": 16265,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_014_003.mp3",
+      "text": "أَطْوَارًا",
+      "translation": "beberapa tingkatan",
+      "transliteration": "aṭwāran"
+    },
+    {
+      "id": 16266,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Padahal Dia sesungguhnya telah menciptakan kamu dalam beberapa tingkatan kejadian.<sup foot_note_id=\"1520\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 140320,
+    "timestamp_to": 143720,
+    "duration": 3400,
+    "segments": [
+      [
+        1,
+        140265,
+        140825
+      ],
+      [
+        2,
+        140825,
+        141845
+      ],
+      [
+        3,
+        141845,
+        143590
+      ]
+    ]
+  }
+}

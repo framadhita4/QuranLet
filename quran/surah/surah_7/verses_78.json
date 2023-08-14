@@ -1,0 +1,112 @@
+{
+  "id": 1032,
+  "chapter_id": 7,
+  "verse_key": "7:78",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "ruku_number": 131,
+  "manzil_number": 2,
+  "page_number": 160,
+  "juz_number": 8,
+  "text_uthmani": "فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 63475,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_078_001.mp3",
+      "text": "فَأَخَذَتْهُمُ",
+      "translation": "maka menimpa mereka",
+      "transliteration": "fa-akhadhathumu"
+    },
+    {
+      "id": 63476,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_078_002.mp3",
+      "text": "ٱلرَّجْفَةُ",
+      "translation": "gempa",
+      "transliteration": "l-rajfatu"
+    },
+    {
+      "id": 63477,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_078_003.mp3",
+      "text": "فَأَصْبَحُوا۟",
+      "translation": "maka jadilah mereka",
+      "transliteration": "fa-aṣbaḥū"
+    },
+    {
+      "id": 63478,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_078_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 63479,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_078_005.mp3",
+      "text": "دَارِهِمْ",
+      "translation": "rumah mereka",
+      "transliteration": "dārihim"
+    },
+    {
+      "id": 63480,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_078_006.mp3",
+      "text": "جَـٰثِمِينَ",
+      "translation": "mayat-mayat yang bergelimpangan",
+      "transliteration": "jāthimīna"
+    },
+    {
+      "id": 63481,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena itu, mereka ditimpa gempa, maka jadilah mereka mayat-mayat yang bergelimpangan di tempat tinggal mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1869790,
+    "timestamp_to": 1878380,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        1869765,
+        1871375
+      ],
+      [
+        2,
+        1871375,
+        1872505
+      ],
+      [
+        3,
+        1872505,
+        1873795
+      ],
+      [
+        4,
+        1873795,
+        1874285
+      ],
+      [
+        5,
+        1874285,
+        1875425
+      ],
+      [
+        6,
+        1875425,
+        1878340
+      ]
+    ]
+  }
+}

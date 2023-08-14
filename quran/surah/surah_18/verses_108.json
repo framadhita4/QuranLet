@@ -1,0 +1,112 @@
+{
+  "id": 2248,
+  "chapter_id": 18,
+  "verse_key": "18:108",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 263,
+  "manzil_number": 4,
+  "page_number": 304,
+  "juz_number": 16,
+  "text_uthmani": "خَـٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 73656,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_108_001.mp3",
+      "text": "خَـٰلِدِينَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidīna"
+    },
+    {
+      "id": 73657,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_108_002.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 73658,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_108_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 73659,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_108_004.mp3",
+      "text": "يَبْغُونَ",
+      "translation": "mereka ingin",
+      "transliteration": "yabghūna"
+    },
+    {
+      "id": 73660,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_108_005.mp3",
+      "text": "عَنْهَا",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhā"
+    },
+    {
+      "id": 73661,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_108_006.mp3",
+      "text": "حِوَلًۭا",
+      "translation": "pindah",
+      "transliteration": "ḥiwalan"
+    },
+    {
+      "id": 73662,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠٨",
+      "translation": "(108)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka kekal di dalamnya, mereka tidak ingin berpindah darinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1924750,
+    "timestamp_to": 1930890,
+    "duration": 6140,
+    "segments": [
+      [
+        1,
+        1924725,
+        1926025
+      ],
+      [
+        2,
+        1926025,
+        1926915
+      ],
+      [
+        3,
+        1926915,
+        1927425
+      ],
+      [
+        4,
+        1927425,
+        1928455
+      ],
+      [
+        5,
+        1928455,
+        1929285
+      ],
+      [
+        6,
+        1929285,
+        1930840
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2353,
+  "chapter_id": 20,
+  "verse_key": "20:5",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 4875,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_001.mp3",
+      "text": "ٱلرَّحْمَـٰنُ",
+      "translation": "Maha Pengasih",
+      "transliteration": "al-raḥmānu"
+    },
+    {
+      "id": 4876,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_002.mp3",
+      "text": "عَلَى",
+      "translation": "di atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 4877,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_003.mp3",
+      "text": "ٱلْعَرْشِ",
+      "translation": "'Arsy`",
+      "transliteration": "l-ʿarshi"
+    },
+    {
+      "id": 4878,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_004.mp3",
+      "text": "ٱسْتَوَىٰ",
+      "translation": "Dia menuju",
+      "transliteration": "is'tawā"
+    },
+    {
+      "id": 4879,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) Tuhan Yang Maha Pemurah, Yang bersemayam di atas arasy <sup foot_note_id=\"912\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 25410,
+    "timestamp_to": 29880,
+    "duration": 4470,
+    "segments": [
+      [
+        1,
+        25385,
+        27055
+      ],
+      [
+        2,
+        27055,
+        27455
+      ],
+      [
+        3,
+        27455,
+        28355
+      ],
+      [
+        4,
+        28355,
+        29360
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4017,
+  "chapter_id": 38,
+  "verse_key": "38:47",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 46995,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_047_001.mp3",
+      "text": "وَإِنَّهُمْ",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-innahum"
+    },
+    {
+      "id": 46996,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_047_002.mp3",
+      "text": "عِندَنَا",
+      "translation": "pada sisi Kami",
+      "transliteration": "ʿindanā"
+    },
+    {
+      "id": 46997,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_047_003.mp3",
+      "text": "لَمِنَ",
+      "translation": "benar-benar termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 46998,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_047_004.mp3",
+      "text": "ٱلْمُصْطَفَيْنَ",
+      "translation": "orang-orang pilihan",
+      "transliteration": "l-muṣ'ṭafayna"
+    },
+    {
+      "id": 46999,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_047_005.mp3",
+      "text": "ٱلْأَخْيَارِ",
+      "translation": "terpilih",
+      "transliteration": "l-akhyāri"
+    },
+    {
+      "id": 47000,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya mereka pada sisi Kami benar-benar termasuk orang-orang pilihan yang paling baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 647030,
+    "timestamp_to": 657220,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        647005,
+        648755
+      ],
+      [
+        2,
+        648755,
+        650715
+      ],
+      [
+        3,
+        650715,
+        651235
+      ],
+      [
+        4,
+        651235,
+        652815
+      ],
+      [
+        5,
+        652815,
+        657150
+      ]
+    ]
+  }
+}

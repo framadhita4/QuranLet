@@ -1,0 +1,86 @@
+{
+  "id": 2375,
+  "chapter_id": 20,
+  "verse_key": "20:27",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 29664,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_027_001.mp3",
+      "text": "وَٱحْلُلْ",
+      "translation": "dan lepaskan",
+      "transliteration": "wa-uḥ'lul"
+    },
+    {
+      "id": 29665,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_027_002.mp3",
+      "text": "عُقْدَةًۭ",
+      "translation": "ikatan",
+      "transliteration": "ʿuq'datan"
+    },
+    {
+      "id": 29666,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_027_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 29667,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_027_004.mp3",
+      "text": "لِّسَانِى",
+      "translation": "lisanku",
+      "transliteration": "lisānī"
+    },
+    {
+      "id": 29668,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan lepaskanlah kekakuan dari lidahku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 223350,
+    "timestamp_to": 228030,
+    "duration": 4680,
+    "segments": [
+      [
+        1,
+        223295,
+        224035
+      ],
+      [
+        2,
+        224035,
+        225165
+      ],
+      [
+        3,
+        225165,
+        226275
+      ],
+      [
+        4,
+        226275,
+        227950
+      ]
+    ]
+  }
+}

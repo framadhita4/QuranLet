@@ -1,0 +1,164 @@
+{
+  "id": 2364,
+  "chapter_id": 20,
+  "verse_key": "20:16",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 18281,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka janganlah",
+      "transliteration": "falā"
+    },
+    {
+      "id": 18282,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_002.mp3",
+      "text": "يَصُدَّنَّكَ",
+      "translation": "memalingkan kamu",
+      "transliteration": "yaṣuddannaka"
+    },
+    {
+      "id": 18283,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_003.mp3",
+      "text": "عَنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "ʿanhā"
+    },
+    {
+      "id": 18284,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_004.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 18285,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_005.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 18286,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_006.mp3",
+      "text": "يُؤْمِنُ",
+      "translation": "ia beriman",
+      "transliteration": "yu'minu"
+    },
+    {
+      "id": 18287,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_007.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya/kepadanya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 18288,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_008.mp3",
+      "text": "وَٱتَّبَعَ",
+      "translation": "dan ia mengikuti",
+      "transliteration": "wa-ittabaʿa"
+    },
+    {
+      "id": 18289,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_009.mp3",
+      "text": "هَوَىٰهُ",
+      "translation": "hawa nafsunya",
+      "transliteration": "hawāhu"
+    },
+    {
+      "id": 18290,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_016_010.mp3",
+      "text": "فَتَرْدَىٰ",
+      "translation": "maka kamu akan binasa",
+      "transliteration": "fatardā"
+    },
+    {
+      "id": 18291,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sekali-kali janganlah kamu dipalingkan darinya oleh orang yang tidak beriman kepadanya dan oleh orang yang mengikuti hawa nafsunya yang menyebabkan kamu jadi binasa\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 146050,
+    "timestamp_to": 156470,
+    "duration": 10420,
+    "segments": [
+      [
+        1,
+        145415,
+        146135
+      ],
+      [
+        2,
+        146135,
+        148455
+      ],
+      [
+        3,
+        148455,
+        149435
+      ],
+      [
+        4,
+        149435,
+        149635
+      ],
+      [
+        5,
+        149635,
+        150385
+      ],
+      [
+        6,
+        150385,
+        151285
+      ],
+      [
+        7,
+        151285,
+        151985
+      ],
+      [
+        8,
+        151985,
+        153125
+      ],
+      [
+        9,
+        153125,
+        154075
+      ],
+      [
+        10,
+        154075,
+        155390
+      ]
+    ]
+  }
+}

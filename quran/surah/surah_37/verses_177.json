@@ -1,0 +1,112 @@
+{
+  "id": 3965,
+  "chapter_id": 37,
+  "verse_key": "37:177",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83583,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_177_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 83584,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_177_002.mp3",
+      "text": "نَزَلَ",
+      "translation": "(azab) turun",
+      "transliteration": "nazala"
+    },
+    {
+      "id": 83585,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_177_003.mp3",
+      "text": "بِسَاحَتِهِمْ",
+      "translation": "di halaman mereka",
+      "transliteration": "bisāḥatihim"
+    },
+    {
+      "id": 83586,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_177_004.mp3",
+      "text": "فَسَآءَ",
+      "translation": "maka amat buruk",
+      "transliteration": "fasāa"
+    },
+    {
+      "id": 83587,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_177_005.mp3",
+      "text": "صَبَاحُ",
+      "translation": "pagi hari",
+      "transliteration": "ṣabāḥu"
+    },
+    {
+      "id": 83588,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_177_006.mp3",
+      "text": "ٱلْمُنذَرِينَ",
+      "translation": "orang-orang yang diberi peringatan",
+      "transliteration": "l-mundharīna"
+    },
+    {
+      "id": 83589,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٧٧",
+      "translation": "(177)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila siksaan itu turun di halaman mereka, maka amat buruklah pagi hari yang dialami oleh orang-orang yang diperingatkan itu <sup foot_note_id=\"1295\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1407360,
+    "timestamp_to": 1417650,
+    "duration": 10290,
+    "segments": [
+      [
+        1,
+        1407295,
+        1408115
+      ],
+      [
+        2,
+        1408115,
+        1408705
+      ],
+      [
+        3,
+        1408705,
+        1410095
+      ],
+      [
+        4,
+        1410095,
+        1412365
+      ],
+      [
+        5,
+        1412365,
+        1413265
+      ],
+      [
+        6,
+        1413265,
+        1417530
+      ]
+    ]
+  }
+}

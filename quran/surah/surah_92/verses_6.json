@@ -1,0 +1,60 @@
+{
+  "id": 6064,
+  "chapter_id": 92,
+  "verse_key": "92:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 5977,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_006_001.mp3",
+      "text": "وَصَدَّقَ",
+      "translation": "dan ia membenarkan/akui",
+      "transliteration": "waṣaddaqa"
+    },
+    {
+      "id": 5978,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_006_002.mp3",
+      "text": "بِٱلْحُسْنَىٰ",
+      "translation": "dengan kebaikan",
+      "transliteration": "bil-ḥus'nā"
+    },
+    {
+      "id": 5979,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan membenarkan adanya pahala yang terbaik (surga),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21810,
+    "timestamp_to": 24760,
+    "duration": 2950,
+    "segments": [
+      [
+        1,
+        21755,
+        22815
+      ],
+      [
+        2,
+        22815,
+        24180
+      ]
+    ]
+  }
+}

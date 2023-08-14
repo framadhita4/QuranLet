@@ -1,0 +1,73 @@
+{
+  "id": 4803,
+  "chapter_id": 53,
+  "verse_key": "53:19",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 21466,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_019_001.mp3",
+      "text": "أَفَرَءَيْتُمُ",
+      "translation": "apakah maka kamu perhatikan",
+      "transliteration": "afara-aytumu"
+    },
+    {
+      "id": 21467,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_019_002.mp3",
+      "text": "ٱللَّـٰتَ",
+      "translation": "Al Lata",
+      "transliteration": "l-lāta"
+    },
+    {
+      "id": 21468,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_019_003.mp3",
+      "text": "وَٱلْعُزَّىٰ",
+      "translation": "dan Al 'Uzza",
+      "transliteration": "wal-ʿuzā"
+    },
+    {
+      "id": 21469,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah patut kamu (hai orang-orang musyrik) menganggap Al-Lāta dan Al-ʻUzzā,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 84820,
+    "timestamp_to": 89500,
+    "duration": 4680,
+    "segments": [
+      [
+        1,
+        84775,
+        86405
+      ],
+      [
+        2,
+        86405,
+        87495
+      ],
+      [
+        3,
+        87495,
+        88970
+      ]
+    ]
+  }
+}

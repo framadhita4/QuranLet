@@ -1,0 +1,86 @@
+{
+  "id": 3899,
+  "chapter_id": 37,
+  "verse_key": "37:111",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 74485,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 74486,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 74487,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_003.mp3",
+      "text": "عِبَادِنَا",
+      "translation": "hamba-hamba Kami",
+      "transliteration": "ʿibādinā"
+    },
+    {
+      "id": 74488,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_004.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 74489,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١١",
+      "translation": "(111)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ia termasuk hamba-hamba Kami yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 918660,
+    "timestamp_to": 925610,
+    "duration": 6950,
+    "segments": [
+      [
+        1,
+        918585,
+        920445
+      ],
+      [
+        2,
+        920445,
+        920805
+      ],
+      [
+        3,
+        920805,
+        921865
+      ],
+      [
+        4,
+        921865,
+        925470
+      ]
+    ]
+  }
+}

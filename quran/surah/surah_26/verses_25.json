@@ -1,0 +1,99 @@
+{
+  "id": 2957,
+  "chapter_id": 26,
+  "verse_key": "26:25",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 28179,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_025_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 28180,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_025_002.mp3",
+      "text": "لِمَنْ",
+      "translation": "kepada orang-orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 28181,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_025_003.mp3",
+      "text": "حَوْلَهُۥٓ",
+      "translation": "di sekelilingnya",
+      "transliteration": "ḥawlahu"
+    },
+    {
+      "id": 28182,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_025_004.mp3",
+      "text": "أَلَا",
+      "translation": "apakah tidak",
+      "transliteration": "alā"
+    },
+    {
+      "id": 28183,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_025_005.mp3",
+      "text": "تَسْتَمِعُونَ",
+      "translation": "kamu mendengarkan",
+      "transliteration": "tastamiʿūna"
+    },
+    {
+      "id": 28184,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Firʻawn  kepada orang-orang sekelilingnya, \"Apakah kamu tidak mendengarkan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 251100,
+    "timestamp_to": 259020,
+    "duration": 7920,
+    "segments": [
+      [
+        1,
+        251065,
+        251795
+      ],
+      [
+        2,
+        251795,
+        252295
+      ],
+      [
+        3,
+        252295,
+        254635
+      ],
+      [
+        4,
+        254635,
+        255235
+      ],
+      [
+        5,
+        255235,
+        258920
+      ]
+    ]
+  }
+}

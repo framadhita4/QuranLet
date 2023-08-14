@@ -1,0 +1,86 @@
+{
+  "id": 3680,
+  "chapter_id": 35,
+  "verse_key": "35:20",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 437,
+  "juz_number": 22,
+  "text_uthmani": "وَلَا ٱلظُّلُمَـٰتُ وَلَا ٱلنُّورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 23239,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_020_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 23240,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_020_002.mp3",
+      "text": "ٱلظُّلُمَـٰتُ",
+      "translation": "yang gelap",
+      "transliteration": "l-ẓulumātu"
+    },
+    {
+      "id": 23241,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_020_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 23242,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_020_004.mp3",
+      "text": "ٱلنُّورُ",
+      "translation": "yang terang",
+      "transliteration": "l-nūru"
+    },
+    {
+      "id": 23243,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tidak (pula) sama gelap gulita dengan cahaya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 419730,
+    "timestamp_to": 425560,
+    "duration": 5830,
+    "segments": [
+      [
+        1,
+        419665,
+        420095
+      ],
+      [
+        2,
+        420095,
+        421395
+      ],
+      [
+        3,
+        421395,
+        421635
+      ],
+      [
+        4,
+        421635,
+        425440
+      ]
+    ]
+  }
+}

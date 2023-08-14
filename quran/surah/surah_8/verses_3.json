@@ -1,0 +1,112 @@
+{
+  "id": 1163,
+  "chapter_id": 8,
+  "verse_key": "8:3",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 146,
+  "manzil_number": 2,
+  "page_number": 177,
+  "juz_number": 9,
+  "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 2196,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_003_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 2197,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_003_002.mp3",
+      "text": "يُقِيمُونَ",
+      "translation": "(mereka) mendirikan",
+      "transliteration": "yuqīmūna"
+    },
+    {
+      "id": 2198,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_003_003.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 2199,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_003_004.mp3",
+      "text": "وَمِمَّا",
+      "translation": "dan dari apa(rezki)",
+      "transliteration": "wamimmā"
+    },
+    {
+      "id": 2200,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_003_005.mp3",
+      "text": "رَزَقْنَـٰهُمْ",
+      "translation": "telah Kami berikan rezki kepada mereka",
+      "transliteration": "razaqnāhum"
+    },
+    {
+      "id": 2201,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_003_006.mp3",
+      "text": "يُنفِقُونَ",
+      "translation": "mereka menafkahkan",
+      "transliteration": "yunfiqūna"
+    },
+    {
+      "id": 2202,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang mendirikan salat dan yang menafkahkan sebagian dari rezeki yang Kami berikan kepada mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 63040,
+    "timestamp_to": 75370,
+    "duration": 12330,
+    "segments": [
+      [
+        1,
+        62995,
+        64335
+      ],
+      [
+        2,
+        64335,
+        65685
+      ],
+      [
+        3,
+        65685,
+        66935
+      ],
+      [
+        4,
+        66935,
+        68945
+      ],
+      [
+        5,
+        68945,
+        70595
+      ],
+      [
+        6,
+        70595,
+        75300
+      ]
+    ]
+  }
+}

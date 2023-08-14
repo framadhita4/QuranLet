@@ -1,0 +1,164 @@
+{
+  "id": 1069,
+  "chapter_id": 7,
+  "verse_key": "7:115",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "قَالُوا۟ يَـٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ نَحْنُ ٱلْمُلْقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 75392,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 75393,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_002.mp3",
+      "text": "يَـٰمُوسَىٰٓ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 75394,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_003.mp3",
+      "text": "إِمَّآ",
+      "translation": "apakah/ataukah",
+      "transliteration": "immā"
+    },
+    {
+      "id": 75395,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_004.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 75396,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_005.mp3",
+      "text": "تُلْقِىَ",
+      "translation": "kamu melemparkan",
+      "transliteration": "tul'qiya"
+    },
+    {
+      "id": 75397,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_006.mp3",
+      "text": "وَإِمَّآ",
+      "translation": "dan apakah/ataukah",
+      "transliteration": "wa-immā"
+    },
+    {
+      "id": 75398,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_007.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 75399,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_008.mp3",
+      "text": "نَّكُونَ",
+      "translation": "kami adalah",
+      "transliteration": "nakūna"
+    },
+    {
+      "id": 75400,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_009.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 75401,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_115_010.mp3",
+      "text": "ٱلْمُلْقِينَ",
+      "translation": "orang-orang yang melemparkan",
+      "transliteration": "l-mul'qīna"
+    },
+    {
+      "id": 75402,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١٥",
+      "translation": "(115)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ahli-ahli sihir berkata, \"Hai Musa, kamukah yang akan melemparkan lebih dahulu, ataukah kami yang akan melemparkan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2575330,
+    "timestamp_to": 2592440,
+    "duration": 17110,
+    "segments": [
+      [
+        1,
+        2575305,
+        2576185
+      ],
+      [
+        2,
+        2576185,
+        2579035
+      ],
+      [
+        3,
+        2579035,
+        2582005
+      ],
+      [
+        4,
+        2582005,
+        2583045
+      ],
+      [
+        5,
+        2583045,
+        2584035
+      ],
+      [
+        6,
+        2584035,
+        2587075
+      ],
+      [
+        7,
+        2587075,
+        2587355
+      ],
+      [
+        8,
+        2587355,
+        2588825
+      ],
+      [
+        9,
+        2588825,
+        2589405
+      ],
+      [
+        10,
+        2589405,
+        2592390
+      ]
+    ]
+  }
+}

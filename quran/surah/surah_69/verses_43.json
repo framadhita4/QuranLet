@@ -1,0 +1,86 @@
+{
+  "id": 5366,
+  "chapter_id": 69,
+  "verse_key": "69:43",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 43710,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_043_001.mp3",
+      "text": "تَنزِيلٌۭ",
+      "translation": "diturunkan",
+      "transliteration": "tanzīlun"
+    },
+    {
+      "id": 43711,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_043_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43712,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_043_003.mp3",
+      "text": "رَّبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 43713,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_043_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 43714,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ia adalah wahyu yang diturunkan dari Tuhan semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 327960,
+    "timestamp_to": 335400,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        327895,
+        330205
+      ],
+      [
+        2,
+        330205,
+        331005
+      ],
+      [
+        3,
+        331005,
+        331905
+      ],
+      [
+        4,
+        331905,
+        335260
+      ]
+    ]
+  }
+}

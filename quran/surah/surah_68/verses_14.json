@@ -1,0 +1,99 @@
+{
+  "id": 5285,
+  "chapter_id": 68,
+  "verse_key": "68:14",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 16157,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_014_001.mp3",
+      "text": "أَن",
+      "translation": "karena",
+      "transliteration": "an"
+    },
+    {
+      "id": 16158,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_014_002.mp3",
+      "text": "كَانَ",
+      "translation": "dia adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 16159,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_014_003.mp3",
+      "text": "ذَا",
+      "translation": "mempunyai",
+      "transliteration": "dhā"
+    },
+    {
+      "id": 16160,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_014_004.mp3",
+      "text": "مَالٍۢ",
+      "translation": "harta",
+      "transliteration": "mālin"
+    },
+    {
+      "id": 16161,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_014_005.mp3",
+      "text": "وَبَنِينَ",
+      "translation": "dan anak-anak",
+      "transliteration": "wabanīna"
+    },
+    {
+      "id": 16162,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena dia mempunyai (banyak) harta dan anak<sup foot_note_id=\"1491\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 92220,
+    "timestamp_to": 99900,
+    "duration": 7680,
+    "segments": [
+      [
+        1,
+        92155,
+        93545
+      ],
+      [
+        2,
+        93545,
+        94215
+      ],
+      [
+        3,
+        94215,
+        94605
+      ],
+      [
+        4,
+        94605,
+        96255
+      ],
+      [
+        5,
+        96255,
+        99770
+      ]
+    ]
+  }
+}

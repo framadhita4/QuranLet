@@ -1,0 +1,127 @@
+{
+  "id": 1800,
+  "chapter_id": 14,
+  "verse_key": "14:50",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 217,
+  "manzil_number": 3,
+  "page_number": 261,
+  "juz_number": 13,
+  "text_uthmani": "سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 48436,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_050_001.mp3",
+      "text": "سَرَابِيلُهُم",
+      "translation": "pakaian mereka",
+      "transliteration": "sarābīluhum"
+    },
+    {
+      "id": 48437,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_050_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 48438,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_050_003.mp3",
+      "text": "قَطِرَانٍۢ",
+      "translation": "kuningan yang panas",
+      "transliteration": "qaṭirānin"
+    },
+    {
+      "id": 48439,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_050_004.mp3",
+      "text": "وَتَغْشَىٰ",
+      "translation": "dan menutupi",
+      "transliteration": "wataghshā"
+    },
+    {
+      "id": 48440,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_050_005.mp3",
+      "text": "وُجُوهَهُمُ",
+      "translation": "muka mereka",
+      "transliteration": "wujūhahumu"
+    },
+    {
+      "id": 48441,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_050_006.mp3",
+      "text": "ٱلنَّارُ",
+      "translation": "api neraka",
+      "transliteration": "l-nāru"
+    },
+    {
+      "id": 48442,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pakaian mereka adalah dari pelangkin (ter) dan muka mereka ditutup oleh api neraka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1155728,
+    "timestamp_to": 1174362,
+    "duration": 18370,
+    "segments": [
+      [
+        1,
+        1155722,
+        1158519
+      ],
+      [
+        2,
+        1158519,
+        1159398
+      ],
+      [
+        3,
+        1159398,
+        1163037
+      ],
+      [
+        1,
+        1163037,
+        1165392
+      ],
+      [
+        2,
+        1165392,
+        1166317
+      ],
+      [
+        3,
+        1166317,
+        1167670
+      ],
+      [
+        4,
+        1167670,
+        1169678
+      ],
+      [
+        5,
+        1169678,
+        1171211
+      ],
+      [
+        6,
+        1171211,
+        1173985
+      ]
+    ]
+  }
+}

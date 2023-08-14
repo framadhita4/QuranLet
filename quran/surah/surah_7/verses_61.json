@@ -1,0 +1,164 @@
+{
+  "id": 1015,
+  "chapter_id": 7,
+  "verse_key": "7:61",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "ruku_number": 129,
+  "manzil_number": 2,
+  "page_number": 158,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ يَـٰقَوْمِ لَيْسَ بِى ضَلَـٰلَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 55026,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Nuh) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 55027,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_002.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 55028,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_003.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidaklah",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 55029,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_004.mp3",
+      "text": "بِى",
+      "translation": "denganku",
+      "transliteration": "bī"
+    },
+    {
+      "id": 55030,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_005.mp3",
+      "text": "ضَلَـٰلَةٌۭ",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālatun"
+    },
+    {
+      "id": 55031,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_006.mp3",
+      "text": "وَلَـٰكِنِّى",
+      "translation": "akan tetapi aku",
+      "transliteration": "walākinnī"
+    },
+    {
+      "id": 55032,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_007.mp3",
+      "text": "رَسُولٌۭ",
+      "translation": "utusan",
+      "transliteration": "rasūlun"
+    },
+    {
+      "id": 55033,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_008.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 55034,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_009.mp3",
+      "text": "رَّبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 55035,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_061_010.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 55036,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Nūḥ menjawab, \"Hai kaumku, tak ada padaku kesesatan sedikit pun tetapi aku adalah utusan dari Tuhan semesta alam\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1456200,
+    "timestamp_to": 1468350,
+    "duration": 12150,
+    "segments": [
+      [
+        1,
+        1456175,
+        1457005
+      ],
+      [
+        2,
+        1457005,
+        1457905
+      ],
+      [
+        3,
+        1457905,
+        1458525
+      ],
+      [
+        4,
+        1458525,
+        1458905
+      ],
+      [
+        5,
+        1458905,
+        1460765
+      ],
+      [
+        6,
+        1460765,
+        1462825
+      ],
+      [
+        7,
+        1462825,
+        1463675
+      ],
+      [
+        8,
+        1463675,
+        1464605
+      ],
+      [
+        9,
+        1464605,
+        1465435
+      ],
+      [
+        10,
+        1465435,
+        1468280
+      ]
+    ]
+  }
+}

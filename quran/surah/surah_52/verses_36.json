@@ -1,0 +1,125 @@
+{
+  "id": 4771,
+  "chapter_id": 52,
+  "verse_key": "52:36",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ خَلَقُوا۟ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 37957,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 37958,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_002.mp3",
+      "text": "خَلَقُوا۟",
+      "translation": "mereka menciptakan",
+      "transliteration": "khalaqū"
+    },
+    {
+      "id": 37959,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 37960,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_004.mp3",
+      "text": "وَٱلْأَرْضَ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 37962,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_006.mp3",
+      "text": "بَل",
+      "translation": "tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 37963,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_007.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 37964,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_036_008.mp3",
+      "text": "يُوقِنُونَ",
+      "translation": "mereka meyakini",
+      "transliteration": "yūqinūna"
+    },
+    {
+      "id": 37965,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah mereka telah menciptakan langit dan bumi itu? Sebenarnya mereka tidak meyakini (apa yang mereka katakan).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 333190,
+    "timestamp_to": 341730,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        333135,
+        333575
+      ],
+      [
+        2,
+        333575,
+        334265
+      ],
+      [
+        3,
+        334265,
+        335885
+      ],
+      [
+        4,
+        335885,
+        337375
+      ],
+      [
+        5,
+        337375,
+        337645
+      ],
+      [
+        6,
+        337645,
+        338305
+      ],
+      [
+        7,
+        338305,
+        341610
+      ]
+    ]
+  }
+}

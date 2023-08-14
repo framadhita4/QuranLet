@@ -1,0 +1,112 @@
+{
+  "id": 4380,
+  "chapter_id": 43,
+  "verse_key": "43:55",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 430,
+  "manzil_number": 6,
+  "page_number": 493,
+  "juz_number": 25,
+  "text_uthmani": "فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 51582,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_055_001.mp3",
+      "text": "فَلَمَّآ",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 51583,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_055_002.mp3",
+      "text": "ءَاسَفُونَا",
+      "translation": "mereka membuat Kami murka",
+      "transliteration": "āsafūnā"
+    },
+    {
+      "id": 51584,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_055_003.mp3",
+      "text": "ٱنتَقَمْنَا",
+      "translation": "Kami hukum",
+      "transliteration": "intaqamnā"
+    },
+    {
+      "id": 51585,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_055_004.mp3",
+      "text": "مِنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 51586,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_055_005.mp3",
+      "text": "فَأَغْرَقْنَـٰهُمْ",
+      "translation": "lalu Kami tenggelamkan mereka",
+      "transliteration": "fa-aghraqnāhum"
+    },
+    {
+      "id": 51587,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_055_006.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semua",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 51588,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tatkala mereka membuat Kami murka, Kami menghukum mereka, lalu kami tenggelamkan mereka semuanya (di laut),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 782080,
+    "timestamp_to": 794980,
+    "duration": 12910,
+    "segments": [
+      [
+        1,
+        782055,
+        785575
+      ],
+      [
+        2,
+        785575,
+        786845
+      ],
+      [
+        3,
+        786845,
+        788785
+      ],
+      [
+        4,
+        788785,
+        789525
+      ],
+      [
+        5,
+        789525,
+        791455
+      ],
+      [
+        6,
+        791455,
+        794940
+      ]
+    ]
+  }
+}

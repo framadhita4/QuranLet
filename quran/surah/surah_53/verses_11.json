@@ -1,0 +1,99 @@
+{
+  "id": 4795,
+  "chapter_id": 53,
+  "verse_key": "53:11",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 12481,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_011_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 12482,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_011_002.mp3",
+      "text": "كَذَبَ",
+      "translation": "mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 12483,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_011_003.mp3",
+      "text": "ٱلْفُؤَادُ",
+      "translation": "hati itu",
+      "transliteration": "l-fuādu"
+    },
+    {
+      "id": 12484,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_011_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 12485,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_011_005.mp3",
+      "text": "رَأَىٰٓ",
+      "translation": "dia lihat",
+      "transliteration": "raā"
+    },
+    {
+      "id": 12486,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hatinya tidak mendustakan apa yang telah dilihatnya<sup foot_note_id=\"1430\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 46680,
+    "timestamp_to": 50680,
+    "duration": 4000,
+    "segments": [
+      [
+        1,
+        46305,
+        46785
+      ],
+      [
+        2,
+        46785,
+        47455
+      ],
+      [
+        3,
+        47455,
+        48675
+      ],
+      [
+        4,
+        48675,
+        49135
+      ],
+      [
+        5,
+        49135,
+        49870
+      ]
+    ]
+  }
+}

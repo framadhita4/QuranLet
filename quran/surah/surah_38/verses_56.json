@@ -1,0 +1,86 @@
+{
+  "id": 4026,
+  "chapter_id": 38,
+  "verse_key": "38:56",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ ٱلْمِهَادُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 52127,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_056_001.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka jahannam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 52128,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_056_002.mp3",
+      "text": "يَصْلَوْنَهَا",
+      "translation": "mereka memasukinya",
+      "transliteration": "yaṣlawnahā"
+    },
+    {
+      "id": 52129,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_056_003.mp3",
+      "text": "فَبِئْسَ",
+      "translation": "maka alangkah buruk",
+      "transliteration": "fabi'sa"
+    },
+    {
+      "id": 52130,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_056_004.mp3",
+      "text": "ٱلْمِهَادُ",
+      "translation": "tempat tinggal",
+      "transliteration": "l-mihādu"
+    },
+    {
+      "id": 52131,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) neraka Jahanam yang mereka masuk ke dalamnya; maka amat buruklah Jahanam itu sebagai tempat tinggal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 730800,
+    "timestamp_to": 737980,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        730735,
+        732485
+      ],
+      [
+        2,
+        732485,
+        734095
+      ],
+      [
+        3,
+        734095,
+        734935
+      ],
+      [
+        4,
+        734935,
+        737890
+      ]
+    ]
+  }
+}

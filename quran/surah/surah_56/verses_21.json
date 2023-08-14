@@ -1,0 +1,86 @@
+{
+  "id": 5000,
+  "chapter_id": 56,
+  "verse_key": "56:21",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 23392,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_021_001.mp3",
+      "text": "وَلَحْمِ",
+      "translation": "dan daging",
+      "transliteration": "walaḥmi"
+    },
+    {
+      "id": 23393,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_021_002.mp3",
+      "text": "طَيْرٍۢ",
+      "translation": "burung",
+      "transliteration": "ṭayrin"
+    },
+    {
+      "id": 23394,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_021_003.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 23395,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_021_004.mp3",
+      "text": "يَشْتَهُونَ",
+      "translation": "mereka inginkan",
+      "transliteration": "yashtahūna"
+    },
+    {
+      "id": 23396,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan daging burung dari apa yang mereka inginkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 126810,
+    "timestamp_to": 135300,
+    "duration": 8490,
+    "segments": [
+      [
+        1,
+        126755,
+        127665
+      ],
+      [
+        2,
+        127665,
+        128335
+      ],
+      [
+        3,
+        128335,
+        131465
+      ],
+      [
+        4,
+        131465,
+        135160
+      ]
+    ]
+  }
+}

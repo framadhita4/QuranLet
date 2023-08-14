@@ -1,0 +1,60 @@
+{
+  "id": 5959,
+  "chapter_id": 87,
+  "verse_key": "87:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 13050,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_011_001.mp3",
+      "text": "وَيَتَجَنَّبُهَا",
+      "translation": "dan akan menjauhi",
+      "transliteration": "wayatajannabuhā"
+    },
+    {
+      "id": 13051,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_011_002.mp3",
+      "text": "ٱلْأَشْقَى",
+      "translation": "orang yang celaka",
+      "transliteration": "l-ashqā"
+    },
+    {
+      "id": 13052,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "orang-orang yang celaka (kafir) akan menjauhinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50830,
+    "timestamp_to": 55090,
+    "duration": 4260,
+    "segments": [
+      [
+        1,
+        50275,
+        52695
+      ],
+      [
+        2,
+        52695,
+        54490
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "uthmani";
+  src: url("/font/UthmanicHafs_V21.ttf") format("truetype");
+}
+
+@layer utilities {
+  .mask {
+    clip-path: circle(40% at 50% 140%);
+  }
+  .mask-hover {
+    clip-path: circle(140% at 50% 140%);
+  }
+
+  .search {
+    background: linear-gradient(
+      to right,
+      var(--sec-color-light),
+      var(--sec-color-light) 50%,
+      white 50%
+    );
+    background-size: 200% 100%;
+  }
+
+  .search-100 {
+    background-position: 0%;
+  }
+
+  .search-0 {
+    background-position: 100% 0%;
+  }
+
+  .info-off {
+    clip-path: circle(10px at calc(100% - 18px) 14px);
+  }
+
+  .info-on {
+    clip-path: circle(150% at calc(100% - 18px) 14px);
+  }
+}
+
+:root {
+  --pri-color-light: #83eaf1;
+  --sec-color-light: #6dbafb;
+  --thr-color-light: #63a4ff;
+}
+
+.off-canvas-enter {
+  opacity: 0;
+  top: 2.5rem;
+  right: 2.5rem;
+}
+.off-canvas-enter-active {
+  opacity: 1;
+  top: 3.5rem;
+  right: 2.5rem;
+  transition: all 500ms ease-in-out;
+}
+.off-canvas-exit {
+  opacity: 1;
+  top: 3.5rem;
+  right: 2.5rem;
+}
+.off-canvas-exit-active {
+  opacity: 0;
+  right: 2.5rem;
+  top: 2.5rem;
+  transition: all 500ms ease-in-out;
+}
+
+sup {
+  cursor: pointer;
+  color: var(--sec-color-light);
+  padding: 0.2rem;
+}

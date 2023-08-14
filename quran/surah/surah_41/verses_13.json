@@ -1,0 +1,151 @@
+{
+  "id": 4231,
+  "chapter_id": 41,
+  "verse_key": "41:13",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "ruku_number": 416,
+  "manzil_number": 6,
+  "page_number": 478,
+  "juz_number": 24,
+  "text_uthmani": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَـٰعِقَةً مِّثْلَ صَـٰعِقَةِ عَادٍ وَثَمُودَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 14715,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_001.mp3",
+      "text": "فَإِنْ",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 14716,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_002.mp3",
+      "text": "أَعْرَضُوا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "aʿraḍū"
+    },
+    {
+      "id": 14717,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_003.mp3",
+      "text": "فَقُلْ",
+      "translation": "maka katakanlah",
+      "transliteration": "faqul"
+    },
+    {
+      "id": 14718,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_004.mp3",
+      "text": "أَنذَرْتُكُمْ",
+      "translation": "aku telah peringatkan kamu",
+      "transliteration": "andhartukum"
+    },
+    {
+      "id": 14719,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_005.mp3",
+      "text": "صَـٰعِقَةًۭ",
+      "translation": "petir",
+      "transliteration": "ṣāʿiqatan"
+    },
+    {
+      "id": 14720,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_006.mp3",
+      "text": "مِّثْلَ",
+      "translation": "seperti",
+      "transliteration": "mith'la"
+    },
+    {
+      "id": 14721,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_007.mp3",
+      "text": "صَـٰعِقَةِ",
+      "translation": "petir",
+      "transliteration": "ṣāʿiqati"
+    },
+    {
+      "id": 14722,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_008.mp3",
+      "text": "عَادٍۢ",
+      "translation": "kaum'Ad",
+      "transliteration": "ʿādin"
+    },
+    {
+      "id": 14723,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_013_009.mp3",
+      "text": "وَثَمُودَ",
+      "translation": "dan kaum Tsamud",
+      "transliteration": "wathamūda"
+    },
+    {
+      "id": 14724,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika mereka berpaling maka katakanlah, \"Aku telah memperingatkan kamu dengan petir, seperti petir yang menimpa kaum ‘Ād dan Ṡamūd\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 218360,
+    "timestamp_to": 231470,
+    "duration": 13110,
+    "segments": [
+      [
+        1,
+        218295,
+        218925
+      ],
+      [
+        2,
+        218925,
+        219865
+      ],
+      [
+        3,
+        219865,
+        220515
+      ],
+      [
+        4,
+        220515,
+        222715
+      ],
+      [
+        5,
+        222715,
+        223905
+      ],
+      [
+        6,
+        223905,
+        225175
+      ],
+      [
+        7,
+        225175,
+        226255
+      ],
+      [
+        8,
+        226255,
+        227915
+      ],
+      [
+        9,
+        227915,
+        231370
+      ]
+    ]
+  }
+}

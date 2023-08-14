@@ -1,0 +1,99 @@
+{
+  "id": 4882,
+  "chapter_id": 54,
+  "verse_key": "54:36",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 37972,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_036_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 37973,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_036_002.mp3",
+      "text": "أَنذَرَهُم",
+      "translation": "ia memperingatkan mereka",
+      "transliteration": "andharahum"
+    },
+    {
+      "id": 37974,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_036_003.mp3",
+      "text": "بَطْشَتَنَا",
+      "translation": "balasan/azab Kami",
+      "transliteration": "baṭshatanā"
+    },
+    {
+      "id": 37975,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_036_004.mp3",
+      "text": "فَتَمَارَوْا۟",
+      "translation": "maka (tetapi) mereka membantah/mendustakan",
+      "transliteration": "fatamāraw"
+    },
+    {
+      "id": 37976,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_036_005.mp3",
+      "text": "بِٱلنُّذُرِ",
+      "translation": "dengan peringatan/ancaman",
+      "transliteration": "bil-nudhuri"
+    },
+    {
+      "id": 37977,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya dia (Lūṭ) telah memperingatkan mereka akan azab-azab Kami, maka mereka mendustakan ancaman-ancaman itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 325630,
+    "timestamp_to": 334850,
+    "duration": 9220,
+    "segments": [
+      [
+        1,
+        325375,
+        326275
+      ],
+      [
+        2,
+        326275,
+        329545
+      ],
+      [
+        3,
+        329545,
+        330885
+      ],
+      [
+        4,
+        330885,
+        332315
+      ],
+      [
+        5,
+        332315,
+        334540
+      ]
+    ]
+  }
+}

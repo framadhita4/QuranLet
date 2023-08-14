@@ -1,0 +1,99 @@
+{
+  "id": 3934,
+  "chapter_id": 37,
+  "verse_key": "37:146",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79925,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_001.mp3",
+      "text": "وَأَنۢبَتْنَا",
+      "translation": "dan Kami tumbuhkan",
+      "transliteration": "wa-anbatnā"
+    },
+    {
+      "id": 79926,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya/untuknya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 79927,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_003.mp3",
+      "text": "شَجَرَةًۭ",
+      "translation": "sebatang pohon",
+      "transliteration": "shajaratan"
+    },
+    {
+      "id": 79928,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 79929,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_005.mp3",
+      "text": "يَقْطِينٍۢ",
+      "translation": "jenis labu",
+      "transliteration": "yaqṭīnin"
+    },
+    {
+      "id": 79930,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤٦",
+      "translation": "(146)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tumbuhkan untuk dia sebatang pohon dari jenis labu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1177360,
+    "timestamp_to": 1186530,
+    "duration": 9170,
+    "segments": [
+      [
+        1,
+        1177285,
+        1179605
+      ],
+      [
+        2,
+        1179605,
+        1180385
+      ],
+      [
+        3,
+        1180385,
+        1181545
+      ],
+      [
+        4,
+        1181545,
+        1182665
+      ],
+      [
+        5,
+        1182665,
+        1186380
+      ]
+    ]
+  }
+}

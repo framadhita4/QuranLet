@@ -1,0 +1,177 @@
+{
+  "id": 4192,
+  "chapter_id": 40,
+  "verse_key": "40:59",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "ruku_number": 411,
+  "manzil_number": 6,
+  "page_number": 474,
+  "juz_number": 24,
+  "text_uthmani": "إِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ لَّا رَيْبَ فِيهَا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 54060,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 54061,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_002.mp3",
+      "text": "ٱلسَّاعَةَ",
+      "translation": "hari kiamat",
+      "transliteration": "l-sāʿata"
+    },
+    {
+      "id": 54062,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_003.mp3",
+      "text": "لَـَٔاتِيَةٌۭ",
+      "translation": "pasti akan datang",
+      "transliteration": "laātiyatun"
+    },
+    {
+      "id": 54063,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_004.mp3",
+      "text": "لَّا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 54064,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_005.mp3",
+      "text": "رَيْبَ",
+      "translation": "keraguan",
+      "transliteration": "rayba"
+    },
+    {
+      "id": 54065,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_006.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 54066,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_007.mp3",
+      "text": "وَلَـٰكِنَّ",
+      "translation": "akan tetapi",
+      "transliteration": "walākinna"
+    },
+    {
+      "id": 54067,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_008.mp3",
+      "text": "أَكْثَرَ",
+      "translation": "kebanyakan",
+      "transliteration": "akthara"
+    },
+    {
+      "id": 54068,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_009.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 54069,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 54070,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_059_011.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 54071,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya hari kiamat pasti akan datang, tidak ada keraguan tentangnya, akan tetapi kebanyakan manusia tiada beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1081950,
+    "timestamp_to": 1095060,
+    "duration": 13110,
+    "segments": [
+      [
+        1,
+        1081895,
+        1083285
+      ],
+      [
+        2,
+        1083285,
+        1084435
+      ],
+      [
+        3,
+        1084435,
+        1085705
+      ],
+      [
+        4,
+        1085705,
+        1086165
+      ],
+      [
+        5,
+        1086165,
+        1086735
+      ],
+      [
+        6,
+        1086735,
+        1087535
+      ],
+      [
+        7,
+        1087535,
+        1089155
+      ],
+      [
+        8,
+        1089155,
+        1089965
+      ],
+      [
+        9,
+        1089965,
+        1091365
+      ],
+      [
+        10,
+        1091365,
+        1091725
+      ],
+      [
+        11,
+        1091725,
+        1094980
+      ]
+    ]
+  }
+}

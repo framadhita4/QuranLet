@@ -1,0 +1,151 @@
+{
+  "id": 3724,
+  "chapter_id": 36,
+  "verse_key": "36:19",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 22231,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 22232,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_002.mp3",
+      "text": "طَـٰٓئِرُكُم",
+      "translation": "kesialan/kecelakaan kamu",
+      "transliteration": "ṭāirukum"
+    },
+    {
+      "id": 22233,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_003.mp3",
+      "text": "مَّعَكُمْ ۚ",
+      "translation": "bersamamu/karena kamu",
+      "transliteration": "maʿakum"
+    },
+    {
+      "id": 22235,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_005.mp3",
+      "text": "أَئِن",
+      "translation": "apakah jika",
+      "transliteration": "a-in"
+    },
+    {
+      "id": 22236,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_006.mp3",
+      "text": "ذُكِّرْتُم ۚ",
+      "translation": "kamu diberi peringatan",
+      "transliteration": "dhukkir'tum"
+    },
+    {
+      "id": 22238,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_008.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 22239,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_009.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 22240,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_010.mp3",
+      "text": "قَوْمٌۭ",
+      "translation": "kaum",
+      "transliteration": "qawmun"
+    },
+    {
+      "id": 22241,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_019_011.mp3",
+      "text": "مُّسْرِفُونَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "mus'rifūna"
+    },
+    {
+      "id": 22242,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Utusan-utusan itu berkata, \"Kemalangan kamu itu adalah karena kamu sendiri.  Apakah jika kamu diberi peringatan (kamu mengancam kami)? Sebenarnya, kamu adalah kaum yang melampui batas\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 224270,
+    "timestamp_to": 240670,
+    "duration": 16410,
+    "segments": [
+      [
+        1,
+        224195,
+        225025
+      ],
+      [
+        2,
+        225025,
+        227555
+      ],
+      [
+        3,
+        227555,
+        229965
+      ],
+      [
+        4,
+        229965,
+        230875
+      ],
+      [
+        5,
+        230875,
+        232345
+      ],
+      [
+        3,
+        232345,
+        233615
+      ],
+      [
+        7,
+        233615,
+        235325
+      ],
+      [
+        8,
+        235325,
+        236165
+      ],
+      [
+        9,
+        236165,
+        240540
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6085,
+  "chapter_id": 93,
+  "verse_key": "93:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 5889,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_006_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "apakah tidak/bukanlah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 5890,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_006_002.mp3",
+      "text": "يَجِدْكَ",
+      "translation": "Dia mendapatimu",
+      "transliteration": "yajid'ka"
+    },
+    {
+      "id": 5891,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_006_003.mp3",
+      "text": "يَتِيمًۭا",
+      "translation": "seorang yatim",
+      "transliteration": "yatīman"
+    },
+    {
+      "id": 5892,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_006_004.mp3",
+      "text": "فَـَٔاوَىٰ",
+      "translation": "lalu Dia melindungi",
+      "transliteration": "faāwā"
+    },
+    {
+      "id": 5893,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19480,
+    "timestamp_to": 24700,
+    "duration": 5230,
+    "segments": [
+      [
+        1,
+        18935,
+        19575
+      ],
+      [
+        2,
+        19575,
+        20415
+      ],
+      [
+        3,
+        20415,
+        22365
+      ],
+      [
+        4,
+        22365,
+        23620
+      ]
+    ]
+  }
+}

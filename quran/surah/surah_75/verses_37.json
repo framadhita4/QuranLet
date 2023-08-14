@@ -1,0 +1,112 @@
+{
+  "id": 5588,
+  "chapter_id": 75,
+  "verse_key": "75:37",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 39018,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 39019,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_002.mp3",
+      "text": "يَكُ",
+      "translation": "ia adalah",
+      "transliteration": "yaku"
+    },
+    {
+      "id": 39020,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_003.mp3",
+      "text": "نُطْفَةًۭ",
+      "translation": "setetes",
+      "transliteration": "nuṭ'fatan"
+    },
+    {
+      "id": 39021,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 39022,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_005.mp3",
+      "text": "مَّنِىٍّۢ",
+      "translation": "air mani",
+      "transliteration": "maniyyin"
+    },
+    {
+      "id": 39023,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_006.mp3",
+      "text": "يُمْنَىٰ",
+      "translation": "ditumpahkan",
+      "transliteration": "yum'nā"
+    },
+    {
+      "id": 39024,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 178210,
+    "timestamp_to": 185160,
+    "duration": 6950,
+    "segments": [
+      [
+        1,
+        177805,
+        178355
+      ],
+      [
+        2,
+        178355,
+        178855
+      ],
+      [
+        3,
+        178855,
+        179765
+      ],
+      [
+        4,
+        179765,
+        180675
+      ],
+      [
+        5,
+        180675,
+        183085
+      ],
+      [
+        6,
+        183085,
+        184040
+      ]
+    ]
+  }
+}

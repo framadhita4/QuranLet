@@ -1,0 +1,99 @@
+{
+  "id": 968,
+  "chapter_id": 7,
+  "verse_key": "7:14",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 123,
+  "manzil_number": 2,
+  "page_number": 152,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 16782,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_014_001.mp3",
+      "text": "قَالَ",
+      "translation": "(iblis) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 16783,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_014_002.mp3",
+      "text": "أَنظِرْنِىٓ",
+      "translation": "beri tangguhlah saya",
+      "transliteration": "anẓir'nī"
+    },
+    {
+      "id": 16784,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_014_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 16785,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_014_004.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari (waktu)",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 16786,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_014_005.mp3",
+      "text": "يُبْعَثُونَ",
+      "translation": "mereka dibangkitkan",
+      "transliteration": "yub'ʿathūna"
+    },
+    {
+      "id": 16787,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Iblis menjawab, \"Beri tangguhlah saya<sup foot_note_id=\"530\">1</sup> sampai waktu mereka dibangkitkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 226380,
+    "timestamp_to": 235970,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        226355,
+        227175
+      ],
+      [
+        2,
+        227175,
+        230925
+      ],
+      [
+        3,
+        230925,
+        231575
+      ],
+      [
+        4,
+        231575,
+        232175
+      ],
+      [
+        5,
+        232175,
+        235910
+      ]
+    ]
+  }
+}

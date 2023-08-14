@@ -1,0 +1,60 @@
+{
+  "id": 3964,
+  "chapter_id": 37,
+  "verse_key": "37:176",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83382,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_176_001.mp3",
+      "text": "أَفَبِعَذَابِنَا",
+      "translation": "Apakah dengan azab Kami",
+      "transliteration": "afabiʿadhābinā"
+    },
+    {
+      "id": 83383,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_176_002.mp3",
+      "text": "يَسْتَعْجِلُونَ",
+      "translation": "mereka minta disegerakan",
+      "transliteration": "yastaʿjilūna"
+    },
+    {
+      "id": 83384,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧٦",
+      "translation": "(176)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah mereka meminta supaya siksa Kami disegerakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1401140,
+    "timestamp_to": 1407360,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        1401085,
+        1402965
+      ],
+      [
+        2,
+        1402965,
+        1407240
+      ]
+    ]
+  }
+}

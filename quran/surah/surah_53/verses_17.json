@@ -1,0 +1,99 @@
+{
+  "id": 4801,
+  "chapter_id": 53,
+  "verse_key": "53:17",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 19317,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_017_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 19318,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_017_002.mp3",
+      "text": "زَاغَ",
+      "translation": "berpaling",
+      "transliteration": "zāgha"
+    },
+    {
+      "id": 19319,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_017_003.mp3",
+      "text": "ٱلْبَصَرُ",
+      "translation": "penglihatan",
+      "transliteration": "l-baṣaru"
+    },
+    {
+      "id": 19320,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_017_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 19321,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_017_005.mp3",
+      "text": "طَغَىٰ",
+      "translation": "melampaui batas",
+      "transliteration": "ṭaghā"
+    },
+    {
+      "id": 19322,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Penglihatannya (Muhammad) tidak berpaling dari yang dilihatnya itu dan tidak (pula) melampauinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 74740,
+    "timestamp_to": 79050,
+    "duration": 4310,
+    "segments": [
+      [
+        1,
+        74395,
+        74895
+      ],
+      [
+        2,
+        74895,
+        75615
+      ],
+      [
+        3,
+        75615,
+        76545
+      ],
+      [
+        4,
+        76545,
+        77025
+      ],
+      [
+        5,
+        77025,
+        78670
+      ]
+    ]
+  }
+}

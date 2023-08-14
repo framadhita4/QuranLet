@@ -1,0 +1,99 @@
+{
+  "id": 4640,
+  "chapter_id": 50,
+  "verse_key": "50:10",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 11106,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_010_001.mp3",
+      "text": "وَٱلنَّخْلَ",
+      "translation": "dan pohon kurma",
+      "transliteration": "wal-nakhla"
+    },
+    {
+      "id": 11107,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_010_002.mp3",
+      "text": "بَاسِقَـٰتٍۢ",
+      "translation": "tinggi menjulang",
+      "transliteration": "bāsiqātin"
+    },
+    {
+      "id": 11108,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_010_003.mp3",
+      "text": "لَّهَا",
+      "translation": "baginya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 11109,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_010_004.mp3",
+      "text": "طَلْعٌۭ",
+      "translation": "mayang",
+      "transliteration": "ṭalʿun"
+    },
+    {
+      "id": 11110,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_010_005.mp3",
+      "text": "نَّضِيدٌۭ",
+      "translation": "bersusun-susun",
+      "transliteration": "naḍīdun"
+    },
+    {
+      "id": 11111,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pohon kurma yang tinggi-tinggi yang mempunyai mayang yang bersusun-susun,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 129150,
+    "timestamp_to": 138320,
+    "duration": 9170,
+    "segments": [
+      [
+        1,
+        129095,
+        131215
+      ],
+      [
+        2,
+        131215,
+        132665
+      ],
+      [
+        3,
+        132665,
+        133525
+      ],
+      [
+        4,
+        133525,
+        134295
+      ],
+      [
+        5,
+        134295,
+        138210
+      ]
+    ]
+  }
+}

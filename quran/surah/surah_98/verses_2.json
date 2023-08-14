@@ -1,0 +1,112 @@
+{
+  "id": 6132,
+  "chapter_id": 98,
+  "verse_key": "98:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 542,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/98.mp3",
+  "words": [
+    {
+      "id": 1795,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_002_001.mp3",
+      "text": "رَسُولٌۭ",
+      "translation": "seorang rasul",
+      "transliteration": "rasūlun"
+    },
+    {
+      "id": 1796,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_002_002.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 1797,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_002_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 1798,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_002_004.mp3",
+      "text": "يَتْلُوا۟",
+      "translation": "dia membacakan",
+      "transliteration": "yatlū"
+    },
+    {
+      "id": 1799,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_002_005.mp3",
+      "text": "صُحُفًۭا",
+      "translation": "lebaran-lembaran",
+      "transliteration": "ṣuḥufan"
+    },
+    {
+      "id": 1800,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_002_006.mp3",
+      "text": "مُّطَهَّرَةًۭ",
+      "translation": "suci",
+      "transliteration": "muṭahharatan"
+    },
+    {
+      "id": 1801,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) seorang rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang disucikan (Al-Qur`ān),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12560,
+    "timestamp_to": 19770,
+    "duration": 7210,
+    "segments": [
+      [
+        1,
+        12465,
+        13505
+      ],
+      [
+        2,
+        13505,
+        14735
+      ],
+      [
+        3,
+        14735,
+        15615
+      ],
+      [
+        4,
+        15615,
+        16315
+      ],
+      [
+        5,
+        16315,
+        17035
+      ],
+      [
+        6,
+        17035,
+        19620
+      ]
+    ]
+  }
+}

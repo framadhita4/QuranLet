@@ -1,0 +1,60 @@
+{
+  "id": 5536,
+  "chapter_id": 74,
+  "verse_key": "74:41",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "عَنِ ٱلْمُجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 42226,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_041_001.mp3",
+      "text": "عَنِ",
+      "translation": "dari/tentang",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 42227,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_041_002.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 42228,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tentang (keadaan) orang-orang yang berdosa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 221450,
+    "timestamp_to": 225680,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        221365,
+        221845
+      ],
+      [
+        2,
+        221845,
+        225370
+      ]
+    ]
+  }
+}

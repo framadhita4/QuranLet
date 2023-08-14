@@ -1,0 +1,86 @@
+{
+  "id": 3125,
+  "chapter_id": 26,
+  "verse_key": "26:193",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84745,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_001.mp3",
+      "text": "نَزَلَ",
+      "translation": "(dibawa) turun",
+      "transliteration": "nazala"
+    },
+    {
+      "id": 84746,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_002.mp3",
+      "text": "بِهِ",
+      "translation": "dengannya (Al-Qur'an)",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 84747,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_003.mp3",
+      "text": "ٱلرُّوحُ",
+      "translation": "Ruhul",
+      "transliteration": "l-rūḥu"
+    },
+    {
+      "id": 84748,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_004.mp3",
+      "text": "ٱلْأَمِينُ",
+      "translation": "Amin",
+      "transliteration": "l-amīnu"
+    },
+    {
+      "id": 84749,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٩٣",
+      "translation": "(193)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dia dibawa turun oleh Ar-Rūḥ Al-‘Amīn (Jibril),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1688120,
+    "timestamp_to": 1693500,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        1688065,
+        1688815
+      ],
+      [
+        2,
+        1688815,
+        1689145
+      ],
+      [
+        3,
+        1689145,
+        1690085
+      ],
+      [
+        4,
+        1690085,
+        1693420
+      ]
+    ]
+  }
+}

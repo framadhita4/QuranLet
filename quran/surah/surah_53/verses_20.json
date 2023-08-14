@@ -1,0 +1,73 @@
+{
+  "id": 4804,
+  "chapter_id": 53,
+  "verse_key": "53:20",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 22554,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_020_001.mp3",
+      "text": "وَمَنَوٰةَ",
+      "translation": "dan Manah",
+      "transliteration": "wamanata"
+    },
+    {
+      "id": 22555,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_020_002.mp3",
+      "text": "ٱلثَّالِثَةَ",
+      "translation": "yang ketiga",
+      "transliteration": "l-thālithata"
+    },
+    {
+      "id": 22556,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_020_003.mp3",
+      "text": "ٱلْأُخْرَىٰٓ",
+      "translation": "yang lain/hina",
+      "transliteration": "l-ukh'rā"
+    },
+    {
+      "id": 22557,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Manāh yang ketiga, yang paling terkemudian (sebagai anak perempuan Allah)<sup foot_note_id=\"1432\">1</sup>?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 89500,
+    "timestamp_to": 94050,
+    "duration": 4550,
+    "segments": [
+      [
+        1,
+        89015,
+        90175
+      ],
+      [
+        2,
+        90175,
+        91615
+      ],
+      [
+        3,
+        91615,
+        93540
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4429,
+  "chapter_id": 44,
+  "verse_key": "44:15",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 17000,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_015_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 17001,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_015_002.mp3",
+      "text": "كَاشِفُوا۟",
+      "translation": "menghilangkan",
+      "transliteration": "kāshifū"
+    },
+    {
+      "id": 17002,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_015_003.mp3",
+      "text": "ٱلْعَذَابِ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābi"
+    },
+    {
+      "id": 17003,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_015_004.mp3",
+      "text": "قَلِيلًا ۚ",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 17005,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_015_006.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 17006,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_015_007.mp3",
+      "text": "عَآئِدُونَ",
+      "translation": "orang-orang yang kembali",
+      "transliteration": "ʿāidūna"
+    },
+    {
+      "id": 17007,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya (kalau) Kami akan melenyapkan siksaan itu agak sedikit sesungguhnya kamu akan kembali (ingkar).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 136010,
+    "timestamp_to": 148100,
+    "duration": 12100,
+    "segments": [
+      [
+        1,
+        135985,
+        137325
+      ],
+      [
+        2,
+        137325,
+        138245
+      ],
+      [
+        3,
+        138245,
+        139405
+      ],
+      [
+        4,
+        139405,
+        141065
+      ],
+      [
+        5,
+        141065,
+        142785
+      ],
+      [
+        6,
+        142785,
+        148040
+      ]
+    ]
+  }
+}

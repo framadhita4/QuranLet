@@ -1,0 +1,125 @@
+{
+  "id": 2716,
+  "chapter_id": 23,
+  "verse_key": "23:43",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 43715,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 43716,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_002.mp3",
+      "text": "تَسْبِقُ",
+      "translation": "mendahului",
+      "transliteration": "tasbiqu"
+    },
+    {
+      "id": 43717,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43718,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_004.mp3",
+      "text": "أُمَّةٍ",
+      "translation": "suatu ummat",
+      "transliteration": "ummatin"
+    },
+    {
+      "id": 43719,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_005.mp3",
+      "text": "أَجَلَهَا",
+      "translation": "ajalnya",
+      "transliteration": "ajalahā"
+    },
+    {
+      "id": 43720,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 43721,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_043_007.mp3",
+      "text": "يَسْتَـْٔخِرُونَ",
+      "translation": "mereka terlambat",
+      "transliteration": "yastakhirūna"
+    },
+    {
+      "id": 43722,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak (dapat) sesuatu umat pun mendahului ajalnya dan tidak (dapat pula) mereka terlambat (dari ajalnya itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 574990,
+    "timestamp_to": 583740,
+    "duration": 8750,
+    "segments": [
+      [
+        1,
+        574955,
+        575495
+      ],
+      [
+        2,
+        575495,
+        576405
+      ],
+      [
+        3,
+        576405,
+        576775
+      ],
+      [
+        4,
+        576775,
+        578305
+      ],
+      [
+        5,
+        578305,
+        579335
+      ],
+      [
+        6,
+        579335,
+        580025
+      ],
+      [
+        7,
+        580025,
+        583660
+      ]
+    ]
+  }
+}

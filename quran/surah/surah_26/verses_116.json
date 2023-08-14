@@ -1,0 +1,138 @@
+{
+  "id": 3048,
+  "chapter_id": 26,
+  "verse_key": "26:116",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 75595,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 75596,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_002.mp3",
+      "text": "لَئِن",
+      "translation": "sungguh jika",
+      "transliteration": "la-in"
+    },
+    {
+      "id": 75597,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_003.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 75598,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_004.mp3",
+      "text": "تَنتَهِ",
+      "translation": "kamu berhenti",
+      "transliteration": "tantahi"
+    },
+    {
+      "id": 75599,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_005.mp3",
+      "text": "يَـٰنُوحُ",
+      "translation": "Hai Nuh",
+      "transliteration": "yānūḥu"
+    },
+    {
+      "id": 75600,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_006.mp3",
+      "text": "لَتَكُونَنَّ",
+      "translation": "pasti kamu menjadi/adalah",
+      "transliteration": "latakūnanna"
+    },
+    {
+      "id": 75601,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 75602,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_116_008.mp3",
+      "text": "ٱلْمَرْجُومِينَ",
+      "translation": "orang-orang yang dirajam",
+      "transliteration": "l-marjūmīna"
+    },
+    {
+      "id": 75603,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١١٦",
+      "translation": "(116)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Sungguh jika kamu tidak (mau) berhenti hai Nūḥ, niscaya benar-benar kamu akan termasuk orang-orang yang dirajam\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1041950,
+    "timestamp_to": 1052220,
+    "duration": 10270,
+    "segments": [
+      [
+        1,
+        1041905,
+        1042885
+      ],
+      [
+        2,
+        1042885,
+        1043305
+      ],
+      [
+        3,
+        1043305,
+        1043825
+      ],
+      [
+        4,
+        1043825,
+        1045385
+      ],
+      [
+        5,
+        1045385,
+        1046345
+      ],
+      [
+        6,
+        1046345,
+        1048525
+      ],
+      [
+        7,
+        1048525,
+        1048835
+      ],
+      [
+        8,
+        1048835,
+        1052130
+      ]
+    ]
+  }
+}

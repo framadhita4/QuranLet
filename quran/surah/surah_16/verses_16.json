@@ -1,0 +1,86 @@
+{
+  "id": 1917,
+  "chapter_id": 16,
+  "verse_key": "16:16",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 225,
+  "manzil_number": 3,
+  "page_number": 269,
+  "juz_number": 14,
+  "text_uthmani": "وَعَلَـٰمَـٰتٍ ۚ وَبِٱلنَّجْمِ هُمْ يَهْتَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 18945,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_016_001.mp3",
+      "text": "وَعَلَـٰمَـٰتٍۢ ۚ",
+      "translation": "dan tanda-tanda",
+      "transliteration": "waʿalāmātin"
+    },
+    {
+      "id": 18947,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_016_003.mp3",
+      "text": "وَبِٱلنَّجْمِ",
+      "translation": "dan dengan bintang-bintang",
+      "transliteration": "wabil-najmi"
+    },
+    {
+      "id": 18948,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_016_004.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 18949,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_016_005.mp3",
+      "text": "يَهْتَدُونَ",
+      "translation": "mereka mendapat petunjuk",
+      "transliteration": "yahtadūna"
+    },
+    {
+      "id": 18950,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (Dia ciptakan) tanda-tanda (penunjuk jalan). Dan dengan bintang-bintang itulah mereka mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 268640,
+    "timestamp_to": 277600,
+    "duration": 8960,
+    "segments": [
+      [
+        1,
+        268595,
+        272075
+      ],
+      [
+        2,
+        272075,
+        274185
+      ],
+      [
+        3,
+        274185,
+        274665
+      ],
+      [
+        4,
+        274665,
+        277530
+      ]
+    ]
+  }
+}

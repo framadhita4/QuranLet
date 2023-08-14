@@ -1,0 +1,125 @@
+{
+  "id": 613,
+  "chapter_id": 4,
+  "verse_key": "4:120",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "ruku_number": 79,
+  "manzil_number": 1,
+  "page_number": 97,
+  "juz_number": 5,
+  "text_uthmani": "يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ ٱلشَّيْطَـٰنُ إِلَّا غُرُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 76490,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_001.mp3",
+      "text": "يَعِدُهُمْ",
+      "translation": "(syaitan) memberikan janji kepada mereka",
+      "transliteration": "yaʿiduhum"
+    },
+    {
+      "id": 76491,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_002.mp3",
+      "text": "وَيُمَنِّيهِمْ ۖ",
+      "translation": "dan memberikan angan-angan kosong kepada mereka",
+      "transliteration": "wayumannīhim"
+    },
+    {
+      "id": 76493,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 76494,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_005.mp3",
+      "text": "يَعِدُهُمُ",
+      "translation": "menjanjikan pada mereka",
+      "transliteration": "yaʿiduhumu"
+    },
+    {
+      "id": 76495,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_006.mp3",
+      "text": "ٱلشَّيْطَـٰنُ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭānu"
+    },
+    {
+      "id": 76496,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_007.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 76497,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_120_008.mp3",
+      "text": "غُرُورًا",
+      "translation": "tipuan",
+      "transliteration": "ghurūran"
+    },
+    {
+      "id": 76498,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢٠",
+      "translation": "(120)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Setan itu memberikan janji-janji kepada mereka dan membangkitkan angan-angan kosong pada mereka, padahal setan itu tidak menjanjikan kepada mereka selain dari tipuan belaka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3437490,
+    "timestamp_to": 3446550,
+    "duration": 9070,
+    "segments": [
+      [
+        1,
+        3437465,
+        3438775
+      ],
+      [
+        2,
+        3438775,
+        3441185
+      ],
+      [
+        3,
+        3441185,
+        3441795
+      ],
+      [
+        4,
+        3441795,
+        3442885
+      ],
+      [
+        5,
+        3442885,
+        3444205
+      ],
+      [
+        6,
+        3444205,
+        3444995
+      ],
+      [
+        7,
+        3444995,
+        3446480
+      ]
+    ]
+  }
+}

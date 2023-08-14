@@ -1,0 +1,177 @@
+{
+  "id": 5472,
+  "chapter_id": 72,
+  "verse_key": "72:25",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 509,
+  "manzil_number": 7,
+  "page_number": 573,
+  "juz_number": 29,
+  "text_uthmani": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3",
+  "words": [
+    {
+      "id": 28057,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 28058,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_002.mp3",
+      "text": "إِنْ",
+      "translation": "tidak",
+      "transliteration": "in"
+    },
+    {
+      "id": 28059,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_003.mp3",
+      "text": "أَدْرِىٓ",
+      "translation": "aku mengetahui",
+      "transliteration": "adrī"
+    },
+    {
+      "id": 28060,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_004.mp3",
+      "text": "أَقَرِيبٌۭ",
+      "translation": "apakah dekat",
+      "transliteration": "aqarībun"
+    },
+    {
+      "id": 28061,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_005.mp3",
+      "text": "مَّا",
+      "translation": "apa (azab)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 28062,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_006.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "kamu dijanjikan/diancam",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 28063,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_007.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 28064,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_008.mp3",
+      "text": "يَجْعَلُ",
+      "translation": "menjadikan",
+      "transliteration": "yajʿalu"
+    },
+    {
+      "id": 28065,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_009.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 28066,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_010.mp3",
+      "text": "رَبِّىٓ",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 28067,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_025_011.mp3",
+      "text": "أَمَدًا",
+      "translation": "masa yang panjang",
+      "transliteration": "amadan"
+    },
+    {
+      "id": 28068,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu dekat ataukah Tuhan-ku menjadikan bagi (kedatangan) azab itu masa yang panjang?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 284100,
+    "timestamp_to": 295360,
+    "duration": 11260,
+    "segments": [
+      [
+        1,
+        284005,
+        284405
+      ],
+      [
+        2,
+        284405,
+        284785
+      ],
+      [
+        3,
+        284785,
+        286745
+      ],
+      [
+        4,
+        286745,
+        287755
+      ],
+      [
+        5,
+        287755,
+        288815
+      ],
+      [
+        6,
+        288815,
+        289955
+      ],
+      [
+        7,
+        289955,
+        290345
+      ],
+      [
+        8,
+        290345,
+        291135
+      ],
+      [
+        9,
+        291135,
+        291695
+      ],
+      [
+        10,
+        291695,
+        293955
+      ],
+      [
+        11,
+        293955,
+        294890
+      ]
+    ]
+  }
+}

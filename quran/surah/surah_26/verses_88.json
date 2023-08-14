@@ -1,0 +1,112 @@
+{
+  "id": 3020,
+  "chapter_id": 26,
+  "verse_key": "26:88",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 67086,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_088_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "di hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 67087,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_088_002.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 67088,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_088_003.mp3",
+      "text": "يَنفَعُ",
+      "translation": "berguna",
+      "transliteration": "yanfaʿu"
+    },
+    {
+      "id": 67089,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_088_004.mp3",
+      "text": "مَالٌۭ",
+      "translation": "harta",
+      "transliteration": "mālun"
+    },
+    {
+      "id": 67090,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_088_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 67091,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_088_006.mp3",
+      "text": "بَنُونَ",
+      "translation": "anak-anak laki-laki",
+      "transliteration": "banūna"
+    },
+    {
+      "id": 67092,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٨",
+      "translation": "(88)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) pada hari harta dan anak-anak laki-laki tidak berguna,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 839890,
+    "timestamp_to": 847730,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        839845,
+        840455
+      ],
+      [
+        2,
+        840455,
+        840845
+      ],
+      [
+        3,
+        840845,
+        842695
+      ],
+      [
+        4,
+        842695,
+        844575
+      ],
+      [
+        5,
+        844575,
+        845085
+      ],
+      [
+        6,
+        845085,
+        847620
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5044,
+  "chapter_id": 56,
+  "verse_key": "56:65",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 57219,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_065_001.mp3",
+      "text": "لَوْ",
+      "translation": "jika",
+      "transliteration": "law"
+    },
+    {
+      "id": 57220,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_065_002.mp3",
+      "text": "نَشَآءُ",
+      "translation": "Kami menghendaki",
+      "transliteration": "nashāu"
+    },
+    {
+      "id": 57221,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_065_003.mp3",
+      "text": "لَجَعَلْنَـٰهُ",
+      "translation": "niscaya Kami jadikan dia",
+      "transliteration": "lajaʿalnāhu"
+    },
+    {
+      "id": 57222,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_065_004.mp3",
+      "text": "حُطَـٰمًۭا",
+      "translation": "hancur/kering",
+      "transliteration": "ḥuṭāman"
+    },
+    {
+      "id": 57223,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_065_005.mp3",
+      "text": "فَظَلْتُمْ",
+      "translation": "maka jadilah kamu",
+      "transliteration": "faẓaltum"
+    },
+    {
+      "id": 57224,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_065_006.mp3",
+      "text": "تَفَكَّهُونَ",
+      "translation": "kamu meratap/menyesal",
+      "transliteration": "tafakkahūna"
+    },
+    {
+      "id": 57225,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦٥",
+      "translation": "(65)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kalau Kami kehendaki, benar-benar Kami jadikan dia kering dan hancur; maka jadilah kamu heran tercengang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 452870,
+    "timestamp_to": 464760,
+    "duration": 11890,
+    "segments": [
+      [
+        1,
+        452775,
+        453135
+      ],
+      [
+        2,
+        453135,
+        456065
+      ],
+      [
+        3,
+        456065,
+        457555
+      ],
+      [
+        4,
+        457555,
+        459165
+      ],
+      [
+        5,
+        459165,
+        460475
+      ],
+      [
+        6,
+        460475,
+        464570
+      ]
+    ]
+  }
+}

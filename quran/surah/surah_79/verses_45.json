@@ -1,0 +1,99 @@
+{
+  "id": 5757,
+  "chapter_id": 79,
+  "verse_key": "79:45",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 45276,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_045_001.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 45277,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_045_002.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 45278,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_045_003.mp3",
+      "text": "مُنذِرُ",
+      "translation": "pemberi peringatan",
+      "transliteration": "mundhiru"
+    },
+    {
+      "id": 45279,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_045_004.mp3",
+      "text": "مَن",
+      "translation": "dari",
+      "transliteration": "man"
+    },
+    {
+      "id": 45280,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_045_005.mp3",
+      "text": "يَخْشَىٰهَا",
+      "translation": "ia takut kepadanya",
+      "transliteration": "yakhshāhā"
+    },
+    {
+      "id": 45281,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamu hanyalah pemberi peringatan bagi siapa yang takut kepadanya (hari berbangkit).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 215550,
+    "timestamp_to": 224430,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        215095,
+        218035
+      ],
+      [
+        2,
+        218035,
+        219325
+      ],
+      [
+        3,
+        219325,
+        220875
+      ],
+      [
+        4,
+        220875,
+        221415
+      ],
+      [
+        5,
+        221415,
+        223480
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 5532,
+  "chapter_id": 74,
+  "verse_key": "74:37",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 39010,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_001.mp3",
+      "text": "لِمَن",
+      "translation": "bagi siapa",
+      "transliteration": "liman"
+    },
+    {
+      "id": 39011,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_002.mp3",
+      "text": "شَآءَ",
+      "translation": "menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 39012,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_003.mp3",
+      "text": "مِنكُمْ",
+      "translation": "diantara kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 39013,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_004.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 39014,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_005.mp3",
+      "text": "يَتَقَدَّمَ",
+      "translation": "akan maju",
+      "transliteration": "yataqaddama"
+    },
+    {
+      "id": 39015,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_006.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 39016,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_037_007.mp3",
+      "text": "يَتَأَخَّرَ",
+      "translation": "akan mundur",
+      "transliteration": "yata-akhara"
+    },
+    {
+      "id": 39017,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) bagi siapa di antaramu yang berkehendak akan maju atau mundur<sup foot_note_id=\"1530\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 193970,
+    "timestamp_to": 202960,
+    "duration": 8990,
+    "segments": [
+      [
+        1,
+        193485,
+        194725
+      ],
+      [
+        2,
+        194725,
+        196715
+      ],
+      [
+        3,
+        196715,
+        198015
+      ],
+      [
+        4,
+        198015,
+        198315
+      ],
+      [
+        5,
+        198315,
+        200335
+      ],
+      [
+        6,
+        200335,
+        200705
+      ],
+      [
+        7,
+        200705,
+        202390
+      ]
+    ]
+  }
+}

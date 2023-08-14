@@ -1,0 +1,73 @@
+{
+  "id": 5902,
+  "chapter_id": 84,
+  "verse_key": "84:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 20779,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_018_001.mp3",
+      "text": "وَٱلْقَمَرِ",
+      "translation": "dan bulan",
+      "transliteration": "wal-qamari"
+    },
+    {
+      "id": 20780,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_018_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 20781,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_018_003.mp3",
+      "text": "ٱتَّسَقَ",
+      "translation": "sempurna terang",
+      "transliteration": "ittasaqa"
+    },
+    {
+      "id": 20782,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dengan bulan apabila jadi purnama,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 94400,
+    "timestamp_to": 97010,
+    "duration": 2610,
+    "segments": [
+      [
+        1,
+        94375,
+        95505
+      ],
+      [
+        2,
+        95505,
+        95825
+      ],
+      [
+        3,
+        95825,
+        96960
+      ]
+    ]
+  }
+}

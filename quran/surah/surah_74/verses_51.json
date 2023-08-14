@@ -1,0 +1,73 @@
+{
+  "id": 5546,
+  "chapter_id": 74,
+  "verse_key": "74:51",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 49281,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_051_001.mp3",
+      "text": "فَرَّتْ",
+      "translation": "ia lari",
+      "transliteration": "farrat"
+    },
+    {
+      "id": 49282,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_051_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 49283,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_051_003.mp3",
+      "text": "قَسْوَرَةٍۭ",
+      "translation": "singa",
+      "transliteration": "qaswaratin"
+    },
+    {
+      "id": 49284,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lari daripada singa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 277000,
+    "timestamp_to": 280530,
+    "duration": 3530,
+    "segments": [
+      [
+        1,
+        276905,
+        277715
+      ],
+      [
+        2,
+        277715,
+        278965
+      ],
+      [
+        3,
+        278965,
+        280380
+      ]
+    ]
+  }
+}

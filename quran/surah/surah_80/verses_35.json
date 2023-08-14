@@ -1,0 +1,60 @@
+{
+  "id": 5793,
+  "chapter_id": 80,
+  "verse_key": "80:35",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَأُمِّهِۦ وَأَبِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 37399,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_035_001.mp3",
+      "text": "وَأُمِّهِۦ",
+      "translation": "dan ibunya",
+      "transliteration": "wa-ummihi"
+    },
+    {
+      "id": 37400,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_035_002.mp3",
+      "text": "وَأَبِيهِ",
+      "translation": "dan bapaknya",
+      "transliteration": "wa-abīhi"
+    },
+    {
+      "id": 37401,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari ibu dan bapaknya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 156850,
+    "timestamp_to": 162390,
+    "duration": 5540,
+    "segments": [
+      [
+        1,
+        156515,
+        158805
+      ],
+      [
+        2,
+        158805,
+        161780
+      ]
+    ]
+  }
+}

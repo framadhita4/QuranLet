@@ -1,0 +1,99 @@
+{
+  "id": 5891,
+  "chapter_id": 84,
+  "verse_key": "84:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 8068,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 8069,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_002.mp3",
+      "text": "مَنْ",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 8070,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_003.mp3",
+      "text": "أُوتِىَ",
+      "translation": "diberikan",
+      "transliteration": "ūtiya"
+    },
+    {
+      "id": 8071,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_004.mp3",
+      "text": "كِتَـٰبَهُۥ",
+      "translation": "kitabnya/catatannya",
+      "transliteration": "kitābahu"
+    },
+    {
+      "id": 8072,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_005.mp3",
+      "text": "بِيَمِينِهِۦ",
+      "translation": "sebelah kanannya",
+      "transliteration": "biyamīnihi"
+    },
+    {
+      "id": 8073,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang yang diberikan kitabnya dari sebelah kanannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33510,
+    "timestamp_to": 39620,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        33485,
+        35325
+      ],
+      [
+        2,
+        35325,
+        35695
+      ],
+      [
+        3,
+        35695,
+        36475
+      ],
+      [
+        4,
+        36475,
+        37745
+      ],
+      [
+        5,
+        37745,
+        39540
+      ]
+    ]
+  }
+}

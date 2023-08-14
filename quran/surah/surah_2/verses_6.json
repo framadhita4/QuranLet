@@ -1,0 +1,177 @@
+{
+  "id": 13,
+  "chapter_id": 2,
+  "verse_key": "2:6",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 2,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 6905,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 6906,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 6907,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 6908,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_004.mp3",
+      "text": "سَوَآءٌ",
+      "translation": "sama",
+      "transliteration": "sawāon"
+    },
+    {
+      "id": 6909,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_005.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 6910,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_006.mp3",
+      "text": "ءَأَنذَرْتَهُمْ",
+      "translation": "apakah engkau peringatkan mereka",
+      "transliteration": "a-andhartahum"
+    },
+    {
+      "id": 6911,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_007.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 6912,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_008.mp3",
+      "text": "لَمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 6913,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_009.mp3",
+      "text": "تُنذِرْهُمْ",
+      "translation": "engkau peringatkan mereka",
+      "transliteration": "tundhir'hum"
+    },
+    {
+      "id": 6914,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 6915,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_006_011.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 6916,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang kafir, sama saja bagi mereka, kamu beri peringatan atau tidak kamu beri peringatan, mereka tidak akan beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55250,
+    "timestamp_to": 67870,
+    "duration": 12620,
+    "segments": [
+      [
+        1,
+        55205,
+        56465
+      ],
+      [
+        2,
+        56465,
+        57375
+      ],
+      [
+        3,
+        57375,
+        58115
+      ],
+      [
+        4,
+        58115,
+        60215
+      ],
+      [
+        5,
+        60215,
+        61125
+      ],
+      [
+        6,
+        61125,
+        63035
+      ],
+      [
+        7,
+        63035,
+        63325
+      ],
+      [
+        8,
+        63325,
+        63695
+      ],
+      [
+        9,
+        63695,
+        65315
+      ],
+      [
+        10,
+        65315,
+        65725
+      ],
+      [
+        11,
+        65725,
+        67760
+      ]
+    ]
+  }
+}

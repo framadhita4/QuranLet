@@ -1,0 +1,112 @@
+{
+  "id": 5479,
+  "chapter_id": 73,
+  "verse_key": "73:4",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 4034,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_004_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 4035,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_004_002.mp3",
+      "text": "زِدْ",
+      "translation": "lebih",
+      "transliteration": "zid"
+    },
+    {
+      "id": 4036,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_004_003.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 4037,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_004_004.mp3",
+      "text": "وَرَتِّلِ",
+      "translation": "dan bacalah",
+      "transliteration": "warattili"
+    },
+    {
+      "id": 4038,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_004_005.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al Qur'an",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 4039,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_004_006.mp3",
+      "text": "تَرْتِيلًا",
+      "translation": "perlahan-lahan",
+      "transliteration": "tartīlan"
+    },
+    {
+      "id": 4040,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau lebih dari seperdua itu.  Dan bacalah Al-Qur`ān itu dengan perlahan-lahan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15390,
+    "timestamp_to": 21080,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        15355,
+        15785
+      ],
+      [
+        2,
+        15785,
+        16195
+      ],
+      [
+        3,
+        16195,
+        17055
+      ],
+      [
+        4,
+        17055,
+        18035
+      ],
+      [
+        5,
+        18035,
+        19215
+      ],
+      [
+        6,
+        19215,
+        20980
+      ]
+    ]
+  }
+}

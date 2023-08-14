@@ -1,0 +1,164 @@
+{
+  "id": 1685,
+  "chapter_id": 12,
+  "verse_key": "12:89",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "ruku_number": 202,
+  "manzil_number": 3,
+  "page_number": 246,
+  "juz_number": 13,
+  "text_uthmani": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَـٰهِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 67835,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_001.mp3",
+      "text": "قَالَ",
+      "translation": "Yusuf berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 67836,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_002.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 67837,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_003.mp3",
+      "text": "عَلِمْتُم",
+      "translation": "kamu mengetahui",
+      "transliteration": "ʿalim'tum"
+    },
+    {
+      "id": 67838,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_004.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 67839,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_005.mp3",
+      "text": "فَعَلْتُم",
+      "translation": "kamu lakukan",
+      "transliteration": "faʿaltum"
+    },
+    {
+      "id": 67840,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_006.mp3",
+      "text": "بِيُوسُفَ",
+      "translation": "terhadap Yusuf",
+      "transliteration": "biyūsufa"
+    },
+    {
+      "id": 67841,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_007.mp3",
+      "text": "وَأَخِيهِ",
+      "translation": "dan saudaranya",
+      "transliteration": "wa-akhīhi"
+    },
+    {
+      "id": 67842,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_008.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 67843,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_009.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 67844,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_089_010.mp3",
+      "text": "جَـٰهِلُونَ",
+      "translation": "orang-orang yang tidak mangetahui",
+      "transliteration": "jāhilūna"
+    },
+    {
+      "id": 67845,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yūsuf berkata, \"Apakah kamu mengetahui (kejelekan) apa yang telah kamu lakukan terhadap Yūsuf dan saudaranya ketika kamu tidak mengetahui (akibat) perbuatanmu itu?\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2044930,
+    "timestamp_to": 2057310,
+    "duration": 12380,
+    "segments": [
+      [
+        1,
+        2044875,
+        2045565
+      ],
+      [
+        2,
+        2045565,
+        2045955
+      ],
+      [
+        3,
+        2045955,
+        2047025
+      ],
+      [
+        4,
+        2047025,
+        2047985
+      ],
+      [
+        5,
+        2047985,
+        2049945
+      ],
+      [
+        6,
+        2049945,
+        2051085
+      ],
+      [
+        7,
+        2051085,
+        2052205
+      ],
+      [
+        8,
+        2052205,
+        2052535
+      ],
+      [
+        9,
+        2052535,
+        2054055
+      ],
+      [
+        10,
+        2054055,
+        2057230
+      ]
+    ]
+  }
+}

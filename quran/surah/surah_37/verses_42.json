@@ -1,0 +1,73 @@
+{
+  "id": 3830,
+  "chapter_id": 37,
+  "verse_key": "37:42",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 43276,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_042_001.mp3",
+      "text": "فَوَٰكِهُ ۖ",
+      "translation": "buah-buahan",
+      "transliteration": "fawākihu"
+    },
+    {
+      "id": 43278,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_042_003.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 43279,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_042_004.mp3",
+      "text": "مُّكْرَمُونَ",
+      "translation": "orang-orang yang dimuliakan",
+      "transliteration": "muk'ramūna"
+    },
+    {
+      "id": 43280,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu buah-buahan. Dan mereka adalah orang-orang yang dimuliakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 357070,
+    "timestamp_to": 364230,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        356995,
+        358735
+      ],
+      [
+        2,
+        358735,
+        359205
+      ],
+      [
+        3,
+        359205,
+        364090
+      ]
+    ]
+  }
+}

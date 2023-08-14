@@ -1,0 +1,125 @@
+{
+  "id": 1156,
+  "chapter_id": 7,
+  "verse_key": "7:202",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "page_number": 176,
+  "juz_number": 9,
+  "text_uthmani": "وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ ثُمَّ لَا يُقْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 85376,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_001.mp3",
+      "text": "وَإِخْوَٰنُهُمْ",
+      "translation": "dan teman-teman mereka",
+      "transliteration": "wa-ikh'wānuhum"
+    },
+    {
+      "id": 85377,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_002.mp3",
+      "text": "يَمُدُّونَهُمْ",
+      "translation": "membantu mereka (syaitan)",
+      "transliteration": "yamuddūnahum"
+    },
+    {
+      "id": 85378,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 85379,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_004.mp3",
+      "text": "ٱلْغَىِّ",
+      "translation": "menyesatkan",
+      "transliteration": "l-ghayi"
+    },
+    {
+      "id": 85380,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_005.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 85381,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_006.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 85382,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_202_007.mp3",
+      "text": "يُقْصِرُونَ",
+      "translation": "henti-hentinya mereka",
+      "transliteration": "yuq'ṣirūna"
+    },
+    {
+      "id": 85383,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٠٢",
+      "translation": "(202)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan teman-teman mereka (orang-orang kafir dan fasik) membantu setan-setan dalam menyesatkan dan mereka tidak henti-hentinya (menyesatkan).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4701380,
+    "timestamp_to": 4711120,
+    "duration": 9740,
+    "segments": [
+      [
+        1,
+        4701355,
+        4703095
+      ],
+      [
+        2,
+        4703095,
+        4705075
+      ],
+      [
+        3,
+        4705075,
+        4705315
+      ],
+      [
+        4,
+        4705315,
+        4706265
+      ],
+      [
+        5,
+        4706265,
+        4707615
+      ],
+      [
+        6,
+        4707615,
+        4707965
+      ],
+      [
+        7,
+        4707965,
+        4711050
+      ]
+    ]
+  }
+}

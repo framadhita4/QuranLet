@@ -1,0 +1,112 @@
+{
+  "id": 3016,
+  "chapter_id": 26,
+  "verse_key": "26:84",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَٱجْعَل لِّى لِسَانَ صِدْقٍ فِى ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 65939,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_084_001.mp3",
+      "text": "وَٱجْعَل",
+      "translation": "dan jadikan",
+      "transliteration": "wa-ij'ʿal"
+    },
+    {
+      "id": 65940,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_084_002.mp3",
+      "text": "لِّى",
+      "translation": "bagiku/aku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 65941,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_084_003.mp3",
+      "text": "لِسَانَ",
+      "translation": "buah tutur",
+      "transliteration": "lisāna"
+    },
+    {
+      "id": 65942,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_084_004.mp3",
+      "text": "صِدْقٍۢ",
+      "translation": "benar/baik",
+      "transliteration": "ṣid'qin"
+    },
+    {
+      "id": 65943,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_084_005.mp3",
+      "text": "فِى",
+      "translation": "dalam/bagi",
+      "transliteration": "fī"
+    },
+    {
+      "id": 65944,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_084_006.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang yang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 65945,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 806200,
+    "timestamp_to": 813620,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        806135,
+        807075
+      ],
+      [
+        2,
+        807075,
+        807515
+      ],
+      [
+        3,
+        807515,
+        808345
+      ],
+      [
+        4,
+        808345,
+        809985
+      ],
+      [
+        5,
+        809985,
+        810205
+      ],
+      [
+        6,
+        810205,
+        813490
+      ]
+    ]
+  }
+}

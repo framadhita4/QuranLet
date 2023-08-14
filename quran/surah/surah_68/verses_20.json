@@ -1,0 +1,60 @@
+{
+  "id": 5291,
+  "chapter_id": 68,
+  "verse_key": "68:20",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 23281,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_020_001.mp3",
+      "text": "فَأَصْبَحَتْ",
+      "translation": "maka jadilah ia/kebun itu",
+      "transliteration": "fa-aṣbaḥat"
+    },
+    {
+      "id": 23282,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_020_002.mp3",
+      "text": "كَٱلصَّرِيمِ",
+      "translation": "seperti sudah di potong/petik",
+      "transliteration": "kal-ṣarīmi"
+    },
+    {
+      "id": 23283,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka jadilah kebun itu hitam seperti malam yang gelap gulita<sup foot_note_id=\"1493\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 146030,
+    "timestamp_to": 150390,
+    "duration": 4360,
+    "segments": [
+      [
+        1,
+        145945,
+        147115
+      ],
+      [
+        2,
+        147115,
+        150270
+      ]
+    ]
+  }
+}

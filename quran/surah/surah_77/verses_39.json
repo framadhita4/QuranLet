@@ -1,0 +1,99 @@
+{
+  "id": 5661,
+  "chapter_id": 77,
+  "verse_key": "77:39",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 40577,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_039_001.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 40578,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_039_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 40579,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_039_003.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 40580,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_039_004.mp3",
+      "text": "كَيْدٌۭ",
+      "translation": "tipu daya",
+      "transliteration": "kaydun"
+    },
+    {
+      "id": 40581,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_039_005.mp3",
+      "text": "فَكِيدُونِ",
+      "translation": "maka tipu dayalah Aku",
+      "transliteration": "fakīdūni"
+    },
+    {
+      "id": 40582,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika kamu mempunyai tipu daya, maka lakukanlah tipu dayamu itu terhadap-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 195230,
+    "timestamp_to": 202490,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        195145,
+        196515
+      ],
+      [
+        2,
+        196515,
+        197155
+      ],
+      [
+        3,
+        197155,
+        197795
+      ],
+      [
+        4,
+        197795,
+        199315
+      ],
+      [
+        5,
+        199315,
+        202320
+      ]
+    ]
+  }
+}

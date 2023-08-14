@@ -1,0 +1,99 @@
+{
+  "id": 2682,
+  "chapter_id": 23,
+  "verse_key": "23:9",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 10299,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_009_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 10300,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_009_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 10301,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_009_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 10302,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_009_004.mp3",
+      "text": "صَلَوَٰتِهِمْ",
+      "translation": "sholat mereka",
+      "transliteration": "ṣalawātihim"
+    },
+    {
+      "id": 10303,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_009_005.mp3",
+      "text": "يُحَافِظُونَ",
+      "translation": "mereka menjaga/memelihara",
+      "transliteration": "yuḥāfiẓūna"
+    },
+    {
+      "id": 10304,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang memelihara salatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72090,
+    "timestamp_to": 80160,
+    "duration": 8070,
+    "segments": [
+      [
+        1,
+        72065,
+        73455
+      ],
+      [
+        2,
+        73455,
+        73875
+      ],
+      [
+        3,
+        73875,
+        74485
+      ],
+      [
+        4,
+        74485,
+        76065
+      ],
+      [
+        5,
+        76065,
+        80080
+      ]
+    ]
+  }
+}

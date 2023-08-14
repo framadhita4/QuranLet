@@ -1,0 +1,86 @@
+{
+  "id": 6172,
+  "chapter_id": 102,
+  "verse_key": "102:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 546,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3",
+  "words": [
+    {
+      "id": 3510,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_004_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 3511,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_004_002.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 3512,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_004_003.mp3",
+      "text": "سَوْفَ",
+      "translation": "kelak",
+      "transliteration": "sawfa"
+    },
+    {
+      "id": 3513,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_004_004.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 3514,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan janganlah begitu, kelak kamu akan mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12820,
+    "timestamp_to": 19560,
+    "duration": 6740,
+    "segments": [
+      [
+        1,
+        12715,
+        14335
+      ],
+      [
+        2,
+        14335,
+        15245
+      ],
+      [
+        3,
+        15245,
+        16035
+      ],
+      [
+        4,
+        16035,
+        19380
+      ]
+    ]
+  }
+}

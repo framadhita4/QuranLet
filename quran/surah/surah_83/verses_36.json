@@ -1,0 +1,112 @@
+{
+  "id": 5884,
+  "chapter_id": 83,
+  "verse_key": "83:36",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 38227,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 38228,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_002.mp3",
+      "text": "ثُوِّبَ",
+      "translation": "diberi ganjaran/balasan",
+      "transliteration": "thuwwiba"
+    },
+    {
+      "id": 38229,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_003.mp3",
+      "text": "ٱلْكُفَّارُ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kufāru"
+    },
+    {
+      "id": 38230,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 38231,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_005.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 38232,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_006.mp3",
+      "text": "يَفْعَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yafʿalūna"
+    },
+    {
+      "id": 38233,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang kafir telah diberi ganjaran terhadap apa yang dahulu mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 278430,
+    "timestamp_to": 287470,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        278335,
+        279175
+      ],
+      [
+        2,
+        279175,
+        279665
+      ],
+      [
+        3,
+        279665,
+        281165
+      ],
+      [
+        4,
+        281165,
+        281595
+      ],
+      [
+        5,
+        281595,
+        282605
+      ],
+      [
+        6,
+        282605,
+        287100
+      ]
+    ]
+  }
+}

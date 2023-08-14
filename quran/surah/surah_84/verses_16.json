@@ -1,0 +1,73 @@
+{
+  "id": 5900,
+  "chapter_id": 84,
+  "verse_key": "84:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 18638,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_016_001.mp3",
+      "text": "فَلَآ",
+      "translation": "maka",
+      "transliteration": "falā"
+    },
+    {
+      "id": 18639,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_016_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "Aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 18640,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_016_003.mp3",
+      "text": "بِٱلشَّفَقِ",
+      "translation": "dengan cahaya merah di waktu senja",
+      "transliteration": "bil-shafaqi"
+    },
+    {
+      "id": 18641,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sesungguhnya Aku bersumpah dengan cahaya merah di waktu senja,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87340,
+    "timestamp_to": 91680,
+    "duration": 4340,
+    "segments": [
+      [
+        1,
+        87315,
+        89385
+      ],
+      [
+        2,
+        89385,
+        90205
+      ],
+      [
+        3,
+        90205,
+        91610
+      ]
+    ]
+  }
+}

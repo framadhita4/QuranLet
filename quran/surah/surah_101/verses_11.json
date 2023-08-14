@@ -1,0 +1,60 @@
+{
+  "id": 6168,
+  "chapter_id": 101,
+  "verse_key": "101:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "نَارٌ حَامِيَةٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 12437,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_011_001.mp3",
+      "text": "نَارٌ",
+      "translation": "api",
+      "transliteration": "nārun"
+    },
+    {
+      "id": 12438,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_011_002.mp3",
+      "text": "حَامِيَةٌۢ",
+      "translation": "sangat panas",
+      "transliteration": "ḥāmiyatun"
+    },
+    {
+      "id": 12439,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) api yang sangat panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48210,
+    "timestamp_to": 53250,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        48135,
+        50635
+      ],
+      [
+        2,
+        50635,
+        52570
+      ]
+    ]
+  }
+}

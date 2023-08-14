@@ -1,0 +1,151 @@
+{
+  "id": 2596,
+  "chapter_id": 22,
+  "verse_key": "22:1",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "ruku_number": 285,
+  "manzil_number": 4,
+  "page_number": 332,
+  "juz_number": 17,
+  "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 347,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 348,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_002.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 349,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_003.mp3",
+      "text": "ٱتَّقُوا۟",
+      "translation": "bertawakallah kamu",
+      "transliteration": "ittaqū"
+    },
+    {
+      "id": 350,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_004.mp3",
+      "text": "رَبَّكُمْ ۚ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbakum"
+    },
+    {
+      "id": 352,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_006.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 353,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_007.mp3",
+      "text": "زَلْزَلَةَ",
+      "translation": "kegoncangan",
+      "transliteration": "zalzalata"
+    },
+    {
+      "id": 354,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_008.mp3",
+      "text": "ٱلسَّاعَةِ",
+      "translation": "hari kiamat",
+      "transliteration": "l-sāʿati"
+    },
+    {
+      "id": 355,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_009.mp3",
+      "text": "شَىْءٌ",
+      "translation": "sesuatu",
+      "transliteration": "shayon"
+    },
+    {
+      "id": 356,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_001_010.mp3",
+      "text": "عَظِيمٌۭ",
+      "translation": "yang besar",
+      "transliteration": "ʿaẓīmun"
+    },
+    {
+      "id": 357,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai manusia, bertakwalah kepada Tuhanmu; sesungguhnya kegoncangan hari kiamat itu adalah suatu kejadian yang sangat besar (dahsyat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 13480,
+    "duration": 13480,
+    "segments": [
+      [
+        1,
+        0,
+        2930
+      ],
+      [
+        2,
+        2930,
+        4320
+      ],
+      [
+        3,
+        4320,
+        5220
+      ],
+      [
+        4,
+        5220,
+        6290
+      ],
+      [
+        5,
+        6290,
+        7610
+      ],
+      [
+        6,
+        7610,
+        8620
+      ],
+      [
+        7,
+        8620,
+        9780
+      ],
+      [
+        8,
+        9780,
+        10570
+      ],
+      [
+        9,
+        10570,
+        13435
+      ]
+    ]
+  }
+}

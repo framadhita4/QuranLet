@@ -1,0 +1,73 @@
+{
+  "id": 5953,
+  "chapter_id": 87,
+  "verse_key": "87:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 5507,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_005_001.mp3",
+      "text": "فَجَعَلَهُۥ",
+      "translation": "lalu Dia jadikannya",
+      "transliteration": "fajaʿalahu"
+    },
+    {
+      "id": 5508,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_005_002.mp3",
+      "text": "غُثَآءً",
+      "translation": "kering",
+      "transliteration": "ghuthāan"
+    },
+    {
+      "id": 5509,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_005_003.mp3",
+      "text": "أَحْوَىٰ",
+      "translation": "kehitam-hitaman",
+      "transliteration": "aḥwā"
+    },
+    {
+      "id": 5510,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu dijadikan-Nya rumput-rumput itu kering kehitam-hitaman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16170,
+    "timestamp_to": 21470,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        15585,
+        16835
+      ],
+      [
+        2,
+        16835,
+        19365
+      ],
+      [
+        3,
+        19365,
+        20380
+      ]
+    ]
+  }
+}

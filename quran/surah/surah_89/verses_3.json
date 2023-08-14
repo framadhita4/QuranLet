@@ -1,0 +1,60 @@
+{
+  "id": 5996,
+  "chapter_id": 89,
+  "verse_key": "89:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 2408,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_003_001.mp3",
+      "text": "وَٱلشَّفْعِ",
+      "translation": "dan yang genap",
+      "transliteration": "wal-shafʿi"
+    },
+    {
+      "id": 2409,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_003_002.mp3",
+      "text": "وَٱلْوَتْرِ",
+      "translation": "dan yang ganjil",
+      "transliteration": "wal-watri"
+    },
+    {
+      "id": 2410,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan yang genap dan yang ganjil,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3870,
+    "timestamp_to": 6270,
+    "duration": 2400,
+    "segments": [
+      [
+        1,
+        3785,
+        4845
+      ],
+      [
+        2,
+        4845,
+        6100
+      ]
+    ]
+  }
+}

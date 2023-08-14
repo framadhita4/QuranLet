@@ -1,0 +1,73 @@
+{
+  "id": 1885,
+  "chapter_id": 15,
+  "verse_key": "15:83",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 65399,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_083_001.mp3",
+      "text": "فَأَخَذَتْهُمُ",
+      "translation": "maka menimpa/membinasakan mereka",
+      "transliteration": "fa-akhadhathumu"
+    },
+    {
+      "id": 65400,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_083_002.mp3",
+      "text": "ٱلصَّيْحَةُ",
+      "translation": "suara keras",
+      "transliteration": "l-ṣayḥatu"
+    },
+    {
+      "id": 65401,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_083_003.mp3",
+      "text": "مُصْبِحِينَ",
+      "translation": "diwaktu pagi",
+      "transliteration": "muṣ'biḥīna"
+    },
+    {
+      "id": 65402,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka dibinasakan oleh suara keras yang mengguntur pada waktu pagi <sup foot_note_id=\"813\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 795970,
+    "timestamp_to": 801250,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        795925,
+        797395
+      ],
+      [
+        2,
+        797395,
+        798585
+      ],
+      [
+        3,
+        798585,
+        801160
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5538,
+  "chapter_id": 74,
+  "verse_key": "74:43",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 43723,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_043_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 43724,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_043_002.mp3",
+      "text": "لَمْ",
+      "translation": "tidak ada",
+      "transliteration": "lam"
+    },
+    {
+      "id": 43725,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_043_003.mp3",
+      "text": "نَكُ",
+      "translation": "kami",
+      "transliteration": "naku"
+    },
+    {
+      "id": 43726,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_043_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 43727,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_043_005.mp3",
+      "text": "ٱلْمُصَلِّينَ",
+      "translation": "orang-orang yang mengerjakan sholat",
+      "transliteration": "l-muṣalīna"
+    },
+    {
+      "id": 43728,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Kami dahulu tidak termasuk orang-orang yang mengerjakan salat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 228760,
+    "timestamp_to": 233980,
+    "duration": 5230,
+    "segments": [
+      [
+        1,
+        228695,
+        229425
+      ],
+      [
+        2,
+        229425,
+        229825
+      ],
+      [
+        3,
+        229825,
+        230225
+      ],
+      [
+        4,
+        230225,
+        230525
+      ],
+      [
+        5,
+        230525,
+        233870
+      ]
+    ]
+  }
+}

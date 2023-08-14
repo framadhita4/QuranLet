@@ -1,0 +1,125 @@
+{
+  "id": 2975,
+  "chapter_id": 26,
+  "verse_key": "26:43",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 43785,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_001.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 43786,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_002.mp3",
+      "text": "لَهُم",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 43787,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_003.mp3",
+      "text": "مُّوسَىٰٓ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 43788,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_004.mp3",
+      "text": "أَلْقُوا۟",
+      "translation": "lemparkanlah/jatuhkanlah",
+      "transliteration": "alqū"
+    },
+    {
+      "id": 43789,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_005.mp3",
+      "text": "مَآ",
+      "translation": "apa-apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 43790,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_006.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 43791,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_043_007.mp3",
+      "text": "مُّلْقُونَ",
+      "translation": "lemparkan",
+      "transliteration": "mul'qūna"
+    },
+    {
+      "id": 43792,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkatalah Musa kepada mereka, \"Lemparkanlah apa yang hendak kamu lemparkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 421960,
+    "timestamp_to": 433660,
+    "duration": 11700,
+    "segments": [
+      [
+        1,
+        421895,
+        422595
+      ],
+      [
+        2,
+        422595,
+        423065
+      ],
+      [
+        3,
+        423065,
+        426075
+      ],
+      [
+        4,
+        426075,
+        426915
+      ],
+      [
+        5,
+        426915,
+        428865
+      ],
+      [
+        6,
+        428865,
+        430115
+      ],
+      [
+        7,
+        430115,
+        433570
+      ]
+    ]
+  }
+}

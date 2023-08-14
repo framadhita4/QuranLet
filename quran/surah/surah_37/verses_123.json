@@ -1,0 +1,86 @@
+{
+  "id": 3911,
+  "chapter_id": 37,
+  "verse_key": "37:123",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 76875,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_123_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 76876,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_123_002.mp3",
+      "text": "إِلْيَاسَ",
+      "translation": "Ilyas",
+      "transliteration": "il'yāsa"
+    },
+    {
+      "id": 76877,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_123_003.mp3",
+      "text": "لَمِنَ",
+      "translation": "benar-benar termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 76878,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_123_004.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 76879,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢٣",
+      "translation": "(123)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Ilyās benar-benar termasuk salah seorang rasul-rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1015400,
+    "timestamp_to": 1021590,
+    "duration": 6190,
+    "segments": [
+      [
+        1,
+        1015345,
+        1016535
+      ],
+      [
+        2,
+        1016535,
+        1017685
+      ],
+      [
+        3,
+        1017685,
+        1018135
+      ],
+      [
+        4,
+        1018135,
+        1021500
+      ]
+    ]
+  }
+}

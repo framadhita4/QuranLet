@@ -1,0 +1,73 @@
+{
+  "id": 3878,
+  "chapter_id": 37,
+  "verse_key": "37:90",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 68093,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_090_001.mp3",
+      "text": "فَتَوَلَّوْا۟",
+      "translation": "maka mereka berpaling",
+      "transliteration": "fatawallaw"
+    },
+    {
+      "id": 68094,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_090_002.mp3",
+      "text": "عَنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 68095,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_090_003.mp3",
+      "text": "مُدْبِرِينَ",
+      "translation": "membelakang",
+      "transliteration": "mud'birīna"
+    },
+    {
+      "id": 68096,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٠",
+      "translation": "(90)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, mereka berpaling darinya dengan membelakang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 738500,
+    "timestamp_to": 743570,
+    "duration": 5070,
+    "segments": [
+      [
+        1,
+        738445,
+        739685
+      ],
+      [
+        2,
+        739685,
+        740315
+      ],
+      [
+        3,
+        740315,
+        743430
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6118,
+  "chapter_id": 96,
+  "verse_key": "96:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 14267,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_012_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 14268,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_012_002.mp3",
+      "text": "أَمَرَ",
+      "translation": "dia menyuruh",
+      "transliteration": "amara"
+    },
+    {
+      "id": 14269,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_012_003.mp3",
+      "text": "بِٱلتَّقْوَىٰٓ",
+      "translation": "dengan taqwa",
+      "transliteration": "bil-taqwā"
+    },
+    {
+      "id": 14270,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau dia menyuruh bertakwa (kepada Allah)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 45820,
+    "timestamp_to": 48750,
+    "duration": 2930,
+    "segments": [
+      [
+        1,
+        45435,
+        45875
+      ],
+      [
+        2,
+        45875,
+        46535
+      ],
+      [
+        3,
+        46535,
+        47910
+      ]
+    ]
+  }
+}

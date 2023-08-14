@@ -1,0 +1,99 @@
+{
+  "id": 3116,
+  "chapter_id": 26,
+  "verse_key": "26:184",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ وَٱلْجِبِلَّةَ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84033,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_184_001.mp3",
+      "text": "وَٱتَّقُوا۟",
+      "translation": "dan bertakwalah kamu",
+      "transliteration": "wa-ittaqū"
+    },
+    {
+      "id": 84034,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_184_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 84035,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_184_003.mp3",
+      "text": "خَلَقَكُمْ",
+      "translation": "menciptakan kalian",
+      "transliteration": "khalaqakum"
+    },
+    {
+      "id": 84036,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_184_004.mp3",
+      "text": "وَٱلْجِبِلَّةَ",
+      "translation": "dan ummat-ummat",
+      "transliteration": "wal-jibilata"
+    },
+    {
+      "id": 84037,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_184_005.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "terdahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 84038,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٨٤",
+      "translation": "(184)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bertakwalah kepada Allah yang telah menciptakan kamu dan umat-umat yang dahulu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1595570,
+    "timestamp_to": 1603280,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        1595525,
+        1596415
+      ],
+      [
+        2,
+        1596415,
+        1597255
+      ],
+      [
+        3,
+        1597255,
+        1598445
+      ],
+      [
+        4,
+        1598445,
+        1599945
+      ],
+      [
+        5,
+        1599945,
+        1603210
+      ]
+    ]
+  }
+}

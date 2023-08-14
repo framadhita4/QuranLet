@@ -1,0 +1,99 @@
+{
+  "id": 5480,
+  "chapter_id": 73,
+  "verse_key": "73:5",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 5325,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_005_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 5326,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_005_002.mp3",
+      "text": "سَنُلْقِى",
+      "translation": "Kami akan menurunkan",
+      "transliteration": "sanul'qī"
+    },
+    {
+      "id": 5327,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_005_003.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 5328,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_005_004.mp3",
+      "text": "قَوْلًۭا",
+      "translation": "perkataan",
+      "transliteration": "qawlan"
+    },
+    {
+      "id": 5329,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_005_005.mp3",
+      "text": "ثَقِيلًا",
+      "translation": "berat",
+      "transliteration": "thaqīlan"
+    },
+    {
+      "id": 5330,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami akan menurunkan kepadamu perkataan yang berat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21080,
+    "timestamp_to": 27430,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        21005,
+        22505
+      ],
+      [
+        2,
+        22505,
+        23555
+      ],
+      [
+        3,
+        23555,
+        24375
+      ],
+      [
+        4,
+        24375,
+        25485
+      ],
+      [
+        5,
+        25485,
+        27300
+      ]
+    ]
+  }
+}

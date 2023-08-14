@@ -1,0 +1,112 @@
+{
+  "id": 1178,
+  "chapter_id": 8,
+  "verse_key": "8:18",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 147,
+  "manzil_number": 2,
+  "page_number": 179,
+  "juz_number": 9,
+  "text_uthmani": "ذَٰلِكُمْ وَأَنَّ ٱللَّهَ مُوهِنُ كَيْدِ ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 20396,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_018_001.mp3",
+      "text": "ذَٰلِكُمْ",
+      "translation": "demikianlah",
+      "transliteration": "dhālikum"
+    },
+    {
+      "id": 20397,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_018_002.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 20398,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_018_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 20399,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_018_004.mp3",
+      "text": "مُوهِنُ",
+      "translation": "melemahkan",
+      "transliteration": "mūhinu"
+    },
+    {
+      "id": 20400,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_018_005.mp3",
+      "text": "كَيْدِ",
+      "translation": "tipu daya",
+      "transliteration": "kaydi"
+    },
+    {
+      "id": 20401,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_018_006.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 20402,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah (karunia Allah yang dilimpahkan kepadamu), dan sesungguhnya Allah melemahkan tipu daya orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 372770,
+    "timestamp_to": 381210,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        372735,
+        373975
+      ],
+      [
+        2,
+        373975,
+        375435
+      ],
+      [
+        3,
+        375435,
+        376465
+      ],
+      [
+        4,
+        376465,
+        377345
+      ],
+      [
+        5,
+        377345,
+        378005
+      ],
+      [
+        6,
+        378005,
+        381120
+      ]
+    ]
+  }
+}

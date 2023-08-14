@@ -1,0 +1,99 @@
+{
+  "id": 5031,
+  "chapter_id": 56,
+  "verse_key": "56:52",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 50165,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_052_001.mp3",
+      "text": "لَـَٔاكِلُونَ",
+      "translation": "pasti memakan",
+      "transliteration": "laākilūna"
+    },
+    {
+      "id": 50166,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_052_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50167,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_052_003.mp3",
+      "text": "شَجَرٍۢ",
+      "translation": "pohon",
+      "transliteration": "shajarin"
+    },
+    {
+      "id": 50168,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_052_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50169,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_052_005.mp3",
+      "text": "زَقُّومٍۢ",
+      "translation": "zaqqum",
+      "transliteration": "zaqqūmin"
+    },
+    {
+      "id": 50170,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "benar-benar akan memakan pohon zakum,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 345680,
+    "timestamp_to": 355500,
+    "duration": 9820,
+    "segments": [
+      [
+        1,
+        345605,
+        347185
+      ],
+      [
+        2,
+        347185,
+        347645
+      ],
+      [
+        3,
+        347645,
+        349455
+      ],
+      [
+        4,
+        349455,
+        352055
+      ],
+      [
+        5,
+        352055,
+        355240
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3932,
+  "chapter_id": 37,
+  "verse_key": "37:144",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79695,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_144_001.mp3",
+      "text": "لَلَبِثَ",
+      "translation": "niscaya dia tetap",
+      "transliteration": "lalabitha"
+    },
+    {
+      "id": 79696,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_144_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 79697,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_144_003.mp3",
+      "text": "بَطْنِهِۦٓ",
+      "translation": "perutnya (ikan)",
+      "transliteration": "baṭnihi"
+    },
+    {
+      "id": 79698,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_144_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 79699,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_144_005.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 79700,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_144_006.mp3",
+      "text": "يُبْعَثُونَ",
+      "translation": "mereka dibangkitkan",
+      "transliteration": "yub'ʿathūna"
+    },
+    {
+      "id": 79701,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٤٤",
+      "translation": "(144)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya ia akan tetap tinggal di perut ikan itu sampai hari berbangkit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1160510,
+    "timestamp_to": 1168920,
+    "duration": 8410,
+    "segments": [
+      [
+        1,
+        1160485,
+        1161375
+      ],
+      [
+        2,
+        1161375,
+        1161745
+      ],
+      [
+        3,
+        1161745,
+        1164065
+      ],
+      [
+        4,
+        1164065,
+        1164665
+      ],
+      [
+        5,
+        1164665,
+        1165205
+      ],
+      [
+        6,
+        1165205,
+        1168820
+      ]
+    ]
+  }
+}

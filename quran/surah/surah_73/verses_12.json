@@ -1,0 +1,86 @@
+{
+  "id": 5487,
+  "chapter_id": 73,
+  "verse_key": "73:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 14126,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_012_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 14127,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_012_002.mp3",
+      "text": "لَدَيْنَآ",
+      "translation": "pada sisi Kami",
+      "transliteration": "ladaynā"
+    },
+    {
+      "id": 14128,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_012_003.mp3",
+      "text": "أَنكَالًۭا",
+      "translation": "belenggu-belenggu",
+      "transliteration": "ankālan"
+    },
+    {
+      "id": 14129,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_012_004.mp3",
+      "text": "وَجَحِيمًۭا",
+      "translation": "dan api yang menyala-nyala",
+      "transliteration": "wajaḥīman"
+    },
+    {
+      "id": 14130,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena sesungguhnya pada sisi Kami ada belenggu-belenggu yang berat dan neraka yang menyala-nyala.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 70900,
+    "timestamp_to": 78890,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        70835,
+        72155
+      ],
+      [
+        2,
+        72155,
+        74635
+      ],
+      [
+        3,
+        74635,
+        77095
+      ],
+      [
+        4,
+        77095,
+        78430
+      ]
+    ]
+  }
+}

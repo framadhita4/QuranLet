@@ -1,0 +1,86 @@
+{
+  "id": 5311,
+  "chapter_id": 68,
+  "verse_key": "68:40",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 41363,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_040_001.mp3",
+      "text": "سَلْهُمْ",
+      "translation": "tanyakan pada mereka",
+      "transliteration": "salhum"
+    },
+    {
+      "id": 41364,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_040_002.mp3",
+      "text": "أَيُّهُم",
+      "translation": "siapa di antara mereka",
+      "transliteration": "ayyuhum"
+    },
+    {
+      "id": 41365,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_040_003.mp3",
+      "text": "بِذَٰلِكَ",
+      "translation": "terhadap demikian itu",
+      "transliteration": "bidhālika"
+    },
+    {
+      "id": 41366,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_040_004.mp3",
+      "text": "زَعِيمٌ",
+      "translation": "bertanggung jawab",
+      "transliteration": "zaʿīmun"
+    },
+    {
+      "id": 41367,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tanyakanlah kepada mereka, \"Siapakah di antara mereka yang bertanggung jawab terhadap keputusan yang diambil itu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 314180,
+    "timestamp_to": 320550,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        314095,
+        315015
+      ],
+      [
+        2,
+        315015,
+        316655
+      ],
+      [
+        3,
+        316655,
+        317595
+      ],
+      [
+        4,
+        317595,
+        320430
+      ]
+    ]
+  }
+}

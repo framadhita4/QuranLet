@@ -1,0 +1,73 @@
+{
+  "id": 5945,
+  "chapter_id": 86,
+  "verse_key": "86:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا هُوَ بِٱلْهَزْلِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 16447,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_014_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 16448,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_014_002.mp3",
+      "text": "هُوَ",
+      "translation": "ia (Al Qur'an)",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 16449,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_014_003.mp3",
+      "text": "بِٱلْهَزْلِ",
+      "translation": "dengan sia-sia/senda gurau",
+      "transliteration": "bil-hazli"
+    },
+    {
+      "id": 16450,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sekali-kali bukanlah dia senda gurau.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 70700,
+    "timestamp_to": 73260,
+    "duration": 2560,
+    "segments": [
+      [
+        1,
+        70575,
+        71245
+      ],
+      [
+        2,
+        71245,
+        71655
+      ],
+      [
+        3,
+        71655,
+        72760
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4681,
+  "chapter_id": 51,
+  "verse_key": "51:6",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 6108,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_006_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 6109,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_006_002.mp3",
+      "text": "ٱلدِّينَ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīna"
+    },
+    {
+      "id": 6110,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_006_003.mp3",
+      "text": "لَوَٰقِعٌۭ",
+      "translation": "pasti terjadi",
+      "transliteration": "lawāqiʿun"
+    },
+    {
+      "id": 6111,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya (hari) pembalasan pasti terjadi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 18760,
+    "timestamp_to": 22840,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        18715,
+        20295
+      ],
+      [
+        2,
+        20295,
+        21285
+      ],
+      [
+        3,
+        21285,
+        22750
+      ]
+    ]
+  }
+}

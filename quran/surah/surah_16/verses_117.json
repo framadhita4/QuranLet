@@ -1,0 +1,99 @@
+{
+  "id": 2018,
+  "chapter_id": 16,
+  "verse_key": "16:117",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "ruku_number": 238,
+  "manzil_number": 3,
+  "page_number": 280,
+  "juz_number": 14,
+  "text_uthmani": "مَتَـٰعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 75729,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_117_001.mp3",
+      "text": "مَتَـٰعٌۭ",
+      "translation": "kesenangan",
+      "transliteration": "matāʿun"
+    },
+    {
+      "id": 75730,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_117_002.mp3",
+      "text": "قَلِيلٌۭ",
+      "translation": "sedikit",
+      "transliteration": "qalīlun"
+    },
+    {
+      "id": 75731,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_117_003.mp3",
+      "text": "وَلَهُمْ",
+      "translation": "dan bagi mereka",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 75732,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_117_004.mp3",
+      "text": "عَذَابٌ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 75733,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_117_005.mp3",
+      "text": "أَلِيمٌۭ",
+      "translation": "pedih",
+      "transliteration": "alīmun"
+    },
+    {
+      "id": 75734,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١٧",
+      "translation": "(117)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Itu adalah) kesenangan yang sedikit dan bagi mereka azab yang pedih.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2330980,
+    "timestamp_to": 2339570,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        2330925,
+        2332775
+      ],
+      [
+        2,
+        2332775,
+        2334875
+      ],
+      [
+        3,
+        2334875,
+        2335615
+      ],
+      [
+        4,
+        2335615,
+        2336735
+      ],
+      [
+        5,
+        2336735,
+        2339470
+      ]
+    ]
+  }
+}

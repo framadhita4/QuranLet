@@ -1,0 +1,60 @@
+{
+  "id": 5995,
+  "chapter_id": 89,
+  "verse_key": "89:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَلَيَالٍ عَشْرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 1778,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_002_001.mp3",
+      "text": "وَلَيَالٍ",
+      "translation": "dan malam-malam",
+      "transliteration": "walayālin"
+    },
+    {
+      "id": 1779,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_002_002.mp3",
+      "text": "عَشْرٍۢ",
+      "translation": "sepuluh",
+      "transliteration": "ʿashrin"
+    },
+    {
+      "id": 1780,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan malam yang sepuluh<sup foot_note_id=\"1573\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1440,
+    "timestamp_to": 3870,
+    "duration": 2430,
+    "segments": [
+      [
+        1,
+        895,
+        2175
+      ],
+      [
+        2,
+        2175,
+        3240
+      ]
+    ]
+  }
+}

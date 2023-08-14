@@ -1,0 +1,86 @@
+{
+  "id": 5929,
+  "chapter_id": 85,
+  "verse_key": "85:20",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 22972,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_020_001.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 22973,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_020_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22974,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_020_003.mp3",
+      "text": "وَرَآئِهِم",
+      "translation": "belakang mereka",
+      "transliteration": "warāihim"
+    },
+    {
+      "id": 22975,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_020_004.mp3",
+      "text": "مُّحِيطٌۢ",
+      "translation": "meliputi/mengepung",
+      "transliteration": "muḥīṭun"
+    },
+    {
+      "id": 22976,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "padahal Allah mengepung mereka dari belakang mereka<sup foot_note_id=\"1570\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 158110,
+    "timestamp_to": 166810,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        158045,
+        159135
+      ],
+      [
+        2,
+        159135,
+        160115
+      ],
+      [
+        3,
+        160115,
+        163575
+      ],
+      [
+        4,
+        163575,
+        166420
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 3650,
+  "chapter_id": 34,
+  "verse_key": "34:44",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "ruku_number": 376,
+  "manzil_number": 5,
+  "page_number": 433,
+  "juz_number": 22,
+  "text_uthmani": "وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3",
+  "words": [
+    {
+      "id": 44811,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 44812,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_002.mp3",
+      "text": "ءَاتَيْنَـٰهُم",
+      "translation": "Kami berikan kepada mereka",
+      "transliteration": "ātaynāhum"
+    },
+    {
+      "id": 44813,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 44814,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_004.mp3",
+      "text": "كُتُبٍۢ",
+      "translation": "kitab-kitab",
+      "transliteration": "kutubin"
+    },
+    {
+      "id": 44815,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_005.mp3",
+      "text": "يَدْرُسُونَهَا ۖ",
+      "translation": "mereka membacanya",
+      "transliteration": "yadrusūnahā"
+    },
+    {
+      "id": 44817,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_007.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 44818,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_008.mp3",
+      "text": "أَرْسَلْنَآ",
+      "translation": "Kami utus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 44819,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_009.mp3",
+      "text": "إِلَيْهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "ilayhim"
+    },
+    {
+      "id": 44820,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_010.mp3",
+      "text": "قَبْلَكَ",
+      "translation": "sebelum kamu",
+      "transliteration": "qablaka"
+    },
+    {
+      "id": 44821,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_011.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 44822,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_044_012.mp3",
+      "text": "نَّذِيرٍۢ",
+      "translation": "seorang pemberi peringatan",
+      "transliteration": "nadhīrin"
+    },
+    {
+      "id": 44823,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tidak pernah memberikan kepada mereka kitab-kitab yang mereka baca dan sekali-kali tidak pernah (pula) mengutus kepada mereka sebelum kamu seorang pemberi peringatan pun.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 870570,
+    "timestamp_to": 888730,
+    "duration": 18160,
+    "segments": [
+      [
+        1,
+        870535,
+        871565
+      ],
+      [
+        2,
+        871565,
+        874195
+      ],
+      [
+        3,
+        874195,
+        875455
+      ],
+      [
+        4,
+        875455,
+        876955
+      ],
+      [
+        5,
+        876955,
+        878485
+      ],
+      [
+        6,
+        878485,
+        880705
+      ],
+      [
+        7,
+        880705,
+        883535
+      ],
+      [
+        8,
+        883535,
+        884505
+      ],
+      [
+        9,
+        884505,
+        885245
+      ],
+      [
+        10,
+        885245,
+        885505
+      ],
+      [
+        11,
+        885505,
+        888650
+      ]
+    ]
+  }
+}

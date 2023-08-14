@@ -1,0 +1,99 @@
+{
+  "id": 5425,
+  "chapter_id": 71,
+  "verse_key": "71:6",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 6509,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_006_001.mp3",
+      "text": "فَلَمْ",
+      "translation": "maka tidak",
+      "transliteration": "falam"
+    },
+    {
+      "id": 6510,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_006_002.mp3",
+      "text": "يَزِدْهُمْ",
+      "translation": "menambah mereka",
+      "transliteration": "yazid'hum"
+    },
+    {
+      "id": 6511,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_006_003.mp3",
+      "text": "دُعَآءِىٓ",
+      "translation": "seruanku",
+      "transliteration": "duʿāī"
+    },
+    {
+      "id": 6512,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_006_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 6513,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_006_005.mp3",
+      "text": "فِرَارًۭا",
+      "translation": "lari",
+      "transliteration": "firāran"
+    },
+    {
+      "id": 6514,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka seruanku itu hanyalah menambah mereka lari (dari kebenaran).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60210,
+    "timestamp_to": 68360,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        60145,
+        60635
+      ],
+      [
+        2,
+        60635,
+        61605
+      ],
+      [
+        3,
+        61605,
+        65915
+      ],
+      [
+        4,
+        65915,
+        66635
+      ],
+      [
+        5,
+        66635,
+        68250
+      ]
+    ]
+  }
+}

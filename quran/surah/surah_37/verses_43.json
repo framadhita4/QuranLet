@@ -1,0 +1,73 @@
+{
+  "id": 3831,
+  "chapter_id": 37,
+  "verse_key": "37:43",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 44072,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_043_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 44073,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_043_002.mp3",
+      "text": "جَنَّـٰتِ",
+      "translation": "sorga",
+      "transliteration": "jannāti"
+    },
+    {
+      "id": 44074,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_043_003.mp3",
+      "text": "ٱلنَّعِيمِ",
+      "translation": "penuh nikmat",
+      "transliteration": "l-naʿīmi"
+    },
+    {
+      "id": 44075,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di dalam surga-surga yang penuh nikmat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 364230,
+    "timestamp_to": 370920,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        364165,
+        364655
+      ],
+      [
+        2,
+        364655,
+        366585
+      ],
+      [
+        3,
+        366585,
+        370800
+      ]
+    ]
+  }
+}

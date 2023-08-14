@@ -1,0 +1,112 @@
+{
+  "id": 4328,
+  "chapter_id": 43,
+  "verse_key": "43:3",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 426,
+  "manzil_number": 6,
+  "page_number": 489,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّا جَعَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 2076,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_003_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 2077,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_003_002.mp3",
+      "text": "جَعَلْنَـٰهُ",
+      "translation": "Kami jadikannya",
+      "transliteration": "jaʿalnāhu"
+    },
+    {
+      "id": 2078,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_003_003.mp3",
+      "text": "قُرْءَٰنًا",
+      "translation": "Al Qur'an",
+      "transliteration": "qur'ānan"
+    },
+    {
+      "id": 2079,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_003_004.mp3",
+      "text": "عَرَبِيًّۭا",
+      "translation": "bahasa Arab",
+      "transliteration": "ʿarabiyyan"
+    },
+    {
+      "id": 2080,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_003_005.mp3",
+      "text": "لَّعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 2081,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_003_006.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 2082,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menjadikan Al-Qur`ān dalam bahasa Arab supaya kamu memahami(nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10010,
+    "timestamp_to": 19600,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        9955,
+        11375
+      ],
+      [
+        2,
+        11375,
+        12685
+      ],
+      [
+        3,
+        12685,
+        13925
+      ],
+      [
+        4,
+        13925,
+        14975
+      ],
+      [
+        5,
+        14975,
+        16495
+      ],
+      [
+        6,
+        16495,
+        19520
+      ]
+    ]
+  }
+}

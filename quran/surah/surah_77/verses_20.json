@@ -1,0 +1,99 @@
+{
+  "id": 5642,
+  "chapter_id": 77,
+  "verse_key": "77:20",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 22881,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidaklah/bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 22882,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_002.mp3",
+      "text": "نَخْلُقكُّم",
+      "translation": "Kami menciptakan",
+      "transliteration": "nakhluqkkum"
+    },
+    {
+      "id": 22883,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22884,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_004.mp3",
+      "text": "مَّآءٍۢ",
+      "translation": "air",
+      "transliteration": "māin"
+    },
+    {
+      "id": 22885,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_005.mp3",
+      "text": "مَّهِينٍۢ",
+      "translation": "yang hina",
+      "transliteration": "mahīnin"
+    },
+    {
+      "id": 22886,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Kami menciptakan kamu dari air yang hina?<sup foot_note_id=\"1541\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72050,
+    "timestamp_to": 80770,
+    "duration": 8730,
+    "segments": [
+      [
+        1,
+        71865,
+        72515
+      ],
+      [
+        2,
+        72515,
+        73805
+      ],
+      [
+        3,
+        73805,
+        74545
+      ],
+      [
+        4,
+        74545,
+        77535
+      ],
+      [
+        5,
+        77535,
+        80540
+      ]
+    ]
+  }
+}

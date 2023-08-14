@@ -1,0 +1,86 @@
+{
+  "id": 5404,
+  "chapter_id": 70,
+  "verse_key": "70:29",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 31958,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_029_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang yang pergi",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 31959,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_029_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 31960,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_029_003.mp3",
+      "text": "لِفُرُوجِهِمْ",
+      "translation": "bagi kemaluan mereka",
+      "transliteration": "lifurūjihim"
+    },
+    {
+      "id": 31961,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_029_004.mp3",
+      "text": "حَـٰفِظُونَ",
+      "translation": "orang-orang yang memelihara/menjaga",
+      "transliteration": "ḥāfiẓūna"
+    },
+    {
+      "id": 31962,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang memelihara kemaluannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 161940,
+    "timestamp_to": 167970,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        161865,
+        162965
+      ],
+      [
+        2,
+        162965,
+        163355
+      ],
+      [
+        3,
+        163355,
+        164745
+      ],
+      [
+        4,
+        164745,
+        167820
+      ]
+    ]
+  }
+}

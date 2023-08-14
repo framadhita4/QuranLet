@@ -1,0 +1,125 @@
+{
+  "id": 4493,
+  "chapter_id": 45,
+  "verse_key": "45:20",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "ruku_number": 437,
+  "manzil_number": 6,
+  "page_number": 500,
+  "juz_number": 25,
+  "text_uthmani": "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 22408,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 22409,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_002.mp3",
+      "text": "بَصَـٰٓئِرُ",
+      "translation": "pedoman",
+      "transliteration": "baṣāiru"
+    },
+    {
+      "id": 22410,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_003.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "bagi manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 22411,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_004.mp3",
+      "text": "وَهُدًۭى",
+      "translation": "dan petunjuk",
+      "transliteration": "wahudan"
+    },
+    {
+      "id": 22412,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_005.mp3",
+      "text": "وَرَحْمَةٌۭ",
+      "translation": "dan rahmat",
+      "transliteration": "waraḥmatun"
+    },
+    {
+      "id": 22413,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_006.mp3",
+      "text": "لِّقَوْمٍۢ",
+      "translation": "bagi kaum",
+      "transliteration": "liqawmin"
+    },
+    {
+      "id": 22414,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_020_007.mp3",
+      "text": "يُوقِنُونَ",
+      "translation": "mereka meyakini",
+      "transliteration": "yūqinūna"
+    },
+    {
+      "id": 22415,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Al-Qur`ān ini adalah pedoman bagi manusia; petunjuk dan rahmat bagi kaum yang meyakini.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 302100,
+    "timestamp_to": 314510,
+    "duration": 12410,
+    "segments": [
+      [
+        1,
+        302045,
+        302995
+      ],
+      [
+        2,
+        302995,
+        305665
+      ],
+      [
+        3,
+        305665,
+        307115
+      ],
+      [
+        4,
+        307115,
+        308385
+      ],
+      [
+        5,
+        308385,
+        309335
+      ],
+      [
+        6,
+        309335,
+        311395
+      ],
+      [
+        7,
+        311395,
+        314340
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 3855,
+  "chapter_id": 37,
+  "verse_key": "37:67",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 58350,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 58351,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 58352,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 58353,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_004.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 58354,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_005.mp3",
+      "text": "لَشَوْبًۭا",
+      "translation": "pasti dipakaikan/dicampurkan",
+      "transliteration": "lashawban"
+    },
+    {
+      "id": 58355,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_006.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 58356,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_067_007.mp3",
+      "text": "حَمِيمٍۢ",
+      "translation": "air yang sangat panas/mendidih",
+      "transliteration": "ḥamīmin"
+    },
+    {
+      "id": 58357,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian sesudah makan buah pohon zakum itu, pasti mereka mendapat minuman yang bercampur dengan air yang sangat panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 561320,
+    "timestamp_to": 571380,
+    "duration": 10060,
+    "segments": [
+      [
+        1,
+        561245,
+        562515
+      ],
+      [
+        2,
+        562515,
+        563705
+      ],
+      [
+        3,
+        563705,
+        564295
+      ],
+      [
+        4,
+        564295,
+        565385
+      ],
+      [
+        5,
+        565385,
+        566765
+      ],
+      [
+        6,
+        566765,
+        567535
+      ],
+      [
+        7,
+        567535,
+        571230
+      ]
+    ]
+  }
+}

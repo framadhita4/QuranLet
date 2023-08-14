@@ -1,0 +1,86 @@
+{
+  "id": 4043,
+  "chapter_id": 38,
+  "verse_key": "38:73",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 61338,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_001.mp3",
+      "text": "فَسَجَدَ",
+      "translation": "maka bersujud",
+      "transliteration": "fasajada"
+    },
+    {
+      "id": 61339,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_002.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةُ",
+      "translation": "Malaikat",
+      "transliteration": "l-malāikatu"
+    },
+    {
+      "id": 61340,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_003.mp3",
+      "text": "كُلُّهُمْ",
+      "translation": "semua mereka",
+      "transliteration": "kulluhum"
+    },
+    {
+      "id": 61341,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_004.mp3",
+      "text": "أَجْمَعُونَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿūna"
+    },
+    {
+      "id": 61342,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, seluruh malaikat-malaikat itu bersujud semuanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 915290,
+    "timestamp_to": 922680,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        915265,
+        916035
+      ],
+      [
+        2,
+        916035,
+        918925
+      ],
+      [
+        3,
+        918925,
+        919985
+      ],
+      [
+        4,
+        919985,
+        922630
+      ]
+    ]
+  }
+}

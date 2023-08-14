@@ -1,0 +1,86 @@
+{
+  "id": 5926,
+  "chapter_id": 85,
+  "verse_key": "85:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 19702,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_017_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 19703,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_017_002.mp3",
+      "text": "أَتَىٰكَ",
+      "translation": "datang kepadamu",
+      "transliteration": "atāka"
+    },
+    {
+      "id": 19704,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_017_003.mp3",
+      "text": "حَدِيثُ",
+      "translation": "berita",
+      "transliteration": "ḥadīthu"
+    },
+    {
+      "id": 19705,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_017_004.mp3",
+      "text": "ٱلْجُنُودِ",
+      "translation": "bala tentara",
+      "transliteration": "l-junūdi"
+    },
+    {
+      "id": 19706,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sudahkah datang kepadamu berita kaum-kaum penentang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 141890,
+    "timestamp_to": 147320,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        141835,
+        142245
+      ],
+      [
+        2,
+        142245,
+        143055
+      ],
+      [
+        3,
+        143055,
+        143895
+      ],
+      [
+        4,
+        143895,
+        147200
+      ]
+    ]
+  }
+}

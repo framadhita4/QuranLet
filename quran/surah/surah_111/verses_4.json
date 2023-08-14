@@ -1,0 +1,73 @@
+{
+  "id": 6220,
+  "chapter_id": 111,
+  "verse_key": "111:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 555,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3",
+  "words": [
+    {
+      "id": 4041,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_004_001.mp3",
+      "text": "وَٱمْرَأَتُهُۥ",
+      "translation": "dan istrinya",
+      "transliteration": "wa-im'ra-atuhu"
+    },
+    {
+      "id": 4042,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_004_002.mp3",
+      "text": "حَمَّالَةَ",
+      "translation": "pembawa",
+      "transliteration": "ḥammālata"
+    },
+    {
+      "id": 4043,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_004_003.mp3",
+      "text": "ٱلْحَطَبِ",
+      "translation": "kayu bakar",
+      "transliteration": "l-ḥaṭabi"
+    },
+    {
+      "id": 4044,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (begitu pula) istrinya, pembawa kayu bakar<sup foot_note_id=\"1609\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19720,
+    "timestamp_to": 25310,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        19435,
+        20955
+      ],
+      [
+        2,
+        20955,
+        23315
+      ],
+      [
+        3,
+        23315,
+        24240
+      ]
+    ]
+  }
+}

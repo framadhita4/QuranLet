@@ -1,0 +1,112 @@
+{
+  "id": 431,
+  "chapter_id": 3,
+  "verse_key": "3:138",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "ruku_number": 55,
+  "manzil_number": 1,
+  "page_number": 67,
+  "juz_number": 4,
+  "text_uthmani": "هَـٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 78938,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_138_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 78939,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_138_002.mp3",
+      "text": "بَيَانٌۭ",
+      "translation": "penerangan",
+      "transliteration": "bayānun"
+    },
+    {
+      "id": 78940,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_138_003.mp3",
+      "text": "لِّلنَّاسِ",
+      "translation": "bagi manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 78941,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_138_004.mp3",
+      "text": "وَهُدًۭى",
+      "translation": "dan petunjuk",
+      "transliteration": "wahudan"
+    },
+    {
+      "id": 78942,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_138_005.mp3",
+      "text": "وَمَوْعِظَةٌۭ",
+      "translation": "dan pelajaran",
+      "transliteration": "wamawʿiẓatun"
+    },
+    {
+      "id": 78943,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_138_006.mp3",
+      "text": "لِّلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang bertakwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 78944,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٣٨",
+      "translation": "(138)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Al-Qur`ān) ini adalah penerangan bagi seluruh manusia, dan petunjuk serta pelajaran bagi orang-orang yang bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3144420,
+    "timestamp_to": 3154840,
+    "duration": 10420,
+    "segments": [
+      [
+        1,
+        3144395,
+        3145405
+      ],
+      [
+        2,
+        3145405,
+        3146285
+      ],
+      [
+        3,
+        3146285,
+        3148165
+      ],
+      [
+        4,
+        3148165,
+        3149495
+      ],
+      [
+        5,
+        3149495,
+        3150825
+      ],
+      [
+        6,
+        3150825,
+        3154790
+      ]
+    ]
+  }
+}

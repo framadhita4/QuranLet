@@ -1,0 +1,151 @@
+{
+  "id": 305,
+  "chapter_id": 3,
+  "verse_key": "3:12",
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "ruku_number": 43,
+  "manzil_number": 1,
+  "page_number": 51,
+  "juz_number": 3,
+  "text_uthmani": "قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 13837,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_001.mp3",
+      "text": "قُل",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 13838,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_002.mp3",
+      "text": "لِّلَّذِينَ",
+      "translation": "kepada orang-orang yang",
+      "transliteration": "lilladhīna"
+    },
+    {
+      "id": 13839,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 13840,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_004.mp3",
+      "text": "سَتُغْلَبُونَ",
+      "translation": "kamu pasti akan dikalahkan",
+      "transliteration": "satugh'labūna"
+    },
+    {
+      "id": 13841,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_005.mp3",
+      "text": "وَتُحْشَرُونَ",
+      "translation": "dan kamu akan digiring",
+      "transliteration": "watuḥ'sharūna"
+    },
+    {
+      "id": 13842,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_006.mp3",
+      "text": "إِلَىٰ",
+      "translation": "ke dalam",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 13843,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_007.mp3",
+      "text": "جَهَنَّمَ ۚ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 13845,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_009.mp3",
+      "text": "وَبِئْسَ",
+      "translation": "dan seburuk-buruk",
+      "transliteration": "wabi'sa"
+    },
+    {
+      "id": 13846,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_012_010.mp3",
+      "text": "ٱلْمِهَادُ",
+      "translation": "tempat",
+      "transliteration": "l-mihādu"
+    },
+    {
+      "id": 13847,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah kepada orang-orang yang kafir, \"Kamu pasti akan dikalahkan (di dunia ini) dan akan digiring ke dalam neraka Jahanam.  Dan itulah tempat yang seburuk-buruknya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 217730,
+    "timestamp_to": 229930,
+    "duration": 12200,
+    "segments": [
+      [
+        1,
+        217125,
+        217415
+      ],
+      [
+        2,
+        217415,
+        218715
+      ],
+      [
+        3,
+        218715,
+        219565
+      ],
+      [
+        4,
+        219565,
+        221125
+      ],
+      [
+        5,
+        221125,
+        222565
+      ],
+      [
+        6,
+        222565,
+        223205
+      ],
+      [
+        7,
+        223205,
+        225055
+      ],
+      [
+        8,
+        225055,
+        225955
+      ],
+      [
+        9,
+        225955,
+        229270
+      ]
+    ]
+  }
+}

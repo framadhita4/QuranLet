@@ -1,0 +1,99 @@
+{
+  "id": 5478,
+  "chapter_id": 73,
+  "verse_key": "73:3",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 2616,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_003_001.mp3",
+      "text": "نِّصْفَهُۥٓ",
+      "translation": "seperduanya",
+      "transliteration": "niṣ'fahu"
+    },
+    {
+      "id": 2617,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_003_002.mp3",
+      "text": "أَوِ",
+      "translation": "atau",
+      "transliteration": "awi"
+    },
+    {
+      "id": 2618,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_003_003.mp3",
+      "text": "ٱنقُصْ",
+      "translation": "kurang",
+      "transliteration": "unquṣ"
+    },
+    {
+      "id": 2619,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_003_004.mp3",
+      "text": "مِنْهُ",
+      "translation": "daripada",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 2620,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_003_005.mp3",
+      "text": "قَلِيلًا",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 2621,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) seperduanya atau kurangilah dari seperdua itu sedikit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9250,
+    "timestamp_to": 15390,
+    "duration": 6140,
+    "segments": [
+      [
+        1,
+        9185,
+        11454
+      ],
+      [
+        2,
+        11455,
+        11925
+      ],
+      [
+        3,
+        11925,
+        12995
+      ],
+      [
+        4,
+        12995,
+        13585
+      ],
+      [
+        5,
+        13585,
+        15290
+      ]
+    ]
+  }
+}

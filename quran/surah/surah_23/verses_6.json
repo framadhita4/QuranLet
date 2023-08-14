@@ -1,0 +1,164 @@
+{
+  "id": 2679,
+  "chapter_id": 23,
+  "verse_key": "23:6",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 6498,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 6499,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_002.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas/terhadap",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 6500,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_003.mp3",
+      "text": "أَزْوَٰجِهِمْ",
+      "translation": "isteri-isteri mereka",
+      "transliteration": "azwājihim"
+    },
+    {
+      "id": 6501,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_004.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 6502,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_005.mp3",
+      "text": "مَا",
+      "translation": "apa (budak)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 6503,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_006.mp3",
+      "text": "مَلَكَتْ",
+      "translation": "memiliki",
+      "transliteration": "malakat"
+    },
+    {
+      "id": 6504,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_007.mp3",
+      "text": "أَيْمَـٰنُهُمْ",
+      "translation": "tangan kanan mereka",
+      "transliteration": "aymānuhum"
+    },
+    {
+      "id": 6505,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_008.mp3",
+      "text": "فَإِنَّهُمْ",
+      "translation": "maka sesungguhnya mereka",
+      "transliteration": "fa-innahum"
+    },
+    {
+      "id": 6506,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_009.mp3",
+      "text": "غَيْرُ",
+      "translation": "budak/tidak",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 6507,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_006_010.mp3",
+      "text": "مَلُومِينَ",
+      "translation": "tercela",
+      "transliteration": "malūmīna"
+    },
+    {
+      "id": 6508,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali terhadap istri-istri mereka atau budak yang mereka miliki <sup foot_note_id=\"994\">1</sup>, maka sesungguhnya mereka dalam hal ini tiada tercela.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 36410,
+    "timestamp_to": 50590,
+    "duration": 14190,
+    "segments": [
+      [
+        1,
+        36355,
+        37165
+      ],
+      [
+        2,
+        37165,
+        39635
+      ],
+      [
+        3,
+        39635,
+        41155
+      ],
+      [
+        4,
+        41155,
+        41625
+      ],
+      [
+        5,
+        41625,
+        42015
+      ],
+      [
+        6,
+        42015,
+        42905
+      ],
+      [
+        7,
+        42905,
+        44335
+      ],
+      [
+        8,
+        44335,
+        46295
+      ],
+      [
+        9,
+        46295,
+        46965
+      ],
+      [
+        10,
+        46965,
+        50490
+      ]
+    ]
+  }
+}

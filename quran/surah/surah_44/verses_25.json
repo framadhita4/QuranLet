@@ -1,0 +1,99 @@
+{
+  "id": 4439,
+  "chapter_id": 44,
+  "verse_key": "44:25",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 27726,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_001.mp3",
+      "text": "كَمْ",
+      "translation": "berapa banyak",
+      "transliteration": "kam"
+    },
+    {
+      "id": 27727,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_002.mp3",
+      "text": "تَرَكُوا۟",
+      "translation": "mereka tinggalkan",
+      "transliteration": "tarakū"
+    },
+    {
+      "id": 27728,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 27729,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_004.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "taman-taman",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 27730,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_005.mp3",
+      "text": "وَعُيُونٍۢ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 27731,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alangkah banyaknya taman dan mata air yang mereka tinggalkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 251930,
+    "timestamp_to": 260790,
+    "duration": 8860,
+    "segments": [
+      [
+        1,
+        251885,
+        252335
+      ],
+      [
+        2,
+        252335,
+        253295
+      ],
+      [
+        3,
+        253295,
+        254385
+      ],
+      [
+        4,
+        254385,
+        257035
+      ],
+      [
+        5,
+        257035,
+        260680
+      ]
+    ]
+  }
+}

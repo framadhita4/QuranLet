@@ -1,0 +1,125 @@
+{
+  "id": 2302,
+  "chapter_id": 19,
+  "verse_key": "19:52",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "page_number": 309,
+  "juz_number": 16,
+  "text_uthmani": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَـٰهُ نَجِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 50285,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_001.mp3",
+      "text": "وَنَـٰدَيْنَـٰهُ",
+      "translation": "dan Kami telah memanggilnya",
+      "transliteration": "wanādaynāhu"
+    },
+    {
+      "id": 50286,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50287,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_003.mp3",
+      "text": "جَانِبِ",
+      "translation": "sisi/pinggir",
+      "transliteration": "jānibi"
+    },
+    {
+      "id": 50288,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_004.mp3",
+      "text": "ٱلطُّورِ",
+      "translation": "gunung Tur",
+      "transliteration": "l-ṭūri"
+    },
+    {
+      "id": 50289,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_005.mp3",
+      "text": "ٱلْأَيْمَنِ",
+      "translation": "sebelah kanan",
+      "transliteration": "l-aymani"
+    },
+    {
+      "id": 50290,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_006.mp3",
+      "text": "وَقَرَّبْنَـٰهُ",
+      "translation": "dan Kami telah mendekatkannya",
+      "transliteration": "waqarrabnāhu"
+    },
+    {
+      "id": 50291,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_052_007.mp3",
+      "text": "نَجِيًّۭا",
+      "translation": "munajat/dialog",
+      "transliteration": "najiyyan"
+    },
+    {
+      "id": 50292,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami telah memanggilnya dari sebelah kanan Gunung Ṭūr dan Kami telah mendekatkannya kepada Kami di waktu dia munajat (kepada Kami).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 714130,
+    "timestamp_to": 723900,
+    "duration": 9770,
+    "segments": [
+      [
+        1,
+        714095,
+        716015
+      ],
+      [
+        2,
+        716015,
+        716745
+      ],
+      [
+        3,
+        716745,
+        718355
+      ],
+      [
+        4,
+        718355,
+        719175
+      ],
+      [
+        5,
+        719175,
+        720285
+      ],
+      [
+        6,
+        720285,
+        722155
+      ],
+      [
+        7,
+        722155,
+        723470
+      ]
+    ]
+  }
+}

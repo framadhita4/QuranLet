@@ -1,0 +1,104 @@
+{
+  "id": 2901,
+  "chapter_id": 25,
+  "verse_key": "25:46",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 314,
+  "manzil_number": 4,
+  "page_number": 364,
+  "juz_number": 19,
+  "text_uthmani": "ثُمَّ قَبَضْنَـٰهُ إِلَيْنَا قَبْضًا يَسِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 45983,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_046_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 45984,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_046_002.mp3",
+      "text": "قَبَضْنَـٰهُ",
+      "translation": "Kami menggenggam/menariknya",
+      "transliteration": "qabaḍnāhu"
+    },
+    {
+      "id": 45985,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_046_003.mp3",
+      "text": "إِلَيْنَا",
+      "translation": "kepada Kami",
+      "transliteration": "ilaynā"
+    },
+    {
+      "id": 45986,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_046_004.mp3",
+      "text": "قَبْضًۭا",
+      "translation": "genggaman/tarikan",
+      "transliteration": "qabḍan"
+    },
+    {
+      "id": 45987,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_046_005.mp3",
+      "text": "يَسِيرًۭا",
+      "translation": "mudah/perlahan",
+      "transliteration": "yasīran"
+    },
+    {
+      "id": 45988,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian, Kami menarik bayang-bayang itu kepada kami <sup foot_note_id=\"1069\">1</sup> dengan tarikan yang perlahan-lahan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 742770,
+    "timestamp_to": 749770,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        742715,
+        743995
+      ],
+      [
+        2,
+        743995,
+        745325
+      ],
+      [
+        3,
+        745325,
+        746285
+      ],
+      [
+        4,
+        746285,
+        747025
+      ],
+      [
+        3,
+        747025,
+        748115
+      ],
+      [
+        4,
+        748115,
+        749690
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6225,
+  "chapter_id": 112,
+  "verse_key": "112:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 556,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3",
+  "words": [
+    {
+      "id": 4136,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_004_001.mp3",
+      "text": "وَلَمْ",
+      "translation": "dan tidak",
+      "transliteration": "walam"
+    },
+    {
+      "id": 4137,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_004_002.mp3",
+      "text": "يَكُن",
+      "translation": "ada",
+      "transliteration": "yakun"
+    },
+    {
+      "id": 4138,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_004_003.mp3",
+      "text": "لَّهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 4139,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_004_004.mp3",
+      "text": "كُفُوًا",
+      "translation": "menyamai/setara",
+      "transliteration": "kufuwan"
+    },
+    {
+      "id": 4140,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_004_005.mp3",
+      "text": "أَحَدٌۢ",
+      "translation": "seorang",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 4141,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tidak ada seorang pun yang setara dengan Dia\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8490,
+    "timestamp_to": 13350,
+    "duration": 4860,
+    "segments": [
+      [
+        1,
+        8425,
+        8955
+      ],
+      [
+        2,
+        8955,
+        9675
+      ],
+      [
+        3,
+        9675,
+        10505
+      ],
+      [
+        4,
+        10505,
+        11425
+      ],
+      [
+        5,
+        11425,
+        13120
+      ]
+    ]
+  }
+}

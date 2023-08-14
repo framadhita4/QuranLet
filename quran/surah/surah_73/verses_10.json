@@ -1,0 +1,125 @@
+{
+  "id": 5485,
+  "chapter_id": 73,
+  "verse_key": "73:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 11562,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_001.mp3",
+      "text": "وَٱصْبِرْ",
+      "translation": "dan bersabarlah",
+      "transliteration": "wa-iṣ'bir"
+    },
+    {
+      "id": 11563,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 11564,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 11565,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_004.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka katakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 11566,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_005.mp3",
+      "text": "وَٱهْجُرْهُمْ",
+      "translation": "dan pindahlah/jauhilah mereka",
+      "transliteration": "wa-uh'jur'hum"
+    },
+    {
+      "id": 11567,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_006.mp3",
+      "text": "هَجْرًۭا",
+      "translation": "pindah",
+      "transliteration": "hajran"
+    },
+    {
+      "id": 11568,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_010_007.mp3",
+      "text": "جَمِيلًۭا",
+      "translation": "yang baik",
+      "transliteration": "jamīlan"
+    },
+    {
+      "id": 11569,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bersabarlah terhadap apa yang mereka ucapkan dan jauhilah mereka dengan cara yang baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55910,
+    "timestamp_to": 63350,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        55825,
+        56565
+      ],
+      [
+        2,
+        56565,
+        57215
+      ],
+      [
+        3,
+        57215,
+        57585
+      ],
+      [
+        4,
+        57585,
+        58785
+      ],
+      [
+        5,
+        58785,
+        59785
+      ],
+      [
+        6,
+        59785,
+        61515
+      ],
+      [
+        7,
+        61515,
+        63220
+      ]
+    ]
+  }
+}

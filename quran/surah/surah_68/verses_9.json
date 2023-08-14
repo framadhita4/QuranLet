@@ -1,0 +1,86 @@
+{
+  "id": 5280,
+  "chapter_id": 68,
+  "verse_key": "68:9",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 10283,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_001.mp3",
+      "text": "وَدُّوا۟",
+      "translation": "mereka menginginkan",
+      "transliteration": "waddū"
+    },
+    {
+      "id": 10284,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_002.mp3",
+      "text": "لَوْ",
+      "translation": "sekiranya/supaya",
+      "transliteration": "law"
+    },
+    {
+      "id": 10285,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_003.mp3",
+      "text": "تُدْهِنُ",
+      "translation": "kamu bersikap lemah lembut",
+      "transliteration": "tud'hinu"
+    },
+    {
+      "id": 10286,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_004.mp3",
+      "text": "فَيُدْهِنُونَ",
+      "translation": "maka mereka akan bersikap lemah lembut",
+      "transliteration": "fayud'hinūna"
+    },
+    {
+      "id": 10287,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka menginginkan supaya kamu bersikap lunak lalu mereka bersikap lunak (pula kepadamu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 56920,
+    "timestamp_to": 62300,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        56885,
+        57715
+      ],
+      [
+        2,
+        57715,
+        58005
+      ],
+      [
+        3,
+        58005,
+        58915
+      ],
+      [
+        4,
+        58915,
+        62190
+      ]
+    ]
+  }
+}

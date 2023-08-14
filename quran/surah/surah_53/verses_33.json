@@ -1,0 +1,73 @@
+{
+  "id": 4817,
+  "chapter_id": 53,
+  "verse_key": "53:33",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 35586,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_033_001.mp3",
+      "text": "أَفَرَءَيْتَ",
+      "translation": "maka apakah kamu memperhatikan",
+      "transliteration": "afara-ayta"
+    },
+    {
+      "id": 35587,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_033_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "orang yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 35588,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_033_003.mp3",
+      "text": "تَوَلَّىٰ",
+      "translation": "dia berpaling",
+      "transliteration": "tawallā"
+    },
+    {
+      "id": 35589,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kamu melihat orang yang berpaling (dari Al-Qur`ān)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 304750,
+    "timestamp_to": 308690,
+    "duration": 3950,
+    "segments": [
+      [
+        1,
+        304685,
+        305965
+      ],
+      [
+        2,
+        305965,
+        306905
+      ],
+      [
+        3,
+        306905,
+        308160
+      ]
+    ]
+  }
+}

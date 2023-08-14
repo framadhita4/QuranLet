@@ -1,0 +1,151 @@
+{
+  "id": 4343,
+  "chapter_id": 43,
+  "verse_key": "43:18",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 427,
+  "manzil_number": 6,
+  "page_number": 490,
+  "juz_number": 25,
+  "text_uthmani": "أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 20199,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_001.mp3",
+      "text": "أَوَمَن",
+      "translation": "ataukah orang",
+      "transliteration": "awaman"
+    },
+    {
+      "id": 20200,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_002.mp3",
+      "text": "يُنَشَّؤُا۟",
+      "translation": "dibesarkan",
+      "transliteration": "yunasha-u"
+    },
+    {
+      "id": 20201,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 20202,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_004.mp3",
+      "text": "ٱلْحِلْيَةِ",
+      "translation": "perhiasan",
+      "transliteration": "l-ḥil'yati"
+    },
+    {
+      "id": 20203,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_005.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 20204,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_006.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 20205,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_007.mp3",
+      "text": "ٱلْخِصَامِ",
+      "translation": "terang",
+      "transliteration": "l-khiṣāmi"
+    },
+    {
+      "id": 20206,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_008.mp3",
+      "text": "غَيْرُ",
+      "translation": "tidak",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 20207,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_018_009.mp3",
+      "text": "مُبِينٍۢ",
+      "translation": "nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 20208,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apakah patut (menjadi anak Allah) orang yang dibesarkan dalam keadaan berperhiasan, sedang dia tidak dapat memberi alasan yang terang dalam pertengkaran <sup foot_note_id=\"1353\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 202960,
+    "timestamp_to": 212360,
+    "duration": 9410,
+    "segments": [
+      [
+        1,
+        202905,
+        203705
+      ],
+      [
+        2,
+        203705,
+        205585
+      ],
+      [
+        3,
+        205585,
+        205795
+      ],
+      [
+        4,
+        205795,
+        206885
+      ],
+      [
+        5,
+        206885,
+        207465
+      ],
+      [
+        6,
+        207465,
+        207735
+      ],
+      [
+        7,
+        207735,
+        208795
+      ],
+      [
+        8,
+        208795,
+        209485
+      ],
+      [
+        9,
+        209485,
+        212270
+      ]
+    ]
+  }
+}

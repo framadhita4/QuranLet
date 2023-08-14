@@ -1,0 +1,73 @@
+{
+  "id": 5388,
+  "chapter_id": 70,
+  "verse_key": "70:13",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 15220,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_013_001.mp3",
+      "text": "وَفَصِيلَتِهِ",
+      "translation": "dan keluarganya",
+      "transliteration": "wafaṣīlatihi"
+    },
+    {
+      "id": 15221,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_013_002.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 15222,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_013_003.mp3",
+      "text": "تُـْٔوِيهِ",
+      "translation": "melindunginya",
+      "transliteration": "tu'wīhi"
+    },
+    {
+      "id": 15223,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum familinya yang melindunginya (di dunia).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 69950,
+    "timestamp_to": 75230,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        69895,
+        71465
+      ],
+      [
+        2,
+        71465,
+        72315
+      ],
+      [
+        3,
+        72315,
+        75110
+      ]
+    ]
+  }
+}

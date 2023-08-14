@@ -1,0 +1,86 @@
+{
+  "id": 5643,
+  "chapter_id": 77,
+  "verse_key": "77:21",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 23954,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_021_001.mp3",
+      "text": "فَجَعَلْنَـٰهُ",
+      "translation": "lalu Kami jadikannya",
+      "transliteration": "fajaʿalnāhu"
+    },
+    {
+      "id": 23955,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_021_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 23956,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_021_003.mp3",
+      "text": "قَرَارٍۢ",
+      "translation": "tempat",
+      "transliteration": "qarārin"
+    },
+    {
+      "id": 23957,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_021_004.mp3",
+      "text": "مَّكِينٍ",
+      "translation": "kokoh",
+      "transliteration": "makīnin"
+    },
+    {
+      "id": 23958,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian Kami letakkan dia dalam tempat yang kukuh (rahim),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80770,
+    "timestamp_to": 86460,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        80715,
+        82055
+      ],
+      [
+        2,
+        82055,
+        82405
+      ],
+      [
+        3,
+        82405,
+        83225
+      ],
+      [
+        4,
+        83225,
+        86320
+      ]
+    ]
+  }
+}

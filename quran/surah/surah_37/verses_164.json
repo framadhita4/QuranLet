@@ -1,0 +1,112 @@
+{
+  "id": 3952,
+  "chapter_id": 37,
+  "verse_key": "37:164",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82229,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_164_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 82230,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_164_002.mp3",
+      "text": "مِنَّآ",
+      "translation": "diantara kami",
+      "transliteration": "minnā"
+    },
+    {
+      "id": 82231,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_164_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 82232,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_164_004.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya/mempunyai",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 82233,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_164_005.mp3",
+      "text": "مَقَامٌۭ",
+      "translation": "kedudukan",
+      "transliteration": "maqāmun"
+    },
+    {
+      "id": 82234,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_164_006.mp3",
+      "text": "مَّعْلُومٌۭ",
+      "translation": "tertentu",
+      "transliteration": "maʿlūmun"
+    },
+    {
+      "id": 82235,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٦٤",
+      "translation": "(164)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiada seorang pun di antara kami (malaikat), melainkan mempunyai kedudukan yang tertentu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1313300,
+    "timestamp_to": 1323930,
+    "duration": 10630,
+    "segments": [
+      [
+        1,
+        1313235,
+        1313995
+      ],
+      [
+        2,
+        1313995,
+        1317015
+      ],
+      [
+        3,
+        1317015,
+        1317895
+      ],
+      [
+        4,
+        1317895,
+        1318485
+      ],
+      [
+        5,
+        1318485,
+        1319345
+      ],
+      [
+        6,
+        1319345,
+        1323800
+      ]
+    ]
+  }
+}

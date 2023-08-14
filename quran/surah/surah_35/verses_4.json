@@ -1,0 +1,177 @@
+{
+  "id": 3664,
+  "chapter_id": 35,
+  "verse_key": "35:4",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "ruku_number": 378,
+  "manzil_number": 5,
+  "page_number": 435,
+  "juz_number": 22,
+  "text_uthmani": "وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 4511,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 4512,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_002.mp3",
+      "text": "يُكَذِّبُوكَ",
+      "translation": "mereka mendustakan kamu",
+      "transliteration": "yukadhibūka"
+    },
+    {
+      "id": 4513,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_003.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 4514,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_004.mp3",
+      "text": "كُذِّبَتْ",
+      "translation": "telah didustakan",
+      "transliteration": "kudhibat"
+    },
+    {
+      "id": 4515,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_005.mp3",
+      "text": "رُسُلٌۭ",
+      "translation": "rasul-rasul",
+      "transliteration": "rusulun"
+    },
+    {
+      "id": 4516,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_006.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 4517,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_007.mp3",
+      "text": "قَبْلِكَ ۚ",
+      "translation": "sebelum kamu",
+      "transliteration": "qablika"
+    },
+    {
+      "id": 4519,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_009.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 4520,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_010.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 4521,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_011.mp3",
+      "text": "تُرْجَعُ",
+      "translation": "dikembalikan",
+      "transliteration": "tur'jaʿu"
+    },
+    {
+      "id": 4522,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_004_012.mp3",
+      "text": "ٱلْأُمُورُ",
+      "translation": "segala urusan",
+      "transliteration": "l-umūru"
+    },
+    {
+      "id": 4523,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika mereka mendustakan kamu (sesudah kamu beri peringatan), maka sungguh telah didustakan pula rasul-rasul sebelum kamu. Dan hanya kepada Allahlah dikembalikan segala urusan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71440,
+    "timestamp_to": 84240,
+    "duration": 12800,
+    "segments": [
+      [
+        1,
+        71385,
+        72695
+      ],
+      [
+        2,
+        72695,
+        74105
+      ],
+      [
+        3,
+        74105,
+        74675
+      ],
+      [
+        4,
+        74675,
+        75605
+      ],
+      [
+        5,
+        75605,
+        76315
+      ],
+      [
+        6,
+        76315,
+        78285
+      ],
+      [
+        7,
+        78285,
+        79435
+      ],
+      [
+        8,
+        79435,
+        79925
+      ],
+      [
+        9,
+        79925,
+        80785
+      ],
+      [
+        10,
+        80785,
+        81495
+      ],
+      [
+        11,
+        81495,
+        84140
+      ]
+    ]
+  }
+}

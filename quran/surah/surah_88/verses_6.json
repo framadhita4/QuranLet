@@ -1,0 +1,112 @@
+{
+  "id": 5973,
+  "chapter_id": 88,
+  "verse_key": "88:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 5859,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_006_001.mp3",
+      "text": "لَّيْسَ",
+      "translation": "tidak ada",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 5860,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_006_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 5861,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_006_003.mp3",
+      "text": "طَعَامٌ",
+      "translation": "makanan",
+      "transliteration": "ṭaʿāmun"
+    },
+    {
+      "id": 5862,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_006_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 5863,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_006_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 5864,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_006_006.mp3",
+      "text": "ضَرِيعٍۢ",
+      "translation": "pohon berduri",
+      "transliteration": "ḍarīʿin"
+    },
+    {
+      "id": 5865,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tiada memperoleh makanan selain dari pohon yang berduri,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20350,
+    "timestamp_to": 27690,
+    "duration": 7340,
+    "segments": [
+      [
+        1,
+        20225,
+        20915
+      ],
+      [
+        2,
+        20915,
+        21425
+      ],
+      [
+        3,
+        21425,
+        22475
+      ],
+      [
+        4,
+        22475,
+        23405
+      ],
+      [
+        5,
+        23405,
+        24735
+      ],
+      [
+        6,
+        24735,
+        27510
+      ]
+    ]
+  }
+}

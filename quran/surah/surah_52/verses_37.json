@@ -1,0 +1,125 @@
+{
+  "id": 4772,
+  "chapter_id": 52,
+  "verse_key": "52:37",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 38791,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 38792,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_002.mp3",
+      "text": "عِندَهُمْ",
+      "translation": "di sisi mereka",
+      "transliteration": "ʿindahum"
+    },
+    {
+      "id": 38793,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_003.mp3",
+      "text": "خَزَآئِنُ",
+      "translation": "perbendaharaan",
+      "transliteration": "khazāinu"
+    },
+    {
+      "id": 38794,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_004.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 38795,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_005.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 38796,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_006.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 38797,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_037_007.mp3",
+      "text": "ٱلْمُصَۣيْطِرُونَ",
+      "translation": "yang berkuasa",
+      "transliteration": "l-muṣayṭirūna"
+    },
+    {
+      "id": 38798,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah di sisi mereka ada perbendaharaan Tuhan-mu atau merekakah yang berkuasa?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 341730,
+    "timestamp_to": 352750,
+    "duration": 11020,
+    "segments": [
+      [
+        1,
+        341665,
+        342085
+      ],
+      [
+        2,
+        342085,
+        343875
+      ],
+      [
+        3,
+        343875,
+        346805
+      ],
+      [
+        4,
+        346805,
+        347735
+      ],
+      [
+        5,
+        347735,
+        348125
+      ],
+      [
+        6,
+        348125,
+        348515
+      ],
+      [
+        7,
+        348515,
+        352610
+      ]
+    ]
+  }
+}

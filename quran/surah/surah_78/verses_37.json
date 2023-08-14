@@ -1,0 +1,164 @@
+{
+  "id": 5709,
+  "chapter_id": 78,
+  "verse_key": "78:37",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 39402,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_001.mp3",
+      "text": "رَّبِّ",
+      "translation": "Tuhan/Pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 39403,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_002.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 39404,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_003.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 39405,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 39406,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_005.mp3",
+      "text": "بَيْنَهُمَا",
+      "translation": "diantara keduanya",
+      "transliteration": "baynahumā"
+    },
+    {
+      "id": 39407,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_006.mp3",
+      "text": "ٱلرَّحْمَـٰنِ ۖ",
+      "translation": "Yang Maha Pengasih",
+      "transliteration": "l-raḥmāni"
+    },
+    {
+      "id": 39409,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_008.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 39410,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_009.mp3",
+      "text": "يَمْلِكُونَ",
+      "translation": "mereka kuasa",
+      "transliteration": "yamlikūna"
+    },
+    {
+      "id": 39411,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_010.mp3",
+      "text": "مِنْهُ",
+      "translation": "daripadaNya/dengan Dia",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 39412,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_037_011.mp3",
+      "text": "خِطَابًۭا",
+      "translation": "bicara",
+      "transliteration": "khiṭāban"
+    },
+    {
+      "id": 39413,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tuhan Yang memelihara langit dan bumi dan apa yang ada di antara keduanya; Yang Maha Pemurah. Mereka tidak dapat berbicara dengan Dia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 199230,
+    "timestamp_to": 212710,
+    "duration": 13480,
+    "segments": [
+      [
+        1,
+        199125,
+        199905
+      ],
+      [
+        2,
+        199905,
+        201555
+      ],
+      [
+        3,
+        201555,
+        202785
+      ],
+      [
+        4,
+        202785,
+        203375
+      ],
+      [
+        5,
+        203375,
+        205805
+      ],
+      [
+        6,
+        205805,
+        206495
+      ],
+      [
+        7,
+        206495,
+        208495
+      ],
+      [
+        8,
+        208495,
+        209835
+      ],
+      [
+        9,
+        209835,
+        210685
+      ],
+      [
+        10,
+        210685,
+        212510
+      ]
+    ]
+  }
+}

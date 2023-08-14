@@ -1,0 +1,73 @@
+{
+  "id": 6047,
+  "chapter_id": 91,
+  "verse_key": "91:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 4507,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_004_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "dan malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 4508,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_004_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 4509,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_004_003.mp3",
+      "text": "يَغْشَىٰهَا",
+      "translation": "menutupinya",
+      "transliteration": "yaghshāhā"
+    },
+    {
+      "id": 4510,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan malam apabila menutupinya<sup foot_note_id=\"1580\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11360,
+    "timestamp_to": 15040,
+    "duration": 3680,
+    "segments": [
+      [
+        1,
+        10945,
+        12075
+      ],
+      [
+        2,
+        12075,
+        12695
+      ],
+      [
+        3,
+        12695,
+        14260
+      ]
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": 3179,
+  "chapter_id": 27,
+  "verse_key": "27:20",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "ruku_number": 328,
+  "manzil_number": 5,
+  "page_number": 378,
+  "juz_number": 19,
+  "text_uthmani": "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 23004,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_001.mp3",
+      "text": "وَتَفَقَّدَ",
+      "translation": "dan dia memeriksa/mencari",
+      "transliteration": "watafaqqada"
+    },
+    {
+      "id": 23005,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_002.mp3",
+      "text": "ٱلطَّيْرَ",
+      "translation": "burung",
+      "transliteration": "l-ṭayra"
+    },
+    {
+      "id": 23006,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_003.mp3",
+      "text": "فَقَالَ",
+      "translation": "lalu dia berkata",
+      "transliteration": "faqāla"
+    },
+    {
+      "id": 23007,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_004.mp3",
+      "text": "مَا",
+      "translation": "tidak ada/mengapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 23008,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_005.mp3",
+      "text": "لِىَ",
+      "translation": "bagiku",
+      "transliteration": "liya"
+    },
+    {
+      "id": 23009,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_006.mp3",
+      "text": "لَآ",
+      "translation": "aku tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 23010,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_007.mp3",
+      "text": "أَرَى",
+      "translation": "melihat",
+      "transliteration": "arā"
+    },
+    {
+      "id": 23011,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_008.mp3",
+      "text": "ٱلْهُدْهُدَ",
+      "translation": "hud-hud",
+      "transliteration": "l-hud'huda"
+    },
+    {
+      "id": 23012,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_009.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 23013,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_010.mp3",
+      "text": "كَانَ",
+      "translation": "adalah ia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 23014,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_011.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 23015,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_020_012.mp3",
+      "text": "ٱلْغَآئِبِينَ",
+      "translation": "yang gaib/tidak hadir",
+      "transliteration": "l-ghāibīna"
+    },
+    {
+      "id": 23016,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "Dan dia memeriksa burung-burung, lalu berkata, \"Mengapa aku tidak melihat hud-hud <sup foot_note_id=\"1093\">1</sup>, apakah dia termasuk yang tidak hadir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 343050,
+    "timestamp_to": 357160,
+    "duration": 14110,
+    "segments": [
+      [
+        1,
+        342985,
+        344285
+      ],
+      [
+        2,
+        344285,
+        345275
+      ],
+      [
+        3,
+        345275,
+        346245
+      ],
+      [
+        4,
+        346245,
+        346575
+      ],
+      [
+        5,
+        346575,
+        347025
+      ],
+      [
+        6,
+        347025,
+        349015
+      ],
+      [
+        7,
+        349015,
+        349395
+      ],
+      [
+        8,
+        349395,
+        350595
+      ],
+      [
+        9,
+        350595,
+        350985
+      ],
+      [
+        10,
+        350985,
+        351665
+      ],
+      [
+        11,
+        351665,
+        352035
+      ],
+      [
+        12,
+        352035,
+        357040
+      ]
+    ]
+  }
+}

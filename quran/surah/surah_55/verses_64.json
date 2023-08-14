@@ -1,0 +1,47 @@
+{
+  "id": 4965,
+  "chapter_id": 55,
+  "verse_key": "55:64",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "مُدْهَآمَّتَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 56581,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_064_001.mp3",
+      "text": "مُدْهَآمَّتَانِ",
+      "translation": "keduanya hijau tua",
+      "transliteration": "mud'hāmmatāni"
+    },
+    {
+      "id": 56582,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kedua surga itu (kelihatan) hijau tua warnanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 559080,
+    "timestamp_to": 566860,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        559005,
+        566720
+      ]
+    ]
+  }
+}

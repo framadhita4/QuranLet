@@ -1,0 +1,138 @@
+{
+  "id": 10,
+  "chapter_id": 2,
+  "verse_key": "2:3",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 2,
+  "manzil_number": 1,
+  "page_number": 2,
+  "juz_number": 1,
+  "text_uthmani": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 2630,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 2631,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_002.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 2632,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_003.mp3",
+      "text": "بِٱلْغَيْبِ",
+      "translation": "dengan yang gaib",
+      "transliteration": "bil-ghaybi"
+    },
+    {
+      "id": 2633,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_004.mp3",
+      "text": "وَيُقِيمُونَ",
+      "translation": "dan mereka mendirikan",
+      "transliteration": "wayuqīmūna"
+    },
+    {
+      "id": 2634,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_005.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 2635,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_006.mp3",
+      "text": "وَمِمَّا",
+      "translation": "dan sebagian dari apa",
+      "transliteration": "wamimmā"
+    },
+    {
+      "id": 2636,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_007.mp3",
+      "text": "رَزَقْنَـٰهُمْ",
+      "translation": "telah Kami beri rezki kepada mereka",
+      "transliteration": "razaqnāhum"
+    },
+    {
+      "id": 2637,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_003_008.mp3",
+      "text": "يُنفِقُونَ",
+      "translation": "mereka menafkahkan",
+      "transliteration": "yunfiqūna"
+    },
+    {
+      "id": 2638,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) mereka yang beriman<sup foot_note_id=\"13\">1</sup> kepada yang gaib<sup foot_note_id=\"14\">2</sup>, yang mendirikan salat<sup foot_note_id=\"15\">3</sup>, dan menafkahkan sebagian rezeki<sup foot_note_id=\"16\">4</sup> yang Kami anugerahkan kepada mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16640,
+    "timestamp_to": 28060,
+    "duration": 11420,
+    "segments": [
+      [
+        1,
+        16555,
+        17595
+      ],
+      [
+        2,
+        17595,
+        18745
+      ],
+      [
+        3,
+        18745,
+        19645
+      ],
+      [
+        4,
+        19645,
+        20815
+      ],
+      [
+        5,
+        20815,
+        21775
+      ],
+      [
+        6,
+        21775,
+        23135
+      ],
+      [
+        7,
+        23135,
+        24545
+      ],
+      [
+        8,
+        24545,
+        27920
+      ]
+    ]
+  }
+}

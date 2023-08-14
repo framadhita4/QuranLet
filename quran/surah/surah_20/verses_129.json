@@ -1,0 +1,151 @@
+{
+  "id": 2477,
+  "chapter_id": 20,
+  "verse_key": "20:129",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 277,
+  "manzil_number": 4,
+  "page_number": 321,
+  "juz_number": 16,
+  "text_uthmani": "وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُّسَمًّى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 77799,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_001.mp3",
+      "text": "وَلَوْلَا",
+      "translation": "dan sekiranya tidak",
+      "transliteration": "walawlā"
+    },
+    {
+      "id": 77800,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_002.mp3",
+      "text": "كَلِمَةٌۭ",
+      "translation": "perkataan/ketetapan",
+      "transliteration": "kalimatun"
+    },
+    {
+      "id": 77801,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_003.mp3",
+      "text": "سَبَقَتْ",
+      "translation": "telah lewat/terdahulu",
+      "transliteration": "sabaqat"
+    },
+    {
+      "id": 77802,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 77803,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_005.mp3",
+      "text": "رَّبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 77804,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_006.mp3",
+      "text": "لَكَانَ",
+      "translation": "sungguh adalah",
+      "transliteration": "lakāna"
+    },
+    {
+      "id": 77805,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_007.mp3",
+      "text": "لِزَامًۭا",
+      "translation": "melekat/menimpa",
+      "transliteration": "lizāman"
+    },
+    {
+      "id": 77806,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_008.mp3",
+      "text": "وَأَجَلٌۭ",
+      "translation": "dan ajal/waktu",
+      "transliteration": "wa-ajalun"
+    },
+    {
+      "id": 77807,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_129_009.mp3",
+      "text": "مُّسَمًّۭى",
+      "translation": "yang telah ditentukan",
+      "transliteration": "musamman"
+    },
+    {
+      "id": 77808,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٢٩",
+      "translation": "(129)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sekiranya tidak ada suatu ketetapan dari Allah yang telah terdahulu atau tidak ada ajal yang telah ditentukan, pasti (azab itu) menimpa mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1500440,
+    "timestamp_to": 1511490,
+    "duration": 11050,
+    "segments": [
+      [
+        1,
+        1499945,
+        1500915
+      ],
+      [
+        2,
+        1500915,
+        1502445
+      ],
+      [
+        3,
+        1502445,
+        1503345
+      ],
+      [
+        4,
+        1503345,
+        1503525
+      ],
+      [
+        5,
+        1503525,
+        1504585
+      ],
+      [
+        6,
+        1504585,
+        1505375
+      ],
+      [
+        7,
+        1505375,
+        1507225
+      ],
+      [
+        8,
+        1507225,
+        1507945
+      ],
+      [
+        9,
+        1507945,
+        1510520
+      ]
+    ]
+  }
+}

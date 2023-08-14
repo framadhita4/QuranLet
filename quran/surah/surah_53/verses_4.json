@@ -1,0 +1,99 @@
+{
+  "id": 4788,
+  "chapter_id": 53,
+  "verse_key": "53:4",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 3538,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_004_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 3539,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_004_002.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 3540,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_004_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 3541,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_004_004.mp3",
+      "text": "وَحْىٌۭ",
+      "translation": "wahyu",
+      "transliteration": "waḥyun"
+    },
+    {
+      "id": 3542,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_004_005.mp3",
+      "text": "يُوحَىٰ",
+      "translation": "diwahyukan",
+      "transliteration": "yūḥā"
+    },
+    {
+      "id": 3543,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ucapannya itu tiada lain hanyalah wahyu yang diwahyukan (kepadanya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13630,
+    "timestamp_to": 18540,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        13085,
+        13555
+      ],
+      [
+        2,
+        13555,
+        13885
+      ],
+      [
+        3,
+        13885,
+        14885
+      ],
+      [
+        4,
+        14885,
+        15635
+      ],
+      [
+        5,
+        15635,
+        17440
+      ]
+    ]
+  }
+}

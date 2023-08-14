@@ -1,0 +1,86 @@
+{
+  "id": 1832,
+  "chapter_id": 15,
+  "verse_key": "15:30",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 33185,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_030_001.mp3",
+      "text": "فَسَجَدَ",
+      "translation": "maka sujudlah",
+      "transliteration": "fasajada"
+    },
+    {
+      "id": 33186,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_030_002.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةُ",
+      "translation": "para malaikat",
+      "transliteration": "l-malāikatu"
+    },
+    {
+      "id": 33187,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_030_003.mp3",
+      "text": "كُلُّهُمْ",
+      "translation": "semuanya",
+      "transliteration": "kulluhum"
+    },
+    {
+      "id": 33188,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_030_004.mp3",
+      "text": "أَجْمَعُونَ",
+      "translation": "seluruhnya",
+      "transliteration": "ajmaʿūna"
+    },
+    {
+      "id": 33189,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bersujudlah para malaikat itu semuanya bersama-sama,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 313480,
+    "timestamp_to": 320820,
+    "duration": 7340,
+    "segments": [
+      [
+        1,
+        313415,
+        314205
+      ],
+      [
+        2,
+        314205,
+        316835
+      ],
+      [
+        3,
+        316835,
+        317865
+      ],
+      [
+        4,
+        317865,
+        320730
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 2484,
+  "chapter_id": 21,
+  "verse_key": "21:1",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 278,
+  "manzil_number": 4,
+  "page_number": 322,
+  "juz_number": 17,
+  "text_uthmani": " ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 284,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_001.mp3",
+      "text": "ٱقْتَرَبَ",
+      "translation": "telah dekat",
+      "transliteration": "iq'taraba"
+    },
+    {
+      "id": 285,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_002.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "bagi/kepada manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 286,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_003.mp3",
+      "text": "حِسَابُهُمْ",
+      "translation": "perhitungan mereka",
+      "transliteration": "ḥisābuhum"
+    },
+    {
+      "id": 287,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_004.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 288,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_005.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 289,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_006.mp3",
+      "text": "غَفْلَةٍۢ",
+      "translation": "kelalaian",
+      "transliteration": "ghaflatin"
+    },
+    {
+      "id": 290,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_001_007.mp3",
+      "text": "مُّعْرِضُونَ",
+      "translation": "orang-orang yang berpaling",
+      "transliteration": "muʿ'riḍūna"
+    },
+    {
+      "id": 291,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Telah dekat kepada manusia hari menghisab segala amalan mereka, sedang mereka berada dalam kelalaian lagi berpaling (darinya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 10160,
+    "duration": 10160,
+    "segments": [
+      [
+        1,
+        0,
+        890
+      ],
+      [
+        2,
+        890,
+        2700
+      ],
+      [
+        3,
+        2700,
+        4040
+      ],
+      [
+        4,
+        4040,
+        4570
+      ],
+      [
+        5,
+        4570,
+        5030
+      ],
+      [
+        6,
+        5030,
+        5900
+      ],
+      [
+        7,
+        5900,
+        10135
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5556,
+  "chapter_id": 75,
+  "verse_key": "75:5",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 5339,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_005_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 5340,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_005_002.mp3",
+      "text": "يُرِيدُ",
+      "translation": "menghendaki",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 5341,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_005_003.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 5342,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_005_004.mp3",
+      "text": "لِيَفْجُرَ",
+      "translation": "untuk membuat durhaka",
+      "transliteration": "liyafjura"
+    },
+    {
+      "id": 5343,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_005_005.mp3",
+      "text": "أَمَامَهُۥ",
+      "translation": "di hadapannya/di masa depan",
+      "transliteration": "amāmahu"
+    },
+    {
+      "id": 5344,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan manusia itu hendak membuat maksiat terus menerus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 28260,
+    "timestamp_to": 33950,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        28185,
+        28635
+      ],
+      [
+        2,
+        28635,
+        29415
+      ],
+      [
+        3,
+        29415,
+        31305
+      ],
+      [
+        4,
+        31305,
+        32355
+      ],
+      [
+        5,
+        32355,
+        33820
+      ]
+    ]
+  }
+}

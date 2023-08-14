@@ -1,0 +1,99 @@
+{
+  "id": 4851,
+  "chapter_id": 54,
+  "verse_key": "54:5",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 4902,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_005_001.mp3",
+      "text": "حِكْمَةٌۢ",
+      "translation": "itulah suatu hikmat",
+      "transliteration": "ḥik'matun"
+    },
+    {
+      "id": 4903,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_005_002.mp3",
+      "text": "بَـٰلِغَةٌۭ ۖ",
+      "translation": "yang sempurna",
+      "transliteration": "bālighatun"
+    },
+    {
+      "id": 4905,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_005_004.mp3",
+      "text": "فَمَا",
+      "translation": "maka apa-apa",
+      "transliteration": "famā"
+    },
+    {
+      "id": 4906,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_005_005.mp3",
+      "text": "تُغْنِ",
+      "translation": "tiada berguna",
+      "transliteration": "tugh'ni"
+    },
+    {
+      "id": 4907,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_005_006.mp3",
+      "text": "ٱلنُّذُرُ",
+      "translation": "peringatan-peringatan",
+      "transliteration": "l-nudhuru"
+    },
+    {
+      "id": 4908,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah suatu hikmah yang sempurna, maka peringatan-peringatan itu tidak berguna (bagi mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 38460,
+    "timestamp_to": 46380,
+    "duration": 7920,
+    "segments": [
+      [
+        1,
+        38395,
+        40545
+      ],
+      [
+        2,
+        40545,
+        42885
+      ],
+      [
+        3,
+        42885,
+        43605
+      ],
+      [
+        4,
+        43605,
+        44335
+      ],
+      [
+        5,
+        44335,
+        46230
+      ]
+    ]
+  }
+}

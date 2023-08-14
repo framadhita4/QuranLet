@@ -1,0 +1,99 @@
+{
+  "id": 1814,
+  "chapter_id": 15,
+  "verse_key": "15:12",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "كَذَٰلِكَ نَسْلُكُهُۥ فِى قُلُوبِ ٱلْمُجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 13537,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_012_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 13538,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_012_002.mp3",
+      "text": "نَسْلُكُهُۥ",
+      "translation": "Kami memasukkannya",
+      "transliteration": "naslukuhu"
+    },
+    {
+      "id": 13539,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_012_003.mp3",
+      "text": "فِى",
+      "translation": "kedalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 13540,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_012_004.mp3",
+      "text": "قُلُوبِ",
+      "translation": "hati",
+      "transliteration": "qulūbi"
+    },
+    {
+      "id": 13541,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_012_005.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 13542,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah, Kami mamasukkan (rasa ingkar dan memperolok-olokkan itu) ke dalam hati orang-orang yang berdosa (orang-orang kafir),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105970,
+    "timestamp_to": 112210,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        105915,
+        106965
+      ],
+      [
+        2,
+        106965,
+        108055
+      ],
+      [
+        3,
+        108055,
+        108415
+      ],
+      [
+        4,
+        108415,
+        109325
+      ],
+      [
+        5,
+        109325,
+        112100
+      ]
+    ]
+  }
+}

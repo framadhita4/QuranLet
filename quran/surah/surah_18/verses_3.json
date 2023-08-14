@@ -1,0 +1,73 @@
+{
+  "id": 2143,
+  "chapter_id": 18,
+  "verse_key": "18:3",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 252,
+  "manzil_number": 4,
+  "page_number": 293,
+  "juz_number": 15,
+  "text_uthmani": "مَّـٰكِثِينَ فِيهِ أَبَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 2072,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_003_001.mp3",
+      "text": "مَّـٰكِثِينَ",
+      "translation": "mereka kekal",
+      "transliteration": "mākithīna"
+    },
+    {
+      "id": 2073,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_003_002.mp3",
+      "text": "فِيهِ",
+      "translation": "didalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 2074,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_003_003.mp3",
+      "text": "أَبَدًۭا",
+      "translation": "selama-lamanya",
+      "transliteration": "abadan"
+    },
+    {
+      "id": 2075,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka kekal di dalamnya untuk selama-lamanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 31970,
+    "timestamp_to": 35210,
+    "duration": 3240,
+    "segments": [
+      [
+        1,
+        31655,
+        33025
+      ],
+      [
+        2,
+        33025,
+        33675
+      ],
+      [
+        3,
+        33675,
+        34600
+      ]
+    ]
+  }
+}

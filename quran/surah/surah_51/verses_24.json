@@ -1,0 +1,112 @@
+{
+  "id": 4699,
+  "chapter_id": 51,
+  "verse_key": "51:24",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 26800,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_024_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 26801,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_024_002.mp3",
+      "text": "أَتَىٰكَ",
+      "translation": "telah sampai kepadamu",
+      "transliteration": "atāka"
+    },
+    {
+      "id": 26802,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_024_003.mp3",
+      "text": "حَدِيثُ",
+      "translation": "cerita",
+      "transliteration": "ḥadīthu"
+    },
+    {
+      "id": 26803,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_024_004.mp3",
+      "text": "ضَيْفِ",
+      "translation": "tamu",
+      "transliteration": "ḍayfi"
+    },
+    {
+      "id": 26804,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_024_005.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 26805,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_024_006.mp3",
+      "text": "ٱلْمُكْرَمِينَ",
+      "translation": "orang-orang yang dimuliakan",
+      "transliteration": "l-muk'ramīna"
+    },
+    {
+      "id": 26806,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sudahkah sampai kepadamu (Muhammad) cerita tamu Ibrāhīm (malaikat-malaikat) yang dimuliakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 161690,
+    "timestamp_to": 169110,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        161585,
+        162015
+      ],
+      [
+        2,
+        162015,
+        162835
+      ],
+      [
+        3,
+        162835,
+        163655
+      ],
+      [
+        4,
+        163655,
+        164365
+      ],
+      [
+        5,
+        164365,
+        165675
+      ],
+      [
+        6,
+        165675,
+        168950
+      ]
+    ]
+  }
+}

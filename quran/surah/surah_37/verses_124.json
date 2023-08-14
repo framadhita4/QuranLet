@@ -1,0 +1,99 @@
+{
+  "id": 3912,
+  "chapter_id": 37,
+  "verse_key": "37:124",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 77031,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_124_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 77032,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_124_002.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 77033,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_124_003.mp3",
+      "text": "لِقَوْمِهِۦٓ",
+      "translation": "kepada kaumnya",
+      "transliteration": "liqawmihi"
+    },
+    {
+      "id": 77034,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_124_004.mp3",
+      "text": "أَلَا",
+      "translation": "mengapa tidak",
+      "transliteration": "alā"
+    },
+    {
+      "id": 77035,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_124_005.mp3",
+      "text": "تَتَّقُونَ",
+      "translation": "kamu bertakwa",
+      "transliteration": "tattaqūna"
+    },
+    {
+      "id": 77036,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢٤",
+      "translation": "(124)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(ingatlah) ketika ia berkata kepada kaumnya, \"Mengapa kamu tidak bertakwa?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1021590,
+    "timestamp_to": 1029430,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        1021555,
+        1022015
+      ],
+      [
+        2,
+        1022015,
+        1022545
+      ],
+      [
+        3,
+        1022545,
+        1025054
+      ],
+      [
+        4,
+        1025055,
+        1025605
+      ],
+      [
+        5,
+        1025605,
+        1029320
+      ]
+    ]
+  }
+}

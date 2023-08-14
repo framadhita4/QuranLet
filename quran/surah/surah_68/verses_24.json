@@ -1,0 +1,112 @@
+{
+  "id": 5295,
+  "chapter_id": 68,
+  "verse_key": "68:24",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 26995,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_024_001.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 26996,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_024_002.mp3",
+      "text": "لَّا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 26997,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_024_003.mp3",
+      "text": "يَدْخُلَنَّهَا",
+      "translation": "sekali-kali memasukinya",
+      "transliteration": "yadkhulannahā"
+    },
+    {
+      "id": 26998,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_024_004.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 26999,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_024_005.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 27000,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_024_006.mp3",
+      "text": "مِّسْكِينٌۭ",
+      "translation": "seorang miskin",
+      "transliteration": "mis'kīnun"
+    },
+    {
+      "id": 27001,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Pada hari ini janganlah ada seorang miskin pun masuk ke dalam kebunmu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 169380,
+    "timestamp_to": 177740,
+    "duration": 8360,
+    "segments": [
+      [
+        1,
+        169325,
+        169625
+      ],
+      [
+        2,
+        169625,
+        170175
+      ],
+      [
+        3,
+        170175,
+        172125
+      ],
+      [
+        4,
+        172125,
+        172955
+      ],
+      [
+        5,
+        172955,
+        174095
+      ],
+      [
+        6,
+        174095,
+        177600
+      ]
+    ]
+  }
+}

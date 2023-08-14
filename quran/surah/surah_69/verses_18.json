@@ -1,0 +1,112 @@
+{
+  "id": 5341,
+  "chapter_id": 69,
+  "verse_key": "69:18",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 20593,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_018_001.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 20594,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_018_002.mp3",
+      "text": "تُعْرَضُونَ",
+      "translation": "kamu dihadapkan",
+      "transliteration": "tuʿ'raḍūna"
+    },
+    {
+      "id": 20595,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_018_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 20596,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_018_004.mp3",
+      "text": "تَخْفَىٰ",
+      "translation": "tersembunyi",
+      "transliteration": "takhfā"
+    },
+    {
+      "id": 20597,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_018_005.mp3",
+      "text": "مِنكُمْ",
+      "translation": "dari kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 20598,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_018_006.mp3",
+      "text": "خَافِيَةٌۭ",
+      "translation": "tersembunyi",
+      "transliteration": "khāfiyatun"
+    },
+    {
+      "id": 20599,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari itu kamu dihadapkan (kepada Tuhan-mu), tiada sesuatu pun dari keadaanmu yang tersembunyi (bagi Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 149840,
+    "timestamp_to": 158300,
+    "duration": 8460,
+    "segments": [
+      [
+        1,
+        140995,
+        142275
+      ],
+      [
+        2,
+        142275,
+        144445
+      ],
+      [
+        3,
+        144445,
+        144845
+      ],
+      [
+        4,
+        144845,
+        145785
+      ],
+      [
+        5,
+        145785,
+        147655
+      ],
+      [
+        6,
+        147655,
+        149380
+      ]
+    ]
+  }
+}

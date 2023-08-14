@@ -1,0 +1,86 @@
+{
+  "id": 3764,
+  "chapter_id": 36,
+  "verse_key": "36:59",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 54137,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_059_001.mp3",
+      "text": "وَٱمْتَـٰزُوا۟",
+      "translation": "dan berpisahlah kamu",
+      "transliteration": "wa-im'tāzū"
+    },
+    {
+      "id": 54138,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_059_002.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 54139,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_059_003.mp3",
+      "text": "أَيُّهَا",
+      "translation": "hai",
+      "transliteration": "ayyuhā"
+    },
+    {
+      "id": 54140,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_059_004.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 54141,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (dikatakan kepada orang-orang kafir), \"Berpisahlah kamu (dari orang-orang mukmin) pada hari ini, hai orang-orang yang berbuat jahat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 735830,
+    "timestamp_to": 743250,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        735775,
+        736965
+      ],
+      [
+        2,
+        736965,
+        737805
+      ],
+      [
+        3,
+        737805,
+        738665
+      ],
+      [
+        4,
+        738665,
+        743140
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 2998,
+  "chapter_id": 26,
+  "verse_key": "26:66",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 57797,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_066_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 57798,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_066_002.mp3",
+      "text": "أَغْرَقْنَا",
+      "translation": "Kami tenggelamkan",
+      "transliteration": "aghraqnā"
+    },
+    {
+      "id": 57799,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_066_003.mp3",
+      "text": "ٱلْـَٔاخَرِينَ",
+      "translation": "yang lain",
+      "transliteration": "l-ākharīna"
+    },
+    {
+      "id": 57800,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tenggelamkan golongan yang lain itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 669940,
+    "timestamp_to": 675610,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        669855,
+        671525
+      ],
+      [
+        2,
+        671525,
+        672555
+      ],
+      [
+        3,
+        672555,
+        675470
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5436,
+  "chapter_id": 71,
+  "verse_key": "71:17",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 19527,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_001.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 19528,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_002.mp3",
+      "text": "أَنۢبَتَكُم",
+      "translation": "menumbuhkan kamu",
+      "transliteration": "anbatakum"
+    },
+    {
+      "id": 19529,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_003.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 19530,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_004.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 19531,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_005.mp3",
+      "text": "نَبَاتًۭا",
+      "translation": "pertumbuhan",
+      "transliteration": "nabātan"
+    },
+    {
+      "id": 19532,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah menumbuhkan kamu dari tanah dengan sebaik-baiknya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 158450,
+    "timestamp_to": 164750,
+    "duration": 6300,
+    "segments": [
+      [
+        1,
+        158355,
+        159295
+      ],
+      [
+        2,
+        159295,
+        161145
+      ],
+      [
+        3,
+        161145,
+        162315
+      ],
+      [
+        4,
+        162315,
+        163145
+      ],
+      [
+        5,
+        163145,
+        164300
+      ]
+    ]
+  }
+}

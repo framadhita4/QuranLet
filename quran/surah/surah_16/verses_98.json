@@ -1,0 +1,138 @@
+{
+  "id": 1999,
+  "chapter_id": 16,
+  "verse_key": "16:98",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "ruku_number": 236,
+  "manzil_number": 3,
+  "page_number": 278,
+  "juz_number": 14,
+  "text_uthmani": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 70624,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 70625,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_002.mp3",
+      "text": "قَرَأْتَ",
+      "translation": "kamu membaca",
+      "transliteration": "qarata"
+    },
+    {
+      "id": 70626,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_003.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al Quran",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 70627,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_004.mp3",
+      "text": "فَٱسْتَعِذْ",
+      "translation": "maka hendaklah kamu mohon perlindungan",
+      "transliteration": "fa-is'taʿidh"
+    },
+    {
+      "id": 70628,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_005.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 70629,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 70630,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_007.mp3",
+      "text": "ٱلشَّيْطَـٰنِ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāni"
+    },
+    {
+      "id": 70631,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_098_008.mp3",
+      "text": "ٱلرَّجِيمِ",
+      "translation": "terkutuk",
+      "transliteration": "l-rajīmi"
+    },
+    {
+      "id": 70632,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila kamu membaca Al-Qur`ān, hendaklah kamu meminta perlindungan kepada Allah dari setan yang terkutuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1959710,
+    "timestamp_to": 1969660,
+    "duration": 9950,
+    "segments": [
+      [
+        1,
+        1959665,
+        1960535
+      ],
+      [
+        2,
+        1960535,
+        1961375
+      ],
+      [
+        3,
+        1961375,
+        1962715
+      ],
+      [
+        4,
+        1962715,
+        1963765
+      ],
+      [
+        5,
+        1963765,
+        1964875
+      ],
+      [
+        6,
+        1964875,
+        1965235
+      ],
+      [
+        7,
+        1965235,
+        1966625
+      ],
+      [
+        8,
+        1966625,
+        1969560
+      ]
+    ]
+  }
+}

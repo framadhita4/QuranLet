@@ -1,0 +1,73 @@
+{
+  "id": 5441,
+  "chapter_id": 71,
+  "verse_key": "71:22",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 507,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 24901,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_022_001.mp3",
+      "text": "وَمَكَرُوا۟",
+      "translation": "dan mereka membuat tipu daya",
+      "transliteration": "wamakarū"
+    },
+    {
+      "id": 24902,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_022_002.mp3",
+      "text": "مَكْرًۭا",
+      "translation": "tipu daya",
+      "transliteration": "makran"
+    },
+    {
+      "id": 24903,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_022_003.mp3",
+      "text": "كُبَّارًۭا",
+      "translation": "yang besar",
+      "transliteration": "kubbāran"
+    },
+    {
+      "id": 24904,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan melakukan tipu-daya yang amat besar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 193590,
+    "timestamp_to": 197930,
+    "duration": 4340,
+    "segments": [
+      [
+        1,
+        193515,
+        194495
+      ],
+      [
+        2,
+        194495,
+        196085
+      ],
+      [
+        3,
+        196085,
+        197800
+      ]
+    ]
+  }
+}

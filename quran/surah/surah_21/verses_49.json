@@ -1,0 +1,138 @@
+{
+  "id": 2532,
+  "chapter_id": 21,
+  "verse_key": "21:49",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 281,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 48003,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 48004,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_002.mp3",
+      "text": "يَخْشَوْنَ",
+      "translation": "(mereka) takut",
+      "transliteration": "yakhshawna"
+    },
+    {
+      "id": 48005,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_003.mp3",
+      "text": "رَبَّهُم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbahum"
+    },
+    {
+      "id": 48006,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_004.mp3",
+      "text": "بِٱلْغَيْبِ",
+      "translation": "dengan yang gaib (tidak melihat-Nya)",
+      "transliteration": "bil-ghaybi"
+    },
+    {
+      "id": 48007,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_005.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 48008,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_006.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 48009,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_007.mp3",
+      "text": "ٱلسَّاعَةِ",
+      "translation": "hari kiamat",
+      "transliteration": "l-sāʿati"
+    },
+    {
+      "id": 48010,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_049_008.mp3",
+      "text": "مُشْفِقُونَ",
+      "translation": "mereka merasa takut",
+      "transliteration": "mush'fiqūna"
+    },
+    {
+      "id": 48011,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang takut akan (azab) Tuhan mereka, sedang mereka tidak melihat-Nya dan mereka merasa takut akan (tibanya) hari kiamat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 707750,
+    "timestamp_to": 717940,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        707695,
+        708875
+      ],
+      [
+        2,
+        708875,
+        709955
+      ],
+      [
+        3,
+        709955,
+        711025
+      ],
+      [
+        4,
+        711025,
+        712425
+      ],
+      [
+        5,
+        712425,
+        712905
+      ],
+      [
+        6,
+        712905,
+        714015
+      ],
+      [
+        7,
+        714015,
+        715105
+      ],
+      [
+        8,
+        715105,
+        717860
+      ]
+    ]
+  }
+}

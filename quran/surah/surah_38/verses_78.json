@@ -1,0 +1,112 @@
+{
+  "id": 4048,
+  "chapter_id": 38,
+  "verse_key": "38:78",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 63688,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 63689,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_002.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 63690,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_003.mp3",
+      "text": "لَعْنَتِىٓ",
+      "translation": "kutukan-Ku",
+      "transliteration": "laʿnatī"
+    },
+    {
+      "id": 63691,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 63692,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_005.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 63693,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_006.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 63694,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kutukan-Ku tetap atasmu sampai hari pembalasan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 965800,
+    "timestamp_to": 975280,
+    "duration": 9480,
+    "segments": [
+      [
+        1,
+        965775,
+        967525
+      ],
+      [
+        2,
+        967525,
+        968355
+      ],
+      [
+        3,
+        968355,
+        970985
+      ],
+      [
+        4,
+        970985,
+        971525
+      ],
+      [
+        5,
+        971525,
+        972185
+      ],
+      [
+        6,
+        972185,
+        975200
+      ]
+    ]
+  }
+}

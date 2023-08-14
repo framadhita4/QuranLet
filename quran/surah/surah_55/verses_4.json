@@ -1,0 +1,60 @@
+{
+  "id": 4905,
+  "chapter_id": 55,
+  "verse_key": "55:4",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "عَلَّمَهُ ٱلْبَيَانَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 3552,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_004_001.mp3",
+      "text": "عَلَّمَهُ",
+      "translation": "Dia mengajarkannya",
+      "transliteration": "ʿallamahu"
+    },
+    {
+      "id": 3553,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_004_002.mp3",
+      "text": "ٱلْبَيَانَ",
+      "translation": "jelas/terang",
+      "transliteration": "l-bayāna"
+    },
+    {
+      "id": 3554,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mengajarnya pandai berbicara.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14970,
+    "timestamp_to": 19910,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        14905,
+        15985
+      ],
+      [
+        2,
+        15985,
+        19780
+      ]
+    ]
+  }
+}

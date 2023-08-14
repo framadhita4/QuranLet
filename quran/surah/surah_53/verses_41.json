@@ -1,0 +1,86 @@
+{
+  "id": 4825,
+  "chapter_id": 53,
+  "verse_key": "53:41",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 42022,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_041_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 42023,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_041_002.mp3",
+      "text": "يُجْزَىٰهُ",
+      "translation": "diberi balasan kepadanya",
+      "transliteration": "yuj'zāhu"
+    },
+    {
+      "id": 42024,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_041_003.mp3",
+      "text": "ٱلْجَزَآءَ",
+      "translation": "balasan",
+      "transliteration": "l-jazāa"
+    },
+    {
+      "id": 42025,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_041_004.mp3",
+      "text": "ٱلْأَوْفَىٰ",
+      "translation": "cukup/sempurna",
+      "transliteration": "l-awfā"
+    },
+    {
+      "id": 42026,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian akan diberi balasan kepadanya dengan balasan yang paling sempurna,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 344350,
+    "timestamp_to": 350960,
+    "duration": 6610,
+    "segments": [
+      [
+        1,
+        344305,
+        345325
+      ],
+      [
+        2,
+        345325,
+        346525
+      ],
+      [
+        3,
+        346525,
+        349165
+      ],
+      [
+        4,
+        349165,
+        350500
+      ]
+    ]
+  }
+}

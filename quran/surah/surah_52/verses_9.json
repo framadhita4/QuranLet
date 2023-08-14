@@ -1,0 +1,86 @@
+{
+  "id": 4744,
+  "chapter_id": 52,
+  "verse_key": "52:9",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 9930,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_009_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 9931,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_009_002.mp3",
+      "text": "تَمُورُ",
+      "translation": "bergoncang",
+      "transliteration": "tamūru"
+    },
+    {
+      "id": 9932,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_009_003.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 9933,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_009_004.mp3",
+      "text": "مَوْرًۭا",
+      "translation": "sungguh-sungguh bergoncang",
+      "transliteration": "mawran"
+    },
+    {
+      "id": 9934,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada hari ketika langit benar-benar berguncang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37920,
+    "timestamp_to": 43720,
+    "duration": 5800,
+    "segments": [
+      [
+        1,
+        37865,
+        38575
+      ],
+      [
+        2,
+        38575,
+        39475
+      ],
+      [
+        3,
+        39475,
+        42145
+      ],
+      [
+        4,
+        42145,
+        43610
+      ]
+    ]
+  }
+}

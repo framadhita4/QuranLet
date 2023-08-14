@@ -1,0 +1,151 @@
+{
+  "id": 3231,
+  "chapter_id": 27,
+  "verse_key": "27:72",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 383,
+  "juz_number": 20,
+  "text_uthmani": "قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 60751,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 60752,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_002.mp3",
+      "text": "عَسَىٰٓ",
+      "translation": "boleh jadi",
+      "transliteration": "ʿasā"
+    },
+    {
+      "id": 60753,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_003.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 60754,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_004.mp3",
+      "text": "يَكُونَ",
+      "translation": "adalah ia",
+      "transliteration": "yakūna"
+    },
+    {
+      "id": 60755,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_005.mp3",
+      "text": "رَدِفَ",
+      "translation": "hampir datang",
+      "transliteration": "radifa"
+    },
+    {
+      "id": 60756,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_006.mp3",
+      "text": "لَكُم",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 60757,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_007.mp3",
+      "text": "بَعْضُ",
+      "translation": "sebagian",
+      "transliteration": "baʿḍu"
+    },
+    {
+      "id": 60758,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_008.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 60759,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_072_009.mp3",
+      "text": "تَسْتَعْجِلُونَ",
+      "translation": "kamu minta disegerakan",
+      "transliteration": "tastaʿjilūna"
+    },
+    {
+      "id": 60760,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Mungkin telah hampir datang kepadamu sebagian dari (azab) yang kamu minta (supaya) disegerakan itu <sup foot_note_id=\"1107\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1309050,
+    "timestamp_to": 1320570,
+    "duration": 11520,
+    "segments": [
+      [
+        1,
+        1309025,
+        1309375
+      ],
+      [
+        2,
+        1309375,
+        1311525
+      ],
+      [
+        3,
+        1311525,
+        1311785
+      ],
+      [
+        4,
+        1311785,
+        1313325
+      ],
+      [
+        5,
+        1313325,
+        1314015
+      ],
+      [
+        6,
+        1314015,
+        1315275
+      ],
+      [
+        7,
+        1315275,
+        1315875
+      ],
+      [
+        8,
+        1315875,
+        1316755
+      ],
+      [
+        9,
+        1316755,
+        1320490
+      ]
+    ]
+  }
+}

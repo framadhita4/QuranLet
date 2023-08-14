@@ -1,0 +1,99 @@
+{
+  "id": 5339,
+  "chapter_id": 69,
+  "verse_key": "69:16",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍ وَاهِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 18425,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_016_001.mp3",
+      "text": "وَٱنشَقَّتِ",
+      "translation": "dan terbelahlah",
+      "transliteration": "wa-inshaqqati"
+    },
+    {
+      "id": 18426,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_016_002.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 18427,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_016_003.mp3",
+      "text": "فَهِىَ",
+      "translation": "maka ia",
+      "transliteration": "fahiya"
+    },
+    {
+      "id": 18428,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_016_004.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 18429,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_016_005.mp3",
+      "text": "وَاهِيَةٌۭ",
+      "translation": "lemah",
+      "transliteration": "wāhiyatun"
+    },
+    {
+      "id": 18430,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan terbelahlah langit, karena pada hari itu langit menjadi lemah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 125620,
+    "timestamp_to": 134660,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        125555,
+        127605
+      ],
+      [
+        2,
+        127605,
+        130075
+      ],
+      [
+        3,
+        130075,
+        130745
+      ],
+      [
+        4,
+        130745,
+        132055
+      ],
+      [
+        5,
+        132055,
+        134530
+      ]
+    ]
+  }
+}

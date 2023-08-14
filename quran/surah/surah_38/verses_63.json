@@ -1,0 +1,112 @@
+{
+  "id": 4033,
+  "chapter_id": 38,
+  "verse_key": "38:63",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَـٰرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 56436,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_001.mp3",
+      "text": "أَتَّخَذْنَـٰهُمْ",
+      "translation": "apakah kami menjadikan mereka",
+      "transliteration": "attakhadhnāhum"
+    },
+    {
+      "id": 56437,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_002.mp3",
+      "text": "سِخْرِيًّا",
+      "translation": "ejekan/olok-olokan",
+      "transliteration": "sikh'riyyan"
+    },
+    {
+      "id": 56438,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_003.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 56439,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_004.mp3",
+      "text": "زَاغَتْ",
+      "translation": "suram/tidak melihat",
+      "transliteration": "zāghat"
+    },
+    {
+      "id": 56440,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_005.mp3",
+      "text": "عَنْهُمُ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhumu"
+    },
+    {
+      "id": 56441,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_006.mp3",
+      "text": "ٱلْأَبْصَـٰرُ",
+      "translation": "penglihatan",
+      "transliteration": "l-abṣāru"
+    },
+    {
+      "id": 56442,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kami dahulu menjadikan mereka olok-olokan ataukah karena mata kami tidak melihat mereka?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 813900,
+    "timestamp_to": 822310,
+    "duration": 8410,
+    "segments": [
+      [
+        1,
+        813845,
+        815705
+      ],
+      [
+        2,
+        815705,
+        816905
+      ],
+      [
+        3,
+        816905,
+        817285
+      ],
+      [
+        4,
+        817285,
+        818155
+      ],
+      [
+        5,
+        818155,
+        818955
+      ],
+      [
+        6,
+        818955,
+        822230
+      ]
+    ]
+  }
+}

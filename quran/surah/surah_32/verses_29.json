@@ -1,0 +1,177 @@
+{
+  "id": 3532,
+  "chapter_id": 32,
+  "verse_key": "32:29",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "ruku_number": 362,
+  "manzil_number": 5,
+  "page_number": 417,
+  "juz_number": 21,
+  "text_uthmani": "قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَـٰنُهُمْ وَلَا هُمْ يُنظَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 32259,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 32260,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_002.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 32261,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_003.mp3",
+      "text": "ٱلْفَتْحِ",
+      "translation": "kemenangan",
+      "transliteration": "l-fatḥi"
+    },
+    {
+      "id": 32262,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 32263,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_005.mp3",
+      "text": "يَنفَعُ",
+      "translation": "berguna",
+      "transliteration": "yanfaʿu"
+    },
+    {
+      "id": 32264,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_006.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 32265,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_007.mp3",
+      "text": "كَفَرُوٓا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 32266,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_008.mp3",
+      "text": "إِيمَـٰنُهُمْ",
+      "translation": "iman mereka",
+      "transliteration": "īmānuhum"
+    },
+    {
+      "id": 32267,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidaklah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 32268,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_010.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 32269,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_029_011.mp3",
+      "text": "يُنظَرُونَ",
+      "translation": "mereka diberi tangguh",
+      "transliteration": "yunẓarūna"
+    },
+    {
+      "id": 32270,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Pada hari kemenangan <sup foot_note_id=\"1196\">1</sup> itu tidak berguna bagi orang-orang kafir iman mereka dan tidak pula mereka diberi tangguh.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 454350,
+    "timestamp_to": 466180,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        454305,
+        454665
+      ],
+      [
+        2,
+        454665,
+        455205
+      ],
+      [
+        3,
+        455205,
+        456005
+      ],
+      [
+        4,
+        456005,
+        456385
+      ],
+      [
+        5,
+        456385,
+        457715
+      ],
+      [
+        6,
+        457715,
+        458605
+      ],
+      [
+        7,
+        458605,
+        460405
+      ],
+      [
+        8,
+        460405,
+        461735
+      ],
+      [
+        9,
+        461735,
+        462285
+      ],
+      [
+        10,
+        462285,
+        462565
+      ],
+      [
+        11,
+        462565,
+        466110
+      ]
+    ]
+  }
+}

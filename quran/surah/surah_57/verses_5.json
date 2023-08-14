@@ -1,0 +1,138 @@
+{
+  "id": 5080,
+  "chapter_id": 57,
+  "verse_key": "57:5",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 474,
+  "manzil_number": 7,
+  "page_number": 538,
+  "juz_number": 27,
+  "text_uthmani": "لَّهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/57.mp3",
+  "words": [
+    {
+      "id": 4974,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_001.mp3",
+      "text": "لَّهُۥ",
+      "translation": "bagiNya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 4975,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_002.mp3",
+      "text": "مُلْكُ",
+      "translation": "kerjaan",
+      "transliteration": "mul'ku"
+    },
+    {
+      "id": 4976,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 4977,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_004.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 4979,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_006.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 4980,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_007.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 4981,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_008.mp3",
+      "text": "تُرْجَعُ",
+      "translation": "dikembalikan",
+      "transliteration": "tur'jaʿu"
+    },
+    {
+      "id": 4982,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_005_009.mp3",
+      "text": "ٱلْأُمُورُ",
+      "translation": "urusan",
+      "transliteration": "l-umūru"
+    },
+    {
+      "id": 4983,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kepunyaan-Nya-lah kerajaan langit dan bumi.  Dan kepada Allah-lah dikembalikan segala urusan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 67920,
+    "timestamp_to": 77640,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        67815,
+        68455
+      ],
+      [
+        2,
+        68455,
+        69105
+      ],
+      [
+        3,
+        69105,
+        70575
+      ],
+      [
+        4,
+        70575,
+        72045
+      ],
+      [
+        5,
+        72045,
+        72605
+      ],
+      [
+        6,
+        72605,
+        73425
+      ],
+      [
+        7,
+        73425,
+        74275
+      ],
+      [
+        8,
+        74275,
+        77450
+      ]
+    ]
+  }
+}

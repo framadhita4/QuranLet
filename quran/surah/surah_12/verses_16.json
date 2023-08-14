@@ -1,0 +1,86 @@
+{
+  "id": 1612,
+  "chapter_id": 12,
+  "verse_key": "12:16",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "ruku_number": 194,
+  "manzil_number": 3,
+  "page_number": 237,
+  "juz_number": 12,
+  "text_uthmani": "وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 18724,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_016_001.mp3",
+      "text": "وَجَآءُوٓ",
+      "translation": "dan mereka datang",
+      "transliteration": "wajāū"
+    },
+    {
+      "id": 18725,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_016_002.mp3",
+      "text": "أَبَاهُمْ",
+      "translation": "bapak mereka",
+      "transliteration": "abāhum"
+    },
+    {
+      "id": 18726,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_016_003.mp3",
+      "text": "عِشَآءًۭ",
+      "translation": "di waktu sore",
+      "transliteration": "ʿishāan"
+    },
+    {
+      "id": 18727,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_016_004.mp3",
+      "text": "يَبْكُونَ",
+      "translation": "mereka menangis",
+      "transliteration": "yabkūna"
+    },
+    {
+      "id": 18728,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, mereka datang kepada ayah mereka pada sore hari sambil menangis.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 288330,
+    "timestamp_to": 301000,
+    "duration": 12670,
+    "segments": [
+      [
+        1,
+        288305,
+        293105
+      ],
+      [
+        2,
+        293105,
+        294215
+      ],
+      [
+        3,
+        294215,
+        296715
+      ],
+      [
+        4,
+        296715,
+        300920
+      ]
+    ]
+  }
+}

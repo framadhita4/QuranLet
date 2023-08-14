@@ -1,0 +1,112 @@
+{
+  "id": 5899,
+  "chapter_id": 84,
+  "verse_key": "84:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 17305,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_015_001.mp3",
+      "text": "بَلَىٰٓ",
+      "translation": "yang benar",
+      "transliteration": "balā"
+    },
+    {
+      "id": 17306,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_015_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 17307,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_015_003.mp3",
+      "text": "رَبَّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbahu"
+    },
+    {
+      "id": 17308,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_015_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 17309,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_015_005.mp3",
+      "text": "بِهِۦ",
+      "translation": "kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 17310,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_015_006.mp3",
+      "text": "بَصِيرًۭا",
+      "translation": "melihat",
+      "transliteration": "baṣīran"
+    },
+    {
+      "id": 17311,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Bukan demikian), yang benar, sesungguhnya Tuhan-nya selalu melihatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80840,
+    "timestamp_to": 87340,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        80815,
+        81545
+      ],
+      [
+        2,
+        81545,
+        83295
+      ],
+      [
+        3,
+        83295,
+        84285
+      ],
+      [
+        4,
+        84285,
+        84945
+      ],
+      [
+        5,
+        84945,
+        85595
+      ],
+      [
+        6,
+        85595,
+        87300
+      ]
+    ]
+  }
+}

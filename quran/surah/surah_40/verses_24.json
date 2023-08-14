@@ -1,0 +1,125 @@
+{
+  "id": 4157,
+  "chapter_id": 40,
+  "verse_key": "40:24",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "ruku_number": 408,
+  "manzil_number": 6,
+  "page_number": 469,
+  "juz_number": 24,
+  "text_uthmani": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوا۟ سَـٰحِرٌ كَذَّابٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 26555,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 26556,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_002.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 26557,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_003.mp3",
+      "text": "وَهَـٰمَـٰنَ",
+      "translation": "dan Haman",
+      "transliteration": "wahāmāna"
+    },
+    {
+      "id": 26558,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_004.mp3",
+      "text": "وَقَـٰرُونَ",
+      "translation": "dan Karun",
+      "transliteration": "waqārūna"
+    },
+    {
+      "id": 26559,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_005.mp3",
+      "text": "فَقَالُوا۟",
+      "translation": "maka mereka berkata",
+      "transliteration": "faqālū"
+    },
+    {
+      "id": 26560,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_006.mp3",
+      "text": "سَـٰحِرٌۭ",
+      "translation": "seorang ahli sihir",
+      "transliteration": "sāḥirun"
+    },
+    {
+      "id": 26561,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_024_007.mp3",
+      "text": "كَذَّابٌۭ",
+      "translation": "pendusta",
+      "transliteration": "kadhābun"
+    },
+    {
+      "id": 26562,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kepada Firʻawn , Hāmān, dan Qārūn; maka mereka berkata, \"(Ia) adalah seorang ahli sihir yang pendusta\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 392790,
+    "timestamp_to": 402850,
+    "duration": 10060,
+    "segments": [
+      [
+        1,
+        392745,
+        393305
+      ],
+      [
+        2,
+        393305,
+        394275
+      ],
+      [
+        3,
+        394275,
+        395535
+      ],
+      [
+        4,
+        395535,
+        396665
+      ],
+      [
+        5,
+        396665,
+        397665
+      ],
+      [
+        6,
+        397665,
+        398735
+      ],
+      [
+        7,
+        398735,
+        402750
+      ]
+    ]
+  }
+}

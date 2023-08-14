@@ -1,0 +1,73 @@
+{
+  "id": 6122,
+  "chapter_id": 96,
+  "verse_key": "96:16",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 18642,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_016_001.mp3",
+      "text": "نَاصِيَةٍۢ",
+      "translation": "umbun-umbun",
+      "transliteration": "nāṣiyatin"
+    },
+    {
+      "id": 18643,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_016_002.mp3",
+      "text": "كَـٰذِبَةٍ",
+      "translation": "pendusta",
+      "transliteration": "kādhibatin"
+    },
+    {
+      "id": 18644,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_016_003.mp3",
+      "text": "خَاطِئَةٍۢ",
+      "translation": "salah/durhaka",
+      "transliteration": "khāṭi-atin"
+    },
+    {
+      "id": 18645,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) ubun-ubun orang yang mendustakan lagi durhaka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 67610,
+    "timestamp_to": 72260,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        67585,
+        69545
+      ],
+      [
+        2,
+        69545,
+        70755
+      ],
+      [
+        3,
+        70755,
+        72200
+      ]
+    ]
+  }
+}

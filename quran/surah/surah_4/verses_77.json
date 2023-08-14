@@ -1,0 +1,673 @@
+{
+  "id": 570,
+  "chapter_id": 4,
+  "verse_key": "4:77",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "ruku_number": 72,
+  "manzil_number": 1,
+  "page_number": 90,
+  "juz_number": 5,
+  "text_uthmani": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَـٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْـَٔاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 62943,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidaklah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 62944,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_002.mp3",
+      "text": "تَرَ",
+      "translation": "kamu perhatikan",
+      "transliteration": "tara"
+    },
+    {
+      "id": 62945,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_003.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 62946,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_004.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 62947,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_005.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 62948,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 62949,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_007.mp3",
+      "text": "كُفُّوٓا۟",
+      "translation": "tahanlah",
+      "transliteration": "kuffū"
+    },
+    {
+      "id": 62950,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_008.mp3",
+      "text": "أَيْدِيَكُمْ",
+      "translation": "tanganmu",
+      "transliteration": "aydiyakum"
+    },
+    {
+      "id": 62951,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_009.mp3",
+      "text": "وَأَقِيمُوا۟",
+      "translation": "dan dirikanlah",
+      "transliteration": "wa-aqīmū"
+    },
+    {
+      "id": 62952,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_010.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 62953,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_011.mp3",
+      "text": "وَءَاتُوا۟",
+      "translation": "dan tunaikan",
+      "transliteration": "waātū"
+    },
+    {
+      "id": 62954,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_012.mp3",
+      "text": "ٱلزَّكَوٰةَ",
+      "translation": "zakat",
+      "transliteration": "l-zakata"
+    },
+    {
+      "id": 62955,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_013.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka setelah",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 62956,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_014.mp3",
+      "text": "كُتِبَ",
+      "translation": "diwajibkan",
+      "transliteration": "kutiba"
+    },
+    {
+      "id": 62957,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_015.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 62958,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_016.mp3",
+      "text": "ٱلْقِتَالُ",
+      "translation": "berperang",
+      "transliteration": "l-qitālu"
+    },
+    {
+      "id": 62959,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_017.mp3",
+      "text": "إِذَا",
+      "translation": "tiba-tiba",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 62960,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_018.mp3",
+      "text": "فَرِيقٌۭ",
+      "translation": "segolongan",
+      "transliteration": "farīqun"
+    },
+    {
+      "id": 62961,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_019.mp3",
+      "text": "مِّنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 62962,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_020.mp3",
+      "text": "يَخْشَوْنَ",
+      "translation": "mereka takut",
+      "transliteration": "yakhshawna"
+    },
+    {
+      "id": 62963,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_021.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 62964,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_022.mp3",
+      "text": "كَخَشْيَةِ",
+      "translation": "seperti takut",
+      "transliteration": "kakhashyati"
+    },
+    {
+      "id": 62965,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_023.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 62966,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_024.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 62967,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_025.mp3",
+      "text": "أَشَدَّ",
+      "translation": "lebih",
+      "transliteration": "ashadda"
+    },
+    {
+      "id": 62968,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_026.mp3",
+      "text": "خَشْيَةًۭ ۚ",
+      "translation": "takut",
+      "transliteration": "khashyatan"
+    },
+    {
+      "id": 62970,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_028.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan mereka berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 62971,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_029.mp3",
+      "text": "رَبَّنَا",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 62972,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_030.mp3",
+      "text": "لِمَ",
+      "translation": "mengapa",
+      "transliteration": "lima"
+    },
+    {
+      "id": 62973,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_031.mp3",
+      "text": "كَتَبْتَ",
+      "translation": "Engkau wajibkan",
+      "transliteration": "katabta"
+    },
+    {
+      "id": 62974,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_032.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 62975,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_033.mp3",
+      "text": "ٱلْقِتَالَ",
+      "translation": "berperang",
+      "transliteration": "l-qitāla"
+    },
+    {
+      "id": 62976,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_034.mp3",
+      "text": "لَوْلَآ",
+      "translation": "mengapa tidak",
+      "transliteration": "lawlā"
+    },
+    {
+      "id": 62977,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_035.mp3",
+      "text": "أَخَّرْتَنَآ",
+      "translation": "Engkau tangguhkan kami",
+      "transliteration": "akhartanā"
+    },
+    {
+      "id": 62978,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_036.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 62979,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_037.mp3",
+      "text": "أَجَلٍۢ",
+      "translation": "waktu",
+      "transliteration": "ajalin"
+    },
+    {
+      "id": 62980,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_038.mp3",
+      "text": "قَرِيبٍۢ ۗ",
+      "translation": "dekat",
+      "transliteration": "qarībin"
+    },
+    {
+      "id": 62982,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_040.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 62983,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_041.mp3",
+      "text": "مَتَـٰعُ",
+      "translation": "kesenangan",
+      "transliteration": "matāʿu"
+    },
+    {
+      "id": 62984,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_042.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 62985,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_043.mp3",
+      "text": "قَلِيلٌۭ",
+      "translation": "sedikit",
+      "transliteration": "qalīlun"
+    },
+    {
+      "id": 62986,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_044.mp3",
+      "text": "وَٱلْـَٔاخِرَةُ",
+      "translation": "dan akhirat",
+      "transliteration": "wal-ākhiratu"
+    },
+    {
+      "id": 62987,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_045.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 62988,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_046.mp3",
+      "text": "لِّمَنِ",
+      "translation": "bagi orang",
+      "transliteration": "limani"
+    },
+    {
+      "id": 62989,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_047.mp3",
+      "text": "ٱتَّقَىٰ",
+      "translation": "bertakwa",
+      "transliteration": "ittaqā"
+    },
+    {
+      "id": 62990,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_048.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 62991,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_049.mp3",
+      "text": "تُظْلَمُونَ",
+      "translation": "kamu dianiaya",
+      "transliteration": "tuẓ'lamūna"
+    },
+    {
+      "id": 62992,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_077_050.mp3",
+      "text": "فَتِيلًا",
+      "translation": "sedikitpun",
+      "transliteration": "fatīlan"
+    },
+    {
+      "id": 62993,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidakkah kamu perhatikan orang-orang yang dikatakan kepada mereka<sup foot_note_id=\"317\">1</sup>, \"Tahanlah tanganmu (dari berperang), dirikanlah salat dan tunaikanlah zakat!\" Setelah diwajibkan kepada mereka berperang, tiba-tiba sebagian dari mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih sangat dari itu takutnya.  Mereka berkata, \"Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami? Mengapa tidak Engkau tangguhkan (kewajiban berperang) kepada kami beberapa waktu lagi?\" Katakanlah, \"Kesenangan di dunia ini hanya sebentar dan akhirat itu lebih baik untuk orang-orang yang bertakwa dan kamu tidak akan dianiaya sedikit pun<sup foot_note_id=\"318\">2</sup>.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2203720,
+    "timestamp_to": 2260140,
+    "duration": 56430,
+    "segments": [
+      [
+        1,
+        2203675,
+        2204325
+      ],
+      [
+        2,
+        2204325,
+        2204775
+      ],
+      [
+        3,
+        2204775,
+        2205095
+      ],
+      [
+        4,
+        2205095,
+        2206135
+      ],
+      [
+        5,
+        2206135,
+        2206855
+      ],
+      [
+        6,
+        2206855,
+        2207445
+      ],
+      [
+        7,
+        2207445,
+        2209495
+      ],
+      [
+        8,
+        2209495,
+        2210715
+      ],
+      [
+        9,
+        2210715,
+        2211695
+      ],
+      [
+        10,
+        2211695,
+        2212805
+      ],
+      [
+        11,
+        2212805,
+        2213605
+      ],
+      [
+        12,
+        2213605,
+        2214675
+      ],
+      [
+        13,
+        2214675,
+        2216125
+      ],
+      [
+        14,
+        2216125,
+        2216755
+      ],
+      [
+        15,
+        2216755,
+        2217745
+      ],
+      [
+        16,
+        2217745,
+        2218825
+      ],
+      [
+        17,
+        2218825,
+        2219435
+      ],
+      [
+        18,
+        2219435,
+        2220275
+      ],
+      [
+        19,
+        2220275,
+        2221795
+      ],
+      [
+        20,
+        2221795,
+        2222865
+      ],
+      [
+        21,
+        2222865,
+        2225825
+      ],
+      [
+        20,
+        2225855,
+        2226985
+      ],
+      [
+        21,
+        2226985,
+        2228325
+      ],
+      [
+        22,
+        2228325,
+        2229415
+      ],
+      [
+        23,
+        2229415,
+        2230255
+      ],
+      [
+        24,
+        2230255,
+        2230685
+      ],
+      [
+        25,
+        2230685,
+        2231485
+      ],
+      [
+        26,
+        2231485,
+        2232635
+      ],
+      [
+        27,
+        2232655,
+        2233795
+      ],
+      [
+        28,
+        2233795,
+        2234755
+      ],
+      [
+        29,
+        2234755,
+        2235155
+      ],
+      [
+        30,
+        2235155,
+        2236045
+      ],
+      [
+        31,
+        2236045,
+        2236835
+      ],
+      [
+        32,
+        2236835,
+        2237945
+      ],
+      [
+        33,
+        2237945,
+        2240385
+      ],
+      [
+        34,
+        2240385,
+        2242975
+      ],
+      [
+        35,
+        2242975,
+        2244825
+      ],
+      [
+        36,
+        2244825,
+        2246335
+      ],
+      [
+        37,
+        2246335,
+        2246975
+      ],
+      [
+        5,
+        2246975,
+        2248465
+      ],
+      [
+        38,
+        2248485,
+        2249385
+      ],
+      [
+        39,
+        2249385,
+        2250205
+      ],
+      [
+        40,
+        2250205,
+        2251195
+      ],
+      [
+        41,
+        2251195,
+        2252085
+      ],
+      [
+        42,
+        2252085,
+        2254145
+      ],
+      [
+        43,
+        2254145,
+        2254945
+      ],
+      [
+        44,
+        2254945,
+        2255655
+      ],
+      [
+        45,
+        2255655,
+        2256525
+      ],
+      [
+        46,
+        2256525,
+        2257055
+      ],
+      [
+        47,
+        2257055,
+        2258285
+      ],
+      [
+        48,
+        2258285,
+        2260080
+      ]
+    ]
+  }
+}

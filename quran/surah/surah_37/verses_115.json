@@ -1,0 +1,99 @@
+{
+  "id": 3903,
+  "chapter_id": 37,
+  "verse_key": "37:115",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 75357,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_001.mp3",
+      "text": "وَنَجَّيْنَـٰهُمَا",
+      "translation": "dan Kami selamatkan keduanya",
+      "transliteration": "wanajjaynāhumā"
+    },
+    {
+      "id": 75358,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_002.mp3",
+      "text": "وَقَوْمَهُمَا",
+      "translation": "dan kaum keduanya",
+      "transliteration": "waqawmahumā"
+    },
+    {
+      "id": 75359,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 75360,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_004.mp3",
+      "text": "ٱلْكَرْبِ",
+      "translation": "bencana",
+      "transliteration": "l-karbi"
+    },
+    {
+      "id": 75361,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_005.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "yang besar",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 75362,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١٥",
+      "translation": "(115)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami selamatkan keduanya dan kaumnya dari bencana yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 960170,
+    "timestamp_to": 968320,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        960095,
+        962165
+      ],
+      [
+        2,
+        962165,
+        963635
+      ],
+      [
+        3,
+        963635,
+        963995
+      ],
+      [
+        4,
+        963995,
+        964865
+      ],
+      [
+        5,
+        964865,
+        968180
+      ]
+    ]
+  }
+}

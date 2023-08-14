@@ -1,0 +1,99 @@
+{
+  "id": 2368,
+  "chapter_id": 20,
+  "verse_key": "20:20",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 22548,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_020_001.mp3",
+      "text": "فَأَلْقَىٰهَا",
+      "translation": "maka dia melemparkannya",
+      "transliteration": "fa-alqāhā"
+    },
+    {
+      "id": 22549,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_020_002.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 22550,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_020_003.mp3",
+      "text": "هِىَ",
+      "translation": "ia/tongkat",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 22551,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_020_004.mp3",
+      "text": "حَيَّةٌۭ",
+      "translation": "ular",
+      "transliteration": "ḥayyatun"
+    },
+    {
+      "id": 22552,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_020_005.mp3",
+      "text": "تَسْعَىٰ",
+      "translation": "merayap",
+      "transliteration": "tasʿā"
+    },
+    {
+      "id": 22553,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu dilemparkannyalah tongkat itu, maka tiba-tiba ia menjadi seekor ular yang merayap dengan cepat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 177450,
+    "timestamp_to": 183770,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        177115,
+        178795
+      ],
+      [
+        2,
+        178795,
+        179735
+      ],
+      [
+        3,
+        179735,
+        180165
+      ],
+      [
+        4,
+        180165,
+        182015
+      ],
+      [
+        5,
+        182015,
+        183090
+      ]
+    ]
+  }
+}

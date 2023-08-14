@@ -1,0 +1,86 @@
+{
+  "id": 3853,
+  "chapter_id": 37,
+  "verse_key": "37:65",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 57403,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_065_001.mp3",
+      "text": "طَلْعُهَا",
+      "translation": "dahannya/buahnya",
+      "transliteration": "ṭalʿuhā"
+    },
+    {
+      "id": 57404,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_065_002.mp3",
+      "text": "كَأَنَّهُۥ",
+      "translation": "seakan-akan seperti",
+      "transliteration": "ka-annahu"
+    },
+    {
+      "id": 57405,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_065_003.mp3",
+      "text": "رُءُوسُ",
+      "translation": "kepala",
+      "transliteration": "ruūsu"
+    },
+    {
+      "id": 57406,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_065_004.mp3",
+      "text": "ٱلشَّيَـٰطِينِ",
+      "translation": "syaitan",
+      "transliteration": "l-shayāṭīni"
+    },
+    {
+      "id": 57407,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦٥",
+      "translation": "(65)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mayangnya seperti kepala setan-setan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 544060,
+    "timestamp_to": 551370,
+    "duration": 7320,
+    "segments": [
+      [
+        1,
+        543985,
+        545085
+      ],
+      [
+        2,
+        545085,
+        547065
+      ],
+      [
+        3,
+        547065,
+        547865
+      ],
+      [
+        4,
+        547865,
+        551240
+      ]
+    ]
+  }
+}

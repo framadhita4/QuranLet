@@ -1,0 +1,47 @@
+{
+  "id": 6158,
+  "chapter_id": 101,
+  "verse_key": "101:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": " ٱلْقَارِعَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 272,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_001_001.mp3",
+      "text": "ٱلْقَارِعَةُ",
+      "translation": "hari kiamat",
+      "transliteration": "al-qāriʿatu"
+    },
+    {
+      "id": 273,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hari kiamat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 2320,
+    "duration": 2330,
+    "segments": [
+      [
+        1,
+        0,
+        2245
+      ]
+    ]
+  }
+}

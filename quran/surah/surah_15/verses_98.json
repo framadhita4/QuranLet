@@ -1,0 +1,112 @@
+{
+  "id": 1900,
+  "chapter_id": 15,
+  "verse_key": "15:98",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 70814,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_001.mp3",
+      "text": "فَسَبِّحْ",
+      "translation": "maka bertasbihlah kamu",
+      "transliteration": "fasabbiḥ"
+    },
+    {
+      "id": 70815,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_002.mp3",
+      "text": "بِحَمْدِ",
+      "translation": "dengan memuji",
+      "transliteration": "biḥamdi"
+    },
+    {
+      "id": 70816,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 70817,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_004.mp3",
+      "text": "وَكُن",
+      "translation": "dan jadilah kamu",
+      "transliteration": "wakun"
+    },
+    {
+      "id": 70818,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 70819,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_006.mp3",
+      "text": "ٱلسَّـٰجِدِينَ",
+      "translation": "orang-orang yang bersujud",
+      "transliteration": "l-sājidīna"
+    },
+    {
+      "id": 70820,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka bertasbihlah dengan memuji Tuhan-mu dan jadilah kamu di antara orang-orang yang bersujud (salat),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 937490,
+    "timestamp_to": 945610,
+    "duration": 8130,
+    "segments": [
+      [
+        1,
+        937455,
+        938505
+      ],
+      [
+        2,
+        938505,
+        939385
+      ],
+      [
+        3,
+        939385,
+        940265
+      ],
+      [
+        4,
+        940265,
+        941255
+      ],
+      [
+        5,
+        941255,
+        941865
+      ],
+      [
+        6,
+        941865,
+        945530
+      ]
+    ]
+  }
+}

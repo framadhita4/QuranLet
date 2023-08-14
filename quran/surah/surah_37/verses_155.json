@@ -1,0 +1,60 @@
+{
+  "id": 3943,
+  "chapter_id": 37,
+  "verse_key": "37:155",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "أَفَلَا تَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 81176,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_155_001.mp3",
+      "text": "أَفَلَا",
+      "translation": "maka apakah tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 81177,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_155_002.mp3",
+      "text": "تَذَكَّرُونَ",
+      "translation": "kamu ingat/memikirkan",
+      "transliteration": "tadhakkarūna"
+    },
+    {
+      "id": 81178,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٥٥",
+      "translation": "(155)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kamu tidak memikirkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1247240,
+    "timestamp_to": 1252280,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        1247195,
+        1248055
+      ],
+      [
+        2,
+        1248055,
+        1252190
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4857,
+  "chapter_id": 54,
+  "verse_key": "54:11",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 12487,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_011_001.mp3",
+      "text": "فَفَتَحْنَآ",
+      "translation": "Maka Kami bukakan",
+      "transliteration": "fafataḥnā"
+    },
+    {
+      "id": 12488,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_011_002.mp3",
+      "text": "أَبْوَٰبَ",
+      "translation": "pintu-pintu",
+      "transliteration": "abwāba"
+    },
+    {
+      "id": 12489,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_011_003.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 12490,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_011_004.mp3",
+      "text": "بِمَآءٍۢ",
+      "translation": "dengan air",
+      "transliteration": "bimāin"
+    },
+    {
+      "id": 12491,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_011_005.mp3",
+      "text": "مُّنْهَمِرٍۢ",
+      "translation": "yang tercurah",
+      "transliteration": "mun'hamirin"
+    },
+    {
+      "id": 12492,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami bukakan pintu-pintu langit dengan (menurunkan) air yang tercurah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 97810,
+    "timestamp_to": 110170,
+    "duration": 12360,
+    "segments": [
+      [
+        1,
+        95575,
+        98545
+      ],
+      [
+        2,
+        98545,
+        99555
+      ],
+      [
+        3,
+        99555,
+        102234
+      ],
+      [
+        4,
+        102235,
+        105175
+      ],
+      [
+        5,
+        105175,
+        107860
+      ]
+    ]
+  }
+}

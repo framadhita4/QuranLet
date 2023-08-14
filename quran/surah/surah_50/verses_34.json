@@ -1,0 +1,99 @@
+{
+  "id": 4664,
+  "chapter_id": 50,
+  "verse_key": "50:34",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 36328,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_034_001.mp3",
+      "text": "ٱدْخُلُوهَا",
+      "translation": "masuklah kedalamnya",
+      "transliteration": "ud'khulūhā"
+    },
+    {
+      "id": 36329,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_034_002.mp3",
+      "text": "بِسَلَـٰمٍۢ ۖ",
+      "translation": "dengan aman",
+      "transliteration": "bisalāmin"
+    },
+    {
+      "id": 36331,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_034_004.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 36332,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_034_005.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 36333,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_034_006.mp3",
+      "text": "ٱلْخُلُودِ",
+      "translation": "kekekalan",
+      "transliteration": "l-khulūdi"
+    },
+    {
+      "id": 36334,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "masukilah surga itu dengan aman, itulah hari kekekalan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 401560,
+    "timestamp_to": 411980,
+    "duration": 10420,
+    "segments": [
+      [
+        1,
+        401495,
+        403155
+      ],
+      [
+        2,
+        403155,
+        406404
+      ],
+      [
+        3,
+        406405,
+        407645
+      ],
+      [
+        4,
+        407645,
+        408305
+      ],
+      [
+        5,
+        408305,
+        411830
+      ]
+    ]
+  }
+}

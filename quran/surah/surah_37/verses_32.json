@@ -1,0 +1,86 @@
+{
+  "id": 3820,
+  "chapter_id": 37,
+  "verse_key": "37:32",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فَأَغْوَيْنَـٰكُمْ إِنَّا كُنَّا غَـٰوِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 35120,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_032_001.mp3",
+      "text": "فَأَغْوَيْنَـٰكُمْ",
+      "translation": "maka kami telah menyesatkan kamu",
+      "transliteration": "fa-aghwaynākum"
+    },
+    {
+      "id": 35121,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_032_002.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 35122,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_032_003.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 35123,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_032_004.mp3",
+      "text": "غَـٰوِينَ",
+      "translation": "orang-orang yang tersesat",
+      "transliteration": "ghāwīna"
+    },
+    {
+      "id": 35124,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kami telah menyesatkan kamu, sesungguhnya kami adalah orang-orang yang sesat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 261480,
+    "timestamp_to": 270260,
+    "duration": 8780,
+    "segments": [
+      [
+        1,
+        261405,
+        263395
+      ],
+      [
+        2,
+        263395,
+        264765
+      ],
+      [
+        3,
+        264765,
+        266325
+      ],
+      [
+        4,
+        266325,
+        270110
+      ]
+    ]
+  }
+}

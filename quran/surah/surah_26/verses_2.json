@@ -1,0 +1,86 @@
+{
+  "id": 2934,
+  "chapter_id": 26,
+  "verse_key": "26:2",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 316,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 1769,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_002_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "inilah",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 1770,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_002_002.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 1771,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_002_003.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Al-Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 1772,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_002_004.mp3",
+      "text": "ٱلْمُبِينِ",
+      "translation": "nyata/menjelaskan",
+      "transliteration": "l-mubīni"
+    },
+    {
+      "id": 1773,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Inilah ayat-ayat Al-Qur`ān yang menerangkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8720,
+    "timestamp_to": 13970,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        8695,
+        9465
+      ],
+      [
+        2,
+        9465,
+        10545
+      ],
+      [
+        3,
+        10545,
+        11585
+      ],
+      [
+        4,
+        11585,
+        13920
+      ]
+    ]
+  }
+}

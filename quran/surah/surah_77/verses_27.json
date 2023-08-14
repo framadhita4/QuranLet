@@ -1,0 +1,125 @@
+{
+  "id": 5649,
+  "chapter_id": 77,
+  "verse_key": "77:27",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 29898,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_001.mp3",
+      "text": "وَجَعَلْنَا",
+      "translation": "dan Kami jadikan",
+      "transliteration": "wajaʿalnā"
+    },
+    {
+      "id": 29899,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_002.mp3",
+      "text": "فِيهَا",
+      "translation": "padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 29900,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_003.mp3",
+      "text": "رَوَٰسِىَ",
+      "translation": "gunung-gunung",
+      "transliteration": "rawāsiya"
+    },
+    {
+      "id": 29901,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_004.mp3",
+      "text": "شَـٰمِخَـٰتٍۢ",
+      "translation": "yang tinggi",
+      "transliteration": "shāmikhātin"
+    },
+    {
+      "id": 29902,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_005.mp3",
+      "text": "وَأَسْقَيْنَـٰكُم",
+      "translation": "dan Kami beri minum kamu",
+      "transliteration": "wa-asqaynākum"
+    },
+    {
+      "id": 29903,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_006.mp3",
+      "text": "مَّآءًۭ",
+      "translation": "air",
+      "transliteration": "māan"
+    },
+    {
+      "id": 29904,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_027_007.mp3",
+      "text": "فُرَاتًۭا",
+      "translation": "tawar",
+      "transliteration": "furātan"
+    },
+    {
+      "id": 29905,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air yang tawar?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 111090,
+    "timestamp_to": 122610,
+    "duration": 11520,
+    "segments": [
+      [
+        1,
+        110995,
+        112165
+      ],
+      [
+        2,
+        112165,
+        112945
+      ],
+      [
+        3,
+        112945,
+        113915
+      ],
+      [
+        4,
+        113915,
+        115755
+      ],
+      [
+        5,
+        115755,
+        117365
+      ],
+      [
+        6,
+        117365,
+        120715
+      ],
+      [
+        7,
+        120715,
+        122360
+      ]
+    ]
+  }
+}

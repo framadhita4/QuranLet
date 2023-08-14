@@ -1,0 +1,99 @@
+{
+  "id": 3825,
+  "chapter_id": 37,
+  "verse_key": "37:37",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 39396,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_037_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 39397,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_037_002.mp3",
+      "text": "جَآءَ",
+      "translation": "dia telah datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 39398,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_037_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 39399,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_037_004.mp3",
+      "text": "وَصَدَّقَ",
+      "translation": "dan dia membenarkan",
+      "transliteration": "waṣaddaqa"
+    },
+    {
+      "id": 39400,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_037_005.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 39401,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya, dia (Muhammad) telah datang membawa kebenaran dan membenarkan rasul-rasul (sebelumnya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 315290,
+    "timestamp_to": 324670,
+    "duration": 9380,
+    "segments": [
+      [
+        1,
+        315205,
+        315745
+      ],
+      [
+        2,
+        315745,
+        318405
+      ],
+      [
+        3,
+        318405,
+        319385
+      ],
+      [
+        4,
+        319385,
+        320415
+      ],
+      [
+        5,
+        320415,
+        324500
+      ]
+    ]
+  }
+}

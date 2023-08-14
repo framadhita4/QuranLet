@@ -1,0 +1,99 @@
+{
+  "id": 2746,
+  "chapter_id": 23,
+  "verse_key": "23:73",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 346,
+  "juz_number": 18,
+  "text_uthmani": "وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 60888,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_073_001.mp3",
+      "text": "وَإِنَّكَ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innaka"
+    },
+    {
+      "id": 60889,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_073_002.mp3",
+      "text": "لَتَدْعُوهُمْ",
+      "translation": "benar-benar kamu menyeru mereka",
+      "transliteration": "latadʿūhum"
+    },
+    {
+      "id": 60890,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_073_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 60891,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_073_004.mp3",
+      "text": "صِرَٰطٍۢ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭin"
+    },
+    {
+      "id": 60892,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_073_005.mp3",
+      "text": "مُّسْتَقِيمٍۢ",
+      "translation": "lurus",
+      "transliteration": "mus'taqīmin"
+    },
+    {
+      "id": 60893,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya kamu benar-benar menyeru mereka kepada jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 936390,
+    "timestamp_to": 944910,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        936335,
+        937945
+      ],
+      [
+        2,
+        937945,
+        939295
+      ],
+      [
+        3,
+        939295,
+        939785
+      ],
+      [
+        4,
+        939785,
+        940745
+      ],
+      [
+        5,
+        940745,
+        944790
+      ]
+    ]
+  }
+}

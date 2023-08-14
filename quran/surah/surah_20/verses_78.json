@@ -1,0 +1,138 @@
+{
+  "id": 2426,
+  "chapter_id": 20,
+  "verse_key": "20:78",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 273,
+  "manzil_number": 4,
+  "page_number": 317,
+  "juz_number": 16,
+  "text_uthmani": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 63361,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_001.mp3",
+      "text": "فَأَتْبَعَهُمْ",
+      "translation": "maka mengikuti mereka",
+      "transliteration": "fa-atbaʿahum"
+    },
+    {
+      "id": 63362,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 63363,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_003.mp3",
+      "text": "بِجُنُودِهِۦ",
+      "translation": "dengan bala tentaranya",
+      "transliteration": "bijunūdihi"
+    },
+    {
+      "id": 63364,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_004.mp3",
+      "text": "فَغَشِيَهُم",
+      "translation": "lalu menutup mereka",
+      "transliteration": "faghashiyahum"
+    },
+    {
+      "id": 63365,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 63366,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_006.mp3",
+      "text": "ٱلْيَمِّ",
+      "translation": "laut",
+      "transliteration": "l-yami"
+    },
+    {
+      "id": 63367,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_007.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 63368,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_078_008.mp3",
+      "text": "غَشِيَهُمْ",
+      "translation": "menutup mereka",
+      "transliteration": "ghashiyahum"
+    },
+    {
+      "id": 63369,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Firʻawn  dengan bala tentaranya mengejar mereka, lalu mereka ditutup oleh laut yang menenggelamkan mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 840670,
+    "timestamp_to": 850180,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        840185,
+        841625
+      ],
+      [
+        2,
+        841625,
+        842715
+      ],
+      [
+        3,
+        842715,
+        844075
+      ],
+      [
+        4,
+        844075,
+        845615
+      ],
+      [
+        5,
+        845615,
+        846265
+      ],
+      [
+        6,
+        846265,
+        847935
+      ],
+      [
+        7,
+        847935,
+        848325
+      ],
+      [
+        8,
+        848325,
+        849670
+      ]
+    ]
+  }
+}

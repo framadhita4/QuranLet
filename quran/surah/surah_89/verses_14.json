@@ -1,0 +1,73 @@
+{
+  "id": 6007,
+  "chapter_id": 89,
+  "verse_key": "89:14",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 16267,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_014_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 16268,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_014_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 16269,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_014_003.mp3",
+      "text": "لَبِٱلْمِرْصَادِ",
+      "translation": "benar-benar mengawasi",
+      "transliteration": "labil-mir'ṣādi"
+    },
+    {
+      "id": 16270,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya Tuhan-mu benar-benar mengawasi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 59970,
+    "timestamp_to": 66290,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        59675,
+        61025
+      ],
+      [
+        2,
+        61025,
+        61805
+      ],
+      [
+        3,
+        61805,
+        65910
+      ]
+    ]
+  }
+}

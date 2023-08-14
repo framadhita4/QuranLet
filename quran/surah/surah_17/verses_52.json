@@ -1,0 +1,151 @@
+{
+  "id": 2081,
+  "chapter_id": 17,
+  "verse_key": "17:52",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "ruku_number": 244,
+  "manzil_number": 4,
+  "page_number": 287,
+  "juz_number": 15,
+  "text_uthmani": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 49740,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 49741,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_002.mp3",
+      "text": "يَدْعُوكُمْ",
+      "translation": "Dia memanggil kamu",
+      "transliteration": "yadʿūkum"
+    },
+    {
+      "id": 49742,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_003.mp3",
+      "text": "فَتَسْتَجِيبُونَ",
+      "translation": "maka/lalu kamu mematuhi",
+      "transliteration": "fatastajībūna"
+    },
+    {
+      "id": 49743,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_004.mp3",
+      "text": "بِحَمْدِهِۦ",
+      "translation": "dengan memuji-Nya",
+      "transliteration": "biḥamdihi"
+    },
+    {
+      "id": 49744,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_005.mp3",
+      "text": "وَتَظُنُّونَ",
+      "translation": "dan kamu menyangka",
+      "transliteration": "wataẓunnūna"
+    },
+    {
+      "id": 49745,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_006.mp3",
+      "text": "إِن",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 49746,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_007.mp3",
+      "text": "لَّبِثْتُمْ",
+      "translation": "kamu tinggal",
+      "transliteration": "labith'tum"
+    },
+    {
+      "id": 49747,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_008.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan/hanya",
+      "transliteration": "illā"
+    },
+    {
+      "id": 49748,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_052_009.mp3",
+      "text": "قَلِيلًۭا",
+      "translation": "sedikit/sebentar",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 49749,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu pada hari Dia memanggil kamu, lalu kamu mematuhi-Nya sambil memuji-Nya dan kamu mengira bahwa kamu tidak berdiam (di dalam kubur), kecuali sebentar saja.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 908760,
+    "timestamp_to": 920040,
+    "duration": 11290,
+    "segments": [
+      [
+        1,
+        908685,
+        909375
+      ],
+      [
+        2,
+        909375,
+        910685
+      ],
+      [
+        3,
+        910685,
+        912485
+      ],
+      [
+        4,
+        912485,
+        913915
+      ],
+      [
+        5,
+        913915,
+        915965
+      ],
+      [
+        6,
+        915965,
+        916195
+      ],
+      [
+        7,
+        916195,
+        917425
+      ],
+      [
+        8,
+        917425,
+        918255
+      ],
+      [
+        9,
+        918255,
+        919910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5504,
+  "chapter_id": 74,
+  "verse_key": "74:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 10338,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_009_001.mp3",
+      "text": "فَذَٰلِكَ",
+      "translation": "maka demikian itu",
+      "transliteration": "fadhālika"
+    },
+    {
+      "id": 10339,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_009_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 10340,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_009_003.mp3",
+      "text": "يَوْمٌ",
+      "translation": "hari",
+      "transliteration": "yawmun"
+    },
+    {
+      "id": 10341,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_009_004.mp3",
+      "text": "عَسِيرٌ",
+      "translation": "sulit",
+      "transliteration": "ʿasīrun"
+    },
+    {
+      "id": 10342,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka waktu itu adalah waktu (datangnya) hari yang sulit,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26990,
+    "timestamp_to": 33360,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        26935,
+        27905
+      ],
+      [
+        2,
+        27905,
+        29675
+      ],
+      [
+        3,
+        29675,
+        30325
+      ],
+      [
+        4,
+        30325,
+        33210
+      ]
+    ]
+  }
+}

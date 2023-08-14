@@ -1,0 +1,73 @@
+{
+  "id": 5578,
+  "chapter_id": 75,
+  "verse_key": "75:27",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَقِيلَ مَنْ ۜ رَاقٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 29807,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_027_001.mp3",
+      "text": "وَقِيلَ",
+      "translation": "dan dikatakan",
+      "transliteration": "waqīla"
+    },
+    {
+      "id": 29808,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_027_002.mp3",
+      "text": "مَنْ ۜ",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 29810,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_027_004.mp3",
+      "text": "رَاقٍۢ",
+      "translation": "menjampi/mengobati",
+      "transliteration": "rāqin"
+    },
+    {
+      "id": 29811,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dikatakan (kepadanya), \"Siapakah yang dapat menyembuhkan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 128710,
+    "timestamp_to": 134140,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        128335,
+        129245
+      ],
+      [
+        2,
+        129245,
+        129625
+      ],
+      [
+        3,
+        129625,
+        133380
+      ]
+    ]
+  }
+}

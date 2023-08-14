@@ -1,0 +1,86 @@
+{
+  "id": 6029,
+  "chapter_id": 90,
+  "verse_key": "90:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 6784,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_006_001.mp3",
+      "text": "يَقُولُ",
+      "translation": "ia berkata",
+      "transliteration": "yaqūlu"
+    },
+    {
+      "id": 6785,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_006_002.mp3",
+      "text": "أَهْلَكْتُ",
+      "translation": "aku telah binasakan/habiskan",
+      "transliteration": "ahlaktu"
+    },
+    {
+      "id": 6786,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_006_003.mp3",
+      "text": "مَالًۭا",
+      "translation": "harta",
+      "transliteration": "mālan"
+    },
+    {
+      "id": 6787,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_006_004.mp3",
+      "text": "لُّبَدًا",
+      "translation": "banyak",
+      "transliteration": "lubadan"
+    },
+    {
+      "id": 6788,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia mengatakan, \"Aku telah menghabiskan harta yang banyak\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26150,
+    "timestamp_to": 30560,
+    "duration": 4420,
+    "segments": [
+      [
+        1,
+        26085,
+        26965
+      ],
+      [
+        2,
+        26965,
+        28025
+      ],
+      [
+        3,
+        28025,
+        28685
+      ],
+      [
+        4,
+        28685,
+        29920
+      ]
+    ]
+  }
+}

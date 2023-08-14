@@ -1,0 +1,73 @@
+{
+  "id": 4789,
+  "chapter_id": 53,
+  "verse_key": "53:5",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 4898,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_005_001.mp3",
+      "text": "عَلَّمَهُۥ",
+      "translation": "mengajarkan kepadanya",
+      "transliteration": "ʿallamahu"
+    },
+    {
+      "id": 4899,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_005_002.mp3",
+      "text": "شَدِيدُ",
+      "translation": "sangat",
+      "transliteration": "shadīdu"
+    },
+    {
+      "id": 4900,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_005_003.mp3",
+      "text": "ٱلْقُوَىٰ",
+      "translation": "kuat",
+      "transliteration": "l-quwā"
+    },
+    {
+      "id": 4901,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang diajarkan kepadanya oleh (Jibril) yang sangat kuat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 18540,
+    "timestamp_to": 22620,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        17985,
+        19295
+      ],
+      [
+        2,
+        19295,
+        20555
+      ],
+      [
+        3,
+        20555,
+        21430
+      ]
+    ]
+  }
+}

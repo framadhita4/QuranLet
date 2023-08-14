@@ -1,0 +1,151 @@
+{
+  "id": 5313,
+  "chapter_id": 68,
+  "verse_key": "68:42",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 43008,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 43009,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_002.mp3",
+      "text": "يُكْشَفُ",
+      "translation": "di buka/di singkap",
+      "transliteration": "yuk'shafu"
+    },
+    {
+      "id": 43010,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_003.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 43011,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_004.mp3",
+      "text": "سَاقٍۢ",
+      "translation": "betis",
+      "transliteration": "sāqin"
+    },
+    {
+      "id": 43012,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_005.mp3",
+      "text": "وَيُدْعَوْنَ",
+      "translation": "dan mereka di seru/di panggil",
+      "transliteration": "wayud'ʿawna"
+    },
+    {
+      "id": 43013,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_006.mp3",
+      "text": "إِلَى",
+      "translation": "kepada/untuk",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 43014,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_007.mp3",
+      "text": "ٱلسُّجُودِ",
+      "translation": "bersujud",
+      "transliteration": "l-sujūdi"
+    },
+    {
+      "id": 43015,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_008.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 43016,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_042_009.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka mampu/kuasa",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 43017,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari betis disingkapkan<sup foot_note_id=\"1498\">1</sup> dan mereka dipanggil untuk bersujud; maka mereka tidak kuasa<sup foot_note_id=\"1499\">2</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 333450,
+    "timestamp_to": 343930,
+    "duration": 10480,
+    "segments": [
+      [
+        1,
+        333395,
+        333965
+      ],
+      [
+        2,
+        333965,
+        334765
+      ],
+      [
+        3,
+        334765,
+        335345
+      ],
+      [
+        4,
+        335345,
+        337105
+      ],
+      [
+        5,
+        337105,
+        338205
+      ],
+      [
+        6,
+        338205,
+        338585
+      ],
+      [
+        7,
+        338585,
+        339615
+      ],
+      [
+        8,
+        339615,
+        340145
+      ],
+      [
+        9,
+        340145,
+        343810
+      ]
+    ]
+  }
+}

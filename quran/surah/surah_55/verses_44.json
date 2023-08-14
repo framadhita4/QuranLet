@@ -1,0 +1,99 @@
+{
+  "id": 4945,
+  "chapter_id": 55,
+  "verse_key": "55:44",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 44390,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_044_001.mp3",
+      "text": "يَطُوفُونَ",
+      "translation": "mereka berkeliling",
+      "transliteration": "yaṭūfūna"
+    },
+    {
+      "id": 44391,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_044_002.mp3",
+      "text": "بَيْنَهَا",
+      "translation": "diantaranya",
+      "transliteration": "baynahā"
+    },
+    {
+      "id": 44392,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_044_003.mp3",
+      "text": "وَبَيْنَ",
+      "translation": "dan antara",
+      "transliteration": "wabayna"
+    },
+    {
+      "id": 44393,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_044_004.mp3",
+      "text": "حَمِيمٍ",
+      "translation": "air mendidih",
+      "transliteration": "ḥamīmin"
+    },
+    {
+      "id": 44394,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_044_005.mp3",
+      "text": "ءَانٍۢ",
+      "translation": "sangat panas",
+      "transliteration": "ānin"
+    },
+    {
+      "id": 44395,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkeliling di antaranya dan di antara air mendidih yang memuncak panasnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 378560,
+    "timestamp_to": 386760,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        378475,
+        379905
+      ],
+      [
+        2,
+        379905,
+        381135
+      ],
+      [
+        3,
+        381135,
+        381885
+      ],
+      [
+        4,
+        381885,
+        383175
+      ],
+      [
+        5,
+        383175,
+        386600
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 1016,
+  "chapter_id": 7,
+  "verse_key": "7:62",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "ruku_number": 129,
+  "manzil_number": 2,
+  "page_number": 158,
+  "juz_number": 8,
+  "text_uthmani": "أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 55442,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_001.mp3",
+      "text": "أُبَلِّغُكُمْ",
+      "translation": "aku menyampaikan kepadamu",
+      "transliteration": "uballighukum"
+    },
+    {
+      "id": 55443,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_002.mp3",
+      "text": "رِسَـٰلَـٰتِ",
+      "translation": "risalah",
+      "transliteration": "risālāti"
+    },
+    {
+      "id": 55444,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_003.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 55445,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_004.mp3",
+      "text": "وَأَنصَحُ",
+      "translation": "dan aku menasehatkan",
+      "transliteration": "wa-anṣaḥu"
+    },
+    {
+      "id": 55446,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_005.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 55447,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_006.mp3",
+      "text": "وَأَعْلَمُ",
+      "translation": "dan aku mengetahui",
+      "transliteration": "wa-aʿlamu"
+    },
+    {
+      "id": 55448,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 55449,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_008.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 55450,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_009.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 55451,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 55452,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_062_011.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 55453,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Aku sampaikan kepadamu amanat-amanat Tuhan-ku dan aku memberi nasihat kepadamu, dan aku mengetahui dari Allah apa yang tidak kamu ketahui\"<sup foot_note_id=\"551\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1468350,
+    "timestamp_to": 1480050,
+    "duration": 11700,
+    "segments": [
+      [
+        1,
+        1468305,
+        1469795
+      ],
+      [
+        2,
+        1469795,
+        1471025
+      ],
+      [
+        3,
+        1471025,
+        1471845
+      ],
+      [
+        4,
+        1471845,
+        1473495
+      ],
+      [
+        5,
+        1473495,
+        1474195
+      ],
+      [
+        6,
+        1474195,
+        1475145
+      ],
+      [
+        7,
+        1475145,
+        1475505
+      ],
+      [
+        8,
+        1475505,
+        1476325
+      ],
+      [
+        9,
+        1476325,
+        1476755
+      ],
+      [
+        10,
+        1476755,
+        1477125
+      ],
+      [
+        11,
+        1477125,
+        1479980
+      ]
+    ]
+  }
+}

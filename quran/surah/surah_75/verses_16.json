@@ -1,0 +1,112 @@
+{
+  "id": 5567,
+  "chapter_id": 75,
+  "verse_key": "75:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 18555,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_016_001.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 18556,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_016_002.mp3",
+      "text": "تُحَرِّكْ",
+      "translation": "kamu gerakkan",
+      "transliteration": "tuḥarrik"
+    },
+    {
+      "id": 18557,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_016_003.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 18558,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_016_004.mp3",
+      "text": "لِسَانَكَ",
+      "translation": "lisanmu/lidahmu",
+      "transliteration": "lisānaka"
+    },
+    {
+      "id": 18559,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_016_005.mp3",
+      "text": "لِتَعْجَلَ",
+      "translation": "karena kamu hendak bersegera",
+      "transliteration": "litaʿjala"
+    },
+    {
+      "id": 18560,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_016_006.mp3",
+      "text": "بِهِۦٓ",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 18561,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Janganlah kamu gerakkan lidahmu untuk (membaca) Al-Qur`ān karena hendak cepat-cepat (menguasai)nya<sup foot_note_id=\"1533\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 77110,
+    "timestamp_to": 82200,
+    "duration": 5090,
+    "segments": [
+      [
+        1,
+        77015,
+        77415
+      ],
+      [
+        2,
+        77415,
+        78475
+      ],
+      [
+        3,
+        78475,
+        79065
+      ],
+      [
+        4,
+        79065,
+        80105
+      ],
+      [
+        5,
+        80105,
+        81125
+      ],
+      [
+        6,
+        81125,
+        82000
+      ]
+    ]
+  }
+}

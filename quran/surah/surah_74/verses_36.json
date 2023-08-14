@@ -1,0 +1,60 @@
+{
+  "id": 5531,
+  "chapter_id": 74,
+  "verse_key": "74:36",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "نَذِيرًا لِّلْبَشَرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 38158,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_036_001.mp3",
+      "text": "نَذِيرًۭا",
+      "translation": "peringatan",
+      "transliteration": "nadhīran"
+    },
+    {
+      "id": 38159,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_036_002.mp3",
+      "text": "لِّلْبَشَرِ",
+      "translation": "bagi manusia",
+      "transliteration": "lil'bashari"
+    },
+    {
+      "id": 38160,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sebagai ancaman bagi manusia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 191590,
+    "timestamp_to": 193970,
+    "duration": 2380,
+    "segments": [
+      [
+        1,
+        191535,
+        192385
+      ],
+      [
+        2,
+        192385,
+        193430
+      ]
+    ]
+  }
+}

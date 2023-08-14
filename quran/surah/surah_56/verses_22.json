@@ -1,0 +1,60 @@
+{
+  "id": 5001,
+  "chapter_id": 56,
+  "verse_key": "56:22",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَحُورٌ عِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 24751,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_022_001.mp3",
+      "text": "وَحُورٌ",
+      "translation": "dan bidadari",
+      "transliteration": "waḥūrun"
+    },
+    {
+      "id": 24752,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_022_002.mp3",
+      "text": "عِينٌۭ",
+      "translation": "bermata jeli",
+      "transliteration": "ʿīnun"
+    },
+    {
+      "id": 24753,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (di dalam surga itu) ada bidadari-bidadari yang bermata jeli,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 135300,
+    "timestamp_to": 139690,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        135215,
+        136365
+      ],
+      [
+        2,
+        136365,
+        139460
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5773,
+  "chapter_id": 80,
+  "verse_key": "80:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "بِأَيْدِى سَفَرَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 16813,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_015_001.mp3",
+      "text": "بِأَيْدِى",
+      "translation": "di tangan-tangan",
+      "transliteration": "bi-aydī"
+    },
+    {
+      "id": 16814,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_015_002.mp3",
+      "text": "سَفَرَةٍۢ",
+      "translation": "para utusan",
+      "transliteration": "safaratin"
+    },
+    {
+      "id": 16815,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di tangan para penulis (malaikat),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60320,
+    "timestamp_to": 62540,
+    "duration": 2220,
+    "segments": [
+      [
+        1,
+        60275,
+        61285
+      ],
+      [
+        2,
+        61285,
+        62400
+      ]
+    ]
+  }
+}

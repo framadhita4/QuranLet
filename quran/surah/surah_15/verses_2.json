@@ -1,0 +1,125 @@
+{
+  "id": 1804,
+  "chapter_id": 15,
+  "verse_key": "15:2",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 1944,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_001.mp3",
+      "text": "رُّبَمَا",
+      "translation": "kadang-kadang",
+      "transliteration": "rubamā"
+    },
+    {
+      "id": 1945,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_002.mp3",
+      "text": "يَوَدُّ",
+      "translation": "menginginkan",
+      "transliteration": "yawaddu"
+    },
+    {
+      "id": 1946,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 1947,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_004.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 1948,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_005.mp3",
+      "text": "لَوْ",
+      "translation": "seandainya",
+      "transliteration": "law"
+    },
+    {
+      "id": 1949,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_006.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 1950,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_002_007.mp3",
+      "text": "مُسْلِمِينَ",
+      "translation": "orang-orang muslim",
+      "transliteration": "mus'limīna"
+    },
+    {
+      "id": 1951,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Orang-orang yang kafir itu seringkali (nanti di akhirat) menginginkan kiranya mereka dahulu (di dunia) menjadi orang-orang muslim.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12280,
+    "timestamp_to": 19050,
+    "duration": 6770,
+    "segments": [
+      [
+        1,
+        12255,
+        13155
+      ],
+      [
+        2,
+        13155,
+        13915
+      ],
+      [
+        3,
+        13915,
+        14965
+      ],
+      [
+        4,
+        14965,
+        15745
+      ],
+      [
+        5,
+        15745,
+        16095
+      ],
+      [
+        6,
+        16095,
+        16995
+      ],
+      [
+        7,
+        16995,
+        19000
+      ]
+    ]
+  }
+}

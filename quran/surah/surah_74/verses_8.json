@@ -1,0 +1,86 @@
+{
+  "id": 5503,
+  "chapter_id": 74,
+  "verse_key": "74:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 9113,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_008_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 9114,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_008_002.mp3",
+      "text": "نُقِرَ",
+      "translation": "ditiup",
+      "transliteration": "nuqira"
+    },
+    {
+      "id": 9115,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_008_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 9116,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_008_004.mp3",
+      "text": "ٱلنَّاقُورِ",
+      "translation": "sangkakala",
+      "transliteration": "l-nāqūri"
+    },
+    {
+      "id": 9117,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila ditiup sangkakala,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21090,
+    "timestamp_to": 26990,
+    "duration": 5900,
+    "segments": [
+      [
+        1,
+        21025,
+        21815
+      ],
+      [
+        2,
+        21815,
+        22395
+      ],
+      [
+        3,
+        22395,
+        22585
+      ],
+      [
+        4,
+        22585,
+        26870
+      ]
+    ]
+  }
+}

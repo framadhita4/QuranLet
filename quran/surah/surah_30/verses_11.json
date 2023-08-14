@@ -1,0 +1,138 @@
+{
+  "id": 3420,
+  "chapter_id": 30,
+  "verse_key": "30:11",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 351,
+  "manzil_number": 5,
+  "page_number": 405,
+  "juz_number": 21,
+  "text_uthmani": "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 13122,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_001.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "al-lahu"
+    },
+    {
+      "id": 13123,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_002.mp3",
+      "text": "يَبْدَؤُا۟",
+      "translation": "memulai menciptakan",
+      "transliteration": "yabda-u"
+    },
+    {
+      "id": 13124,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_003.mp3",
+      "text": "ٱلْخَلْقَ",
+      "translation": "makhluk",
+      "transliteration": "l-khalqa"
+    },
+    {
+      "id": 13125,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_004.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 13126,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_005.mp3",
+      "text": "يُعِيدُهُۥ",
+      "translation": "Dia mengulanginya",
+      "transliteration": "yuʿīduhu"
+    },
+    {
+      "id": 13127,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_006.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 13128,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_007.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepada-Nya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 13129,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_011_008.mp3",
+      "text": "تُرْجَعُونَ",
+      "translation": "kalian dikembalikan",
+      "transliteration": "tur'jaʿūna"
+    },
+    {
+      "id": 13130,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah menciptakan (manusia) dari permulaan, kemudian mengembalikan (menghidupkan)nya kembali, kemudian kepada-Nya-lah kamu dikembalikan",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 192770,
+    "timestamp_to": 204210,
+    "duration": 11440,
+    "segments": [
+      [
+        1,
+        192745,
+        194155
+      ],
+      [
+        2,
+        194155,
+        194945
+      ],
+      [
+        3,
+        194945,
+        195815
+      ],
+      [
+        4,
+        195815,
+        197085
+      ],
+      [
+        5,
+        197085,
+        198375
+      ],
+      [
+        6,
+        198375,
+        200085
+      ],
+      [
+        7,
+        200085,
+        200975
+      ],
+      [
+        8,
+        200975,
+        204150
+      ]
+    ]
+  }
+}

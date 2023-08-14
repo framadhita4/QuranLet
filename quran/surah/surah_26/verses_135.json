@@ -1,0 +1,112 @@
+{
+  "id": 3067,
+  "chapter_id": 26,
+  "verse_key": "26:135",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 78591,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_135_001.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 78592,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_135_002.mp3",
+      "text": "أَخَافُ",
+      "translation": "aku takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 78593,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_135_003.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 78594,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_135_004.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 78595,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_135_005.mp3",
+      "text": "يَوْمٍ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 78596,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_135_006.mp3",
+      "text": "عَظِيمٍۢ",
+      "translation": "yang besar",
+      "transliteration": "ʿaẓīmin"
+    },
+    {
+      "id": 78597,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣٥",
+      "translation": "(135)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya aku takut kamu akan ditimpa azab hari yang besar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1185190,
+    "timestamp_to": 1194410,
+    "duration": 9220,
+    "segments": [
+      [
+        1,
+        1185135,
+        1188265
+      ],
+      [
+        2,
+        1188265,
+        1189095
+      ],
+      [
+        3,
+        1189095,
+        1190115
+      ],
+      [
+        4,
+        1190115,
+        1191085
+      ],
+      [
+        5,
+        1191085,
+        1191875
+      ],
+      [
+        6,
+        1191875,
+        1194320
+      ]
+    ]
+  }
+}

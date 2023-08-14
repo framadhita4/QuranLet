@@ -1,0 +1,86 @@
+{
+  "id": 5957,
+  "chapter_id": 87,
+  "verse_key": "87:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 10457,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_001.mp3",
+      "text": "فَذَكِّرْ",
+      "translation": "maka berilah peringatan",
+      "transliteration": "fadhakkir"
+    },
+    {
+      "id": 10458,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_002.mp3",
+      "text": "إِن",
+      "translation": "sesungguhnya",
+      "transliteration": "in"
+    },
+    {
+      "id": 10459,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_003.mp3",
+      "text": "نَّفَعَتِ",
+      "translation": "berguna",
+      "transliteration": "nafaʿati"
+    },
+    {
+      "id": 10460,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_004.mp3",
+      "text": "ٱلذِّكْرَىٰ",
+      "translation": "peringatan",
+      "transliteration": "l-dhik'rā"
+    },
+    {
+      "id": 10461,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "oleh sebab itu, berikanlah peringatan karena peringatan itu bermanfaat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41320,
+    "timestamp_to": 46180,
+    "duration": 4860,
+    "segments": [
+      [
+        1,
+        41265,
+        42215
+      ],
+      [
+        2,
+        42215,
+        42565
+      ],
+      [
+        3,
+        42565,
+        44335
+      ],
+      [
+        4,
+        44335,
+        46100
+      ]
+    ]
+  }
+}

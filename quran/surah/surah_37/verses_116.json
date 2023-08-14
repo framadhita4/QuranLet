@@ -1,0 +1,86 @@
+{
+  "id": 3904,
+  "chapter_id": 37,
+  "verse_key": "37:116",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 75687,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_116_001.mp3",
+      "text": "وَنَصَرْنَـٰهُمْ",
+      "translation": "dan Kami menolong mereka",
+      "transliteration": "wanaṣarnāhum"
+    },
+    {
+      "id": 75688,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_116_002.mp3",
+      "text": "فَكَانُوا۟",
+      "translation": "maka adalah mereka",
+      "transliteration": "fakānū"
+    },
+    {
+      "id": 75689,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_116_003.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 75690,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_116_004.mp3",
+      "text": "ٱلْغَـٰلِبِينَ",
+      "translation": "orang-orang yang menang",
+      "transliteration": "l-ghālibīna"
+    },
+    {
+      "id": 75691,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١٦",
+      "translation": "(116)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tolong mereka, maka jadilah mereka orang-orang yang menang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 968320,
+    "timestamp_to": 974770,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        968255,
+        969895
+      ],
+      [
+        2,
+        969895,
+        971015
+      ],
+      [
+        3,
+        971015,
+        971385
+      ],
+      [
+        4,
+        971385,
+        974650
+      ]
+    ]
+  }
+}

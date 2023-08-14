@@ -1,0 +1,60 @@
+{
+  "id": 5013,
+  "chapter_id": 56,
+  "verse_key": "56:34",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَفُرُشٍ مَّرْفُوعَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 36358,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_034_001.mp3",
+      "text": "وَفُرُشٍۢ",
+      "translation": "dan hamparan/kasur-kasur",
+      "transliteration": "wafurushin"
+    },
+    {
+      "id": 36359,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_034_002.mp3",
+      "text": "مَّرْفُوعَةٍ",
+      "translation": "ditinggikan/tebal empuk",
+      "transliteration": "marfūʿatin"
+    },
+    {
+      "id": 36360,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kasur-kasur yang tebal lagi empuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 210690,
+    "timestamp_to": 214270,
+    "duration": 3580,
+    "segments": [
+      [
+        1,
+        210625,
+        211665
+      ],
+      [
+        2,
+        211665,
+        214160
+      ]
+    ]
+  }
+}

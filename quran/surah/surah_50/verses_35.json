@@ -1,0 +1,112 @@
+{
+  "id": 4665,
+  "chapter_id": 50,
+  "verse_key": "50:35",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 37516,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_035_001.mp3",
+      "text": "لَهُم",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 37517,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_035_002.mp3",
+      "text": "مَّا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 37518,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_035_003.mp3",
+      "text": "يَشَآءُونَ",
+      "translation": "mereka kehendaki",
+      "transliteration": "yashāūna"
+    },
+    {
+      "id": 37519,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_035_004.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 37520,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_035_005.mp3",
+      "text": "وَلَدَيْنَا",
+      "translation": "dan pada sisi Kami",
+      "transliteration": "waladaynā"
+    },
+    {
+      "id": 37521,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_035_006.mp3",
+      "text": "مَزِيدٌۭ",
+      "translation": "tambahan",
+      "transliteration": "mazīdun"
+    },
+    {
+      "id": 37522,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka di dalamnya memperoleh apa yang mereka kehendaki; dan pada sisi Kami ada tambahannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 411980,
+    "timestamp_to": 422790,
+    "duration": 10820,
+    "segments": [
+      [
+        1,
+        411895,
+        412495
+      ],
+      [
+        2,
+        412495,
+        413925
+      ],
+      [
+        3,
+        413925,
+        416645
+      ],
+      [
+        4,
+        416645,
+        417705
+      ],
+      [
+        5,
+        417705,
+        419145
+      ],
+      [
+        6,
+        419145,
+        422650
+      ]
+    ]
+  }
+}

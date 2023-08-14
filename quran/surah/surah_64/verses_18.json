@@ -1,0 +1,99 @@
+{
+  "id": 5217,
+  "chapter_id": 64,
+  "verse_key": "64:18",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 493,
+  "manzil_number": 7,
+  "page_number": 557,
+  "juz_number": 28,
+  "text_uthmani": "عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3",
+  "words": [
+    {
+      "id": 20696,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_018_001.mp3",
+      "text": "عَـٰلِمُ",
+      "translation": "Yang Mengetahui",
+      "transliteration": "ʿālimu"
+    },
+    {
+      "id": 20697,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_018_002.mp3",
+      "text": "ٱلْغَيْبِ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghaybi"
+    },
+    {
+      "id": 20698,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_018_003.mp3",
+      "text": "وَٱلشَّهَـٰدَةِ",
+      "translation": "dan yang nyata",
+      "transliteration": "wal-shahādati"
+    },
+    {
+      "id": 20699,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_018_004.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 20700,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_018_005.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 20701,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang mengetahui yang gaib dan yang nyata.  Yang Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 310000,
+    "timestamp_to": 319250,
+    "duration": 9250,
+    "segments": [
+      [
+        1,
+        309935,
+        310145
+      ],
+      [
+        2,
+        310145,
+        311525
+      ],
+      [
+        3,
+        311525,
+        313085
+      ],
+      [
+        4,
+        313085,
+        314185
+      ],
+      [
+        5,
+        314185,
+        319100
+      ]
+    ]
+  }
+}

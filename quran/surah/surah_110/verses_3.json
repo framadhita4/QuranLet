@@ -1,0 +1,125 @@
+{
+  "id": 6216,
+  "chapter_id": 110,
+  "verse_key": "110:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 554,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3",
+  "words": [
+    {
+      "id": 2607,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_001.mp3",
+      "text": "فَسَبِّحْ",
+      "translation": "maka bertasbihlah",
+      "transliteration": "fasabbiḥ"
+    },
+    {
+      "id": 2608,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_002.mp3",
+      "text": "بِحَمْدِ",
+      "translation": "dengan memuji",
+      "transliteration": "biḥamdi"
+    },
+    {
+      "id": 2609,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 2610,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_004.mp3",
+      "text": "وَٱسْتَغْفِرْهُ ۚ",
+      "translation": "dan mohonlah ampun",
+      "transliteration": "wa-is'taghfir'hu"
+    },
+    {
+      "id": 2612,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_006.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 2613,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_007.mp3",
+      "text": "كَانَ",
+      "translation": "adalah Dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 2614,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_003_008.mp3",
+      "text": "تَوَّابًۢا",
+      "translation": "Maha Penerima Taubat",
+      "transliteration": "tawwāban"
+    },
+    {
+      "id": 2615,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka bertasbihlah dengan memuji Tuhan-mu dan mohonlah ampun kepada-Nya.  Sesungguhnya Dia adalah Maha Penerima tobat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15100,
+    "timestamp_to": 25160,
+    "duration": 10060,
+    "segments": [
+      [
+        1,
+        14405,
+        15455
+      ],
+      [
+        2,
+        15455,
+        16255
+      ],
+      [
+        3,
+        16255,
+        17255
+      ],
+      [
+        4,
+        17255,
+        19015
+      ],
+      [
+        5,
+        19015,
+        20795
+      ],
+      [
+        6,
+        20795,
+        21545
+      ],
+      [
+        7,
+        21545,
+        23190
+      ]
+    ]
+  }
+}

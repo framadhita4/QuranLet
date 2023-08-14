@@ -1,0 +1,164 @@
+{
+  "id": 3626,
+  "chapter_id": 34,
+  "verse_key": "34:20",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "ruku_number": 373,
+  "manzil_number": 5,
+  "page_number": 430,
+  "juz_number": 22,
+  "text_uthmani": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3",
+  "words": [
+    {
+      "id": 23228,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 23229,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_002.mp3",
+      "text": "صَدَّقَ",
+      "translation": "telah membenarkan",
+      "transliteration": "ṣaddaqa"
+    },
+    {
+      "id": 23230,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_003.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 23231,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_004.mp3",
+      "text": "إِبْلِيسُ",
+      "translation": "iblis",
+      "transliteration": "ib'līsu"
+    },
+    {
+      "id": 23232,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_005.mp3",
+      "text": "ظَنَّهُۥ",
+      "translation": "sangkaannya",
+      "transliteration": "ẓannahu"
+    },
+    {
+      "id": 23233,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_006.mp3",
+      "text": "فَٱتَّبَعُوهُ",
+      "translation": "lalu mereka mengikutinya",
+      "transliteration": "fa-ittabaʿūhu"
+    },
+    {
+      "id": 23234,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_007.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 23235,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_008.mp3",
+      "text": "فَرِيقًۭا",
+      "translation": "segolongan/sebagian",
+      "transliteration": "farīqan"
+    },
+    {
+      "id": 23236,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_009.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 23237,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_020_010.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 23238,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya iblis telah dapat membuktikan kebenaran sangkaannya terhadap mereka, lalu mereka mengikutinya, kecuali sebagian orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 365270,
+    "timestamp_to": 376920,
+    "duration": 11650,
+    "segments": [
+      [
+        1,
+        365245,
+        365945
+      ],
+      [
+        2,
+        365945,
+        366775
+      ],
+      [
+        3,
+        366775,
+        367665
+      ],
+      [
+        4,
+        367665,
+        368545
+      ],
+      [
+        5,
+        368545,
+        370025
+      ],
+      [
+        6,
+        370025,
+        371355
+      ],
+      [
+        7,
+        371355,
+        372015
+      ],
+      [
+        8,
+        372015,
+        372855
+      ],
+      [
+        9,
+        372855,
+        374165
+      ],
+      [
+        10,
+        374165,
+        376840
+      ]
+    ]
+  }
+}

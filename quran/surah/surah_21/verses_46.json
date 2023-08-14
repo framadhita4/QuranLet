@@ -1,0 +1,187 @@
+{
+  "id": 2529,
+  "chapter_id": 21,
+  "verse_key": "21:46",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 281,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَـٰوَيْلَنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 46193,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_001.mp3",
+      "text": "وَلَئِن",
+      "translation": "dan jika",
+      "transliteration": "wala-in"
+    },
+    {
+      "id": 46194,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_002.mp3",
+      "text": "مَّسَّتْهُمْ",
+      "translation": "menimpa mereka",
+      "transliteration": "massathum"
+    },
+    {
+      "id": 46195,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_003.mp3",
+      "text": "نَفْحَةٌۭ",
+      "translation": "hembusan (sedikit)",
+      "transliteration": "nafḥatun"
+    },
+    {
+      "id": 46196,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 46197,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_005.mp3",
+      "text": "عَذَابِ",
+      "translation": "azab",
+      "transliteration": "ʿadhābi"
+    },
+    {
+      "id": 46198,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_006.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 46199,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_007.mp3",
+      "text": "لَيَقُولُنَّ",
+      "translation": "tentulah mereka berkata",
+      "transliteration": "layaqūlunna"
+    },
+    {
+      "id": 46200,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_008.mp3",
+      "text": "يَـٰوَيْلَنَآ",
+      "translation": "betapa celakanya kami",
+      "transliteration": "yāwaylanā"
+    },
+    {
+      "id": 46201,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_009.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 46202,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_010.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 46203,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_046_011.mp3",
+      "text": "ظَـٰلِمِينَ",
+      "translation": "orang-orang yang zalim",
+      "transliteration": "ẓālimīna"
+    },
+    {
+      "id": 46204,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, jika mereka ditimpa sedikit saja dari azab Tuhan-mu, pastilah mereka berkata, \"Aduhai, celakalah kami, bahwasanya kami adalah orang yang menganiaya diri sendiri\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 649370,
+    "timestamp_to": 671390,
+    "duration": 22020,
+    "segments": [
+      [
+        1,
+        649325,
+        650135
+      ],
+      [
+        2,
+        650135,
+        651965
+      ],
+      [
+        3,
+        651965,
+        653225
+      ],
+      [
+        4,
+        653225,
+        654305
+      ],
+      [
+        5,
+        654305,
+        655225
+      ],
+      [
+        6,
+        655225,
+        656055
+      ],
+      [
+        7,
+        656055,
+        658195
+      ],
+      [
+        8,
+        658195,
+        659805
+      ],
+      [
+        7,
+        659805,
+        662205
+      ],
+      [
+        8,
+        662205,
+        665255
+      ],
+      [
+        9,
+        665255,
+        666795
+      ],
+      [
+        10,
+        666795,
+        668045
+      ],
+      [
+        11,
+        668045,
+        671320
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6111,
+  "chapter_id": 96,
+  "verse_key": "96:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 5427,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_005_001.mp3",
+      "text": "عَلَّمَ",
+      "translation": "Dia mengajarkan",
+      "transliteration": "ʿallama"
+    },
+    {
+      "id": 5428,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_005_002.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 5429,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_005_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 5430,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_005_004.mp3",
+      "text": "لَمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 5431,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_005_005.mp3",
+      "text": "يَعْلَمْ",
+      "translation": "dia ketahui",
+      "transliteration": "yaʿlam"
+    },
+    {
+      "id": 5432,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia mengajarkan kepada manusia apa yang tidak diketahuinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15620,
+    "timestamp_to": 20660,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        15065,
+        15965
+      ],
+      [
+        2,
+        15965,
+        18075
+      ],
+      [
+        3,
+        18075,
+        18415
+      ],
+      [
+        4,
+        18415,
+        18835
+      ],
+      [
+        5,
+        18835,
+        19680
+      ]
+    ]
+  }
+}

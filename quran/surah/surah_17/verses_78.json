@@ -1,0 +1,216 @@
+{
+  "id": 2107,
+  "chapter_id": 17,
+  "verse_key": "17:78",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "ruku_number": 248,
+  "manzil_number": 4,
+  "page_number": 290,
+  "juz_number": 15,
+  "text_uthmani": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ ۖ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 63627,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_001.mp3",
+      "text": "أَقِمِ",
+      "translation": "dirikanlah",
+      "transliteration": "aqimi"
+    },
+    {
+      "id": 63628,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_002.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 63629,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_003.mp3",
+      "text": "لِدُلُوكِ",
+      "translation": "dari tergelincir",
+      "transliteration": "lidulūki"
+    },
+    {
+      "id": 63630,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_004.mp3",
+      "text": "ٱلشَّمْسِ",
+      "translation": "matahari",
+      "transliteration": "l-shamsi"
+    },
+    {
+      "id": 63631,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_005.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 63632,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_006.mp3",
+      "text": "غَسَقِ",
+      "translation": "gelap",
+      "transliteration": "ghasaqi"
+    },
+    {
+      "id": 63633,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_007.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 63634,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_008.mp3",
+      "text": "وَقُرْءَانَ",
+      "translation": "dan bacaan",
+      "transliteration": "waqur'āna"
+    },
+    {
+      "id": 63635,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_009.mp3",
+      "text": "ٱلْفَجْرِ ۖ",
+      "translation": "fajar",
+      "transliteration": "l-fajri"
+    },
+    {
+      "id": 63637,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_011.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 63638,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_012.mp3",
+      "text": "قُرْءَانَ",
+      "translation": "bacaan",
+      "transliteration": "qur'āna"
+    },
+    {
+      "id": 63639,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_013.mp3",
+      "text": "ٱلْفَجْرِ",
+      "translation": "fajar",
+      "transliteration": "l-fajri"
+    },
+    {
+      "id": 63640,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_014.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 63641,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_078_015.mp3",
+      "text": "مَشْهُودًۭا",
+      "translation": "disaksikan",
+      "transliteration": "mashhūdan"
+    },
+    {
+      "id": 63642,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dirikanlah salat dari sesudah matahari tergelincir sampai gelap malam dan (dirikanlah pula salat) subuh. Sesungguhnya salat subuh <sup foot_note_id=\"864\">1</sup> itu disaksikan (oleh malaikat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1382930,
+    "timestamp_to": 1396720,
+    "duration": 13790,
+    "segments": [
+      [
+        1,
+        1382855,
+        1383535
+      ],
+      [
+        2,
+        1383535,
+        1384635
+      ],
+      [
+        3,
+        1384635,
+        1385695
+      ],
+      [
+        4,
+        1385695,
+        1386675
+      ],
+      [
+        5,
+        1386675,
+        1387255
+      ],
+      [
+        6,
+        1387255,
+        1387945
+      ],
+      [
+        7,
+        1387945,
+        1388805
+      ],
+      [
+        8,
+        1388805,
+        1390025
+      ],
+      [
+        9,
+        1390025,
+        1390775
+      ],
+      [
+        10,
+        1390775,
+        1392215
+      ],
+      [
+        11,
+        1392215,
+        1393225
+      ],
+      [
+        12,
+        1393225,
+        1394225
+      ],
+      [
+        13,
+        1394225,
+        1394875
+      ],
+      [
+        14,
+        1394875,
+        1396350
+      ]
+    ]
+  }
+}

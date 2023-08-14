@@ -1,0 +1,99 @@
+{
+  "id": 3101,
+  "chapter_id": 26,
+  "verse_key": "26:169",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 82713,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_169_001.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 82714,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_169_002.mp3",
+      "text": "نَجِّنِى",
+      "translation": "selamatkanlah aku",
+      "transliteration": "najjinī"
+    },
+    {
+      "id": 82715,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_169_003.mp3",
+      "text": "وَأَهْلِى",
+      "translation": "dan keluargaku",
+      "transliteration": "wa-ahlī"
+    },
+    {
+      "id": 82716,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_169_004.mp3",
+      "text": "مِمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 82717,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_169_005.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 82718,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦٩",
+      "translation": "(169)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Lūṭ berdoa), \"Ya Tuhan-ku, selamatkanlah aku beserta keluargaku dari (akibat) perbuatan yang mereka kerjakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1476030,
+    "timestamp_to": 1483680,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        1475965,
+        1476575
+      ],
+      [
+        2,
+        1476575,
+        1477695
+      ],
+      [
+        3,
+        1477695,
+        1478735
+      ],
+      [
+        4,
+        1478735,
+        1480335
+      ],
+      [
+        5,
+        1480335,
+        1483560
+      ]
+    ]
+  }
+}

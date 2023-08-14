@@ -1,0 +1,138 @@
+{
+  "id": 5890,
+  "chapter_id": 84,
+  "verse_key": "84:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 6720,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 6721,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 6722,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_003.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 6723,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_004.mp3",
+      "text": "كَادِحٌ",
+      "translation": "bekerja keras",
+      "transliteration": "kādiḥun"
+    },
+    {
+      "id": 6724,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_005.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 6725,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_006.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 6726,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_007.mp3",
+      "text": "كَدْحًۭا",
+      "translation": "sungguh-sungguh kerja keras",
+      "transliteration": "kadḥan"
+    },
+    {
+      "id": 6727,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_006_008.mp3",
+      "text": "فَمُلَـٰقِيهِ",
+      "translation": "maka menemuinya",
+      "transliteration": "famulāqīhi"
+    },
+    {
+      "id": 6728,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai manusia, sesungguhnya kamu telah bekerja dengan sungguh-sungguh menuju Tuhan-mu, maka pasti kamu akan menemui-Nya<sup foot_note_id=\"1566\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19900,
+    "timestamp_to": 33510,
+    "duration": 13610,
+    "segments": [
+      [
+        1,
+        19835,
+        22435
+      ],
+      [
+        2,
+        22435,
+        24685
+      ],
+      [
+        3,
+        24685,
+        26065
+      ],
+      [
+        4,
+        26065,
+        27185
+      ],
+      [
+        5,
+        27185,
+        27725
+      ],
+      [
+        6,
+        27725,
+        28585
+      ],
+      [
+        7,
+        28585,
+        30055
+      ],
+      [
+        8,
+        30055,
+        33420
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 2718,
+  "chapter_id": 23,
+  "verse_key": "23:45",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَـٰرُونَ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 45465,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 45466,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_002.mp3",
+      "text": "أَرْسَلْنَا",
+      "translation": "Kami utus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 45467,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_003.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 45468,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_004.mp3",
+      "text": "وَأَخَاهُ",
+      "translation": "dan saudaranya",
+      "transliteration": "wa-akhāhu"
+    },
+    {
+      "id": 45469,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_005.mp3",
+      "text": "هَـٰرُونَ",
+      "translation": "Harun",
+      "transliteration": "hārūna"
+    },
+    {
+      "id": 45470,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_006.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "dengan ayat-ayat kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 45471,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_007.mp3",
+      "text": "وَسُلْطَـٰنٍۢ",
+      "translation": "dan kekuasaan/keterangan",
+      "transliteration": "wasul'ṭānin"
+    },
+    {
+      "id": 45472,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_045_008.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 45473,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami utus Musa dan saudaranya Hārūn dengan membawa tanda-tanda (kebesaran) Kami dan bukti yang nyata <sup foot_note_id=\"1004\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 611770,
+    "timestamp_to": 623630,
+    "duration": 11860,
+    "segments": [
+      [
+        1,
+        611715,
+        613255
+      ],
+      [
+        2,
+        613255,
+        614465
+      ],
+      [
+        3,
+        614465,
+        615255
+      ],
+      [
+        4,
+        615255,
+        616355
+      ],
+      [
+        5,
+        616355,
+        617325
+      ],
+      [
+        6,
+        617325,
+        618935
+      ],
+      [
+        7,
+        618935,
+        620135
+      ],
+      [
+        8,
+        620135,
+        623550
+      ]
+    ]
+  }
+}

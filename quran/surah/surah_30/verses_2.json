@@ -1,0 +1,60 @@
+{
+  "id": 3411,
+  "chapter_id": 30,
+  "verse_key": "30:2",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 404,
+  "juz_number": 21,
+  "text_uthmani": "غُلِبَتِ ٱلرُّومُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 1843,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_002_001.mp3",
+      "text": "غُلِبَتِ",
+      "translation": "Telah dikalahkan",
+      "transliteration": "ghulibati"
+    },
+    {
+      "id": 1844,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_002_002.mp3",
+      "text": "ٱلرُّومُ",
+      "translation": "bangsa Romawi",
+      "transliteration": "l-rūmu"
+    },
+    {
+      "id": 1845,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Telah dikalahkan bangsa Romawi <sup foot_note_id=\"1161\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9720,
+    "timestamp_to": 14060,
+    "duration": 4340,
+    "segments": [
+      [
+        1,
+        9685,
+        10825
+      ],
+      [
+        2,
+        10825,
+        13770
+      ]
+    ]
+  }
+}

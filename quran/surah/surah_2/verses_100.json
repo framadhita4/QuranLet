@@ -1,0 +1,164 @@
+{
+  "id": 107,
+  "chapter_id": 2,
+  "verse_key": "2:100",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "ruku_number": 13,
+  "manzil_number": 1,
+  "page_number": 15,
+  "juz_number": 1,
+  "text_uthmani": "أَوَكُلَّمَا عَـٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 71363,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_001.mp3",
+      "text": "أَوَكُلَّمَا",
+      "translation": "Apakah setiap kali",
+      "transliteration": "awakullamā"
+    },
+    {
+      "id": 71364,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_002.mp3",
+      "text": "عَـٰهَدُوا۟",
+      "translation": "mereka berjanji",
+      "transliteration": "ʿāhadū"
+    },
+    {
+      "id": 71365,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_003.mp3",
+      "text": "عَهْدًۭا",
+      "translation": "janji",
+      "transliteration": "ʿahdan"
+    },
+    {
+      "id": 71366,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_004.mp3",
+      "text": "نَّبَذَهُۥ",
+      "translation": "melemparkannya",
+      "transliteration": "nabadhahu"
+    },
+    {
+      "id": 71367,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_005.mp3",
+      "text": "فَرِيقٌۭ",
+      "translation": "segolongan",
+      "transliteration": "farīqun"
+    },
+    {
+      "id": 71368,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_006.mp3",
+      "text": "مِّنْهُم ۚ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 71370,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_008.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 71371,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_009.mp3",
+      "text": "أَكْثَرُهُمْ",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharuhum"
+    },
+    {
+      "id": 71372,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 71373,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_100_011.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 71374,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠٠",
+      "translation": "(100)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Patutkah (mereka ingkar kepada ayat-ayat Allah)? Dan setiap kali mereka mengikat janji, segolongan mereka melemparkannya.  Bahkan sebagian besar dari mereka tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2064910,
+    "timestamp_to": 2077340,
+    "duration": 12440,
+    "segments": [
+      [
+        1,
+        2064855,
+        2066325
+      ],
+      [
+        2,
+        2066325,
+        2067305
+      ],
+      [
+        3,
+        2067305,
+        2067995
+      ],
+      [
+        4,
+        2067995,
+        2069765
+      ],
+      [
+        5,
+        2069765,
+        2070595
+      ],
+      [
+        6,
+        2070595,
+        2072805
+      ],
+      [
+        7,
+        2072805,
+        2073165
+      ],
+      [
+        8,
+        2073165,
+        2074305
+      ],
+      [
+        9,
+        2074305,
+        2074705
+      ],
+      [
+        10,
+        2074705,
+        2077230
+      ]
+    ]
+  }
+}

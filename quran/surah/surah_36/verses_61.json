@@ -1,0 +1,99 @@
+{
+  "id": 3766,
+  "chapter_id": 36,
+  "verse_key": "36:61",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 55338,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_001.mp3",
+      "text": "وَأَنِ",
+      "translation": "dan hendaklah",
+      "transliteration": "wa-ani"
+    },
+    {
+      "id": 55339,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_002.mp3",
+      "text": "ٱعْبُدُونِى ۚ",
+      "translation": "kamu menyembah-Ku",
+      "transliteration": "uʿ'budūnī"
+    },
+    {
+      "id": 55341,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_004.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 55342,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_005.mp3",
+      "text": "صِرَٰطٌۭ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭun"
+    },
+    {
+      "id": 55343,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_006.mp3",
+      "text": "مُّسْتَقِيمٌۭ",
+      "translation": "lurus",
+      "transliteration": "mus'taqīmun"
+    },
+    {
+      "id": 55344,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan hendaklah kamu menyembah-Ku. Inilah jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 762610,
+    "timestamp_to": 771960,
+    "duration": 9350,
+    "segments": [
+      [
+        1,
+        762535,
+        763195
+      ],
+      [
+        2,
+        763195,
+        765045
+      ],
+      [
+        3,
+        765045,
+        765835
+      ],
+      [
+        4,
+        765835,
+        767195
+      ],
+      [
+        5,
+        767195,
+        771860
+      ]
+    ]
+  }
+}

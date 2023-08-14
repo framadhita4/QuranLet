@@ -1,0 +1,73 @@
+{
+  "id": 4799,
+  "chapter_id": 53,
+  "verse_key": "53:15",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 17245,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_015_001.mp3",
+      "text": "عِندَهَا",
+      "translation": "di sisinya",
+      "transliteration": "ʿindahā"
+    },
+    {
+      "id": 17246,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_015_002.mp3",
+      "text": "جَنَّةُ",
+      "translation": "surga",
+      "transliteration": "jannatu"
+    },
+    {
+      "id": 17247,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_015_003.mp3",
+      "text": "ٱلْمَأْوَىٰٓ",
+      "translation": "tempat tinggal",
+      "transliteration": "l-mawā"
+    },
+    {
+      "id": 17248,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dekatnya ada surga tempat tinggal,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65150,
+    "timestamp_to": 70560,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        64695,
+        66625
+      ],
+      [
+        2,
+        66625,
+        68365
+      ],
+      [
+        3,
+        68365,
+        69660
+      ]
+    ]
+  }
+}

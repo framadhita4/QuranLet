@@ -1,0 +1,164 @@
+{
+  "id": 3495,
+  "chapter_id": 31,
+  "verse_key": "31:26",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 358,
+  "manzil_number": 5,
+  "page_number": 413,
+  "juz_number": 21,
+  "text_uthmani": "لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3",
+  "words": [
+    {
+      "id": 29252,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_001.mp3",
+      "text": "لِلَّهِ",
+      "translation": "kepunyaan Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 29253,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_002.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 29254,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 29255,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 29256,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_005.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan dibumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 29258,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_007.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 29259,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_008.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 29260,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_009.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 29261,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_010.mp3",
+      "text": "ٱلْغَنِىُّ",
+      "translation": "Maha Kaya",
+      "transliteration": "l-ghaniyu"
+    },
+    {
+      "id": 29262,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_026_011.mp3",
+      "text": "ٱلْحَمِيدُ",
+      "translation": "Maha Terpuji",
+      "transliteration": "l-ḥamīdu"
+    },
+    {
+      "id": 29263,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kepunyaan Allah-lah apa yang di langit dan yang di bumi.  Sesungguhnya Allah Dia-lah Yang Maha Kaya lagi Maha Terpuji.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 445370,
+    "timestamp_to": 455510,
+    "duration": 10140,
+    "segments": [
+      [
+        1,
+        445315,
+        446295
+      ],
+      [
+        2,
+        446295,
+        446635
+      ],
+      [
+        3,
+        446635,
+        446845
+      ],
+      [
+        4,
+        446845,
+        448165
+      ],
+      [
+        5,
+        448165,
+        449385
+      ],
+      [
+        6,
+        449385,
+        450255
+      ],
+      [
+        7,
+        450255,
+        451105
+      ],
+      [
+        8,
+        451105,
+        451435
+      ],
+      [
+        9,
+        451435,
+        452415
+      ],
+      [
+        10,
+        452415,
+        455430
+      ]
+    ]
+  }
+}

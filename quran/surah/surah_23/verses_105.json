@@ -1,0 +1,138 @@
+{
+  "id": 2778,
+  "chapter_id": 23,
+  "verse_key": "23:105",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 349,
+  "juz_number": 18,
+  "text_uthmani": "أَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 72847,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "apakah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 72848,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_002.mp3",
+      "text": "تَكُنْ",
+      "translation": "tidak ada/tidakkah",
+      "transliteration": "takun"
+    },
+    {
+      "id": 72849,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_003.mp3",
+      "text": "ءَايَـٰتِى",
+      "translation": "ayat-ayat-Ku",
+      "transliteration": "āyātī"
+    },
+    {
+      "id": 72850,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_004.mp3",
+      "text": "تُتْلَىٰ",
+      "translation": "dibacakan",
+      "transliteration": "tut'lā"
+    },
+    {
+      "id": 72851,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_005.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 72852,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_006.mp3",
+      "text": "فَكُنتُم",
+      "translation": "maka adalah kamu",
+      "transliteration": "fakuntum"
+    },
+    {
+      "id": 72853,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_007.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 72854,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_105_008.mp3",
+      "text": "تُكَذِّبُونَ",
+      "translation": "kamu mendustakan",
+      "transliteration": "tukadhibūna"
+    },
+    {
+      "id": 72855,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٠٥",
+      "translation": "(105)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah ayat-ayat-Ku telah dibacakan kepadamu sekalian, tetapi kamu selalu mendustakannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1301080,
+    "timestamp_to": 1312310,
+    "duration": 11230,
+    "segments": [
+      [
+        1,
+        1301045,
+        1301665
+      ],
+      [
+        2,
+        1301665,
+        1302325
+      ],
+      [
+        3,
+        1302325,
+        1303545
+      ],
+      [
+        4,
+        1303545,
+        1304385
+      ],
+      [
+        5,
+        1304385,
+        1305395
+      ],
+      [
+        6,
+        1305395,
+        1307575
+      ],
+      [
+        7,
+        1307575,
+        1308525
+      ],
+      [
+        8,
+        1308525,
+        1312250
+      ]
+    ]
+  }
+}

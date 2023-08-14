@@ -1,0 +1,164 @@
+{
+  "id": 2458,
+  "chapter_id": 20,
+  "verse_key": "20:110",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "page_number": 319,
+  "juz_number": 16,
+  "text_uthmani": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 74109,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_001.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 74110,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_002.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 74111,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_003.mp3",
+      "text": "بَيْنَ",
+      "translation": "diantara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 74112,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_004.mp3",
+      "text": "أَيْدِيهِمْ",
+      "translation": "hadapan mereka",
+      "transliteration": "aydīhim"
+    },
+    {
+      "id": 74113,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa yang",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 74114,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_006.mp3",
+      "text": "خَلْفَهُمْ",
+      "translation": "belakang mereka",
+      "transliteration": "khalfahum"
+    },
+    {
+      "id": 74115,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_007.mp3",
+      "text": "وَلَا",
+      "translation": "dan mereka tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 74116,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_008.mp3",
+      "text": "يُحِيطُونَ",
+      "translation": "meliputi",
+      "transliteration": "yuḥīṭūna"
+    },
+    {
+      "id": 74117,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_009.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengan-Nya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 74118,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_110_010.mp3",
+      "text": "عِلْمًۭا",
+      "translation": "ilmu",
+      "transliteration": "ʿil'man"
+    },
+    {
+      "id": 74119,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١٠",
+      "translation": "(110)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka, sedang ilmu mereka tidak dapat meliputi ilmu-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1257720,
+    "timestamp_to": 1266920,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        1257695,
+        1258675
+      ],
+      [
+        2,
+        1258675,
+        1259055
+      ],
+      [
+        3,
+        1259055,
+        1259665
+      ],
+      [
+        4,
+        1259665,
+        1261045
+      ],
+      [
+        5,
+        1261045,
+        1261505
+      ],
+      [
+        6,
+        1261505,
+        1262845
+      ],
+      [
+        7,
+        1262845,
+        1263475
+      ],
+      [
+        8,
+        1263475,
+        1264765
+      ],
+      [
+        9,
+        1264765,
+        1265495
+      ],
+      [
+        10,
+        1265495,
+        1266500
+      ]
+    ]
+  }
+}

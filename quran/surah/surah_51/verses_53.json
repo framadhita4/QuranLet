@@ -1,0 +1,112 @@
+{
+  "id": 4728,
+  "chapter_id": 51,
+  "verse_key": "51:53",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 50463,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_053_001.mp3",
+      "text": "أَتَوَاصَوْا۟",
+      "translation": "apakah mereka saling berwasiat",
+      "transliteration": "atawāṣaw"
+    },
+    {
+      "id": 50464,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_053_002.mp3",
+      "text": "بِهِۦ ۚ",
+      "translation": "tentang itu",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 50466,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_053_004.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 50467,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_053_005.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 50468,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_053_006.mp3",
+      "text": "قَوْمٌۭ",
+      "translation": "kaum",
+      "transliteration": "qawmun"
+    },
+    {
+      "id": 50469,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_053_007.mp3",
+      "text": "طَاغُونَ",
+      "translation": "melampaui batas",
+      "transliteration": "ṭāghūna"
+    },
+    {
+      "id": 50470,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah mereka saling berpesan tentang apa yang dikatakan itu.  Sebenarnya mereka adalah kaum yang melampaui batas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 465070,
+    "timestamp_to": 473350,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        464975,
+        466325
+      ],
+      [
+        2,
+        466325,
+        467275
+      ],
+      [
+        3,
+        467275,
+        467795
+      ],
+      [
+        4,
+        467795,
+        468245
+      ],
+      [
+        5,
+        468245,
+        469445
+      ],
+      [
+        6,
+        469445,
+        473200
+      ]
+    ]
+  }
+}

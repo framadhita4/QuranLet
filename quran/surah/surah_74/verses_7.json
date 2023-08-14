@@ -1,0 +1,60 @@
+{
+  "id": 5502,
+  "chapter_id": 74,
+  "verse_key": "74:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَلِرَبِّكَ فَٱصْبِرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 7947,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_007_001.mp3",
+      "text": "وَلِرَبِّكَ",
+      "translation": "dan untuk Tuhanmu",
+      "transliteration": "walirabbika"
+    },
+    {
+      "id": 7948,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_007_002.mp3",
+      "text": "فَٱصْبِرْ",
+      "translation": "maka bersabarlah",
+      "transliteration": "fa-iṣ'bir"
+    },
+    {
+      "id": 7949,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan untuk (memenuhi perintah) Tuhan-mu, bersabarlah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 18630,
+    "timestamp_to": 21090,
+    "duration": 2460,
+    "segments": [
+      [
+        1,
+        18545,
+        19675
+      ],
+      [
+        2,
+        19675,
+        20940
+      ]
+    ]
+  }
+}

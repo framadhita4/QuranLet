@@ -1,0 +1,73 @@
+{
+  "id": 4818,
+  "chapter_id": 53,
+  "verse_key": "53:34",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 36342,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_034_001.mp3",
+      "text": "وَأَعْطَىٰ",
+      "translation": "dan Dia memberi",
+      "transliteration": "wa-aʿṭā"
+    },
+    {
+      "id": 36343,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_034_002.mp3",
+      "text": "قَلِيلًۭا",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 36344,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_034_003.mp3",
+      "text": "وَأَكْدَىٰٓ",
+      "translation": "dan Dia menahan/tidak memberi",
+      "transliteration": "wa-akdā"
+    },
+    {
+      "id": 36345,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Serta memberi sedikit dan tidak mau memberi lagi?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 308690,
+    "timestamp_to": 313290,
+    "duration": 4600,
+    "segments": [
+      [
+        1,
+        308215,
+        309345
+      ],
+      [
+        2,
+        309345,
+        310395
+      ],
+      [
+        3,
+        310395,
+        312380
+      ]
+    ]
+  }
+}

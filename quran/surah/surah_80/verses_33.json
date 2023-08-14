@@ -1,0 +1,73 @@
+{
+  "id": 5791,
+  "chapter_id": 80,
+  "verse_key": "80:33",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 35590,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_033_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 35591,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_033_002.mp3",
+      "text": "جَآءَتِ",
+      "translation": "telah datang",
+      "transliteration": "jāati"
+    },
+    {
+      "id": 35592,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_033_003.mp3",
+      "text": "ٱلصَّآخَّةُ",
+      "translation": "suara memekakan",
+      "transliteration": "l-ṣākhatu"
+    },
+    {
+      "id": 35593,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila datang suara yang memekakkan (tiupan sangkakala yang kedua),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 143580,
+    "timestamp_to": 151130,
+    "duration": 7550,
+    "segments": [
+      [
+        1,
+        143455,
+        144125
+      ],
+      [
+        2,
+        144125,
+        146754
+      ],
+      [
+        3,
+        146755,
+        150840
+      ]
+    ]
+  }
+}

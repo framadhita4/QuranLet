@@ -1,0 +1,125 @@
+{
+  "id": 874,
+  "chapter_id": 6,
+  "verse_key": "6:85",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "ruku_number": 111,
+  "manzil_number": 2,
+  "page_number": 138,
+  "juz_number": 7,
+  "text_uthmani": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 66284,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_001.mp3",
+      "text": "وَزَكَرِيَّا",
+      "translation": "dan Zakaria",
+      "transliteration": "wazakariyyā"
+    },
+    {
+      "id": 66285,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_002.mp3",
+      "text": "وَيَحْيَىٰ",
+      "translation": "dan Yahya",
+      "transliteration": "wayaḥyā"
+    },
+    {
+      "id": 66286,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_003.mp3",
+      "text": "وَعِيسَىٰ",
+      "translation": "dan Isa",
+      "transliteration": "waʿīsā"
+    },
+    {
+      "id": 66287,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_004.mp3",
+      "text": "وَإِلْيَاسَ ۖ",
+      "translation": "dan Ilyas",
+      "transliteration": "wa-il'yāsa"
+    },
+    {
+      "id": 66289,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_006.mp3",
+      "text": "كُلٌّۭ",
+      "translation": "semuanya",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 66290,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_007.mp3",
+      "text": "مِّنَ",
+      "translation": "termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 66291,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_085_008.mp3",
+      "text": "ٱلصَّـٰلِحِينَ",
+      "translation": "orang-orang yang soleh",
+      "transliteration": "l-ṣāliḥīna"
+    },
+    {
+      "id": 66292,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Zakariyyā, Yaḥyā, ʻIsa,  dan Ilyās. Semuanya termasuk orang-orang yang saleh, <sup foot_note_id=\"491\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2006280,
+    "timestamp_to": 2018610,
+    "duration": 12330,
+    "segments": [
+      [
+        1,
+        2006235,
+        2007745
+      ],
+      [
+        2,
+        2007745,
+        2008825
+      ],
+      [
+        3,
+        2008825,
+        2009835
+      ],
+      [
+        4,
+        2009835,
+        2013265
+      ],
+      [
+        5,
+        2013265,
+        2013855
+      ],
+      [
+        6,
+        2013855,
+        2015325
+      ],
+      [
+        7,
+        2015325,
+        2018520
+      ]
+    ]
+  }
+}

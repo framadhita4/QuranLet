@@ -1,0 +1,73 @@
+{
+  "id": 5575,
+  "chapter_id": 75,
+  "verse_key": "75:24",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 27414,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_024_001.mp3",
+      "text": "وَوُجُوهٌۭ",
+      "translation": "dan wajah-wajah",
+      "transliteration": "wawujūhun"
+    },
+    {
+      "id": 27415,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_024_002.mp3",
+      "text": "يَوْمَئِذٍۭ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 27416,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_024_003.mp3",
+      "text": "بَاسِرَةٌۭ",
+      "translation": "masam/muram",
+      "transliteration": "bāsiratun"
+    },
+    {
+      "id": 27417,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan wajah-wajah (orang kafir) pada hari itu muram,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 112090,
+    "timestamp_to": 117450,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        112015,
+        113145
+      ],
+      [
+        2,
+        113145,
+        115855
+      ],
+      [
+        3,
+        115855,
+        117300
+      ]
+    ]
+  }
+}

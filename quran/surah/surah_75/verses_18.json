@@ -1,0 +1,86 @@
+{
+  "id": 5569,
+  "chapter_id": 75,
+  "verse_key": "75:18",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 20644,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_018_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 20645,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_018_002.mp3",
+      "text": "قَرَأْنَـٰهُ",
+      "translation": "Kami telah membacakannya",
+      "transliteration": "qaranāhu"
+    },
+    {
+      "id": 20646,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_018_003.mp3",
+      "text": "فَٱتَّبِعْ",
+      "translation": "maka ikutilah",
+      "transliteration": "fa-ittabiʿ"
+    },
+    {
+      "id": 20647,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_018_004.mp3",
+      "text": "قُرْءَانَهُۥ",
+      "translation": "bacaannya",
+      "transliteration": "qur'ānahu"
+    },
+    {
+      "id": 20648,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87560,
+    "timestamp_to": 92370,
+    "duration": 4810,
+    "segments": [
+      [
+        1,
+        87485,
+        88285
+      ],
+      [
+        2,
+        88285,
+        89565
+      ],
+      [
+        3,
+        89565,
+        90495
+      ],
+      [
+        4,
+        90495,
+        92100
+      ]
+    ]
+  }
+}

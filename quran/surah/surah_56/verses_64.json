@@ -1,0 +1,99 @@
+{
+  "id": 5043,
+  "chapter_id": 56,
+  "verse_key": "56:64",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 56676,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_064_001.mp3",
+      "text": "ءَأَنتُمْ",
+      "translation": "apakah kamu",
+      "transliteration": "a-antum"
+    },
+    {
+      "id": 56677,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_064_002.mp3",
+      "text": "تَزْرَعُونَهُۥٓ",
+      "translation": "kamu menanamnya",
+      "transliteration": "tazraʿūnahu"
+    },
+    {
+      "id": 56678,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_064_003.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 56679,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_064_004.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 56680,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_064_005.mp3",
+      "text": "ٱلزَّٰرِعُونَ",
+      "translation": "penanam(nya)",
+      "transliteration": "l-zāriʿūna"
+    },
+    {
+      "id": 56681,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamukah yang menumbuhkannya atau Kami-kah yang menumbuhkannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 443150,
+    "timestamp_to": 452870,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        443075,
+        444995
+      ],
+      [
+        2,
+        444995,
+        448035
+      ],
+      [
+        3,
+        448035,
+        448525
+      ],
+      [
+        4,
+        448525,
+        449135
+      ],
+      [
+        5,
+        449135,
+        452700
+      ]
+    ]
+  }
+}

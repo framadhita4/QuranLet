@@ -1,0 +1,60 @@
+{
+  "id": 4841,
+  "chapter_id": 53,
+  "verse_key": "53:57",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 53029,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_057_001.mp3",
+      "text": "أَزِفَتِ",
+      "translation": "telah dekat",
+      "transliteration": "azifati"
+    },
+    {
+      "id": 53030,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_057_002.mp3",
+      "text": "ٱلْـَٔازِفَةُ",
+      "translation": "kiamat",
+      "transliteration": "l-āzifatu"
+    },
+    {
+      "id": 53031,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Telah dekat terjadinya hari kiamat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 434630,
+    "timestamp_to": 437240,
+    "duration": 2610,
+    "segments": [
+      [
+        1,
+        434215,
+        435095
+      ],
+      [
+        2,
+        435095,
+        436800
+      ]
+    ]
+  }
+}

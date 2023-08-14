@@ -1,0 +1,60 @@
+{
+  "id": 6201,
+  "chapter_id": 107,
+  "verse_key": "107:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "words": [
+    {
+      "id": 3903,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_004_001.mp3",
+      "text": "فَوَيْلٌۭ",
+      "translation": "maka celakalah",
+      "transliteration": "fawaylun"
+    },
+    {
+      "id": 3904,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_004_002.mp3",
+      "text": "لِّلْمُصَلِّينَ",
+      "translation": "orang yang sholat",
+      "transliteration": "lil'muṣallīna"
+    },
+    {
+      "id": 3905,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kecelakaanlah bagi orang-orang yang salat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20010,
+    "timestamp_to": 25730,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        19945,
+        20875
+      ],
+      [
+        2,
+        20875,
+        25310
+      ]
+    ]
+  }
+}

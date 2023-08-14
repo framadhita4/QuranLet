@@ -1,0 +1,164 @@
+{
+  "id": 1182,
+  "chapter_id": 8,
+  "verse_key": "8:22",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "ruku_number": 148,
+  "manzil_number": 2,
+  "page_number": 179,
+  "juz_number": 9,
+  "text_uthmani": "۞ إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 24683,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_002.mp3",
+      "text": "۞ إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 24684,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_003.mp3",
+      "text": "شَرَّ",
+      "translation": "seburuk-buruk",
+      "transliteration": "sharra"
+    },
+    {
+      "id": 24685,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_004.mp3",
+      "text": "ٱلدَّوَآبِّ",
+      "translation": "binatang",
+      "transliteration": "l-dawābi"
+    },
+    {
+      "id": 24686,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_005.mp3",
+      "text": "عِندَ",
+      "translation": "disisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 24687,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 24688,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_007.mp3",
+      "text": "ٱلصُّمُّ",
+      "translation": "tuli",
+      "transliteration": "l-ṣumu"
+    },
+    {
+      "id": 24689,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_008.mp3",
+      "text": "ٱلْبُكْمُ",
+      "translation": "bisu",
+      "transliteration": "l-buk'mu"
+    },
+    {
+      "id": 24690,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_009.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 24691,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 24692,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_022_011.mp3",
+      "text": "يَعْقِلُونَ",
+      "translation": "mereka mengerti",
+      "transliteration": "yaʿqilūna"
+    },
+    {
+      "id": 24693,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya binatang (makhluk) yang seburuk-buruknya pada sisi Allah ialah orang-orang yang pekak dan bisu<sup foot_note_id=\"604\">1</sup> yang tidak mengerti apa-apa pun.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 440070,
+    "timestamp_to": 456080,
+    "duration": 16010,
+    "segments": [
+      [
+        1,
+        440025,
+        441545
+      ],
+      [
+        2,
+        441545,
+        442215
+      ],
+      [
+        3,
+        442215,
+        446305
+      ],
+      [
+        4,
+        446305,
+        447535
+      ],
+      [
+        5,
+        447535,
+        448555
+      ],
+      [
+        6,
+        448555,
+        450085
+      ],
+      [
+        7,
+        450085,
+        451085
+      ],
+      [
+        8,
+        451085,
+        452235
+      ],
+      [
+        9,
+        452235,
+        452825
+      ],
+      [
+        10,
+        452825,
+        455980
+      ]
+    ]
+  }
+}

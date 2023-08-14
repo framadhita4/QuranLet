@@ -1,0 +1,99 @@
+{
+  "id": 4591,
+  "chapter_id": 48,
+  "verse_key": "48:8",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "ruku_number": 448,
+  "manzil_number": 6,
+  "page_number": 511,
+  "juz_number": 26,
+  "text_uthmani": "إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3",
+  "words": [
+    {
+      "id": 8672,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_008_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 8673,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_008_002.mp3",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation": "Kami mengutus kamu",
+      "transliteration": "arsalnāka"
+    },
+    {
+      "id": 8674,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_008_003.mp3",
+      "text": "شَـٰهِدًۭا",
+      "translation": "sebagai saksi",
+      "transliteration": "shāhidan"
+    },
+    {
+      "id": 8675,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_008_004.mp3",
+      "text": "وَمُبَشِّرًۭا",
+      "translation": "dan pembawa kabar gembira",
+      "transliteration": "wamubashiran"
+    },
+    {
+      "id": 8676,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_008_005.mp3",
+      "text": "وَنَذِيرًۭا",
+      "translation": "dan pemberi peringatan",
+      "transliteration": "wanadhīran"
+    },
+    {
+      "id": 8677,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami mengutus kamu sebagai saksi, pembawa berita gembira, dan pemberi peringatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 125520,
+    "timestamp_to": 135710,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        124885,
+        128005
+      ],
+      [
+        2,
+        128005,
+        129475
+      ],
+      [
+        3,
+        129475,
+        130475
+      ],
+      [
+        4,
+        130475,
+        132355
+      ],
+      [
+        5,
+        132355,
+        135050
+      ]
+    ]
+  }
+}

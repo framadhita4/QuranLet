@@ -1,0 +1,86 @@
+{
+  "id": 5383,
+  "chapter_id": 70,
+  "verse_key": "70:8",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 9081,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_008_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 9082,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_008_002.mp3",
+      "text": "تَكُونُ",
+      "translation": "adalah",
+      "transliteration": "takūnu"
+    },
+    {
+      "id": 9083,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_008_003.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 9084,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_008_004.mp3",
+      "text": "كَٱلْمُهْلِ",
+      "translation": "seperti leburan perak",
+      "transliteration": "kal-muh'li"
+    },
+    {
+      "id": 9085,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari ketika langit menjadi seperti luluhan perak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39470,
+    "timestamp_to": 44830,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        39405,
+        40015
+      ],
+      [
+        2,
+        40015,
+        40865
+      ],
+      [
+        3,
+        40865,
+        43285
+      ],
+      [
+        4,
+        43285,
+        44680
+      ]
+    ]
+  }
+}

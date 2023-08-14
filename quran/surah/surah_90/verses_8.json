@@ -1,0 +1,86 @@
+{
+  "id": 6031,
+  "chapter_id": 90,
+  "verse_key": "90:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 9258,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_008_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 9259,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_008_002.mp3",
+      "text": "نَجْعَل",
+      "translation": "Kami jadikan",
+      "transliteration": "najʿal"
+    },
+    {
+      "id": 9260,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_008_003.mp3",
+      "text": "لَّهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 9261,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_008_004.mp3",
+      "text": "عَيْنَيْنِ",
+      "translation": "dua buah mata",
+      "transliteration": "ʿaynayni"
+    },
+    {
+      "id": 9262,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Kami telah memberikan kepadanya dua buah mata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 35860,
+    "timestamp_to": 41450,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        35825,
+        36455
+      ],
+      [
+        2,
+        36455,
+        37245
+      ],
+      [
+        3,
+        37245,
+        37845
+      ],
+      [
+        4,
+        37845,
+        41330
+      ]
+    ]
+  }
+}

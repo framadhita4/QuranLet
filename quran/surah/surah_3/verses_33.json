@@ -1,0 +1,177 @@
+{
+  "id": 326,
+  "chapter_id": 3,
+  "verse_key": "3:33",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "ruku_number": 45,
+  "manzil_number": 1,
+  "page_number": 54,
+  "juz_number": 3,
+  "text_uthmani": "۞ إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 35540,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_002.mp3",
+      "text": "۞ إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 35541,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 35542,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_004.mp3",
+      "text": "ٱصْطَفَىٰٓ",
+      "translation": "Dia telah memilih",
+      "transliteration": "iṣ'ṭafā"
+    },
+    {
+      "id": 35543,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_005.mp3",
+      "text": "ءَادَمَ",
+      "translation": "Adam",
+      "transliteration": "ādama"
+    },
+    {
+      "id": 35544,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_006.mp3",
+      "text": "وَنُوحًۭا",
+      "translation": "dan Nuh",
+      "transliteration": "wanūḥan"
+    },
+    {
+      "id": 35545,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_007.mp3",
+      "text": "وَءَالَ",
+      "translation": "dan keluarga",
+      "transliteration": "waāla"
+    },
+    {
+      "id": 35546,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_008.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 35547,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_009.mp3",
+      "text": "وَءَالَ",
+      "translation": "dan keluarga",
+      "transliteration": "waāla"
+    },
+    {
+      "id": 35548,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_010.mp3",
+      "text": "عِمْرَٰنَ",
+      "translation": "Imran",
+      "transliteration": "ʿim'rāna"
+    },
+    {
+      "id": 35549,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_011.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 35550,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_033_012.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 35551,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah telah memilih Adam, Nūḥ, keluarga Ibrāhīm dan keluarga ʻImrān melebihi segala umat (di masa mereka masing-masing),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 746530,
+    "timestamp_to": 762310,
+    "duration": 15780,
+    "segments": [
+      [
+        1,
+        746505,
+        747845
+      ],
+      [
+        2,
+        747845,
+        748815
+      ],
+      [
+        3,
+        748815,
+        751435
+      ],
+      [
+        4,
+        751435,
+        752335
+      ],
+      [
+        5,
+        752335,
+        753945
+      ],
+      [
+        6,
+        753945,
+        754895
+      ],
+      [
+        7,
+        754895,
+        756385
+      ],
+      [
+        8,
+        756385,
+        757295
+      ],
+      [
+        9,
+        757295,
+        758265
+      ],
+      [
+        10,
+        758265,
+        758825
+      ],
+      [
+        11,
+        758825,
+        762230
+      ]
+    ]
+  }
+}

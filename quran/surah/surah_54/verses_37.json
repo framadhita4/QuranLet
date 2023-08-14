@@ -1,0 +1,151 @@
+{
+  "id": 4883,
+  "chapter_id": 54,
+  "verse_key": "54:37",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 38805,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 38806,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_002.mp3",
+      "text": "رَٰوَدُوهُ",
+      "translation": "mereka membujuknya",
+      "transliteration": "rāwadūhu"
+    },
+    {
+      "id": 38807,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_003.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 38808,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_004.mp3",
+      "text": "ضَيْفِهِۦ",
+      "translation": "tamunya",
+      "transliteration": "ḍayfihi"
+    },
+    {
+      "id": 38809,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_005.mp3",
+      "text": "فَطَمَسْنَآ",
+      "translation": "lalu Kami butakan",
+      "transliteration": "faṭamasnā"
+    },
+    {
+      "id": 38810,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_006.mp3",
+      "text": "أَعْيُنَهُمْ",
+      "translation": "mata-mata mereka",
+      "transliteration": "aʿyunahum"
+    },
+    {
+      "id": 38811,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_007.mp3",
+      "text": "فَذُوقُوا۟",
+      "translation": "maka rasakanlah",
+      "transliteration": "fadhūqū"
+    },
+    {
+      "id": 38812,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_008.mp3",
+      "text": "عَذَابِى",
+      "translation": "azab-Ku",
+      "transliteration": "ʿadhābī"
+    },
+    {
+      "id": 38813,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_037_009.mp3",
+      "text": "وَنُذُرِ",
+      "translation": "dan peringatan/ancaman",
+      "transliteration": "wanudhuri"
+    },
+    {
+      "id": 38814,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya mereka telah membujuknya (agar menyerahkan) tamunya (kepada mereka), lalu Kami butakan mata mereka, maka rasakanlah azab-Ku dan ancaman-ancaman-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 334850,
+    "timestamp_to": 347520,
+    "duration": 12670,
+    "segments": [
+      [
+        1,
+        334795,
+        335615
+      ],
+      [
+        2,
+        335615,
+        337145
+      ],
+      [
+        3,
+        337145,
+        338375
+      ],
+      [
+        4,
+        338375,
+        339535
+      ],
+      [
+        5,
+        339535,
+        342405
+      ],
+      [
+        6,
+        342405,
+        343715
+      ],
+      [
+        7,
+        343715,
+        344895
+      ],
+      [
+        8,
+        344895,
+        346055
+      ],
+      [
+        9,
+        346055,
+        347400
+      ]
+    ]
+  }
+}

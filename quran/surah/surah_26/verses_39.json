@@ -1,0 +1,99 @@
+{
+  "id": 2971,
+  "chapter_id": 26,
+  "verse_key": "26:39",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 40732,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_039_001.mp3",
+      "text": "وَقِيلَ",
+      "translation": "dan dikatakan",
+      "transliteration": "waqīla"
+    },
+    {
+      "id": 40733,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_039_002.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "kepada manusia (orang banyak)",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 40734,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_039_003.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 40735,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_039_004.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 40736,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_039_005.mp3",
+      "text": "مُّجْتَمِعُونَ",
+      "translation": "orang-orang yang berkumpul",
+      "transliteration": "muj'tamiʿūna"
+    },
+    {
+      "id": 40737,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dikatakan kepada orang banyak, \"Berkumpullah kamu sekalian,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 381620,
+    "timestamp_to": 389930,
+    "duration": 8310,
+    "segments": [
+      [
+        1,
+        381565,
+        382525
+      ],
+      [
+        2,
+        382525,
+        384045
+      ],
+      [
+        3,
+        384045,
+        384465
+      ],
+      [
+        4,
+        384465,
+        386075
+      ],
+      [
+        5,
+        386075,
+        389780
+      ]
+    ]
+  }
+}

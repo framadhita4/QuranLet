@@ -1,0 +1,177 @@
+{
+  "id": 1835,
+  "chapter_id": 15,
+  "verse_key": "15:33",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 35960,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_001.mp3",
+      "text": "قَالَ",
+      "translation": "(iblis) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 35961,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_002.mp3",
+      "text": "لَمْ",
+      "translation": "tidak ada",
+      "transliteration": "lam"
+    },
+    {
+      "id": 35962,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_003.mp3",
+      "text": "أَكُن",
+      "translation": "aku adalah",
+      "transliteration": "akun"
+    },
+    {
+      "id": 35963,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_004.mp3",
+      "text": "لِّأَسْجُدَ",
+      "translation": "untuk bersujud",
+      "transliteration": "li-asjuda"
+    },
+    {
+      "id": 35964,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_005.mp3",
+      "text": "لِبَشَرٍ",
+      "translation": "kepada manusia",
+      "transliteration": "libasharin"
+    },
+    {
+      "id": 35965,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_006.mp3",
+      "text": "خَلَقْتَهُۥ",
+      "translation": "Engkau telah menciptakannya",
+      "transliteration": "khalaqtahu"
+    },
+    {
+      "id": 35966,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_007.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 35967,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_008.mp3",
+      "text": "صَلْصَـٰلٍۢ",
+      "translation": "tanah liat yang kering",
+      "transliteration": "ṣalṣālin"
+    },
+    {
+      "id": 35968,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_009.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 35969,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_010.mp3",
+      "text": "حَمَإٍۢ",
+      "translation": "lumpur hitam",
+      "transliteration": "ḥama-in"
+    },
+    {
+      "id": 35970,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_033_011.mp3",
+      "text": "مَّسْنُونٍۢ",
+      "translation": "yang berbentuk",
+      "transliteration": "masnūnin"
+    },
+    {
+      "id": 35971,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Iblis, \"Aku sekali-kali tidak akan sujud kepada manusia yang Engkau telah menciptakannya dari tanah liat kering (yang berasal) dari lumpur hitam yang diberi bentuk\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 340360,
+    "timestamp_to": 352450,
+    "duration": 12100,
+    "segments": [
+      [
+        1,
+        340305,
+        340975
+      ],
+      [
+        2,
+        340975,
+        341165
+      ],
+      [
+        3,
+        341165,
+        341705
+      ],
+      [
+        4,
+        341705,
+        342935
+      ],
+      [
+        5,
+        342935,
+        343715
+      ],
+      [
+        6,
+        343715,
+        345085
+      ],
+      [
+        7,
+        345085,
+        345995
+      ],
+      [
+        8,
+        345995,
+        347195
+      ],
+      [
+        9,
+        347195,
+        348165
+      ],
+      [
+        10,
+        348165,
+        348885
+      ],
+      [
+        11,
+        348885,
+        352350
+      ]
+    ]
+  }
+}

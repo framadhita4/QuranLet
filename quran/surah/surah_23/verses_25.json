@@ -1,0 +1,164 @@
+{
+  "id": 2698,
+  "chapter_id": 23,
+  "verse_key": "23:25",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 296,
+  "manzil_number": 4,
+  "page_number": 343,
+  "juz_number": 18,
+  "text_uthmani": "إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 28046,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_001.mp3",
+      "text": "إِنْ",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 28047,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_002.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 28048,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/hanyalah",
+      "transliteration": "illā"
+    },
+    {
+      "id": 28049,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_004.mp3",
+      "text": "رَجُلٌۢ",
+      "translation": "seorang laki-laki",
+      "transliteration": "rajulun"
+    },
+    {
+      "id": 28050,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_005.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 28051,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_006.mp3",
+      "text": "جِنَّةٌۭ",
+      "translation": "gila",
+      "transliteration": "jinnatun"
+    },
+    {
+      "id": 28052,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_007.mp3",
+      "text": "فَتَرَبَّصُوا۟",
+      "translation": "maka tunggulah",
+      "transliteration": "fatarabbaṣū"
+    },
+    {
+      "id": 28053,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_008.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/terhadapnya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 28054,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_009.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga/sampai",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 28055,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_025_010.mp3",
+      "text": "حِينٍۢ",
+      "translation": "suatu waktu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 28056,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "la tidak lain hanyalah seorang laki-laki yang berpenyakit gila, maka tunggulah (sabarlah) terhadapnya sampai suatu waktu.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 321060,
+    "timestamp_to": 332970,
+    "duration": 11910,
+    "segments": [
+      [
+        1,
+        321005,
+        321485
+      ],
+      [
+        2,
+        321485,
+        321835
+      ],
+      [
+        3,
+        321835,
+        322725
+      ],
+      [
+        4,
+        322725,
+        324225
+      ],
+      [
+        5,
+        324225,
+        324865
+      ],
+      [
+        6,
+        324865,
+        326955
+      ],
+      [
+        7,
+        326955,
+        328745
+      ],
+      [
+        8,
+        328745,
+        329405
+      ],
+      [
+        9,
+        329405,
+        330235
+      ],
+      [
+        10,
+        330235,
+        332870
+      ]
+    ]
+  }
+}

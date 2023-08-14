@@ -1,0 +1,112 @@
+{
+  "id": 5483,
+  "chapter_id": 73,
+  "verse_key": "73:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 9106,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_008_001.mp3",
+      "text": "وَٱذْكُرِ",
+      "translation": "dan sebutlah",
+      "transliteration": "wa-udh'kuri"
+    },
+    {
+      "id": 9107,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_008_002.mp3",
+      "text": "ٱسْمَ",
+      "translation": "nama",
+      "transliteration": "is'ma"
+    },
+    {
+      "id": 9108,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_008_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 9109,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_008_004.mp3",
+      "text": "وَتَبَتَّلْ",
+      "translation": "dan beribadatlah",
+      "transliteration": "watabattal"
+    },
+    {
+      "id": 9110,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_008_005.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepada-Nya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 9111,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_008_006.mp3",
+      "text": "تَبْتِيلًۭا",
+      "translation": "sungguh-sungguh beribadat",
+      "transliteration": "tabtīlan"
+    },
+    {
+      "id": 9112,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebutlah nama Tuhan-mu, dan beribadahlah kepada-Nya dengan penuh ketekunan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41330,
+    "timestamp_to": 46920,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        41275,
+        42075
+      ],
+      [
+        2,
+        42075,
+        42435
+      ],
+      [
+        3,
+        42435,
+        43315
+      ],
+      [
+        4,
+        43315,
+        44375
+      ],
+      [
+        5,
+        44375,
+        45215
+      ],
+      [
+        6,
+        45215,
+        46520
+      ]
+    ]
+  }
+}

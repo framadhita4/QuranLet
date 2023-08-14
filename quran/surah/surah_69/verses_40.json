@@ -1,0 +1,86 @@
+{
+  "id": 5363,
+  "chapter_id": 69,
+  "verse_key": "69:40",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 41152,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_040_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia (Al Qur'an)",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 41153,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_040_002.mp3",
+      "text": "لَقَوْلُ",
+      "translation": "benar-benar perkataan",
+      "transliteration": "laqawlu"
+    },
+    {
+      "id": 41154,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_040_003.mp3",
+      "text": "رَسُولٍۢ",
+      "translation": "rasul",
+      "transliteration": "rasūlin"
+    },
+    {
+      "id": 41155,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_040_004.mp3",
+      "text": "كَرِيمٍۢ",
+      "translation": "yang mulia",
+      "transliteration": "karīmin"
+    },
+    {
+      "id": 41156,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Al-Qur`ān itu adalah benar-benar wahyu (Allah yang diturunkan kepada) rasul yang mulia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 302040,
+    "timestamp_to": 310090,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        301965,
+        303695
+      ],
+      [
+        2,
+        303695,
+        304655
+      ],
+      [
+        3,
+        304655,
+        306175
+      ],
+      [
+        4,
+        306175,
+        309930
+      ]
+    ]
+  }
+}

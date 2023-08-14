@@ -1,0 +1,1256 @@
+[
+  {
+    "surah_number": 1,
+    "name": "Al-Fatihah",
+    "translation": {
+      "en": "The Opener",
+      "ar": "الفاتحة",
+      "id": "Pembukaan"
+    },
+    "ayahs": 7,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 2,
+    "name": "Al-Baqarah",
+    "translation": {
+      "en": "The Cow",
+      "ar": "البقرة",
+      "id": "Sapi Betina"
+    },
+    "ayahs": 286,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 3,
+    "name": "Ali Imran",
+    "translation": {
+      "en": "Family of Imran",
+      "ar": "آل عمران",
+      "id": "Keluarga Imran"
+    },
+    "ayahs": 200,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 4,
+    "name": "Al-Nisa",
+    "translation": {
+      "en": "The Women",
+      "ar": "النّساء",
+      "id": "Wanita"
+    },
+    "ayahs": 176,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 5,
+    "name": "Al-Maidah",
+    "translation": {
+      "en": "The Table Spread",
+      "ar": "المآئدة",
+      "id": "Jamuan (hidangan makanan)"
+    },
+    "ayahs": 120,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 6,
+    "name": "Al-An'am",
+    "translation": {
+      "en": "The Cattle",
+      "ar": "الانعام",
+      "id": "Binatang Ternak"
+    },
+    "ayahs": 165,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 7,
+    "name": " Al-A'raf",
+    "translation": {
+      "en": "The Heights",
+      "ar": "الأعراف",
+      "id": "Tempat yang tertinggi"
+    },
+    "ayahs": 206,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 8,
+    "name": "Al-Anfal",
+    "translation": {
+      "en": "The Spoils of War",
+      "ar": "الأنفال",
+      "id": "Harta rampasan perang"
+    },
+    "ayahs": 75,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 9,
+    "name": "At-Taubah",
+    "translation": {
+      "en": "The Repentance",
+      "ar": "التوبة‎‎",
+      "id": "Pengampunan"
+    },
+    "ayahs": 129,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 10,
+    "name": "Yunus",
+    "translation": {
+      "en": "Jonah",
+      "ar": "یونوس",
+      "id": "Nabi Yunus"
+    },
+    "ayahs": 109,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 11,
+    "name": "Hud",
+    "translation": {
+      "en": "Hud",
+      "ar": "هود",
+      "id": "Nabi Hud"
+    },
+    "ayahs": 123,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 12,
+    "name": "Yusuf",
+    "translation": {
+      "en": "Joseph",
+      "ar": "یوسف",
+      "id": "Nabi Yusuf"
+    },
+    "ayahs": 111,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 13,
+    "name": "Ar-Ra'd",
+    "translation": {
+      "en": "The Thunder",
+      "ar": "الرّعد",
+      "id": "Guruh (petir)"
+    },
+    "ayahs": 43,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 14,
+    "name": "Ibrahim",
+    "translation": {
+      "en": "Abraham",
+      "ar": "إبراهيم",
+      "id": "Nabi Ibrahim"
+    },
+    "ayahs": 52,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 15,
+    "name": "Al-Hijr",
+    "translation": {
+      "en": "The Rocky Tract",
+      "ar": "الحجر",
+      "id": "Al Hijr (nama gunung)"
+    },
+    "ayahs": 99,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 16,
+    "name": "An-Nahl",
+    "translation": {
+      "en": "The Bee",
+      "ar": "النّحل",
+      "id": "Lebah"
+    },
+    "ayahs": 128,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 17,
+    "name": "Al-Isra'",
+    "translation": {
+      "en": "The Night Journey",
+      "ar": "الإسرا",
+      "id": "Memperjalankan di waktu malam"
+    },
+    "ayahs": 111,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 18,
+    "name": "Al-Kahf",
+    "translation": {
+      "en": "The Cave",
+      "ar": "الكهف",
+      "id": "Penghuni-penghuni gua"
+    },
+    "ayahs": 110,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 19,
+    "name": "Maryam",
+    "translation": {
+      "en": "Mary",
+      "ar": "مريم",
+      "id": "Maryam (Maria)"
+    },
+    "ayahs": 98,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 20,
+    "name": "Thaha",
+    "translation": {
+      "en": "Ta-Ha",
+      "ar": "طه",
+      "id": "Ta Ha"
+    },
+    "ayahs": 135,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 21,
+    "name": "Al-Anbiya",
+    "translation": {
+      "en": "The Prophets",
+      "ar": "الأنبياء",
+      "id": "Nabi-Nabi"
+    },
+    "ayahs": 112,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 22,
+    "name": "Al-Hajj",
+    "translation": {
+      "en": "The Pilgrimage",
+      "ar": "الحجّ",
+      "id": "Haji"
+    },
+    "ayahs": 78,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 23,
+    "name": "Al-Mukminun",
+    "translation": {
+      "en": "The Believers",
+      "ar": "المؤمنون",
+      "id": "Orang-orang mukmin"
+    },
+    "ayahs": 118,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 24,
+    "name": "An-Nur",
+    "translation": {
+      "en": "The Light",
+      "ar": "النّور",
+      "id": "Cahaya"
+    },
+    "ayahs": 64,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 25,
+    "name": "Al-Furqan",
+    "translation": {
+      "en": "The Criterion",
+      "ar": "الفرقان",
+      "id": "Pembeda"
+    },
+    "ayahs": 77,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 26,
+    "name": "Asy-Syu'ara",
+    "translation": {
+      "en": "The Poets",
+      "ar": "الشّعراء",
+      "id": "Penyair"
+    },
+    "ayahs": 227,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 27,
+    "name": "An-Naml",
+    "translation": {
+      "en": "The Ant",
+      "ar": "النّمل",
+      "id": "Semut"
+    },
+    "ayahs": 93,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 28,
+    "name": "Al-Qashash",
+    "translation": {
+      "en": "The Stories",
+      "ar": "القصص",
+      "id": "Cerita"
+    },
+    "ayahs": 88,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 29,
+    "name": "Al-Ankabut",
+    "translation": {
+      "en": "The Spider",
+      "ar": "العنكبوت",
+      "id": "Laba-laba"
+    },
+    "ayahs": 69,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 30,
+    "name": "Ar-Rum",
+    "translation": {
+      "en": "The Romans",
+      "ar": "الرّوم",
+      "id": "Bangsa Romawi"
+    },
+    "ayahs": 60,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 31,
+    "name": "Lukman",
+    "translation": {
+      "en": "Luqman",
+      "ar": "لقمان",
+      "id": "Keluarga Lukman"
+    },
+    "ayahs": 34,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 32,
+    "name": "As-Sajdah",
+    "translation": {
+      "en": "The Prostration",
+      "ar": "السّجدة",
+      "id": "Sajdah"
+    },
+    "ayahs": 30,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 33,
+    "name": "Al-Ahzab",
+    "translation": {
+      "en": "The Combined Forces",
+      "ar": "الْأحزاب",
+      "id": "Golongan-Golongan yang bersekutu"
+    },
+    "ayahs": 73,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 34,
+    "name": "Saba'",
+    "translation": {
+      "en": "Sheba",
+      "ar": "سبا",
+      "id": "Kaum Saba'"
+    },
+    "ayahs": 54,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 35,
+    "name": "Fathir",
+    "translation": {
+      "en": "Originator",
+      "ar": "فاطر",
+      "id": "Pencipta"
+    },
+    "ayahs": 45,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 36,
+    "name": "Yasin",
+    "translation": {
+      "en": "Ya Sin",
+      "ar": "يس",
+      "id": "Yaasiin"
+    },
+    "ayahs": 83,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 37,
+    "name": "Ash-Shaffat",
+    "translation": {
+      "en": "Those who set the Ranks",
+      "ar": "الصّافات",
+      "id": "Barisan-barisan"
+    },
+    "ayahs": 182,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 38,
+    "name": "Shad",
+    "translation": {
+      "en": "The Letter \"Saad\"",
+      "ar": "ص",
+      "id": "Shaad"
+    },
+    "ayahs": 88,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 39,
+    "name": "Az-Zumar",
+    "translation": {
+      "en": "The Troops",
+      "ar": "الزّمر",
+      "id": "Rombongan-rombongan"
+    },
+    "ayahs": 75,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 40,
+    "name": "Ghafir",
+    "translation": {
+      "en": "The Forgiver",
+      "ar": "غافر",
+      "id": "Sang Pengampun dosa"
+    },
+    "ayahs": 85,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 41,
+    "name": "Fusshilat",
+    "translation": {
+      "en": "Explained in Detail",
+      "ar": "فصّلت",
+      "id": "Yang dijelaskan"
+    },
+    "ayahs": 54,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 42,
+    "name": "Asy-Syura",
+    "translation": {
+      "en": "The Consultation",
+      "ar": "الشّورى",
+      "id": "Musyawarah"
+    },
+    "ayahs": 53,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 43,
+    "name": "Az-Zukhruf",
+    "translation": {
+      "en": "The Ornaments of Gold",
+      "ar": "الزّخرف",
+      "id": "Perhiasan"
+    },
+    "ayahs": 89,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 44,
+    "name": "Ad-Dukhan",
+    "translation": {
+      "en": "The Smoke",
+      "ar": "الدّخان",
+      "id": "Kabut"
+    },
+    "ayahs": 59,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 45,
+    "name": "Al-Jatsiyah",
+    "translation": {
+      "en": "The Crouching",
+      "ar": "الجاثية",
+      "id": "Yang bertekuk lutut"
+    },
+    "ayahs": 37,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 46,
+    "name": "Al-Ahqaf",
+    "translation": {
+      "en": "The Wind-Curved Sandhills",
+      "ar": "الَأحقاف",
+      "id": "Bukit-bukit pasir"
+    },
+    "ayahs": 35,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 47,
+    "name": "Muhammad",
+    "translation": {
+      "en": "Muhammad",
+      "ar": "محمّد",
+      "id": "Muhammad"
+    },
+    "ayahs": 38,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 48,
+    "name": "Al-Fath",
+    "translation": {
+      "en": "The Victory",
+      "ar": "الفتح",
+      "id": "Kemenangan"
+    },
+    "ayahs": 29,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 49,
+    "name": "Al-Hujurat",
+    "translation": {
+      "en": "The Rooms",
+      "ar": "الحجرات",
+      "id": "Kamar-kamar"
+    },
+    "ayahs": 18,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 50,
+    "name": "Qaf",
+    "translation": {
+      "en": "The Letter \"Qaf\"",
+      "ar": "ق",
+      "id": "Qaaf"
+    },
+    "ayahs": 45,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 51,
+    "name": "Adz-Dzariyat",
+    "translation": {
+      "en": "The Winnowing Winds",
+      "ar": "الذّاريات",
+      "id": "Angin yang menerbangkan"
+    },
+    "ayahs": 60,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 52,
+    "name": "Ath-Thur",
+    "translation": {
+      "en": "The Mount",
+      "ar": "الطّور",
+      "id": "Bukit"
+    },
+    "ayahs": 49,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 53,
+    "name": "An-Najm",
+    "translation": {
+      "en": "The Star",
+      "ar": "النّجْم",
+      "id": "Bintang"
+    },
+    "ayahs": 62,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 54,
+    "name": "Al-Qamar",
+    "translation": {
+      "en": "The Moon",
+      "ar": "القمر",
+      "id": "Bulan"
+    },
+    "ayahs": 55,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 55,
+    "name": "Ar-Rahman",
+    "translation": {
+      "en": "The Beneficent",
+      "ar": "الرّحْمن",
+      "id": "Yang Maha Pemurah"
+    },
+    "ayahs": 78,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 56,
+    "name": "Al-Waqi'ah",
+    "translation": {
+      "en": "The Inevitable",
+      "ar": "الواقعه",
+      "id": "Hari Kiamat"
+    },
+    "ayahs": 96,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 57,
+    "name": "Al-Hadid",
+    "translation": {
+      "en": "The Iron",
+      "ar": "الحديد",
+      "id": "Besi"
+    },
+    "ayahs": 29,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 58,
+    "name": "Al-Mujadilah",
+    "translation": {
+      "en": "The Pleading Woman",
+      "ar": "المجادلة",
+      "id": "Wanita yang mengajukan gugatan"
+    },
+    "ayahs": 22,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 59,
+    "name": "Al-Hasyr",
+    "translation": {
+      "en": "The Exile",
+      "ar": "الحشْر",
+      "id": "Pengusiran"
+    },
+    "ayahs": 24,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 60,
+    "name": "Al-Mumtahanah",
+    "translation": {
+      "en": "She that is to be examined",
+      "ar": "الممتحنة",
+      "id": "Wanita yang diuji"
+    },
+    "ayahs": 13,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 61,
+    "name": "Ash-Shaff",
+    "translation": {
+      "en": "The Ranks",
+      "ar": "الصّفّ",
+      "id": "Satu barisan"
+    },
+    "ayahs": 14,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 62,
+    "name": "Al-Jumu'ah",
+    "translation": {
+      "en": "The Congregation, Friday",
+      "ar": "الجمعة",
+      "id": "Hari Jum'at"
+    },
+    "ayahs": 11,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 63,
+    "name": "Al-Munafiqun",
+    "translation": {
+      "en": "The Hypocrites",
+      "ar": "المنافقون",
+      "id": "Orang-orang yang munafik"
+    },
+    "ayahs": 11,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 64,
+    "name": "At-Taghabun",
+    "translation": {
+      "en": "The Mutual Disillusion",
+      "ar": "التّغابن",
+      "id": "Hari dinampakkan kesalahan-kesalahan"
+    },
+    "ayahs": 18,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 65,
+    "name": "Ath-Thalaq",
+    "translation": {
+      "en": "The Divorce",
+      "ar": "الطّلاق",
+      "id": "Talak"
+    },
+    "ayahs": 12,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 66,
+    "name": "At-Tahrim",
+    "translation": {
+      "en": "The Prohibition",
+      "ar": "التّحريم",
+      "id": "Mengharamkan"
+    },
+    "ayahs": 12,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 67,
+    "name": "Al-Mulk",
+    "translation": {
+      "en": "The Sovereignty",
+      "ar": "الملك",
+      "id": "Kerajaan"
+    },
+    "ayahs": 30,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 68,
+    "name": "Al-Qalam",
+    "translation": {
+      "en": "The Pen",
+      "ar": "القلم",
+      "id": "Pena"
+    },
+    "ayahs": 52,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 69,
+    "name": "Al-Haqqah",
+    "translation": {
+      "en": "The Reality",
+      "ar": "الحآقّة",
+      "id": "Hari kiamat"
+    },
+    "ayahs": 52,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 70,
+    "name": "Al-Ma'arij",
+    "translation": {
+      "en": "The Ascending Stairways",
+      "ar": "المعارج",
+      "id": "Tempat naik"
+    },
+    "ayahs": 44,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 71,
+    "name": "Nuh",
+    "translation": {
+      "en": "Noah",
+      "ar": "نوح",
+      "id": "Nuh"
+    },
+    "ayahs": 28,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 72,
+    "name": "Al-Jin",
+    "translation": {
+      "en": "The Jinn",
+      "ar": "الجنّ",
+      "id": "Jin"
+    },
+    "ayahs": 28,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 73,
+    "name": "Al-Muzammil",
+    "translation": {
+      "en": "The Enshrouded One",
+      "ar": "المزمّل",
+      "id": "Orang yang berselimut"
+    },
+    "ayahs": 20,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 74,
+    "name": "Al-Muddatsir",
+    "translation": {
+      "en": "The Cloaked One",
+      "ar": "المدشّر",
+      "id": "Orang yang berkemul"
+    },
+    "ayahs": 56,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 75,
+    "name": "Al-Qiyamah",
+    "translation": {
+      "en": "The Resurrection",
+      "ar": "القيمة",
+      "id": "Hari Kiamat"
+    },
+    "ayahs": 40,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 76,
+    "name": "Al-Insan",
+    "translation": {
+      "en": "The Man",
+      "ar": "الْاٍنسان",
+      "id": "Manusia"
+    },
+    "ayahs": 31,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 77,
+    "name": "Al-Mursalat",
+    "translation": {
+      "en": "The Emissaries",
+      "ar": "المرسلات",
+      "id": "Malaikat-Malaikat Yang Diutus"
+    },
+    "ayahs": 50,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 78,
+    "name": "An-Naba",
+    "translation": {
+      "en": "The Tidings",
+      "ar": "النّبا",
+      "id": "Berita besar"
+    },
+    "ayahs": 40,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 79,
+    "name": "An-Nazi'at",
+    "translation": {
+      "en": "Those who drag forth",
+      "ar": "النّازعات",
+      "id": "Malaikat-Malaikat Yang Mencabut"
+    },
+    "ayahs": 46,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 80,
+    "name": "'Abasa",
+    "translation": {
+      "en": "He Frowned",
+      "ar": "عبس",
+      "id": "Ia Bermuka masam"
+    },
+    "ayahs": 42,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 81,
+    "name": "At-Takwir",
+    "translation": {
+      "en": "The Overthrowing",
+      "ar": "التّكوير",
+      "id": "Menggulung"
+    },
+    "ayahs": 29,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 82,
+    "name": "Al-Infithar",
+    "translation": {
+      "en": "The Cleaving",
+      "ar": "الانفطار",
+      "id": "Terbelah"
+    },
+    "ayahs": 19,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 83,
+    "name": "Al-Muthaffifin",
+    "translation": {
+      "en": "The Defrauding",
+      "ar": "المطفّفين",
+      "id": "Orang-orang yang curang"
+    },
+    "ayahs": 36,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 84,
+    "name": "Al-Insyiqaq",
+    "translation": {
+      "en": "The Sundering",
+      "ar": "الانشقاق",
+      "id": "Terbelah"
+    },
+    "ayahs": 25,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 85,
+    "name": "Al-Buruj",
+    "translation": {
+      "en": "The Mansions of the Stars",
+      "ar": "البروج",
+      "id": "Gugusan bintang"
+    },
+    "ayahs": 22,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 86,
+    "name": "Ath-Thariq",
+    "translation": {
+      "en": "The Nightcommer",
+      "ar": "الطّارق",
+      "id": "Yang datang di malam hari"
+    },
+    "ayahs": 17,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 87,
+    "name": "Al-A'la",
+    "translation": {
+      "en": "The Most High",
+      "ar": "الْأعلى",
+      "id": "Yang paling tinggi"
+    },
+    "ayahs": 19,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 88,
+    "name": "Al-Ghasyiyah",
+    "translation": {
+      "en": "The Overwhelming",
+      "ar": "الغاشية",
+      "id": "Hari Pembalasan"
+    },
+    "ayahs": 26,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 89,
+    "name": "Al-Fajr",
+    "translation": {
+      "en": "The Dawn",
+      "ar": "الفجر",
+      "id": "Fajar"
+    },
+    "ayahs": 30,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 90,
+    "name": "Al-Balad",
+    "translation": {
+      "en": "The City",
+      "ar": "البلد",
+      "id": "Negeri"
+    },
+    "ayahs": 20,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 91,
+    "name": "Asy-Syams",
+    "translation": {
+      "en": "The Sun",
+      "ar": "الشّمس",
+      "id": "Matahari"
+    },
+    "ayahs": 15,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 92,
+    "name": "Al-Lail",
+    "translation": {
+      "en": "The Night",
+      "ar": "الّيل",
+      "id": "Malam"
+    },
+    "ayahs": 21,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 93,
+    "name": "Adh-Dhuha",
+    "translation": {
+      "en": "The Morning Hours",
+      "ar": "الضحى‎‎",
+      "id": "Waktu matahari sepenggalahan naik (Dhuha)"
+    },
+    "ayahs": 11,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 94,
+    "name": "Al-Insyirah",
+    "translation": {
+      "en": "The Relief",
+      "ar": "الانشراح‎‎",
+      "id": "Melapangkan"
+    },
+    "ayahs": 8,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 95,
+    "name": "At-Tin",
+    "translation": {
+      "en": "The Fig",
+      "ar": "التِّينِ",
+      "id": "Buah Tin"
+    },
+    "ayahs": 8,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 96,
+    "name": "Al-'Alaq",
+    "translation": {
+      "en": "The Clot",
+      "ar": "العَلَق",
+      "id": "Segumpal Darah"
+    },
+    "ayahs": 19,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 97,
+    "name": "Al-Qadr",
+    "translation": {
+      "en": "The Power",
+      "ar": "الْقَدْرِ",
+      "id": "Kemuliaan"
+    },
+    "ayahs": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 98,
+    "name": "Al-Bayyinah",
+    "translation": {
+      "en": "The Clear Proof",
+      "ar": "الْبَيِّنَةُ",
+      "id": "Pembuktian"
+    },
+    "ayahs": 8,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 99,
+    "name": "Az-Zalzalah",
+    "translation": {
+      "en": "The Earthquake",
+      "ar": "الزلزلة‎‎",
+      "id": "Kegoncangan"
+    },
+    "ayahs": 8,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 100,
+    "name": "Al-'Adiyat",
+    "translation": {
+      "en": "The Courser",
+      "ar": "العاديات‎‎",
+      "id": "Berlari kencang"
+    },
+    "ayahs": 11,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 101,
+    "name": "Al-Qari'ah",
+    "translation": {
+      "en": "The Calamity",
+      "ar": "القارعة‎‎",
+      "id": "Peristiwa Menggetarkan"
+    },
+    "ayahs": 11,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 102,
+    "name": "At-Takatsur",
+    "translation": {
+      "en": "The Rivalry in world increase",
+      "ar": "التكاثر‎‎",
+      "id": "Bermegah-megahan"
+    },
+    "ayahs": 8,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 103,
+    "name": "Al-'Ashr",
+    "translation": {
+      "en": "The Declining Day",
+      "ar": "العصر",
+      "id": "Masa/Waktu"
+    },
+    "ayahs": 3,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 104,
+    "name": "Al-Humazah",
+    "translation": {
+      "en": "The Traducer",
+      "ar": "الهُمَزة‎‎",
+      "id": "Pengumpat"
+    },
+    "ayahs": 9,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 105,
+    "name": "Al-Fil",
+    "translation": {
+      "en": "The Elephant",
+      "ar": "الْفِيلِ",
+      "id": "Gajah"
+    },
+    "ayahs": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 106,
+    "name": "Quraisy",
+    "translation": {
+      "en": "Quraysh",
+      "ar": "قُرَيْشٍ",
+      "id": "Suku Quraisy"
+    },
+    "ayahs": 4,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 107,
+    "name": "Al-Ma'un",
+    "translation": {
+      "en": "The Small kindnesses",
+      "ar": "الْمَاعُونَ",
+      "id": "Barang-barang yang berguna"
+    },
+    "ayahs": 7,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 108,
+    "name": "Al-Kautsar",
+    "translation": {
+      "en": "The Abundance",
+      "ar": "الكوثر",
+      "id": "Nikmat yang berlimpah"
+    },
+    "ayahs": 3,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 109,
+    "name": "Al-Kafirun",
+    "translation": {
+      "en": "The Disbelievers",
+      "ar": "الْكَافِرُونَ",
+      "id": "Orang-orang kafir"
+    },
+    "ayahs": 6,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 110,
+    "name": "An-Nashr",
+    "translation": {
+      "en": "The Divine Support",
+      "ar": "النصر‎‎",
+      "id": "Pertolongan"
+    },
+    "ayahs": 3,
+    "type": "Madaniyah"
+  },
+  {
+    "surah_number": 111,
+    "name": "Al-Masad",
+    "translation": {
+      "en": "The Palm Fiber",
+      "ar": "المسد‎‎",
+      "id": "Gejolak Api/ Sabut"
+    },
+    "ayahs": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 112,
+    "name": "Al-Ikhlash",
+    "translation": {
+      "en": "The Sincerity",
+      "ar": "الإخلاص‎‎",
+      "id": "Ikhlas"
+    },
+    "ayahs": 4,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 113,
+    "name": "Al-Falaq",
+    "translation": {
+      "en": "The Daybreak",
+      "ar": "الْفَلَقِ",
+      "id": "Waktu Subuh"
+    },
+    "ayahs": 5,
+    "type": "Makkiyah"
+  },
+  {
+    "surah_number": 114,
+    "name": "An-Nas",
+    "translation": {
+      "en": "Mankind",
+      "ar": "النَّاسِ",
+      "id": "Manusia"
+    },
+    "ayahs": 6,
+    "type": "Makkiyah"
+  }
+]

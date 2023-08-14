@@ -1,0 +1,86 @@
+{
+  "id": 2344,
+  "chapter_id": 19,
+  "verse_key": "19:94",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 69648,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_094_001.mp3",
+      "text": "لَّقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 69649,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_094_002.mp3",
+      "text": "أَحْصَىٰهُمْ",
+      "translation": "Dia telah menentukan mereka",
+      "transliteration": "aḥṣāhum"
+    },
+    {
+      "id": 69650,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_094_003.mp3",
+      "text": "وَعَدَّهُمْ",
+      "translation": "dan Dia telah menghitung mereka",
+      "transliteration": "waʿaddahum"
+    },
+    {
+      "id": 69651,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_094_004.mp3",
+      "text": "عَدًّۭا",
+      "translation": "perhitungan",
+      "transliteration": "ʿaddan"
+    },
+    {
+      "id": 69652,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah telah menentukan jumlah mereka dan menghitung mereka dengan hitungan yang teliti.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1222260,
+    "timestamp_to": 1227070,
+    "duration": 4810,
+    "segments": [
+      [
+        1,
+        1221965,
+        1222655
+      ],
+      [
+        2,
+        1222655,
+        1224035
+      ],
+      [
+        3,
+        1224035,
+        1225415
+      ],
+      [
+        4,
+        1225415,
+        1226440
+      ]
+    ]
+  }
+}

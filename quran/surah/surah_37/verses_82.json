@@ -1,0 +1,73 @@
+{
+  "id": 3870,
+  "chapter_id": 37,
+  "verse_key": "37:82",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 65037,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_082_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 65038,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_082_002.mp3",
+      "text": "أَغْرَقْنَا",
+      "translation": "Kami tenggelamkan",
+      "transliteration": "aghraqnā"
+    },
+    {
+      "id": 65039,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_082_003.mp3",
+      "text": "ٱلْـَٔاخَرِينَ",
+      "translation": "yang lain",
+      "transliteration": "l-ākharīna"
+    },
+    {
+      "id": 65040,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami tenggelamkan orang-orang yang lain.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 680060,
+    "timestamp_to": 686620,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        679985,
+        681315
+      ],
+      [
+        2,
+        681315,
+        682405
+      ],
+      [
+        3,
+        682405,
+        686480
+      ]
+    ]
+  }
+}

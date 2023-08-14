@@ -1,0 +1,138 @@
+{
+  "id": 245,
+  "chapter_id": 2,
+  "verse_key": "2:238",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "ruku_number": 32,
+  "manzil_number": 1,
+  "page_number": 39,
+  "juz_number": 2,
+  "text_uthmani": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 86675,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_001.mp3",
+      "text": "حَـٰفِظُوا۟",
+      "translation": "peliharalah",
+      "transliteration": "ḥāfiẓū"
+    },
+    {
+      "id": 86676,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_002.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 86677,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_003.mp3",
+      "text": "ٱلصَّلَوَٰتِ",
+      "translation": "segala sholat",
+      "transliteration": "l-ṣalawāti"
+    },
+    {
+      "id": 86678,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_004.mp3",
+      "text": "وَٱلصَّلَوٰةِ",
+      "translation": "dan sholat",
+      "transliteration": "wal-ṣalati"
+    },
+    {
+      "id": 86679,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_005.mp3",
+      "text": "ٱلْوُسْطَىٰ",
+      "translation": "wustha ('ashar)",
+      "transliteration": "l-wus'ṭā"
+    },
+    {
+      "id": 86680,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_006.mp3",
+      "text": "وَقُومُوا۟",
+      "translation": "dan berdirilah",
+      "transliteration": "waqūmū"
+    },
+    {
+      "id": 86681,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_007.mp3",
+      "text": "لِلَّهِ",
+      "translation": "untuk Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 86682,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_238_008.mp3",
+      "text": "قَـٰنِتِينَ",
+      "translation": "dengan tunduk",
+      "transliteration": "qānitīna"
+    },
+    {
+      "id": 86683,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٣٨",
+      "translation": "(238)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Peliharalah segala salat(mu), dan (peliharalah) salat wusṭā<sup foot_note_id=\"153\">1</sup>.  Berdirilah karena Allah (dalam salatmu) dengan khusyuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5702270,
+    "timestamp_to": 5710810,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        5702205,
+        5703145
+      ],
+      [
+        2,
+        5703145,
+        5703465
+      ],
+      [
+        3,
+        5703465,
+        5704645
+      ],
+      [
+        4,
+        5704645,
+        5705745
+      ],
+      [
+        5,
+        5705745,
+        5706685
+      ],
+      [
+        6,
+        5706685,
+        5707555
+      ],
+      [
+        7,
+        5707555,
+        5708495
+      ],
+      [
+        8,
+        5708495,
+        5710700
+      ]
+    ]
+  }
+}

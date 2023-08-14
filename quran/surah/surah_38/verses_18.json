@@ -1,0 +1,125 @@
+{
+  "id": 3988,
+  "chapter_id": 38,
+  "verse_key": "38:18",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 394,
+  "manzil_number": 6,
+  "page_number": 454,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 21161,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 21162,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_002.mp3",
+      "text": "سَخَّرْنَا",
+      "translation": "Kami menundukkan",
+      "transliteration": "sakharnā"
+    },
+    {
+      "id": 21163,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_003.mp3",
+      "text": "ٱلْجِبَالَ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibāla"
+    },
+    {
+      "id": 21164,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_004.mp3",
+      "text": "مَعَهُۥ",
+      "translation": "bersama dia",
+      "transliteration": "maʿahu"
+    },
+    {
+      "id": 21165,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_005.mp3",
+      "text": "يُسَبِّحْنَ",
+      "translation": "mereka bertasbih",
+      "transliteration": "yusabbiḥ'na"
+    },
+    {
+      "id": 21166,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_006.mp3",
+      "text": "بِٱلْعَشِىِّ",
+      "translation": "diwaktu petang",
+      "transliteration": "bil-ʿashiyi"
+    },
+    {
+      "id": 21167,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_018_007.mp3",
+      "text": "وَٱلْإِشْرَاقِ",
+      "translation": "dan pagi",
+      "transliteration": "wal-ish'rāqi"
+    },
+    {
+      "id": 21168,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menundukkan gunung-gunung untuk bertasbih bersama dia (Dāwūd) pada waktu petang dan pagi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 205760,
+    "timestamp_to": 216630,
+    "duration": 10870,
+    "segments": [
+      [
+        1,
+        205705,
+        207135
+      ],
+      [
+        2,
+        207135,
+        208255
+      ],
+      [
+        3,
+        208255,
+        209295
+      ],
+      [
+        4,
+        209295,
+        210005
+      ],
+      [
+        5,
+        210005,
+        211445
+      ],
+      [
+        6,
+        211445,
+        212855
+      ],
+      [
+        7,
+        212855,
+        216080
+      ]
+    ]
+  }
+}

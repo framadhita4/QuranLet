@@ -1,0 +1,60 @@
+{
+  "id": 5716,
+  "chapter_id": 79,
+  "verse_key": "79:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "فَٱلسَّـٰبِقَـٰتِ سَبْقًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 4178,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_004_001.mp3",
+      "text": "فَٱلسَّـٰبِقَـٰتِ",
+      "translation": "dan yang mendahului",
+      "transliteration": "fal-sābiqāti"
+    },
+    {
+      "id": 4179,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_004_002.mp3",
+      "text": "سَبْقًۭا",
+      "translation": "dengan kencang",
+      "transliteration": "sabqan"
+    },
+    {
+      "id": 4180,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang mendahului dengan kencang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12230,
+    "timestamp_to": 15500,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        12155,
+        13885
+      ],
+      [
+        2,
+        13885,
+        15350
+      ]
+    ]
+  }
+}

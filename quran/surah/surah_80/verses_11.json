@@ -1,0 +1,73 @@
+{
+  "id": 5769,
+  "chapter_id": 80,
+  "verse_key": "80:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 13002,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_011_001.mp3",
+      "text": "كَلَّآ",
+      "translation": "sekali-kali jangan/tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 13003,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_011_002.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia/itu",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 13004,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_011_003.mp3",
+      "text": "تَذْكِرَةٌۭ",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "tadhkiratun"
+    },
+    {
+      "id": 13005,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali jangan (demikian)! Sesungguhnya ajaran-ajaran Tuhan itu adalah suatu peringatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42560,
+    "timestamp_to": 48440,
+    "duration": 5880,
+    "segments": [
+      [
+        1,
+        42165,
+        44864
+      ],
+      [
+        2,
+        44865,
+        46435
+      ],
+      [
+        3,
+        46435,
+        47970
+      ]
+    ]
+  }
+}

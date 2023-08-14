@@ -1,0 +1,99 @@
+{
+  "id": 2384,
+  "chapter_id": 20,
+  "verse_key": "20:36",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَـٰمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 37966,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_036_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 37967,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_036_002.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "qad"
+    },
+    {
+      "id": 37968,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_036_003.mp3",
+      "text": "أُوتِيتَ",
+      "translation": "kamu telah diberi/diperkenankan",
+      "transliteration": "ūtīta"
+    },
+    {
+      "id": 37969,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_036_004.mp3",
+      "text": "سُؤْلَكَ",
+      "translation": "permintaanmu",
+      "transliteration": "su'laka"
+    },
+    {
+      "id": 37970,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_036_005.mp3",
+      "text": "يَـٰمُوسَىٰ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 37971,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Sesungguhnya telah diperkenankan permintaanmu, hai Musa.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 257850,
+    "timestamp_to": 262940,
+    "duration": 5090,
+    "segments": [
+      [
+        1,
+        257825,
+        258545
+      ],
+      [
+        2,
+        258545,
+        258885
+      ],
+      [
+        3,
+        258885,
+        260075
+      ],
+      [
+        4,
+        260075,
+        261045
+      ],
+      [
+        5,
+        261045,
+        262570
+      ]
+    ]
+  }
+}

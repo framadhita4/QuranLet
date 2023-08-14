@@ -1,0 +1,86 @@
+{
+  "id": 5933,
+  "chapter_id": 86,
+  "verse_key": "86:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 1764,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_002_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 1765,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_002_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 1766,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_002_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1767,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_002_004.mp3",
+      "text": "ٱلطَّارِقُ",
+      "translation": "yang datang dimalam hari",
+      "transliteration": "l-ṭāriqu"
+    },
+    {
+      "id": 1768,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tahukah kamu apakah yang datang pada malam hari itu?,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5250,
+    "timestamp_to": 10340,
+    "duration": 5090,
+    "segments": [
+      [
+        1,
+        5165,
+        7325
+      ],
+      [
+        2,
+        7325,
+        8405
+      ],
+      [
+        3,
+        8405,
+        8515
+      ],
+      [
+        4,
+        8515,
+        10190
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5514,
+  "chapter_id": 74,
+  "verse_key": "74:19",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "فَقُتِلَ كَيْفَ قَدَّرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 21696,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_019_001.mp3",
+      "text": "فَقُتِلَ",
+      "translation": "maka celakalah ia",
+      "transliteration": "faqutila"
+    },
+    {
+      "id": 21697,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_019_002.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimanakah",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 21698,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_019_003.mp3",
+      "text": "قَدَّرَ",
+      "translation": "dia menetapkan",
+      "transliteration": "qaddara"
+    },
+    {
+      "id": 21699,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka celakalah dia! Bagaimanakah dia menetapkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72040,
+    "timestamp_to": 74600,
+    "duration": 2560,
+    "segments": [
+      [
+        1,
+        71985,
+        72845
+      ],
+      [
+        2,
+        72845,
+        73405
+      ],
+      [
+        3,
+        73405,
+        74430
+      ]
+    ]
+  }
+}

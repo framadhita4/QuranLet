@@ -1,0 +1,112 @@
+{
+  "id": 5614,
+  "chapter_id": 76,
+  "verse_key": "76:23",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 517,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 26005,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_023_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 26006,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_023_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 26007,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_023_003.mp3",
+      "text": "نَزَّلْنَا",
+      "translation": "Kami telah turunkan",
+      "transliteration": "nazzalnā"
+    },
+    {
+      "id": 26008,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_023_004.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 26009,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_023_005.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al Qur'an",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 26010,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_023_006.mp3",
+      "text": "تَنزِيلًۭا",
+      "translation": "turun",
+      "transliteration": "tanzīlan"
+    },
+    {
+      "id": 26011,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menurunkan Al-Qur`ān kepadamu (hai Muhammad) dengan berangsur-angsur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 216840,
+    "timestamp_to": 223890,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        216795,
+        217975
+      ],
+      [
+        2,
+        217975,
+        218515
+      ],
+      [
+        3,
+        218515,
+        219655
+      ],
+      [
+        4,
+        219655,
+        220425
+      ],
+      [
+        5,
+        220425,
+        221545
+      ],
+      [
+        6,
+        221545,
+        223780
+      ]
+    ]
+  }
+}

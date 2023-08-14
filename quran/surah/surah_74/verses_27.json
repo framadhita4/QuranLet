@@ -1,0 +1,86 @@
+{
+  "id": 5522,
+  "chapter_id": 74,
+  "verse_key": "74:27",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 29862,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_027_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 29863,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_027_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu mengetahui",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 29864,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_027_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 29865,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_027_004.mp3",
+      "text": "سَقَرُ",
+      "translation": "neraka saqar",
+      "transliteration": "saqaru"
+    },
+    {
+      "id": 29866,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah (neraka) Saqar itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101050,
+    "timestamp_to": 105370,
+    "duration": 4290,
+    "segments": [
+      [
+        1,
+        100965,
+        103015
+      ],
+      [
+        2,
+        103015,
+        103985
+      ],
+      [
+        3,
+        103985,
+        104305
+      ],
+      [
+        4,
+        104305,
+        105210
+      ]
+    ]
+  }
+}

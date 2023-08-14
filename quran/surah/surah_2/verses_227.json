@@ -1,0 +1,125 @@
+{
+  "id": 234,
+  "chapter_id": 2,
+  "verse_key": "2:227",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 14,
+  "ruku_number": 29,
+  "manzil_number": 1,
+  "page_number": 36,
+  "juz_number": 2,
+  "text_uthmani": "وَإِنْ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 86206,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_001.mp3",
+      "text": "وَإِنْ",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 86207,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_002.mp3",
+      "text": "عَزَمُوا۟",
+      "translation": "mereka bertetap hati",
+      "transliteration": "ʿazamū"
+    },
+    {
+      "id": 86208,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_003.mp3",
+      "text": "ٱلطَّلَـٰقَ",
+      "translation": "bertalak",
+      "transliteration": "l-ṭalāqa"
+    },
+    {
+      "id": 86209,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_004.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 86210,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_005.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 86211,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_006.mp3",
+      "text": "سَمِيعٌ",
+      "translation": "Maha Mendengar",
+      "transliteration": "samīʿun"
+    },
+    {
+      "id": 86212,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_227_007.mp3",
+      "text": "عَلِيمٌۭ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 86213,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٢٧",
+      "translation": "(227)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika mereka berazam (bertetap hati untuk) talak, maka sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5244020,
+    "timestamp_to": 5251180,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        5243975,
+        5244545
+      ],
+      [
+        2,
+        5244545,
+        5245105
+      ],
+      [
+        3,
+        5245105,
+        5246085
+      ],
+      [
+        4,
+        5246085,
+        5247365
+      ],
+      [
+        5,
+        5247365,
+        5248145
+      ],
+      [
+        6,
+        5248145,
+        5249065
+      ],
+      [
+        7,
+        5249065,
+        5251090
+      ]
+    ]
+  }
+}

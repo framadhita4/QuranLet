@@ -1,0 +1,60 @@
+{
+  "id": 5527,
+  "chapter_id": 74,
+  "verse_key": "74:32",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّا وَٱلْقَمَرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 34743,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_032_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 34744,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_032_002.mp3",
+      "text": "وَٱلْقَمَرِ",
+      "translation": "demi bulan",
+      "transliteration": "wal-qamari"
+    },
+    {
+      "id": 34745,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak<sup foot_note_id=\"1529\">1</sup>, demi bulan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 179160,
+    "timestamp_to": 181480,
+    "duration": 2330,
+    "segments": [
+      [
+        1,
+        178755,
+        179625
+      ],
+      [
+        2,
+        179625,
+        181020
+      ]
+    ]
+  }
+}

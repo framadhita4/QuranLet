@@ -1,0 +1,112 @@
+{
+  "id": 4304,
+  "chapter_id": 42,
+  "verse_key": "42:32",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "ruku_number": 424,
+  "manzil_number": 6,
+  "page_number": 487,
+  "juz_number": 25,
+  "text_uthmani": "وَمِنْ ءَايَـٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3",
+  "words": [
+    {
+      "id": 34647,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_032_001.mp3",
+      "text": "وَمِنْ",
+      "translation": "dan dari",
+      "transliteration": "wamin"
+    },
+    {
+      "id": 34648,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_032_002.mp3",
+      "text": "ءَايَـٰتِهِ",
+      "translation": "tanda-tanda-Nya",
+      "transliteration": "āyātihi"
+    },
+    {
+      "id": 34649,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_032_003.mp3",
+      "text": "ٱلْجَوَارِ",
+      "translation": "kapal-kapal",
+      "transliteration": "l-jawāri"
+    },
+    {
+      "id": 34650,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_032_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 34651,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_032_005.mp3",
+      "text": "ٱلْبَحْرِ",
+      "translation": "laut",
+      "transliteration": "l-baḥri"
+    },
+    {
+      "id": 34652,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_032_006.mp3",
+      "text": "كَٱلْأَعْلَـٰمِ",
+      "translation": "seperti gunung-gunung",
+      "transliteration": "kal-aʿlāmi"
+    },
+    {
+      "id": 34653,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah kapal-kapal (yang berlayar) di laut seperti gunung-gunung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 712100,
+    "timestamp_to": 719730,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        712075,
+        712785
+      ],
+      [
+        2,
+        712785,
+        714075
+      ],
+      [
+        3,
+        714075,
+        715135
+      ],
+      [
+        4,
+        715135,
+        715395
+      ],
+      [
+        5,
+        715395,
+        716255
+      ],
+      [
+        6,
+        716255,
+        719520
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2760,
+  "chapter_id": 23,
+  "verse_key": "23:87",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 66739,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_087_001.mp3",
+      "text": "سَيَقُولُونَ",
+      "translation": "mereka akan mengatakan",
+      "transliteration": "sayaqūlūna"
+    },
+    {
+      "id": 66740,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_087_002.mp3",
+      "text": "لِلَّهِ ۚ",
+      "translation": "kepunyaan Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 66742,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_087_004.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 66743,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_087_005.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 66744,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_087_006.mp3",
+      "text": "تَتَّقُونَ",
+      "translation": "kamu bertakwa",
+      "transliteration": "tattaqūna"
+    },
+    {
+      "id": 66745,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٧",
+      "translation": "(87)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka akan menjawab, \"Kepunyaan Allah.\" Katakanlah, \"Maka apakah kamu tidak bertakwa?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1094250,
+    "timestamp_to": 1102820,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        1094215,
+        1095595
+      ],
+      [
+        2,
+        1095595,
+        1098275
+      ],
+      [
+        3,
+        1098275,
+        1098605
+      ],
+      [
+        4,
+        1098605,
+        1099415
+      ],
+      [
+        5,
+        1099415,
+        1102720
+      ]
+    ]
+  }
+}

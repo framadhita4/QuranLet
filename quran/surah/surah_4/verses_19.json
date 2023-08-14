@@ -1,0 +1,506 @@
+{
+  "id": 512,
+  "chapter_id": 4,
+  "verse_key": "4:19",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 32,
+  "ruku_number": 64,
+  "manzil_number": 1,
+  "page_number": 80,
+  "juz_number": 4,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 21209,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 21210,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 21211,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 21212,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 21213,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_005.mp3",
+      "text": "يَحِلُّ",
+      "translation": "halal",
+      "transliteration": "yaḥillu"
+    },
+    {
+      "id": 21214,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_006.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 21215,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_007.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 21216,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_008.mp3",
+      "text": "تَرِثُوا۟",
+      "translation": "kamu mempusakai",
+      "transliteration": "tarithū"
+    },
+    {
+      "id": 21217,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_009.mp3",
+      "text": "ٱلنِّسَآءَ",
+      "translation": "wanita-wanita",
+      "transliteration": "l-nisāa"
+    },
+    {
+      "id": 21218,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_010.mp3",
+      "text": "كَرْهًۭا ۖ",
+      "translation": "dengan paksa",
+      "transliteration": "karhan"
+    },
+    {
+      "id": 21220,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_012.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 21221,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_013.mp3",
+      "text": "تَعْضُلُوهُنَّ",
+      "translation": "kamu menyusahkan mereka",
+      "transliteration": "taʿḍulūhunna"
+    },
+    {
+      "id": 21222,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_014.mp3",
+      "text": "لِتَذْهَبُوا۟",
+      "translation": "untuk melenyapkan/mengambil kembali",
+      "transliteration": "litadhhabū"
+    },
+    {
+      "id": 21223,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_015.mp3",
+      "text": "بِبَعْضِ",
+      "translation": "sebagian",
+      "transliteration": "bibaʿḍi"
+    },
+    {
+      "id": 21224,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_016.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 21225,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_017.mp3",
+      "text": "ءَاتَيْتُمُوهُنَّ",
+      "translation": "kamu telah memberikan mereka",
+      "transliteration": "ātaytumūhunna"
+    },
+    {
+      "id": 21226,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_018.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 21227,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_019.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 21228,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_020.mp3",
+      "text": "يَأْتِينَ",
+      "translation": "mereka melakukan",
+      "transliteration": "yatīna"
+    },
+    {
+      "id": 21229,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_021.mp3",
+      "text": "بِفَـٰحِشَةٍۢ",
+      "translation": "dengan perbuatan keji",
+      "transliteration": "bifāḥishatin"
+    },
+    {
+      "id": 21230,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_022.mp3",
+      "text": "مُّبَيِّنَةٍۢ ۚ",
+      "translation": "yang nyata",
+      "transliteration": "mubayyinatin"
+    },
+    {
+      "id": 21232,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_024.mp3",
+      "text": "وَعَاشِرُوهُنَّ",
+      "translation": "dan pergauillah mereka",
+      "transliteration": "waʿāshirūhunna"
+    },
+    {
+      "id": 21233,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_025.mp3",
+      "text": "بِٱلْمَعْرُوفِ ۚ",
+      "translation": "dengan cara yang patut",
+      "transliteration": "bil-maʿrūfi"
+    },
+    {
+      "id": 21235,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_027.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 21236,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_028.mp3",
+      "text": "كَرِهْتُمُوهُنَّ",
+      "translation": "kamu membenci mereka",
+      "transliteration": "karih'tumūhunna"
+    },
+    {
+      "id": 21237,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_029.mp3",
+      "text": "فَعَسَىٰٓ",
+      "translation": "maka mungkin/barangkali",
+      "transliteration": "faʿasā"
+    },
+    {
+      "id": 21238,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_030.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 21239,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_031.mp3",
+      "text": "تَكْرَهُوا۟",
+      "translation": "kamu tidak menyukai",
+      "transliteration": "takrahū"
+    },
+    {
+      "id": 21240,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_032.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 21241,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_033.mp3",
+      "text": "وَيَجْعَلَ",
+      "translation": "dan/padahal menjadikan",
+      "transliteration": "wayajʿala"
+    },
+    {
+      "id": 21242,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_034.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 21243,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_035.mp3",
+      "text": "فِيهِ",
+      "translation": "padanya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 21244,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_036.mp3",
+      "text": "خَيْرًۭا",
+      "translation": "kebaikan",
+      "transliteration": "khayran"
+    },
+    {
+      "id": 21245,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_019_037.mp3",
+      "text": "كَثِيرًۭا",
+      "translation": "yang banyak",
+      "transliteration": "kathīran"
+    },
+    {
+      "id": 21246,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang yang beriman, tidak halal bagi kamu mempusakai wanita dengan jalan paksa<sup foot_note_id=\"279\">1</sup> dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, terkecuali bila mereka melakukan pekerjaan keji yang nyata<sup foot_note_id=\"280\">2</sup>.  Dan bergaullah dengan mereka secara patut.  Kemudian bila kamu tidak menyukai mereka, (maka bersabarlah) karena mungkin kamu tidak menyukai sesuatu, padahal Allah menjadikan padanya kebaikan yang banyak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 645450,
+    "timestamp_to": 701850,
+    "duration": 56400,
+    "segments": [
+      [
+        1,
+        645415,
+        647865
+      ],
+      [
+        2,
+        647865,
+        648945
+      ],
+      [
+        3,
+        648945,
+        650025
+      ],
+      [
+        4,
+        650025,
+        650455
+      ],
+      [
+        5,
+        650455,
+        651285
+      ],
+      [
+        6,
+        651285,
+        651945
+      ],
+      [
+        7,
+        651945,
+        652775
+      ],
+      [
+        8,
+        652775,
+        653555
+      ],
+      [
+        9,
+        653555,
+        656225
+      ],
+      [
+        10,
+        656225,
+        657095
+      ],
+      [
+        11,
+        657095,
+        658135
+      ],
+      [
+        12,
+        658135,
+        660405
+      ],
+      [
+        13,
+        660405,
+        661705
+      ],
+      [
+        14,
+        661705,
+        662615
+      ],
+      [
+        15,
+        662615,
+        664025
+      ],
+      [
+        16,
+        664025,
+        666845
+      ],
+      [
+        17,
+        666845,
+        667755
+      ],
+      [
+        18,
+        667755,
+        667815
+      ],
+      [
+        17,
+        667815,
+        669885
+      ],
+      [
+        18,
+        669885,
+        670185
+      ],
+      [
+        19,
+        670185,
+        671855
+      ],
+      [
+        20,
+        671855,
+        673125
+      ],
+      [
+        21,
+        673125,
+        675505
+      ],
+      [
+        22,
+        675505,
+        677985
+      ],
+      [
+        23,
+        677985,
+        681344
+      ],
+      [
+        24,
+        681375,
+        682305
+      ],
+      [
+        25,
+        682305,
+        685255
+      ],
+      [
+        26,
+        685255,
+        687245
+      ],
+      [
+        27,
+        687245,
+        688125
+      ],
+      [
+        28,
+        688125,
+        689195
+      ],
+      [
+        29,
+        689195,
+        690575
+      ],
+      [
+        26,
+        690575,
+        692955
+      ],
+      [
+        27,
+        692955,
+        693805
+      ],
+      [
+        28,
+        693805,
+        694825
+      ],
+      [
+        29,
+        694825,
+        695605
+      ],
+      [
+        30,
+        695605,
+        696995
+      ],
+      [
+        31,
+        696995,
+        697975
+      ],
+      [
+        32,
+        697975,
+        698585
+      ],
+      [
+        33,
+        698585,
+        699335
+      ],
+      [
+        34,
+        699335,
+        701770
+      ]
+    ]
+  }
+}

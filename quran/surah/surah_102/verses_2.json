@@ -1,0 +1,73 @@
+{
+  "id": 6170,
+  "chapter_id": 102,
+  "verse_key": "102:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 546,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3",
+  "words": [
+    {
+      "id": 1095,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_002_001.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "hingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 1096,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_002_002.mp3",
+      "text": "زُرْتُمُ",
+      "translation": "kamu melewati/masuk",
+      "transliteration": "zur'tumu"
+    },
+    {
+      "id": 1097,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_002_003.mp3",
+      "text": "ٱلْمَقَابِرَ",
+      "translation": "kuburan-kuburan",
+      "transliteration": "l-maqābira"
+    },
+    {
+      "id": 1098,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sampai kamu masuk ke dalam kubur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3420,
+    "timestamp_to": 7440,
+    "duration": 4020,
+    "segments": [
+      [
+        1,
+        3315,
+        4245
+      ],
+      [
+        2,
+        4245,
+        5115
+      ],
+      [
+        3,
+        5115,
+        7270
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3827,
+  "chapter_id": 37,
+  "verse_key": "37:39",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 40953,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_039_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 40954,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_039_002.mp3",
+      "text": "تُجْزَوْنَ",
+      "translation": "kamu diberi balasan",
+      "transliteration": "tuj'zawna"
+    },
+    {
+      "id": 40955,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_039_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 40956,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_039_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 40957,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_039_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 40958,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_039_006.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 40959,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu tidak diberi pembalasan, melainkan terhadap kejahatan yang telah kamu kerjakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 333450,
+    "timestamp_to": 341650,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        333375,
+        334045
+      ],
+      [
+        2,
+        334045,
+        335105
+      ],
+      [
+        3,
+        335105,
+        335995
+      ],
+      [
+        4,
+        335995,
+        336325
+      ],
+      [
+        5,
+        336325,
+        337995
+      ],
+      [
+        6,
+        337995,
+        341500
+      ]
+    ]
+  }
+}

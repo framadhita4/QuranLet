@@ -1,0 +1,125 @@
+{
+  "id": 22,
+  "chapter_id": 2,
+  "verse_key": "2:15",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 17494,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_001.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "al-lahu"
+    },
+    {
+      "id": 17495,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_002.mp3",
+      "text": "يَسْتَهْزِئُ",
+      "translation": "akan memperolok-olok",
+      "transliteration": "yastahzi-u"
+    },
+    {
+      "id": 17496,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_003.mp3",
+      "text": "بِهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "bihim"
+    },
+    {
+      "id": 17497,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_004.mp3",
+      "text": "وَيَمُدُّهُمْ",
+      "translation": "dan membiarkan mereka",
+      "transliteration": "wayamudduhum"
+    },
+    {
+      "id": 17498,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_005.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 17499,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_006.mp3",
+      "text": "طُغْيَـٰنِهِمْ",
+      "translation": "kedurhakaan mereka",
+      "transliteration": "ṭugh'yānihim"
+    },
+    {
+      "id": 17500,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_015_007.mp3",
+      "text": "يَعْمَهُونَ",
+      "translation": "terombang-ambing",
+      "transliteration": "yaʿmahūna"
+    },
+    {
+      "id": 17501,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah akan (membalas) olok-olokan mereka dan membiarkan mereka terombang-ambing dalam kesesatan mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 187960,
+    "timestamp_to": 195900,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        187875,
+        188825
+      ],
+      [
+        2,
+        188825,
+        189925
+      ],
+      [
+        3,
+        189925,
+        190465
+      ],
+      [
+        4,
+        190465,
+        191645
+      ],
+      [
+        5,
+        191645,
+        192045
+      ],
+      [
+        6,
+        192045,
+        193315
+      ],
+      [
+        7,
+        193315,
+        195730
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 3918,
+  "chapter_id": 37,
+  "verse_key": "37:130",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 77952,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_130_001.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "kesejahteraan",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 77953,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_130_002.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 77954,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_130_003.mp3",
+      "text": "إِلْ يَاسِينَ",
+      "translation": "Ilyas",
+      "transliteration": "il yāsīna"
+    },
+    {
+      "id": 77956,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٣٠",
+      "translation": "(130)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "(yaitu), \"Kesejahteraan dilimpahkan atas Ilyās.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1065480,
+    "timestamp_to": 1072140,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        1065425,
+        1066495
+      ],
+      [
+        2,
+        1066495,
+        1068525
+      ],
+      [
+        3,
+        1068525,
+        1068885
+      ],
+      [
+        4,
+        1068885,
+        1072020
+      ]
+    ]
+  }
+}

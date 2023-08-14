@@ -1,0 +1,60 @@
+{
+  "id": 5397,
+  "chapter_id": 70,
+  "verse_key": "70:22",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "إِلَّا ٱلْمُصَلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 24909,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_022_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 24910,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_022_002.mp3",
+      "text": "ٱلْمُصَلِّينَ",
+      "translation": "orang-orang yang menegakkan sholat",
+      "transliteration": "l-muṣalīna"
+    },
+    {
+      "id": 24911,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali orang-orang yang mengerjakan salat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 113780,
+    "timestamp_to": 117590,
+    "duration": 3810,
+    "segments": [
+      [
+        1,
+        113735,
+        114265
+      ],
+      [
+        2,
+        114265,
+        117500
+      ]
+    ]
+  }
+}

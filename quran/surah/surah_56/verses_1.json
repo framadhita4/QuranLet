@@ -1,0 +1,73 @@
+{
+  "id": 4980,
+  "chapter_id": 56,
+  "verse_key": "56:1",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": " إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 299,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_001_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 300,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_001_002.mp3",
+      "text": "وَقَعَتِ",
+      "translation": "jatuh/terjadi",
+      "transliteration": "waqaʿati"
+    },
+    {
+      "id": 301,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_001_003.mp3",
+      "text": "ٱلْوَاقِعَةُ",
+      "translation": "kejadian/peristiwa yang besar",
+      "transliteration": "l-wāqiʿatu"
+    },
+    {
+      "id": 302,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila terjadi hari kiamat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3550,
+    "duration": 3550,
+    "segments": [
+      [
+        1,
+        0,
+        670
+      ],
+      [
+        2,
+        670,
+        1660
+      ],
+      [
+        3,
+        1660,
+        3485
+      ]
+    ]
+  }
+}

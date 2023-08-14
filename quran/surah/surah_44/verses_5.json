@@ -1,0 +1,112 @@
+{
+  "id": 4419,
+  "chapter_id": 44,
+  "verse_key": "44:5",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 4738,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_005_001.mp3",
+      "text": "أَمْرًۭا",
+      "translation": "perintah/urusan",
+      "transliteration": "amran"
+    },
+    {
+      "id": 4739,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_005_002.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 4740,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_005_003.mp3",
+      "text": "عِندِنَآ ۚ",
+      "translation": "sisi Kami",
+      "transliteration": "ʿindinā"
+    },
+    {
+      "id": 4742,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_005_005.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 4743,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_005_006.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah Kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 4744,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_005_007.mp3",
+      "text": "مُرْسِلِينَ",
+      "translation": "yang mengutus",
+      "transliteration": "mur'silīna"
+    },
+    {
+      "id": 4745,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) urusan yang besar dari sisi Kami. Sesungguhnya Kami adalah Yang mengutus rasul-rasul,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 31970,
+    "timestamp_to": 42260,
+    "duration": 10290,
+    "segments": [
+      [
+        1,
+        31915,
+        32615
+      ],
+      [
+        2,
+        32615,
+        33775
+      ],
+      [
+        3,
+        33775,
+        35805
+      ],
+      [
+        4,
+        35805,
+        37655
+      ],
+      [
+        5,
+        37655,
+        39275
+      ],
+      [
+        6,
+        39275,
+        42170
+      ]
+    ]
+  }
+}

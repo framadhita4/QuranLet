@@ -1,0 +1,125 @@
+{
+  "id": 2685,
+  "chapter_id": 23,
+  "verse_key": "23:12",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 13990,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 13991,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_002.mp3",
+      "text": "خَلَقْنَا",
+      "translation": "Kami telah menciptakan",
+      "transliteration": "khalaqnā"
+    },
+    {
+      "id": 13992,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_003.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 13993,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 13994,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_005.mp3",
+      "text": "سُلَـٰلَةٍۢ",
+      "translation": "sari pati",
+      "transliteration": "sulālatin"
+    },
+    {
+      "id": 13995,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_006.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 13996,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_012_007.mp3",
+      "text": "طِينٍۢ",
+      "translation": "tanah",
+      "transliteration": "ṭīnin"
+    },
+    {
+      "id": 13997,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Kami telah menciptakan manusia dari suatu sari pati (berasal) dari tanah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 96490,
+    "timestamp_to": 107770,
+    "duration": 11290,
+    "segments": [
+      [
+        1,
+        96455,
+        97255
+      ],
+      [
+        2,
+        97255,
+        98105
+      ],
+      [
+        3,
+        98105,
+        100325
+      ],
+      [
+        4,
+        100325,
+        101125
+      ],
+      [
+        5,
+        101125,
+        102635
+      ],
+      [
+        6,
+        102635,
+        104615
+      ],
+      [
+        7,
+        104615,
+        107710
+      ]
+    ]
+  }
+}

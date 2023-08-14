@@ -1,0 +1,86 @@
+{
+  "id": 5581,
+  "chapter_id": 75,
+  "verse_key": "75:30",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 32866,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_030_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 32867,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_030_002.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 32868,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_030_003.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 32869,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_030_004.mp3",
+      "text": "ٱلْمَسَاقُ",
+      "translation": "tempat kembali",
+      "transliteration": "l-masāqu"
+    },
+    {
+      "id": 32870,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kepada Tuhan-mulah pada hari itu kamu dihalau.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 145060,
+    "timestamp_to": 151200,
+    "duration": 6140,
+    "segments": [
+      [
+        1,
+        144795,
+        145365
+      ],
+      [
+        2,
+        145365,
+        146175
+      ],
+      [
+        3,
+        146175,
+        147415
+      ],
+      [
+        4,
+        147415,
+        150870
+      ]
+    ]
+  }
+}

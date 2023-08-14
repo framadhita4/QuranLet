@@ -1,0 +1,151 @@
+{
+  "id": 5078,
+  "chapter_id": 57,
+  "verse_key": "57:3",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 474,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/57.mp3",
+  "words": [
+    {
+      "id": 2315,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_001.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 2316,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_002.mp3",
+      "text": "ٱلْأَوَّلُ",
+      "translation": "Yang Pertama",
+      "transliteration": "l-awalu"
+    },
+    {
+      "id": 2317,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_003.mp3",
+      "text": "وَٱلْـَٔاخِرُ",
+      "translation": "dan Yang Akhir",
+      "transliteration": "wal-ākhiru"
+    },
+    {
+      "id": 2318,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_004.mp3",
+      "text": "وَٱلظَّـٰهِرُ",
+      "translation": "dan Yang Zahir",
+      "transliteration": "wal-ẓāhiru"
+    },
+    {
+      "id": 2319,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_005.mp3",
+      "text": "وَٱلْبَاطِنُ ۖ",
+      "translation": "dan Yang Batin",
+      "transliteration": "wal-bāṭinu"
+    },
+    {
+      "id": 2321,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_007.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 2322,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_008.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan segala/semua",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 2323,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_009.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 2324,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_003_010.mp3",
+      "text": "عَلِيمٌ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 2325,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah Yang Awal dan Yang Akhir; Yang Zahir dan Yang Batin<sup foot_note_id=\"1453\">1</sup>; dan Dia Maha Mengetahui segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23460,
+    "timestamp_to": 33730,
+    "duration": 10270,
+    "segments": [
+      [
+        1,
+        23395,
+        23715
+      ],
+      [
+        2,
+        23715,
+        24795
+      ],
+      [
+        3,
+        24795,
+        26085
+      ],
+      [
+        4,
+        26085,
+        27285
+      ],
+      [
+        5,
+        27285,
+        28525
+      ],
+      [
+        6,
+        28525,
+        28985
+      ],
+      [
+        7,
+        28985,
+        29825
+      ],
+      [
+        8,
+        29825,
+        30635
+      ],
+      [
+        9,
+        30635,
+        33580
+      ]
+    ]
+  }
+}

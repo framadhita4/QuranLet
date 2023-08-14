@@ -1,0 +1,164 @@
+{
+  "id": 2000,
+  "chapter_id": 16,
+  "verse_key": "16:99",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "ruku_number": 236,
+  "manzil_number": 3,
+  "page_number": 278,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 70965,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia (syaitan)",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 70966,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_002.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak ada",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 70967,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_003.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 70968,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_004.mp3",
+      "text": "سُلْطَـٰنٌ",
+      "translation": "kekuasaan",
+      "transliteration": "sul'ṭānun"
+    },
+    {
+      "id": 70969,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_005.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 70970,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_006.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 70971,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_007.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 70972,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_008.mp3",
+      "text": "وَعَلَىٰ",
+      "translation": "dan atas",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 70973,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_009.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 70974,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_099_010.mp3",
+      "text": "يَتَوَكَّلُونَ",
+      "translation": "mereka bertawakkal",
+      "transliteration": "yatawakkalūna"
+    },
+    {
+      "id": 70975,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya setan itu tidak ada kekuasaannya atas orang-orang yang beriman dan bertawakal kepada Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1969660,
+    "timestamp_to": 1981650,
+    "duration": 11990,
+    "segments": [
+      [
+        1,
+        1969605,
+        1971435
+      ],
+      [
+        2,
+        1971435,
+        1972145
+      ],
+      [
+        3,
+        1972145,
+        1972635
+      ],
+      [
+        4,
+        1972635,
+        1973995
+      ],
+      [
+        5,
+        1973995,
+        1974425
+      ],
+      [
+        6,
+        1974425,
+        1975555
+      ],
+      [
+        7,
+        1975555,
+        1976775
+      ],
+      [
+        8,
+        1976775,
+        1977555
+      ],
+      [
+        9,
+        1977555,
+        1978585
+      ],
+      [
+        10,
+        1978585,
+        1981570
+      ]
+    ]
+  }
+}

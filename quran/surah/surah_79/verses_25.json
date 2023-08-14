@@ -1,0 +1,99 @@
+{
+  "id": 5737,
+  "chapter_id": 79,
+  "verse_key": "79:25",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 28127,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_001.mp3",
+      "text": "فَأَخَذَهُ",
+      "translation": "maka mengambil/menyiksanya",
+      "transliteration": "fa-akhadhahu"
+    },
+    {
+      "id": 28128,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 28129,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_003.mp3",
+      "text": "نَكَالَ",
+      "translation": "siksa",
+      "transliteration": "nakāla"
+    },
+    {
+      "id": 28130,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_004.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 28131,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_005.mp3",
+      "text": "وَٱلْأُولَىٰٓ",
+      "translation": "dan dunia",
+      "transliteration": "wal-ūlā"
+    },
+    {
+      "id": 28132,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Allah mengazabnya dengan azab di akhirat dan azab di dunia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105700,
+    "timestamp_to": 111680,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        105295,
+        106385
+      ],
+      [
+        2,
+        106385,
+        107305
+      ],
+      [
+        3,
+        107305,
+        108135
+      ],
+      [
+        4,
+        108135,
+        109545
+      ],
+      [
+        5,
+        109545,
+        110800
+      ]
+    ]
+  }
+}

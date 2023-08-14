@@ -1,0 +1,86 @@
+{
+  "id": 5,
+  "chapter_id": 1,
+  "verse_key": "1:5",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+  "words": [
+    {
+      "id": 5334,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_005_001.mp3",
+      "text": "إِيَّاكَ",
+      "translation": "hanya kepadaMu",
+      "transliteration": "iyyāka"
+    },
+    {
+      "id": 5335,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_005_002.mp3",
+      "text": "نَعْبُدُ",
+      "translation": "kami menyembah",
+      "transliteration": "naʿbudu"
+    },
+    {
+      "id": 5336,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_005_003.mp3",
+      "text": "وَإِيَّاكَ",
+      "translation": "dan hanya kepadaMu",
+      "transliteration": "wa-iyyāka"
+    },
+    {
+      "id": 5337,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_005_004.mp3",
+      "text": "نَسْتَعِينُ",
+      "translation": "kami mohon pertolongan",
+      "transliteration": "nastaʿīnu"
+    },
+    {
+      "id": 5338,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hanya kepada Engkau-lah kami menyembah<sup foot_note_id=\"6\">1</sup> dan hanya kepada Engkau-lah kami memohon pertolongan<sup foot_note_id=\"7\">2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20950,
+    "timestamp_to": 27660,
+    "duration": 6710,
+    "segments": [
+      [
+        1,
+        20885,
+        21875
+      ],
+      [
+        2,
+        21875,
+        22645
+      ],
+      [
+        3,
+        22645,
+        23765
+      ],
+      [
+        4,
+        23765,
+        27520
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5937,
+  "chapter_id": 86,
+  "verse_key": "86:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 6738,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_006_001.mp3",
+      "text": "خُلِقَ",
+      "translation": "ia diciptakan",
+      "transliteration": "khuliqa"
+    },
+    {
+      "id": 6739,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_006_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 6740,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_006_003.mp3",
+      "text": "مَّآءٍۢ",
+      "translation": "air",
+      "transliteration": "māin"
+    },
+    {
+      "id": 6741,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_006_004.mp3",
+      "text": "دَافِقٍۢ",
+      "translation": "terpancar",
+      "transliteration": "dāfiqin"
+    },
+    {
+      "id": 6742,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia diciptakan dari air yang terpancar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27990,
+    "timestamp_to": 34180,
+    "duration": 6190,
+    "segments": [
+      [
+        1,
+        27915,
+        28625
+      ],
+      [
+        2,
+        28625,
+        28895
+      ],
+      [
+        3,
+        28895,
+        32735
+      ],
+      [
+        4,
+        32735,
+        33960
+      ]
+    ]
+  }
+}

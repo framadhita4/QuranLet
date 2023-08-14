@@ -1,0 +1,112 @@
+{
+  "id": 3394,
+  "chapter_id": 29,
+  "verse_key": "29:54",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "ruku_number": 348,
+  "manzil_number": 5,
+  "page_number": 403,
+  "juz_number": 21,
+  "text_uthmani": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 51099,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_054_001.mp3",
+      "text": "يَسْتَعْجِلُونَكَ",
+      "translation": "mereka minta disegerakan kepadamu",
+      "transliteration": "yastaʿjilūnaka"
+    },
+    {
+      "id": 51100,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_054_002.mp3",
+      "text": "بِٱلْعَذَابِ",
+      "translation": "dengan azab",
+      "transliteration": "bil-ʿadhābi"
+    },
+    {
+      "id": 51101,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_054_003.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 51102,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_054_004.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 51103,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_054_005.mp3",
+      "text": "لَمُحِيطَةٌۢ",
+      "translation": "pasti meliputi",
+      "transliteration": "lamuḥīṭatun"
+    },
+    {
+      "id": 51104,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_054_006.mp3",
+      "text": "بِٱلْكَـٰفِرِينَ",
+      "translation": "dengan orang-orang kafir",
+      "transliteration": "bil-kāfirīna"
+    },
+    {
+      "id": 51105,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka meminta kepadamu supaya segera diturunkan azab.  Dan sesungguhnya Jahanam benar-benar meliputi orang-orang yang kafir,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1082420,
+    "timestamp_to": 1094120,
+    "duration": 11700,
+    "segments": [
+      [
+        1,
+        1082385,
+        1084345
+      ],
+      [
+        2,
+        1084345,
+        1085545
+      ],
+      [
+        3,
+        1085545,
+        1086845
+      ],
+      [
+        4,
+        1086845,
+        1088475
+      ],
+      [
+        5,
+        1088475,
+        1090725
+      ],
+      [
+        6,
+        1090725,
+        1094040
+      ]
+    ]
+  }
+}

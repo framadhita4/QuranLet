@@ -1,0 +1,176 @@
+{
+  "id": 2792,
+  "chapter_id": 24,
+  "verse_key": "24:1",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "ruku_number": 301,
+  "manzil_number": 4,
+  "page_number": 350,
+  "juz_number": 18,
+  "text_uthmani": " سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/24.mp3",
+  "words": [
+    {
+      "id": 663,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_001.mp3",
+      "text": "سُورَةٌ",
+      "translation": "suatu surat",
+      "transliteration": "sūratun"
+    },
+    {
+      "id": 664,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_002.mp3",
+      "text": "أَنزَلْنَـٰهَا",
+      "translation": "Kami turunkannya",
+      "transliteration": "anzalnāhā"
+    },
+    {
+      "id": 665,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_003.mp3",
+      "text": "وَفَرَضْنَـٰهَا",
+      "translation": "dan Kami wajibkannya",
+      "transliteration": "wafaraḍnāhā"
+    },
+    {
+      "id": 666,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_004.mp3",
+      "text": "وَأَنزَلْنَا",
+      "translation": "dan Kami turunkan",
+      "transliteration": "wa-anzalnā"
+    },
+    {
+      "id": 667,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_005.mp3",
+      "text": "فِيهَآ",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 668,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_006.mp3",
+      "text": "ءَايَـٰتٍۭ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātin"
+    },
+    {
+      "id": 669,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_007.mp3",
+      "text": "بَيِّنَـٰتٍۢ",
+      "translation": "nyata/jelas",
+      "transliteration": "bayyinātin"
+    },
+    {
+      "id": 670,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_008.mp3",
+      "text": "لَّعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 671,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_001_009.mp3",
+      "text": "تَذَكَّرُونَ",
+      "translation": "kamu ingat/memperhatikan",
+      "transliteration": "tadhakkarūna"
+    },
+    {
+      "id": 672,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ini adalah) satu surah yang Kami turunkan dan Kami wajibkan (menjalankan hukum-hukum yang ada di dalam)nya dan Kami turunkan di dalamnya ayat-ayat yang jelas agar kamu selalu mengingatinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 30150,
+    "duration": 30150,
+    "segments": [
+      [
+        1,
+        0,
+        1350
+      ],
+      [
+        2,
+        1350,
+        4000
+      ],
+      [
+        3,
+        4000,
+        5860
+      ],
+      [
+        4,
+        5860,
+        8170
+      ],
+      [
+        5,
+        8170,
+        10480
+      ],
+      [
+        6,
+        10480,
+        12720
+      ],
+      [
+        7,
+        12720,
+        13850
+      ],
+      [
+        8,
+        13850,
+        15680
+      ],
+      [
+        4,
+        15680,
+        18930
+      ],
+      [
+        5,
+        18930,
+        21100
+      ],
+      [
+        6,
+        21100,
+        23000
+      ],
+      [
+        7,
+        23000,
+        24890
+      ],
+      [
+        8,
+        24890,
+        26470
+      ],
+      [
+        9,
+        26470,
+        29755
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 4741,
+  "chapter_id": 52,
+  "verse_key": "52:6",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 6112,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_006_001.mp3",
+      "text": "وَٱلْبَحْرِ",
+      "translation": "dan laut",
+      "transliteration": "wal-baḥri"
+    },
+    {
+      "id": 6113,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_006_002.mp3",
+      "text": "ٱلْمَسْجُورِ",
+      "translation": "mendidih",
+      "transliteration": "l-masjūri"
+    },
+    {
+      "id": 6114,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan laut yang di dalam tanahnya ada api,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24280,
+    "timestamp_to": 29220,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        24215,
+        25245
+      ],
+      [
+        2,
+        25245,
+        29080
+      ]
+    ]
+  }
+}

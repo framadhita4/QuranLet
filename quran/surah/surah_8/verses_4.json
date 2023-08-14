@@ -1,0 +1,177 @@
+{
+  "id": 1164,
+  "chapter_id": 8,
+  "verse_key": "8:4",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 146,
+  "manzil_number": 2,
+  "page_number": 177,
+  "juz_number": 9,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُمْ دَرَجَـٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 3518,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 3519,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_002.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 3520,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_003.mp3",
+      "text": "ٱلْمُؤْمِنُونَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minūna"
+    },
+    {
+      "id": 3521,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_004.mp3",
+      "text": "حَقًّۭا ۚ",
+      "translation": "sebenar-benarnya",
+      "transliteration": "ḥaqqan"
+    },
+    {
+      "id": 3523,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_006.mp3",
+      "text": "لَّهُمْ",
+      "translation": "bagi mereka (memperoleh)",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 3524,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_007.mp3",
+      "text": "دَرَجَـٰتٌ",
+      "translation": "derajat",
+      "transliteration": "darajātun"
+    },
+    {
+      "id": 3525,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_008.mp3",
+      "text": "عِندَ",
+      "translation": "disisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 3526,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_009.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 3527,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_010.mp3",
+      "text": "وَمَغْفِرَةٌۭ",
+      "translation": "dan ampunan",
+      "transliteration": "wamaghfiratun"
+    },
+    {
+      "id": 3528,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_011.mp3",
+      "text": "وَرِزْقٌۭ",
+      "translation": "dan rezki",
+      "transliteration": "wariz'qun"
+    },
+    {
+      "id": 3529,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_004_012.mp3",
+      "text": "كَرِيمٌۭ",
+      "translation": "yang mulia",
+      "transliteration": "karīmun"
+    },
+    {
+      "id": 3530,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah orang-orang yang beriman dengan sebenar-benarnya.  Mereka akan memperoleh beberapa derajat ketinggian di sisi Tuhan-nya dan ampunan serta rezeki (nikmat) yang mulia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 75370,
+    "timestamp_to": 93110,
+    "duration": 17740,
+    "segments": [
+      [
+        1,
+        75345,
+        78045
+      ],
+      [
+        2,
+        78045,
+        78435
+      ],
+      [
+        3,
+        78435,
+        80085
+      ],
+      [
+        4,
+        80085,
+        81635
+      ],
+      [
+        5,
+        81635,
+        82295
+      ],
+      [
+        6,
+        82295,
+        83585
+      ],
+      [
+        7,
+        83585,
+        84955
+      ],
+      [
+        8,
+        84955,
+        85975
+      ],
+      [
+        9,
+        85975,
+        88425
+      ],
+      [
+        10,
+        88425,
+        90075
+      ],
+      [
+        11,
+        90075,
+        93060
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 5602,
+  "chapter_id": 76,
+  "verse_key": "76:11",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 12886,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_001.mp3",
+      "text": "فَوَقَىٰهُمُ",
+      "translation": "maka memelihara mereka",
+      "transliteration": "fawaqāhumu"
+    },
+    {
+      "id": 12887,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 12888,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_003.mp3",
+      "text": "شَرَّ",
+      "translation": "kejelekan/kesusahan",
+      "transliteration": "sharra"
+    },
+    {
+      "id": 12889,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_004.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 12890,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_005.mp3",
+      "text": "ٱلْيَوْمِ",
+      "translation": "hari",
+      "transliteration": "l-yawmi"
+    },
+    {
+      "id": 12891,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_006.mp3",
+      "text": "وَلَقَّىٰهُمْ",
+      "translation": "dan Dia menemukan/memberikan pada mereka",
+      "transliteration": "walaqqāhum"
+    },
+    {
+      "id": 12892,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_007.mp3",
+      "text": "نَضْرَةًۭ",
+      "translation": "pandangan/kejernihan",
+      "transliteration": "naḍratan"
+    },
+    {
+      "id": 12893,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_011_008.mp3",
+      "text": "وَسُرُورًۭا",
+      "translation": "dan kegembiraan",
+      "transliteration": "wasurūran"
+    },
+    {
+      "id": 12894,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Tuhan memelihara mereka dari kesusahan hari itu, dan memberikan kepada mereka kejernihan (wajah) dan kegembiraan hati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101200,
+    "timestamp_to": 110340,
+    "duration": 9140,
+    "segments": [
+      [
+        1,
+        101155,
+        102255
+      ],
+      [
+        2,
+        102255,
+        103025
+      ],
+      [
+        3,
+        103025,
+        103595
+      ],
+      [
+        4,
+        103595,
+        104525
+      ],
+      [
+        5,
+        104525,
+        105335
+      ],
+      [
+        6,
+        105335,
+        106695
+      ],
+      [
+        7,
+        106695,
+        107695
+      ],
+      [
+        8,
+        107695,
+        110250
+      ]
+    ]
+  }
+}

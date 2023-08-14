@@ -1,0 +1,73 @@
+{
+  "id": 6043,
+  "chapter_id": 90,
+  "verse_key": "90:20",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 23073,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_020_001.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas/untuk mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 23074,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_020_002.mp3",
+      "text": "نَارٌۭ",
+      "translation": "api/neraka",
+      "transliteration": "nārun"
+    },
+    {
+      "id": 23075,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_020_003.mp3",
+      "text": "مُّؤْصَدَةٌۢ",
+      "translation": "tertutup rapat",
+      "transliteration": "mu'ṣadatun"
+    },
+    {
+      "id": 23076,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berada dalam neraka yang ditutup rapat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 100680,
+    "timestamp_to": 106300,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        100615,
+        101745
+      ],
+      [
+        2,
+        101745,
+        102525
+      ],
+      [
+        3,
+        102525,
+        106120
+      ]
+    ]
+  }
+}

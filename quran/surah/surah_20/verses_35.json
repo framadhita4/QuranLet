@@ -1,0 +1,86 @@
+{
+  "id": 2383,
+  "chapter_id": 20,
+  "verse_key": "20:35",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 37163,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_035_001.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya Engkau",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 37164,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_035_002.mp3",
+      "text": "كُنتَ",
+      "translation": "adalah Engkau",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 37165,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_035_003.mp3",
+      "text": "بِنَا",
+      "translation": "pada kami",
+      "transliteration": "binā"
+    },
+    {
+      "id": 37166,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_035_004.mp3",
+      "text": "بَصِيرًۭا",
+      "translation": "Maha Mengetahui",
+      "transliteration": "baṣīran"
+    },
+    {
+      "id": 37167,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Engkau adalah Maha Melihat (keadaan) kami\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 252550,
+    "timestamp_to": 257850,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        252525,
+        253945
+      ],
+      [
+        2,
+        253945,
+        255435
+      ],
+      [
+        3,
+        255435,
+        256105
+      ],
+      [
+        4,
+        256105,
+        257800
+      ]
+    ]
+  }
+}

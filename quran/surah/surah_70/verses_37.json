@@ -1,0 +1,99 @@
+{
+  "id": 5412,
+  "chapter_id": 70,
+  "verse_key": "70:37",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 505,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 39127,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_037_001.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 39128,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_037_002.mp3",
+      "text": "ٱلْيَمِينِ",
+      "translation": "kanan",
+      "transliteration": "l-yamīni"
+    },
+    {
+      "id": 39129,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_037_003.mp3",
+      "text": "وَعَنِ",
+      "translation": "dan dari",
+      "transliteration": "waʿani"
+    },
+    {
+      "id": 39130,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_037_004.mp3",
+      "text": "ٱلشِّمَالِ",
+      "translation": "kiri",
+      "transliteration": "l-shimāli"
+    },
+    {
+      "id": 39131,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_037_005.mp3",
+      "text": "عِزِينَ",
+      "translation": "berkelompok-kelompok",
+      "transliteration": "ʿizīna"
+    },
+    {
+      "id": 39132,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari kanan dan dari kiri dengan berkelompok-kelompok?<sup foot_note_id=\"1515\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 229540,
+    "timestamp_to": 235230,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        229475,
+        229925
+      ],
+      [
+        2,
+        229925,
+        230895
+      ],
+      [
+        3,
+        230895,
+        231465
+      ],
+      [
+        4,
+        231465,
+        232425
+      ],
+      [
+        5,
+        232425,
+        235110
+      ]
+    ]
+  }
+}

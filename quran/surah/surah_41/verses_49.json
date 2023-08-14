@@ -1,0 +1,177 @@
+{
+  "id": 4267,
+  "chapter_id": 41,
+  "verse_key": "41:49",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "ruku_number": 420,
+  "manzil_number": 6,
+  "page_number": 482,
+  "juz_number": 25,
+  "text_uthmani": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌ قَنُوطٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 47739,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 47740,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_002.mp3",
+      "text": "يَسْـَٔمُ",
+      "translation": "jemu-jemu",
+      "transliteration": "yasamu"
+    },
+    {
+      "id": 47741,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_003.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 47742,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 47743,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_005.mp3",
+      "text": "دُعَآءِ",
+      "translation": "memohon",
+      "transliteration": "duʿāi"
+    },
+    {
+      "id": 47744,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_006.mp3",
+      "text": "ٱلْخَيْرِ",
+      "translation": "kebaikan",
+      "transliteration": "l-khayri"
+    },
+    {
+      "id": 47745,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_007.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 47746,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_008.mp3",
+      "text": "مَّسَّهُ",
+      "translation": "menimpa dia",
+      "transliteration": "massahu"
+    },
+    {
+      "id": 47747,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_009.mp3",
+      "text": "ٱلشَّرُّ",
+      "translation": "kejelekan",
+      "transliteration": "l-sharu"
+    },
+    {
+      "id": 47748,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_010.mp3",
+      "text": "فَيَـُٔوسٌۭ",
+      "translation": "maka dia jemu",
+      "transliteration": "fayaūsun"
+    },
+    {
+      "id": 47749,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_049_011.mp3",
+      "text": "قَنُوطٌۭ",
+      "translation": "putus asa",
+      "transliteration": "qanūṭun"
+    },
+    {
+      "id": 47750,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Manusia tidak jemu memohon kebaikan dan jika mereka ditimpa malapetaka, dia menjadi putus asa lagi putus harapan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 997310,
+    "timestamp_to": 1013400,
+    "duration": 16090,
+    "segments": [
+      [
+        1,
+        997285,
+        997855
+      ],
+      [
+        2,
+        997855,
+        998625
+      ],
+      [
+        3,
+        998625,
+        1000715
+      ],
+      [
+        4,
+        1000715,
+        1001805
+      ],
+      [
+        5,
+        1001805,
+        1004215
+      ],
+      [
+        6,
+        1004215,
+        1005095
+      ],
+      [
+        7,
+        1005095,
+        1005535
+      ],
+      [
+        8,
+        1005535,
+        1007195
+      ],
+      [
+        9,
+        1007195,
+        1008045
+      ],
+      [
+        10,
+        1008045,
+        1010025
+      ],
+      [
+        11,
+        1010025,
+        1013350
+      ]
+    ]
+  }
+}

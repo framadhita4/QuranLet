@@ -1,0 +1,177 @@
+{
+  "id": 85,
+  "chapter_id": 2,
+  "verse_key": "2:78",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "ruku_number": 10,
+  "manzil_number": 1,
+  "page_number": 12,
+  "juz_number": 1,
+  "text_uthmani": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 63416,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_001.mp3",
+      "text": "وَمِنْهُمْ",
+      "translation": "dan diantara mereka",
+      "transliteration": "wamin'hum"
+    },
+    {
+      "id": 63417,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_002.mp3",
+      "text": "أُمِّيُّونَ",
+      "translation": "mereka buta huruf",
+      "transliteration": "ummiyyūna"
+    },
+    {
+      "id": 63418,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 63419,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_004.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 63420,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_005.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "Al Kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 63421,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_006.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 63422,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_007.mp3",
+      "text": "أَمَانِىَّ",
+      "translation": "dongengan",
+      "transliteration": "amāniyya"
+    },
+    {
+      "id": 63423,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_008.mp3",
+      "text": "وَإِنْ",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 63424,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_009.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 63425,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_010.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 63426,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_078_011.mp3",
+      "text": "يَظُنُّونَ",
+      "translation": "mereka menduga-duga",
+      "transliteration": "yaẓunnūna"
+    },
+    {
+      "id": 63427,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di antara mereka ada yang buta huruf, tidak mengetahui Alkitab (Taurat), kecuali dongengan bohong belaka<sup foot_note_id=\"67\">1</sup> dan mereka hanya menduga-duga.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1508250,
+    "timestamp_to": 1521910,
+    "duration": 13660,
+    "segments": [
+      [
+        1,
+        1508165,
+        1509355
+      ],
+      [
+        2,
+        1509355,
+        1511195
+      ],
+      [
+        3,
+        1511195,
+        1511525
+      ],
+      [
+        4,
+        1511525,
+        1512565
+      ],
+      [
+        5,
+        1512565,
+        1513675
+      ],
+      [
+        6,
+        1513675,
+        1515515
+      ],
+      [
+        7,
+        1515515,
+        1516715
+      ],
+      [
+        8,
+        1516715,
+        1517165
+      ],
+      [
+        9,
+        1517165,
+        1517625
+      ],
+      [
+        10,
+        1517625,
+        1518325
+      ],
+      [
+        11,
+        1518325,
+        1521760
+      ]
+    ]
+  }
+}

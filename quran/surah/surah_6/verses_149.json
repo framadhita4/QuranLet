@@ -1,0 +1,138 @@
+{
+  "id": 938,
+  "chapter_id": 6,
+  "verse_key": "6:149",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "ruku_number": 119,
+  "manzil_number": 2,
+  "page_number": 148,
+  "juz_number": 8,
+  "text_uthmani": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 80283,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 80284,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_002.mp3",
+      "text": "فَلِلَّهِ",
+      "translation": "maka bagi Allah",
+      "transliteration": "falillahi"
+    },
+    {
+      "id": 80285,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_003.mp3",
+      "text": "ٱلْحُجَّةُ",
+      "translation": "hujjah/alasan",
+      "transliteration": "l-ḥujatu"
+    },
+    {
+      "id": 80286,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_004.mp3",
+      "text": "ٱلْبَـٰلِغَةُ ۖ",
+      "translation": "yang jelas lagi kuat",
+      "transliteration": "l-bālighatu"
+    },
+    {
+      "id": 80288,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_006.mp3",
+      "text": "فَلَوْ",
+      "translation": "maka jika",
+      "transliteration": "falaw"
+    },
+    {
+      "id": 80289,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_007.mp3",
+      "text": "شَآءَ",
+      "translation": "Dia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 80290,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_008.mp3",
+      "text": "لَهَدَىٰكُمْ",
+      "translation": "pasti Dia memberi petunjuk kepadamu",
+      "transliteration": "lahadākum"
+    },
+    {
+      "id": 80291,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_149_009.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 80292,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٤٩",
+      "translation": "(149)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Allah mempunyai hujah yang jelas lagi kuat; maka jika Dia menghendaki, pasti Dia memberi petunjuk kepada kamu semuanya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3834330,
+    "timestamp_to": 3846870,
+    "duration": 12540,
+    "segments": [
+      [
+        1,
+        3833715,
+        3834165
+      ],
+      [
+        2,
+        3834165,
+        3835525
+      ],
+      [
+        3,
+        3835525,
+        3836645
+      ],
+      [
+        4,
+        3836645,
+        3838415
+      ],
+      [
+        5,
+        3838415,
+        3839015
+      ],
+      [
+        6,
+        3839015,
+        3841555
+      ],
+      [
+        7,
+        3841555,
+        3842805
+      ],
+      [
+        8,
+        3842805,
+        3846230
+      ]
+    ]
+  }
+}

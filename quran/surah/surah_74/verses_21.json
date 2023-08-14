@@ -1,0 +1,60 @@
+{
+  "id": 5516,
+  "chapter_id": 74,
+  "verse_key": "74:21",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ نَظَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 23959,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_021_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 23960,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_021_002.mp3",
+      "text": "نَظَرَ",
+      "translation": "dia memperhatikan/memikirkan",
+      "transliteration": "naẓara"
+    },
+    {
+      "id": 23961,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian dia memikirkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 78280,
+    "timestamp_to": 80660,
+    "duration": 2380,
+    "segments": [
+      [
+        1,
+        78225,
+        79535
+      ],
+      [
+        2,
+        79535,
+        80530
+      ]
+    ]
+  }
+}

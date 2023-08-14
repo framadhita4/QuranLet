@@ -1,0 +1,99 @@
+{
+  "id": 3533,
+  "chapter_id": 32,
+  "verse_key": "32:30",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "ruku_number": 362,
+  "manzil_number": 5,
+  "page_number": 417,
+  "juz_number": 21,
+  "text_uthmani": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 33108,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_030_001.mp3",
+      "text": "فَأَعْرِضْ",
+      "translation": "maka berpalinglah",
+      "transliteration": "fa-aʿriḍ"
+    },
+    {
+      "id": 33109,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_030_002.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 33110,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_030_003.mp3",
+      "text": "وَٱنتَظِرْ",
+      "translation": "dan tunggulah",
+      "transliteration": "wa-intaẓir"
+    },
+    {
+      "id": 33111,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_030_004.mp3",
+      "text": "إِنَّهُم",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 33112,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_030_005.mp3",
+      "text": "مُّنتَظِرُونَ",
+      "translation": "orang-orang yang menunggu",
+      "transliteration": "muntaẓirūna"
+    },
+    {
+      "id": 33113,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka berpalinglah kamu dari mereka dan tunggulah, sesungguhnya mereka (juga) menunggu <sup foot_note_id=\"1197\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 466180,
+    "timestamp_to": 476520,
+    "duration": 10350,
+    "segments": [
+      [
+        1,
+        466155,
+        467195
+      ],
+      [
+        2,
+        467195,
+        467995
+      ],
+      [
+        3,
+        467995,
+        469455
+      ],
+      [
+        4,
+        469455,
+        470885
+      ],
+      [
+        5,
+        470885,
+        476480
+      ]
+    ]
+  }
+}

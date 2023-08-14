@@ -1,0 +1,86 @@
+{
+  "id": 3947,
+  "chapter_id": 37,
+  "verse_key": "37:159",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 81701,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_159_001.mp3",
+      "text": "سُبْحَـٰنَ",
+      "translation": "Maha Suci",
+      "transliteration": "sub'ḥāna"
+    },
+    {
+      "id": 81702,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_159_002.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 81703,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_159_003.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 81704,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_159_004.mp3",
+      "text": "يَصِفُونَ",
+      "translation": "mereka sifatkan",
+      "transliteration": "yaṣifūna"
+    },
+    {
+      "id": 81705,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٥٩",
+      "translation": "(159)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Suci Allah dari apa yang mereka sifatkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1280830,
+    "timestamp_to": 1287650,
+    "duration": 6820,
+    "segments": [
+      [
+        1,
+        1280745,
+        1281845
+      ],
+      [
+        2,
+        1281845,
+        1282735
+      ],
+      [
+        3,
+        1282735,
+        1284125
+      ],
+      [
+        4,
+        1284125,
+        1287490
+      ]
+    ]
+  }
+}

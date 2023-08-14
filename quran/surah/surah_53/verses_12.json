@@ -1,0 +1,86 @@
+{
+  "id": 4796,
+  "chapter_id": 53,
+  "verse_key": "53:12",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 13797,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_001.mp3",
+      "text": "أَفَتُمَـٰرُونَهُۥ",
+      "translation": "apakah maka kamu membantahnya",
+      "transliteration": "afatumārūnahu"
+    },
+    {
+      "id": 13798,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 13799,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_003.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 13800,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_004.mp3",
+      "text": "يَرَىٰ",
+      "translation": "dia lihat",
+      "transliteration": "yarā"
+    },
+    {
+      "id": 13801,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kamu (musyrikin Mekah) hendak membantahnya tentang apa yang telah dilihatnya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50680,
+    "timestamp_to": 55590,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        50245,
+        52565
+      ],
+      [
+        2,
+        52565,
+        53345
+      ],
+      [
+        3,
+        53345,
+        53815
+      ],
+      [
+        4,
+        53815,
+        55120
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5703,
+  "chapter_id": 78,
+  "verse_key": "78:31",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 33849,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_031_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 33850,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_031_002.mp3",
+      "text": "لِلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang bertaqwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 33851,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_031_003.mp3",
+      "text": "مَفَازًا",
+      "translation": "keuntungan",
+      "transliteration": "mafāzan"
+    },
+    {
+      "id": 33852,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa mendapat kemenangan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 167720,
+    "timestamp_to": 172190,
+    "duration": 4470,
+    "segments": [
+      [
+        1,
+        167655,
+        168965
+      ],
+      [
+        2,
+        168965,
+        170905
+      ],
+      [
+        3,
+        170905,
+        171990
+      ]
+    ]
+  }
+}

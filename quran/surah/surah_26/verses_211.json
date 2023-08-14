@@ -1,0 +1,99 @@
+{
+  "id": 3143,
+  "chapter_id": 26,
+  "verse_key": "26:211",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85656,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_211_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 85657,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_211_002.mp3",
+      "text": "يَنۢبَغِى",
+      "translation": "patut",
+      "transliteration": "yanbaghī"
+    },
+    {
+      "id": 85658,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_211_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 85659,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_211_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 85660,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_211_005.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka kuasa",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 85661,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢١١",
+      "translation": "(211)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah patut mereka membawa turun Al-Qur`ān itu dan mereka pun tidak akan kuasa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1822930,
+    "timestamp_to": 1830040,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        1822875,
+        1823495
+      ],
+      [
+        2,
+        1823495,
+        1825225
+      ],
+      [
+        3,
+        1825225,
+        1825865
+      ],
+      [
+        4,
+        1825865,
+        1826505
+      ],
+      [
+        5,
+        1826505,
+        1829940
+      ]
+    ]
+  }
+}

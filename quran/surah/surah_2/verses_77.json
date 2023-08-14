@@ -1,0 +1,151 @@
+{
+  "id": 84,
+  "chapter_id": 2,
+  "verse_key": "2:77",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "ruku_number": 10,
+  "manzil_number": 1,
+  "page_number": 12,
+  "juz_number": 1,
+  "text_uthmani": "أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 63127,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_001.mp3",
+      "text": "أَوَلَا",
+      "translation": "tidakkah",
+      "transliteration": "awalā"
+    },
+    {
+      "id": 63128,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_002.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 63129,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_003.mp3",
+      "text": "أَنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 63130,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_004.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 63131,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_005.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 63132,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_006.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 63133,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_007.mp3",
+      "text": "يُسِرُّونَ",
+      "translation": "mereka rahasiakan",
+      "transliteration": "yusirrūna"
+    },
+    {
+      "id": 63134,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_008.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 63135,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_077_009.mp3",
+      "text": "يُعْلِنُونَ",
+      "translation": "mereka nyatakan",
+      "transliteration": "yuʿ'linūna"
+    },
+    {
+      "id": 63136,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidakkah mereka mengetahui bahwa Allah mengetahui segala yang mereka sembunyikan dan segala yang mereka nyatakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1497460,
+    "timestamp_to": 1508250,
+    "duration": 10790,
+    "segments": [
+      [
+        1,
+        1497385,
+        1498305
+      ],
+      [
+        2,
+        1498305,
+        1499405
+      ],
+      [
+        3,
+        1499405,
+        1500585
+      ],
+      [
+        4,
+        1500585,
+        1501385
+      ],
+      [
+        5,
+        1501385,
+        1502225
+      ],
+      [
+        6,
+        1502225,
+        1502675
+      ],
+      [
+        7,
+        1502675,
+        1504065
+      ],
+      [
+        8,
+        1504065,
+        1504765
+      ],
+      [
+        9,
+        1504765,
+        1508090
+      ]
+    ]
+  }
+}

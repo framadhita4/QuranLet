@@ -1,0 +1,151 @@
+{
+  "id": 1211,
+  "chapter_id": 8,
+  "verse_key": "8:51",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "ruku_number": 152,
+  "manzil_number": 2,
+  "page_number": 183,
+  "juz_number": 10,
+  "text_uthmani": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 49190,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 49191,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_002.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/disebabkan",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 49192,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_003.mp3",
+      "text": "قَدَّمَتْ",
+      "translation": "memperbuat",
+      "transliteration": "qaddamat"
+    },
+    {
+      "id": 49193,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_004.mp3",
+      "text": "أَيْدِيكُمْ",
+      "translation": "tangan-tangan kamu sendiri",
+      "transliteration": "aydīkum"
+    },
+    {
+      "id": 49194,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_005.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 49195,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_006.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 49196,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_007.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak/bukan",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 49197,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_008.mp3",
+      "text": "بِظَلَّـٰمٍۢ",
+      "translation": "dengan aniaya",
+      "transliteration": "biẓallāmin"
+    },
+    {
+      "id": 49198,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_051_009.mp3",
+      "text": "لِّلْعَبِيدِ",
+      "translation": "kepada hamba",
+      "transliteration": "lil'ʿabīdi"
+    },
+    {
+      "id": 49199,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikian itu disebabkan oleh perbuatan tanganmu sendiri.  Sesungguhnya Allah sekali-kali tidak menganiaya hamba-Nya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1203420,
+    "timestamp_to": 1215670,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        1203365,
+        1204415
+      ],
+      [
+        2,
+        1204415,
+        1205005
+      ],
+      [
+        3,
+        1205005,
+        1206135
+      ],
+      [
+        4,
+        1206135,
+        1207505
+      ],
+      [
+        5,
+        1207505,
+        1209035
+      ],
+      [
+        6,
+        1209035,
+        1210005
+      ],
+      [
+        7,
+        1210005,
+        1210695
+      ],
+      [
+        8,
+        1210695,
+        1211975
+      ],
+      [
+        9,
+        1211975,
+        1215590
+      ]
+    ]
+  }
+}

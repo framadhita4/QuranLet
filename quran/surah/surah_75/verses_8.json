@@ -1,0 +1,60 @@
+{
+  "id": 5559,
+  "chapter_id": 75,
+  "verse_key": "75:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "وَخَسَفَ ٱلْقَمَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 8882,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_008_001.mp3",
+      "text": "وَخَسَفَ",
+      "translation": "dan gelap/hilang cahaya",
+      "transliteration": "wakhasafa"
+    },
+    {
+      "id": 8883,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_008_002.mp3",
+      "text": "ٱلْقَمَرُ",
+      "translation": "bulan",
+      "transliteration": "l-qamaru"
+    },
+    {
+      "id": 8884,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila bulan telah hilang cahayanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41140,
+    "timestamp_to": 43200,
+    "duration": 2060,
+    "segments": [
+      [
+        1,
+        41095,
+        41955
+      ],
+      [
+        2,
+        41955,
+        43100
+      ]
+    ]
+  }
+}

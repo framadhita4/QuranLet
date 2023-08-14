@@ -1,0 +1,99 @@
+{
+  "id": 2676,
+  "chapter_id": 23,
+  "verse_key": "23:3",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 2581,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_003_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 2582,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_003_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 2583,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_003_003.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 2584,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_003_004.mp3",
+      "text": "ٱللَّغْوِ",
+      "translation": "perbuatan tak berguna",
+      "transliteration": "l-laghwi"
+    },
+    {
+      "id": 2585,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_003_005.mp3",
+      "text": "مُعْرِضُونَ",
+      "translation": "mereka berpaling/menjauhkan diri",
+      "transliteration": "muʿ'riḍūna"
+    },
+    {
+      "id": 2586,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang menjauhkan diri dari (perbuatan dan perkataan) yang tiada berguna,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14020,
+    "timestamp_to": 21130,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        13985,
+        15355
+      ],
+      [
+        2,
+        15355,
+        15745
+      ],
+      [
+        3,
+        15745,
+        16185
+      ],
+      [
+        4,
+        16185,
+        17085
+      ],
+      [
+        5,
+        17085,
+        21070
+      ]
+    ]
+  }
+}

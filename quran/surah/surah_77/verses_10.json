@@ -1,0 +1,73 @@
+{
+  "id": 5632,
+  "chapter_id": 77,
+  "verse_key": "77:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 11609,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_010_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 11610,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_010_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 11611,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_010_003.mp3",
+      "text": "نُسِفَتْ",
+      "translation": "dihancurkan",
+      "transliteration": "nusifat"
+    },
+    {
+      "id": 11612,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila gunung-gunung telah dihancurkan menjadi debu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 29280,
+    "timestamp_to": 32020,
+    "duration": 2740,
+    "segments": [
+      [
+        1,
+        28975,
+        29555
+      ],
+      [
+        2,
+        29555,
+        30515
+      ],
+      [
+        3,
+        30515,
+        31660
+      ]
+    ]
+  }
+}

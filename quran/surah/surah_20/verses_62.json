@@ -1,0 +1,99 @@
+{
+  "id": 2410,
+  "chapter_id": 20,
+  "verse_key": "20:62",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 315,
+  "juz_number": 16,
+  "text_uthmani": "فَتَنَـٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 55670,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_062_001.mp3",
+      "text": "فَتَنَـٰزَعُوٓا۟",
+      "translation": "maka mereka berbantah-bantahan",
+      "transliteration": "fatanāzaʿū"
+    },
+    {
+      "id": 55671,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_062_002.mp3",
+      "text": "أَمْرَهُم",
+      "translation": "urusan mereka",
+      "transliteration": "amrahum"
+    },
+    {
+      "id": 55672,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_062_003.mp3",
+      "text": "بَيْنَهُمْ",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 55673,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_062_004.mp3",
+      "text": "وَأَسَرُّوا۟",
+      "translation": "dan mereka merahasiakan",
+      "transliteration": "wa-asarrū"
+    },
+    {
+      "id": 55674,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_062_005.mp3",
+      "text": "ٱلنَّجْوَىٰ",
+      "translation": "percakapan",
+      "transliteration": "l-najwā"
+    },
+    {
+      "id": 55675,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka berbantah-bantahan tentang urusan mereka di antara mereka dan mereka merahasiakan percakapan (mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 578390,
+    "timestamp_to": 587270,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        578365,
+        581075
+      ],
+      [
+        2,
+        581075,
+        582715
+      ],
+      [
+        3,
+        582715,
+        583935
+      ],
+      [
+        4,
+        583935,
+        584975
+      ],
+      [
+        5,
+        584975,
+        586830
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4893,
+  "chapter_id": 54,
+  "verse_key": "54:47",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 46494,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_047_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 46495,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_047_002.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 46496,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_047_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 46497,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_047_004.mp3",
+      "text": "ضَلَـٰلٍۢ",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālin"
+    },
+    {
+      "id": 46498,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_047_005.mp3",
+      "text": "وَسُعُرٍۢ",
+      "translation": "dan dalam siksaan/gila",
+      "transliteration": "wasuʿurin"
+    },
+    {
+      "id": 46499,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang berdosa berada dalam kesesatan (di dunia) dan dalam neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 418230,
+    "timestamp_to": 425470,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        418165,
+        419745
+      ],
+      [
+        2,
+        419745,
+        421335
+      ],
+      [
+        3,
+        421335,
+        421905
+      ],
+      [
+        4,
+        421905,
+        424045
+      ],
+      [
+        5,
+        424045,
+        425330
+      ]
+    ]
+  }
+}

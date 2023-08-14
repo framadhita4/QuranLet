@@ -1,0 +1,73 @@
+{
+  "id": 3905,
+  "chapter_id": 37,
+  "verse_key": "37:117",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 75855,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_117_001.mp3",
+      "text": "وَءَاتَيْنَـٰهُمَا",
+      "translation": "dan Kami berikan kepada keduanya",
+      "transliteration": "waātaynāhumā"
+    },
+    {
+      "id": 75856,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_117_002.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 75857,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_117_003.mp3",
+      "text": "ٱلْمُسْتَبِينَ",
+      "translation": "yang sangat jelas",
+      "transliteration": "l-mus'tabīna"
+    },
+    {
+      "id": 75858,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١٧",
+      "translation": "(117)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami berikan kepada keduanya kitab yang sangat jelas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 974770,
+    "timestamp_to": 981300,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        974715,
+        976675
+      ],
+      [
+        2,
+        976675,
+        977705
+      ],
+      [
+        3,
+        977705,
+        981190
+      ]
+    ]
+  }
+}

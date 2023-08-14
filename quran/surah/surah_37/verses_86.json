@@ -1,0 +1,99 @@
+{
+  "id": 3874,
+  "chapter_id": 37,
+  "verse_key": "37:86",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 66426,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_086_001.mp3",
+      "text": "أَئِفْكًا",
+      "translation": "apakah kebohongan",
+      "transliteration": "a-if'kan"
+    },
+    {
+      "id": 66427,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_086_002.mp3",
+      "text": "ءَالِهَةًۭ",
+      "translation": "tuhan",
+      "transliteration": "ālihatan"
+    },
+    {
+      "id": 66428,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_086_003.mp3",
+      "text": "دُونَ",
+      "translation": "selain",
+      "transliteration": "dūna"
+    },
+    {
+      "id": 66429,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_086_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 66430,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_086_005.mp3",
+      "text": "تُرِيدُونَ",
+      "translation": "kamu menghendaki",
+      "transliteration": "turīdūna"
+    },
+    {
+      "id": 66431,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kamu menghendaki sembahan-sembahan selain Allah dengan jalan berbohong?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 710940,
+    "timestamp_to": 718700,
+    "duration": 7760,
+    "segments": [
+      [
+        1,
+        710875,
+        711915
+      ],
+      [
+        2,
+        711915,
+        713825
+      ],
+      [
+        3,
+        713825,
+        714405
+      ],
+      [
+        4,
+        714405,
+        715365
+      ],
+      [
+        5,
+        715365,
+        718570
+      ]
+    ]
+  }
+}

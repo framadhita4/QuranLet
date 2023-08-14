@@ -1,0 +1,73 @@
+{
+  "id": 5683,
+  "chapter_id": 78,
+  "verse_key": "78:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 12975,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_011_001.mp3",
+      "text": "وَجَعَلْنَا",
+      "translation": "dan Kami jadikan",
+      "transliteration": "wajaʿalnā"
+    },
+    {
+      "id": 12976,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_011_002.mp3",
+      "text": "ٱلنَّهَارَ",
+      "translation": "siang",
+      "transliteration": "l-nahāra"
+    },
+    {
+      "id": 12977,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_011_003.mp3",
+      "text": "مَعَاشًۭا",
+      "translation": "penghidupan",
+      "transliteration": "maʿāshan"
+    },
+    {
+      "id": 12978,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami jadikan siang untuk mencari penghidupan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48490,
+    "timestamp_to": 53530,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        48405,
+        49585
+      ],
+      [
+        2,
+        49585,
+        51545
+      ],
+      [
+        3,
+        51545,
+        53350
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4830,
+  "chapter_id": 53,
+  "verse_key": "53:46",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 45859,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_046_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 45860,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_046_002.mp3",
+      "text": "نُّطْفَةٍ",
+      "translation": "air mani",
+      "transliteration": "nuṭ'fatin"
+    },
+    {
+      "id": 45861,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_046_003.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 45862,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_046_004.mp3",
+      "text": "تُمْنَىٰ",
+      "translation": "dipancarkan",
+      "transliteration": "tum'nā"
+    },
+    {
+      "id": 45863,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari air mani, apabila dipancarkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 374020,
+    "timestamp_to": 378170,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        373545,
+        373845
+      ],
+      [
+        2,
+        373845,
+        375595
+      ],
+      [
+        3,
+        375595,
+        376265
+      ],
+      [
+        4,
+        376265,
+        377280
+      ]
+    ]
+  }
+}

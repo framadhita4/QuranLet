@@ -1,0 +1,99 @@
+{
+  "id": 4236,
+  "chapter_id": 41,
+  "verse_key": "41:18",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "ruku_number": 416,
+  "manzil_number": 6,
+  "page_number": 478,
+  "juz_number": 24,
+  "text_uthmani": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 20138,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_018_001.mp3",
+      "text": "وَنَجَّيْنَا",
+      "translation": "dan Kami selamatkan",
+      "transliteration": "wanajjaynā"
+    },
+    {
+      "id": 20139,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_018_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 20140,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_018_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 20141,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_018_004.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 20142,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_018_005.mp3",
+      "text": "يَتَّقُونَ",
+      "translation": "mereka bertakwa",
+      "transliteration": "yattaqūna"
+    },
+    {
+      "id": 20143,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami selamatkan orang-orang yang beriman dan mereka adalah orang-orang yang bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 345020,
+    "timestamp_to": 352830,
+    "duration": 7810,
+    "segments": [
+      [
+        1,
+        344975,
+        346165
+      ],
+      [
+        2,
+        346165,
+        347145
+      ],
+      [
+        3,
+        347145,
+        348355
+      ],
+      [
+        4,
+        348355,
+        349365
+      ],
+      [
+        5,
+        349365,
+        352760
+      ]
+    ]
+  }
+}

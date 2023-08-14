@@ -1,0 +1,112 @@
+{
+  "id": 5652,
+  "chapter_id": 77,
+  "verse_key": "77:30",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 32815,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_001.mp3",
+      "text": "ٱنطَلِقُوٓا۟",
+      "translation": "pergilah kamu",
+      "transliteration": "inṭaliqū"
+    },
+    {
+      "id": 32816,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 32817,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_003.mp3",
+      "text": "ظِلٍّۢ",
+      "translation": "naungan",
+      "transliteration": "ẓillin"
+    },
+    {
+      "id": 32818,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_004.mp3",
+      "text": "ذِى",
+      "translation": "mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 32819,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_005.mp3",
+      "text": "ثَلَـٰثِ",
+      "translation": "tiga",
+      "transliteration": "thalāthi"
+    },
+    {
+      "id": 32820,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_006.mp3",
+      "text": "شُعَبٍۢ",
+      "translation": "cabang",
+      "transliteration": "shuʿabin"
+    },
+    {
+      "id": 32821,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pergilah kamu mendapatkan naungan yang mempunyai tiga cabang,<sup foot_note_id=\"1543\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 139910,
+    "timestamp_to": 148160,
+    "duration": 8260,
+    "segments": [
+      [
+        1,
+        139815,
+        143594
+      ],
+      [
+        2,
+        143595,
+        144145
+      ],
+      [
+        3,
+        144145,
+        145755
+      ],
+      [
+        4,
+        145755,
+        146115
+      ],
+      [
+        5,
+        146115,
+        146945
+      ],
+      [
+        6,
+        146945,
+        147670
+      ]
+    ]
+  }
+}

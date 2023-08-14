@@ -1,0 +1,86 @@
+{
+  "id": 3012,
+  "chapter_id": 26,
+  "verse_key": "26:80",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 64222,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_080_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 64223,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_080_002.mp3",
+      "text": "مَرِضْتُ",
+      "translation": "aku sakit",
+      "transliteration": "mariḍ'tu"
+    },
+    {
+      "id": 64224,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_080_003.mp3",
+      "text": "فَهُوَ",
+      "translation": "maka Dia",
+      "transliteration": "fahuwa"
+    },
+    {
+      "id": 64225,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_080_004.mp3",
+      "text": "يَشْفِينِ",
+      "translation": "mengobati/menyembuhkan aku",
+      "transliteration": "yashfīni"
+    },
+    {
+      "id": 64226,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila aku sakit, Dia-lah Yang menyembuhkan aku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 774710,
+    "timestamp_to": 779730,
+    "duration": 5020,
+    "segments": [
+      [
+        1,
+        774655,
+        775525
+      ],
+      [
+        2,
+        775525,
+        776335
+      ],
+      [
+        3,
+        776335,
+        776955
+      ],
+      [
+        4,
+        776955,
+        779610
+      ]
+    ]
+  }
+}

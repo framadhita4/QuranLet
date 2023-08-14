@@ -1,0 +1,73 @@
+{
+  "id": 5910,
+  "chapter_id": 85,
+  "verse_key": "85:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 712,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_001_001.mp3",
+      "text": "وَٱلسَّمَآءِ",
+      "translation": "demi langit",
+      "transliteration": "wal-samāi"
+    },
+    {
+      "id": 713,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_001_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "memiliki",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 714,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_001_003.mp3",
+      "text": "ٱلْبُرُوجِ",
+      "translation": "gugusan bintang-bintang",
+      "transliteration": "l-burūji"
+    },
+    {
+      "id": 715,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi langit yang mempunyai gugusan bintang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 8390,
+    "duration": 8390,
+    "segments": [
+      [
+        1,
+        0,
+        3450
+      ],
+      [
+        2,
+        3450,
+        4120
+      ],
+      [
+        3,
+        4120,
+        8325
+      ]
+    ]
+  }
+}

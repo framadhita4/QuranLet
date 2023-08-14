@@ -1,0 +1,99 @@
+{
+  "id": 5792,
+  "chapter_id": 80,
+  "verse_key": "80:34",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 36520,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_034_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 36521,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_034_002.mp3",
+      "text": "يَفِرُّ",
+      "translation": "lari",
+      "transliteration": "yafirru"
+    },
+    {
+      "id": 36522,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_034_003.mp3",
+      "text": "ٱلْمَرْءُ",
+      "translation": "manusia",
+      "transliteration": "l-maru"
+    },
+    {
+      "id": 36523,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_034_004.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 36524,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_034_005.mp3",
+      "text": "أَخِيهِ",
+      "translation": "saudaranya",
+      "transliteration": "akhīhi"
+    },
+    {
+      "id": 36525,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada hari ketika manusia lari dari saudaranya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 151130,
+    "timestamp_to": 156850,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        150965,
+        151595
+      ],
+      [
+        2,
+        151595,
+        152535
+      ],
+      [
+        3,
+        152535,
+        153475
+      ],
+      [
+        4,
+        153475,
+        153765
+      ],
+      [
+        5,
+        153765,
+        156350
+      ]
+    ]
+  }
+}

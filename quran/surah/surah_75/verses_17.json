@@ -1,0 +1,86 @@
+{
+  "id": 5568,
+  "chapter_id": 75,
+  "verse_key": "75:17",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 19557,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_017_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 19558,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_017_002.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas Kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 19559,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_017_003.mp3",
+      "text": "جَمْعَهُۥ",
+      "translation": "mengumpulkannya",
+      "transliteration": "jamʿahu"
+    },
+    {
+      "id": 19560,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_017_004.mp3",
+      "text": "وَقُرْءَانَهُۥ",
+      "translation": "dan membacakannya",
+      "transliteration": "waqur'ānahu"
+    },
+    {
+      "id": 19561,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya atas tanggungan Kami-lah mengumpulkannya (di dadamu) dan (membuatmu pandai) membacanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 82200,
+    "timestamp_to": 87560,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        82095,
+        83365
+      ],
+      [
+        2,
+        83365,
+        84395
+      ],
+      [
+        3,
+        84395,
+        85485
+      ],
+      [
+        4,
+        85485,
+        87380
+      ]
+    ]
+  }
+}

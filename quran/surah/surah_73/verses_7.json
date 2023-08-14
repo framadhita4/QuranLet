@@ -1,0 +1,112 @@
+{
+  "id": 5482,
+  "chapter_id": 73,
+  "verse_key": "73:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 7940,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_007_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 7941,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_007_002.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 7942,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_007_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 7943,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_007_004.mp3",
+      "text": "ٱلنَّهَارِ",
+      "translation": "siang hari",
+      "transliteration": "l-nahāri"
+    },
+    {
+      "id": 7944,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_007_005.mp3",
+      "text": "سَبْحًۭا",
+      "translation": "pekerjaan/urusan",
+      "transliteration": "sabḥan"
+    },
+    {
+      "id": 7945,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_007_006.mp3",
+      "text": "طَوِيلًۭا",
+      "translation": "panjang/banyak",
+      "transliteration": "ṭawīlan"
+    },
+    {
+      "id": 7946,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu pada siang hari mempunyai urusan yang panjang (banyak).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 35110,
+    "timestamp_to": 41330,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        34555,
+        35515
+      ],
+      [
+        2,
+        35515,
+        35945
+      ],
+      [
+        3,
+        35945,
+        36185
+      ],
+      [
+        4,
+        36185,
+        37835
+      ],
+      [
+        5,
+        37835,
+        39125
+      ],
+      [
+        6,
+        39125,
+        40720
+      ]
+    ]
+  }
+}

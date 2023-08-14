@@ -1,0 +1,73 @@
+{
+  "id": 5298,
+  "chapter_id": 68,
+  "verse_key": "68:27",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "بَلْ نَحْنُ مَحْرُومُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 30379,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_027_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 30380,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_027_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 30381,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_027_003.mp3",
+      "text": "مَحْرُومُونَ",
+      "translation": "orang-orang yang menghalangi",
+      "transliteration": "maḥrūmūna"
+    },
+    {
+      "id": 30382,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bahkan kita dihalangi (dari memperoleh hasilnya)\"<sup foot_note_id=\"1494\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 196940,
+    "timestamp_to": 201640,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        196875,
+        197295
+      ],
+      [
+        2,
+        197295,
+        197875
+      ],
+      [
+        3,
+        197875,
+        201510
+      ]
+    ]
+  }
+}

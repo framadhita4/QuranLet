@@ -1,0 +1,125 @@
+{
+  "id": 351,
+  "chapter_id": 3,
+  "verse_key": "3:58",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "ruku_number": 47,
+  "manzil_number": 1,
+  "page_number": 57,
+  "juz_number": 3,
+  "text_uthmani": "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْـَٔايَـٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 53363,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 53364,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_002.mp3",
+      "text": "نَتْلُوهُ",
+      "translation": "kami membacakannya",
+      "transliteration": "natlūhu"
+    },
+    {
+      "id": 53365,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_003.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 53366,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 53367,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_005.mp3",
+      "text": "ٱلْـَٔايَـٰتِ",
+      "translation": "ayat-ayat/bukti-bukti",
+      "transliteration": "l-āyāti"
+    },
+    {
+      "id": 53368,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_006.mp3",
+      "text": "وَٱلذِّكْرِ",
+      "translation": "dan Adz Dzikir/Al Quran",
+      "transliteration": "wal-dhik'ri"
+    },
+    {
+      "id": 53369,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_058_007.mp3",
+      "text": "ٱلْحَكِيمِ",
+      "translation": "yang penuh hikmah",
+      "transliteration": "l-ḥakīmi"
+    },
+    {
+      "id": 53370,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah (kisah ʻIsa ), Kami membacakannya kepada kamu sebagian dari bukti-bukti (kerasulannya) dan (membacakan) Al-Qur`ān yang penuh hikmah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1324800,
+    "timestamp_to": 1333500,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        1324775,
+        1325835
+      ],
+      [
+        2,
+        1325835,
+        1326875
+      ],
+      [
+        3,
+        1326875,
+        1327745
+      ],
+      [
+        4,
+        1327745,
+        1328095
+      ],
+      [
+        5,
+        1328095,
+        1329545
+      ],
+      [
+        6,
+        1329545,
+        1330455
+      ],
+      [
+        7,
+        1330455,
+        1333450
+      ]
+    ]
+  }
+}

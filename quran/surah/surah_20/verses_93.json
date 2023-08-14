@@ -1,0 +1,86 @@
+{
+  "id": 2441,
+  "chapter_id": 20,
+  "verse_key": "20:93",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "page_number": 318,
+  "juz_number": 16,
+  "text_uthmani": "أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 69294,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_093_001.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 69295,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_093_002.mp3",
+      "text": "تَتَّبِعَنِ ۖ",
+      "translation": "kamu mengikuti aku",
+      "transliteration": "tattabiʿani"
+    },
+    {
+      "id": 69297,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_093_004.mp3",
+      "text": "أَفَعَصَيْتَ",
+      "translation": "apakah kamu mendurhakai",
+      "transliteration": "afaʿaṣayta"
+    },
+    {
+      "id": 69298,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_093_005.mp3",
+      "text": "أَمْرِى",
+      "translation": "perintahku",
+      "transliteration": "amrī"
+    },
+    {
+      "id": 69299,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(sehingga) kamu tidak mengikuti aku? Maka apakah kamu telah (sengaja) mendurhakai perintahku?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1051170,
+    "timestamp_to": 1056080,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        1050795,
+        1051675
+      ],
+      [
+        2,
+        1051675,
+        1053045
+      ],
+      [
+        3,
+        1053045,
+        1054455
+      ],
+      [
+        4,
+        1054455,
+        1055660
+      ]
+    ]
+  }
+}

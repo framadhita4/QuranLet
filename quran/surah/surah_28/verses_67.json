@@ -1,0 +1,177 @@
+{
+  "id": 3319,
+  "chapter_id": 28,
+  "verse_key": "28:67",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "ruku_number": 340,
+  "manzil_number": 5,
+  "page_number": 393,
+  "juz_number": 20,
+  "text_uthmani": "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 58189,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 58190,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_002.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 58191,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_003.mp3",
+      "text": "تَابَ",
+      "translation": "dia bertaubat",
+      "transliteration": "tāba"
+    },
+    {
+      "id": 58192,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_004.mp3",
+      "text": "وَءَامَنَ",
+      "translation": "dan dia beriman",
+      "transliteration": "waāmana"
+    },
+    {
+      "id": 58193,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_005.mp3",
+      "text": "وَعَمِلَ",
+      "translation": "dan dia beramal",
+      "transliteration": "waʿamila"
+    },
+    {
+      "id": 58194,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_006.mp3",
+      "text": "صَـٰلِحًۭا",
+      "translation": "kebajikan/saleh",
+      "transliteration": "ṣāliḥan"
+    },
+    {
+      "id": 58195,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_007.mp3",
+      "text": "فَعَسَىٰٓ",
+      "translation": "maka mudah-mudahan",
+      "transliteration": "faʿasā"
+    },
+    {
+      "id": 58196,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_008.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 58197,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_009.mp3",
+      "text": "يَكُونَ",
+      "translation": "dia adalah",
+      "transliteration": "yakūna"
+    },
+    {
+      "id": 58198,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_010.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 58199,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_067_011.mp3",
+      "text": "ٱلْمُفْلِحِينَ",
+      "translation": "orang-orang yang beruntung",
+      "transliteration": "l-muf'liḥīna"
+    },
+    {
+      "id": 58200,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang yang bertobat dan beriman serta mengerjakan amal yang saleh, semoga dia termasuk orang-orang yang beruntung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1533950,
+    "timestamp_to": 1548970,
+    "duration": 15020,
+    "segments": [
+      [
+        1,
+        1533895,
+        1535545
+      ],
+      [
+        2,
+        1535545,
+        1535825
+      ],
+      [
+        3,
+        1535825,
+        1537435
+      ],
+      [
+        4,
+        1537435,
+        1538485
+      ],
+      [
+        5,
+        1538485,
+        1539365
+      ],
+      [
+        6,
+        1539365,
+        1541115
+      ],
+      [
+        7,
+        1541115,
+        1542845
+      ],
+      [
+        8,
+        1542845,
+        1543435
+      ],
+      [
+        9,
+        1543435,
+        1544955
+      ],
+      [
+        10,
+        1544955,
+        1545325
+      ],
+      [
+        11,
+        1545325,
+        1548870
+      ]
+    ]
+  }
+}

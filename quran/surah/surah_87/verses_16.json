@@ -1,0 +1,86 @@
+{
+  "id": 5964,
+  "chapter_id": 87,
+  "verse_key": "87:16",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 18745,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 18746,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_002.mp3",
+      "text": "تُؤْثِرُونَ",
+      "translation": "kamu memilih",
+      "transliteration": "tu'thirūna"
+    },
+    {
+      "id": 18747,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_003.mp3",
+      "text": "ٱلْحَيَوٰةَ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayata"
+    },
+    {
+      "id": 18748,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_004.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 18749,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi kamu (orang-orang kafir) memilih kehidupan duniawi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 75220,
+    "timestamp_to": 79710,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        74705,
+        75115
+      ],
+      [
+        2,
+        75115,
+        76325
+      ],
+      [
+        3,
+        76325,
+        77465
+      ],
+      [
+        4,
+        77465,
+        78720
+      ]
+    ]
+  }
+}

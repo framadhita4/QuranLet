@@ -1,0 +1,99 @@
+{
+  "id": 5020,
+  "chapter_id": 56,
+  "verse_key": "56:41",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 42573,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_041_001.mp3",
+      "text": "وَأَصْحَـٰبُ",
+      "translation": "dan kaum/golongan",
+      "transliteration": "wa-aṣḥābu"
+    },
+    {
+      "id": 42574,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_041_002.mp3",
+      "text": "ٱلشِّمَالِ",
+      "translation": "kiri",
+      "transliteration": "l-shimāli"
+    },
+    {
+      "id": 42575,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_041_003.mp3",
+      "text": "مَآ",
+      "translation": "apa/siapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 42576,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_041_004.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "kaum/golongan",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 42577,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_041_005.mp3",
+      "text": "ٱلشِّمَالِ",
+      "translation": "kiri",
+      "transliteration": "l-shimāli"
+    },
+    {
+      "id": 42578,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan golongan kiri, siapakah golongan kiri itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 250400,
+    "timestamp_to": 259230,
+    "duration": 8830,
+    "segments": [
+      [
+        1,
+        250325,
+        251605
+      ],
+      [
+        2,
+        251605,
+        252795
+      ],
+      [
+        3,
+        252795,
+        254835
+      ],
+      [
+        4,
+        254835,
+        255915
+      ],
+      [
+        5,
+        255915,
+        258660
+      ]
+    ]
+  }
+}

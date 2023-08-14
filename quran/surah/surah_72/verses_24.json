@@ -1,0 +1,177 @@
+{
+  "id": 5471,
+  "chapter_id": 72,
+  "verse_key": "72:24",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 509,
+  "manzil_number": 7,
+  "page_number": 573,
+  "juz_number": 29,
+  "text_uthmani": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3",
+  "words": [
+    {
+      "id": 27072,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_001.mp3",
+      "text": "حَتَّىٰٓ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 27073,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila/tatkala",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 27074,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_003.mp3",
+      "text": "رَأَوْا۟",
+      "translation": "mereka melihat",
+      "transliteration": "ra-aw"
+    },
+    {
+      "id": 27075,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 27076,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_005.mp3",
+      "text": "يُوعَدُونَ",
+      "translation": "mereka dijanjikan/diancam",
+      "transliteration": "yūʿadūna"
+    },
+    {
+      "id": 27077,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_006.mp3",
+      "text": "فَسَيَعْلَمُونَ",
+      "translation": "maka mereka akan mengetahui",
+      "transliteration": "fasayaʿlamūna"
+    },
+    {
+      "id": 27078,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_007.mp3",
+      "text": "مَنْ",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 27079,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_008.mp3",
+      "text": "أَضْعَفُ",
+      "translation": "lebih lemah",
+      "transliteration": "aḍʿafu"
+    },
+    {
+      "id": 27080,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_009.mp3",
+      "text": "نَاصِرًۭا",
+      "translation": "penolong/pembantu",
+      "transliteration": "nāṣiran"
+    },
+    {
+      "id": 27081,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_010.mp3",
+      "text": "وَأَقَلُّ",
+      "translation": "dan lebih sedikit",
+      "transliteration": "wa-aqallu"
+    },
+    {
+      "id": 27082,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_024_011.mp3",
+      "text": "عَدَدًۭا",
+      "translation": "bilangan",
+      "transliteration": "ʿadadan"
+    },
+    {
+      "id": 27083,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sehingga apabila mereka melihat azab yang diancamkan kepada mereka, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit bilangannya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 272290,
+    "timestamp_to": 284100,
+    "duration": 11810,
+    "segments": [
+      [
+        1,
+        271765,
+        273855
+      ],
+      [
+        2,
+        273855,
+        274435
+      ],
+      [
+        3,
+        274435,
+        275045
+      ],
+      [
+        4,
+        275045,
+        275425
+      ],
+      [
+        5,
+        275425,
+        276625
+      ],
+      [
+        6,
+        276625,
+        278235
+      ],
+      [
+        7,
+        278235,
+        278605
+      ],
+      [
+        8,
+        278605,
+        279355
+      ],
+      [
+        9,
+        279355,
+        281125
+      ],
+      [
+        10,
+        281125,
+        282045
+      ],
+      [
+        11,
+        282045,
+        283480
+      ]
+    ]
+  }
+}

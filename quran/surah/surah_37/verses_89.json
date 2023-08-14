@@ -1,0 +1,73 @@
+{
+  "id": 3877,
+  "chapter_id": 37,
+  "verse_key": "37:89",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَقَالَ إِنِّى سَقِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 67558,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_089_001.mp3",
+      "text": "فَقَالَ",
+      "translation": "lalu di berkata",
+      "transliteration": "faqāla"
+    },
+    {
+      "id": 67559,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_089_002.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 67560,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_089_003.mp3",
+      "text": "سَقِيمٌۭ",
+      "translation": "sakit",
+      "transliteration": "saqīmun"
+    },
+    {
+      "id": 67561,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, ia berkata, \"Sesungguhnya aku sakit\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 732990,
+    "timestamp_to": 738500,
+    "duration": 5510,
+    "segments": [
+      [
+        1,
+        732925,
+        733745
+      ],
+      [
+        2,
+        733745,
+        735205
+      ],
+      [
+        3,
+        735205,
+        738380
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5548,
+  "chapter_id": 74,
+  "verse_key": "74:53",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 50558,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_053_001.mp3",
+      "text": "كَلَّا ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 50560,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_053_003.mp3",
+      "text": "بَل",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 50561,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_053_004.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 50562,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_053_005.mp3",
+      "text": "يَخَافُونَ",
+      "translation": "mereka takut",
+      "transliteration": "yakhāfūna"
+    },
+    {
+      "id": 50563,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_053_006.mp3",
+      "text": "ٱلْـَٔاخِرَةَ",
+      "translation": "hari akhirat",
+      "transliteration": "l-ākhirata"
+    },
+    {
+      "id": 50564,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak.  Sebenarnya mereka tidak takut kepada negeri akhirat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 289540,
+    "timestamp_to": 294530,
+    "duration": 4990,
+    "segments": [
+      [
+        1,
+        289485,
+        290405
+      ],
+      [
+        2,
+        290405,
+        291095
+      ],
+      [
+        3,
+        291095,
+        291625
+      ],
+      [
+        4,
+        291625,
+        292775
+      ],
+      [
+        5,
+        292775,
+        294400
+      ]
+    ]
+  }
+}

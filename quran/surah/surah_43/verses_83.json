@@ -1,0 +1,138 @@
+{
+  "id": 4408,
+  "chapter_id": 43,
+  "verse_key": "43:83",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 65594,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_001.mp3",
+      "text": "فَذَرْهُمْ",
+      "translation": "maka biarkanlah mereka",
+      "transliteration": "fadharhum"
+    },
+    {
+      "id": 65595,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_002.mp3",
+      "text": "يَخُوضُوا۟",
+      "translation": "mereka sesat",
+      "transliteration": "yakhūḍū"
+    },
+    {
+      "id": 65596,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_003.mp3",
+      "text": "وَيَلْعَبُوا۟",
+      "translation": "dan mereka bermain-main",
+      "transliteration": "wayalʿabū"
+    },
+    {
+      "id": 65597,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_004.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 65598,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_005.mp3",
+      "text": "يُلَـٰقُوا۟",
+      "translation": "mereka menemui",
+      "transliteration": "yulāqū"
+    },
+    {
+      "id": 65599,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_006.mp3",
+      "text": "يَوْمَهُمُ",
+      "translation": "hari mereka",
+      "transliteration": "yawmahumu"
+    },
+    {
+      "id": 65600,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_007.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 65601,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_083_008.mp3",
+      "text": "يُوعَدُونَ",
+      "translation": "mereka dijanjikan",
+      "transliteration": "yūʿadūna"
+    },
+    {
+      "id": 65602,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka biarlah mereka tenggelam (dalam kesesatan) dan bermain-main sampai mereka menemui hari yang dijanjikan kepada mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1126560,
+    "timestamp_to": 1137300,
+    "duration": 10740,
+    "segments": [
+      [
+        1,
+        1126505,
+        1127585
+      ],
+      [
+        2,
+        1127585,
+        1128725
+      ],
+      [
+        3,
+        1128725,
+        1129875
+      ],
+      [
+        4,
+        1129875,
+        1130765
+      ],
+      [
+        5,
+        1130765,
+        1131745
+      ],
+      [
+        6,
+        1131745,
+        1132855
+      ],
+      [
+        7,
+        1132855,
+        1133805
+      ],
+      [
+        8,
+        1133805,
+        1137220
+      ]
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "id": 4081,
+  "chapter_id": 39,
+  "verse_key": "39:23",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 400,
+  "manzil_number": 6,
+  "page_number": 461,
+  "juz_number": 23,
+  "text_uthmani": "ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَـٰبًا مُّتَشَـٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 25434,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_001.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "al-lahu"
+    },
+    {
+      "id": 25435,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_002.mp3",
+      "text": "نَزَّلَ",
+      "translation": "Dia menurunkan",
+      "transliteration": "nazzala"
+    },
+    {
+      "id": 25436,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_003.mp3",
+      "text": "أَحْسَنَ",
+      "translation": "paling baik",
+      "transliteration": "aḥsana"
+    },
+    {
+      "id": 25437,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_004.mp3",
+      "text": "ٱلْحَدِيثِ",
+      "translation": "pembicaraan/perkataan",
+      "transliteration": "l-ḥadīthi"
+    },
+    {
+      "id": 25438,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_005.mp3",
+      "text": "كِتَـٰبًۭا",
+      "translation": "Kitab",
+      "transliteration": "kitāban"
+    },
+    {
+      "id": 25439,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_006.mp3",
+      "text": "مُّتَشَـٰبِهًۭا",
+      "translation": "serupa",
+      "transliteration": "mutashābihan"
+    },
+    {
+      "id": 25440,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_007.mp3",
+      "text": "مَّثَانِىَ",
+      "translation": "berulang-ulang",
+      "transliteration": "mathāniya"
+    },
+    {
+      "id": 25441,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_008.mp3",
+      "text": "تَقْشَعِرُّ",
+      "translation": "gemetar",
+      "transliteration": "taqshaʿirru"
+    },
+    {
+      "id": 25442,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_009.mp3",
+      "text": "مِنْهُ",
+      "translation": "dari padanya/karenanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 25443,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_010.mp3",
+      "text": "جُلُودُ",
+      "translation": "kulit-kulit",
+      "transliteration": "julūdu"
+    },
+    {
+      "id": 25444,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_011.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 25445,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_012.mp3",
+      "text": "يَخْشَوْنَ",
+      "translation": "(mereka) takut",
+      "transliteration": "yakhshawna"
+    },
+    {
+      "id": 25446,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_013.mp3",
+      "text": "رَبَّهُمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbahum"
+    },
+    {
+      "id": 25447,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_014.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 25448,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_015.mp3",
+      "text": "تَلِينُ",
+      "translation": "menjadi lembut/tenang",
+      "transliteration": "talīnu"
+    },
+    {
+      "id": 25449,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_016.mp3",
+      "text": "جُلُودُهُمْ",
+      "translation": "kulit-kulit mereka",
+      "transliteration": "julūduhum"
+    },
+    {
+      "id": 25450,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_017.mp3",
+      "text": "وَقُلُوبُهُمْ",
+      "translation": "dan hati mereka",
+      "transliteration": "waqulūbuhum"
+    },
+    {
+      "id": 25451,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_018.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 25452,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_019.mp3",
+      "text": "ذِكْرِ",
+      "translation": "mengingat",
+      "transliteration": "dhik'ri"
+    },
+    {
+      "id": 25453,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_020.mp3",
+      "text": "ٱللَّهِ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 25455,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_022.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 25456,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_023.mp3",
+      "text": "هُدَى",
+      "translation": "petunjuk",
+      "transliteration": "hudā"
+    },
+    {
+      "id": 25457,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_024.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 25458,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_025.mp3",
+      "text": "يَهْدِى",
+      "translation": "Dia memberi petunjuk",
+      "transliteration": "yahdī"
+    },
+    {
+      "id": 25459,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_026.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 25460,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_027.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 25461,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_028.mp3",
+      "text": "يَشَآءُ ۚ",
+      "translation": "Dia kehendaki",
+      "transliteration": "yashāu"
+    },
+    {
+      "id": 25463,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_030.mp3",
+      "text": "وَمَن",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 25464,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_031.mp3",
+      "text": "يُضْلِلِ",
+      "translation": "menyesatkan",
+      "transliteration": "yuḍ'lili"
+    },
+    {
+      "id": 25465,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_032.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 25466,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_033.mp3",
+      "text": "فَمَا",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 25467,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_034.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 25468,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_035.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 25469,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_023_036.mp3",
+      "text": "هَادٍ",
+      "translation": "seorang petunjuk/pemimpin",
+      "transliteration": "hādin"
+    },
+    {
+      "id": 25470,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah telah menurunkan perkataan yang paling baik (yaitu) Al-Qur`ān yang serupa (mutu ayat-ayatnya) lagi berulang-ulang<sup foot_note_id=\"1313\">1</sup>; gemetar karenanya kulit orang-orang yang takut kepada Tuhan-nya, kemudian menjadi tenang kulit dan hati mereka pada waktu mengingat Allah.  Itulah petunjuk Allah dengan kitab itu Dia menunjuki siapa yang dikehendaki-Nya.  Dan barang siapa yang disesatkan Allah, maka tidak ada seorang pemberi petunjuk baginya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 544040,
+    "timestamp_to": 582570,
+    "duration": 38530,
+    "segments": [
+      [
+        1,
+        543975,
+        545055
+      ],
+      [
+        2,
+        545055,
+        545865
+      ],
+      [
+        3,
+        545865,
+        546565
+      ],
+      [
+        4,
+        546565,
+        547655
+      ],
+      [
+        5,
+        547655,
+        548525
+      ],
+      [
+        6,
+        548525,
+        550605
+      ],
+      [
+        7,
+        550605,
+        552425
+      ],
+      [
+        8,
+        552425,
+        553715
+      ],
+      [
+        9,
+        553715,
+        554315
+      ],
+      [
+        10,
+        554315,
+        555115
+      ],
+      [
+        11,
+        555115,
+        556095
+      ],
+      [
+        12,
+        556095,
+        557135
+      ],
+      [
+        13,
+        557135,
+        558195
+      ],
+      [
+        14,
+        558195,
+        559635
+      ],
+      [
+        15,
+        559635,
+        560395
+      ],
+      [
+        16,
+        560395,
+        561635
+      ],
+      [
+        17,
+        561635,
+        563135
+      ],
+      [
+        18,
+        563135,
+        563715
+      ],
+      [
+        19,
+        563715,
+        564355
+      ],
+      [
+        20,
+        564355,
+        566535
+      ],
+      [
+        21,
+        566535,
+        568025
+      ],
+      [
+        22,
+        568025,
+        568455
+      ],
+      [
+        23,
+        568455,
+        569315
+      ],
+      [
+        24,
+        569315,
+        570075
+      ],
+      [
+        25,
+        570075,
+        570685
+      ],
+      [
+        26,
+        570685,
+        570825
+      ],
+      [
+        33,
+        570825,
+        572105
+      ],
+      [
+        27,
+        572105,
+        575275
+      ],
+      [
+        28,
+        575275,
+        575715
+      ],
+      [
+        25,
+        575715,
+        576665
+      ],
+      [
+        29,
+        576665,
+        577565
+      ],
+      [
+        30,
+        577565,
+        578205
+      ],
+      [
+        31,
+        578205,
+        578915
+      ],
+      [
+        32,
+        578915,
+        579505
+      ],
+      [
+        33,
+        579505,
+        580015
+      ],
+      [
+        34,
+        580015,
+        582140
+      ]
+    ]
+  }
+}

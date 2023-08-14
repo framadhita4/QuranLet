@@ -1,0 +1,86 @@
+{
+  "id": 5369,
+  "chapter_id": 69,
+  "verse_key": "69:46",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 45965,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_046_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 45966,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_046_002.mp3",
+      "text": "لَقَطَعْنَا",
+      "translation": "pasti Kami potong",
+      "transliteration": "laqaṭaʿnā"
+    },
+    {
+      "id": 45967,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_046_003.mp3",
+      "text": "مِنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 45968,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_046_004.mp3",
+      "text": "ٱلْوَتِينَ",
+      "translation": "urat jantung",
+      "transliteration": "l-watīna"
+    },
+    {
+      "id": 45969,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian benar-benar Kami potong urat tali jantungnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 347470,
+    "timestamp_to": 354000,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        347395,
+        348355
+      ],
+      [
+        2,
+        348355,
+        349725
+      ],
+      [
+        3,
+        349725,
+        350335
+      ],
+      [
+        4,
+        350335,
+        353870
+      ]
+    ]
+  }
+}

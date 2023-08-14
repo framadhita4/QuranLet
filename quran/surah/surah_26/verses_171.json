@@ -1,0 +1,86 @@
+{
+  "id": 3103,
+  "chapter_id": 26,
+  "verse_key": "26:171",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 82899,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_171_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 82900,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_171_002.mp3",
+      "text": "عَجُوزًۭا",
+      "translation": "perempuan tua",
+      "transliteration": "ʿajūzan"
+    },
+    {
+      "id": 82901,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_171_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 82902,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_171_004.mp3",
+      "text": "ٱلْغَـٰبِرِينَ",
+      "translation": "orang-orang yang tinggal",
+      "transliteration": "l-ghābirīna"
+    },
+    {
+      "id": 82903,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٧١",
+      "translation": "(171)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali seorang perempuan tua (istrinya) yang termasuk dalam golongan yang tinggal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1491100,
+    "timestamp_to": 1497320,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        1491075,
+        1492015
+      ],
+      [
+        2,
+        1492015,
+        1493855
+      ],
+      [
+        3,
+        1493855,
+        1494185
+      ],
+      [
+        4,
+        1494185,
+        1497270
+      ]
+    ]
+  }
+}

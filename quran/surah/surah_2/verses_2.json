@@ -1,0 +1,125 @@
+{
+  "id": 9,
+  "chapter_id": 2,
+  "verse_key": "2:2",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 2,
+  "manzil_number": 1,
+  "page_number": 2,
+  "juz_number": 1,
+  "text_uthmani": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 1195,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 1196,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_002.mp3",
+      "text": "ٱلْكِتَـٰبُ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābu"
+    },
+    {
+      "id": 1197,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_003.mp3",
+      "text": "لَا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 1198,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_004.mp3",
+      "text": "رَيْبَ ۛ",
+      "translation": "keraguan",
+      "transliteration": "rayba"
+    },
+    {
+      "id": 1200,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_006.mp3",
+      "text": "فِيهِ ۛ",
+      "translation": "didalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 1202,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_008.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 1203,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_002_009.mp3",
+      "text": "لِّلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang takwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 1204,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kitab (Al-Qur`ān)<sup foot_note_id=\"11\">1</sup> ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa<sup foot_note_id=\"12\">2</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7650,
+    "timestamp_to": 16640,
+    "duration": 8990,
+    "segments": [
+      [
+        1,
+        7595,
+        8495
+      ],
+      [
+        2,
+        8495,
+        9395
+      ],
+      [
+        3,
+        9395,
+        9775
+      ],
+      [
+        4,
+        9775,
+        10345
+      ],
+      [
+        5,
+        10345,
+        12605
+      ],
+      [
+        6,
+        12605,
+        12905
+      ],
+      [
+        7,
+        12905,
+        16500
+      ]
+    ]
+  }
+}

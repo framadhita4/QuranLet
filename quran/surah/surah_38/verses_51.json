@@ -1,0 +1,125 @@
+{
+  "id": 4021,
+  "chapter_id": 38,
+  "verse_key": "38:51",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ فِيهَا بِفَـٰكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 49640,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_001.mp3",
+      "text": "مُتَّكِـِٔينَ",
+      "translation": "mereka bersandar",
+      "transliteration": "muttakiīna"
+    },
+    {
+      "id": 49641,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_002.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 49642,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_003.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka meminta",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 49643,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_004.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya (sorga)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 49644,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_005.mp3",
+      "text": "بِفَـٰكِهَةٍۢ",
+      "translation": "dengan buah-buahan",
+      "transliteration": "bifākihatin"
+    },
+    {
+      "id": 49645,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_006.mp3",
+      "text": "كَثِيرَةٍۢ",
+      "translation": "banyak",
+      "transliteration": "kathīratin"
+    },
+    {
+      "id": 49646,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_051_007.mp3",
+      "text": "وَشَرَابٍۢ",
+      "translation": "dan minuman",
+      "transliteration": "washarābin"
+    },
+    {
+      "id": 49647,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di dalamnya mereka bertelekan (di atas dipan-dipan) sambil meminta buah-buahan yang banyak dan minuman di surga itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 686370,
+    "timestamp_to": 698280,
+    "duration": 11910,
+    "segments": [
+      [
+        1,
+        686045,
+        687575
+      ],
+      [
+        2,
+        687575,
+        688465
+      ],
+      [
+        3,
+        688465,
+        689545
+      ],
+      [
+        4,
+        689545,
+        690355
+      ],
+      [
+        5,
+        690355,
+        692765
+      ],
+      [
+        6,
+        692765,
+        694925
+      ],
+      [
+        7,
+        694925,
+        697450
+      ]
+    ]
+  }
+}

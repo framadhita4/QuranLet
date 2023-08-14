@@ -1,0 +1,125 @@
+{
+  "id": 2440,
+  "chapter_id": 20,
+  "verse_key": "20:92",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "page_number": 318,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ يَـٰهَـٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 68930,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 68931,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_002.mp3",
+      "text": "يَـٰهَـٰرُونُ",
+      "translation": "Hai Harun",
+      "transliteration": "yāhārūnu"
+    },
+    {
+      "id": 68932,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_003.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 68933,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_004.mp3",
+      "text": "مَنَعَكَ",
+      "translation": "mencegah/menghalangi kamu",
+      "transliteration": "manaʿaka"
+    },
+    {
+      "id": 68934,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_005.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 68935,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_006.mp3",
+      "text": "رَأَيْتَهُمْ",
+      "translation": "kamu melihat mereka",
+      "transliteration": "ra-aytahum"
+    },
+    {
+      "id": 68936,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_092_007.mp3",
+      "text": "ضَلُّوٓا۟",
+      "translation": "mereka telah sesat",
+      "transliteration": "ḍallū"
+    },
+    {
+      "id": 68937,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Musa, \"Hai Hārūn, apa yang menghalangi kamu ketika kamu melihat mereka telah sesat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1044300,
+    "timestamp_to": 1051170,
+    "duration": 6870,
+    "segments": [
+      [
+        1,
+        1043865,
+        1044685
+      ],
+      [
+        2,
+        1044685,
+        1046265
+      ],
+      [
+        3,
+        1046265,
+        1046695
+      ],
+      [
+        4,
+        1046695,
+        1047585
+      ],
+      [
+        5,
+        1047585,
+        1048045
+      ],
+      [
+        6,
+        1048045,
+        1049325
+      ],
+      [
+        7,
+        1049325,
+        1050360
+      ]
+    ]
+  }
+}

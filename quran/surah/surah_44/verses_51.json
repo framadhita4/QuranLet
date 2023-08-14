@@ -1,0 +1,99 @@
+{
+  "id": 4465,
+  "chapter_id": 44,
+  "verse_key": "44:51",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 49124,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_051_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 49125,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_051_002.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 49126,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_051_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 49127,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_051_004.mp3",
+      "text": "مَقَامٍ",
+      "translation": "tempat",
+      "transliteration": "maqāmin"
+    },
+    {
+      "id": 49128,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_051_005.mp3",
+      "text": "أَمِينٍۢ",
+      "translation": "aman",
+      "transliteration": "amīnin"
+    },
+    {
+      "id": 49129,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa berada dalam tempat yang aman,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 494750,
+    "timestamp_to": 502330,
+    "duration": 7580,
+    "segments": [
+      [
+        1,
+        494705,
+        496015
+      ],
+      [
+        2,
+        496015,
+        497525
+      ],
+      [
+        3,
+        497525,
+        498025
+      ],
+      [
+        4,
+        498025,
+        499125
+      ],
+      [
+        5,
+        499125,
+        502210
+      ]
+    ]
+  }
+}

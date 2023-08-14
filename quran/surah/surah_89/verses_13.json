@@ -1,0 +1,99 @@
+{
+  "id": 6006,
+  "chapter_id": 89,
+  "verse_key": "89:13",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 15087,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_013_001.mp3",
+      "text": "فَصَبَّ",
+      "translation": "maka menimpakan",
+      "transliteration": "faṣabba"
+    },
+    {
+      "id": 15088,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_013_002.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 15089,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_013_003.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 15090,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_013_004.mp3",
+      "text": "سَوْطَ",
+      "translation": "cemeti/cambuk",
+      "transliteration": "sawṭa"
+    },
+    {
+      "id": 15091,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_013_005.mp3",
+      "text": "عَذَابٍ",
+      "translation": "azab",
+      "transliteration": "ʿadhābin"
+    },
+    {
+      "id": 15092,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena itu Tuhan-mu menimpakan kepada mereka cemeti azab,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53520,
+    "timestamp_to": 59970,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        53375,
+        54225
+      ],
+      [
+        2,
+        54225,
+        55255
+      ],
+      [
+        3,
+        55255,
+        56115
+      ],
+      [
+        4,
+        56115,
+        56745
+      ],
+      [
+        5,
+        56745,
+        59530
+      ]
+    ]
+  }
+}

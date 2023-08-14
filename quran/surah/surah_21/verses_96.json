@@ -1,0 +1,164 @@
+{
+  "id": 2579,
+  "chapter_id": 21,
+  "verse_key": "21:96",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 330,
+  "juz_number": 17,
+  "text_uthmani": "حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 70126,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_001.mp3",
+      "text": "حَتَّىٰٓ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 70127,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_002.mp3",
+      "text": "إِذَا",
+      "translation": "tatkala",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 70128,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_003.mp3",
+      "text": "فُتِحَتْ",
+      "translation": "dibukakan",
+      "transliteration": "futiḥat"
+    },
+    {
+      "id": 70129,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_004.mp3",
+      "text": "يَأْجُوجُ",
+      "translation": "Ya'juj",
+      "transliteration": "yajūju"
+    },
+    {
+      "id": 70130,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_005.mp3",
+      "text": "وَمَأْجُوجُ",
+      "translation": "dan Ma'juj",
+      "transliteration": "wamajūju"
+    },
+    {
+      "id": 70131,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_006.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 70132,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_007.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 70133,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_008.mp3",
+      "text": "كُلِّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 70134,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_009.mp3",
+      "text": "حَدَبٍۢ",
+      "translation": "tempat yang tinggi",
+      "transliteration": "ḥadabin"
+    },
+    {
+      "id": 70135,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_096_010.mp3",
+      "text": "يَنسِلُونَ",
+      "translation": "mereka mengalir/turun dengan cepat",
+      "transliteration": "yansilūna"
+    },
+    {
+      "id": 70136,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hingga apabila dibukakan (tembok) Ya’jūj dan Ma’jūj dan mereka turun dengan cepat dari seluruh tempat yang tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1348360,
+    "timestamp_to": 1362410,
+    "duration": 14050,
+    "segments": [
+      [
+        1,
+        1348305,
+        1350765
+      ],
+      [
+        2,
+        1350765,
+        1351355
+      ],
+      [
+        3,
+        1351355,
+        1352215
+      ],
+      [
+        4,
+        1352215,
+        1353285
+      ],
+      [
+        5,
+        1353285,
+        1354485
+      ],
+      [
+        6,
+        1354485,
+        1354915
+      ],
+      [
+        7,
+        1354915,
+        1356725
+      ],
+      [
+        8,
+        1356725,
+        1357285
+      ],
+      [
+        9,
+        1357285,
+        1358825
+      ],
+      [
+        10,
+        1358825,
+        1362320
+      ]
+    ]
+  }
+}

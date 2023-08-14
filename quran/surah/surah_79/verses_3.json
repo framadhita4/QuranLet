@@ -1,0 +1,60 @@
+{
+  "id": 5715,
+  "chapter_id": 79,
+  "verse_key": "79:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلسَّـٰبِحَـٰتِ سَبْحًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 2804,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_003_001.mp3",
+      "text": "وَٱلسَّـٰبِحَـٰتِ",
+      "translation": "dan yang turun",
+      "transliteration": "wal-sābiḥāti"
+    },
+    {
+      "id": 2805,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_003_002.mp3",
+      "text": "سَبْحًۭا",
+      "translation": "cepat",
+      "transliteration": "sabḥan"
+    },
+    {
+      "id": 2806,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang turun dari langit dengan cepat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8960,
+    "timestamp_to": 12230,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        8875,
+        10595
+      ],
+      [
+        2,
+        10595,
+        12070
+      ]
+    ]
+  }
+}

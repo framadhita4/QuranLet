@@ -1,0 +1,99 @@
+{
+  "id": 2955,
+  "chapter_id": 26,
+  "verse_key": "26:23",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 26096,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_001.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 26097,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 26098,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_003.mp3",
+      "text": "وَمَا",
+      "translation": "apa/siapa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 26099,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_004.mp3",
+      "text": "رَبُّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 26100,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_005.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam itu",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 26101,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  bertanya, \"Siapa Tuhan semesta alam itu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 231460,
+    "timestamp_to": 237490,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        230735,
+        231375
+      ],
+      [
+        2,
+        231375,
+        232595
+      ],
+      [
+        3,
+        232595,
+        233095
+      ],
+      [
+        4,
+        233095,
+        233695
+      ],
+      [
+        5,
+        233695,
+        236730
+      ]
+    ]
+  }
+}

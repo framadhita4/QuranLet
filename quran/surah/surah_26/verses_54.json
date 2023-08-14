@@ -1,0 +1,86 @@
+{
+  "id": 2986,
+  "chapter_id": 26,
+  "verse_key": "26:54",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 51491,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_054_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 51492,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_054_002.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 51493,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_054_003.mp3",
+      "text": "لَشِرْذِمَةٌۭ",
+      "translation": "sungguh kelompok/golongan",
+      "transliteration": "lashir'dhimatun"
+    },
+    {
+      "id": 51494,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_054_004.mp3",
+      "text": "قَلِيلُونَ",
+      "translation": "mereka sedikit/kecil",
+      "transliteration": "qalīlūna"
+    },
+    {
+      "id": 51495,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Firʻawn  berkata), \"Sesungguhnya mereka (Bani Isrā`īl) benar-benar golongan kecil,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 558870,
+    "timestamp_to": 569660,
+    "duration": 10790,
+    "segments": [
+      [
+        1,
+        558815,
+        560105
+      ],
+      [
+        2,
+        560105,
+        564565
+      ],
+      [
+        3,
+        564565,
+        566875
+      ],
+      [
+        4,
+        566875,
+        569560
+      ]
+    ]
+  }
+}

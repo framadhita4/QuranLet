@@ -1,0 +1,60 @@
+{
+  "id": 6124,
+  "chapter_id": 96,
+  "verse_key": "96:18",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 20790,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_018_001.mp3",
+      "text": "سَنَدْعُ",
+      "translation": "kelak Kami memanggil",
+      "transliteration": "sanadʿu"
+    },
+    {
+      "id": 20791,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_018_002.mp3",
+      "text": "ٱلزَّبَانِيَةَ",
+      "translation": "Zabaniyah",
+      "transliteration": "l-zabāniyata"
+    },
+    {
+      "id": 20792,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kelak Kami akan memanggil malaikat Zabaniyah<sup foot_note_id=\"1593\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 74790,
+    "timestamp_to": 77690,
+    "duration": 2900,
+    "segments": [
+      [
+        1,
+        74765,
+        75625
+      ],
+      [
+        2,
+        75625,
+        77640
+      ]
+    ]
+  }
+}

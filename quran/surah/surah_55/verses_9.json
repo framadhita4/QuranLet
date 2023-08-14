@@ -1,0 +1,112 @@
+{
+  "id": 4910,
+  "chapter_id": 55,
+  "verse_key": "55:9",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 9969,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_009_001.mp3",
+      "text": "وَأَقِيمُوا۟",
+      "translation": "dan dirikanlah",
+      "transliteration": "wa-aqīmū"
+    },
+    {
+      "id": 9970,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_009_002.mp3",
+      "text": "ٱلْوَزْنَ",
+      "translation": "neraca/timbangan",
+      "transliteration": "l-wazna"
+    },
+    {
+      "id": 9971,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_009_003.mp3",
+      "text": "بِٱلْقِسْطِ",
+      "translation": "dengan adil",
+      "transliteration": "bil-qis'ṭi"
+    },
+    {
+      "id": 9972,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_009_004.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 9973,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_009_005.mp3",
+      "text": "تُخْسِرُوا۟",
+      "translation": "kamu mengurangi",
+      "transliteration": "tukh'sirū"
+    },
+    {
+      "id": 9974,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_009_006.mp3",
+      "text": "ٱلْمِيزَانَ",
+      "translation": "neraca/timbangan",
+      "transliteration": "l-mīzāna"
+    },
+    {
+      "id": 9975,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tegakkanlah timbangan itu dengan adil dan janganlah kamu mengurangi neraca itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 47020,
+    "timestamp_to": 55460,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        46975,
+        48075
+      ],
+      [
+        2,
+        48075,
+        48985
+      ],
+      [
+        3,
+        48985,
+        50175
+      ],
+      [
+        4,
+        50175,
+        50795
+      ],
+      [
+        5,
+        50795,
+        51675
+      ],
+      [
+        6,
+        51675,
+        55350
+      ]
+    ]
+  }
+}

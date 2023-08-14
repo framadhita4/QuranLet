@@ -1,0 +1,73 @@
+{
+  "id": 5530,
+  "chapter_id": 74,
+  "verse_key": "74:35",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 37350,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_035_001.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia (saqar)",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 37351,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_035_002.mp3",
+      "text": "لَإِحْدَى",
+      "translation": "salah satu",
+      "transliteration": "la-iḥ'dā"
+    },
+    {
+      "id": 37352,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_035_003.mp3",
+      "text": "ٱلْكُبَرِ",
+      "translation": "amat besar",
+      "transliteration": "l-kubari"
+    },
+    {
+      "id": 37353,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Saqar itu adalah salah satu bencana yang amat besar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 188060,
+    "timestamp_to": 191590,
+    "duration": 3530,
+    "segments": [
+      [
+        1,
+        187935,
+        189535
+      ],
+      [
+        2,
+        189535,
+        190285
+      ],
+      [
+        3,
+        190285,
+        191410
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5007,
+  "chapter_id": 56,
+  "verse_key": "56:28",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "فِى سِدْرٍ مَّخْضُودٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 30764,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_028_001.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 30765,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_028_002.mp3",
+      "text": "سِدْرٍۢ",
+      "translation": "pohon bidara",
+      "transliteration": "sid'rin"
+    },
+    {
+      "id": 30766,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_028_003.mp3",
+      "text": "مَّخْضُودٍۢ",
+      "translation": "tidak berduri",
+      "transliteration": "makhḍūdin"
+    },
+    {
+      "id": 30767,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berada di antara pohon bidara yang tak berduri,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 177860,
+    "timestamp_to": 183320,
+    "duration": 5460,
+    "segments": [
+      [
+        1,
+        177795,
+        178235
+      ],
+      [
+        2,
+        178235,
+        178965
+      ],
+      [
+        3,
+        178965,
+        183190
+      ]
+    ]
+  }
+}

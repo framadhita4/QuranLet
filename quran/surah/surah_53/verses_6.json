@@ -1,0 +1,73 @@
+{
+  "id": 4790,
+  "chapter_id": 53,
+  "verse_key": "53:6",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 6144,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_006_001.mp3",
+      "text": "ذُو",
+      "translation": "mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 6145,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_006_002.mp3",
+      "text": "مِرَّةٍۢ",
+      "translation": "kekuatan/kecerdasan",
+      "transliteration": "mirratin"
+    },
+    {
+      "id": 6146,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_006_003.mp3",
+      "text": "فَٱسْتَوَىٰ",
+      "translation": "lalu dia cukup sempurna",
+      "transliteration": "fa-is'tawā"
+    },
+    {
+      "id": 6147,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mempunyai akal yang cerdas; dan (Jibril itu) menampakkan diri dengan rupa yang asli,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 22620,
+    "timestamp_to": 26850,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        21985,
+        22545
+      ],
+      [
+        2,
+        22545,
+        23935
+      ],
+      [
+        3,
+        23935,
+        25820
+      ]
+    ]
+  }
+}

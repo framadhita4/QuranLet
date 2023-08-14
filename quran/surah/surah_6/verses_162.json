@@ -1,0 +1,151 @@
+{
+  "id": 951,
+  "chapter_id": 6,
+  "verse_key": "6:162",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "ruku_number": 121,
+  "manzil_number": 2,
+  "page_number": 150,
+  "juz_number": 8,
+  "text_uthmani": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 82052,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 82053,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 82054,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_003.mp3",
+      "text": "صَلَاتِى",
+      "translation": "sholatku",
+      "transliteration": "ṣalātī"
+    },
+    {
+      "id": 82055,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_004.mp3",
+      "text": "وَنُسُكِى",
+      "translation": "dan ibadahku",
+      "transliteration": "wanusukī"
+    },
+    {
+      "id": 82056,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_005.mp3",
+      "text": "وَمَحْيَاىَ",
+      "translation": "dan hidupku",
+      "transliteration": "wamaḥyāya"
+    },
+    {
+      "id": 82057,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_006.mp3",
+      "text": "وَمَمَاتِى",
+      "translation": "dan matiku",
+      "transliteration": "wamamātī"
+    },
+    {
+      "id": 82058,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_007.mp3",
+      "text": "لِلَّهِ",
+      "translation": "untuk Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 82059,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_008.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan/Pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 82060,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_162_009.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 82061,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٦٢",
+      "translation": "(162)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Sesungguhnya salatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah, Tuhan semesta alam\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4244350,
+    "timestamp_to": 4257120,
+    "duration": 12770,
+    "segments": [
+      [
+        1,
+        4244325,
+        4244785
+      ],
+      [
+        2,
+        4244785,
+        4246035
+      ],
+      [
+        3,
+        4246035,
+        4247175
+      ],
+      [
+        4,
+        4247175,
+        4248345
+      ],
+      [
+        5,
+        4248345,
+        4249865
+      ],
+      [
+        6,
+        4249865,
+        4251225
+      ],
+      [
+        7,
+        4251225,
+        4252275
+      ],
+      [
+        8,
+        4252275,
+        4252905
+      ],
+      [
+        9,
+        4252905,
+        4257040
+      ]
+    ]
+  }
+}

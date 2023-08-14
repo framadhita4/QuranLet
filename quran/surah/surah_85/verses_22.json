@@ -1,0 +1,73 @@
+{
+  "id": 5931,
+  "chapter_id": 85,
+  "verse_key": "85:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 24424,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_022_001.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 24425,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_022_002.mp3",
+      "text": "لَوْحٍۢ",
+      "translation": "papan/batu tulis",
+      "transliteration": "lawḥin"
+    },
+    {
+      "id": 24426,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_022_003.mp3",
+      "text": "مَّحْفُوظٍۭ",
+      "translation": "terpelihara",
+      "transliteration": "maḥfūẓin"
+    },
+    {
+      "id": 24427,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang (tersimpan) dalam Lawḥ Maḥfūẓ.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 172950,
+    "timestamp_to": 180370,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        172895,
+        173425
+      ],
+      [
+        2,
+        173425,
+        174085
+      ],
+      [
+        3,
+        174085,
+        179210
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6176,
+  "chapter_id": 102,
+  "verse_key": "102:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 546,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3",
+  "words": [
+    {
+      "id": 8678,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_008_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 8679,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_008_002.mp3",
+      "text": "لَتُسْـَٔلُنَّ",
+      "translation": "sungguh kamu akan ditanya",
+      "transliteration": "latus'alunna"
+    },
+    {
+      "id": 8680,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_008_003.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 8681,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_008_004.mp3",
+      "text": "عَنِ",
+      "translation": "dari/tetang",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 8682,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_008_005.mp3",
+      "text": "ٱلنَّعِيمِ",
+      "translation": "kenikmatan",
+      "transliteration": "l-naʿīmi"
+    },
+    {
+      "id": 8683,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian kamu pasti akan ditanyai pada hari itu tentang kenikmatan (yang kamu megah-megahkan di dunia itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 40280,
+    "timestamp_to": 52820,
+    "duration": 12540,
+    "segments": [
+      [
+        1,
+        40225,
+        41805
+      ],
+      [
+        2,
+        41805,
+        44064
+      ],
+      [
+        3,
+        44065,
+        45385
+      ],
+      [
+        4,
+        45385,
+        45865
+      ],
+      [
+        5,
+        45865,
+        52100
+      ]
+    ]
+  }
+}

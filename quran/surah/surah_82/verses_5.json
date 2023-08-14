@@ -1,0 +1,99 @@
+{
+  "id": 5834,
+  "chapter_id": 82,
+  "verse_key": "82:5",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 5479,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_005_001.mp3",
+      "text": "عَلِمَتْ",
+      "translation": "mengetahui",
+      "transliteration": "ʿalimat"
+    },
+    {
+      "id": 5480,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_005_002.mp3",
+      "text": "نَفْسٌۭ",
+      "translation": "jiwa",
+      "transliteration": "nafsun"
+    },
+    {
+      "id": 5481,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_005_003.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 5482,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_005_004.mp3",
+      "text": "قَدَّمَتْ",
+      "translation": "diusahakan",
+      "transliteration": "qaddamat"
+    },
+    {
+      "id": 5483,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_005_005.mp3",
+      "text": "وَأَخَّرَتْ",
+      "translation": "dan ditinggalkan",
+      "transliteration": "wa-akharat"
+    },
+    {
+      "id": 5484,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15540,
+    "timestamp_to": 21210,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        15505,
+        16415
+      ],
+      [
+        2,
+        16415,
+        17025
+      ],
+      [
+        3,
+        17025,
+        18225
+      ],
+      [
+        4,
+        18225,
+        19325
+      ],
+      [
+        5,
+        19325,
+        21150
+      ]
+    ]
+  }
+}

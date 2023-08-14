@@ -1,0 +1,138 @@
+{
+  "id": 2418,
+  "chapter_id": 20,
+  "verse_key": "20:70",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 316,
+  "juz_number": 16,
+  "text_uthmani": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 59456,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_001.mp3",
+      "text": "فَأُلْقِىَ",
+      "translation": "maka terlempar/tersungkur",
+      "transliteration": "fa-ul'qiya"
+    },
+    {
+      "id": 59457,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_002.mp3",
+      "text": "ٱلسَّحَرَةُ",
+      "translation": "tukang sihir",
+      "transliteration": "l-saḥaratu"
+    },
+    {
+      "id": 59458,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_003.mp3",
+      "text": "سُجَّدًۭا",
+      "translation": "bersujud",
+      "transliteration": "sujjadan"
+    },
+    {
+      "id": 59459,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_004.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 59460,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_005.mp3",
+      "text": "ءَامَنَّا",
+      "translation": "kami beriman",
+      "transliteration": "āmannā"
+    },
+    {
+      "id": 59461,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_006.mp3",
+      "text": "بِرَبِّ",
+      "translation": "dengan/kepada Tuhan",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 59462,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_007.mp3",
+      "text": "هَـٰرُونَ",
+      "translation": "Harun",
+      "transliteration": "hārūna"
+    },
+    {
+      "id": 59463,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_070_008.mp3",
+      "text": "وَمُوسَىٰ",
+      "translation": "dan Musa",
+      "transliteration": "wamūsā"
+    },
+    {
+      "id": 59464,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, tukang-tukang sihir itu tersungkur dengan bersujud, seraya berkata, \"Kami telah percaya kepada Tuhan Hārūn dan Musa \".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 676170,
+    "timestamp_to": 688110,
+    "duration": 11940,
+    "segments": [
+      [
+        1,
+        675705,
+        676755
+      ],
+      [
+        2,
+        676755,
+        677905
+      ],
+      [
+        3,
+        677905,
+        679305
+      ],
+      [
+        4,
+        679305,
+        681855
+      ],
+      [
+        5,
+        681855,
+        683705
+      ],
+      [
+        6,
+        683705,
+        684685
+      ],
+      [
+        7,
+        684685,
+        685835
+      ],
+      [
+        8,
+        685835,
+        687100
+      ]
+    ]
+  }
+}

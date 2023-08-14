@@ -1,0 +1,112 @@
+{
+  "id": 3021,
+  "chapter_id": 26,
+  "verse_key": "26:89",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 67816,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_089_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 67817,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_089_002.mp3",
+      "text": "مَنْ",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 67818,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_089_003.mp3",
+      "text": "أَتَى",
+      "translation": "datang/menghadap",
+      "transliteration": "atā"
+    },
+    {
+      "id": 67819,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_089_004.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 67820,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_089_005.mp3",
+      "text": "بِقَلْبٍۢ",
+      "translation": "dengan hati",
+      "transliteration": "biqalbin"
+    },
+    {
+      "id": 67821,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_089_006.mp3",
+      "text": "سَلِيمٍۢ",
+      "translation": "selamat/bersih",
+      "transliteration": "salīmin"
+    },
+    {
+      "id": 67822,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali orang-orang yang menghadap Allah dengan hati yang bersih,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 847730,
+    "timestamp_to": 855250,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        847665,
+        848575
+      ],
+      [
+        2,
+        848575,
+        848965
+      ],
+      [
+        3,
+        848965,
+        849365
+      ],
+      [
+        4,
+        849365,
+        850295
+      ],
+      [
+        5,
+        850295,
+        851475
+      ],
+      [
+        6,
+        851475,
+        855130
+      ]
+    ]
+  }
+}

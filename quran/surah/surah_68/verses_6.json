@@ -1,0 +1,60 @@
+{
+  "id": 5277,
+  "chapter_id": 68,
+  "verse_key": "68:6",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 6484,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_006_001.mp3",
+      "text": "بِأَييِّكُمُ",
+      "translation": "siapa diantara kamu",
+      "transliteration": "bi-ayyikumu"
+    },
+    {
+      "id": 6485,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_006_002.mp3",
+      "text": "ٱلْمَفْتُونُ",
+      "translation": "yang di uji/gila",
+      "transliteration": "l-maftūnu"
+    },
+    {
+      "id": 6486,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "siapa di antara kamu yang gila.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 35210,
+    "timestamp_to": 39760,
+    "duration": 4550,
+    "segments": [
+      [
+        1,
+        35135,
+        36285
+      ],
+      [
+        2,
+        36285,
+        39620
+      ]
+    ]
+  }
+}

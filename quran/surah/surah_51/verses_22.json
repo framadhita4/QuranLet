@@ -1,0 +1,99 @@
+{
+  "id": 4697,
+  "chapter_id": 51,
+  "verse_key": "51:22",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 24658,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_022_001.mp3",
+      "text": "وَفِى",
+      "translation": "dan di",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 24659,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_022_002.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 24660,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_022_003.mp3",
+      "text": "رِزْقُكُمْ",
+      "translation": "rezekimu",
+      "transliteration": "riz'qukum"
+    },
+    {
+      "id": 24661,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_022_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa yang",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 24662,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_022_005.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "dijanjikan padamu",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 24663,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di langit terdapat (sebab-sebab) rezekimu<sup foot_note_id=\"1419\">1</sup> dan terdapat (pula) apa yang dijanjikan kepadamu<sup foot_note_id=\"1420\">2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 136530,
+    "timestamp_to": 144680,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        136465,
+        136925
+      ],
+      [
+        2,
+        136925,
+        139435
+      ],
+      [
+        3,
+        139435,
+        140545
+      ],
+      [
+        4,
+        140545,
+        141215
+      ],
+      [
+        5,
+        141215,
+        144530
+      ]
+    ]
+  }
+}

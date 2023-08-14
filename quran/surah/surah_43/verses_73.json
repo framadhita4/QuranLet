@@ -1,0 +1,112 @@
+{
+  "id": 4398,
+  "chapter_id": 43,
+  "verse_key": "43:73",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 494,
+  "juz_number": 25,
+  "text_uthmani": "لَكُمْ فِيهَا فَـٰكِهَةٌ كَثِيرَةٌ مِّنْهَا تَأْكُلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 60905,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_073_001.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 60906,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_073_002.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 60907,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_073_003.mp3",
+      "text": "فَـٰكِهَةٌۭ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatun"
+    },
+    {
+      "id": 60908,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_073_004.mp3",
+      "text": "كَثِيرَةٌۭ",
+      "translation": "banyak",
+      "transliteration": "kathīratun"
+    },
+    {
+      "id": 60909,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_073_005.mp3",
+      "text": "مِّنْهَا",
+      "translation": "daripadanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 60910,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_073_006.mp3",
+      "text": "تَأْكُلُونَ",
+      "translation": "kamu makan",
+      "transliteration": "takulūna"
+    },
+    {
+      "id": 60911,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalam surga itu, ada buah-buahan yang banyak untukmu yang sebagiannya kamu makan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1025330,
+    "timestamp_to": 1035000,
+    "duration": 9670,
+    "segments": [
+      [
+        1,
+        1025305,
+        1026025
+      ],
+      [
+        2,
+        1026025,
+        1026885
+      ],
+      [
+        3,
+        1026885,
+        1028925
+      ],
+      [
+        4,
+        1028925,
+        1030055
+      ],
+      [
+        5,
+        1030055,
+        1031705
+      ],
+      [
+        6,
+        1031705,
+        1034940
+      ]
+    ]
+  }
+}

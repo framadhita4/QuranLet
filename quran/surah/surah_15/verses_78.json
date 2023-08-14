@@ -1,0 +1,99 @@
+{
+  "id": 1880,
+  "chapter_id": 15,
+  "verse_key": "15:78",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "وَإِن كَانَ أَصْحَـٰبُ ٱلْأَيْكَةِ لَظَـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 63643,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_078_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 63644,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_078_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 63645,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_078_003.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penduduk",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 63646,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_078_004.mp3",
+      "text": "ٱلْأَيْكَةِ",
+      "translation": "Aikah",
+      "transliteration": "l-aykati"
+    },
+    {
+      "id": 63647,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_078_005.mp3",
+      "text": "لَظَـٰلِمِينَ",
+      "translation": "sungguh orang-orang yang zalim",
+      "transliteration": "laẓālimīna"
+    },
+    {
+      "id": 63648,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya adalah penduduk Aikah <sup foot_note_id=\"809\">1</sup> itu benar-benar kaum yang zalim,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 754620,
+    "timestamp_to": 762270,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        754595,
+        755895
+      ],
+      [
+        2,
+        755895,
+        756545
+      ],
+      [
+        3,
+        756545,
+        757705
+      ],
+      [
+        4,
+        757705,
+        758835
+      ],
+      [
+        5,
+        758835,
+        762190
+      ]
+    ]
+  }
+}

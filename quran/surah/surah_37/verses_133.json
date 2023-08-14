@@ -1,0 +1,86 @@
+{
+  "id": 3921,
+  "chapter_id": 37,
+  "verse_key": "37:133",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78233,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_133_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 78234,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_133_002.mp3",
+      "text": "لُوطًۭا",
+      "translation": "Lut",
+      "transliteration": "lūṭan"
+    },
+    {
+      "id": 78235,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_133_003.mp3",
+      "text": "لَّمِنَ",
+      "translation": "benar-benar termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 78236,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_133_004.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 78237,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣٣",
+      "translation": "(133)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Lūṭ benar-benar salah seorang rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1085140,
+    "timestamp_to": 1091360,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        1084855,
+        1086225
+      ],
+      [
+        2,
+        1086225,
+        1087145
+      ],
+      [
+        3,
+        1087145,
+        1087675
+      ],
+      [
+        4,
+        1087675,
+        1091010
+      ]
+    ]
+  }
+}

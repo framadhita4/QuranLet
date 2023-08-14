@@ -1,0 +1,86 @@
+{
+  "id": 3865,
+  "chapter_id": 37,
+  "verse_key": "37:77",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 63163,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_077_001.mp3",
+      "text": "وَجَعَلْنَا",
+      "translation": "dan Kami jadikan",
+      "transliteration": "wajaʿalnā"
+    },
+    {
+      "id": 63164,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_077_002.mp3",
+      "text": "ذُرِّيَّتَهُۥ",
+      "translation": "keturunannya",
+      "transliteration": "dhurriyyatahu"
+    },
+    {
+      "id": 63165,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_077_003.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 63166,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_077_004.mp3",
+      "text": "ٱلْبَاقِينَ",
+      "translation": "orang-orang yang tetap",
+      "transliteration": "l-bāqīna"
+    },
+    {
+      "id": 63167,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami jadikan anak cucunya orang-orang yang melanjutkan keturunan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 646930,
+    "timestamp_to": 653620,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        646865,
+        648205
+      ],
+      [
+        2,
+        648205,
+        649895
+      ],
+      [
+        3,
+        649895,
+        650265
+      ],
+      [
+        4,
+        650265,
+        653480
+      ]
+    ]
+  }
+}

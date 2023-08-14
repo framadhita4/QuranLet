@@ -1,0 +1,99 @@
+{
+  "id": 4722,
+  "chapter_id": 51,
+  "verse_key": "51:47",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 46488,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_001.mp3",
+      "text": "وَٱلسَّمَآءَ",
+      "translation": "dan langit",
+      "transliteration": "wal-samāa"
+    },
+    {
+      "id": 46489,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_002.mp3",
+      "text": "بَنَيْنَـٰهَا",
+      "translation": "Kami bangun ia",
+      "transliteration": "banaynāhā"
+    },
+    {
+      "id": 46490,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_003.mp3",
+      "text": "بِأَيْي۟دٍۢ",
+      "translation": "dengan kekuasaan",
+      "transliteration": "bi-aydin"
+    },
+    {
+      "id": 46491,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_004.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya Kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 46492,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_005.mp3",
+      "text": "لَمُوسِعُونَ",
+      "translation": "benar-benar luas",
+      "transliteration": "lamūsiʿūna"
+    },
+    {
+      "id": 46493,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan langit itu Kami bangun dengan kekuasaan (Kami) dan sesungguhnya Kami benar-benar berkuasa",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 391360,
+    "timestamp_to": 402800,
+    "duration": 11440,
+    "segments": [
+      [
+        1,
+        391295,
+        394345
+      ],
+      [
+        2,
+        394345,
+        395875
+      ],
+      [
+        3,
+        395875,
+        397655
+      ],
+      [
+        4,
+        397655,
+        399445
+      ],
+      [
+        5,
+        399445,
+        402670
+      ]
+    ]
+  }
+}

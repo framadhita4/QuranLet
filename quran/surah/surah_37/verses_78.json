@@ -1,0 +1,86 @@
+{
+  "id": 3866,
+  "chapter_id": 37,
+  "verse_key": "37:78",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 63683,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_078_001.mp3",
+      "text": "وَتَرَكْنَا",
+      "translation": "dan Kami tinggikan",
+      "transliteration": "wataraknā"
+    },
+    {
+      "id": 63684,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_078_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 63685,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_078_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 63686,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_078_004.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang yang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 63687,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami abadikan untuk Nūḥ itu (pujian yang baik) di kalangan orang-orang yang datang kemudian;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 653620,
+    "timestamp_to": 659580,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        653545,
+        654815
+      ],
+      [
+        2,
+        654815,
+        655635
+      ],
+      [
+        3,
+        655635,
+        655875
+      ],
+      [
+        4,
+        655875,
+        659440
+      ]
+    ]
+  }
+}

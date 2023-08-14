@@ -1,0 +1,60 @@
+{
+  "id": 6123,
+  "chapter_id": 96,
+  "verse_key": "96:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "فَلْيَدْعُ نَادِيَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 19699,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_017_001.mp3",
+      "text": "فَلْيَدْعُ",
+      "translation": "maka hendaklah dia memanggil",
+      "transliteration": "falyadʿu"
+    },
+    {
+      "id": 19700,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_017_002.mp3",
+      "text": "نَادِيَهُۥ",
+      "translation": "kaum/golongannya",
+      "transliteration": "nādiyahu"
+    },
+    {
+      "id": 19701,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka biarlah dia memanggil golongannya (untuk menolongnya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72260,
+    "timestamp_to": 74790,
+    "duration": 2530,
+    "segments": [
+      [
+        1,
+        72225,
+        73315
+      ],
+      [
+        2,
+        73315,
+        74730
+      ]
+    ]
+  }
+}

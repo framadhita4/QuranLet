@@ -1,0 +1,86 @@
+{
+  "id": 5748,
+  "chapter_id": 79,
+  "verse_key": "79:36",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 38222,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_036_001.mp3",
+      "text": "وَبُرِّزَتِ",
+      "translation": "dan diperlihatkan",
+      "transliteration": "waburrizati"
+    },
+    {
+      "id": 38223,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_036_002.mp3",
+      "text": "ٱلْجَحِيمُ",
+      "translation": "neraka",
+      "transliteration": "l-jaḥīmu"
+    },
+    {
+      "id": 38224,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_036_003.mp3",
+      "text": "لِمَن",
+      "translation": "bagi/kepada orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 38225,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_036_004.mp3",
+      "text": "يَرَىٰ",
+      "translation": "ia melihat",
+      "transliteration": "yarā"
+    },
+    {
+      "id": 38226,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan diperlihatkan neraka dengan jelas kepada setiap orang yang melihat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 168550,
+    "timestamp_to": 173490,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        168185,
+        169465
+      ],
+      [
+        2,
+        169465,
+        170495
+      ],
+      [
+        3,
+        170495,
+        171795
+      ],
+      [
+        4,
+        171795,
+        173060
+      ]
+    ]
+  }
+}

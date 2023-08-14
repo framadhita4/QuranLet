@@ -1,0 +1,99 @@
+{
+  "id": 3064,
+  "chapter_id": 26,
+  "verse_key": "26:132",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم بِمَا تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 78214,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_132_001.mp3",
+      "text": "وَٱتَّقُوا۟",
+      "translation": "dan bertakwalah kamu",
+      "transliteration": "wa-ittaqū"
+    },
+    {
+      "id": 78215,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_132_002.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 78216,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_132_003.mp3",
+      "text": "أَمَدَّكُم",
+      "translation": "telah memanjangkan/menganugerahkan kepadamu",
+      "transliteration": "amaddakum"
+    },
+    {
+      "id": 78217,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_132_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 78218,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_132_005.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 78219,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٣٢",
+      "translation": "(132)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bertakwalah kepada Allah yang telah menganugerahkan kepadamu apa yang kamu ketahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1164370,
+    "timestamp_to": 1172760,
+    "duration": 8390,
+    "segments": [
+      [
+        1,
+        1164325,
+        1165165
+      ],
+      [
+        2,
+        1165165,
+        1167125
+      ],
+      [
+        3,
+        1167125,
+        1169105
+      ],
+      [
+        4,
+        1169105,
+        1169635
+      ],
+      [
+        5,
+        1169635,
+        1172670
+      ]
+    ]
+  }
+}

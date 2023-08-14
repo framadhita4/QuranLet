@@ -1,0 +1,151 @@
+{
+  "id": 5620,
+  "chapter_id": 76,
+  "verse_key": "76:29",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 517,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 31985,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 31986,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_002.mp3",
+      "text": "هَـٰذِهِۦ",
+      "translation": "ini",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 31987,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_003.mp3",
+      "text": "تَذْكِرَةٌۭ ۖ",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "tadhkiratun"
+    },
+    {
+      "id": 31989,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_005.mp3",
+      "text": "فَمَن",
+      "translation": "maka barang siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 31990,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_006.mp3",
+      "text": "شَآءَ",
+      "translation": "dia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 31991,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_007.mp3",
+      "text": "ٱتَّخَذَ",
+      "translation": "dia mengambil",
+      "transliteration": "ittakhadha"
+    },
+    {
+      "id": 31992,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_008.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 31993,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_009.mp3",
+      "text": "رَبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 31994,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_029_010.mp3",
+      "text": "سَبِيلًۭا",
+      "translation": "jalan",
+      "transliteration": "sabīlan"
+    },
+    {
+      "id": 31995,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya (ayat-ayat) ini adalah suatu peringatan, maka barang siapa menghendaki (kebaikan bagi dirinya), niscaya dia mengambil jalan kepada Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 270680,
+    "timestamp_to": 281230,
+    "duration": 10550,
+    "segments": [
+      [
+        1,
+        270535,
+        271765
+      ],
+      [
+        2,
+        271765,
+        272725
+      ],
+      [
+        3,
+        272725,
+        274145
+      ],
+      [
+        4,
+        274145,
+        275345
+      ],
+      [
+        5,
+        275345,
+        277245
+      ],
+      [
+        6,
+        277245,
+        278015
+      ],
+      [
+        7,
+        278015,
+        278555
+      ],
+      [
+        8,
+        278555,
+        279485
+      ],
+      [
+        9,
+        279485,
+        280980
+      ]
+    ]
+  }
+}

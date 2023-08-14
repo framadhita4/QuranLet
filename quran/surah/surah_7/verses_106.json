@@ -1,0 +1,177 @@
+{
+  "id": 1060,
+  "chapter_id": 7,
+  "verse_key": "7:106",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 134,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 73014,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_001.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 73015,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_002.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 73016,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_003.mp3",
+      "text": "كُنتَ",
+      "translation": "kamu adalah",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 73017,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_004.mp3",
+      "text": "جِئْتَ",
+      "translation": "kamu datang",
+      "transliteration": "ji'ta"
+    },
+    {
+      "id": 73018,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_005.mp3",
+      "text": "بِـَٔايَةٍۢ",
+      "translation": "dengan suatu ayat/bukti",
+      "transliteration": "biāyatin"
+    },
+    {
+      "id": 73019,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_006.mp3",
+      "text": "فَأْتِ",
+      "translation": "maka datangkanlah",
+      "transliteration": "fati"
+    },
+    {
+      "id": 73020,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_007.mp3",
+      "text": "بِهَآ",
+      "translation": "dengannya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 73021,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_008.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 73022,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_009.mp3",
+      "text": "كُنتَ",
+      "translation": "kamu adalah",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 73023,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_010.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 73024,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_106_011.mp3",
+      "text": "ٱلصَّـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "l-ṣādiqīna"
+    },
+    {
+      "id": 73025,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  menjawab, \"Jika benar kamu membawa sesuatu bukti, maka datangkanlah bukti itu jika (betul) kamu termasuk orang-orang yang benar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2477050,
+    "timestamp_to": 2490560,
+    "duration": 13510,
+    "segments": [
+      [
+        1,
+        2477015,
+        2477695
+      ],
+      [
+        2,
+        2477695,
+        2478315
+      ],
+      [
+        3,
+        2478315,
+        2479975
+      ],
+      [
+        4,
+        2479975,
+        2480615
+      ],
+      [
+        5,
+        2480615,
+        2482385
+      ],
+      [
+        6,
+        2482385,
+        2483075
+      ],
+      [
+        7,
+        2483075,
+        2484824
+      ],
+      [
+        8,
+        2484825,
+        2485815
+      ],
+      [
+        9,
+        2485815,
+        2486915
+      ],
+      [
+        10,
+        2486915,
+        2487255
+      ],
+      [
+        11,
+        2487255,
+        2490490
+      ]
+    ]
+  }
+}

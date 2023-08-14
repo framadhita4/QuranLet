@@ -1,0 +1,73 @@
+{
+  "id": 6055,
+  "chapter_id": 91,
+  "verse_key": "91:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 14556,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_012_001.mp3",
+      "text": "إِذِ",
+      "translation": "ketika",
+      "transliteration": "idhi"
+    },
+    {
+      "id": 14557,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_012_002.mp3",
+      "text": "ٱنۢبَعَثَ",
+      "translation": "bangkit",
+      "transliteration": "inbaʿatha"
+    },
+    {
+      "id": 14558,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_012_003.mp3",
+      "text": "أَشْقَىٰهَا",
+      "translation": "orang yang lebih celaka diantaranya",
+      "transliteration": "ashqāhā"
+    },
+    {
+      "id": 14559,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ketika bangkit orang yang paling celaka di antara mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 45400,
+    "timestamp_to": 49210,
+    "duration": 3810,
+    "segments": [
+      [
+        1,
+        44935,
+        45435
+      ],
+      [
+        2,
+        45435,
+        46905
+      ],
+      [
+        3,
+        46905,
+        48300
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4220,
+  "chapter_id": 41,
+  "verse_key": "41:2",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 415,
+  "manzil_number": 6,
+  "page_number": 477,
+  "juz_number": 24,
+  "text_uthmani": "تَنزِيلٌ مِّنَ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 956,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_002_001.mp3",
+      "text": "تَنزِيلٌۭ",
+      "translation": "diturunkan",
+      "transliteration": "tanzīlun"
+    },
+    {
+      "id": 957,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_002_002.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 958,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_002_003.mp3",
+      "text": "ٱلرَّحْمَـٰنِ",
+      "translation": "Maha Pengasih",
+      "transliteration": "l-raḥmāni"
+    },
+    {
+      "id": 959,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_002_004.mp3",
+      "text": "ٱلرَّحِيمِ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmi"
+    },
+    {
+      "id": 960,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Diturunkan dari Tuhan Yang Maha Pemurah lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5070,
+    "timestamp_to": 12230,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        5015,
+        6815
+      ],
+      [
+        2,
+        6815,
+        7795
+      ],
+      [
+        3,
+        7795,
+        8835
+      ],
+      [
+        4,
+        8835,
+        12060
+      ]
+    ]
+  }
+}

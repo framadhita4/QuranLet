@@ -1,0 +1,138 @@
+{
+  "id": 1224,
+  "chapter_id": 8,
+  "verse_key": "8:64",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "ruku_number": 153,
+  "manzil_number": 2,
+  "page_number": 185,
+  "juz_number": 10,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَسْبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 56504,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 56505,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_002.mp3",
+      "text": "ٱلنَّبِىُّ",
+      "translation": "Nabi",
+      "transliteration": "l-nabiyu"
+    },
+    {
+      "id": 56506,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_003.mp3",
+      "text": "حَسْبُكَ",
+      "translation": "cukuplah bagimu",
+      "transliteration": "ḥasbuka"
+    },
+    {
+      "id": 56507,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_004.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 56508,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_005.mp3",
+      "text": "وَمَنِ",
+      "translation": "dan orang",
+      "transliteration": "wamani"
+    },
+    {
+      "id": 56509,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_006.mp3",
+      "text": "ٱتَّبَعَكَ",
+      "translation": "mengikuti kamu",
+      "transliteration": "ittabaʿaka"
+    },
+    {
+      "id": 56510,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 56511,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_064_008.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang mukmin/beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 56512,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai Nabi, cukuplah Allah (menjadi pelindung) bagimu dan bagi orang-orang mukmin yang mengikutimu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1470570,
+    "timestamp_to": 1483270,
+    "duration": 12700,
+    "segments": [
+      [
+        1,
+        1470515,
+        1473805
+      ],
+      [
+        2,
+        1473805,
+        1475805
+      ],
+      [
+        3,
+        1475805,
+        1476715
+      ],
+      [
+        4,
+        1476715,
+        1477705
+      ],
+      [
+        5,
+        1477705,
+        1478315
+      ],
+      [
+        6,
+        1478315,
+        1479385
+      ],
+      [
+        7,
+        1479385,
+        1479695
+      ],
+      [
+        8,
+        1479695,
+        1483170
+      ]
+    ]
+  }
+}

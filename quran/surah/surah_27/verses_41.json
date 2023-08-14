@@ -1,0 +1,190 @@
+{
+  "id": 3200,
+  "chapter_id": 27,
+  "verse_key": "27:41",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 329,
+  "manzil_number": 5,
+  "page_number": 380,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 42458,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Sulaeman) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 42459,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_002.mp3",
+      "text": "نَكِّرُوا۟",
+      "translation": "ubahlah",
+      "transliteration": "nakkirū"
+    },
+    {
+      "id": 42460,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_003.mp3",
+      "text": "لَهَا",
+      "translation": "baginya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 42461,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_004.mp3",
+      "text": "عَرْشَهَا",
+      "translation": "singgasananya",
+      "transliteration": "ʿarshahā"
+    },
+    {
+      "id": 42462,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_005.mp3",
+      "text": "نَنظُرْ",
+      "translation": "kita akan melihat",
+      "transliteration": "nanẓur"
+    },
+    {
+      "id": 42463,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_006.mp3",
+      "text": "أَتَهْتَدِىٓ",
+      "translation": "apakah dia mengenal",
+      "transliteration": "atahtadī"
+    },
+    {
+      "id": 42464,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_007.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 42465,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_008.mp3",
+      "text": "تَكُونُ",
+      "translation": "dia adalah",
+      "transliteration": "takūnu"
+    },
+    {
+      "id": 42466,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_009.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 42467,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_010.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 42468,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_011.mp3",
+      "text": "لَا",
+      "translation": "(mereka) tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 42469,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_041_012.mp3",
+      "text": "يَهْتَدُونَ",
+      "translation": "mengenal",
+      "transliteration": "yahtadūna"
+    },
+    {
+      "id": 42470,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia berkata, \"Ubahlah baginya singgasananya; maka kita akan melihat apakah dia mengenal ataukah dia termasuk orang-orang yang tidak mengenal(nya)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 733210,
+    "timestamp_to": 747320,
+    "duration": 14110,
+    "segments": [
+      [
+        1,
+        733175,
+        733885
+      ],
+      [
+        2,
+        733885,
+        734865
+      ],
+      [
+        3,
+        734865,
+        735565
+      ],
+      [
+        4,
+        735565,
+        736695
+      ],
+      [
+        5,
+        736695,
+        738215
+      ],
+      [
+        6,
+        738215,
+        740825
+      ],
+      [
+        7,
+        740825,
+        741165
+      ],
+      [
+        8,
+        741165,
+        742075
+      ],
+      [
+        9,
+        742075,
+        742435
+      ],
+      [
+        10,
+        742435,
+        743725
+      ],
+      [
+        11,
+        743725,
+        744105
+      ],
+      [
+        12,
+        744105,
+        747220
+      ]
+    ]
+  }
+}

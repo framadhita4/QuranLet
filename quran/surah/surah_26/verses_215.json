@@ -1,0 +1,112 @@
+{
+  "id": 3147,
+  "chapter_id": 26,
+  "verse_key": "26:215",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85790,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_215_001.mp3",
+      "text": "وَٱخْفِضْ",
+      "translation": "dan rendahkanlah",
+      "transliteration": "wa-ikh'fiḍ"
+    },
+    {
+      "id": 85791,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_215_002.mp3",
+      "text": "جَنَاحَكَ",
+      "translation": "sayapmu/dirimu",
+      "transliteration": "janāḥaka"
+    },
+    {
+      "id": 85792,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_215_003.mp3",
+      "text": "لِمَنِ",
+      "translation": "terhadap orang-orang",
+      "transliteration": "limani"
+    },
+    {
+      "id": 85793,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_215_004.mp3",
+      "text": "ٱتَّبَعَكَ",
+      "translation": "mengikutimu",
+      "transliteration": "ittabaʿaka"
+    },
+    {
+      "id": 85794,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_215_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 85795,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_215_006.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 85796,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢١٥",
+      "translation": "(215)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan rendahkanlah dirimu terhadap orang-orang yang mengikutimu, yaitu orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1852710,
+    "timestamp_to": 1860310,
+    "duration": 7600,
+    "segments": [
+      [
+        1,
+        1852685,
+        1853495
+      ],
+      [
+        2,
+        1853495,
+        1854575
+      ],
+      [
+        3,
+        1854575,
+        1855165
+      ],
+      [
+        4,
+        1855165,
+        1856225
+      ],
+      [
+        5,
+        1856225,
+        1856565
+      ],
+      [
+        6,
+        1856565,
+        1860260
+      ]
+    ]
+  }
+}

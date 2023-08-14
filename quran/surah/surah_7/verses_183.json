@@ -1,0 +1,99 @@
+{
+  "id": 1137,
+  "chapter_id": 7,
+  "verse_key": "7:183",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "ruku_number": 144,
+  "manzil_number": 2,
+  "page_number": 174,
+  "juz_number": 9,
+  "text_uthmani": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 84026,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_183_001.mp3",
+      "text": "وَأُمْلِى",
+      "translation": "dan Aku memberi tangguh",
+      "transliteration": "wa-um'lī"
+    },
+    {
+      "id": 84027,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_183_002.mp3",
+      "text": "لَهُمْ ۚ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 84029,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_183_004.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 84030,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_183_005.mp3",
+      "text": "كَيْدِى",
+      "translation": "rencanaKu",
+      "transliteration": "kaydī"
+    },
+    {
+      "id": 84031,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_183_006.mp3",
+      "text": "مَتِينٌ",
+      "translation": "amat teguh",
+      "transliteration": "matīnun"
+    },
+    {
+      "id": 84032,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٨٣",
+      "translation": "(183)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Aku memberi tangguh kepada mereka. Sesungguhnya rencana-Ku amat teguh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4314480,
+    "timestamp_to": 4321740,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        4314425,
+        4315495
+      ],
+      [
+        2,
+        4315495,
+        4316165
+      ],
+      [
+        3,
+        4316165,
+        4317845
+      ],
+      [
+        4,
+        4317845,
+        4318755
+      ],
+      [
+        5,
+        4318755,
+        4321660
+      ]
+    ]
+  }
+}

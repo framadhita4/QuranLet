@@ -1,0 +1,138 @@
+{
+  "id": 5265,
+  "chapter_id": 67,
+  "verse_key": "67:24",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "ruku_number": 499,
+  "manzil_number": 7,
+  "page_number": 563,
+  "juz_number": 29,
+  "text_uthmani": "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/67.mp3",
+  "words": [
+    {
+      "id": 26986,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 26987,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 26988,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_003.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 26989,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_004.mp3",
+      "text": "ذَرَأَكُمْ",
+      "translation": "menjadikan kamu berkembang biak",
+      "transliteration": "dhara-akum"
+    },
+    {
+      "id": 26990,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_005.mp3",
+      "text": "فِى",
+      "translation": "di muka",
+      "transliteration": "fī"
+    },
+    {
+      "id": 26991,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_006.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 26992,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_007.mp3",
+      "text": "وَإِلَيْهِ",
+      "translation": "dan kepada-Nya",
+      "transliteration": "wa-ilayhi"
+    },
+    {
+      "id": 26993,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_024_008.mp3",
+      "text": "تُحْشَرُونَ",
+      "translation": "kamu akan dikumpulkan",
+      "transliteration": "tuḥ'sharūna"
+    },
+    {
+      "id": 26994,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Dia-lah yang menjadikan kamu berkembang biak di muka bumi, dan hanya kepada-Nya-lah kamu kelak dikumpulkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 341360,
+    "timestamp_to": 349040,
+    "duration": 7680,
+    "segments": [
+      [
+        1,
+        341265,
+        341605
+      ],
+      [
+        2,
+        341605,
+        341955
+      ],
+      [
+        3,
+        341955,
+        342865
+      ],
+      [
+        4,
+        342865,
+        343845
+      ],
+      [
+        5,
+        343845,
+        344095
+      ],
+      [
+        6,
+        344095,
+        344855
+      ],
+      [
+        7,
+        344855,
+        345855
+      ],
+      [
+        8,
+        345855,
+        348860
+      ]
+    ]
+  }
+}

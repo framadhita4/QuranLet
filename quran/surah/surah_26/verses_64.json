@@ -1,0 +1,73 @@
+{
+  "id": 2996,
+  "chapter_id": 26,
+  "verse_key": "26:64",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "وَأَزْلَفْنَا ثَمَّ ٱلْـَٔاخَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 56682,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_064_001.mp3",
+      "text": "وَأَزْلَفْنَا",
+      "translation": "dan Kami dekatkan",
+      "transliteration": "wa-azlafnā"
+    },
+    {
+      "id": 56683,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_064_002.mp3",
+      "text": "ثَمَّ",
+      "translation": "disana",
+      "transliteration": "thamma"
+    },
+    {
+      "id": 56684,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_064_003.mp3",
+      "text": "ٱلْـَٔاخَرِينَ",
+      "translation": "yang lain",
+      "transliteration": "l-ākharīna"
+    },
+    {
+      "id": 56685,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di sanalah Kami dekatkan golongan yang lain <sup foot_note_id=\"1086\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 653660,
+    "timestamp_to": 660140,
+    "duration": 6480,
+    "segments": [
+      [
+        1,
+        653635,
+        655105
+      ],
+      [
+        2,
+        655105,
+        656595
+      ],
+      [
+        3,
+        656595,
+        660090
+      ]
+    ]
+  }
+}

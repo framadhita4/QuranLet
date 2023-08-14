@@ -1,0 +1,112 @@
+{
+  "id": 3109,
+  "chapter_id": 26,
+  "verse_key": "26:177",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83507,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 83508,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_002.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 83509,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 83510,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_004.mp3",
+      "text": "شُعَيْبٌ",
+      "translation": "Syu'aib",
+      "transliteration": "shuʿaybun"
+    },
+    {
+      "id": 83511,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_005.mp3",
+      "text": "أَلَا",
+      "translation": "mengapa tidak",
+      "transliteration": "alā"
+    },
+    {
+      "id": 83512,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_006.mp3",
+      "text": "تَتَّقُونَ",
+      "translation": "kamu bertakwa",
+      "transliteration": "tattaqūna"
+    },
+    {
+      "id": 83513,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧٧",
+      "translation": "(177)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ketika Syuʻayb berkata kepada mereka, \"Mengapa kamu tidak bertakwa?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1540280,
+    "timestamp_to": 1547020,
+    "duration": 6740,
+    "segments": [
+      [
+        1,
+        1540225,
+        1540765
+      ],
+      [
+        2,
+        1540765,
+        1541415
+      ],
+      [
+        3,
+        1541415,
+        1541965
+      ],
+      [
+        4,
+        1541965,
+        1543015
+      ],
+      [
+        5,
+        1543015,
+        1543795
+      ],
+      [
+        6,
+        1543795,
+        1546910
+      ]
+    ]
+  }
+}

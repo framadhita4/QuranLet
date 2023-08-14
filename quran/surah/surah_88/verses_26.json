@@ -1,0 +1,86 @@
+{
+  "id": 5993,
+  "chapter_id": 88,
+  "verse_key": "88:26",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 28569,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_026_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 28570,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_026_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 28571,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_026_003.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 28572,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_026_004.mp3",
+      "text": "حِسَابَهُم",
+      "translation": "perhitungan mereka",
+      "transliteration": "ḥisābahum"
+    },
+    {
+      "id": 28573,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian sesungguhnya kewajiban Kami-lah menghisab mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 114330,
+    "timestamp_to": 121570,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        114205,
+        115525
+      ],
+      [
+        2,
+        115525,
+        116955
+      ],
+      [
+        3,
+        116955,
+        118115
+      ],
+      [
+        4,
+        118115,
+        121370
+      ]
+    ]
+  }
+}

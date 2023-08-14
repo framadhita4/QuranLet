@@ -1,0 +1,47 @@
+{
+  "id": 3410,
+  "chapter_id": 30,
+  "verse_key": "30:1",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 404,
+  "juz_number": 21,
+  "text_uthmani": " الٓمٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 789,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_001_001.mp3",
+      "text": "الٓمٓ",
+      "translation": "Alif laam miim",
+      "transliteration": "alif-lam-meem"
+    },
+    {
+      "id": 790,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Mīm <sup foot_note_id=\"1160\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 9720,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        0,
+        9685
+      ]
+    ]
+  }
+}

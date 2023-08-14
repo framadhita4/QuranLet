@@ -1,0 +1,112 @@
+{
+  "id": 6077,
+  "chapter_id": 92,
+  "verse_key": "92:19",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 21511,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_019_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 21512,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_019_002.mp3",
+      "text": "لِأَحَدٍ",
+      "translation": "satupun",
+      "transliteration": "li-aḥadin"
+    },
+    {
+      "id": 21513,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_019_003.mp3",
+      "text": "عِندَهُۥ",
+      "translation": "pada sisinya",
+      "transliteration": "ʿindahu"
+    },
+    {
+      "id": 21514,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_019_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 21515,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_019_005.mp3",
+      "text": "نِّعْمَةٍۢ",
+      "translation": "nikmat",
+      "transliteration": "niʿ'matin"
+    },
+    {
+      "id": 21516,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_019_006.mp3",
+      "text": "تُجْزَىٰٓ",
+      "translation": "patut dibalas",
+      "transliteration": "tuj'zā"
+    },
+    {
+      "id": 21517,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "padahal tidak ada seseorang pun memberikan suatu nikmat kepadanya yang harus dibalasnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81400,
+    "timestamp_to": 89290,
+    "duration": 7890,
+    "segments": [
+      [
+        1,
+        80975,
+        81625
+      ],
+      [
+        2,
+        81625,
+        82625
+      ],
+      [
+        3,
+        82625,
+        84295
+      ],
+      [
+        4,
+        84295,
+        84595
+      ],
+      [
+        5,
+        84595,
+        87285
+      ],
+      [
+        6,
+        87285,
+        88380
+      ]
+    ]
+  }
+}

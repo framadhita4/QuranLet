@@ -1,0 +1,125 @@
+{
+  "id": 5064,
+  "chapter_id": 56,
+  "verse_key": "56:85",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 66086,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_001.mp3",
+      "text": "وَنَحْنُ",
+      "translation": "dan Kami",
+      "transliteration": "wanaḥnu"
+    },
+    {
+      "id": 66087,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_002.mp3",
+      "text": "أَقْرَبُ",
+      "translation": "lebih dekat",
+      "transliteration": "aqrabu"
+    },
+    {
+      "id": 66088,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_003.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepadanya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 66089,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_004.mp3",
+      "text": "مِنكُمْ",
+      "translation": "dari pada kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 66090,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_005.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 66091,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_006.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 66092,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_085_007.mp3",
+      "text": "تُبْصِرُونَ",
+      "translation": "melihat",
+      "transliteration": "tub'ṣirūna"
+    },
+    {
+      "id": 66093,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami lebih dekat kepadanya dari pada kamu.  Tetapi kamu tidak melihat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 625170,
+    "timestamp_to": 634680,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        625055,
+        625925
+      ],
+      [
+        2,
+        625925,
+        626825
+      ],
+      [
+        3,
+        626825,
+        627705
+      ],
+      [
+        4,
+        627705,
+        629565
+      ],
+      [
+        5,
+        629565,
+        630495
+      ],
+      [
+        6,
+        630495,
+        631065
+      ],
+      [
+        7,
+        631065,
+        634450
+      ]
+    ]
+  }
+}

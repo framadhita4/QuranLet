@@ -1,0 +1,112 @@
+{
+  "id": 5653,
+  "chapter_id": 77,
+  "verse_key": "77:31",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 33654,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_031_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 33655,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_031_002.mp3",
+      "text": "ظَلِيلٍۢ",
+      "translation": "menaungi",
+      "transliteration": "ẓalīlin"
+    },
+    {
+      "id": 33656,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_031_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 33657,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_031_004.mp3",
+      "text": "يُغْنِى",
+      "translation": "berguna/menolak",
+      "transliteration": "yugh'nī"
+    },
+    {
+      "id": 33658,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_031_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 33659,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_031_006.mp3",
+      "text": "ٱللَّهَبِ",
+      "translation": "nyala api neraka",
+      "transliteration": "l-lahabi"
+    },
+    {
+      "id": 33660,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang tidak melindungi dan tidak pula menolak nyala api neraka\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 148160,
+    "timestamp_to": 153280,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        147755,
+        148165
+      ],
+      [
+        2,
+        148165,
+        149875
+      ],
+      [
+        3,
+        149875,
+        150415
+      ],
+      [
+        4,
+        150415,
+        151265
+      ],
+      [
+        5,
+        151265,
+        151565
+      ],
+      [
+        6,
+        151565,
+        152820
+      ]
+    ]
+  }
+}

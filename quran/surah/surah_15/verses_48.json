@@ -1,0 +1,138 @@
+{
+  "id": 1850,
+  "chapter_id": 15,
+  "verse_key": "15:48",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 47651,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 47652,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_002.mp3",
+      "text": "يَمَسُّهُمْ",
+      "translation": "menimpa mereka",
+      "transliteration": "yamassuhum"
+    },
+    {
+      "id": 47653,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_003.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 47654,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_004.mp3",
+      "text": "نَصَبٌۭ",
+      "translation": "kelelahan",
+      "transliteration": "naṣabun"
+    },
+    {
+      "id": 47655,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 47656,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_006.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 47657,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_007.mp3",
+      "text": "مِّنْهَا",
+      "translation": "daripadanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 47658,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_048_008.mp3",
+      "text": "بِمُخْرَجِينَ",
+      "translation": "dengan dikeluarkan",
+      "transliteration": "bimukh'rajīna"
+    },
+    {
+      "id": 47659,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tidak merasa lelah di dalamnya dan mereka sekali-kali tidak akan dikeluarkan daripadanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 470940,
+    "timestamp_to": 481080,
+    "duration": 10140,
+    "segments": [
+      [
+        1,
+        470885,
+        471425
+      ],
+      [
+        2,
+        471425,
+        472705
+      ],
+      [
+        3,
+        472705,
+        473565
+      ],
+      [
+        4,
+        473565,
+        474995
+      ],
+      [
+        5,
+        474995,
+        475525
+      ],
+      [
+        6,
+        475525,
+        476015
+      ],
+      [
+        7,
+        476015,
+        477405
+      ],
+      [
+        8,
+        477405,
+        480960
+      ]
+    ]
+  }
+}

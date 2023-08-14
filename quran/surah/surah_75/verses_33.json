@@ -1,0 +1,99 @@
+{
+  "id": 5584,
+  "chapter_id": 75,
+  "verse_key": "75:33",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 35576,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_033_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 35577,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_033_002.mp3",
+      "text": "ذَهَبَ",
+      "translation": "dia pergi",
+      "transliteration": "dhahaba"
+    },
+    {
+      "id": 35578,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_033_003.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 35579,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_033_004.mp3",
+      "text": "أَهْلِهِۦ",
+      "translation": "ahlinya/keluarganya",
+      "transliteration": "ahlihi"
+    },
+    {
+      "id": 35580,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_033_005.mp3",
+      "text": "يَتَمَطَّىٰٓ",
+      "translation": "dengan sombong",
+      "transliteration": "yatamaṭṭā"
+    },
+    {
+      "id": 35581,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian ia pergi kepada ahlinya dengan berlagak (sombong).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 158800,
+    "timestamp_to": 165100,
+    "duration": 6300,
+    "segments": [
+      [
+        1,
+        158385,
+        159565
+      ],
+      [
+        2,
+        159565,
+        160295
+      ],
+      [
+        3,
+        160295,
+        161845
+      ],
+      [
+        4,
+        161845,
+        162915
+      ],
+      [
+        5,
+        162915,
+        164630
+      ]
+    ]
+  }
+}

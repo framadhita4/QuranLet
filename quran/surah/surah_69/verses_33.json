@@ -1,0 +1,112 @@
+{
+  "id": 5356,
+  "chapter_id": 69,
+  "verse_key": "69:33",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 35527,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_033_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 35528,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_033_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah ia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 35529,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_033_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 35530,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_033_004.mp3",
+      "text": "يُؤْمِنُ",
+      "translation": "beriman",
+      "transliteration": "yu'minu"
+    },
+    {
+      "id": 35531,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_033_005.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 35532,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_033_006.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "Maha Besar",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 35533,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia dahulu tidak beriman kepada Allah Yang Maha Besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 254180,
+    "timestamp_to": 262170,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        254105,
+        255955
+      ],
+      [
+        2,
+        255955,
+        256555
+      ],
+      [
+        3,
+        256555,
+        257085
+      ],
+      [
+        4,
+        257085,
+        257985
+      ],
+      [
+        5,
+        257985,
+        259135
+      ],
+      [
+        6,
+        259135,
+        262030
+      ]
+    ]
+  }
+}

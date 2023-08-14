@@ -1,0 +1,112 @@
+{
+  "id": 434,
+  "chapter_id": 3,
+  "verse_key": "3:141",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "ruku_number": 55,
+  "manzil_number": 1,
+  "page_number": 68,
+  "juz_number": 4,
+  "text_uthmani": "وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 79312,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_001.mp3",
+      "text": "وَلِيُمَحِّصَ",
+      "translation": "dan karena hendak membersihkan",
+      "transliteration": "waliyumaḥḥiṣa"
+    },
+    {
+      "id": 79313,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 79314,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 79315,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_004.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 79316,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_005.mp3",
+      "text": "وَيَمْحَقَ",
+      "translation": "dan Dia membinasakan",
+      "transliteration": "wayamḥaqa"
+    },
+    {
+      "id": 79317,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_006.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 79318,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٤١",
+      "translation": "(141)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan agar Allah membersihkan orang-orang yang beriman (dari dosa mereka) dan membinasakan orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3198700,
+    "timestamp_to": 3208390,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        3198645,
+        3200435
+      ],
+      [
+        2,
+        3200435,
+        3201335
+      ],
+      [
+        3,
+        3201335,
+        3202485
+      ],
+      [
+        4,
+        3202485,
+        3203795
+      ],
+      [
+        5,
+        3203795,
+        3204835
+      ],
+      [
+        6,
+        3204835,
+        3208280
+      ]
+    ]
+  }
+}

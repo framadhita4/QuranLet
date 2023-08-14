@@ -1,0 +1,125 @@
+{
+  "id": 295,
+  "chapter_id": 3,
+  "verse_key": "3:2",
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "ruku_number": 42,
+  "manzil_number": 1,
+  "page_number": 50,
+  "juz_number": 3,
+  "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 1183,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_001.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "al-lahu"
+    },
+    {
+      "id": 1184,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_002.mp3",
+      "text": "لَآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 1185,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_003.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "Tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 1186,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 1187,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_005.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 1188,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_006.mp3",
+      "text": "ٱلْحَىُّ",
+      "translation": "yang hidup (kekal)",
+      "transliteration": "l-ḥayu"
+    },
+    {
+      "id": 1189,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_002_007.mp3",
+      "text": "ٱلْقَيُّومُ",
+      "translation": "berdiri sendiri",
+      "transliteration": "l-qayūmu"
+    },
+    {
+      "id": 1190,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia.  Yang hidup kekal lagi terus menerus mengurus makhluk-Nya<sup foot_note_id=\"182\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6320,
+    "timestamp_to": 15960,
+    "duration": 9640,
+    "segments": [
+      [
+        1,
+        6275,
+        7335
+      ],
+      [
+        2,
+        7335,
+        9215
+      ],
+      [
+        3,
+        9215,
+        10065
+      ],
+      [
+        4,
+        10065,
+        10885
+      ],
+      [
+        5,
+        10885,
+        11255
+      ],
+      [
+        6,
+        11255,
+        12185
+      ],
+      [
+        7,
+        12185,
+        15850
+      ]
+    ]
+  }
+}

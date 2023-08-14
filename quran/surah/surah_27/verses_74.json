@@ -1,0 +1,138 @@
+{
+  "id": 3233,
+  "chapter_id": 27,
+  "verse_key": "27:74",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 383,
+  "juz_number": 20,
+  "text_uthmani": "وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 61635,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 61636,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 61637,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_003.mp3",
+      "text": "لَيَعْلَمُ",
+      "translation": "benar-benar mengetahui",
+      "transliteration": "layaʿlamu"
+    },
+    {
+      "id": 61638,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 61639,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_005.mp3",
+      "text": "تُكِنُّ",
+      "translation": "yang disembunyikan",
+      "transliteration": "tukinnu"
+    },
+    {
+      "id": 61640,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_006.mp3",
+      "text": "صُدُورُهُمْ",
+      "translation": "dada mereka/hati mereka",
+      "transliteration": "ṣudūruhum"
+    },
+    {
+      "id": 61641,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_007.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa yang",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 61642,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_074_008.mp3",
+      "text": "يُعْلِنُونَ",
+      "translation": "mereka nyatakan",
+      "transliteration": "yuʿ'linūna"
+    },
+    {
+      "id": 61643,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Tuhanmu, benar-benar mengetahui apa yang disembunyikan hati mereka dan apa yang mereka nyatakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1333000,
+    "timestamp_to": 1343660,
+    "duration": 10660,
+    "segments": [
+      [
+        1,
+        1332975,
+        1334615
+      ],
+      [
+        2,
+        1334615,
+        1335445
+      ],
+      [
+        3,
+        1335445,
+        1336435
+      ],
+      [
+        4,
+        1336435,
+        1336885
+      ],
+      [
+        5,
+        1336885,
+        1338475
+      ],
+      [
+        6,
+        1338475,
+        1339875
+      ],
+      [
+        7,
+        1339875,
+        1340555
+      ],
+      [
+        8,
+        1340555,
+        1343610
+      ]
+    ]
+  }
+}

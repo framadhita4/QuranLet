@@ -1,0 +1,99 @@
+{
+  "id": 5029,
+  "chapter_id": 56,
+  "verse_key": "56:50",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 48669,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_001.mp3",
+      "text": "لَمَجْمُوعُونَ",
+      "translation": "sungguh mereka dikumpulkan",
+      "transliteration": "lamajmūʿūna"
+    },
+    {
+      "id": 48670,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "atas",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 48671,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_003.mp3",
+      "text": "مِيقَـٰتِ",
+      "translation": "waktu-waktu tertentu",
+      "transliteration": "mīqāti"
+    },
+    {
+      "id": 48672,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_004.mp3",
+      "text": "يَوْمٍۢ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 48673,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_005.mp3",
+      "text": "مَّعْلُومٍۢ",
+      "translation": "diketahui/ditentukan",
+      "transliteration": "maʿlūmin"
+    },
+    {
+      "id": 48674,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "benar-benar akan dikumpulkan di waktu tertentu pada hari yang dikenal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 323730,
+    "timestamp_to": 332980,
+    "duration": 9250,
+    "segments": [
+      [
+        1,
+        323645,
+        325455
+      ],
+      [
+        2,
+        325455,
+        326235
+      ],
+      [
+        3,
+        326235,
+        327525
+      ],
+      [
+        4,
+        327525,
+        328185
+      ],
+      [
+        5,
+        328185,
+        332680
+      ]
+    ]
+  }
+}

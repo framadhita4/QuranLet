@@ -1,0 +1,112 @@
+{
+  "id": 5389,
+  "chapter_id": 70,
+  "verse_key": "70:14",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 16256,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_014_001.mp3",
+      "text": "وَمَن",
+      "translation": "dan orang",
+      "transliteration": "waman"
+    },
+    {
+      "id": 16257,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_014_002.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 16258,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_014_003.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 16259,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_014_004.mp3",
+      "text": "جَمِيعًۭا",
+      "translation": "seluruhnya",
+      "transliteration": "jamīʿan"
+    },
+    {
+      "id": 16260,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_014_005.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 16261,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_014_006.mp3",
+      "text": "يُنجِيهِ",
+      "translation": "ia menyelamatkannya",
+      "transliteration": "yunjīhi"
+    },
+    {
+      "id": 16262,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang di atas bumi seluruhnya, kemudian (mengharapkan) tebusan itu dapat menyelamatkannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 75230,
+    "timestamp_to": 85100,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        75165,
+        76355
+      ],
+      [
+        2,
+        76355,
+        76605
+      ],
+      [
+        3,
+        76605,
+        77425
+      ],
+      [
+        4,
+        77425,
+        79254
+      ],
+      [
+        5,
+        79255,
+        80605
+      ],
+      [
+        6,
+        80605,
+        84990
+      ]
+    ]
+  }
+}

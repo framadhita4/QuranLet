@@ -1,0 +1,376 @@
+@font-face {
+  font-family: "surahicon";
+  src: url("/font/surahicon.eot");
+  src: url("/font/surahicon-iefix.eot") format("embedded-opentype"),
+    url("/font/surahicon.woff2") format("woff2"),
+    url("/font/surahicon.woff") format("woff"),
+    url("/font/surahicon.ttf") format("truetype"),
+    url("/font/surahicon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "surahicon";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-0:before {
+  content: "\e800";
+}
+.icon-1:before {
+  content: "\e801";
+}
+.icon-2:before {
+  content: "\e802";
+}
+.icon-3:before {
+  content: "\e803";
+}
+.icon-4:before {
+  content: "\e804";
+}
+.icon-5:before {
+  content: "\e805";
+}
+.icon-6:before {
+  content: "\e806";
+}
+.icon-7:before {
+  content: "\e807";
+}
+.icon-8:before {
+  content: "\e808";
+}
+.icon-9:before {
+  content: "\e809";
+}
+.icon-10:before {
+  content: "\e80a";
+}
+.icon-11:before {
+  content: "\e80b";
+}
+.icon-12:before {
+  content: "\e80c";
+}
+.icon-13:before {
+  content: "\e80d";
+}
+.icon-14:before {
+  content: "\e80e";
+}
+.icon-15:before {
+  content: "\e80f";
+}
+.icon-16:before {
+  content: "\e810";
+}
+.icon-17:before {
+  content: "\e811";
+}
+.icon-18:before {
+  content: "\e812";
+}
+.icon-19:before {
+  content: "\e813";
+}
+.icon-20:before {
+  content: "\e814";
+}
+.icon-21:before {
+  content: "\e815";
+}
+.icon-22:before {
+  content: "\e816";
+}
+.icon-23:before {
+  content: "\e817";
+}
+.icon-24:before {
+  content: "\e818";
+}
+.icon-25:before {
+  content: "\e819";
+}
+.icon-26:before {
+  content: "\e81a";
+}
+.icon-27:before {
+  content: "\e81b";
+}
+.icon-28:before {
+  content: "\e81c";
+}
+.icon-29:before {
+  content: "\e81d";
+}
+.icon-30:before {
+  content: "\e81e";
+}
+.icon-31:before {
+  content: "\e81f";
+}
+.icon-32:before {
+  content: "\e820";
+}
+.icon-33:before {
+  content: "\e821";
+}
+.icon-34:before {
+  content: "\e822";
+}
+.icon-35:before {
+  content: "\e823";
+}
+.icon-36:before {
+  content: "\e824";
+}
+.icon-37:before {
+  content: "\e825";
+}
+.icon-38:before {
+  content: "\e826";
+}
+.icon-39:before {
+  content: "\e827";
+}
+.icon-40:before {
+  content: "\e828";
+}
+.icon-41:before {
+  content: "\e829";
+}
+.icon-42:before {
+  content: "\e82a";
+}
+.icon-43:before {
+  content: "\e82b";
+}
+.icon-44:before {
+  content: "\e82c";
+}
+.icon-45:before {
+  content: "\e82d";
+}
+.icon-46:before {
+  content: "\e82e";
+}
+.icon-47:before {
+  content: "\e82f";
+}
+.icon-48:before {
+  content: "\e830";
+}
+.icon-49:before {
+  content: "\e831";
+}
+.icon-50:before {
+  content: "\e832";
+}
+.icon-51:before {
+  content: "\e833";
+}
+.icon-52:before {
+  content: "\e834";
+}
+.icon-53:before {
+  content: "\e835";
+}
+.icon-54:before {
+  content: "\e836";
+}
+.icon-55:before {
+  content: "\e837";
+}
+.icon-56:before {
+  content: "\e838";
+}
+.icon-57:before {
+  content: "\e839";
+}
+.icon-58:before {
+  content: "\e83a";
+}
+.icon-59:before {
+  content: "\e83b";
+}
+.icon-60:before {
+  content: "\e83c";
+}
+.icon-61:before {
+  content: "\e83d";
+}
+.icon-62:before {
+  content: "\e83e";
+}
+.icon-63:before {
+  content: "\e83f";
+}
+.icon-64:before {
+  content: "\e840";
+}
+.icon-65:before {
+  content: "\e841";
+}
+.icon-66:before {
+  content: "\e842";
+}
+.icon-67:before {
+  content: "\e843";
+}
+.icon-68:before {
+  content: "\e844";
+}
+.icon-69:before {
+  content: "\e845";
+}
+.icon-70:before {
+  content: "\e846";
+}
+.icon-71:before {
+  content: "\e847";
+}
+.icon-72:before {
+  content: "\e848";
+}
+.icon-73:before {
+  content: "\e849";
+}
+.icon-74:before {
+  content: "\e84a";
+}
+.icon-75:before {
+  content: "\e84b";
+}
+.icon-76:before {
+  content: "\e84c";
+}
+.icon-77:before {
+  content: "\e84d";
+}
+.icon-78:before {
+  content: "\e84e";
+}
+.icon-79:before {
+  content: "\e84f";
+}
+.icon-80:before {
+  content: "\e850";
+}
+.icon-81:before {
+  content: "\e851";
+}
+.icon-82:before {
+  content: "\e852";
+}
+.icon-83:before {
+  content: "\e853";
+}
+.icon-84:before {
+  content: "\e854";
+}
+.icon-85:before {
+  content: "\e855";
+}
+.icon-86:before {
+  content: "\e856";
+}
+.icon-87:before {
+  content: "\e857";
+}
+.icon-88:before {
+  content: "\e858";
+}
+.icon-89:before {
+  content: "\e859";
+}
+.icon-90:before {
+  content: "\e85a";
+}
+.icon-91:before {
+  content: "\e85b";
+}
+.icon-92:before {
+  content: "\e85c";
+}
+.icon-93:before {
+  content: "\e85d";
+}
+.icon-94:before {
+  content: "\e85e";
+}
+.icon-95:before {
+  content: "\e85f";
+}
+.icon-96:before {
+  content: "\e860";
+}
+.icon-97:before {
+  content: "\e861";
+}
+.icon-98:before {
+  content: "\e862";
+}
+.icon-99:before {
+  content: "\e863";
+}
+.icon-100:before {
+  content: "\e864";
+}
+.icon-101:before {
+  content: "\e865";
+}
+.icon-102:before {
+  content: "\e866";
+}
+.icon-103:before {
+  content: "\e867";
+}
+.icon-104:before {
+  content: "\e868";
+}
+.icon-105:before {
+  content: "\e869";
+}
+.icon-106:before {
+  content: "\e86a";
+}
+.icon-107:before {
+  content: "\e86b";
+}
+.icon-108:before {
+  content: "\e86c";
+}
+.icon-109:before {
+  content: "\e86d";
+}
+.icon-110:before {
+  content: "\e86e";
+}
+.icon-111:before {
+  content: "\e86f";
+}
+.icon-112:before {
+  content: "\e870";
+}
+.icon-113:before {
+  content: "\e871";
+}
+.icon-114:before {
+  content: "\e872";
+}
+.icon-115:before {
+  content: "\e873";
+}

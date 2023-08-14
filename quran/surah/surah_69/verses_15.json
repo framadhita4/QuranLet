@@ -1,0 +1,73 @@
+{
+  "id": 5338,
+  "chapter_id": 69,
+  "verse_key": "69:15",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 17436,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_015_001.mp3",
+      "text": "فَيَوْمَئِذٍۢ",
+      "translation": "maka pada hari itu",
+      "transliteration": "fayawma-idhin"
+    },
+    {
+      "id": 17437,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_015_002.mp3",
+      "text": "وَقَعَتِ",
+      "translation": "terjadi",
+      "transliteration": "waqaʿati"
+    },
+    {
+      "id": 17438,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_015_003.mp3",
+      "text": "ٱلْوَاقِعَةُ",
+      "translation": "kejadian",
+      "transliteration": "l-wāqiʿatu"
+    },
+    {
+      "id": 17439,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka pada hari itu terjadilah hari kiamat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 120320,
+    "timestamp_to": 125620,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        120235,
+        121915
+      ],
+      [
+        2,
+        121915,
+        123585
+      ],
+      [
+        3,
+        123585,
+        125470
+      ]
+    ]
+  }
+}

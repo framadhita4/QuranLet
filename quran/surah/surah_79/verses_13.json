@@ -1,0 +1,86 @@
+{
+  "id": 5725,
+  "chapter_id": 79,
+  "verse_key": "79:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 15480,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_013_001.mp3",
+      "text": "فَإِنَّمَا",
+      "translation": "maka sesungguhnya hanyalah",
+      "transliteration": "fa-innamā"
+    },
+    {
+      "id": 15481,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_013_002.mp3",
+      "text": "هِىَ",
+      "translation": "ia/pengembalian",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 15482,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_013_003.mp3",
+      "text": "زَجْرَةٌۭ",
+      "translation": "teriakan",
+      "transliteration": "zajratun"
+    },
+    {
+      "id": 15483,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_013_004.mp3",
+      "text": "وَٰحِدَةٌۭ",
+      "translation": "satu/satu kali",
+      "transliteration": "wāḥidatun"
+    },
+    {
+      "id": 15484,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pengembalian itu hanyalah satu kali tiupan saja,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 52650,
+    "timestamp_to": 58630,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        52605,
+        54815
+      ],
+      [
+        2,
+        54815,
+        55235
+      ],
+      [
+        3,
+        55235,
+        57025
+      ],
+      [
+        4,
+        57025,
+        58520
+      ]
+    ]
+  }
+}

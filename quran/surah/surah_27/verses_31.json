@@ -1,0 +1,99 @@
+{
+  "id": 3190,
+  "chapter_id": 27,
+  "verse_key": "27:31",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 328,
+  "manzil_number": 5,
+  "page_number": 379,
+  "juz_number": 19,
+  "text_uthmani": "أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 33866,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_001.mp3",
+      "text": "أَلَّا",
+      "translation": "janganlah",
+      "transliteration": "allā"
+    },
+    {
+      "id": 33867,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_002.mp3",
+      "text": "تَعْلُوا۟",
+      "translation": "kamu berlaku sombong",
+      "transliteration": "taʿlū"
+    },
+    {
+      "id": 33868,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_003.mp3",
+      "text": "عَلَىَّ",
+      "translation": "atasku",
+      "transliteration": "ʿalayya"
+    },
+    {
+      "id": 33869,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_004.mp3",
+      "text": "وَأْتُونِى",
+      "translation": "dan datanglah kepadaku",
+      "transliteration": "watūnī"
+    },
+    {
+      "id": 33870,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_005.mp3",
+      "text": "مُسْلِمِينَ",
+      "translation": "orang-orang yang berserah diri",
+      "transliteration": "mus'limīna"
+    },
+    {
+      "id": 33871,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahwa janganlah kamu sekalian berlaku sombong terhadapku dan datanglah kepadaku sebagai orang-orang yang berserah diri\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 511680,
+    "timestamp_to": 519070,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        511635,
+        512605
+      ],
+      [
+        2,
+        512605,
+        513545
+      ],
+      [
+        3,
+        513545,
+        514575
+      ],
+      [
+        4,
+        514575,
+        515855
+      ],
+      [
+        5,
+        515855,
+        518970
+      ]
+    ]
+  }
+}

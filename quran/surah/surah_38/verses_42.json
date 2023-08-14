@@ -1,0 +1,112 @@
+{
+  "id": 4012,
+  "chapter_id": 38,
+  "verse_key": "38:42",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 42874,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_042_001.mp3",
+      "text": "ٱرْكُضْ",
+      "translation": "hentakkanlah",
+      "transliteration": "ur'kuḍ"
+    },
+    {
+      "id": 42875,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_042_002.mp3",
+      "text": "بِرِجْلِكَ ۖ",
+      "translation": "dengan kakimu",
+      "transliteration": "birij'lika"
+    },
+    {
+      "id": 42877,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_042_004.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 42878,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_042_005.mp3",
+      "text": "مُغْتَسَلٌۢ",
+      "translation": "(untuk) mandi",
+      "transliteration": "mugh'tasalun"
+    },
+    {
+      "id": 42879,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_042_006.mp3",
+      "text": "بَارِدٌۭ",
+      "translation": "sejuk",
+      "transliteration": "bāridun"
+    },
+    {
+      "id": 42880,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_042_007.mp3",
+      "text": "وَشَرَابٌۭ",
+      "translation": "dan minum",
+      "transliteration": "washarābun"
+    },
+    {
+      "id": 42881,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Hantamkanlah kakimu; inilah air yang sejuk untuk mandi dan untuk minum.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 574650,
+    "timestamp_to": 584470,
+    "duration": 9820,
+    "segments": [
+      [
+        1,
+        574215,
+        575135
+      ],
+      [
+        2,
+        575135,
+        576605
+      ],
+      [
+        3,
+        576605,
+        577475
+      ],
+      [
+        4,
+        577475,
+        579405
+      ],
+      [
+        5,
+        579405,
+        581095
+      ],
+      [
+        6,
+        581095,
+        584000
+      ]
+    ]
+  }
+}

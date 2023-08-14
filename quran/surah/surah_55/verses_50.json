@@ -1,0 +1,73 @@
+{
+  "id": 4951,
+  "chapter_id": 55,
+  "verse_key": "55:50",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 48665,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_050_001.mp3",
+      "text": "فِيهِمَا",
+      "translation": "didalam keduanya",
+      "transliteration": "fīhimā"
+    },
+    {
+      "id": 48666,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_050_002.mp3",
+      "text": "عَيْنَانِ",
+      "translation": "dua mata air",
+      "transliteration": "ʿaynāni"
+    },
+    {
+      "id": 48667,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_050_003.mp3",
+      "text": "تَجْرِيَانِ",
+      "translation": "mengalir keduanya",
+      "transliteration": "tajriyāni"
+    },
+    {
+      "id": 48668,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalam kedua surga itu ada dua buah mata air yang mengalir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 428740,
+    "timestamp_to": 434770,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        428685,
+        429855
+      ],
+      [
+        2,
+        429855,
+        431045
+      ],
+      [
+        3,
+        431045,
+        434670
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 660,
+  "chapter_id": 4,
+  "verse_key": "4:167",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "ruku_number": 84,
+  "manzil_number": 1,
+  "page_number": 104,
+  "juz_number": 6,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَـٰلًۢا بَعِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 82531,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 82532,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 82533,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 82534,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_004.mp3",
+      "text": "وَصَدُّوا۟",
+      "translation": "dan mereka menghalang-halangi",
+      "transliteration": "waṣaddū"
+    },
+    {
+      "id": 82535,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_005.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 82536,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_006.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 82537,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_007.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82538,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_008.mp3",
+      "text": "قَدْ",
+      "translation": "sungguh",
+      "transliteration": "qad"
+    },
+    {
+      "id": 82539,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_009.mp3",
+      "text": "ضَلُّوا۟",
+      "translation": "mereka telah sesat",
+      "transliteration": "ḍallū"
+    },
+    {
+      "id": 82540,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_010.mp3",
+      "text": "ضَلَـٰلًۢا",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālan"
+    },
+    {
+      "id": 82541,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_167_011.mp3",
+      "text": "بَعِيدًا",
+      "translation": "sejauh-jauhnya",
+      "transliteration": "baʿīdan"
+    },
+    {
+      "id": 82542,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٦٧",
+      "translation": "(167)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang kafir dan menghalang-halangi (manusia) dari jalan Allah, benar-benar telah sesat sejauh-jauhnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4496650,
+    "timestamp_to": 4507750,
+    "duration": 11100,
+    "segments": [
+      [
+        1,
+        4496595,
+        4497935
+      ],
+      [
+        2,
+        4497935,
+        4498945
+      ],
+      [
+        3,
+        4498945,
+        4499965
+      ],
+      [
+        4,
+        4499965,
+        4500975
+      ],
+      [
+        5,
+        4500975,
+        4501805
+      ],
+      [
+        6,
+        4501805,
+        4502935
+      ],
+      [
+        7,
+        4502935,
+        4503495
+      ],
+      [
+        8,
+        4503495,
+        4503835
+      ],
+      [
+        9,
+        4503835,
+        4504705
+      ],
+      [
+        10,
+        4504705,
+        4506125
+      ],
+      [
+        11,
+        4506125,
+        4507670
+      ]
+    ]
+  }
+}

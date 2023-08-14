@@ -1,0 +1,73 @@
+{
+  "id": 4738,
+  "chapter_id": 52,
+  "verse_key": "52:3",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "فِى رَقٍّ مَّنشُورٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 2192,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_003_001.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 2193,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_003_002.mp3",
+      "text": "رَقٍّۢ",
+      "translation": "lembaran",
+      "transliteration": "raqqin"
+    },
+    {
+      "id": 2194,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_003_003.mp3",
+      "text": "مَّنشُورٍۢ",
+      "translation": "terbentang",
+      "transliteration": "manshūrin"
+    },
+    {
+      "id": 2195,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada lembaran yang terbuka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8810,
+    "timestamp_to": 15240,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        8735,
+        9195
+      ],
+      [
+        2,
+        9195,
+        9855
+      ],
+      [
+        3,
+        9855,
+        15080
+      ]
+    ]
+  }
+}

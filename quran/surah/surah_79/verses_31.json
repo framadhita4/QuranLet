@@ -1,0 +1,86 @@
+{
+  "id": 5743,
+  "chapter_id": 79,
+  "verse_key": "79:31",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 33779,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_031_001.mp3",
+      "text": "أَخْرَجَ",
+      "translation": "Dia keluarkan",
+      "transliteration": "akhraja"
+    },
+    {
+      "id": 33780,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_031_002.mp3",
+      "text": "مِنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 33781,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_031_003.mp3",
+      "text": "مَآءَهَا",
+      "translation": "airnya",
+      "transliteration": "māahā"
+    },
+    {
+      "id": 33782,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_031_004.mp3",
+      "text": "وَمَرْعَىٰهَا",
+      "translation": "dan padang rumput/tumbuh-tumbuhannya",
+      "transliteration": "wamarʿāhā"
+    },
+    {
+      "id": 33783,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ia memancarkan daripadanya mata airnya, dan (menumbuhkan) tumbuh-tumbuhannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 140160,
+    "timestamp_to": 146590,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        139745,
+        140615
+      ],
+      [
+        2,
+        140615,
+        141385
+      ],
+      [
+        3,
+        141385,
+        144185
+      ],
+      [
+        4,
+        144185,
+        145810
+      ]
+    ]
+  }
+}

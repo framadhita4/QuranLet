@@ -1,0 +1,125 @@
+{
+  "id": 2752,
+  "chapter_id": 23,
+  "verse_key": "23:79",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "وَهُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 63770,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 63771,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 63772,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_003.mp3",
+      "text": "ذَرَأَكُمْ",
+      "translation": "mengembangbiakan kamu",
+      "transliteration": "dhara-akum"
+    },
+    {
+      "id": 63773,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 63774,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_005.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "muka bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 63775,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_006.mp3",
+      "text": "وَإِلَيْهِ",
+      "translation": "dan kepada-Nya",
+      "transliteration": "wa-ilayhi"
+    },
+    {
+      "id": 63776,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_079_007.mp3",
+      "text": "تُحْشَرُونَ",
+      "translation": "kamu dikumpulkan",
+      "transliteration": "tuḥ'sharūna"
+    },
+    {
+      "id": 63777,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah yang menciptakan serta mengembangbiakkan kamu di bumi ini dan kepada-Nya-lah kamu akan dihimpunkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1008390,
+    "timestamp_to": 1016440,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        1008365,
+        1008965
+      ],
+      [
+        2,
+        1008965,
+        1009845
+      ],
+      [
+        3,
+        1009845,
+        1010805
+      ],
+      [
+        4,
+        1010805,
+        1011065
+      ],
+      [
+        5,
+        1011065,
+        1011845
+      ],
+      [
+        6,
+        1011845,
+        1012855
+      ],
+      [
+        7,
+        1012855,
+        1016390
+      ]
+    ]
+  }
+}

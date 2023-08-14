@@ -1,0 +1,86 @@
+{
+  "id": 6152,
+  "chapter_id": 100,
+  "verse_key": "100:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 7117,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_006_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sungguh",
+      "transliteration": "inna"
+    },
+    {
+      "id": 7118,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_006_002.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 7119,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_006_003.mp3",
+      "text": "لِرَبِّهِۦ",
+      "translation": "kepada Tuhannya",
+      "transliteration": "lirabbihi"
+    },
+    {
+      "id": 7120,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_006_004.mp3",
+      "text": "لَكَنُودٌۭ",
+      "translation": "sangat ingkar/tidak berterima kasih",
+      "transliteration": "lakanūdun"
+    },
+    {
+      "id": 7121,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya manusia itu sangat ingkar tidak berterima kasih kepada Tuhan-nya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16040,
+    "timestamp_to": 23720,
+    "duration": 7680,
+    "segments": [
+      [
+        1,
+        15965,
+        17135
+      ],
+      [
+        2,
+        17135,
+        19385
+      ],
+      [
+        3,
+        19385,
+        20695
+      ],
+      [
+        4,
+        20695,
+        23570
+      ]
+    ]
+  }
+}

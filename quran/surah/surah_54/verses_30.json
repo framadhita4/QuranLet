@@ -1,0 +1,86 @@
+{
+  "id": 4876,
+  "chapter_id": 54,
+  "verse_key": "54:30",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 32681,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_030_001.mp3",
+      "text": "فَكَيْفَ",
+      "translation": "maka bagaimanakah",
+      "transliteration": "fakayfa"
+    },
+    {
+      "id": 32682,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_030_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 32683,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_030_003.mp3",
+      "text": "عَذَابِى",
+      "translation": "azab-Ku",
+      "transliteration": "ʿadhābī"
+    },
+    {
+      "id": 32684,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_030_004.mp3",
+      "text": "وَنُذُرِ",
+      "translation": "dan peringatan-Ku",
+      "transliteration": "wanudhuri"
+    },
+    {
+      "id": 32685,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alangkah dahsyatnya azab-Ku dan ancaman-ancaman-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 268010,
+    "timestamp_to": 272110,
+    "duration": 4100,
+    "segments": [
+      [
+        1,
+        267915,
+        268665
+      ],
+      [
+        2,
+        268665,
+        269355
+      ],
+      [
+        3,
+        269355,
+        270545
+      ],
+      [
+        4,
+        270545,
+        271950
+      ]
+    ]
+  }
+}

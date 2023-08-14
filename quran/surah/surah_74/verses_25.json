@@ -1,0 +1,99 @@
+{
+  "id": 5520,
+  "chapter_id": 74,
+  "verse_key": "74:25",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 28095,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 28096,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_002.mp3",
+      "text": "هَـٰذَآ",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 28097,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 28098,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_004.mp3",
+      "text": "قَوْلُ",
+      "translation": "perkataan",
+      "transliteration": "qawlu"
+    },
+    {
+      "id": 28099,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_005.mp3",
+      "text": "ٱلْبَشَرِ",
+      "translation": "manusia",
+      "transliteration": "l-bashari"
+    },
+    {
+      "id": 28100,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ini tidak lain hanyalah perkataan manusia\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 93900,
+    "timestamp_to": 98860,
+    "duration": 4960,
+    "segments": [
+      [
+        1,
+        93835,
+        94255
+      ],
+      [
+        2,
+        94255,
+        96165
+      ],
+      [
+        3,
+        96165,
+        96945
+      ],
+      [
+        4,
+        96945,
+        97575
+      ],
+      [
+        5,
+        97575,
+        98720
+      ]
+    ]
+  }
+}

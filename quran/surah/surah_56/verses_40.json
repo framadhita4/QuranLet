@@ -1,0 +1,73 @@
+{
+  "id": 5019,
+  "chapter_id": 56,
+  "verse_key": "56:40",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 41251,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_040_001.mp3",
+      "text": "وَثُلَّةٌۭ",
+      "translation": "rombongan/golongan besar",
+      "transliteration": "wathullatun"
+    },
+    {
+      "id": 41252,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_040_002.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 41253,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_040_003.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 41254,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan segolongan besar pula dari orang yang kemudian.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 244000,
+    "timestamp_to": 250400,
+    "duration": 6400,
+    "segments": [
+      [
+        1,
+        243935,
+        245565
+      ],
+      [
+        2,
+        245565,
+        246345
+      ],
+      [
+        3,
+        246345,
+        250260
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2204,
+  "chapter_id": 18,
+  "verse_key": "18:64",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "ruku_number": 260,
+  "manzil_number": 4,
+  "page_number": 301,
+  "juz_number": 15,
+  "text_uthmani": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 56570,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 56571,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_002.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 56572,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_003.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 56573,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_004.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kita",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 56574,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_005.mp3",
+      "text": "نَبْغِ ۚ",
+      "translation": "kita kehendaki/cari",
+      "transliteration": "nabghi"
+    },
+    {
+      "id": 56576,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_007.mp3",
+      "text": "فَٱرْتَدَّا",
+      "translation": "maka keduanya kembali",
+      "transliteration": "fa-ir'taddā"
+    },
+    {
+      "id": 56577,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_008.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 56578,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_009.mp3",
+      "text": "ءَاثَارِهِمَا",
+      "translation": "bekas keduanya",
+      "transliteration": "āthārihimā"
+    },
+    {
+      "id": 56579,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_064_010.mp3",
+      "text": "قَصَصًۭا",
+      "translation": "mencari/mengikuti jejak",
+      "transliteration": "qaṣaṣan"
+    },
+    {
+      "id": 56580,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Musa berkata, \"Itulah (tempat) yang kita cari\".  Lalu, keduanya kembali mengikuti jejak mereka semula.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1270590,
+    "timestamp_to": 1281220,
+    "duration": 10630,
+    "segments": [
+      [
+        1,
+        1270535,
+        1271255
+      ],
+      [
+        2,
+        1271255,
+        1272095
+      ],
+      [
+        3,
+        1272095,
+        1272415
+      ],
+      [
+        4,
+        1272415,
+        1273785
+      ],
+      [
+        5,
+        1273785,
+        1274615
+      ],
+      [
+        6,
+        1274615,
+        1275935
+      ],
+      [
+        7,
+        1275935,
+        1277905
+      ],
+      [
+        8,
+        1277905,
+        1279605
+      ],
+      [
+        9,
+        1279605,
+        1281110
+      ]
+    ]
+  }
+}

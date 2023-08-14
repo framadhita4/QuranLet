@@ -1,0 +1,112 @@
+{
+  "id": 4400,
+  "chapter_id": 43,
+  "verse_key": "43:75",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 61838,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_075_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 61839,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_075_002.mp3",
+      "text": "يُفَتَّرُ",
+      "translation": "diringankan",
+      "transliteration": "yufattaru"
+    },
+    {
+      "id": 61840,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_075_003.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 61841,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_075_004.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 61842,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_075_005.mp3",
+      "text": "فِيهِ",
+      "translation": "didalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 61843,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_075_006.mp3",
+      "text": "مُبْلِسُونَ",
+      "translation": "orang-orang yang berputus asa",
+      "transliteration": "mub'lisūna"
+    },
+    {
+      "id": 61844,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak diringankan azab itu dari mereka dan mereka di dalamnya berputus asa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1044330,
+    "timestamp_to": 1051670,
+    "duration": 7340,
+    "segments": [
+      [
+        1,
+        1044275,
+        1044905
+      ],
+      [
+        2,
+        1044905,
+        1045965
+      ],
+      [
+        3,
+        1045965,
+        1046835
+      ],
+      [
+        4,
+        1046835,
+        1047415
+      ],
+      [
+        5,
+        1047415,
+        1048085
+      ],
+      [
+        6,
+        1048085,
+        1051590
+      ]
+    ]
+  }
+}

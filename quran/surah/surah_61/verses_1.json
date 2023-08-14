@@ -1,0 +1,177 @@
+{
+  "id": 5164,
+  "chapter_id": 61,
+  "verse_key": "61:1",
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "ruku_number": 486,
+  "manzil_number": 7,
+  "page_number": 551,
+  "juz_number": 28,
+  "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/61.mp3",
+  "words": [
+    {
+      "id": 443,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_001.mp3",
+      "text": "سَبَّحَ",
+      "translation": "bertasbih",
+      "transliteration": "sabbaḥa"
+    },
+    {
+      "id": 444,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_002.mp3",
+      "text": "لِلَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 445,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 446,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_004.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 447,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_005.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 448,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 449,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_007.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 450,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_008.mp3",
+      "text": "ٱلْأَرْضِ ۖ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 452,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_010.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 453,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_011.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 454,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_001_012.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 455,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bertasbih kepada Allah apa saja yang ada di langit dan apa saja yang ada di bumi; dan Dia-lah Yang Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 10210,
+    "duration": 10210,
+    "segments": [
+      [
+        1,
+        0,
+        1040
+      ],
+      [
+        2,
+        1040,
+        1920
+      ],
+      [
+        3,
+        1920,
+        2310
+      ],
+      [
+        4,
+        2310,
+        2510
+      ],
+      [
+        5,
+        2510,
+        3960
+      ],
+      [
+        6,
+        3960,
+        4430
+      ],
+      [
+        7,
+        4430,
+        4690
+      ],
+      [
+        8,
+        4690,
+        5500
+      ],
+      [
+        9,
+        5500,
+        6010
+      ],
+      [
+        10,
+        6010,
+        7110
+      ],
+      [
+        11,
+        7110,
+        10165
+      ]
+    ]
+  }
+}

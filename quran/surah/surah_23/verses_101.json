@@ -1,0 +1,164 @@
+{
+  "id": 2774,
+  "chapter_id": 23,
+  "verse_key": "23:101",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 71755,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 71756,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_002.mp3",
+      "text": "نُفِخَ",
+      "translation": "ditiup",
+      "transliteration": "nufikha"
+    },
+    {
+      "id": 71757,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_003.mp3",
+      "text": "فِى",
+      "translation": "di/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 71758,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_004.mp3",
+      "text": "ٱلصُّورِ",
+      "translation": "sangkakala",
+      "transliteration": "l-ṣūri"
+    },
+    {
+      "id": 71759,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_005.mp3",
+      "text": "فَلَآ",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 71760,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_006.mp3",
+      "text": "أَنسَابَ",
+      "translation": "pertalian nasib",
+      "transliteration": "ansāba"
+    },
+    {
+      "id": 71761,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_007.mp3",
+      "text": "بَيْنَهُمْ",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 71762,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_008.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 71763,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 71764,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_101_010.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka bertanya-tanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 71765,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠١",
+      "translation": "(101)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila sangkakala ditiup, maka tidaklah ada lagi pertalian nasab di antara mereka pada hari itu <sup foot_note_id=\"1023\">1</sup> dan tidak ada pula mereka saling bertanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1250350,
+    "timestamp_to": 1264770,
+    "duration": 14420,
+    "segments": [
+      [
+        1,
+        1250325,
+        1251175
+      ],
+      [
+        2,
+        1251175,
+        1251755
+      ],
+      [
+        3,
+        1251755,
+        1251915
+      ],
+      [
+        4,
+        1251915,
+        1252815
+      ],
+      [
+        5,
+        1252815,
+        1254795
+      ],
+      [
+        6,
+        1254795,
+        1256315
+      ],
+      [
+        7,
+        1256315,
+        1257325
+      ],
+      [
+        8,
+        1257325,
+        1258965
+      ],
+      [
+        9,
+        1258965,
+        1259855
+      ],
+      [
+        10,
+        1259855,
+        1264670
+      ]
+    ]
+  }
+}

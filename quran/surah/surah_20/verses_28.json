@@ -1,0 +1,60 @@
+{
+  "id": 2376,
+  "chapter_id": 20,
+  "verse_key": "20:28",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "يَفْقَهُوا۟ قَوْلِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 30680,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_028_001.mp3",
+      "text": "يَفْقَهُوا۟",
+      "translation": "mereka mengerti",
+      "transliteration": "yafqahū"
+    },
+    {
+      "id": 30681,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_028_002.mp3",
+      "text": "قَوْلِى",
+      "translation": "perkataanku",
+      "transliteration": "qawlī"
+    },
+    {
+      "id": 30682,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "supaya mereka mengerti perkataanku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 228030,
+    "timestamp_to": 230620,
+    "duration": 2590,
+    "segments": [
+      [
+        1,
+        228005,
+        229065
+      ],
+      [
+        2,
+        229065,
+        230530
+      ]
+    ]
+  }
+}

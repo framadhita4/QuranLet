@@ -1,0 +1,112 @@
+{
+  "id": 5049,
+  "chapter_id": 56,
+  "verse_key": "56:70",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 59425,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_070_001.mp3",
+      "text": "لَوْ",
+      "translation": "jika",
+      "transliteration": "law"
+    },
+    {
+      "id": 59426,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_070_002.mp3",
+      "text": "نَشَآءُ",
+      "translation": "Kami menghendaki",
+      "transliteration": "nashāu"
+    },
+    {
+      "id": 59427,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_070_003.mp3",
+      "text": "جَعَلْنَـٰهُ",
+      "translation": "Kami jadikannya",
+      "transliteration": "jaʿalnāhu"
+    },
+    {
+      "id": 59428,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_070_004.mp3",
+      "text": "أُجَاجًۭا",
+      "translation": "asin",
+      "transliteration": "ujājan"
+    },
+    {
+      "id": 59429,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_070_005.mp3",
+      "text": "فَلَوْلَا",
+      "translation": "maka mengapa tidak",
+      "transliteration": "falawlā"
+    },
+    {
+      "id": 59430,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_070_006.mp3",
+      "text": "تَشْكُرُونَ",
+      "translation": "kalian bersyukur",
+      "transliteration": "tashkurūna"
+    },
+    {
+      "id": 59431,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kalau Kami kehendaki, niscaya Kami jadikan dia asin, maka mengapakah kamu tidak bersyukur?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 496780,
+    "timestamp_to": 507620,
+    "duration": 10840,
+    "segments": [
+      [
+        1,
+        496705,
+        497135
+      ],
+      [
+        2,
+        497135,
+        499715
+      ],
+      [
+        3,
+        499715,
+        501115
+      ],
+      [
+        4,
+        501115,
+        502815
+      ],
+      [
+        5,
+        502815,
+        503865
+      ],
+      [
+        6,
+        503865,
+        507450
+      ]
+    ]
+  }
+}

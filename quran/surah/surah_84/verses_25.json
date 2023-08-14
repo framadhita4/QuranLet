@@ -1,0 +1,151 @@
+{
+  "id": 5909,
+  "chapter_id": 84,
+  "verse_key": "84:25",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 28164,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 28165,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 28166,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 28167,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_004.mp3",
+      "text": "وَعَمِلُوا۟",
+      "translation": "dan mereka berbuat/beramal",
+      "transliteration": "waʿamilū"
+    },
+    {
+      "id": 28168,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_005.mp3",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation": "kebajikan/saleh",
+      "transliteration": "l-ṣāliḥāti"
+    },
+    {
+      "id": 28169,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 28170,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_007.mp3",
+      "text": "أَجْرٌ",
+      "translation": "pahala",
+      "transliteration": "ajrun"
+    },
+    {
+      "id": 28171,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_008.mp3",
+      "text": "غَيْرُ",
+      "translation": "lain/tidak",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 28172,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_025_009.mp3",
+      "text": "مَمْنُونٍۭ",
+      "translation": "terputus-putus",
+      "transliteration": "mamnūnin"
+    },
+    {
+      "id": 28173,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi orang-orang yang beriman dan beramal saleh, bagi mereka pahala yang tidak putus-putusnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 132800,
+    "timestamp_to": 145390,
+    "duration": 12590,
+    "segments": [
+      [
+        1,
+        132775,
+        133375
+      ],
+      [
+        2,
+        133375,
+        134295
+      ],
+      [
+        3,
+        134295,
+        135445
+      ],
+      [
+        4,
+        135445,
+        136175
+      ],
+      [
+        5,
+        136175,
+        137735
+      ],
+      [
+        6,
+        137735,
+        138395
+      ],
+      [
+        7,
+        138395,
+        139145
+      ],
+      [
+        8,
+        139145,
+        139925
+      ],
+      [
+        9,
+        139925,
+        145310
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2777,
+  "chapter_id": 23,
+  "verse_key": "23:104",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَـٰلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 72570,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_104_001.mp3",
+      "text": "تَلْفَحُ",
+      "translation": "membakar",
+      "transliteration": "talfaḥu"
+    },
+    {
+      "id": 72571,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_104_002.mp3",
+      "text": "وُجُوهَهُمُ",
+      "translation": "muka-muka mereka",
+      "transliteration": "wujūhahumu"
+    },
+    {
+      "id": 72572,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_104_003.mp3",
+      "text": "ٱلنَّارُ",
+      "translation": "api neraka",
+      "transliteration": "l-nāru"
+    },
+    {
+      "id": 72573,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_104_004.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 72574,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_104_005.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 72575,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_104_006.mp3",
+      "text": "كَـٰلِحُونَ",
+      "translation": "bermuka masam/keadaan cacat",
+      "transliteration": "kāliḥūna"
+    },
+    {
+      "id": 72576,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠٤",
+      "translation": "(104)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Muka mereka dibakar api neraka dan mereka di dalam neraka itu dalam keadaan cacat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1292510,
+    "timestamp_to": 1301080,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        1292485,
+        1293345
+      ],
+      [
+        2,
+        1293345,
+        1294645
+      ],
+      [
+        3,
+        1294645,
+        1295965
+      ],
+      [
+        4,
+        1295965,
+        1296505
+      ],
+      [
+        5,
+        1296505,
+        1297255
+      ],
+      [
+        6,
+        1297255,
+        1301020
+      ]
+    ]
+  }
+}

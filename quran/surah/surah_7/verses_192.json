@@ -1,0 +1,125 @@
+{
+  "id": 1146,
+  "chapter_id": 7,
+  "verse_key": "7:192",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "page_number": 175,
+  "juz_number": 9,
+  "text_uthmani": "وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًا وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 84737,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 84738,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_002.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka dapat",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 84739,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 84740,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_004.mp3",
+      "text": "نَصْرًۭا",
+      "translation": "pertolongan",
+      "transliteration": "naṣran"
+    },
+    {
+      "id": 84741,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_005.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 84742,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_006.mp3",
+      "text": "أَنفُسَهُمْ",
+      "translation": "mereka sendiri",
+      "transliteration": "anfusahum"
+    },
+    {
+      "id": 84743,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_192_007.mp3",
+      "text": "يَنصُرُونَ",
+      "translation": "mereka memberi pertolongan",
+      "transliteration": "yanṣurūna"
+    },
+    {
+      "id": 84744,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٩٢",
+      "translation": "(192)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan berhala-berhala itu tidak mampu memberi pertolongan kepada penyembah-penyembahnya, dan kepada dirinya sendiri pun berhala-berhala itu tidak dapat memberi pertolongan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4524890,
+    "timestamp_to": 4537300,
+    "duration": 12410,
+    "segments": [
+      [
+        1,
+        4524835,
+        4525585
+      ],
+      [
+        2,
+        4525585,
+        4527325
+      ],
+      [
+        3,
+        4527325,
+        4527985
+      ],
+      [
+        4,
+        4527985,
+        4529425
+      ],
+      [
+        5,
+        4529425,
+        4531435
+      ],
+      [
+        6,
+        4531435,
+        4533355
+      ],
+      [
+        7,
+        4533355,
+        4537220
+      ]
+    ]
+  }
+}

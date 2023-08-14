@@ -1,0 +1,151 @@
+{
+  "id": 4674,
+  "chapter_id": 50,
+  "verse_key": "50:44",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 44693,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 44694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_002.mp3",
+      "text": "تَشَقَّقُ",
+      "translation": "terbelah-belah",
+      "transliteration": "tashaqqaqu"
+    },
+    {
+      "id": 44695,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_003.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 44696,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_004.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 44697,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_005.mp3",
+      "text": "سِرَاعًۭا ۚ",
+      "translation": "dengan cepat",
+      "transliteration": "sirāʿan"
+    },
+    {
+      "id": 44699,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_007.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 44700,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_008.mp3",
+      "text": "حَشْرٌ",
+      "translation": "pengumpulan",
+      "transliteration": "ḥashrun"
+    },
+    {
+      "id": 44701,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_009.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas Kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 44702,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_044_010.mp3",
+      "text": "يَسِيرٌۭ",
+      "translation": "mudah",
+      "transliteration": "yasīrun"
+    },
+    {
+      "id": 44703,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) pada hari bumi terbelah-belah menampakkan mereka (lalu mereka keluar) dengan cepat. Yang demikian itu adalah pengumpulan yang mudah bagi Kami.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 521770,
+    "timestamp_to": 532900,
+    "duration": 11130,
+    "segments": [
+      [
+        1,
+        521695,
+        522385
+      ],
+      [
+        2,
+        522385,
+        523565
+      ],
+      [
+        3,
+        523565,
+        524475
+      ],
+      [
+        4,
+        524475,
+        525345
+      ],
+      [
+        5,
+        525345,
+        527095
+      ],
+      [
+        6,
+        527095,
+        528025
+      ],
+      [
+        7,
+        528025,
+        528935
+      ],
+      [
+        8,
+        528935,
+        530165
+      ],
+      [
+        9,
+        530165,
+        532750
+      ]
+    ]
+  }
+}

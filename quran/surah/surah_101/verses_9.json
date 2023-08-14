@@ -1,0 +1,60 @@
+{
+  "id": 6166,
+  "chapter_id": 101,
+  "verse_key": "101:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "فَأُمُّهُۥ هَاوِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 9782,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_009_001.mp3",
+      "text": "فَأُمُّهُۥ",
+      "translation": "maka tempat kembalinya",
+      "transliteration": "fa-ummuhu"
+    },
+    {
+      "id": 9783,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_009_002.mp3",
+      "text": "هَاوِيَةٌۭ",
+      "translation": "jurang yang dalam/neraka Hawiyah",
+      "transliteration": "hāwiyatun"
+    },
+    {
+      "id": 9784,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka tempat kembalinya adalah neraka Hāwiyah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 40250,
+    "timestamp_to": 43720,
+    "duration": 3480,
+    "segments": [
+      [
+        1,
+        40125,
+        42055
+      ],
+      [
+        2,
+        42055,
+        43460
+      ]
+    ]
+  }
+}

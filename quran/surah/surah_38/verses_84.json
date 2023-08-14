@@ -1,0 +1,86 @@
+{
+  "id": 4054,
+  "chapter_id": 38,
+  "verse_key": "38:84",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 458,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 65797,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_084_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 65798,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_084_002.mp3",
+      "text": "فَٱلْحَقُّ",
+      "translation": "maka yang benar",
+      "transliteration": "fal-ḥaqu"
+    },
+    {
+      "id": 65799,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_084_003.mp3",
+      "text": "وَٱلْحَقَّ",
+      "translation": "dan yang benar/kebenaran",
+      "transliteration": "wal-ḥaqa"
+    },
+    {
+      "id": 65800,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_084_004.mp3",
+      "text": "أَقُولُ",
+      "translation": "Aku katakan",
+      "transliteration": "aqūlu"
+    },
+    {
+      "id": 65801,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Maka yang benar (adalah sumpah-Ku) dan hanya kebenaran itulah yang Ku-katakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1012040,
+    "timestamp_to": 1017890,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        1012005,
+        1012775
+      ],
+      [
+        2,
+        1012775,
+        1013815
+      ],
+      [
+        3,
+        1013815,
+        1014785
+      ],
+      [
+        4,
+        1014785,
+        1017360
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5283,
+  "chapter_id": 68,
+  "verse_key": "68:12",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 13892,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_001.mp3",
+      "text": "مَّنَّاعٍۢ",
+      "translation": "menghalangi",
+      "transliteration": "mannāʿin"
+    },
+    {
+      "id": 13893,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_002.mp3",
+      "text": "لِّلْخَيْرِ",
+      "translation": "bagi kebaikan",
+      "transliteration": "lil'khayri"
+    },
+    {
+      "id": 13894,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_003.mp3",
+      "text": "مُعْتَدٍ",
+      "translation": "melampaui batas",
+      "transliteration": "muʿ'tadin"
+    },
+    {
+      "id": 13895,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_004.mp3",
+      "text": "أَثِيمٍ",
+      "translation": "dosa",
+      "transliteration": "athīmin"
+    },
+    {
+      "id": 13896,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang sangat enggan berbuat baik, yang melampaui batas lagi banyak dosa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 78270,
+    "timestamp_to": 85220,
+    "duration": 6950,
+    "segments": [
+      [
+        1,
+        78205,
+        79985
+      ],
+      [
+        2,
+        79985,
+        81195
+      ],
+      [
+        3,
+        81195,
+        82175
+      ],
+      [
+        4,
+        82175,
+        85080
+      ]
+    ]
+  }
+}

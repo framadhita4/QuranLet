@@ -1,0 +1,60 @@
+{
+  "id": 6044,
+  "chapter_id": 91,
+  "verse_key": "91:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 793,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_001_001.mp3",
+      "text": "وَٱلشَّمْسِ",
+      "translation": "demi matahari",
+      "transliteration": "wal-shamsi"
+    },
+    {
+      "id": 794,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_001_002.mp3",
+      "text": "وَضُحَىٰهَا",
+      "translation": "dan cahayanya pagi hari",
+      "transliteration": "waḍuḥāhā"
+    },
+    {
+      "id": 795,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi matahari dan cahayanya di pagi hari,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3110,
+    "duration": 3110,
+    "segments": [
+      [
+        1,
+        0,
+        1070
+      ],
+      [
+        2,
+        1070,
+        2575
+      ]
+    ]
+  }
+}

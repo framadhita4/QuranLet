@@ -1,0 +1,99 @@
+{
+  "id": 6212,
+  "chapter_id": 109,
+  "verse_key": "109:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3",
+  "words": [
+    {
+      "id": 5290,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_005_001.mp3",
+      "text": "وَلَآ",
+      "translation": "dan bukanlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 5291,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_005_002.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 5292,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_005_003.mp3",
+      "text": "عَـٰبِدُونَ",
+      "translation": "menyembah",
+      "transliteration": "ʿābidūna"
+    },
+    {
+      "id": 5293,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_005_004.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 5294,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_005_005.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku sembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 5295,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 29850,
+    "timestamp_to": 38290,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        29515,
+        31635
+      ],
+      [
+        2,
+        31635,
+        33295
+      ],
+      [
+        3,
+        33295,
+        34745
+      ],
+      [
+        4,
+        34745,
+        36585
+      ],
+      [
+        5,
+        36585,
+        37880
+      ]
+    ]
+  }
+}

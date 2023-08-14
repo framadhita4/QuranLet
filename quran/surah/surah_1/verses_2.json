@@ -1,0 +1,86 @@
+{
+  "id": 2,
+  "chapter_id": 1,
+  "verse_key": "1:2",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+  "words": [
+    {
+      "id": 1130,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_001.mp3",
+      "text": "ٱلْحَمْدُ",
+      "translation": "pujian",
+      "transliteration": "al-ḥamdu"
+    },
+    {
+      "id": 1131,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_002.mp3",
+      "text": "لِلَّهِ",
+      "translation": "bagi Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 1132,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_003.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 1133,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "alam semesta",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 1134,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Segala puji<sup foot_note_id=\"2\">1</sup> bagi Allah, Tuhan<sup foot_note_id=\"3\">2</sup> semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6090,
+    "timestamp_to": 11680,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        6025,
+        7025
+      ],
+      [
+        2,
+        7025,
+        7885
+      ],
+      [
+        3,
+        7885,
+        8515
+      ],
+      [
+        4,
+        8515,
+        11550
+      ]
+    ]
+  }
+}

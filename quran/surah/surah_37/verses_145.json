@@ -1,0 +1,86 @@
+{
+  "id": 3933,
+  "chapter_id": 37,
+  "verse_key": "37:145",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79762,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_145_002.mp3",
+      "text": "۞ فَنَبَذْنَـٰهُ",
+      "translation": "lalu Kami lemparkan dia",
+      "transliteration": "fanabadhnāhu"
+    },
+    {
+      "id": 79763,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_145_003.mp3",
+      "text": "بِٱلْعَرَآءِ",
+      "translation": "tanah kosong/tandus",
+      "transliteration": "bil-ʿarāi"
+    },
+    {
+      "id": 79764,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_145_004.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan/sedang dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 79765,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_145_005.mp3",
+      "text": "سَقِيمٌۭ",
+      "translation": "sakit",
+      "transliteration": "saqīmun"
+    },
+    {
+      "id": 79766,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٤٥",
+      "translation": "(145)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami lemparkan dia ke daerah yang tandus, sedang ia dalam keadaan sakit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1168920,
+    "timestamp_to": 1177360,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        1168845,
+        1170395
+      ],
+      [
+        2,
+        1170395,
+        1173305
+      ],
+      [
+        3,
+        1173305,
+        1173845
+      ],
+      [
+        4,
+        1173845,
+        1177210
+      ]
+    ]
+  }
+}

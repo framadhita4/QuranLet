@@ -1,0 +1,112 @@
+{
+  "id": 631,
+  "chapter_id": 4,
+  "verse_key": "4:138",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 40,
+  "ruku_number": 81,
+  "manzil_number": 1,
+  "page_number": 100,
+  "juz_number": 5,
+  "text_uthmani": "بَشِّرِ ٱلْمُنَـٰفِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 78945,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_138_001.mp3",
+      "text": "بَشِّرِ",
+      "translation": "kabarkanlah",
+      "transliteration": "bashiri"
+    },
+    {
+      "id": 78946,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_138_002.mp3",
+      "text": "ٱلْمُنَـٰفِقِينَ",
+      "translation": "orang-orang munafik",
+      "transliteration": "l-munāfiqīna"
+    },
+    {
+      "id": 78947,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_138_003.mp3",
+      "text": "بِأَنَّ",
+      "translation": "bahwasanya",
+      "transliteration": "bi-anna"
+    },
+    {
+      "id": 78948,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_138_004.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 78949,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_138_005.mp3",
+      "text": "عَذَابًا",
+      "translation": "siksa",
+      "transliteration": "ʿadhāban"
+    },
+    {
+      "id": 78950,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_138_006.mp3",
+      "text": "أَلِيمًا",
+      "translation": "sangat pedih",
+      "transliteration": "alīman"
+    },
+    {
+      "id": 78951,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٣٨",
+      "translation": "(138)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kabarkanlah kepada orang-orang munafik bahwa mereka akan mendapat siksaan yang pedih,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3858920,
+    "timestamp_to": 3865890,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        3858525,
+        3859455
+      ],
+      [
+        2,
+        3859455,
+        3860895
+      ],
+      [
+        3,
+        3860895,
+        3862395
+      ],
+      [
+        4,
+        3862395,
+        3862915
+      ],
+      [
+        5,
+        3862915,
+        3864055
+      ],
+      [
+        6,
+        3864055,
+        3865440
+      ]
+    ]
+  }
+}

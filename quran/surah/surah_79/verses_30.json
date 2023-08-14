@@ -1,0 +1,86 @@
+{
+  "id": 5742,
+  "chapter_id": 79,
+  "verse_key": "79:30",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 32912,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_030_001.mp3",
+      "text": "وَٱلْأَرْضَ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 32913,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_030_002.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 32914,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_030_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 32915,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_030_004.mp3",
+      "text": "دَحَىٰهَآ",
+      "translation": "Dia haparkannya",
+      "transliteration": "daḥāhā"
+    },
+    {
+      "id": 32916,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bumi sesudah itu dihamparkan-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 135950,
+    "timestamp_to": 140160,
+    "duration": 4210,
+    "segments": [
+      [
+        1,
+        135565,
+        136675
+      ],
+      [
+        2,
+        136675,
+        137275
+      ],
+      [
+        3,
+        137275,
+        138115
+      ],
+      [
+        4,
+        138115,
+        139360
+      ]
+    ]
+  }
+}

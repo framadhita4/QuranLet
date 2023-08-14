@@ -1,0 +1,60 @@
+{
+  "id": 5673,
+  "chapter_id": 78,
+  "verse_key": "78:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": " عَمَّ يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 676,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_001_001.mp3",
+      "text": "عَمَّ",
+      "translation": "dari/tentang",
+      "transliteration": "ʿamma"
+    },
+    {
+      "id": 677,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_001_002.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka saling bertanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 678,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tentang apakah mereka saling bertanya-tanya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6430,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        0,
+        1240
+      ],
+      [
+        2,
+        1240,
+        6345
+      ]
+    ]
+  }
+}

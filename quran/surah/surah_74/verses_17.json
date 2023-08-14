@@ -1,0 +1,60 @@
+{
+  "id": 5512,
+  "chapter_id": 74,
+  "verse_key": "74:17",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "سَأُرْهِقُهُۥ صَعُودًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 19554,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_017_001.mp3",
+      "text": "سَأُرْهِقُهُۥ",
+      "translation": "akan aku timpakan",
+      "transliteration": "sa-ur'hiquhu"
+    },
+    {
+      "id": 19555,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_017_002.mp3",
+      "text": "صَعُودًا",
+      "translation": "siksaan yang payah/berat",
+      "transliteration": "ṣaʿūdan"
+    },
+    {
+      "id": 19556,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Aku akan membebaninya mendaki pendakian yang memayahkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65670,
+    "timestamp_to": 68670,
+    "duration": 3010,
+    "segments": [
+      [
+        1,
+        65285,
+        66595
+      ],
+      [
+        2,
+        66595,
+        68210
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 4759,
+  "chapter_id": 52,
+  "verse_key": "52:24",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 26808,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_002.mp3",
+      "text": "۞ وَيَطُوفُ",
+      "translation": "dan berkeliling",
+      "transliteration": "wayaṭūfu"
+    },
+    {
+      "id": 26809,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_003.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 26810,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_004.mp3",
+      "text": "غِلْمَانٌۭ",
+      "translation": "anak-anak muda",
+      "transliteration": "ghil'mānun"
+    },
+    {
+      "id": 26811,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_005.mp3",
+      "text": "لَّهُمْ",
+      "translation": "untuk mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 26812,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_006.mp3",
+      "text": "كَأَنَّهُمْ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahum"
+    },
+    {
+      "id": 26813,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_007.mp3",
+      "text": "لُؤْلُؤٌۭ",
+      "translation": "mutiara",
+      "transliteration": "lu'lu-on"
+    },
+    {
+      "id": 26814,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_024_008.mp3",
+      "text": "مَّكْنُونٌۭ",
+      "translation": "tersimpan",
+      "transliteration": "maknūnun"
+    },
+    {
+      "id": 26815,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan berkeliling di sekitar mereka anak-anak muda untuk (melayani) mereka, seakan-akan mereka itu mutiara yang tersimpan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 204960,
+    "timestamp_to": 216380,
+    "duration": 11420,
+    "segments": [
+      [
+        1,
+        204925,
+        206045
+      ],
+      [
+        2,
+        206045,
+        207145
+      ],
+      [
+        3,
+        207145,
+        208235
+      ],
+      [
+        4,
+        208235,
+        209165
+      ],
+      [
+        5,
+        209165,
+        211185
+      ],
+      [
+        6,
+        211185,
+        212105
+      ],
+      [
+        7,
+        212105,
+        216270
+      ]
+    ]
+  }
+}

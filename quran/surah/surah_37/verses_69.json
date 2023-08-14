@@ -1,0 +1,86 @@
+{
+  "id": 3857,
+  "chapter_id": 37,
+  "verse_key": "37:69",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 59334,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_069_001.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 59335,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_069_002.mp3",
+      "text": "أَلْفَوْا۟",
+      "translation": "mereka mendapati",
+      "transliteration": "alfaw"
+    },
+    {
+      "id": 59336,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_069_003.mp3",
+      "text": "ءَابَآءَهُمْ",
+      "translation": "bapak-bapak mereka",
+      "transliteration": "ābāahum"
+    },
+    {
+      "id": 59337,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_069_004.mp3",
+      "text": "ضَآلِّينَ",
+      "translation": "sesat",
+      "transliteration": "ḍāllīna"
+    },
+    {
+      "id": 59338,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena sesungguhnya mereka mendapati bapak-bapak mereka dalam keadaaan sesat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 579530,
+    "timestamp_to": 592170,
+    "duration": 12640,
+    "segments": [
+      [
+        1,
+        579475,
+        581205
+      ],
+      [
+        2,
+        581205,
+        582085
+      ],
+      [
+        3,
+        582085,
+        585295
+      ],
+      [
+        4,
+        585295,
+        592040
+      ]
+    ]
+  }
+}

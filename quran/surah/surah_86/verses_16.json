@@ -1,0 +1,60 @@
+{
+  "id": 5947,
+  "chapter_id": 86,
+  "verse_key": "86:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَأَكِيدُ كَيْدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 18777,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_016_001.mp3",
+      "text": "وَأَكِيدُ",
+      "translation": "dan AKu membuat tipu daya",
+      "transliteration": "wa-akīdu"
+    },
+    {
+      "id": 18778,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_016_002.mp3",
+      "text": "كَيْدًۭا",
+      "translation": "tipu daya",
+      "transliteration": "kaydan"
+    },
+    {
+      "id": 18779,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Aku pun membuat rencana (pula) dengan sebenar-benarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 78010,
+    "timestamp_to": 80780,
+    "duration": 2770,
+    "segments": [
+      [
+        1,
+        77505,
+        78675
+      ],
+      [
+        2,
+        78675,
+        79740
+      ]
+    ]
+  }
+}

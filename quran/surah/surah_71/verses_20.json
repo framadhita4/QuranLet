@@ -1,0 +1,86 @@
+{
+  "id": 5439,
+  "chapter_id": 71,
+  "verse_key": "71:20",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 22751,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_020_001.mp3",
+      "text": "لِّتَسْلُكُوا۟",
+      "translation": "supaya kamu melalui",
+      "transliteration": "litaslukū"
+    },
+    {
+      "id": 22752,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_020_002.mp3",
+      "text": "مِنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 22753,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_020_003.mp3",
+      "text": "سُبُلًۭا",
+      "translation": "jalan-jalan",
+      "transliteration": "subulan"
+    },
+    {
+      "id": 22754,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_020_004.mp3",
+      "text": "فِجَاجًۭا",
+      "translation": "luas",
+      "transliteration": "fijājan"
+    },
+    {
+      "id": 22755,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "supaya kamu menjalani jalan-jalan yang luas di bumi itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 175620,
+    "timestamp_to": 180500,
+    "duration": 4890,
+    "segments": [
+      [
+        1,
+        175555,
+        176735
+      ],
+      [
+        2,
+        176735,
+        177475
+      ],
+      [
+        3,
+        177475,
+        178805
+      ],
+      [
+        4,
+        178805,
+        180030
+      ]
+    ]
+  }
+}

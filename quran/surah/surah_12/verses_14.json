@@ -1,0 +1,151 @@
+{
+  "id": 1610,
+  "chapter_id": 12,
+  "verse_key": "12:14",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "ruku_number": 194,
+  "manzil_number": 3,
+  "page_number": 236,
+  "juz_number": 12,
+  "text_uthmani": "قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًا لَّخَـٰسِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 16517,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 16518,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_002.mp3",
+      "text": "لَئِنْ",
+      "translation": "sesungguhnya jika",
+      "transliteration": "la-in"
+    },
+    {
+      "id": 16519,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_003.mp3",
+      "text": "أَكَلَهُ",
+      "translation": "memakan ia",
+      "transliteration": "akalahu"
+    },
+    {
+      "id": 16520,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_004.mp3",
+      "text": "ٱلذِّئْبُ",
+      "translation": "serigala",
+      "transliteration": "l-dhi'bu"
+    },
+    {
+      "id": 16521,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_005.mp3",
+      "text": "وَنَحْنُ",
+      "translation": "dan/sedang kami",
+      "transliteration": "wanaḥnu"
+    },
+    {
+      "id": 16522,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_006.mp3",
+      "text": "عُصْبَةٌ",
+      "translation": "golongan",
+      "transliteration": "ʿuṣ'batun"
+    },
+    {
+      "id": 16523,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_007.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 16524,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_008.mp3",
+      "text": "إِذًۭا",
+      "translation": "jika demikian",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 16525,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_014_009.mp3",
+      "text": "لَّخَـٰسِرُونَ",
+      "translation": "sungguh orang-orang yang merugi",
+      "transliteration": "lakhāsirūna"
+    },
+    {
+      "id": 16526,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Jika ia benar-benar dimakan serigala, sedang kami golongan (yang kuat); sesungguhnya kami kalau demikian adalah orang-orang yang merugi <sup foot_note_id=\"745\">1</sup>\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 249310,
+    "timestamp_to": 262210,
+    "duration": 12910,
+    "segments": [
+      [
+        1,
+        249265,
+        250125
+      ],
+      [
+        2,
+        250125,
+        250735
+      ],
+      [
+        3,
+        250735,
+        251675
+      ],
+      [
+        4,
+        251675,
+        252505
+      ],
+      [
+        5,
+        252505,
+        253435
+      ],
+      [
+        6,
+        253435,
+        254595
+      ],
+      [
+        7,
+        254595,
+        257725
+      ],
+      [
+        8,
+        257725,
+        258135
+      ],
+      [
+        9,
+        258135,
+        262100
+      ]
+    ]
+  }
+}

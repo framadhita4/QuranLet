@@ -1,0 +1,60 @@
+{
+  "id": 5393,
+  "chapter_id": 70,
+  "verse_key": "70:18",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَجَمَعَ فَأَوْعَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 20600,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_018_001.mp3",
+      "text": "وَجَمَعَ",
+      "translation": "dan dia mengumpulkan",
+      "transliteration": "wajamaʿa"
+    },
+    {
+      "id": 20601,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_018_002.mp3",
+      "text": "فَأَوْعَىٰٓ",
+      "translation": "lalu dia menyimpannya",
+      "transliteration": "fa-awʿā"
+    },
+    {
+      "id": 20602,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "serta mengumpulkan (harta benda) lalu menyimpannya<sup foot_note_id=\"1512\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 97870,
+    "timestamp_to": 100380,
+    "duration": 2510,
+    "segments": [
+      [
+        1,
+        97555,
+        98435
+      ],
+      [
+        2,
+        98435,
+        99680
+      ]
+    ]
+  }
+}

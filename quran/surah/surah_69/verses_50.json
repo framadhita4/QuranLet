@@ -1,0 +1,86 @@
+{
+  "id": 5373,
+  "chapter_id": 69,
+  "verse_key": "69:50",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 48697,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_050_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia (Al Qur'an)",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 48698,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_050_002.mp3",
+      "text": "لَحَسْرَةٌ",
+      "translation": "benar-benar penyesalan",
+      "transliteration": "laḥasratun"
+    },
+    {
+      "id": 48699,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_050_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 48700,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_050_004.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 48701,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Al-Qur`ān itu benar-benar menjadi penyesalan bagi orang-orang kafir (di akhirat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 379470,
+    "timestamp_to": 386680,
+    "duration": 7210,
+    "segments": [
+      [
+        1,
+        379385,
+        381095
+      ],
+      [
+        2,
+        381095,
+        382375
+      ],
+      [
+        3,
+        382375,
+        382765
+      ],
+      [
+        4,
+        382765,
+        386540
+      ]
+    ]
+  }
+}

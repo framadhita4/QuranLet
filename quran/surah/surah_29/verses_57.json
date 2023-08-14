@@ -1,0 +1,125 @@
+{
+  "id": 3397,
+  "chapter_id": 29,
+  "verse_key": "29:57",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "ruku_number": 348,
+  "manzil_number": 5,
+  "page_number": 403,
+  "juz_number": 21,
+  "text_uthmani": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 52953,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_001.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 52954,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_002.mp3",
+      "text": "نَفْسٍۢ",
+      "translation": "yang berjiwa",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 52955,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_003.mp3",
+      "text": "ذَآئِقَةُ",
+      "translation": "merasakan",
+      "transliteration": "dhāiqatu"
+    },
+    {
+      "id": 52956,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_004.mp3",
+      "text": "ٱلْمَوْتِ ۖ",
+      "translation": "mati",
+      "transliteration": "l-mawti"
+    },
+    {
+      "id": 52958,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_006.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 52959,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_007.mp3",
+      "text": "إِلَيْنَا",
+      "translation": "kepada kami",
+      "transliteration": "ilaynā"
+    },
+    {
+      "id": 52960,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_057_008.mp3",
+      "text": "تُرْجَعُونَ",
+      "translation": "kalian dikembalikan",
+      "transliteration": "tur'jaʿūna"
+    },
+    {
+      "id": 52961,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiap-tiap yang berjiwa akan merasakan mati.  Kemudian, hanyalah kepada Kami kamu dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1122340,
+    "timestamp_to": 1135710,
+    "duration": 13380,
+    "segments": [
+      [
+        1,
+        1122315,
+        1122915
+      ],
+      [
+        2,
+        1122915,
+        1123825
+      ],
+      [
+        3,
+        1123825,
+        1127445
+      ],
+      [
+        4,
+        1127445,
+        1129795
+      ],
+      [
+        5,
+        1129795,
+        1131345
+      ],
+      [
+        6,
+        1131345,
+        1132505
+      ],
+      [
+        7,
+        1132505,
+        1135650
+      ]
+    ]
+  }
+}

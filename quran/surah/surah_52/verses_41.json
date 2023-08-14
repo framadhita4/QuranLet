@@ -1,0 +1,99 @@
+{
+  "id": 4776,
+  "chapter_id": 52,
+  "verse_key": "52:41",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 42071,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_041_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 42072,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_041_002.mp3",
+      "text": "عِندَهُمُ",
+      "translation": "di sisi mereka",
+      "transliteration": "ʿindahumu"
+    },
+    {
+      "id": 42073,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_041_003.mp3",
+      "text": "ٱلْغَيْبُ",
+      "translation": "kegaiban",
+      "transliteration": "l-ghaybu"
+    },
+    {
+      "id": 42074,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_041_004.mp3",
+      "text": "فَهُمْ",
+      "translation": "lalu mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 42075,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_041_005.mp3",
+      "text": "يَكْتُبُونَ",
+      "translation": "mereka menulis",
+      "transliteration": "yaktubūna"
+    },
+    {
+      "id": 42076,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah ada pada sisi mereka pengetahuan tentang yang gaib lalu mereka menuliskannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 385530,
+    "timestamp_to": 393240,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        385475,
+        385915
+      ],
+      [
+        2,
+        385915,
+        387985
+      ],
+      [
+        3,
+        387985,
+        388935
+      ],
+      [
+        4,
+        388935,
+        389685
+      ],
+      [
+        5,
+        389685,
+        393130
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5965,
+  "chapter_id": 87,
+  "verse_key": "87:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 19712,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_017_001.mp3",
+      "text": "وَٱلْـَٔاخِرَةُ",
+      "translation": "dan akherat",
+      "transliteration": "wal-ākhiratu"
+    },
+    {
+      "id": 19713,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_017_002.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 19714,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_017_003.mp3",
+      "text": "وَأَبْقَىٰٓ",
+      "translation": "dan lebih kekal",
+      "transliteration": "wa-abqā"
+    },
+    {
+      "id": 19715,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sedang kehidupan akhirat adalah lebih baik dan lebih kekal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 79710,
+    "timestamp_to": 84590,
+    "duration": 4890,
+    "segments": [
+      [
+        1,
+        79235,
+        80815
+      ],
+      [
+        2,
+        80815,
+        82425
+      ],
+      [
+        3,
+        82425,
+        84040
+      ]
+    ]
+  }
+}

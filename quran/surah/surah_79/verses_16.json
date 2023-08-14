@@ -1,0 +1,112 @@
+{
+  "id": 5728,
+  "chapter_id": 79,
+  "verse_key": "79:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 18609,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_016_001.mp3",
+      "text": "إِذْ",
+      "translation": "tatkala",
+      "transliteration": "idh"
+    },
+    {
+      "id": 18610,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_016_002.mp3",
+      "text": "نَادَىٰهُ",
+      "translation": "memanggilnya",
+      "transliteration": "nādāhu"
+    },
+    {
+      "id": 18611,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_016_003.mp3",
+      "text": "رَبُّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbuhu"
+    },
+    {
+      "id": 18612,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_016_004.mp3",
+      "text": "بِٱلْوَادِ",
+      "translation": "di lembah",
+      "transliteration": "bil-wādi"
+    },
+    {
+      "id": 18613,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_016_005.mp3",
+      "text": "ٱلْمُقَدَّسِ",
+      "translation": "suci",
+      "transliteration": "l-muqadasi"
+    },
+    {
+      "id": 18614,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_016_006.mp3",
+      "text": "طُوًى",
+      "translation": "Tuwa",
+      "transliteration": "ṭuwan"
+    },
+    {
+      "id": 18615,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tatkala Tuhan-nya memanggilnya di lembah suci ialah Lembah Ṭuwā;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 66890,
+    "timestamp_to": 73110,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        66255,
+        66645
+      ],
+      [
+        2,
+        66645,
+        67775
+      ],
+      [
+        3,
+        67775,
+        68775
+      ],
+      [
+        4,
+        68775,
+        69935
+      ],
+      [
+        5,
+        69935,
+        71275
+      ],
+      [
+        6,
+        71275,
+        72400
+      ]
+    ]
+  }
+}

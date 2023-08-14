@@ -1,0 +1,99 @@
+{
+  "id": 4800,
+  "chapter_id": 53,
+  "verse_key": "53:16",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 18307,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_016_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 18308,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_016_002.mp3",
+      "text": "يَغْشَى",
+      "translation": "meliputi",
+      "transliteration": "yaghshā"
+    },
+    {
+      "id": 18309,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_016_003.mp3",
+      "text": "ٱلسِّدْرَةَ",
+      "translation": "Sidratil",
+      "transliteration": "l-sid'rata"
+    },
+    {
+      "id": 18310,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_016_004.mp3",
+      "text": "مَا",
+      "translation": "apa/sesuatu",
+      "transliteration": "mā"
+    },
+    {
+      "id": 18311,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_016_005.mp3",
+      "text": "يَغْشَىٰ",
+      "translation": "yang meliputi",
+      "transliteration": "yaghshā"
+    },
+    {
+      "id": 18312,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Muhammad melihat Jibril) ketika Sidratul Muntaha diliputi oleh sesuatu yang meliputinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 70560,
+    "timestamp_to": 74740,
+    "duration": 4180,
+    "segments": [
+      [
+        1,
+        70115,
+        70605
+      ],
+      [
+        2,
+        70605,
+        71205
+      ],
+      [
+        3,
+        71205,
+        72445
+      ],
+      [
+        4,
+        72445,
+        72895
+      ],
+      [
+        5,
+        72895,
+        73950
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5916,
+  "chapter_id": 85,
+  "verse_key": "85:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 8074,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_007_001.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 8075,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_007_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 8076,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_007_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 8077,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_007_004.mp3",
+      "text": "يَفْعَلُونَ",
+      "translation": "mereka perbuat",
+      "transliteration": "yafʿalūna"
+    },
+    {
+      "id": 8078,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_007_005.mp3",
+      "text": "بِٱلْمُؤْمِنِينَ",
+      "translation": "terhadap orang-orang yang beriman",
+      "transliteration": "bil-mu'minīna"
+    },
+    {
+      "id": 8079,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_007_006.mp3",
+      "text": "شُهُودٌۭ",
+      "translation": "menyaksikan",
+      "transliteration": "shuhūdun"
+    },
+    {
+      "id": 8080,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 38710,
+    "timestamp_to": 47300,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        38645,
+        39295
+      ],
+      [
+        2,
+        39295,
+        39975
+      ],
+      [
+        3,
+        39975,
+        40375
+      ],
+      [
+        4,
+        40375,
+        41685
+      ],
+      [
+        5,
+        41685,
+        43195
+      ],
+      [
+        6,
+        43195,
+        47200
+      ]
+    ]
+  }
+}

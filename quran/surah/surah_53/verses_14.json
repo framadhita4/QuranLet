@@ -1,0 +1,73 @@
+{
+  "id": 4798,
+  "chapter_id": 53,
+  "verse_key": "53:14",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 16023,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_014_001.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 16024,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_014_002.mp3",
+      "text": "سِدْرَةِ",
+      "translation": "Sidratil",
+      "transliteration": "sid'rati"
+    },
+    {
+      "id": 16025,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_014_003.mp3",
+      "text": "ٱلْمُنتَهَىٰ",
+      "translation": "Muntaha",
+      "transliteration": "l-muntahā"
+    },
+    {
+      "id": 16026,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) di Sidratul Muntaha<sup foot_note_id=\"1431\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60030,
+    "timestamp_to": 65150,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        59985,
+        61395
+      ],
+      [
+        2,
+        61395,
+        62395
+      ],
+      [
+        3,
+        62395,
+        64650
+      ]
+    ]
+  }
+}

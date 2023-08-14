@@ -1,0 +1,112 @@
+{
+  "id": 2470,
+  "chapter_id": 20,
+  "verse_key": "20:122",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 276,
+  "manzil_number": 4,
+  "page_number": 320,
+  "juz_number": 16,
+  "text_uthmani": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 76685,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_122_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 76686,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_122_002.mp3",
+      "text": "ٱجْتَبَـٰهُ",
+      "translation": "memilihnya",
+      "transliteration": "ij'tabāhu"
+    },
+    {
+      "id": 76687,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_122_003.mp3",
+      "text": "رَبُّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbuhu"
+    },
+    {
+      "id": 76688,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_122_004.mp3",
+      "text": "فَتَابَ",
+      "translation": "maka Dia menerima taubat",
+      "transliteration": "fatāba"
+    },
+    {
+      "id": 76689,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_122_005.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 76690,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_122_006.mp3",
+      "text": "وَهَدَىٰ",
+      "translation": "dan Dia memberi petunjuk",
+      "transliteration": "wahadā"
+    },
+    {
+      "id": 76691,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٢٢",
+      "translation": "(122)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Tuhan-nya memilihnya<sup foot_note_id=\"950\">1</sup>, maka Dia menerima tobatnya dan memberinya petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1411110,
+    "timestamp_to": 1417610,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        1410815,
+        1411975
+      ],
+      [
+        2,
+        1411975,
+        1413205
+      ],
+      [
+        3,
+        1413205,
+        1414135
+      ],
+      [
+        4,
+        1414135,
+        1415125
+      ],
+      [
+        5,
+        1415125,
+        1416055
+      ],
+      [
+        6,
+        1416055,
+        1416950
+      ]
+    ]
+  }
+}

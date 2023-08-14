@@ -1,0 +1,125 @@
+{
+  "id": 2880,
+  "chapter_id": 25,
+  "verse_key": "25:25",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 362,
+  "juz_number": 19,
+  "text_uthmani": "وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَـٰمِ وَنُزِّلَ ٱلْمَلَـٰٓئِكَةُ تَنزِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 28107,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari itu",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 28108,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_002.mp3",
+      "text": "تَشَقَّقُ",
+      "translation": "pecah belah",
+      "transliteration": "tashaqqaqu"
+    },
+    {
+      "id": 28109,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_003.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 28110,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_004.mp3",
+      "text": "بِٱلْغَمَـٰمِ",
+      "translation": "dengan awan/kabut",
+      "transliteration": "bil-ghamāmi"
+    },
+    {
+      "id": 28111,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_005.mp3",
+      "text": "وَنُزِّلَ",
+      "translation": "dan diturunkan",
+      "transliteration": "wanuzzila"
+    },
+    {
+      "id": 28112,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_006.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةُ",
+      "translation": "malaikat",
+      "transliteration": "l-malāikatu"
+    },
+    {
+      "id": 28113,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_007.mp3",
+      "text": "تَنزِيلًا",
+      "translation": "sebenar-benar turun",
+      "transliteration": "tanzīlan"
+    },
+    {
+      "id": 28114,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) hari (ketika) langit pecah belah mengeluarkan kabut putih dan diturunkanlah malaikat bergelombang-gelombang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 457400,
+    "timestamp_to": 470330,
+    "duration": 12930,
+    "segments": [
+      [
+        1,
+        457375,
+        458205
+      ],
+      [
+        2,
+        458205,
+        459325
+      ],
+      [
+        3,
+        459325,
+        462045
+      ],
+      [
+        4,
+        462045,
+        463345
+      ],
+      [
+        5,
+        463345,
+        464325
+      ],
+      [
+        6,
+        464325,
+        467545
+      ],
+      [
+        7,
+        467545,
+        470260
+      ]
+    ]
+  }
+}

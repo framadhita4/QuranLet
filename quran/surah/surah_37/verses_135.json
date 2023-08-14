@@ -1,0 +1,86 @@
+{
+  "id": 3923,
+  "chapter_id": 37,
+  "verse_key": "37:135",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78543,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 78544,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_002.mp3",
+      "text": "عَجُوزًۭا",
+      "translation": "perempuan tua",
+      "transliteration": "ʿajūzan"
+    },
+    {
+      "id": 78545,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 78546,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_004.mp3",
+      "text": "ٱلْغَـٰبِرِينَ",
+      "translation": "tertinggal",
+      "transliteration": "l-ghābirīna"
+    },
+    {
+      "id": 78547,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٣٥",
+      "translation": "(135)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali seorang perempuan tua (istrinya yang berada) bersama-sama orang yang tinggal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1099380,
+    "timestamp_to": 1105910,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        1099325,
+        1100095
+      ],
+      [
+        2,
+        1100095,
+        1101825
+      ],
+      [
+        3,
+        1101825,
+        1102015
+      ],
+      [
+        4,
+        1102015,
+        1105800
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5972,
+  "chapter_id": 88,
+  "verse_key": "88:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 4671,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_005_001.mp3",
+      "text": "تُسْقَىٰ",
+      "translation": "ia diberikan minuman",
+      "transliteration": "tus'qā"
+    },
+    {
+      "id": 4672,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_005_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 4673,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_005_003.mp3",
+      "text": "عَيْنٍ",
+      "translation": "mata air",
+      "transliteration": "ʿaynin"
+    },
+    {
+      "id": 4674,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_005_004.mp3",
+      "text": "ءَانِيَةٍۢ",
+      "translation": "sangat panas/mendidih",
+      "transliteration": "āniyatin"
+    },
+    {
+      "id": 4675,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "diberi minum (dengan air) dari sumber yang sangat panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16510,
+    "timestamp_to": 20350,
+    "duration": 3840,
+    "segments": [
+      [
+        1,
+        16445,
+        17305
+      ],
+      [
+        2,
+        17305,
+        17535
+      ],
+      [
+        3,
+        17535,
+        18515
+      ],
+      [
+        4,
+        18515,
+        20160
+      ]
+    ]
+  }
+}

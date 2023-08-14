@@ -1,0 +1,47 @@
+{
+  "id": 2251,
+  "chapter_id": 19,
+  "verse_key": "19:1",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "page_number": 305,
+  "juz_number": 16,
+  "text_uthmani": " كٓهيعٓصٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 162,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_001_001.mp3",
+      "text": "كٓهيعٓصٓ",
+      "translation": "Kaf Haa Yaa 'Ain Saad",
+      "transliteration": "kaf-ha-ya-ain-sad"
+    },
+    {
+      "id": 163,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kāf  Hā Yā ʻAin Ṣād <sup foot_note_id=\"896\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 13740,
+    "duration": 13740,
+    "segments": [
+      [
+        1,
+        0,
+        13715
+      ]
+    ]
+  }
+}

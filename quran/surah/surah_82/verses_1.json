@@ -1,0 +1,73 @@
+{
+  "id": 5830,
+  "chapter_id": 82,
+  "verse_key": "82:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 699,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_001_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 700,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_001_002.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 701,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_001_003.mp3",
+      "text": "ٱنفَطَرَتْ",
+      "translation": "terbelah",
+      "transliteration": "infaṭarat"
+    },
+    {
+      "id": 702,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila langit terbelah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4860,
+    "duration": 4860,
+    "segments": [
+      [
+        1,
+        0,
+        420
+      ],
+      [
+        2,
+        420,
+        3289
+      ],
+      [
+        3,
+        3290,
+        4825
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5359,
+  "chapter_id": 69,
+  "verse_key": "69:36",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 38032,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_036_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak ada",
+      "transliteration": "walā"
+    },
+    {
+      "id": 38033,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_036_002.mp3",
+      "text": "طَعَامٌ",
+      "translation": "makanan",
+      "transliteration": "ṭaʿāmun"
+    },
+    {
+      "id": 38034,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_036_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 38035,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_036_004.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 38036,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_036_005.mp3",
+      "text": "غِسْلِينٍۢ",
+      "translation": "kotoran/nanah dan darah",
+      "transliteration": "ghis'līnin"
+    },
+    {
+      "id": 38037,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tiada (pula) makanan sedikit pun (baginya) kecuali dari darah dan nanah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 276020,
+    "timestamp_to": 282680,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        275975,
+        276635
+      ],
+      [
+        2,
+        276635,
+        277805
+      ],
+      [
+        3,
+        277805,
+        278645
+      ],
+      [
+        4,
+        278645,
+        279065
+      ],
+      [
+        5,
+        279065,
+        282580
+      ]
+    ]
+  }
+}

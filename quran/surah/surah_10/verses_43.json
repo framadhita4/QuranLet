@@ -1,0 +1,177 @@
+{
+  "id": 1407,
+  "chapter_id": 10,
+  "verse_key": "10:43",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "ruku_number": 176,
+  "manzil_number": 3,
+  "page_number": 214,
+  "juz_number": 11,
+  "text_uthmani": "وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ ۚ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 43697,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_001.mp3",
+      "text": "وَمِنْهُم",
+      "translation": "dan diantara mereka",
+      "transliteration": "wamin'hum"
+    },
+    {
+      "id": 43698,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_002.mp3",
+      "text": "مَّن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 43699,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_003.mp3",
+      "text": "يَنظُرُ",
+      "translation": "ia melihat",
+      "transliteration": "yanẓuru"
+    },
+    {
+      "id": 43700,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_004.mp3",
+      "text": "إِلَيْكَ ۚ",
+      "translation": "kepadamu",
+      "transliteration": "ilayka"
+    },
+    {
+      "id": 43702,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_006.mp3",
+      "text": "أَفَأَنتَ",
+      "translation": "apakah kamu",
+      "transliteration": "afa-anta"
+    },
+    {
+      "id": 43703,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_007.mp3",
+      "text": "تَهْدِى",
+      "translation": "memberi petunjuk",
+      "transliteration": "tahdī"
+    },
+    {
+      "id": 43704,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_008.mp3",
+      "text": "ٱلْعُمْىَ",
+      "translation": "orang yang buta",
+      "transliteration": "l-ʿum'ya"
+    },
+    {
+      "id": 43705,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_009.mp3",
+      "text": "وَلَوْ",
+      "translation": "walaupun",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 43706,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_010.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 43707,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_011.mp3",
+      "text": "لَا",
+      "translation": "tidak dapat",
+      "transliteration": "lā"
+    },
+    {
+      "id": 43708,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_043_012.mp3",
+      "text": "يُبْصِرُونَ",
+      "translation": "mereka melihat",
+      "transliteration": "yub'ṣirūna"
+    },
+    {
+      "id": 43709,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di antara mereka ada orang yang melihat kepadamu <sup foot_note_id=\"693\">1</sup>, apakah dapat kamu memberi petunjuk kepada orang-orang yang buta, walaupun mereka tidak dapat memperhatikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1223850,
+    "timestamp_to": 1240830,
+    "duration": 16980,
+    "segments": [
+      [
+        1,
+        1223825,
+        1224935
+      ],
+      [
+        2,
+        1224935,
+        1225765
+      ],
+      [
+        3,
+        1225765,
+        1228245
+      ],
+      [
+        4,
+        1228245,
+        1231345
+      ],
+      [
+        5,
+        1231345,
+        1233185
+      ],
+      [
+        6,
+        1233185,
+        1233905
+      ],
+      [
+        7,
+        1233905,
+        1234835
+      ],
+      [
+        8,
+        1234835,
+        1235435
+      ],
+      [
+        9,
+        1235435,
+        1236375
+      ],
+      [
+        10,
+        1236375,
+        1236805
+      ],
+      [
+        11,
+        1236805,
+        1240770
+      ]
+    ]
+  }
+}

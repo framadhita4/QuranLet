@@ -1,0 +1,138 @@
+{
+  "id": 2942,
+  "chapter_id": 26,
+  "verse_key": "26:10",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 11675,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 11676,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_002.mp3",
+      "text": "نَادَىٰ",
+      "translation": "menyeru",
+      "transliteration": "nādā"
+    },
+    {
+      "id": 11677,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_003.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 11678,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_004.mp3",
+      "text": "مُوسَىٰٓ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 11679,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_005.mp3",
+      "text": "أَنِ",
+      "translation": "bahwa",
+      "transliteration": "ani"
+    },
+    {
+      "id": 11680,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_006.mp3",
+      "text": "ٱئْتِ",
+      "translation": "datangilah",
+      "transliteration": "i'ti"
+    },
+    {
+      "id": 11681,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_007.mp3",
+      "text": "ٱلْقَوْمَ",
+      "translation": "kaum",
+      "transliteration": "l-qawma"
+    },
+    {
+      "id": 11682,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_010_008.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang zalim",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 11683,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) ketika Tuhan-mu menyeru Musa (dengan firman-Nya), \"Datangilah kaum yang zalim itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 92660,
+    "timestamp_to": 102010,
+    "duration": 9350,
+    "segments": [
+      [
+        1,
+        92615,
+        93195
+      ],
+      [
+        2,
+        93195,
+        94025
+      ],
+      [
+        3,
+        94025,
+        94985
+      ],
+      [
+        4,
+        94985,
+        97035
+      ],
+      [
+        5,
+        97035,
+        97435
+      ],
+      [
+        6,
+        97435,
+        97945
+      ],
+      [
+        7,
+        97945,
+        98665
+      ],
+      [
+        8,
+        98665,
+        101910
+      ]
+    ]
+  }
+}

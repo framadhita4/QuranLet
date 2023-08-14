@@ -1,0 +1,73 @@
+{
+  "id": 5771,
+  "chapter_id": 80,
+  "verse_key": "80:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 15695,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_013_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 15696,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_013_002.mp3",
+      "text": "صُحُفٍۢ",
+      "translation": "lembaran-lembaran",
+      "transliteration": "ṣuḥufin"
+    },
+    {
+      "id": 15697,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_013_003.mp3",
+      "text": "مُّكَرَّمَةٍۢ",
+      "translation": "dimuliakan",
+      "transliteration": "mukarramatin"
+    },
+    {
+      "id": 15698,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di dalam kitab-kitab yang dimuliakan, <sup foot_note_id=\"1557\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53010,
+    "timestamp_to": 56480,
+    "duration": 3480,
+    "segments": [
+      [
+        1,
+        52975,
+        53405
+      ],
+      [
+        2,
+        53405,
+        54135
+      ],
+      [
+        3,
+        54135,
+        56400
+      ]
+    ]
+  }
+}

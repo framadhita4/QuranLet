@@ -1,0 +1,226 @@
+{
+  "id": 5193,
+  "chapter_id": 63,
+  "verse_key": "63:5",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 490,
+  "manzil_number": 7,
+  "page_number": 555,
+  "juz_number": 28,
+  "text_uthmani": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/63.mp3",
+  "words": [
+    {
+      "id": 5096,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 5097,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_002.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 5098,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 5099,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_004.mp3",
+      "text": "تَعَالَوْا۟",
+      "translation": "marilah",
+      "transliteration": "taʿālaw"
+    },
+    {
+      "id": 5100,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_005.mp3",
+      "text": "يَسْتَغْفِرْ",
+      "translation": "memohonkan ampunan",
+      "transliteration": "yastaghfir"
+    },
+    {
+      "id": 5101,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_006.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 5102,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_007.mp3",
+      "text": "رَسُولُ",
+      "translation": "rasul",
+      "transliteration": "rasūlu"
+    },
+    {
+      "id": 5103,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_008.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 5104,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_009.mp3",
+      "text": "لَوَّوْا۟",
+      "translation": "mereka memalingkan",
+      "transliteration": "lawwaw"
+    },
+    {
+      "id": 5105,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_010.mp3",
+      "text": "رُءُوسَهُمْ",
+      "translation": "kepala mereka",
+      "transliteration": "ruūsahum"
+    },
+    {
+      "id": 5106,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_011.mp3",
+      "text": "وَرَأَيْتَهُمْ",
+      "translation": "dan kamu lihat mereka",
+      "transliteration": "wara-aytahum"
+    },
+    {
+      "id": 5107,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_012.mp3",
+      "text": "يَصُدُّونَ",
+      "translation": "mereka berpaling",
+      "transliteration": "yaṣuddūna"
+    },
+    {
+      "id": 5108,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_013.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 5109,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_005_014.mp3",
+      "text": "مُّسْتَكْبِرُونَ",
+      "translation": "menyombongkan",
+      "transliteration": "mus'takbirūna"
+    },
+    {
+      "id": 5110,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila dikatakan kepada mereka, \"Marilah (beriman), agar Rasulullah memintakan ampunan bagimu\", mereka membuang muka mereka dan kamu lihat mereka berpaling sedang mereka menyombongkan diri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87720,
+    "timestamp_to": 106660,
+    "duration": 18940,
+    "segments": [
+      [
+        1,
+        87625,
+        88555
+      ],
+      [
+        2,
+        88555,
+        89225
+      ],
+      [
+        3,
+        89225,
+        89735
+      ],
+      [
+        4,
+        89735,
+        90805
+      ],
+      [
+        5,
+        90805,
+        92045
+      ],
+      [
+        6,
+        92045,
+        92595
+      ],
+      [
+        7,
+        92595,
+        93425
+      ],
+      [
+        8,
+        93425,
+        94295
+      ],
+      [
+        9,
+        94295,
+        95065
+      ],
+      [
+        10,
+        95065,
+        96735
+      ],
+      [
+        9,
+        96735,
+        97645
+      ],
+      [
+        10,
+        97645,
+        98885
+      ],
+      [
+        11,
+        98885,
+        100275
+      ],
+      [
+        12,
+        100275,
+        101565
+      ],
+      [
+        13,
+        101565,
+        102075
+      ],
+      [
+        14,
+        102075,
+        106460
+      ]
+    ]
+  }
+}

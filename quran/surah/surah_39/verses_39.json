@@ -1,0 +1,151 @@
+{
+  "id": 4097,
+  "chapter_id": 39,
+  "verse_key": "39:39",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "ruku_number": 401,
+  "manzil_number": 6,
+  "page_number": 462,
+  "juz_number": 24,
+  "text_uthmani": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَـٰمِلٌ ۖ فَسَوْفَ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 40296,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 40297,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_002.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 40298,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_003.mp3",
+      "text": "ٱعْمَلُوا۟",
+      "translation": "bekerjalah kamu",
+      "transliteration": "iʿ'malū"
+    },
+    {
+      "id": 40299,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_004.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 40300,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_005.mp3",
+      "text": "مَكَانَتِكُمْ",
+      "translation": "keadaan/kemampuanmu",
+      "transliteration": "makānatikum"
+    },
+    {
+      "id": 40301,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_006.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 40302,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_007.mp3",
+      "text": "عَـٰمِلٌۭ ۖ",
+      "translation": "orang yang bekerja",
+      "transliteration": "ʿāmilun"
+    },
+    {
+      "id": 40304,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_009.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 40305,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_039_010.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 40306,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Hai kaumku, bekerjalah sesuai dengan keadaanmu; sesungguhnya aku akan bekerja (pula), maka kelak kamu akan mengetahui,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 841390,
+    "timestamp_to": 853330,
+    "duration": 11940,
+    "segments": [
+      [
+        1,
+        841325,
+        841665
+      ],
+      [
+        2,
+        841665,
+        842755
+      ],
+      [
+        3,
+        842755,
+        843585
+      ],
+      [
+        4,
+        843585,
+        844215
+      ],
+      [
+        5,
+        844215,
+        845735
+      ],
+      [
+        6,
+        845735,
+        847415
+      ],
+      [
+        7,
+        847415,
+        848815
+      ],
+      [
+        8,
+        848815,
+        849675
+      ],
+      [
+        9,
+        849675,
+        853200
+      ]
+    ]
+  }
+}

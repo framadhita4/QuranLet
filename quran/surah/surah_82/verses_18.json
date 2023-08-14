@@ -1,0 +1,112 @@
+{
+  "id": 5847,
+  "chapter_id": 82,
+  "verse_key": "82:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 20783,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_018_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 20784,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_018_002.mp3",
+      "text": "مَآ",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 20785,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_018_003.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu melihat",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 20786,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_018_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 20787,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_018_005.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 20788,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_018_006.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 20789,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 91120,
+    "timestamp_to": 98360,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        91025,
+        91885
+      ],
+      [
+        2,
+        91885,
+        93295
+      ],
+      [
+        3,
+        93295,
+        94435
+      ],
+      [
+        4,
+        94435,
+        94895
+      ],
+      [
+        5,
+        94895,
+        95525
+      ],
+      [
+        6,
+        95525,
+        98190
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5850,
+  "chapter_id": 83,
+  "verse_key": "83:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 1730,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 1731,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 1732,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_003.mp3",
+      "text": "ٱكْتَالُوا۟",
+      "translation": "mereka menerima takaran",
+      "transliteration": "ik'tālū"
+    },
+    {
+      "id": 1733,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_004.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 1734,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_005.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia (orang lain)",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 1735,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_006.mp3",
+      "text": "يَسْتَوْفُونَ",
+      "translation": "mereka minta dipenuhi",
+      "transliteration": "yastawfūna"
+    },
+    {
+      "id": 1736,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang apabila menerima takaran dari orang lain, mereka minta dipenuhi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4780,
+    "timestamp_to": 12800,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        4755,
+        5975
+      ],
+      [
+        2,
+        5975,
+        6375
+      ],
+      [
+        3,
+        6375,
+        7375
+      ],
+      [
+        4,
+        7375,
+        7765
+      ],
+      [
+        5,
+        7765,
+        9495
+      ],
+      [
+        6,
+        9495,
+        12700
+      ]
+    ]
+  }
+}

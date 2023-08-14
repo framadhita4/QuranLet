@@ -1,0 +1,112 @@
+{
+  "id": 25,
+  "chapter_id": 2,
+  "verse_key": "2:18",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 4,
+  "juz_number": 1,
+  "text_uthmani": "صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 20856,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_001.mp3",
+      "text": "صُمٌّۢ",
+      "translation": "(mereka) tuli",
+      "transliteration": "ṣummun"
+    },
+    {
+      "id": 20857,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_002.mp3",
+      "text": "بُكْمٌ",
+      "translation": "(mereka) bisu",
+      "transliteration": "buk'mun"
+    },
+    {
+      "id": 20858,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_003.mp3",
+      "text": "عُمْىٌۭ",
+      "translation": "(mereka) buta",
+      "transliteration": "ʿum'yun"
+    },
+    {
+      "id": 20859,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_004.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 20860,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_005.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 20861,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_006.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "mereka akan kembali",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 20862,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tuli, bisu, dan buta, maka tidaklah mereka akan kembali (ke jalan yang benar)<sup foot_note_id=\"27\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 230220,
+    "timestamp_to": 238030,
+    "duration": 7810,
+    "segments": [
+      [
+        1,
+        230155,
+        232565
+      ],
+      [
+        2,
+        232565,
+        233315
+      ],
+      [
+        3,
+        233315,
+        234325
+      ],
+      [
+        4,
+        234325,
+        235065
+      ],
+      [
+        5,
+        235065,
+        235415
+      ],
+      [
+        6,
+        235415,
+        237880
+      ]
+    ]
+  }
+}

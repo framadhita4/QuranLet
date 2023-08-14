@@ -1,0 +1,73 @@
+{
+  "id": 4448,
+  "chapter_id": 44,
+  "verse_key": "44:34",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 434,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 36158,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_034_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 36159,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_034_002.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 36160,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_034_003.mp3",
+      "text": "لَيَقُولُونَ",
+      "translation": "benar-benar mereka berkata",
+      "transliteration": "layaqūlūna"
+    },
+    {
+      "id": 36161,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya mereka (kaum musyrik) itu benar-benar berkata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 339910,
+    "timestamp_to": 349600,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        339855,
+        341295
+      ],
+      [
+        2,
+        341295,
+        346015
+      ],
+      [
+        3,
+        346015,
+        349500
+      ]
+    ]
+  }
+}

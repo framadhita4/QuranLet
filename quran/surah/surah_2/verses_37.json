@@ -1,0 +1,177 @@
+{
+  "id": 44,
+  "chapter_id": 2,
+  "verse_key": "2:37",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "ruku_number": 5,
+  "manzil_number": 1,
+  "page_number": 6,
+  "juz_number": 1,
+  "text_uthmani": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 39109,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_001.mp3",
+      "text": "فَتَلَقَّىٰٓ",
+      "translation": "maka menerima",
+      "transliteration": "fatalaqqā"
+    },
+    {
+      "id": 39110,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_002.mp3",
+      "text": "ءَادَمُ",
+      "translation": "Adam",
+      "transliteration": "ādamu"
+    },
+    {
+      "id": 39111,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 39112,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_004.mp3",
+      "text": "رَّبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 39113,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_005.mp3",
+      "text": "كَلِمَـٰتٍۢ",
+      "translation": "beberapa kalimat",
+      "transliteration": "kalimātin"
+    },
+    {
+      "id": 39114,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_006.mp3",
+      "text": "فَتَابَ",
+      "translation": "maka Dia menerima taubat",
+      "transliteration": "fatāba"
+    },
+    {
+      "id": 39115,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_007.mp3",
+      "text": "عَلَيْهِ ۚ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 39117,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_009.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 39118,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_010.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 39119,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_011.mp3",
+      "text": "ٱلتَّوَّابُ",
+      "translation": "Maha Penerima Taubat",
+      "transliteration": "l-tawābu"
+    },
+    {
+      "id": 39120,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_037_012.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 39121,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian Adam menerima beberapa kalimat<sup foot_note_id=\"40\">1</sup> dari Tuhan-nya, maka Allah menerima tobatnya.  Sesungguhnya Allah Maha Penerima tobat lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 687540,
+    "timestamp_to": 703190,
+    "duration": 15650,
+    "segments": [
+      [
+        1,
+        687475,
+        690425
+      ],
+      [
+        2,
+        690425,
+        691195
+      ],
+      [
+        3,
+        691195,
+        691345
+      ],
+      [
+        4,
+        691345,
+        692495
+      ],
+      [
+        5,
+        692495,
+        694395
+      ],
+      [
+        6,
+        694395,
+        695105
+      ],
+      [
+        7,
+        695105,
+        697585
+      ],
+      [
+        8,
+        697585,
+        699175
+      ],
+      [
+        9,
+        699175,
+        699495
+      ],
+      [
+        10,
+        699495,
+        700655
+      ],
+      [
+        11,
+        700655,
+        703060
+      ]
+    ]
+  }
+}

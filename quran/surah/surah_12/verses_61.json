@@ -1,0 +1,112 @@
+{
+  "id": 1657,
+  "chapter_id": 12,
+  "verse_key": "12:61",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 200,
+  "manzil_number": 3,
+  "page_number": 242,
+  "juz_number": 13,
+  "text_uthmani": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 55245,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_061_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 55246,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_061_002.mp3",
+      "text": "سَنُرَٰوِدُ",
+      "translation": "kami akan membujuk",
+      "transliteration": "sanurāwidu"
+    },
+    {
+      "id": 55247,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_061_003.mp3",
+      "text": "عَنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 55248,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_061_004.mp3",
+      "text": "أَبَاهُ",
+      "translation": "ayahnya",
+      "transliteration": "abāhu"
+    },
+    {
+      "id": 55249,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_061_005.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 55250,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_061_006.mp3",
+      "text": "لَفَـٰعِلُونَ",
+      "translation": "benar-benar melaksanakan",
+      "transliteration": "lafāʿilūna"
+    },
+    {
+      "id": 55251,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Kami akan membujuk ayahnya untuk membawanya (ke mari) dan sesungguhnya kami benar-benar akan melaksanakannya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1383100,
+    "timestamp_to": 1392240,
+    "duration": 9140,
+    "segments": [
+      [
+        1,
+        1383045,
+        1383885
+      ],
+      [
+        2,
+        1383885,
+        1385195
+      ],
+      [
+        3,
+        1385195,
+        1385865
+      ],
+      [
+        4,
+        1385865,
+        1386825
+      ],
+      [
+        5,
+        1386825,
+        1388545
+      ],
+      [
+        6,
+        1388545,
+        1392130
+      ]
+    ]
+  }
+}

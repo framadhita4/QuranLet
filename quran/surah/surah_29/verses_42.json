@@ -1,0 +1,190 @@
+{
+  "id": 3382,
+  "chapter_id": 29,
+  "verse_key": "29:42",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "ruku_number": 346,
+  "manzil_number": 5,
+  "page_number": 401,
+  "juz_number": 20,
+  "text_uthmani": "إِنَّ ٱللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِۦ مِن شَىْءٍ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 43190,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 43191,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 43192,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_003.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 43193,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 43194,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_005.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka seru/sembah",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 43195,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_006.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43196,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_007.mp3",
+      "text": "دُونِهِۦ",
+      "translation": "selain Dia",
+      "transliteration": "dūnihi"
+    },
+    {
+      "id": 43197,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_008.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43198,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_009.mp3",
+      "text": "شَىْءٍۢ ۚ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 43200,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_011.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 43201,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_012.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 43202,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_042_013.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 43203,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah mengetahui apa saja yang mereka seru selain Allah.  Dan Dia Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 829750,
+    "timestamp_to": 844430,
+    "duration": 14680,
+    "segments": [
+      [
+        1,
+        829725,
+        830865
+      ],
+      [
+        2,
+        830865,
+        831685
+      ],
+      [
+        3,
+        831685,
+        832625
+      ],
+      [
+        4,
+        832625,
+        833025
+      ],
+      [
+        5,
+        833025,
+        834065
+      ],
+      [
+        6,
+        834065,
+        835065
+      ],
+      [
+        7,
+        835065,
+        836155
+      ],
+      [
+        8,
+        836155,
+        836615
+      ],
+      [
+        12,
+        836615,
+        839965
+      ],
+      [
+        10,
+        839965,
+        840485
+      ],
+      [
+        11,
+        840485,
+        841615
+      ],
+      [
+        12,
+        841615,
+        844380
+      ]
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": 4689,
+  "chapter_id": 51,
+  "verse_key": "51:14",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "ذُوقُوا۟ فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 15989,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_001.mp3",
+      "text": "ذُوقُوا۟",
+      "translation": "rasakanlah",
+      "transliteration": "dhūqū"
+    },
+    {
+      "id": 15990,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_002.mp3",
+      "text": "فِتْنَتَكُمْ",
+      "translation": "siksaanmu",
+      "transliteration": "fit'natakum"
+    },
+    {
+      "id": 15991,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 15992,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_004.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 15993,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_005.mp3",
+      "text": "كُنتُم",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 15994,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_006.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 15995,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_014_007.mp3",
+      "text": "تَسْتَعْجِلُونَ",
+      "translation": "kamu minta disegerakan",
+      "transliteration": "tastaʿjilūna"
+    },
+    {
+      "id": 15996,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka), \"Rasakanlah azabmu itu.  Inilah azab yang dulu kamu minta untuk disegerakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 62480,
+    "timestamp_to": 73820,
+    "duration": 11340,
+    "segments": [
+      [
+        1,
+        62405,
+        63425
+      ],
+      [
+        2,
+        63425,
+        64745
+      ],
+      [
+        3,
+        64745,
+        65535
+      ],
+      [
+        4,
+        65535,
+        66425
+      ],
+      [
+        5,
+        66425,
+        68305
+      ],
+      [
+        5,
+        68305,
+        69225
+      ],
+      [
+        6,
+        69225,
+        69875
+      ],
+      [
+        7,
+        69875,
+        73670
+      ]
+    ]
+  }
+}

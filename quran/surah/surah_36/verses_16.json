@@ -1,0 +1,112 @@
+{
+  "id": 3721,
+  "chapter_id": 36,
+  "verse_key": "36:16",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 18930,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_016_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 18931,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_016_002.mp3",
+      "text": "رَبُّنَا",
+      "translation": "Tuhan kami",
+      "transliteration": "rabbunā"
+    },
+    {
+      "id": 18932,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_016_003.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 18933,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_016_004.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 18934,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_016_005.mp3",
+      "text": "إِلَيْكُمْ",
+      "translation": "kepada kamu",
+      "transliteration": "ilaykum"
+    },
+    {
+      "id": 18935,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_016_006.mp3",
+      "text": "لَمُرْسَلُونَ",
+      "translation": "benar-benar orang yang diutus",
+      "transliteration": "lamur'salūna"
+    },
+    {
+      "id": 18936,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Tuhan kami mengetahui bahwa sesungguhnya kami adalah orang yang diutus kepada kamu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 185850,
+    "timestamp_to": 195930,
+    "duration": 10080,
+    "segments": [
+      [
+        1,
+        185745,
+        186585
+      ],
+      [
+        2,
+        186585,
+        187555
+      ],
+      [
+        3,
+        187555,
+        188435
+      ],
+      [
+        4,
+        188435,
+        191365
+      ],
+      [
+        5,
+        191365,
+        192435
+      ],
+      [
+        6,
+        192435,
+        195760
+      ]
+    ]
+  }
+}

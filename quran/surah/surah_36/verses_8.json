@@ -1,0 +1,164 @@
+{
+  "id": 3713,
+  "chapter_id": 36,
+  "verse_key": "36:8",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "page_number": 440,
+  "juz_number": 22,
+  "text_uthmani": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 9561,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 9562,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_002.mp3",
+      "text": "جَعَلْنَا",
+      "translation": "Kami telah menjadikan",
+      "transliteration": "jaʿalnā"
+    },
+    {
+      "id": 9563,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_003.mp3",
+      "text": "فِىٓ",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 9564,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_004.mp3",
+      "text": "أَعْنَـٰقِهِمْ",
+      "translation": "leher-leher mereka",
+      "transliteration": "aʿnāqihim"
+    },
+    {
+      "id": 9565,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_005.mp3",
+      "text": "أَغْلَـٰلًۭا",
+      "translation": "belenggu",
+      "transliteration": "aghlālan"
+    },
+    {
+      "id": 9566,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_006.mp3",
+      "text": "فَهِىَ",
+      "translation": "lalu ia",
+      "transliteration": "fahiya"
+    },
+    {
+      "id": 9567,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_007.mp3",
+      "text": "إِلَى",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 9568,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_008.mp3",
+      "text": "ٱلْأَذْقَانِ",
+      "translation": "dagu",
+      "transliteration": "l-adhqāni"
+    },
+    {
+      "id": 9569,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_009.mp3",
+      "text": "فَهُم",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 9570,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_008_010.mp3",
+      "text": "مُّقْمَحُونَ",
+      "translation": "tertengadah",
+      "transliteration": "muq'maḥūna"
+    },
+    {
+      "id": 9571,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah memasang belenggu di leher mereka, lalu tangan mereka (diangkat) ke dagu, maka karena itu mereka tertengadah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 51110,
+    "timestamp_to": 66310,
+    "duration": 15200,
+    "segments": [
+      [
+        1,
+        51055,
+        52425
+      ],
+      [
+        2,
+        52425,
+        53455
+      ],
+      [
+        3,
+        53455,
+        55625
+      ],
+      [
+        4,
+        55625,
+        57025
+      ],
+      [
+        5,
+        57025,
+        58975
+      ],
+      [
+        6,
+        58975,
+        59665
+      ],
+      [
+        7,
+        59665,
+        60005
+      ],
+      [
+        8,
+        60005,
+        61245
+      ],
+      [
+        9,
+        61245,
+        62125
+      ],
+      [
+        10,
+        62125,
+        66180
+      ]
+    ]
+  }
+}

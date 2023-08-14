@@ -1,0 +1,73 @@
+{
+  "id": 5977,
+  "chapter_id": 88,
+  "verse_key": "88:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "فِى جَنَّةٍ عَالِيَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 10990,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_010_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 10991,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_010_002.mp3",
+      "text": "جَنَّةٍ",
+      "translation": "sorga",
+      "transliteration": "jannatin"
+    },
+    {
+      "id": 10992,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_010_003.mp3",
+      "text": "عَالِيَةٍۢ",
+      "translation": "yang tinggi",
+      "transliteration": "ʿāliyatin"
+    },
+    {
+      "id": 10993,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dalam surga yang tinggi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42870,
+    "timestamp_to": 46680,
+    "duration": 3810,
+    "segments": [
+      [
+        1,
+        42775,
+        43175
+      ],
+      [
+        2,
+        43175,
+        44975
+      ],
+      [
+        3,
+        44975,
+        46500
+      ]
+    ]
+  }
+}

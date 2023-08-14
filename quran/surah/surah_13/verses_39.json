@@ -1,0 +1,138 @@
+{
+  "id": 1746,
+  "chapter_id": 13,
+  "verse_key": "13:39",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "ruku_number": 210,
+  "manzil_number": 3,
+  "page_number": 254,
+  "juz_number": 13,
+  "text_uthmani": "يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ ۖ وَعِندَهُۥٓ أُمُّ ٱلْكِتَـٰبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3",
+  "words": [
+    {
+      "id": 40870,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_001.mp3",
+      "text": "يَمْحُوا۟",
+      "translation": "menghapus",
+      "transliteration": "yamḥū"
+    },
+    {
+      "id": 40871,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 40872,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 40873,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_004.mp3",
+      "text": "يَشَآءُ",
+      "translation": "Dia kehendaki",
+      "transliteration": "yashāu"
+    },
+    {
+      "id": 40874,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_005.mp3",
+      "text": "وَيُثْبِتُ ۖ",
+      "translation": "dan Dia menetapkan",
+      "transliteration": "wayuth'bitu"
+    },
+    {
+      "id": 40876,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_007.mp3",
+      "text": "وَعِندَهُۥٓ",
+      "translation": "dan disisinya",
+      "transliteration": "waʿindahu"
+    },
+    {
+      "id": 40877,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_008.mp3",
+      "text": "أُمُّ",
+      "translation": "Ummul",
+      "transliteration": "ummu"
+    },
+    {
+      "id": 40878,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_039_009.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 40879,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah menghapuskan apa yang Dia kehendaki dan menetapkan (apa yang Dia kehendaki) dan di sisi-Nya-lah terdapat Ummul-Kitāb (Lawḥ Maḥfūẓ).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1122380,
+    "timestamp_to": 1135780,
+    "duration": 13400,
+    "segments": [
+      [
+        1,
+        1122025,
+        1122715
+      ],
+      [
+        2,
+        1122715,
+        1123645
+      ],
+      [
+        3,
+        1123645,
+        1124075
+      ],
+      [
+        4,
+        1124075,
+        1126425
+      ],
+      [
+        5,
+        1126425,
+        1127515
+      ],
+      [
+        6,
+        1127515,
+        1131205
+      ],
+      [
+        7,
+        1131205,
+        1132615
+      ],
+      [
+        8,
+        1132615,
+        1135040
+      ]
+    ]
+  }
+}

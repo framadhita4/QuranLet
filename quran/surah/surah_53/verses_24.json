@@ -1,0 +1,86 @@
+{
+  "id": 4808,
+  "chapter_id": 53,
+  "verse_key": "53:24",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 26826,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_024_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 26827,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_024_002.mp3",
+      "text": "لِلْإِنسَـٰنِ",
+      "translation": "bagi manusia",
+      "transliteration": "lil'insāni"
+    },
+    {
+      "id": 26828,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_024_003.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 26829,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_024_004.mp3",
+      "text": "تَمَنَّىٰ",
+      "translation": "ia inginkan",
+      "transliteration": "tamannā"
+    },
+    {
+      "id": 26830,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau apakah manusia akan mendapat segala yang dicita-citakannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 151440,
+    "timestamp_to": 157210,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        150985,
+        151415
+      ],
+      [
+        2,
+        151415,
+        153835
+      ],
+      [
+        3,
+        153835,
+        154235
+      ],
+      [
+        4,
+        154235,
+        156320
+      ]
+    ]
+  }
+}

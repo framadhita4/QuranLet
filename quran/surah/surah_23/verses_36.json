@@ -1,0 +1,86 @@
+{
+  "id": 2709,
+  "chapter_id": 23,
+  "verse_key": "23:36",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "۞ هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 37875,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_036_002.mp3",
+      "text": "۞ هَيْهَاتَ",
+      "translation": "jauh",
+      "transliteration": "hayhāta"
+    },
+    {
+      "id": 37876,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_036_003.mp3",
+      "text": "هَيْهَاتَ",
+      "translation": "jauh",
+      "transliteration": "hayhāta"
+    },
+    {
+      "id": 37877,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_036_004.mp3",
+      "text": "لِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "limā"
+    },
+    {
+      "id": 37878,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_036_005.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "kamu dijanjikan",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 37879,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "jauh, jauh sekali (dari kebenaran) apa yang diancamkan kepada kamu itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 510430,
+    "timestamp_to": 516780,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        510405,
+        511625
+      ],
+      [
+        2,
+        511625,
+        512555
+      ],
+      [
+        3,
+        512555,
+        513215
+      ],
+      [
+        4,
+        513215,
+        516690
+      ]
+    ]
+  }
+}

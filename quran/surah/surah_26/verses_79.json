@@ -1,0 +1,86 @@
+{
+  "id": 3011,
+  "chapter_id": 26,
+  "verse_key": "26:79",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "وَٱلَّذِى هُوَ يُطْعِمُنِى وَيَسْقِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 63944,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_079_001.mp3",
+      "text": "وَٱلَّذِى",
+      "translation": "dan yang",
+      "transliteration": "wa-alladhī"
+    },
+    {
+      "id": 63945,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_079_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 63946,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_079_003.mp3",
+      "text": "يُطْعِمُنِى",
+      "translation": "memberi makan kepadaku",
+      "transliteration": "yuṭ'ʿimunī"
+    },
+    {
+      "id": 63947,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_079_004.mp3",
+      "text": "وَيَسْقِينِ",
+      "translation": "dan memberi minum aku",
+      "transliteration": "wayasqīni"
+    },
+    {
+      "id": 63948,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Tuhanku, Yang Dia memberi makan dan minum kepadaku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 768860,
+    "timestamp_to": 774710,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        768805,
+        769915
+      ],
+      [
+        2,
+        769915,
+        770285
+      ],
+      [
+        3,
+        770285,
+        771565
+      ],
+      [
+        4,
+        771565,
+        774600
+      ]
+    ]
+  }
+}

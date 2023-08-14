@@ -1,0 +1,73 @@
+{
+  "id": 5887,
+  "chapter_id": 84,
+  "verse_key": "84:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 2889,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_003_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 2890,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_003_002.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 2891,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_003_003.mp3",
+      "text": "مُدَّتْ",
+      "translation": "dipanjangkan/diratakan",
+      "transliteration": "muddat"
+    },
+    {
+      "id": 2892,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila bumi diratakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9270,
+    "timestamp_to": 12010,
+    "duration": 2740,
+    "segments": [
+      [
+        1,
+        9215,
+        9825
+      ],
+      [
+        2,
+        9825,
+        10725
+      ],
+      [
+        3,
+        10725,
+        11930
+      ]
+    ]
+  }
+}

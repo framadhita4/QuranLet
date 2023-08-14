@@ -1,0 +1,164 @@
+{
+  "id": 3659,
+  "chapter_id": 34,
+  "verse_key": "34:53",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "ruku_number": 377,
+  "manzil_number": 5,
+  "page_number": 434,
+  "juz_number": 22,
+  "text_uthmani": "وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3",
+  "words": [
+    {
+      "id": 50841,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_001.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 50842,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_002.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 50843,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_003.mp3",
+      "text": "بِهِۦ",
+      "translation": "kepada-Nya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 50844,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50845,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_005.mp3",
+      "text": "قَبْلُ ۖ",
+      "translation": "sebelum/dahulu",
+      "transliteration": "qablu"
+    },
+    {
+      "id": 50847,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_007.mp3",
+      "text": "وَيَقْذِفُونَ",
+      "translation": "dan mereka memasukkan/menduga-duga",
+      "transliteration": "wayaqdhifūna"
+    },
+    {
+      "id": 50848,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_008.mp3",
+      "text": "بِٱلْغَيْبِ",
+      "translation": "dengan yang gaib",
+      "transliteration": "bil-ghaybi"
+    },
+    {
+      "id": 50849,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_009.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50850,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_010.mp3",
+      "text": "مَّكَانٍۭ",
+      "translation": "tempat",
+      "transliteration": "makānin"
+    },
+    {
+      "id": 50851,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_053_011.mp3",
+      "text": "بَعِيدٍۢ",
+      "translation": "yang jauh",
+      "transliteration": "baʿīdin"
+    },
+    {
+      "id": 50852,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, mereka telah mengingkari Allah sebelum itu dan mereka menduga-duga tentang yang gaib dari tempat yang jauh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1009290,
+    "timestamp_to": 1020290,
+    "duration": 11000,
+    "segments": [
+      [
+        1,
+        1009265,
+        1009915
+      ],
+      [
+        2,
+        1009915,
+        1010585
+      ],
+      [
+        3,
+        1010585,
+        1011255
+      ],
+      [
+        4,
+        1011255,
+        1012295
+      ],
+      [
+        5,
+        1012295,
+        1012815
+      ],
+      [
+        6,
+        1012815,
+        1014165
+      ],
+      [
+        7,
+        1014165,
+        1015005
+      ],
+      [
+        8,
+        1015005,
+        1015335
+      ],
+      [
+        9,
+        1015335,
+        1017765
+      ],
+      [
+        10,
+        1017765,
+        1020220
+      ]
+    ]
+  }
+}

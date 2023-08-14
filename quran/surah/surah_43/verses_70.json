@@ -1,0 +1,99 @@
+{
+  "id": 4395,
+  "chapter_id": 43,
+  "verse_key": "43:70",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 494,
+  "juz_number": 25,
+  "text_uthmani": "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 59359,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_070_001.mp3",
+      "text": "ٱدْخُلُوا۟",
+      "translation": "masuklah",
+      "transliteration": "ud'khulū"
+    },
+    {
+      "id": 59360,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_070_002.mp3",
+      "text": "ٱلْجَنَّةَ",
+      "translation": "surga",
+      "transliteration": "l-janata"
+    },
+    {
+      "id": 59361,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_070_003.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 59362,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_070_004.mp3",
+      "text": "وَأَزْوَٰجُكُمْ",
+      "translation": "dan isteri-isterimu",
+      "transliteration": "wa-azwājukum"
+    },
+    {
+      "id": 59363,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_070_005.mp3",
+      "text": "تُحْبَرُونَ",
+      "translation": "kamu digembirakan",
+      "transliteration": "tuḥ'barūna"
+    },
+    {
+      "id": 59364,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Masuklah kamu ke dalam surga, kamu, dan istri-istri kamu digembirakan.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 980710,
+    "timestamp_to": 989410,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        980655,
+        981585
+      ],
+      [
+        2,
+        981585,
+        983455
+      ],
+      [
+        3,
+        983455,
+        984795
+      ],
+      [
+        4,
+        984795,
+        986425
+      ],
+      [
+        5,
+        986425,
+        989300
+      ]
+    ]
+  }
+}

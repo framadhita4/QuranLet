@@ -1,0 +1,99 @@
+{
+  "id": 4469,
+  "chapter_id": 44,
+  "verse_key": "44:55",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 51628,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_001.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka meminta",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 51629,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_002.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 51630,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_003.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan segala macam",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 51631,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_004.mp3",
+      "text": "فَـٰكِهَةٍ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatin"
+    },
+    {
+      "id": 51632,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_005.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "dengan aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 51633,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya mereka meminta segala macam buah-buahan dengan aman (dari segala kekhawatiran) <sup foot_note_id=\"1381\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 527800,
+    "timestamp_to": 535060,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        527735,
+        528855
+      ],
+      [
+        2,
+        528855,
+        529725
+      ],
+      [
+        3,
+        529725,
+        530615
+      ],
+      [
+        4,
+        530615,
+        531945
+      ],
+      [
+        5,
+        531945,
+        534970
+      ]
+    ]
+  }
+}

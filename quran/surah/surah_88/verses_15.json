@@ -1,0 +1,60 @@
+{
+  "id": 5982,
+  "chapter_id": 88,
+  "verse_key": "88:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَنَمَارِقُ مَصْفُوفَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 17213,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_015_001.mp3",
+      "text": "وَنَمَارِقُ",
+      "translation": "dan bantal-bantal",
+      "transliteration": "wanamāriqu"
+    },
+    {
+      "id": 17214,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_015_002.mp3",
+      "text": "مَصْفُوفَةٌۭ",
+      "translation": "berbaris/tersusun",
+      "transliteration": "maṣfūfatun"
+    },
+    {
+      "id": 17215,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bantal-bantal sandaran yang tersusun,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 63430,
+    "timestamp_to": 66510,
+    "duration": 3080,
+    "segments": [
+      [
+        1,
+        63355,
+        64705
+      ],
+      [
+        2,
+        64705,
+        66360
+      ]
+    ]
+  }
+}

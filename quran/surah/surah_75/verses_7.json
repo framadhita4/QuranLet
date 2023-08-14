@@ -1,0 +1,73 @@
+{
+  "id": 5558,
+  "chapter_id": 75,
+  "verse_key": "75:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 7950,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_007_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tatkala",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 7951,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_007_002.mp3",
+      "text": "بَرِقَ",
+      "translation": "bingung/takut",
+      "transliteration": "bariqa"
+    },
+    {
+      "id": 7952,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_007_003.mp3",
+      "text": "ٱلْبَصَرُ",
+      "translation": "pandangan/mata",
+      "transliteration": "l-baṣaru"
+    },
+    {
+      "id": 7953,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila mata terbelalak (ketakutan),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 38420,
+    "timestamp_to": 41140,
+    "duration": 2720,
+    "segments": [
+      [
+        1,
+        38345,
+        39215
+      ],
+      [
+        2,
+        39215,
+        39825
+      ],
+      [
+        3,
+        39825,
+        41020
+      ]
+    ]
+  }
+}

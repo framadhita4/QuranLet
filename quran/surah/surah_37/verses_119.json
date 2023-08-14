@@ -1,0 +1,86 @@
+{
+  "id": 3907,
+  "chapter_id": 37,
+  "verse_key": "37:119",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 76142,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_001.mp3",
+      "text": "وَتَرَكْنَا",
+      "translation": "dan Kami tinggalkan",
+      "transliteration": "wataraknā"
+    },
+    {
+      "id": 76143,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_002.mp3",
+      "text": "عَلَيْهِمَا",
+      "translation": "atas keduanya",
+      "transliteration": "ʿalayhimā"
+    },
+    {
+      "id": 76144,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 76145,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_004.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 76146,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami abadikan untuk keduanya (pujian yang baik) di kalangan orang-orang yang datang kemudian;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 987410,
+    "timestamp_to": 993780,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        987355,
+        988565
+      ],
+      [
+        2,
+        988565,
+        989775
+      ],
+      [
+        3,
+        989775,
+        989975
+      ],
+      [
+        4,
+        989975,
+        993660
+      ]
+    ]
+  }
+}

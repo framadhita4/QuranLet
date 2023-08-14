@@ -1,0 +1,86 @@
+{
+  "id": 5761,
+  "chapter_id": 80,
+  "verse_key": "80:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 2814,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_003_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2815,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_003_002.mp3",
+      "text": "يُدْرِيكَ",
+      "translation": "tahukah kamu",
+      "transliteration": "yud'rīka"
+    },
+    {
+      "id": 2816,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_003_003.mp3",
+      "text": "لَعَلَّهُۥ",
+      "translation": "barangkali dia",
+      "transliteration": "laʿallahu"
+    },
+    {
+      "id": 2817,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_003_004.mp3",
+      "text": "يَزَّكَّىٰٓ",
+      "translation": "ia membersihkan diri",
+      "transliteration": "yazzakkā"
+    },
+    {
+      "id": 2818,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu barangkali ia ingin membersihkan dirinya (dari dosa),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8310,
+    "timestamp_to": 13350,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        7505,
+        8205
+      ],
+      [
+        2,
+        8205,
+        9275
+      ],
+      [
+        3,
+        9275,
+        10485
+      ],
+      [
+        4,
+        10485,
+        11970
+      ]
+    ]
+  }
+}

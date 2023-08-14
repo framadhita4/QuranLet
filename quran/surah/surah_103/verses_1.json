@@ -1,0 +1,47 @@
+{
+  "id": 6177,
+  "chapter_id": 103,
+  "verse_key": "103:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 547,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلْعَصْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/103.mp3",
+  "words": [
+    {
+      "id": 177,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/103_001_001.mp3",
+      "text": "وَٱلْعَصْرِ",
+      "translation": "demi waktu",
+      "transliteration": "wal-ʿaṣri"
+    },
+    {
+      "id": 178,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi masa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 1780,
+    "duration": 1780,
+    "segments": [
+      [
+        1,
+        0,
+        1715
+      ]
+    ]
+  }
+}

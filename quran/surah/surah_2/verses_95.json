@@ -1,0 +1,151 @@
+{
+  "id": 102,
+  "chapter_id": 2,
+  "verse_key": "2:95",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "ruku_number": 12,
+  "manzil_number": 1,
+  "page_number": 15,
+  "juz_number": 1,
+  "text_uthmani": "وَلَن يَتَمَنَّوْهُ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 69783,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_001.mp3",
+      "text": "وَلَن",
+      "translation": "dan tidak",
+      "transliteration": "walan"
+    },
+    {
+      "id": 69784,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_002.mp3",
+      "text": "يَتَمَنَّوْهُ",
+      "translation": "mereka mengharapkan",
+      "transliteration": "yatamannawhu"
+    },
+    {
+      "id": 69785,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_003.mp3",
+      "text": "أَبَدًۢا",
+      "translation": "selama-lamanya",
+      "transliteration": "abadan"
+    },
+    {
+      "id": 69786,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_004.mp3",
+      "text": "بِمَا",
+      "translation": "karena apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 69787,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_005.mp3",
+      "text": "قَدَّمَتْ",
+      "translation": "telah diperbuat",
+      "transliteration": "qaddamat"
+    },
+    {
+      "id": 69788,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_006.mp3",
+      "text": "أَيْدِيهِمْ ۗ",
+      "translation": "tangan-tangan mereka",
+      "transliteration": "aydīhim"
+    },
+    {
+      "id": 69790,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_008.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 69791,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_009.mp3",
+      "text": "عَلِيمٌۢ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 69792,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_095_010.mp3",
+      "text": "بِٱلظَّـٰلِمِينَ",
+      "translation": "terhadap orang-orang yang aniaya",
+      "transliteration": "bil-ẓālimīna"
+    },
+    {
+      "id": 69793,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sekali-kali mereka tidak akan mengingini kematian itu selama-lamanya, karena kesalahan-kesalahan yang telah diperbuat oleh tangan mereka (sendiri).  Dan Allah Maha Mengetahui siapa orang-orang yang aniaya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1961600,
+    "timestamp_to": 1975180,
+    "duration": 13580,
+    "segments": [
+      [
+        1,
+        1961505,
+        1962015
+      ],
+      [
+        2,
+        1962015,
+        1964945
+      ],
+      [
+        3,
+        1964945,
+        1966335
+      ],
+      [
+        4,
+        1966335,
+        1966925
+      ],
+      [
+        5,
+        1966925,
+        1967945
+      ],
+      [
+        6,
+        1967945,
+        1969535
+      ],
+      [
+        7,
+        1969535,
+        1970485
+      ],
+      [
+        8,
+        1970485,
+        1972115
+      ],
+      [
+        9,
+        1972115,
+        1975020
+      ]
+    ]
+  }
+}

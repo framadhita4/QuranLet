@@ -1,0 +1,112 @@
+{
+  "id": 5335,
+  "chapter_id": 69,
+  "verse_key": "69:12",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 14094,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_012_001.mp3",
+      "text": "لِنَجْعَلَهَا",
+      "translation": "karena Kami akan menjadikannya",
+      "transliteration": "linajʿalahā"
+    },
+    {
+      "id": 14095,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_012_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 14096,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_012_003.mp3",
+      "text": "تَذْكِرَةًۭ",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "tadhkiratan"
+    },
+    {
+      "id": 14097,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_012_004.mp3",
+      "text": "وَتَعِيَهَآ",
+      "translation": "dan menjaga/memperhatikannya",
+      "transliteration": "wataʿiyahā"
+    },
+    {
+      "id": 14098,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_012_005.mp3",
+      "text": "أُذُنٌۭ",
+      "translation": "telinga",
+      "transliteration": "udhunun"
+    },
+    {
+      "id": 14099,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_012_006.mp3",
+      "text": "وَٰعِيَةٌۭ",
+      "translation": "menjaga/memperhatikan",
+      "transliteration": "wāʿiyatun"
+    },
+    {
+      "id": 14100,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "agar Kami jadikan peristiwa itu peringatan bagi kamu dan agar diperhatikan oleh telinga yang mau mendengar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 93960,
+    "timestamp_to": 105190,
+    "duration": 11230,
+    "segments": [
+      [
+        1,
+        93905,
+        95565
+      ],
+      [
+        2,
+        95565,
+        96155
+      ],
+      [
+        3,
+        96155,
+        98205
+      ],
+      [
+        4,
+        98205,
+        101544
+      ],
+      [
+        5,
+        101545,
+        102585
+      ],
+      [
+        6,
+        102585,
+        105070
+      ]
+    ]
+  }
+}

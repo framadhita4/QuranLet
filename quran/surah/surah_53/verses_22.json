@@ -1,0 +1,86 @@
+{
+  "id": 4806,
+  "chapter_id": 53,
+  "verse_key": "53:22",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 24754,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_022_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "itu",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 24755,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_022_002.mp3",
+      "text": "إِذًۭا",
+      "translation": "jika demikian",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 24756,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_022_003.mp3",
+      "text": "قِسْمَةٌۭ",
+      "translation": "pembagian",
+      "transliteration": "qis'matun"
+    },
+    {
+      "id": 24757,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_022_004.mp3",
+      "text": "ضِيزَىٰٓ",
+      "translation": "tidak adil",
+      "transliteration": "ḍīzā"
+    },
+    {
+      "id": 24758,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang demikian itu tentulah suatu pembagian yang tidak adil.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 99350,
+    "timestamp_to": 105310,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        98825,
+        99485
+      ],
+      [
+        2,
+        99485,
+        101005
+      ],
+      [
+        3,
+        101005,
+        103255
+      ],
+      [
+        4,
+        103255,
+        104390
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5387,
+  "chapter_id": 70,
+  "verse_key": "70:12",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 14101,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_012_001.mp3",
+      "text": "وَصَـٰحِبَتِهِۦ",
+      "translation": "dan isterinya",
+      "transliteration": "waṣāḥibatihi"
+    },
+    {
+      "id": 14102,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_012_002.mp3",
+      "text": "وَأَخِيهِ",
+      "translation": "dan saudaranya",
+      "transliteration": "wa-akhīhi"
+    },
+    {
+      "id": 14103,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan istrinya, dan saudaranya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65120,
+    "timestamp_to": 69950,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        65035,
+        66845
+      ],
+      [
+        2,
+        66845,
+        69810
+      ]
+    ]
+  }
+}

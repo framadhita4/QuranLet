@@ -1,0 +1,60 @@
+{
+  "id": 5391,
+  "chapter_id": 70,
+  "verse_key": "70:16",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "نَزَّاعَةً لِّلشَّوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 18505,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_016_001.mp3",
+      "text": "نَزَّاعَةًۭ",
+      "translation": "mencabut/mengelupas",
+      "transliteration": "nazzāʿatan"
+    },
+    {
+      "id": 18506,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_016_002.mp3",
+      "text": "لِّلشَّوَىٰ",
+      "translation": "bagi kulit kepala",
+      "transliteration": "lilshawā"
+    },
+    {
+      "id": 18507,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mengelupaskan kulit kepala,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 90740,
+    "timestamp_to": 94080,
+    "duration": 3340,
+    "segments": [
+      [
+        1,
+        90675,
+        92085
+      ],
+      [
+        2,
+        92085,
+        93450
+      ]
+    ]
+  }
+}

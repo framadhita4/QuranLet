@@ -1,0 +1,73 @@
+{
+  "id": 5950,
+  "chapter_id": 87,
+  "verse_key": "87:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 1760,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_002_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 1761,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_002_002.mp3",
+      "text": "خَلَقَ",
+      "translation": "Dia menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 1762,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_002_003.mp3",
+      "text": "فَسَوَّىٰ",
+      "translation": "lalu Dia menyempurnakan",
+      "transliteration": "fasawwā"
+    },
+    {
+      "id": 1763,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang menciptakan, dan menyempurnakan (penciptaan-Nya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4050,
+    "timestamp_to": 7550,
+    "duration": 3500,
+    "segments": [
+      [
+        1,
+        3995,
+        5015
+      ],
+      [
+        2,
+        5015,
+        5675
+      ],
+      [
+        3,
+        5675,
+        6910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5867,
+  "chapter_id": 83,
+  "verse_key": "83:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 21824,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_019_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 21825,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_019_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 21826,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_019_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 21827,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_019_004.mp3",
+      "text": "عِلِّيُّونَ",
+      "translation": "illiyyin",
+      "transliteration": "ʿilliyyūna"
+    },
+    {
+      "id": 21828,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah ʻIlliyyīn itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 145210,
+    "timestamp_to": 152450,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        145175,
+        147225
+      ],
+      [
+        2,
+        147225,
+        148255
+      ],
+      [
+        3,
+        148255,
+        148695
+      ],
+      [
+        4,
+        148695,
+        152320
+      ]
+    ]
+  }
+}

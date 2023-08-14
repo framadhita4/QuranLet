@@ -1,0 +1,177 @@
+{
+  "id": 2920,
+  "chapter_id": 25,
+  "verse_key": "25:65",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 315,
+  "manzil_number": 4,
+  "page_number": 365,
+  "juz_number": 19,
+  "text_uthmani": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 57231,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 57232,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_002.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "(mereka) berkata",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 57233,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_003.mp3",
+      "text": "رَبَّنَا",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 57234,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_004.mp3",
+      "text": "ٱصْرِفْ",
+      "translation": "palingkanlah/jauhkanlah",
+      "transliteration": "iṣ'rif"
+    },
+    {
+      "id": 57235,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_005.mp3",
+      "text": "عَنَّا",
+      "translation": "dari kami",
+      "transliteration": "ʿannā"
+    },
+    {
+      "id": 57236,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_006.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 57237,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_007.mp3",
+      "text": "جَهَنَّمَ ۖ",
+      "translation": "Jahannam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 57239,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_009.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 57240,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_010.mp3",
+      "text": "عَذَابَهَا",
+      "translation": "azabnya",
+      "transliteration": "ʿadhābahā"
+    },
+    {
+      "id": 57241,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_011.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 57242,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_065_012.mp3",
+      "text": "غَرَامًا",
+      "translation": "kebinasaan yang kekal",
+      "transliteration": "gharāman"
+    },
+    {
+      "id": 57243,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٥",
+      "translation": "(65)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang berkata, \"Ya Tuhan kami, jauhkan azab Jahanam dari kami; sesungguhnya azabnya itu adalah kebinasaan yang kekal\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 994920,
+    "timestamp_to": 1008970,
+    "duration": 14050,
+    "segments": [
+      [
+        1,
+        994445,
+        995685
+      ],
+      [
+        2,
+        995685,
+        997165
+      ],
+      [
+        3,
+        997165,
+        997945
+      ],
+      [
+        4,
+        997945,
+        998655
+      ],
+      [
+        5,
+        998655,
+        1000125
+      ],
+      [
+        6,
+        1000125,
+        1001065
+      ],
+      [
+        7,
+        1001065,
+        1002935
+      ],
+      [
+        8,
+        1002935,
+        1004765
+      ],
+      [
+        9,
+        1004765,
+        1006055
+      ],
+      [
+        10,
+        1006055,
+        1006785
+      ],
+      [
+        11,
+        1006785,
+        1008470
+      ]
+    ]
+  }
+}

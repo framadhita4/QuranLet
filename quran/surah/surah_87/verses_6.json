@@ -1,0 +1,73 @@
+{
+  "id": 5954,
+  "chapter_id": 87,
+  "verse_key": "87:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 6743,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_006_001.mp3",
+      "text": "سَنُقْرِئُكَ",
+      "translation": "Kami bacakan kepadamu",
+      "transliteration": "sanuq'ri-uka"
+    },
+    {
+      "id": 6744,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_006_002.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 6745,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_006_003.mp3",
+      "text": "تَنسَىٰٓ",
+      "translation": "kamu lupa",
+      "transliteration": "tansā"
+    },
+    {
+      "id": 6746,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami akan membacakan (Al-Qur`ān) kepadamu (Muhammad) maka kamu tidak akan lupa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21470,
+    "timestamp_to": 25730,
+    "duration": 4260,
+    "segments": [
+      [
+        1,
+        20965,
+        22295
+      ],
+      [
+        2,
+        22295,
+        22945
+      ],
+      [
+        3,
+        22945,
+        24640
+      ]
+    ]
+  }
+}

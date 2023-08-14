@@ -1,0 +1,125 @@
+{
+  "id": 1907,
+  "chapter_id": 16,
+  "verse_key": "16:6",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 224,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 7088,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_001.mp3",
+      "text": "وَلَكُمْ",
+      "translation": "dan bagimu",
+      "transliteration": "walakum"
+    },
+    {
+      "id": 7089,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_002.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya/padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 7090,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_003.mp3",
+      "text": "جَمَالٌ",
+      "translation": "bagus/indah",
+      "transliteration": "jamālun"
+    },
+    {
+      "id": 7091,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_004.mp3",
+      "text": "حِينَ",
+      "translation": "ketika",
+      "transliteration": "ḥīna"
+    },
+    {
+      "id": 7092,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_005.mp3",
+      "text": "تُرِيحُونَ",
+      "translation": "kamu membawa pulang",
+      "transliteration": "turīḥūna"
+    },
+    {
+      "id": 7093,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_006.mp3",
+      "text": "وَحِينَ",
+      "translation": "dan ketika",
+      "transliteration": "waḥīna"
+    },
+    {
+      "id": 7094,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_006_007.mp3",
+      "text": "تَسْرَحُونَ",
+      "translation": "kamu melepaskan keluar",
+      "transliteration": "tasraḥūna"
+    },
+    {
+      "id": 7095,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu memperoleh pandangan yang indah padanya ketika kamu membawanya kembali ke kandang dan ketika kamu melepaskannya ke tempat penggembalaan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81970,
+    "timestamp_to": 91060,
+    "duration": 9090,
+    "segments": [
+      [
+        1,
+        81915,
+        82935
+      ],
+      [
+        2,
+        82935,
+        83845
+      ],
+      [
+        3,
+        83845,
+        85025
+      ],
+      [
+        4,
+        85025,
+        85665
+      ],
+      [
+        5,
+        85665,
+        87245
+      ],
+      [
+        6,
+        87245,
+        88055
+      ],
+      [
+        7,
+        88055,
+        90950
+      ]
+    ]
+  }
+}

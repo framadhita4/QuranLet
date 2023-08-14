@@ -1,0 +1,60 @@
+{
+  "id": 5840,
+  "chapter_id": 82,
+  "verse_key": "82:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "كِرَامًا كَـٰتِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 13006,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_011_001.mp3",
+      "text": "كِرَامًۭا",
+      "translation": "yang mulia",
+      "transliteration": "kirāman"
+    },
+    {
+      "id": 13007,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_011_002.mp3",
+      "text": "كَـٰتِبِينَ",
+      "translation": "yang mencatat",
+      "transliteration": "kātibīna"
+    },
+    {
+      "id": 13008,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mulia (di sisi Allah) dan mencatat (pekerjaan-pekerjaanmu itu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53950,
+    "timestamp_to": 58260,
+    "duration": 4310,
+    "segments": [
+      [
+        1,
+        53855,
+        55385
+      ],
+      [
+        2,
+        55385,
+        58110
+      ]
+    ]
+  }
+}

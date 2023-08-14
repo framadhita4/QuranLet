@@ -1,0 +1,99 @@
+{
+  "id": 5928,
+  "chapter_id": 85,
+  "verse_key": "85:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 21847,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_019_001.mp3",
+      "text": "بَلِ",
+      "translation": "bahkan",
+      "transliteration": "bali"
+    },
+    {
+      "id": 21848,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_019_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 21849,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_019_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 21850,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_019_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 21851,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_019_005.mp3",
+      "text": "تَكْذِيبٍۢ",
+      "translation": "kedustaan",
+      "transliteration": "takdhībin"
+    },
+    {
+      "id": 21852,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang kafir selalu mendustakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 152100,
+    "timestamp_to": 158110,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        152015,
+        152355
+      ],
+      [
+        2,
+        152355,
+        153325
+      ],
+      [
+        3,
+        153325,
+        154215
+      ],
+      [
+        4,
+        154215,
+        154605
+      ],
+      [
+        5,
+        154605,
+        157960
+      ]
+    ]
+  }
+}

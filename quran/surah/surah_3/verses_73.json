@@ -1,0 +1,480 @@
+{
+  "id": 366,
+  "chapter_id": 3,
+  "verse_key": "3:73",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "ruku_number": 49,
+  "manzil_number": 1,
+  "page_number": 59,
+  "juz_number": 3,
+  "text_uthmani": "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 61113,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 61114,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_002.mp3",
+      "text": "تُؤْمِنُوٓا۟",
+      "translation": "kamu percaya",
+      "transliteration": "tu'minū"
+    },
+    {
+      "id": 61115,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_003.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 61116,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_004.mp3",
+      "text": "لِمَن",
+      "translation": "kepada orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 61117,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_005.mp3",
+      "text": "تَبِعَ",
+      "translation": "yang mengikuti",
+      "transliteration": "tabiʿa"
+    },
+    {
+      "id": 61118,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_006.mp3",
+      "text": "دِينَكُمْ",
+      "translation": "agamamu",
+      "transliteration": "dīnakum"
+    },
+    {
+      "id": 61119,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_007.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 61120,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_008.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 61121,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_009.mp3",
+      "text": "ٱلْهُدَىٰ",
+      "translation": "petunjuk",
+      "transliteration": "l-hudā"
+    },
+    {
+      "id": 61122,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_010.mp3",
+      "text": "هُدَى",
+      "translation": "petunjuk",
+      "transliteration": "hudā"
+    },
+    {
+      "id": 61123,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_011.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 61124,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_012.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 61125,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_013.mp3",
+      "text": "يُؤْتَىٰٓ",
+      "translation": "akan diberikan",
+      "transliteration": "yu'tā"
+    },
+    {
+      "id": 61126,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_014.mp3",
+      "text": "أَحَدٌۭ",
+      "translation": "seseorang",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 61127,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_015.mp3",
+      "text": "مِّثْلَ",
+      "translation": "seperti",
+      "transliteration": "mith'la"
+    },
+    {
+      "id": 61128,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_016.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 61129,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_017.mp3",
+      "text": "أُوتِيتُمْ",
+      "translation": "diberikan kepadamu",
+      "transliteration": "ūtītum"
+    },
+    {
+      "id": 61130,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_018.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 61131,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_019.mp3",
+      "text": "يُحَآجُّوكُمْ",
+      "translation": "mereka membantahmu",
+      "transliteration": "yuḥājjūkum"
+    },
+    {
+      "id": 61132,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_020.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 61133,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_021.mp3",
+      "text": "رَبِّكُمْ ۗ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbikum"
+    },
+    {
+      "id": 61135,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_023.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 61136,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_024.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 61137,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_025.mp3",
+      "text": "ٱلْفَضْلَ",
+      "translation": "karunia",
+      "transliteration": "l-faḍla"
+    },
+    {
+      "id": 61138,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_026.mp3",
+      "text": "بِيَدِ",
+      "translation": "di tangan",
+      "transliteration": "biyadi"
+    },
+    {
+      "id": 61139,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_027.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 61140,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_028.mp3",
+      "text": "يُؤْتِيهِ",
+      "translation": "Dia berikannya",
+      "transliteration": "yu'tīhi"
+    },
+    {
+      "id": 61141,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_029.mp3",
+      "text": "مَن",
+      "translation": "siapa/orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 61142,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_030.mp3",
+      "text": "يَشَآءُ ۗ",
+      "translation": "Dia kehendaki",
+      "transliteration": "yashāu"
+    },
+    {
+      "id": 61144,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_032.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 61145,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_033.mp3",
+      "text": "وَٰسِعٌ",
+      "translation": "Maha Luas",
+      "transliteration": "wāsiʿun"
+    },
+    {
+      "id": 61146,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_073_034.mp3",
+      "text": "عَلِيمٌۭ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 61147,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan janganlah kamu percaya melainkan kepada orang yang mengikuti agamamu<sup foot_note_id=\"206\">1</sup>. Katakanlah, \"Sesungguhnya petunjuk (yang harus diikuti) ialah petunjuk Allah, dan (janganlah kamu percaya) bahwa akan diberikan kepada seseorang seperti apa yang diberikan kepadamu, dan (jangan pula kamu percaya) bahwa mereka akan mengalahkan hujahmu di sisi Tuhan-mu\".  Katakanlah, \"Sesungguhnya karunia itu di tangan Allah, Allah memberikan karunia-Nya kepada siapa yang dikehendaki-Nya; dan Allah Maha Luas (karunia-Nya) lagi Maha Mengetahui.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1627540,
+    "timestamp_to": 1673120,
+    "duration": 45580,
+    "segments": [
+      [
+        1,
+        1627465,
+        1628135
+      ],
+      [
+        2,
+        1628135,
+        1630385
+      ],
+      [
+        3,
+        1630385,
+        1631165
+      ],
+      [
+        4,
+        1631165,
+        1631765
+      ],
+      [
+        5,
+        1631765,
+        1633125
+      ],
+      [
+        6,
+        1633125,
+        1634245
+      ],
+      [
+        7,
+        1634245,
+        1634615
+      ],
+      [
+        8,
+        1634615,
+        1635615
+      ],
+      [
+        9,
+        1635615,
+        1636535
+      ],
+      [
+        10,
+        1636535,
+        1636935
+      ],
+      [
+        11,
+        1636935,
+        1639785
+      ],
+      [
+        7,
+        1639785,
+        1640145
+      ],
+      [
+        8,
+        1640145,
+        1641255
+      ],
+      [
+        9,
+        1641255,
+        1642145
+      ],
+      [
+        10,
+        1642145,
+        1642535
+      ],
+      [
+        11,
+        1642535,
+        1643525
+      ],
+      [
+        12,
+        1643525,
+        1643845
+      ],
+      [
+        13,
+        1643845,
+        1646645
+      ],
+      [
+        14,
+        1646645,
+        1647135
+      ],
+      [
+        15,
+        1647135,
+        1648525
+      ],
+      [
+        16,
+        1648525,
+        1650035
+      ],
+      [
+        17,
+        1650035,
+        1651415
+      ],
+      [
+        18,
+        1651415,
+        1651775
+      ],
+      [
+        19,
+        1651775,
+        1655995
+      ],
+      [
+        20,
+        1655995,
+        1657475
+      ],
+      [
+        21,
+        1657475,
+        1659025
+      ],
+      [
+        22,
+        1659045,
+        1659575
+      ],
+      [
+        23,
+        1659575,
+        1660905
+      ],
+      [
+        24,
+        1660905,
+        1661865
+      ],
+      [
+        25,
+        1661865,
+        1662495
+      ],
+      [
+        26,
+        1662495,
+        1663255
+      ],
+      [
+        27,
+        1663255,
+        1664445
+      ],
+      [
+        28,
+        1664445,
+        1664655
+      ],
+      [
+        25,
+        1664655,
+        1665805
+      ],
+      [
+        26,
+        1665805,
+        1668134
+      ],
+      [
+        30,
+        1668135,
+        1669705
+      ],
+      [
+        31,
+        1669705,
+        1670725
+      ],
+      [
+        32,
+        1670725,
+        1673020
+      ]
+    ]
+  }
+}

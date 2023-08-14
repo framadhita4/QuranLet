@@ -1,0 +1,99 @@
+{
+  "id": 4706,
+  "chapter_id": 51,
+  "verse_key": "51:31",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 33563,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_031_002.mp3",
+      "text": "۞ قَالَ",
+      "translation": "(Ibrahim)berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 33564,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_031_003.mp3",
+      "text": "فَمَا",
+      "translation": "maka apakah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 33565,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_031_004.mp3",
+      "text": "خَطْبُكُمْ",
+      "translation": "pembicaraanmu",
+      "transliteration": "khaṭbukum"
+    },
+    {
+      "id": 33566,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_031_005.mp3",
+      "text": "أَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "ayyuhā"
+    },
+    {
+      "id": 33567,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_031_006.mp3",
+      "text": "ٱلْمُرْسَلُونَ",
+      "translation": "para utusan",
+      "transliteration": "l-mur'salūna"
+    },
+    {
+      "id": 33568,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ibrāhīm bertanya, \"Apakah urusanmu, hai para utusan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 235930,
+    "timestamp_to": 242620,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        235855,
+        236555
+      ],
+      [
+        2,
+        236555,
+        237255
+      ],
+      [
+        3,
+        237255,
+        238445
+      ],
+      [
+        4,
+        238445,
+        239295
+      ],
+      [
+        5,
+        239295,
+        242470
+      ]
+    ]
+  }
+}

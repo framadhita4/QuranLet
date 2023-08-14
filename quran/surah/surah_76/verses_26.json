@@ -1,0 +1,125 @@
+{
+  "id": 5617,
+  "chapter_id": 76,
+  "verse_key": "76:26",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 517,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 29162,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_001.mp3",
+      "text": "وَمِنَ",
+      "translation": "dan dari",
+      "transliteration": "wamina"
+    },
+    {
+      "id": 29163,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_002.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "sebagian malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 29164,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_003.mp3",
+      "text": "فَٱسْجُدْ",
+      "translation": "maka bersujudlah",
+      "transliteration": "fa-us'jud"
+    },
+    {
+      "id": 29165,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_004.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepada-Nya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 29166,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_005.mp3",
+      "text": "وَسَبِّحْهُ",
+      "translation": "dan bertasbihlah kepada-Nya",
+      "transliteration": "wasabbiḥ'hu"
+    },
+    {
+      "id": 29167,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_006.mp3",
+      "text": "لَيْلًۭا",
+      "translation": "malam",
+      "transliteration": "laylan"
+    },
+    {
+      "id": 29168,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_026_007.mp3",
+      "text": "طَوِيلًا",
+      "translation": "panjang",
+      "transliteration": "ṭawīlan"
+    },
+    {
+      "id": 29169,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan pada sebagian dari malam, maka sujudlah kepada-Nya dan bertasbihlah kepada-Nya pada bagian yang panjang di malam hari.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 236200,
+    "timestamp_to": 243020,
+    "duration": 6820,
+    "segments": [
+      [
+        1,
+        236135,
+        236685
+      ],
+      [
+        2,
+        236685,
+        237455
+      ],
+      [
+        3,
+        237455,
+        238225
+      ],
+      [
+        4,
+        238225,
+        238795
+      ],
+      [
+        5,
+        238795,
+        239845
+      ],
+      [
+        6,
+        239845,
+        241305
+      ],
+      [
+        7,
+        241305,
+        242900
+      ]
+    ]
+  }
+}

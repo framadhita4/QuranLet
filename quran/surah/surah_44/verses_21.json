@@ -1,0 +1,99 @@
+{
+  "id": 4435,
+  "chapter_id": 44,
+  "verse_key": "44:21",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 23533,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_021_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 23534,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_021_002.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 23535,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_021_003.mp3",
+      "text": "تُؤْمِنُوا۟",
+      "translation": "kamu beriman",
+      "transliteration": "tu'minū"
+    },
+    {
+      "id": 23536,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_021_004.mp3",
+      "text": "لِى",
+      "translation": "kepadaku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 23537,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_021_005.mp3",
+      "text": "فَٱعْتَزِلُونِ",
+      "translation": "maka tinggalkanlah aku",
+      "transliteration": "fa-iʿ'tazilūni"
+    },
+    {
+      "id": 23538,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jika kamu tidak beriman kepadaku, maka biarkanlah aku (memimpin Bani Isrā`īl)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 211520,
+    "timestamp_to": 218180,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        211455,
+        211985
+      ],
+      [
+        2,
+        211985,
+        212535
+      ],
+      [
+        3,
+        212535,
+        213715
+      ],
+      [
+        4,
+        213715,
+        214115
+      ],
+      [
+        5,
+        214115,
+        218090
+      ]
+    ]
+  }
+}

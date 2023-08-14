@@ -1,0 +1,112 @@
+{
+  "id": 4512,
+  "chapter_id": 46,
+  "verse_key": "46:2",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "ruku_number": 440,
+  "manzil_number": 6,
+  "page_number": 502,
+  "juz_number": 26,
+  "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/46.mp3",
+  "words": [
+    {
+      "id": 1012,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_002_001.mp3",
+      "text": "تَنزِيلُ",
+      "translation": "turunnya",
+      "transliteration": "tanzīlu"
+    },
+    {
+      "id": 1013,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_002_002.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 1014,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_002_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 1015,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_002_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 1016,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_002_005.mp3",
+      "text": "ٱلْعَزِيزِ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzi"
+    },
+    {
+      "id": 1017,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_002_006.mp3",
+      "text": "ٱلْحَكِيمِ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmi"
+    },
+    {
+      "id": 1018,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Diturunkan kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4860,
+    "timestamp_to": 13400,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        4805,
+        6705
+      ],
+      [
+        2,
+        6705,
+        7775
+      ],
+      [
+        3,
+        7775,
+        8185
+      ],
+      [
+        4,
+        8185,
+        9105
+      ],
+      [
+        5,
+        9105,
+        10305
+      ],
+      [
+        6,
+        10305,
+        13320
+      ]
+    ]
+  }
+}

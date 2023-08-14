@@ -1,0 +1,112 @@
+{
+  "id": 4938,
+  "chapter_id": 55,
+  "verse_key": "55:37",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 38835,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_037_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 38836,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_037_002.mp3",
+      "text": "ٱنشَقَّتِ",
+      "translation": "terbelah",
+      "transliteration": "inshaqqati"
+    },
+    {
+      "id": 38837,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_037_003.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 38838,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_037_004.mp3",
+      "text": "فَكَانَتْ",
+      "translation": "lalu adalah/menjadi ia",
+      "transliteration": "fakānat"
+    },
+    {
+      "id": 38839,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_037_005.mp3",
+      "text": "وَرْدَةًۭ",
+      "translation": "mawar merah",
+      "transliteration": "wardatan"
+    },
+    {
+      "id": 38840,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_037_006.mp3",
+      "text": "كَٱلدِّهَانِ",
+      "translation": "seperti minyak",
+      "transliteration": "kal-dihāni"
+    },
+    {
+      "id": 38841,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilapan) minyak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 302930,
+    "timestamp_to": 315160,
+    "duration": 12230,
+    "segments": [
+      [
+        1,
+        302875,
+        303545
+      ],
+      [
+        2,
+        303545,
+        305555
+      ],
+      [
+        3,
+        305555,
+        308355
+      ],
+      [
+        4,
+        308355,
+        309495
+      ],
+      [
+        5,
+        309495,
+        311405
+      ],
+      [
+        6,
+        311405,
+        315040
+      ]
+    ]
+  }
+}

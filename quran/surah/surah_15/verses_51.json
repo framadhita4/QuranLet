@@ -1,0 +1,86 @@
+{
+  "id": 1853,
+  "chapter_id": 15,
+  "verse_key": "15:51",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 49596,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_051_001.mp3",
+      "text": "وَنَبِّئْهُمْ",
+      "translation": "dan beritakanlah kepada mereka",
+      "transliteration": "wanabbi'hum"
+    },
+    {
+      "id": 49597,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_051_002.mp3",
+      "text": "عَن",
+      "translation": "tentang",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 49598,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_051_003.mp3",
+      "text": "ضَيْفِ",
+      "translation": "tamu",
+      "transliteration": "ḍayfi"
+    },
+    {
+      "id": 49599,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_051_004.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 49600,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kabarkanlah kepada mereka tentang tamu-tamu Ibrāhīm <sup foot_note_id=\"802\">1</sup> .",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 500230,
+    "timestamp_to": 507230,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        500195,
+        501635
+      ],
+      [
+        2,
+        501635,
+        502635
+      ],
+      [
+        3,
+        502635,
+        503495
+      ],
+      [
+        4,
+        503495,
+        507170
+      ]
+    ]
+  }
+}

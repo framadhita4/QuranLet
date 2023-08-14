@@ -1,0 +1,73 @@
+{
+  "id": 6133,
+  "chapter_id": 98,
+  "verse_key": "98:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 542,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/98.mp3",
+  "words": [
+    {
+      "id": 2907,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_003_001.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 2908,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_003_002.mp3",
+      "text": "كُتُبٌۭ",
+      "translation": "kitab-kitab",
+      "transliteration": "kutubun"
+    },
+    {
+      "id": 2909,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_003_003.mp3",
+      "text": "قَيِّمَةٌۭ",
+      "translation": "yang lurus",
+      "transliteration": "qayyimatun"
+    },
+    {
+      "id": 2910,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di dalamnya terdapat (isi) Kitab-kitab yang lurus<sup foot_note_id=\"1595\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19770,
+    "timestamp_to": 23850,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        19715,
+        20525
+      ],
+      [
+        2,
+        20525,
+        22175
+      ],
+      [
+        3,
+        22175,
+        23710
+      ]
+    ]
+  }
+}

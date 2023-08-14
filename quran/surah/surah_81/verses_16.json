@@ -1,0 +1,60 @@
+{
+  "id": 5816,
+  "chapter_id": 81,
+  "verse_key": "81:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 17983,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_016_001.mp3",
+      "text": "ٱلْجَوَارِ",
+      "translation": "beredar/terbit",
+      "transliteration": "al-jawāri"
+    },
+    {
+      "id": 17984,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_016_002.mp3",
+      "text": "ٱلْكُنَّسِ",
+      "translation": "berlindung/terbenam",
+      "transliteration": "l-kunasi"
+    },
+    {
+      "id": 17985,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang beredar dan terbenam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50780,
+    "timestamp_to": 54410,
+    "duration": 3630,
+    "segments": [
+      [
+        1,
+        50705,
+        51975
+      ],
+      [
+        2,
+        51975,
+        54280
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6030,
+  "chapter_id": 90,
+  "verse_key": "90:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 7286,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_007_001.mp3",
+      "text": "أَيَحْسَبُ",
+      "translation": "apakah ia menyangka",
+      "transliteration": "ayaḥsabu"
+    },
+    {
+      "id": 7287,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_007_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 7288,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_007_003.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 7289,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_007_004.mp3",
+      "text": "يَرَهُۥٓ",
+      "translation": "berkuasa",
+      "transliteration": "yarahu"
+    },
+    {
+      "id": 7290,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_007_005.mp3",
+      "text": "أَحَدٌ",
+      "translation": "seorang/satu",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 7291,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah dia menyangka bahwa tiada seorang pun yang melihatnya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30560,
+    "timestamp_to": 35860,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        29975,
+        31005
+      ],
+      [
+        2,
+        31005,
+        31185
+      ],
+      [
+        3,
+        31185,
+        31815
+      ],
+      [
+        4,
+        31815,
+        34115
+      ],
+      [
+        5,
+        34115,
+        35240
+      ]
+    ]
+  }
+}

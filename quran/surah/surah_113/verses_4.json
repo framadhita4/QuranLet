@@ -1,0 +1,99 @@
+{
+  "id": 6229,
+  "chapter_id": 113,
+  "verse_key": "113:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 557,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3",
+  "words": [
+    {
+      "id": 4181,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_004_001.mp3",
+      "text": "وَمِن",
+      "translation": "dan dari",
+      "transliteration": "wamin"
+    },
+    {
+      "id": 4182,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_004_002.mp3",
+      "text": "شَرِّ",
+      "translation": "kejahatan",
+      "transliteration": "sharri"
+    },
+    {
+      "id": 4183,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_004_003.mp3",
+      "text": "ٱلنَّفَّـٰثَـٰتِ",
+      "translation": "orang yang meniup-niup",
+      "transliteration": "l-nafāthāti"
+    },
+    {
+      "id": 4184,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_004_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 4185,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_004_005.mp3",
+      "text": "ٱلْعُقَدِ",
+      "translation": "ikatan/simpul",
+      "transliteration": "l-ʿuqadi"
+    },
+    {
+      "id": 4186,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dari kejahatan wanita-wanita tukang sihir yang mengembus pada buhul-buhul<sup foot_note_id=\"1610\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12140,
+    "timestamp_to": 18150,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        12045,
+        13455
+      ],
+      [
+        2,
+        13455,
+        14195
+      ],
+      [
+        3,
+        14195,
+        16485
+      ],
+      [
+        4,
+        16485,
+        16675
+      ],
+      [
+        5,
+        16675,
+        17980
+      ]
+    ]
+  }
+}

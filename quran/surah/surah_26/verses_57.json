@@ -1,0 +1,91 @@
+{
+  "id": 2989,
+  "chapter_id": 26,
+  "verse_key": "26:57",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 52881,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_057_001.mp3",
+      "text": "فَأَخْرَجْنَـٰهُم",
+      "translation": "maka Kami keluarkan mereka",
+      "transliteration": "fa-akhrajnāhum"
+    },
+    {
+      "id": 52882,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_057_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 52883,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_057_003.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "taman-taman",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 52884,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_057_004.mp3",
+      "text": "وَعُيُونٍۢ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 52885,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka, Kami keluarkan Firʻawn  dan kaumnya dari taman-taman dan mata air,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 582530,
+    "timestamp_to": 591570,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        582475,
+        584105
+      ],
+      [
+        2,
+        584105,
+        585325
+      ],
+      [
+        2,
+        585325,
+        586115
+      ],
+      [
+        3,
+        586115,
+        588905
+      ],
+      [
+        4,
+        588905,
+        591470
+      ]
+    ]
+  }
+}

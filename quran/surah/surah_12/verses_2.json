@@ -1,0 +1,112 @@
+{
+  "id": 1598,
+  "chapter_id": 12,
+  "verse_key": "12:2",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "ruku_number": 193,
+  "manzil_number": 3,
+  "page_number": 235,
+  "juz_number": 12,
+  "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 1176,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_002_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 1177,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_002_002.mp3",
+      "text": "أَنزَلْنَـٰهُ",
+      "translation": "Kami menurunkannya",
+      "transliteration": "anzalnāhu"
+    },
+    {
+      "id": 1178,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_002_003.mp3",
+      "text": "قُرْءَٰنًا",
+      "translation": "bacaan/Al Quran",
+      "transliteration": "qur'ānan"
+    },
+    {
+      "id": 1179,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_002_004.mp3",
+      "text": "عَرَبِيًّۭا",
+      "translation": "bahasa Arab",
+      "transliteration": "ʿarabiyyan"
+    },
+    {
+      "id": 1180,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_002_005.mp3",
+      "text": "لَّعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 1181,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_002_006.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 1182,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menurunkannya berupa Al-Qur`ān dengan berbahasa Arab agar kamu memahaminya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11650,
+    "timestamp_to": 25680,
+    "duration": 14030,
+    "segments": [
+      [
+        1,
+        11595,
+        15204
+      ],
+      [
+        2,
+        15205,
+        17415
+      ],
+      [
+        3,
+        17415,
+        18745
+      ],
+      [
+        4,
+        18745,
+        19915
+      ],
+      [
+        5,
+        19915,
+        21455
+      ],
+      [
+        6,
+        21455,
+        25600
+      ]
+    ]
+  }
+}

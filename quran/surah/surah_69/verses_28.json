@@ -1,0 +1,86 @@
+{
+  "id": 5351,
+  "chapter_id": 69,
+  "verse_key": "69:28",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 30852,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_028_001.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 30853,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_028_002.mp3",
+      "text": "أَغْنَىٰ",
+      "translation": "memberi manfaat",
+      "transliteration": "aghnā"
+    },
+    {
+      "id": 30854,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_028_003.mp3",
+      "text": "عَنِّى",
+      "translation": "dariku/kepadaku",
+      "transliteration": "ʿannī"
+    },
+    {
+      "id": 30855,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_028_004.mp3",
+      "text": "مَالِيَهْ ۜ",
+      "translation": "harta",
+      "transliteration": "māliyah"
+    },
+    {
+      "id": 30857,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hartaku sekali-kali tidak memberi manfaat kepadaku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 221430,
+    "timestamp_to": 227750,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        221385,
+        223465
+      ],
+      [
+        2,
+        223465,
+        224285
+      ],
+      [
+        3,
+        224285,
+        225755
+      ],
+      [
+        4,
+        225755,
+        227640
+      ]
+    ]
+  }
+}

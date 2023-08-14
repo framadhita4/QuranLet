@@ -1,0 +1,60 @@
+{
+  "id": 5694,
+  "chapter_id": 78,
+  "verse_key": "78:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "لِّلطَّـٰغِينَ مَـَٔابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 24973,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_022_001.mp3",
+      "text": "لِّلطَّـٰغِينَ",
+      "translation": "bagi orang-orang yang melampui batas",
+      "transliteration": "lilṭṭāghīna"
+    },
+    {
+      "id": 24974,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_022_002.mp3",
+      "text": "مَـَٔابًۭا",
+      "translation": "tempat kembali",
+      "transliteration": "maāban"
+    },
+    {
+      "id": 24975,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lagi menjadi tempat kembali bagi orang-orang yang melampaui batas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 115610,
+    "timestamp_to": 119030,
+    "duration": 3420,
+    "segments": [
+      [
+        1,
+        115525,
+        117185
+      ],
+      [
+        2,
+        117185,
+        118890
+      ]
+    ]
+  }
+}

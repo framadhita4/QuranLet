@@ -1,0 +1,73 @@
+{
+  "id": 5580,
+  "chapter_id": 75,
+  "verse_key": "75:29",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 31739,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_029_001.mp3",
+      "text": "وَٱلْتَفَّتِ",
+      "translation": "dan bertaut/berbelit",
+      "transliteration": "wal-tafati"
+    },
+    {
+      "id": 31740,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_029_002.mp3",
+      "text": "ٱلسَّاقُ",
+      "translation": "betis",
+      "transliteration": "l-sāqu"
+    },
+    {
+      "id": 31741,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_029_003.mp3",
+      "text": "بِٱلسَّاقِ",
+      "translation": "dengan betis",
+      "transliteration": "bil-sāqi"
+    },
+    {
+      "id": 31742,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bertaut betis (kiri) dengan betis (kanan)<sup foot_note_id=\"1534\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 139940,
+    "timestamp_to": 145060,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        139755,
+        141025
+      ],
+      [
+        2,
+        141025,
+        141895
+      ],
+      [
+        3,
+        141895,
+        144610
+      ]
+    ]
+  }
+}

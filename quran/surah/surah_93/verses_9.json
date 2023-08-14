@@ -1,0 +1,86 @@
+{
+  "id": 6088,
+  "chapter_id": 93,
+  "verse_key": "93:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 10182,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_009_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 10183,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_009_002.mp3",
+      "text": "ٱلْيَتِيمَ",
+      "translation": "anak yatim",
+      "transliteration": "l-yatīma"
+    },
+    {
+      "id": 10184,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_009_003.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 10185,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_009_004.mp3",
+      "text": "تَقْهَرْ",
+      "translation": "kamu paksa/bersikap bengis",
+      "transliteration": "taqhar"
+    },
+    {
+      "id": 10186,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun terhadap anak yatim, maka janganlah kamu berlaku sewenang-wenang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37920,
+    "timestamp_to": 42830,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        37245,
+        38885
+      ],
+      [
+        2,
+        38885,
+        39945
+      ],
+      [
+        3,
+        39945,
+        40695
+      ],
+      [
+        4,
+        40695,
+        42080
+      ]
+    ]
+  }
+}

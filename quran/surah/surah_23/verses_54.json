@@ -1,0 +1,99 @@
+{
+  "id": 2727,
+  "chapter_id": 23,
+  "verse_key": "23:54",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "فَذَرْهُمْ فِى غَمْرَتِهِمْ حَتَّىٰ حِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 51298,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_054_001.mp3",
+      "text": "فَذَرْهُمْ",
+      "translation": "maka biarkanlah mereka",
+      "transliteration": "fadharhum"
+    },
+    {
+      "id": 51299,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_054_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 51300,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_054_003.mp3",
+      "text": "غَمْرَتِهِمْ",
+      "translation": "kesesatan mereka",
+      "transliteration": "ghamratihim"
+    },
+    {
+      "id": 51301,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_054_004.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "hingga/sampai",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 51302,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_054_005.mp3",
+      "text": "حِينٍ",
+      "translation": "suatu waktu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 51303,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka biarkanlah mereka dalam kesesatannya sampai suatu waktu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 719990,
+    "timestamp_to": 726050,
+    "duration": 6060,
+    "segments": [
+      [
+        1,
+        719945,
+        720945
+      ],
+      [
+        2,
+        720945,
+        721355
+      ],
+      [
+        3,
+        721355,
+        722555
+      ],
+      [
+        4,
+        722555,
+        723385
+      ],
+      [
+        5,
+        723385,
+        725970
+      ]
+    ]
+  }
+}

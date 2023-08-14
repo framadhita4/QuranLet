@@ -1,0 +1,125 @@
+{
+  "id": 1168,
+  "chapter_id": 8,
+  "verse_key": "8:8",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 146,
+  "manzil_number": 2,
+  "page_number": 177,
+  "juz_number": 9,
+  "text_uthmani": "لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَـٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 8719,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_001.mp3",
+      "text": "لِيُحِقَّ",
+      "translation": "agar Dia membenarkan/menetapkan",
+      "transliteration": "liyuḥiqqa"
+    },
+    {
+      "id": 8720,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_002.mp3",
+      "text": "ٱلْحَقَّ",
+      "translation": "yang benar",
+      "transliteration": "l-ḥaqa"
+    },
+    {
+      "id": 8721,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_003.mp3",
+      "text": "وَيُبْطِلَ",
+      "translation": "dan Dia membatalkan",
+      "transliteration": "wayub'ṭila"
+    },
+    {
+      "id": 8722,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_004.mp3",
+      "text": "ٱلْبَـٰطِلَ",
+      "translation": "yang batil",
+      "transliteration": "l-bāṭila"
+    },
+    {
+      "id": 8723,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_005.mp3",
+      "text": "وَلَوْ",
+      "translation": "walaupun",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 8724,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_006.mp3",
+      "text": "كَرِهَ",
+      "translation": "tidak menyukai",
+      "transliteration": "kariha"
+    },
+    {
+      "id": 8725,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_008_007.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 8726,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "agar Allah menetapkan yang hak (Islam) dan membatalkan yang batil (syirik) walaupun orang-orang yang berdosa (musyrik) itu tidak menyukainya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 152380,
+    "timestamp_to": 161340,
+    "duration": 8960,
+    "segments": [
+      [
+        1,
+        152335,
+        153535
+      ],
+      [
+        2,
+        153535,
+        154515
+      ],
+      [
+        3,
+        154515,
+        155455
+      ],
+      [
+        4,
+        155455,
+        156685
+      ],
+      [
+        5,
+        156685,
+        157255
+      ],
+      [
+        6,
+        157255,
+        157905
+      ],
+      [
+        7,
+        157905,
+        161260
+      ]
+    ]
+  }
+}

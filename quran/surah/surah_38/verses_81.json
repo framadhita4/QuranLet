@@ -1,0 +1,86 @@
+{
+  "id": 4051,
+  "chapter_id": 38,
+  "verse_key": "38:81",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 64789,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 64790,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_002.mp3",
+      "text": "يَوْمِ",
+      "translation": "pada hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 64791,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_003.mp3",
+      "text": "ٱلْوَقْتِ",
+      "translation": "waktu",
+      "transliteration": "l-waqti"
+    },
+    {
+      "id": 64792,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_004.mp3",
+      "text": "ٱلْمَعْلُومِ",
+      "translation": "tertentu/ditentukan",
+      "transliteration": "l-maʿlūmi"
+    },
+    {
+      "id": 64793,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨١",
+      "translation": "(81)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sampai kepada hari yang telah ditentukan waktunya (hari Kiamat)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 991560,
+    "timestamp_to": 997490,
+    "duration": 5930,
+    "segments": [
+      [
+        1,
+        991535,
+        992255
+      ],
+      [
+        2,
+        992255,
+        992845
+      ],
+      [
+        3,
+        992845,
+        993705
+      ],
+      [
+        4,
+        993705,
+        997440
+      ]
+    ]
+  }
+}

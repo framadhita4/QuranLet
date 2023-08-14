@@ -1,0 +1,112 @@
+{
+  "id": 5300,
+  "chapter_id": 68,
+  "verse_key": "68:29",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "قَالُوا۟ سُبْحَـٰنَ رَبِّنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 32292,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_029_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 32293,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_029_002.mp3",
+      "text": "سُبْحَـٰنَ",
+      "translation": "Maha Suci",
+      "transliteration": "sub'ḥāna"
+    },
+    {
+      "id": 32294,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_029_003.mp3",
+      "text": "رَبِّنَآ",
+      "translation": "Tuhan Kami",
+      "transliteration": "rabbinā"
+    },
+    {
+      "id": 32295,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_029_004.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 32296,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_029_005.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah Kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 32297,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_029_006.mp3",
+      "text": "ظَـٰلِمِينَ",
+      "translation": "orang-orang yang zalim",
+      "transliteration": "ẓālimīna"
+    },
+    {
+      "id": 32298,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka mengucapkan, \"Maha Suci Tuhan kami, sesungguhnya kami adalah orang-orang yang zalim\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 209530,
+    "timestamp_to": 220140,
+    "duration": 10610,
+    "segments": [
+      [
+        1,
+        209385,
+        210145
+      ],
+      [
+        2,
+        210145,
+        211185
+      ],
+      [
+        3,
+        211185,
+        213625
+      ],
+      [
+        4,
+        213625,
+        214895
+      ],
+      [
+        5,
+        214895,
+        216465
+      ],
+      [
+        6,
+        216465,
+        219920
+      ]
+    ]
+  }
+}

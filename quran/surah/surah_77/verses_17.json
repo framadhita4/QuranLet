@@ -1,0 +1,73 @@
+{
+  "id": 5639,
+  "chapter_id": 77,
+  "verse_key": "77:17",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 19650,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_017_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 19651,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_017_002.mp3",
+      "text": "نُتْبِعُهُمُ",
+      "translation": "Kami ikutkan/iringi mereka",
+      "transliteration": "nut'biʿuhumu"
+    },
+    {
+      "id": 19652,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_017_003.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang yang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 19653,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu Kami iringkan (azab Kami terhadap) mereka dengan (mengazab) orang-orang yang datang kemudian.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55150,
+    "timestamp_to": 60580,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        55055,
+        56305
+      ],
+      [
+        2,
+        56305,
+        57345
+      ],
+      [
+        3,
+        57345,
+        60380
+      ]
+    ]
+  }
+}

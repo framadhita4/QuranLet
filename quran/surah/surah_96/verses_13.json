@@ -1,0 +1,86 @@
+{
+  "id": 6119,
+  "chapter_id": 96,
+  "verse_key": "96:13",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 15356,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_013_001.mp3",
+      "text": "أَرَءَيْتَ",
+      "translation": "apakah kamu lihat/pendapatmu",
+      "transliteration": "ara-ayta"
+    },
+    {
+      "id": 15357,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_013_002.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 15358,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_013_003.mp3",
+      "text": "كَذَّبَ",
+      "translation": "mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 15359,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_013_004.mp3",
+      "text": "وَتَوَلَّىٰٓ",
+      "translation": "dan dia berpaling",
+      "transliteration": "watawallā"
+    },
+    {
+      "id": 15360,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bagaimana pendapatmu jika orang yang melarang itu mendustakan dan berpaling?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48750,
+    "timestamp_to": 53320,
+    "duration": 4570,
+    "segments": [
+      [
+        1,
+        48295,
+        49355
+      ],
+      [
+        2,
+        49355,
+        50385
+      ],
+      [
+        3,
+        50385,
+        51225
+      ],
+      [
+        4,
+        51225,
+        52490
+      ]
+    ]
+  }
+}

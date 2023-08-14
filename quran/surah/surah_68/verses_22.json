@@ -1,0 +1,125 @@
+{
+  "id": 5293,
+  "chapter_id": 68,
+  "verse_key": "68:22",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 24880,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_001.mp3",
+      "text": "أَنِ",
+      "translation": "sesungguhnya",
+      "transliteration": "ani"
+    },
+    {
+      "id": 24881,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_002.mp3",
+      "text": "ٱغْدُوا۟",
+      "translation": "pergi diwaktu pagi",
+      "transliteration": "igh'dū"
+    },
+    {
+      "id": 24882,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 24883,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_004.mp3",
+      "text": "حَرْثِكُمْ",
+      "translation": "kebunmu",
+      "transliteration": "ḥarthikum"
+    },
+    {
+      "id": 24884,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_005.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 24885,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 24886,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_022_007.mp3",
+      "text": "صَـٰرِمِينَ",
+      "translation": "orang-orang yang memotong/memetik",
+      "transliteration": "ṣārimīna"
+    },
+    {
+      "id": 24887,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Pergilah diwaktu pagi (ini) ke kebunmu jika kamu hendak memetik buahnya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 154700,
+    "timestamp_to": 162930,
+    "duration": 8230,
+    "segments": [
+      [
+        1,
+        154635,
+        155025
+      ],
+      [
+        2,
+        155025,
+        155585
+      ],
+      [
+        3,
+        155585,
+        156245
+      ],
+      [
+        4,
+        156245,
+        157265
+      ],
+      [
+        5,
+        157265,
+        158195
+      ],
+      [
+        6,
+        158195,
+        159775
+      ],
+      [
+        7,
+        159775,
+        162810
+      ]
+    ]
+  }
+}

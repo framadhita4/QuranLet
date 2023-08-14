@@ -1,0 +1,151 @@
+{
+  "id": 4041,
+  "chapter_id": 38,
+  "verse_key": "38:71",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن طِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 60332,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 60333,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_002.mp3",
+      "text": "قَالَ",
+      "translation": "berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 60334,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_003.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 60335,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_004.mp3",
+      "text": "لِلْمَلَـٰٓئِكَةِ",
+      "translation": "kepada para malaikat",
+      "transliteration": "lil'malāikati"
+    },
+    {
+      "id": 60336,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_005.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 60337,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_006.mp3",
+      "text": "خَـٰلِقٌۢ",
+      "translation": "menciptakan",
+      "transliteration": "khāliqun"
+    },
+    {
+      "id": 60338,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_007.mp3",
+      "text": "بَشَرًۭا",
+      "translation": "manusia",
+      "transliteration": "basharan"
+    },
+    {
+      "id": 60339,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_008.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 60340,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_071_009.mp3",
+      "text": "طِينٍۢ",
+      "translation": "tanah",
+      "transliteration": "ṭīnin"
+    },
+    {
+      "id": 60341,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ingatlah) ketika Tuhan-mu berfirman kepada malaikat, \"Sesungguhnya Aku akan menciptakan manusia dari tanah\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 891620,
+    "timestamp_to": 905310,
+    "duration": 13690,
+    "segments": [
+      [
+        1,
+        891595,
+        892065
+      ],
+      [
+        2,
+        892065,
+        892645
+      ],
+      [
+        3,
+        892645,
+        893505
+      ],
+      [
+        4,
+        893505,
+        896585
+      ],
+      [
+        5,
+        896585,
+        897905
+      ],
+      [
+        6,
+        897905,
+        899625
+      ],
+      [
+        7,
+        899625,
+        900275
+      ],
+      [
+        8,
+        900275,
+        902395
+      ],
+      [
+        9,
+        902395,
+        905260
+      ]
+    ]
+  }
+}

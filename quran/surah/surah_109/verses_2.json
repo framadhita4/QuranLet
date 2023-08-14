@@ -1,0 +1,86 @@
+{
+  "id": 6209,
+  "chapter_id": 109,
+  "verse_key": "109:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3",
+  "words": [
+    {
+      "id": 942,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_002_001.mp3",
+      "text": "لَآ",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 943,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_002_002.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku menyembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 944,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_002_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 945,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_002_004.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu sembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 946,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Aku tidak akan menyembah apa yang kamu sembah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7520,
+    "timestamp_to": 14960,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        7425,
+        10015
+      ],
+      [
+        2,
+        10015,
+        10885
+      ],
+      [
+        3,
+        10885,
+        11265
+      ],
+      [
+        4,
+        11265,
+        14790
+      ]
+    ]
+  }
+}

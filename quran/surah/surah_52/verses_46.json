@@ -1,0 +1,151 @@
+{
+  "id": 4781,
+  "chapter_id": 52,
+  "verse_key": "52:46",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 45849,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 45850,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_002.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 45851,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_003.mp3",
+      "text": "يُغْنِى",
+      "translation": "berguna",
+      "transliteration": "yugh'nī"
+    },
+    {
+      "id": 45852,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_004.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 45853,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_005.mp3",
+      "text": "كَيْدُهُمْ",
+      "translation": "tipu daya mereka",
+      "transliteration": "kayduhum"
+    },
+    {
+      "id": 45854,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_006.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sedikit pun",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 45855,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_007.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidaklah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 45856,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_008.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 45857,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_046_009.mp3",
+      "text": "يُنصَرُونَ",
+      "translation": "mereka di tolong",
+      "transliteration": "yunṣarūna"
+    },
+    {
+      "id": 45858,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) hari ketika tidak berguna bagi mereka sedikit pun tipu daya mereka dan mereka tidak ditolong.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 440830,
+    "timestamp_to": 451780,
+    "duration": 10950,
+    "segments": [
+      [
+        1,
+        440765,
+        441595
+      ],
+      [
+        2,
+        441595,
+        441965
+      ],
+      [
+        3,
+        441965,
+        442855
+      ],
+      [
+        4,
+        442855,
+        443815
+      ],
+      [
+        5,
+        443815,
+        444875
+      ],
+      [
+        6,
+        444875,
+        446335
+      ],
+      [
+        7,
+        446335,
+        446965
+      ],
+      [
+        8,
+        446965,
+        447395
+      ],
+      [
+        9,
+        447395,
+        451640
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3681,
+  "chapter_id": 35,
+  "verse_key": "35:21",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 437,
+  "juz_number": 22,
+  "text_uthmani": "وَلَا ٱلظِّلُّ وَلَا ٱلْحَرُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 24304,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_021_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 24305,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_021_002.mp3",
+      "text": "ٱلظِّلُّ",
+      "translation": "yang teduh",
+      "transliteration": "l-ẓilu"
+    },
+    {
+      "id": 24306,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_021_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 24307,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_021_004.mp3",
+      "text": "ٱلْحَرُورُ",
+      "translation": "yang panas",
+      "transliteration": "l-ḥarūru"
+    },
+    {
+      "id": 24308,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tidak (pula) sama yang teduh dengan yang panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 425560,
+    "timestamp_to": 430520,
+    "duration": 4960,
+    "segments": [
+      [
+        1,
+        425505,
+        425905
+      ],
+      [
+        2,
+        425905,
+        426725
+      ],
+      [
+        3,
+        426725,
+        427105
+      ],
+      [
+        4,
+        427105,
+        430420
+      ]
+    ]
+  }
+}

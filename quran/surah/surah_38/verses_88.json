@@ -1,0 +1,86 @@
+{
+  "id": 4058,
+  "chapter_id": 38,
+  "verse_key": "38:88",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 458,
+  "juz_number": 23,
+  "text_uthmani": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 67225,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_088_001.mp3",
+      "text": "وَلَتَعْلَمُنَّ",
+      "translation": "dan sungguh kamu akan mengetahui",
+      "transliteration": "walataʿlamunna"
+    },
+    {
+      "id": 67226,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_088_002.mp3",
+      "text": "نَبَأَهُۥ",
+      "translation": "beritanya",
+      "transliteration": "naba-ahu"
+    },
+    {
+      "id": 67227,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_088_003.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 67228,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_088_004.mp3",
+      "text": "حِينٍۭ",
+      "translation": "waktu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 67229,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٨",
+      "translation": "(88)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, kamu akan mengetahui (kebenaran) berita Al-Qur`ān setelah beberapa waktu lagi <sup foot_note_id=\"1306\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1050260,
+    "timestamp_to": 1058960,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        1050225,
+        1052715
+      ],
+      [
+        2,
+        1052715,
+        1053915
+      ],
+      [
+        3,
+        1053915,
+        1054645
+      ],
+      [
+        4,
+        1054645,
+        1058900
+      ]
+    ]
+  }
+}

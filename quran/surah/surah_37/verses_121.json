@@ -1,0 +1,86 @@
+{
+  "id": 3909,
+  "chapter_id": 37,
+  "verse_key": "37:121",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 76544,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_121_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 76545,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_121_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 76546,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_121_003.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 76547,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_121_004.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 76548,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٢١",
+      "translation": "(121)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya demikianlah, Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1000020,
+    "timestamp_to": 1007330,
+    "duration": 7320,
+    "segments": [
+      [
+        1,
+        999955,
+        1001505
+      ],
+      [
+        2,
+        1001505,
+        1002645
+      ],
+      [
+        3,
+        1002645,
+        1003255
+      ],
+      [
+        4,
+        1003255,
+        1007200
+      ]
+    ]
+  }
+}

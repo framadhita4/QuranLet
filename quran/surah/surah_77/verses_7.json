@@ -1,0 +1,73 @@
+{
+  "id": 5629,
+  "chapter_id": 77,
+  "verse_key": "77:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 8009,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_007_001.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 8010,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_007_002.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "kamu dijanjikan",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 8011,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_007_003.mp3",
+      "text": "لَوَٰقِعٌۭ",
+      "translation": "pasti terjadi",
+      "transliteration": "lawāqiʿun"
+    },
+    {
+      "id": 8012,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya apa yang dijanjikan kepadamu itu pasti terjadi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 17790,
+    "timestamp_to": 22070,
+    "duration": 4290,
+    "segments": [
+      [
+        1,
+        17755,
+        19295
+      ],
+      [
+        2,
+        19295,
+        20555
+      ],
+      [
+        3,
+        20555,
+        21930
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2997,
+  "chapter_id": 26,
+  "verse_key": "26:65",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 57244,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_065_001.mp3",
+      "text": "وَأَنجَيْنَا",
+      "translation": "dan Kami selamatkan",
+      "transliteration": "wa-anjaynā"
+    },
+    {
+      "id": 57245,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_065_002.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 57246,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_065_003.mp3",
+      "text": "وَمَن",
+      "translation": "dan orang-orang",
+      "transliteration": "waman"
+    },
+    {
+      "id": 57247,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_065_004.mp3",
+      "text": "مَّعَهُۥٓ",
+      "translation": "bersamanya",
+      "transliteration": "maʿahu"
+    },
+    {
+      "id": 57248,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_065_005.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 57249,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦٥",
+      "translation": "(65)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami selamatkan Musa dan orang-orang yang besertanya semuanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 660140,
+    "timestamp_to": 669940,
+    "duration": 9800,
+    "segments": [
+      [
+        1,
+        660115,
+        662325
+      ],
+      [
+        2,
+        662325,
+        663215
+      ],
+      [
+        3,
+        663215,
+        663835
+      ],
+      [
+        4,
+        663835,
+        666895
+      ],
+      [
+        5,
+        666895,
+        669830
+      ]
+    ]
+  }
+}

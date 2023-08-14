@@ -1,0 +1,73 @@
+{
+  "id": 6236,
+  "chapter_id": 114,
+  "verse_key": "114:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3",
+  "words": [
+    {
+      "id": 6729,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_006_001.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 6730,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_006_002.mp3",
+      "text": "ٱلْجِنَّةِ",
+      "translation": "jin",
+      "transliteration": "l-jinati"
+    },
+    {
+      "id": 6731,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_006_003.mp3",
+      "text": "وَٱلنَّاسِ",
+      "translation": "dan manusia",
+      "transliteration": "wal-nāsi"
+    },
+    {
+      "id": 6732,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari (golongan) jin dan manusia\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32660,
+    "timestamp_to": 40910,
+    "duration": 8260,
+    "segments": [
+      [
+        1,
+        32605,
+        32985
+      ],
+      [
+        2,
+        32985,
+        35215
+      ],
+      [
+        3,
+        35215,
+        40790
+      ]
+    ]
+  }
+}

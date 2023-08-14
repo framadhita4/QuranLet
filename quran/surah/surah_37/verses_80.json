@@ -1,0 +1,86 @@
+{
+  "id": 3868,
+  "chapter_id": 37,
+  "verse_key": "37:80",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 64162,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 64163,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 64164,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_003.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 64165,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_004.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 64166,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya demikianlah, Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 666320,
+    "timestamp_to": 673480,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        666265,
+        667855
+      ],
+      [
+        2,
+        667855,
+        668915
+      ],
+      [
+        3,
+        668915,
+        669555
+      ],
+      [
+        4,
+        669555,
+        673360
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4834,
+  "chapter_id": 53,
+  "verse_key": "53:50",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 48615,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_050_001.mp3",
+      "text": "وَأَنَّهُۥٓ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-annahu"
+    },
+    {
+      "id": 48616,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_050_002.mp3",
+      "text": "أَهْلَكَ",
+      "translation": "Dia telah membinasakan",
+      "transliteration": "ahlaka"
+    },
+    {
+      "id": 48617,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_050_003.mp3",
+      "text": "عَادًا",
+      "translation": "kaum'Ad",
+      "transliteration": "ʿādan"
+    },
+    {
+      "id": 48618,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_050_004.mp3",
+      "text": "ٱلْأُولَىٰ",
+      "translation": "dahulu",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 48619,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya Dia telah membinasakan kaum ʻĀd yang pertama,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 393300,
+    "timestamp_to": 399650,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        393275,
+        396225
+      ],
+      [
+        2,
+        396225,
+        397115
+      ],
+      [
+        3,
+        397115,
+        397935
+      ],
+      [
+        4,
+        397935,
+        399210
+      ]
+    ]
+  }
+}

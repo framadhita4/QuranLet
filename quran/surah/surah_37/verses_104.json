@@ -1,0 +1,73 @@
+{
+  "id": 3892,
+  "chapter_id": 37,
+  "verse_key": "37:104",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 72668,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_104_001.mp3",
+      "text": "وَنَـٰدَيْنَـٰهُ",
+      "translation": "dan Kami panggil dia",
+      "transliteration": "wanādaynāhu"
+    },
+    {
+      "id": 72669,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_104_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 72670,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_104_003.mp3",
+      "text": "يَـٰٓإِبْرَٰهِيمُ",
+      "translation": "hai Ibrahim",
+      "transliteration": "yāib'rāhīmu"
+    },
+    {
+      "id": 72671,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٠٤",
+      "translation": "(104)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami panggillah dia, \"Hai Ibrāhīm,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 866020,
+    "timestamp_to": 874980,
+    "duration": 8960,
+    "segments": [
+      [
+        1,
+        865945,
+        867755
+      ],
+      [
+        2,
+        867755,
+        868025
+      ],
+      [
+        3,
+        868025,
+        874850
+      ]
+    ]
+  }
+}

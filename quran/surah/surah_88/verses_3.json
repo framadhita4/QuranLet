@@ -1,0 +1,60 @@
+{
+  "id": 5970,
+  "chapter_id": 88,
+  "verse_key": "88:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "عَامِلَةٌ نَّاصِبَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 2859,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_003_001.mp3",
+      "text": "عَامِلَةٌۭ",
+      "translation": "kerja keras",
+      "transliteration": "ʿāmilatun"
+    },
+    {
+      "id": 2860,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_003_002.mp3",
+      "text": "نَّاصِبَةٌۭ",
+      "translation": "letih/kepayahan",
+      "transliteration": "nāṣibatun"
+    },
+    {
+      "id": 2861,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bekerja keras lagi kepayahan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9040,
+    "timestamp_to": 13090,
+    "duration": 4050,
+    "segments": [
+      [
+        1,
+        8985,
+        10195
+      ],
+      [
+        2,
+        10195,
+        12970
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1871,
+  "chapter_id": 15,
+  "verse_key": "15:69",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 59329,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_069_001.mp3",
+      "text": "وَٱتَّقُوا۟",
+      "translation": "dan bertakwalah",
+      "transliteration": "wa-ittaqū"
+    },
+    {
+      "id": 59330,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_069_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 59331,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_069_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 59332,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_069_004.mp3",
+      "text": "تُخْزُونِ",
+      "translation": "hinakan aku",
+      "transliteration": "tukh'zūni"
+    },
+    {
+      "id": 59333,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bertakwalah kepada Allah dan janganlah kamu membuat aku terhina\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 678660,
+    "timestamp_to": 683780,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        678625,
+        679475
+      ],
+      [
+        2,
+        679475,
+        680415
+      ],
+      [
+        3,
+        680415,
+        681005
+      ],
+      [
+        4,
+        681005,
+        683720
+      ]
+    ]
+  }
+}

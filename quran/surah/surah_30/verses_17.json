@@ -1,0 +1,112 @@
+{
+  "id": 3426,
+  "chapter_id": 30,
+  "verse_key": "30:17",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 351,
+  "manzil_number": 5,
+  "page_number": 406,
+  "juz_number": 21,
+  "text_uthmani": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 19873,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_017_001.mp3",
+      "text": "فَسُبْحَـٰنَ",
+      "translation": "maka Maha Suci",
+      "transliteration": "fasub'ḥāna"
+    },
+    {
+      "id": 19874,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_017_002.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 19875,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_017_003.mp3",
+      "text": "حِينَ",
+      "translation": "sewaktu",
+      "transliteration": "ḥīna"
+    },
+    {
+      "id": 19876,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_017_004.mp3",
+      "text": "تُمْسُونَ",
+      "translation": "kamu dipetang hari",
+      "transliteration": "tum'sūna"
+    },
+    {
+      "id": 19877,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_017_005.mp3",
+      "text": "وَحِينَ",
+      "translation": "dan sewaktu",
+      "transliteration": "waḥīna"
+    },
+    {
+      "id": 19878,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_017_006.mp3",
+      "text": "تُصْبِحُونَ",
+      "translation": "kamu dipagi hari",
+      "transliteration": "tuṣ'biḥūna"
+    },
+    {
+      "id": 19879,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bertasbihlah kepada Allah pada waktu kamu berada pada petang hari dan waktu kamu berada pada waktu subuh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 269410,
+    "timestamp_to": 277530,
+    "duration": 8130,
+    "segments": [
+      [
+        1,
+        269385,
+        270805
+      ],
+      [
+        2,
+        270805,
+        271675
+      ],
+      [
+        3,
+        271675,
+        272205
+      ],
+      [
+        4,
+        272205,
+        273405
+      ],
+      [
+        5,
+        273405,
+        274205
+      ],
+      [
+        6,
+        274205,
+        277460
+      ]
+    ]
+  }
+}

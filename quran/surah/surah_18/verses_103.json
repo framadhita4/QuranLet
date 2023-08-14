@@ -1,0 +1,99 @@
+{
+  "id": 2243,
+  "chapter_id": 18,
+  "verse_key": "18:103",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 263,
+  "manzil_number": 4,
+  "page_number": 304,
+  "juz_number": 16,
+  "text_uthmani": "قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَـٰلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 72370,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_103_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 72371,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_103_002.mp3",
+      "text": "هَلْ",
+      "translation": "apakah/maukah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 72372,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_103_003.mp3",
+      "text": "نُنَبِّئُكُم",
+      "translation": "Kami jelaskan/beritahukan kepadamu",
+      "transliteration": "nunabbi-ukum"
+    },
+    {
+      "id": 72373,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_103_004.mp3",
+      "text": "بِٱلْأَخْسَرِينَ",
+      "translation": "dengan/tentang orang-orang yang paling merugi",
+      "transliteration": "bil-akhsarīna"
+    },
+    {
+      "id": 72374,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_103_005.mp3",
+      "text": "أَعْمَـٰلًا",
+      "translation": "perbuatan",
+      "transliteration": "aʿmālan"
+    },
+    {
+      "id": 72375,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Apakah akan Kami beritahukan kepadamu tentang orang-orang yang paling merugi perbuatannya?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1854330,
+    "timestamp_to": 1861020,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        1854305,
+        1854695
+      ],
+      [
+        2,
+        1854695,
+        1855185
+      ],
+      [
+        3,
+        1855185,
+        1857425
+      ],
+      [
+        4,
+        1857425,
+        1859065
+      ],
+      [
+        5,
+        1859065,
+        1860610
+      ]
+    ]
+  }
+}

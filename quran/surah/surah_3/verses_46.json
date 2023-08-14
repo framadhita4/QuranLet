@@ -1,0 +1,125 @@
+{
+  "id": 339,
+  "chapter_id": 3,
+  "verse_key": "3:46",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "ruku_number": 46,
+  "manzil_number": 1,
+  "page_number": 56,
+  "juz_number": 3,
+  "text_uthmani": "وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 45766,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_001.mp3",
+      "text": "وَيُكَلِّمُ",
+      "translation": "dan dia berbicara",
+      "transliteration": "wayukallimu"
+    },
+    {
+      "id": 45767,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_002.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 45768,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 45769,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_004.mp3",
+      "text": "ٱلْمَهْدِ",
+      "translation": "buaian",
+      "transliteration": "l-mahdi"
+    },
+    {
+      "id": 45770,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_005.mp3",
+      "text": "وَكَهْلًۭا",
+      "translation": "dan (ketika) dewasa",
+      "transliteration": "wakahlan"
+    },
+    {
+      "id": 45771,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_006.mp3",
+      "text": "وَمِنَ",
+      "translation": "dan (salah seorang) dari",
+      "transliteration": "wamina"
+    },
+    {
+      "id": 45772,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_046_007.mp3",
+      "text": "ٱلصَّـٰلِحِينَ",
+      "translation": "orang-orang yang saleh",
+      "transliteration": "l-ṣāliḥīna"
+    },
+    {
+      "id": 45773,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dia berbicara dengan manusia dalam buaian dan ketika sudah dewasa, dan dia adalah termasuk orang-orang yang saleh\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1065080,
+    "timestamp_to": 1073940,
+    "duration": 8860,
+    "segments": [
+      [
+        1,
+        1065055,
+        1066275
+      ],
+      [
+        2,
+        1066275,
+        1067615
+      ],
+      [
+        3,
+        1067615,
+        1067855
+      ],
+      [
+        4,
+        1067855,
+        1068685
+      ],
+      [
+        5,
+        1068685,
+        1070245
+      ],
+      [
+        6,
+        1070245,
+        1070875
+      ],
+      [
+        7,
+        1070875,
+        1073860
+      ]
+    ]
+  }
+}

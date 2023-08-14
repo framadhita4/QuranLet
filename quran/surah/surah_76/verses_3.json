@@ -1,0 +1,125 @@
+{
+  "id": 5594,
+  "chapter_id": 76,
+  "verse_key": "76:3",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 2751,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 2752,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_002.mp3",
+      "text": "هَدَيْنَـٰهُ",
+      "translation": "Kami beri petunjuk padanya",
+      "transliteration": "hadaynāhu"
+    },
+    {
+      "id": 2753,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_003.mp3",
+      "text": "ٱلسَّبِيلَ",
+      "translation": "jalan",
+      "transliteration": "l-sabīla"
+    },
+    {
+      "id": 2754,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_004.mp3",
+      "text": "إِمَّا",
+      "translation": "terkadang/adakalanya",
+      "transliteration": "immā"
+    },
+    {
+      "id": 2755,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_005.mp3",
+      "text": "شَاكِرًۭا",
+      "translation": "bersyukur",
+      "transliteration": "shākiran"
+    },
+    {
+      "id": 2756,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_006.mp3",
+      "text": "وَإِمَّا",
+      "translation": "dan terkadang",
+      "transliteration": "wa-immā"
+    },
+    {
+      "id": 2757,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_003_007.mp3",
+      "text": "كَفُورًا",
+      "translation": "kufur/ingkar",
+      "transliteration": "kafūran"
+    },
+    {
+      "id": 2758,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menunjukinya jalan yang lurus; ada yang bersyukur dan ada pula yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24160,
+    "timestamp_to": 34430,
+    "duration": 10270,
+    "segments": [
+      [
+        1,
+        24135,
+        25605
+      ],
+      [
+        2,
+        25605,
+        26715
+      ],
+      [
+        3,
+        26715,
+        27705
+      ],
+      [
+        4,
+        27705,
+        29315
+      ],
+      [
+        5,
+        29315,
+        30965
+      ],
+      [
+        6,
+        30965,
+        32575
+      ],
+      [
+        7,
+        32575,
+        34350
+      ]
+    ]
+  }
+}

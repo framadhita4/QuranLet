@@ -1,0 +1,99 @@
+{
+  "id": 2970,
+  "chapter_id": 26,
+  "verse_key": "26:38",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 39914,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_038_001.mp3",
+      "text": "فَجُمِعَ",
+      "translation": "maka dikumpulkan",
+      "transliteration": "fajumiʿa"
+    },
+    {
+      "id": 39915,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_038_002.mp3",
+      "text": "ٱلسَّحَرَةُ",
+      "translation": "ahli sihir",
+      "transliteration": "l-saḥaratu"
+    },
+    {
+      "id": 39916,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_038_003.mp3",
+      "text": "لِمِيقَـٰتِ",
+      "translation": "pada waktu-waktu",
+      "transliteration": "limīqāti"
+    },
+    {
+      "id": 39917,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_038_004.mp3",
+      "text": "يَوْمٍۢ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 39918,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_038_005.mp3",
+      "text": "مَّعْلُومٍۢ",
+      "translation": "diketahui/tertentu",
+      "transliteration": "maʿlūmin"
+    },
+    {
+      "id": 39919,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, dikumpulkanlah ahli-ahli sihir pada waktu yang ditetapkan pada hari yang maklum <sup foot_note_id=\"1080\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 374070,
+    "timestamp_to": 381620,
+    "duration": 7550,
+    "segments": [
+      [
+        1,
+        374045,
+        374855
+      ],
+      [
+        2,
+        374855,
+        375935
+      ],
+      [
+        3,
+        375935,
+        377185
+      ],
+      [
+        4,
+        377185,
+        377985
+      ],
+      [
+        5,
+        377985,
+        381540
+      ]
+    ]
+  }
+}

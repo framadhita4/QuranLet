@@ -1,0 +1,60 @@
+{
+  "id": 5346,
+  "chapter_id": 69,
+  "verse_key": "69:23",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "قُطُوفُهَا دَانِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 25970,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_023_001.mp3",
+      "text": "قُطُوفُهَا",
+      "translation": "buah-buahannya",
+      "transliteration": "quṭūfuhā"
+    },
+    {
+      "id": 25971,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_023_002.mp3",
+      "text": "دَانِيَةٌۭ",
+      "translation": "dekat",
+      "transliteration": "dāniyatun"
+    },
+    {
+      "id": 25972,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "buah-buahannya dekat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 186590,
+    "timestamp_to": 189720,
+    "duration": 3140,
+    "segments": [
+      [
+        1,
+        186545,
+        187865
+      ],
+      [
+        2,
+        187865,
+        189630
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 3132,
+  "chapter_id": 26,
+  "verse_key": "26:200",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى قُلُوبِ ٱلْمُجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85269,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_200_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 85270,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_200_002.mp3",
+      "text": "سَلَكْنَـٰهُ",
+      "translation": "Kami masukkan ia",
+      "transliteration": "salaknāhu"
+    },
+    {
+      "id": 85271,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_200_003.mp3",
+      "text": "فِى",
+      "translation": "kedalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 85272,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_200_004.mp3",
+      "text": "قُلُوبِ",
+      "translation": "hati",
+      "transliteration": "qulūbi"
+    },
+    {
+      "id": 85273,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_200_005.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 85274,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٠٠",
+      "translation": "(200)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah, Kami masukkan  Al-Qur`ān ke dalam hati orang-orang yang durhaka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1741800,
+    "timestamp_to": 1748590,
+    "duration": 6790,
+    "segments": [
+      [
+        1,
+        1741745,
+        1742835
+      ],
+      [
+        2,
+        1742835,
+        1744125
+      ],
+      [
+        3,
+        1744125,
+        1744515
+      ],
+      [
+        4,
+        1744515,
+        1745385
+      ],
+      [
+        5,
+        1745385,
+        1748480
+      ]
+    ]
+  }
+}

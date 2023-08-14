@@ -1,0 +1,86 @@
+{
+  "id": 5050,
+  "chapter_id": 56,
+  "verse_key": "56:71",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 60168,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_071_001.mp3",
+      "text": "أَفَرَءَيْتُمُ",
+      "translation": "maka apakah kamu memperhatikan",
+      "transliteration": "afara-aytumu"
+    },
+    {
+      "id": 60169,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_071_002.mp3",
+      "text": "ٱلنَّارَ",
+      "translation": "api",
+      "transliteration": "l-nāra"
+    },
+    {
+      "id": 60170,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_071_003.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 60171,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_071_004.mp3",
+      "text": "تُورُونَ",
+      "translation": "kamu nyalakan",
+      "transliteration": "tūrūna"
+    },
+    {
+      "id": 60172,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka terangkanlah kepadaku tentang api yang kamu nyalakan (dari gosokan-gosokan kayu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 507620,
+    "timestamp_to": 515950,
+    "duration": 8330,
+    "segments": [
+      [
+        1,
+        507525,
+        509025
+      ],
+      [
+        2,
+        509025,
+        510875
+      ],
+      [
+        3,
+        510875,
+        511835
+      ],
+      [
+        4,
+        511835,
+        515760
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1815,
+  "chapter_id": 15,
+  "verse_key": "15:13",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "لَا يُؤْمِنُونَ بِهِۦ ۖ وَقَدْ خَلَتْ سُنَّةُ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 14925,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 14926,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_002.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 14927,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_003.mp3",
+      "text": "بِهِۦ ۖ",
+      "translation": "dengannya/kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 14929,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_005.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 14930,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_006.mp3",
+      "text": "خَلَتْ",
+      "translation": "telah berlalu",
+      "transliteration": "khalat"
+    },
+    {
+      "id": 14931,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_007.mp3",
+      "text": "سُنَّةُ",
+      "translation": "ketentuan",
+      "transliteration": "sunnatu"
+    },
+    {
+      "id": 14932,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_013_008.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang dahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 14933,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka tidak beriman kepadanya (Al-Qur`ān) dan sesungguhnya telah berlalu sunatullah  terhadap orang-orang dahulu  <sup foot_note_id=\"794\">1</sup> .",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 112210,
+    "timestamp_to": 119860,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        112155,
+        112625
+      ],
+      [
+        2,
+        112625,
+        113835
+      ],
+      [
+        3,
+        113835,
+        114415
+      ],
+      [
+        4,
+        114415,
+        115035
+      ],
+      [
+        5,
+        115035,
+        115685
+      ],
+      [
+        6,
+        115685,
+        117005
+      ],
+      [
+        7,
+        117005,
+        119750
+      ]
+    ]
+  }
+}

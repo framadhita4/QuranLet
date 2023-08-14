@@ -1,0 +1,138 @@
+{
+  "id": 3477,
+  "chapter_id": 31,
+  "verse_key": "31:8",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 356,
+  "manzil_number": 5,
+  "page_number": 411,
+  "juz_number": 21,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتُ ٱلنَّعِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3",
+  "words": [
+    {
+      "id": 9434,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 9435,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 9436,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 9437,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_004.mp3",
+      "text": "وَعَمِلُوا۟",
+      "translation": "dan beramal",
+      "transliteration": "waʿamilū"
+    },
+    {
+      "id": 9438,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_005.mp3",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation": "shaleh",
+      "transliteration": "l-ṣāliḥāti"
+    },
+    {
+      "id": 9439,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 9440,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_007.mp3",
+      "text": "جَنَّـٰتُ",
+      "translation": "surga",
+      "transliteration": "jannātu"
+    },
+    {
+      "id": 9441,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_008_008.mp3",
+      "text": "ٱلنَّعِيمِ",
+      "translation": "penuh dengan kenikmatan",
+      "transliteration": "l-naʿīmi"
+    },
+    {
+      "id": 9442,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal-amal saleh bagi mereka surga-surga yang penuh kenikmatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 83290,
+    "timestamp_to": 94290,
+    "duration": 11000,
+    "segments": [
+      [
+        1,
+        83265,
+        84475
+      ],
+      [
+        2,
+        84475,
+        85395
+      ],
+      [
+        3,
+        85395,
+        86475
+      ],
+      [
+        4,
+        86475,
+        87145
+      ],
+      [
+        5,
+        87145,
+        88535
+      ],
+      [
+        6,
+        88535,
+        89045
+      ],
+      [
+        7,
+        89045,
+        90795
+      ],
+      [
+        8,
+        90795,
+        94240
+      ]
+    ]
+  }
+}

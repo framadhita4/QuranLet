@@ -1,0 +1,99 @@
+{
+  "id": 2399,
+  "chapter_id": 20,
+  "verse_key": "20:51",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 314,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 49177,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_051_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 49178,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_051_002.mp3",
+      "text": "فَمَا",
+      "translation": "maka bagaimanakah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 49179,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_051_003.mp3",
+      "text": "بَالُ",
+      "translation": "keadaan",
+      "transliteration": "bālu"
+    },
+    {
+      "id": 49180,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_051_004.mp3",
+      "text": "ٱلْقُرُونِ",
+      "translation": "kurun/ummat-ummat",
+      "transliteration": "l-qurūni"
+    },
+    {
+      "id": 49181,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_051_005.mp3",
+      "text": "ٱلْأُولَىٰ",
+      "translation": "dahulu",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 49182,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Firʻawn , \"Maka bagaimanakah keadaan umat-umat yang dahulu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 443880,
+    "timestamp_to": 448820,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        443465,
+        444115
+      ],
+      [
+        2,
+        444115,
+        444865
+      ],
+      [
+        3,
+        444865,
+        445495
+      ],
+      [
+        4,
+        445495,
+        446675
+      ],
+      [
+        5,
+        446675,
+        447890
+      ]
+    ]
+  }
+}

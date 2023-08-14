@@ -1,0 +1,60 @@
+{
+  "id": 5912,
+  "chapter_id": 85,
+  "verse_key": "85:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "وَشَاهِدٍ وَمَشْهُودٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 2897,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_003_001.mp3",
+      "text": "وَشَاهِدٍۢ",
+      "translation": "Demi yang menyaksikan",
+      "transliteration": "washāhidin"
+    },
+    {
+      "id": 2898,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_003_002.mp3",
+      "text": "وَمَشْهُودٍۢ",
+      "translation": "dan yang disaksikan",
+      "transliteration": "wamashhūdin"
+    },
+    {
+      "id": 2899,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan yang menyaksikan dan yang disaksikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13670,
+    "timestamp_to": 20440,
+    "duration": 6770,
+    "segments": [
+      [
+        1,
+        13635,
+        15625
+      ],
+      [
+        2,
+        15625,
+        20340
+      ]
+    ]
+  }
+}

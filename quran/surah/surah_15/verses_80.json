@@ -1,0 +1,99 @@
+{
+  "id": 1882,
+  "chapter_id": 15,
+  "verse_key": "15:80",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "وَلَقَدْ كَذَّبَ أَصْحَـٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 64444,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_080_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 64445,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_080_002.mp3",
+      "text": "كَذَّبَ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 64446,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_080_003.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penduduk",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 64447,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_080_004.mp3",
+      "text": "ٱلْحِجْرِ",
+      "translation": "Hijir",
+      "transliteration": "l-ḥij'ri"
+    },
+    {
+      "id": 64448,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_080_005.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 64449,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya penduduk-penduduk Kota Al-Ḥijr <sup foot_note_id=\"811\">1</sup> telah mendustakan rasul-rasul <sup foot_note_id=\"812\">2</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 773010,
+    "timestamp_to": 779670,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        772965,
+        773845
+      ],
+      [
+        2,
+        773845,
+        774655
+      ],
+      [
+        3,
+        774655,
+        775735
+      ],
+      [
+        4,
+        775735,
+        776675
+      ],
+      [
+        5,
+        776675,
+        779600
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5068,
+  "chapter_id": 56,
+  "verse_key": "56:89",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 67613,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_089_001.mp3",
+      "text": "فَرَوْحٌۭ",
+      "translation": "maka kesenangan/ketentraman",
+      "transliteration": "farawḥun"
+    },
+    {
+      "id": 67614,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_089_002.mp3",
+      "text": "وَرَيْحَانٌۭ",
+      "translation": "dan kepuasan",
+      "transliteration": "warayḥānun"
+    },
+    {
+      "id": 67615,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_089_003.mp3",
+      "text": "وَجَنَّتُ",
+      "translation": "dan surga",
+      "transliteration": "wajannatu"
+    },
+    {
+      "id": 67616,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_089_004.mp3",
+      "text": "نَعِيمٍۢ",
+      "translation": "kenikmatan",
+      "transliteration": "naʿīmin"
+    },
+    {
+      "id": 67617,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dia memperoleh ketenteraman dan rezeki serta surga kenikmatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 664260,
+    "timestamp_to": 673350,
+    "duration": 9090,
+    "segments": [
+      [
+        1,
+        664195,
+        665905
+      ],
+      [
+        2,
+        665905,
+        668085
+      ],
+      [
+        3,
+        668085,
+        670035
+      ],
+      [
+        4,
+        670035,
+        673240
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4961,
+  "chapter_id": 55,
+  "verse_key": "55:60",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 54424,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_060_001.mp3",
+      "text": "هَلْ",
+      "translation": "bukankah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 54425,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_060_002.mp3",
+      "text": "جَزَآءُ",
+      "translation": "balasan",
+      "transliteration": "jazāu"
+    },
+    {
+      "id": 54426,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_060_003.mp3",
+      "text": "ٱلْإِحْسَـٰنِ",
+      "translation": "kebaikan",
+      "transliteration": "l-iḥ'sāni"
+    },
+    {
+      "id": 54427,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_060_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 54428,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_060_005.mp3",
+      "text": "ٱلْإِحْسَـٰنُ",
+      "translation": "kebaikan",
+      "transliteration": "l-iḥ'sānu"
+    },
+    {
+      "id": 54429,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada balasan kebaikan kecuali kebaikan (pula).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 525590,
+    "timestamp_to": 534030,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        525535,
+        525875
+      ],
+      [
+        2,
+        525875,
+        528175
+      ],
+      [
+        3,
+        528175,
+        529515
+      ],
+      [
+        4,
+        529515,
+        530185
+      ],
+      [
+        5,
+        530185,
+        533910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3891,
+  "chapter_id": 37,
+  "verse_key": "37:103",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 72394,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_103_001.mp3",
+      "text": "فَلَمَّآ",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 72395,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_103_002.mp3",
+      "text": "أَسْلَمَا",
+      "translation": "keduanya berserah diri",
+      "transliteration": "aslamā"
+    },
+    {
+      "id": 72396,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_103_003.mp3",
+      "text": "وَتَلَّهُۥ",
+      "translation": "dan dia membaringkannya",
+      "transliteration": "watallahu"
+    },
+    {
+      "id": 72397,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_103_004.mp3",
+      "text": "لِلْجَبِينِ",
+      "translation": "untuk/di atas kening",
+      "transliteration": "lil'jabīni"
+    },
+    {
+      "id": 72398,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tatkala keduanya telah berserah diri dan Ibrāhīm membaringkan anaknya atas pelipis(nya), (nyatalah kesabaran keduanya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 856820,
+    "timestamp_to": 866020,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        856755,
+        859905
+      ],
+      [
+        2,
+        859905,
+        860965
+      ],
+      [
+        3,
+        860965,
+        862275
+      ],
+      [
+        4,
+        862275,
+        865880
+      ]
+    ]
+  }
+}

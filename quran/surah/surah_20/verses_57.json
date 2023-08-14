@@ -1,0 +1,125 @@
+{
+  "id": 2405,
+  "chapter_id": 20,
+  "verse_key": "20:57",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 315,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَـٰمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 52753,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 52754,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_002.mp3",
+      "text": "أَجِئْتَنَا",
+      "translation": "adakah kamu datang kepada kami",
+      "transliteration": "aji'tanā"
+    },
+    {
+      "id": 52755,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_003.mp3",
+      "text": "لِتُخْرِجَنَا",
+      "translation": "untuk kamu mengusir/mengeluarkan kami",
+      "transliteration": "litukh'rijanā"
+    },
+    {
+      "id": 52756,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_004.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 52757,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_005.mp3",
+      "text": "أَرْضِنَا",
+      "translation": "bumi negeri kami",
+      "transliteration": "arḍinā"
+    },
+    {
+      "id": 52758,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_006.mp3",
+      "text": "بِسِحْرِكَ",
+      "translation": "dengan sihirmu",
+      "transliteration": "bisiḥ'rika"
+    },
+    {
+      "id": 52759,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_057_007.mp3",
+      "text": "يَـٰمُوسَىٰ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 52760,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Firʻawn , \"Adakah kamu datang kepada kami untuk mengusir kami dari negeri kami (ini) dengan sihirmu, hai Musa<sup foot_note_id=\"927\">1</sup>?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 520170,
+    "timestamp_to": 527510,
+    "duration": 7340,
+    "segments": [
+      [
+        1,
+        519425,
+        520125
+      ],
+      [
+        2,
+        520125,
+        521275
+      ],
+      [
+        3,
+        521275,
+        522685
+      ],
+      [
+        4,
+        522685,
+        523055
+      ],
+      [
+        5,
+        523055,
+        524035
+      ],
+      [
+        6,
+        524035,
+        525115
+      ],
+      [
+        7,
+        525115,
+        526440
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 787,
+  "chapter_id": 5,
+  "verse_key": "5:118",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "ruku_number": 101,
+  "manzil_number": 2,
+  "page_number": 127,
+  "juz_number": 7,
+  "text_uthmani": "إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 76082,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_001.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 76083,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_002.mp3",
+      "text": "تُعَذِّبْهُمْ",
+      "translation": "Engkau menyiksa mereka",
+      "transliteration": "tuʿadhib'hum"
+    },
+    {
+      "id": 76084,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_003.mp3",
+      "text": "فَإِنَّهُمْ",
+      "translation": "maka sesungguhnya mereka",
+      "transliteration": "fa-innahum"
+    },
+    {
+      "id": 76085,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_004.mp3",
+      "text": "عِبَادُكَ ۖ",
+      "translation": "hamba-hamba Engkau",
+      "transliteration": "ʿibāduka"
+    },
+    {
+      "id": 76087,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_006.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 76088,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_007.mp3",
+      "text": "تَغْفِرْ",
+      "translation": "Engkau mengampuni",
+      "transliteration": "taghfir"
+    },
+    {
+      "id": 76089,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_008.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 76090,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_009.mp3",
+      "text": "فَإِنَّكَ",
+      "translation": "maka sesungguhnya Engkau",
+      "transliteration": "fa-innaka"
+    },
+    {
+      "id": 76091,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_010.mp3",
+      "text": "أَنتَ",
+      "translation": "Engkau",
+      "transliteration": "anta"
+    },
+    {
+      "id": 76092,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_011.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 76093,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_118_012.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 76094,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١٨",
+      "translation": "(118)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika Engkau menyiksa mereka, maka sesungguhnya mereka adalah hamba-hamba Engkau, dan jika Engkau mengampuni mereka, maka sesungguhnya Engkau-lah Yang Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3696460,
+    "timestamp_to": 3712320,
+    "duration": 15860,
+    "segments": [
+      [
+        1,
+        3696395,
+        3697195
+      ],
+      [
+        2,
+        3697195,
+        3699055
+      ],
+      [
+        3,
+        3699055,
+        3701055
+      ],
+      [
+        4,
+        3701055,
+        3702535
+      ],
+      [
+        5,
+        3702535,
+        3703695
+      ],
+      [
+        6,
+        3703695,
+        3704505
+      ],
+      [
+        7,
+        3704505,
+        3705225
+      ],
+      [
+        8,
+        3705225,
+        3706965
+      ],
+      [
+        9,
+        3706965,
+        3708495
+      ],
+      [
+        10,
+        3708495,
+        3709635
+      ],
+      [
+        11,
+        3709635,
+        3712200
+      ]
+    ]
+  }
+}

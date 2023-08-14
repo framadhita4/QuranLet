@@ -1,0 +1,112 @@
+{
+  "id": 4823,
+  "chapter_id": 53,
+  "verse_key": "53:39",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 40444,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_039_001.mp3",
+      "text": "وَأَن",
+      "translation": "dan bahwa",
+      "transliteration": "wa-an"
+    },
+    {
+      "id": 40445,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_039_002.mp3",
+      "text": "لَّيْسَ",
+      "translation": "tidak",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 40446,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_039_003.mp3",
+      "text": "لِلْإِنسَـٰنِ",
+      "translation": "bagi manusia",
+      "transliteration": "lil'insāni"
+    },
+    {
+      "id": 40447,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_039_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 40448,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_039_005.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 40449,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_039_006.mp3",
+      "text": "سَعَىٰ",
+      "translation": "ia usahakan",
+      "transliteration": "saʿā"
+    },
+    {
+      "id": 40450,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya seorang manusia tiada memperoleh selain apa yang telah diusahakannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 333670,
+    "timestamp_to": 339910,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        333615,
+        334065
+      ],
+      [
+        2,
+        334065,
+        334855
+      ],
+      [
+        3,
+        334855,
+        337265
+      ],
+      [
+        4,
+        337265,
+        338175
+      ],
+      [
+        5,
+        338175,
+        338565
+      ],
+      [
+        6,
+        338565,
+        339420
+      ]
+    ]
+  }
+}

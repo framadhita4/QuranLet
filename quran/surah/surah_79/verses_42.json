@@ -1,0 +1,99 @@
+{
+  "id": 5754,
+  "chapter_id": 79,
+  "verse_key": "79:42",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 43053,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_042_001.mp3",
+      "text": "يَسْـَٔلُونَكَ",
+      "translation": "mereka akan bertanya kepadamu",
+      "transliteration": "yasalūnaka"
+    },
+    {
+      "id": 43054,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_042_002.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 43055,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_042_003.mp3",
+      "text": "ٱلسَّاعَةِ",
+      "translation": "waktu/kiamat",
+      "transliteration": "l-sāʿati"
+    },
+    {
+      "id": 43056,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_042_004.mp3",
+      "text": "أَيَّانَ",
+      "translation": "kepada/bila",
+      "transliteration": "ayyāna"
+    },
+    {
+      "id": 43057,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_042_005.mp3",
+      "text": "مُرْسَىٰهَا",
+      "translation": "kedatangannya/terjadinya",
+      "transliteration": "mur'sāhā"
+    },
+    {
+      "id": 43058,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Orang-orang kafir) bertanya kepadamu (Muhammad) tentang hari berbangkit, kapankah terjadinya<sup foot_note_id=\"1553\">1</sup>?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 200160,
+    "timestamp_to": 206220,
+    "duration": 6060,
+    "segments": [
+      [
+        1,
+        199665,
+        201185
+      ],
+      [
+        2,
+        201185,
+        201635
+      ],
+      [
+        3,
+        201635,
+        202825
+      ],
+      [
+        4,
+        202825,
+        203885
+      ],
+      [
+        5,
+        203885,
+        205320
+      ]
+    ]
+  }
+}

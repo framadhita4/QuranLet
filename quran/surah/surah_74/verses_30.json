@@ -1,0 +1,73 @@
+{
+  "id": 5525,
+  "chapter_id": 74,
+  "verse_key": "74:30",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 32862,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_030_001.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "di atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 32863,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_030_002.mp3",
+      "text": "تِسْعَةَ",
+      "translation": "sembilan",
+      "transliteration": "tis'ʿata"
+    },
+    {
+      "id": 32864,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_030_003.mp3",
+      "text": "عَشَرَ",
+      "translation": "belas",
+      "transliteration": "ʿashara"
+    },
+    {
+      "id": 32865,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di atasnya ada sembilan belas (malaikat penjaga).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 111040,
+    "timestamp_to": 114040,
+    "duration": 3010,
+    "segments": [
+      [
+        1,
+        110985,
+        112055
+      ],
+      [
+        2,
+        112055,
+        112835
+      ],
+      [
+        3,
+        112835,
+        113930
+      ]
+    ]
+  }
+}

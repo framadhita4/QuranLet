@@ -1,0 +1,164 @@
+{
+  "id": 1093,
+  "chapter_id": 7,
+  "verse_key": "7:139",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 137,
+  "manzil_number": 2,
+  "page_number": 167,
+  "juz_number": 9,
+  "text_uthmani": "إِنَّ هَـٰٓؤُلَآءِ مُتَبَّرٌ مَّا هُمْ فِيهِ وَبَـٰطِلٌ مَّا كَانُوا۟ يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 79007,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 79008,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_002.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 79009,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_003.mp3",
+      "text": "مُتَبَّرٌۭ",
+      "translation": "akan dihancurkan",
+      "transliteration": "mutabbarun"
+    },
+    {
+      "id": 79010,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_004.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 79011,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_005.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 79012,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_006.mp3",
+      "text": "فِيهِ",
+      "translation": "didalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 79013,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_007.mp3",
+      "text": "وَبَـٰطِلٌۭ",
+      "translation": "dan sia-sia",
+      "transliteration": "wabāṭilun"
+    },
+    {
+      "id": 79014,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_008.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 79015,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_009.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 79016,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_139_010.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 79017,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣٩",
+      "translation": "(139)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya mereka itu akan dihancurkan kepercayaan yang dianutnya dan akan batal apa yang seIalu mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3044180,
+    "timestamp_to": 3059040,
+    "duration": 14860,
+    "segments": [
+      [
+        1,
+        3044155,
+        3045325
+      ],
+      [
+        2,
+        3045325,
+        3049325
+      ],
+      [
+        3,
+        3049325,
+        3050465
+      ],
+      [
+        4,
+        3050465,
+        3051535
+      ],
+      [
+        5,
+        3051535,
+        3051965
+      ],
+      [
+        6,
+        3051965,
+        3052735
+      ],
+      [
+        7,
+        3052735,
+        3053735
+      ],
+      [
+        8,
+        3053735,
+        3054915
+      ],
+      [
+        9,
+        3054915,
+        3055845
+      ],
+      [
+        10,
+        3055845,
+        3058990
+      ]
+    ]
+  }
+}

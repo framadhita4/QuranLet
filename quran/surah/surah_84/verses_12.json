@@ -1,0 +1,60 @@
+{
+  "id": 5896,
+  "chapter_id": 84,
+  "verse_key": "84:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَيَصْلَىٰ سَعِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 14279,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_012_001.mp3",
+      "text": "وَيَصْلَىٰ",
+      "translation": "dan dia akan masuk",
+      "transliteration": "wayaṣlā"
+    },
+    {
+      "id": 14280,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_012_002.mp3",
+      "text": "سَعِيرًا",
+      "translation": "api yang menyala-nyala",
+      "transliteration": "saʿīran"
+    },
+    {
+      "id": 14281,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 63210,
+    "timestamp_to": 65930,
+    "duration": 2720,
+    "segments": [
+      [
+        1,
+        63155,
+        64125
+      ],
+      [
+        2,
+        64125,
+        65850
+      ]
+    ]
+  }
+}

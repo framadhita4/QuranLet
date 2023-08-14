@@ -1,0 +1,164 @@
+{
+  "id": 3510,
+  "chapter_id": 32,
+  "verse_key": "32:7",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "page_number": 415,
+  "juz_number": 21,
+  "text_uthmani": "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَـٰنِ مِن طِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 8278,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_001.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 8279,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_002.mp3",
+      "text": "أَحْسَنَ",
+      "translation": "Dia membuat bagus",
+      "transliteration": "aḥsana"
+    },
+    {
+      "id": 8280,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_003.mp3",
+      "text": "كُلَّ",
+      "translation": "setiap",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 8281,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_004.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 8282,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_005.mp3",
+      "text": "خَلَقَهُۥ ۖ",
+      "translation": "Dia menciptakannya",
+      "transliteration": "khalaqahu"
+    },
+    {
+      "id": 8284,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_007.mp3",
+      "text": "وَبَدَأَ",
+      "translation": "dan Dia memulai",
+      "transliteration": "wabada-a"
+    },
+    {
+      "id": 8285,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_008.mp3",
+      "text": "خَلْقَ",
+      "translation": "ciptaan",
+      "transliteration": "khalqa"
+    },
+    {
+      "id": 8286,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_009.mp3",
+      "text": "ٱلْإِنسَـٰنِ",
+      "translation": "manusia",
+      "transliteration": "l-insāni"
+    },
+    {
+      "id": 8287,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_010.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 8288,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_007_011.mp3",
+      "text": "طِينٍۢ",
+      "translation": "tanah",
+      "transliteration": "ṭīnin"
+    },
+    {
+      "id": 8289,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang membuat segala sesuatu yang Dia ciptakan sebaik-baiknya dan Yang memulai penciptaan manusia dari tanah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87960,
+    "timestamp_to": 99270,
+    "duration": 11310,
+    "segments": [
+      [
+        1,
+        87905,
+        90105
+      ],
+      [
+        2,
+        90105,
+        90735
+      ],
+      [
+        3,
+        90735,
+        91305
+      ],
+      [
+        4,
+        91305,
+        92025
+      ],
+      [
+        5,
+        92025,
+        93215
+      ],
+      [
+        6,
+        93215,
+        93865
+      ],
+      [
+        7,
+        93865,
+        94425
+      ],
+      [
+        8,
+        94425,
+        96135
+      ],
+      [
+        9,
+        96135,
+        97255
+      ],
+      [
+        10,
+        97255,
+        99160
+      ]
+    ]
+  }
+}

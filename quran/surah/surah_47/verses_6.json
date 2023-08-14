@@ -1,0 +1,86 @@
+{
+  "id": 4551,
+  "chapter_id": 47,
+  "verse_key": "47:6",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3",
+  "words": [
+    {
+      "id": 6032,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_001.mp3",
+      "text": "وَيُدْخِلُهُمُ",
+      "translation": "dan Dia akan memasukkan mereka",
+      "transliteration": "wayud'khiluhumu"
+    },
+    {
+      "id": 6033,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_002.mp3",
+      "text": "ٱلْجَنَّةَ",
+      "translation": "surga",
+      "transliteration": "l-janata"
+    },
+    {
+      "id": 6034,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_003.mp3",
+      "text": "عَرَّفَهَا",
+      "translation": "telah Dia perkenalkannya",
+      "transliteration": "ʿarrafahā"
+    },
+    {
+      "id": 6035,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_004.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 6036,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan memasukkan mereka ke dalam surga yang telah diperkenalkan-Nya kepada mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101780,
+    "timestamp_to": 107550,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        101745,
+        103235
+      ],
+      [
+        2,
+        103235,
+        105075
+      ],
+      [
+        3,
+        105075,
+        106435
+      ],
+      [
+        4,
+        106435,
+        107460
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4859,
+  "chapter_id": 54,
+  "verse_key": "54:13",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 14964,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_013_001.mp3",
+      "text": "وَحَمَلْنَـٰهُ",
+      "translation": "dan Kami angkut",
+      "transliteration": "waḥamalnāhu"
+    },
+    {
+      "id": 14965,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_013_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 14966,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_013_003.mp3",
+      "text": "ذَاتِ",
+      "translation": "memiliki",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 14967,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_013_004.mp3",
+      "text": "أَلْوَٰحٍۢ",
+      "translation": "papan",
+      "transliteration": "alwāḥin"
+    },
+    {
+      "id": 14968,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_013_005.mp3",
+      "text": "وَدُسُرٍۢ",
+      "translation": "dan kayu",
+      "transliteration": "wadusurin"
+    },
+    {
+      "id": 14969,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami angkut Nūḥ ke atas (bahtera) yang terbuat dari papan dan paku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 123230,
+    "timestamp_to": 129870,
+    "duration": 6640,
+    "segments": [
+      [
+        1,
+        123175,
+        124765
+      ],
+      [
+        2,
+        124765,
+        125455
+      ],
+      [
+        3,
+        125455,
+        126245
+      ],
+      [
+        4,
+        126245,
+        128405
+      ],
+      [
+        5,
+        128405,
+        129750
+      ]
+    ]
+  }
+}

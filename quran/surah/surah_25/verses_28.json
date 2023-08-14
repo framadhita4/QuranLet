@@ -1,0 +1,112 @@
+{
+  "id": 2883,
+  "chapter_id": 25,
+  "verse_key": "25:28",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 362,
+  "juz_number": 19,
+  "text_uthmani": "يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 31080,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_028_001.mp3",
+      "text": "يَـٰوَيْلَتَىٰ",
+      "translation": "aduh celakalah aku",
+      "transliteration": "yāwaylatā"
+    },
+    {
+      "id": 31081,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_028_002.mp3",
+      "text": "لَيْتَنِى",
+      "translation": "kiranya aku",
+      "transliteration": "laytanī"
+    },
+    {
+      "id": 31082,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_028_003.mp3",
+      "text": "لَمْ",
+      "translation": "aku tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 31083,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_028_004.mp3",
+      "text": "أَتَّخِذْ",
+      "translation": "mengambil/menjadikan",
+      "transliteration": "attakhidh"
+    },
+    {
+      "id": 31084,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_028_005.mp3",
+      "text": "فُلَانًا",
+      "translation": "si fulan",
+      "transliteration": "fulānan"
+    },
+    {
+      "id": 31085,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_028_006.mp3",
+      "text": "خَلِيلًۭا",
+      "translation": "teman akrab",
+      "transliteration": "khalīlan"
+    },
+    {
+      "id": 31086,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kecelakaan besarlah bagiku; kiranya aku (dulu) tidak menjadikan si fulan <sup foot_note_id=\"1065\">1</sup> itu teman akrab(ku).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 493650,
+    "timestamp_to": 500780,
+    "duration": 7130,
+    "segments": [
+      [
+        1,
+        493615,
+        495365
+      ],
+      [
+        2,
+        495365,
+        496445
+      ],
+      [
+        3,
+        496445,
+        496845
+      ],
+      [
+        4,
+        496845,
+        497855
+      ],
+      [
+        5,
+        497855,
+        498895
+      ],
+      [
+        6,
+        498895,
+        500270
+      ]
+    ]
+  }
+}

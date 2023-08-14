@@ -1,0 +1,125 @@
+{
+  "id": 4392,
+  "chapter_id": 43,
+  "verse_key": "43:67",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 431,
+  "manzil_number": 6,
+  "page_number": 494,
+  "juz_number": 25,
+  "text_uthmani": "ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 57961,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_001.mp3",
+      "text": "ٱلْأَخِلَّآءُ",
+      "translation": "sahabat-sahabat akrab",
+      "transliteration": "al-akhilāu"
+    },
+    {
+      "id": 57962,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_002.mp3",
+      "text": "يَوْمَئِذٍۭ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 57963,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_003.mp3",
+      "text": "بَعْضُهُمْ",
+      "translation": "sebagian mereka",
+      "transliteration": "baʿḍuhum"
+    },
+    {
+      "id": 57964,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_004.mp3",
+      "text": "لِبَعْضٍ",
+      "translation": "bagi sebagian",
+      "transliteration": "libaʿḍin"
+    },
+    {
+      "id": 57965,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_005.mp3",
+      "text": "عَدُوٌّ",
+      "translation": "musuh",
+      "transliteration": "ʿaduwwun"
+    },
+    {
+      "id": 57966,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_006.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 57967,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_067_007.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 57968,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Teman-teman akrab pada hari itu sebagiannya menjadi musuh bagi sebagian yang lain, kecuali orang-orang yang bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 948370,
+    "timestamp_to": 961510,
+    "duration": 13140,
+    "segments": [
+      [
+        1,
+        948315,
+        952244
+      ],
+      [
+        2,
+        952245,
+        954195
+      ],
+      [
+        3,
+        954195,
+        955225
+      ],
+      [
+        4,
+        955225,
+        956245
+      ],
+      [
+        5,
+        956245,
+        957305
+      ],
+      [
+        6,
+        957305,
+        958005
+      ],
+      [
+        7,
+        958005,
+        961430
+      ]
+    ]
+  }
+}

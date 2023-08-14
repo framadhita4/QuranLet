@@ -1,0 +1,164 @@
+{
+  "id": 3234,
+  "chapter_id": 27,
+  "verse_key": "27:75",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 383,
+  "juz_number": 20,
+  "text_uthmani": "وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 61845,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 61846,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 61847,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_003.mp3",
+      "text": "غَآئِبَةٍۢ",
+      "translation": "yang gaib",
+      "transliteration": "ghāibatin"
+    },
+    {
+      "id": 61848,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 61849,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_005.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 61850,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_006.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan di bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 61851,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_007.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 61852,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_008.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 61853,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_009.mp3",
+      "text": "كِتَـٰبٍۢ",
+      "translation": "kitab",
+      "transliteration": "kitābin"
+    },
+    {
+      "id": 61854,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_075_010.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 61855,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiada sesuatu pun yang gaib di langit dan di bumi, melainkan (terdapat) dalam kitab yang nyata (Lawḥ Maḥfūẓ).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1343660,
+    "timestamp_to": 1358030,
+    "duration": 14370,
+    "segments": [
+      [
+        1,
+        1343635,
+        1344365
+      ],
+      [
+        2,
+        1344365,
+        1344655
+      ],
+      [
+        3,
+        1344655,
+        1348455
+      ],
+      [
+        4,
+        1348455,
+        1348585
+      ],
+      [
+        5,
+        1348585,
+        1351005
+      ],
+      [
+        6,
+        1351005,
+        1352075
+      ],
+      [
+        7,
+        1352075,
+        1352925
+      ],
+      [
+        8,
+        1352925,
+        1353375
+      ],
+      [
+        9,
+        1353375,
+        1354325
+      ],
+      [
+        10,
+        1354325,
+        1357940
+      ]
+    ]
+  }
+}

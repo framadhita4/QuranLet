@@ -1,0 +1,99 @@
+{
+  "id": 5846,
+  "chapter_id": 82,
+  "verse_key": "82:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 19681,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_017_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 19682,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_017_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu melihat",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 19683,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_017_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 19684,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_017_004.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 19685,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_017_005.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 19686,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah hari pembalasan itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 84750,
+    "timestamp_to": 91120,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        84695,
+        85935
+      ],
+      [
+        2,
+        85935,
+        87375
+      ],
+      [
+        3,
+        87375,
+        87835
+      ],
+      [
+        4,
+        87835,
+        88445
+      ],
+      [
+        5,
+        88445,
+        90970
+      ]
+    ]
+  }
+}

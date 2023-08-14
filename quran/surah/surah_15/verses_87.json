@@ -1,0 +1,125 @@
+{
+  "id": 1889,
+  "chapter_id": 15,
+  "verse_key": "15:87",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "وَلَقَدْ ءَاتَيْنَـٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 67007,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 67008,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_002.mp3",
+      "text": "ءَاتَيْنَـٰكَ",
+      "translation": "Kami telah memberikan padamu",
+      "transliteration": "ātaynāka"
+    },
+    {
+      "id": 67009,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_003.mp3",
+      "text": "سَبْعًۭا",
+      "translation": "tujuh",
+      "transliteration": "sabʿan"
+    },
+    {
+      "id": 67010,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_004.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 67011,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_005.mp3",
+      "text": "ٱلْمَثَانِى",
+      "translation": "dua-dua/berulang-ulang",
+      "transliteration": "l-mathānī"
+    },
+    {
+      "id": 67012,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_006.mp3",
+      "text": "وَٱلْقُرْءَانَ",
+      "translation": "dan Al Quran",
+      "transliteration": "wal-qur'āna"
+    },
+    {
+      "id": 67013,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_087_007.mp3",
+      "text": "ٱلْعَظِيمَ",
+      "translation": "agung",
+      "transliteration": "l-ʿaẓīma"
+    },
+    {
+      "id": 67014,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٧",
+      "translation": "(87)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah berikan kepadamu tujuh ayat yang dibaca berulang-ulang <sup foot_note_id=\"814\">1</sup> dan Al-Qur`ān yang agung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 836420,
+    "timestamp_to": 846820,
+    "duration": 10400,
+    "segments": [
+      [
+        1,
+        836395,
+        837195
+      ],
+      [
+        2,
+        837195,
+        838815
+      ],
+      [
+        3,
+        838815,
+        839565
+      ],
+      [
+        4,
+        839565,
+        840785
+      ],
+      [
+        5,
+        840785,
+        842165
+      ],
+      [
+        6,
+        842165,
+        843685
+      ],
+      [
+        7,
+        843685,
+        846770
+      ]
+    ]
+  }
+}

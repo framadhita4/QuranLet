@@ -1,0 +1,86 @@
+{
+  "id": 5328,
+  "chapter_id": 69,
+  "verse_key": "69:5",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 5275,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_005_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 5276,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_005_002.mp3",
+      "text": "ثَمُودُ",
+      "translation": "kaum Tsamud",
+      "transliteration": "thamūdu"
+    },
+    {
+      "id": 5277,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_005_003.mp3",
+      "text": "فَأُهْلِكُوا۟",
+      "translation": "maka mereka dibinasakan",
+      "transliteration": "fa-uh'likū"
+    },
+    {
+      "id": 5278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_005_004.mp3",
+      "text": "بِٱلطَّاغِيَةِ",
+      "translation": "dengan teriakan/kejadian luar biasa",
+      "transliteration": "bil-ṭāghiyati"
+    },
+    {
+      "id": 5279,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun kaum Ṡamūd, maka mereka telah dibinasakan dengan kejadian yang luar biasa<sup foot_note_id=\"1504\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 25530,
+    "timestamp_to": 31900,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        25465,
+        27295
+      ],
+      [
+        2,
+        27295,
+        28215
+      ],
+      [
+        3,
+        28215,
+        29595
+      ],
+      [
+        4,
+        29595,
+        31780
+      ]
+    ]
+  }
+}

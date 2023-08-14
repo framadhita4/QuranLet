@@ -1,0 +1,99 @@
+{
+  "id": 2252,
+  "chapter_id": 19,
+  "verse_key": "19:2",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "page_number": 305,
+  "juz_number": 16,
+  "text_uthmani": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 1025,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_001.mp3",
+      "text": "ذِكْرُ",
+      "translation": "peringatan/penjelasan",
+      "transliteration": "dhik'ru"
+    },
+    {
+      "id": 1026,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_002.mp3",
+      "text": "رَحْمَتِ",
+      "translation": "rahmat",
+      "transliteration": "raḥmati"
+    },
+    {
+      "id": 1027,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 1028,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_004.mp3",
+      "text": "عَبْدَهُۥ",
+      "translation": "hambaNya",
+      "transliteration": "ʿabdahu"
+    },
+    {
+      "id": 1029,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_005.mp3",
+      "text": "زَكَرِيَّآ",
+      "translation": "Zakariya",
+      "transliteration": "zakariyyā"
+    },
+    {
+      "id": 1030,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yang dibacakan ini adalah) penjelasan tentang rahmat Tuhan kamu kepada hamba-Nya, Zakariyyā,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13740,
+    "timestamp_to": 19540,
+    "duration": 5800,
+    "segments": [
+      [
+        1,
+        13715,
+        14515
+      ],
+      [
+        2,
+        14515,
+        15365
+      ],
+      [
+        3,
+        15365,
+        16195
+      ],
+      [
+        4,
+        16195,
+        17285
+      ],
+      [
+        5,
+        17285,
+        18800
+      ]
+    ]
+  }
+}

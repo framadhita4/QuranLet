@@ -1,0 +1,99 @@
+{
+  "id": 5357,
+  "chapter_id": 69,
+  "verse_key": "69:34",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 36445,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_034_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 36446,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_034_002.mp3",
+      "text": "يَحُضُّ",
+      "translation": "ia menganjurkan",
+      "transliteration": "yaḥuḍḍu"
+    },
+    {
+      "id": 36447,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_034_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "untuk",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 36448,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_034_004.mp3",
+      "text": "طَعَامِ",
+      "translation": "memberi makan",
+      "transliteration": "ṭaʿāmi"
+    },
+    {
+      "id": 36449,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_034_005.mp3",
+      "text": "ٱلْمِسْكِينِ",
+      "translation": "orang-orang miskin",
+      "transliteration": "l-mis'kīni"
+    },
+    {
+      "id": 36450,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan juga dia tidak mendorong (orang lain) untuk memberi makan orang miskin.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 262170,
+    "timestamp_to": 268990,
+    "duration": 6820,
+    "segments": [
+      [
+        1,
+        262105,
+        262825
+      ],
+      [
+        2,
+        262825,
+        263725
+      ],
+      [
+        3,
+        263725,
+        264235
+      ],
+      [
+        4,
+        264235,
+        265215
+      ],
+      [
+        5,
+        265215,
+        268870
+      ]
+    ]
+  }
+}

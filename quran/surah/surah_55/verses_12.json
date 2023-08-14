@@ -1,0 +1,86 @@
+{
+  "id": 4913,
+  "chapter_id": 55,
+  "verse_key": "55:12",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 13820,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_012_001.mp3",
+      "text": "وَٱلْحَبُّ",
+      "translation": "dan biji-bijian",
+      "transliteration": "wal-ḥabu"
+    },
+    {
+      "id": 13821,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_012_002.mp3",
+      "text": "ذُو",
+      "translation": "mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 13822,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_012_003.mp3",
+      "text": "ٱلْعَصْفِ",
+      "translation": "kulit",
+      "transliteration": "l-ʿaṣfi"
+    },
+    {
+      "id": 13823,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_012_004.mp3",
+      "text": "وَٱلرَّيْحَانُ",
+      "translation": "dan harum baunya",
+      "transliteration": "wal-rayḥānu"
+    },
+    {
+      "id": 13824,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71030,
+    "timestamp_to": 77670,
+    "duration": 6640,
+    "segments": [
+      [
+        1,
+        70715,
+        71825
+      ],
+      [
+        2,
+        71825,
+        72015
+      ],
+      [
+        3,
+        72015,
+        73015
+      ],
+      [
+        4,
+        73015,
+        77280
+      ]
+    ]
+  }
+}

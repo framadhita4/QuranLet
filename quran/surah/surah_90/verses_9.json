@@ -1,0 +1,60 @@
+{
+  "id": 6032,
+  "chapter_id": 90,
+  "verse_key": "90:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 10454,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_009_001.mp3",
+      "text": "وَلِسَانًۭا",
+      "translation": "dan lisan/lidah",
+      "transliteration": "walisānan"
+    },
+    {
+      "id": 10455,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_009_002.mp3",
+      "text": "وَشَفَتَيْنِ",
+      "translation": "dan dua buah bibir",
+      "transliteration": "washafatayni"
+    },
+    {
+      "id": 10456,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lidah, dan dua buah bibir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41450,
+    "timestamp_to": 47350,
+    "duration": 5900,
+    "segments": [
+      [
+        1,
+        41365,
+        43575
+      ],
+      [
+        2,
+        43575,
+        47190
+      ]
+    ]
+  }
+}

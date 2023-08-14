@@ -1,0 +1,164 @@
+{
+  "id": 2753,
+  "chapter_id": 23,
+  "verse_key": "23:80",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَـٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 64378,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 64379,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 64380,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_003.mp3",
+      "text": "يُحْىِۦ",
+      "translation": "menghidupkan",
+      "transliteration": "yuḥ'yī"
+    },
+    {
+      "id": 64381,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_004.mp3",
+      "text": "وَيُمِيتُ",
+      "translation": "dan yang mematikan",
+      "transliteration": "wayumītu"
+    },
+    {
+      "id": 64382,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_005.mp3",
+      "text": "وَلَهُ",
+      "translation": "baginya",
+      "transliteration": "walahu"
+    },
+    {
+      "id": 64383,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_006.mp3",
+      "text": "ٱخْتِلَـٰفُ",
+      "translation": "perselisihan/pertukaran",
+      "transliteration": "ikh'tilāfu"
+    },
+    {
+      "id": 64384,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_007.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 64385,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_008.mp3",
+      "text": "وَٱلنَّهَارِ ۚ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāri"
+    },
+    {
+      "id": 64387,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_010.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 64388,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_080_011.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 64389,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah yang menghidupkan dan mematikan dan Dia-lah yang (mengatur) pertukaran malam dan siang.  Maka apakah kamu tidak memahaminya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1016440,
+    "timestamp_to": 1030650,
+    "duration": 14210,
+    "segments": [
+      [
+        1,
+        1016415,
+        1017005
+      ],
+      [
+        2,
+        1017005,
+        1017855
+      ],
+      [
+        3,
+        1017855,
+        1018685
+      ],
+      [
+        4,
+        1018685,
+        1019695
+      ],
+      [
+        5,
+        1019695,
+        1020245
+      ],
+      [
+        6,
+        1020245,
+        1021185
+      ],
+      [
+        7,
+        1021185,
+        1021995
+      ],
+      [
+        8,
+        1021995,
+        1025714
+      ],
+      [
+        9,
+        1025715,
+        1026925
+      ],
+      [
+        10,
+        1026925,
+        1030600
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1446,
+  "chapter_id": 10,
+  "verse_key": "10:82",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "ruku_number": 179,
+  "manzil_number": 3,
+  "page_number": 218,
+  "juz_number": 11,
+  "text_uthmani": "وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 65229,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_001.mp3",
+      "text": "وَيُحِقُّ",
+      "translation": "dan membenarkan",
+      "transliteration": "wayuḥiqqu"
+    },
+    {
+      "id": 65230,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 65231,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_003.mp3",
+      "text": "ٱلْحَقَّ",
+      "translation": "yang benar",
+      "transliteration": "l-ḥaqa"
+    },
+    {
+      "id": 65232,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_004.mp3",
+      "text": "بِكَلِمَـٰتِهِۦ",
+      "translation": "dengan kalimatNya",
+      "transliteration": "bikalimātihi"
+    },
+    {
+      "id": 65233,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_005.mp3",
+      "text": "وَلَوْ",
+      "translation": "walaupun",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 65234,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_006.mp3",
+      "text": "كَرِهَ",
+      "translation": "tidak menyukai",
+      "transliteration": "kariha"
+    },
+    {
+      "id": 65235,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_082_007.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berbuat dosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 65236,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah akan mengukuhkan yang benar dengan ketetapan-Nya, walaupun orang-orang yang berbuat dosa tidak menyukai(nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2069040,
+    "timestamp_to": 2078710,
+    "duration": 9670,
+    "segments": [
+      [
+        1,
+        2068985,
+        2070065
+      ],
+      [
+        2,
+        2070065,
+        2070945
+      ],
+      [
+        3,
+        2070945,
+        2071825
+      ],
+      [
+        4,
+        2071825,
+        2073605
+      ],
+      [
+        5,
+        2073605,
+        2074165
+      ],
+      [
+        6,
+        2074165,
+        2074765
+      ],
+      [
+        7,
+        2074765,
+        2078630
+      ]
+    ]
+  }
+}

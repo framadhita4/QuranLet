@@ -1,0 +1,86 @@
+{
+  "id": 3919,
+  "chapter_id": 37,
+  "verse_key": "37:131",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78029,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_131_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 78030,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_131_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 78031,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_131_003.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 78032,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_131_004.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 78033,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٣١",
+      "translation": "(131)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya demikianlah, Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1072140,
+    "timestamp_to": 1078640,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        1072075,
+        1073695
+      ],
+      [
+        2,
+        1073695,
+        1074775
+      ],
+      [
+        3,
+        1074775,
+        1075375
+      ],
+      [
+        4,
+        1075375,
+        1078520
+      ]
+    ]
+  }
+}

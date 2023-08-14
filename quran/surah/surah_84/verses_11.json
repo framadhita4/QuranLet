@@ -1,0 +1,73 @@
+{
+  "id": 5895,
+  "chapter_id": 84,
+  "verse_key": "84:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 13020,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_011_001.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka nanti",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 13021,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_011_002.mp3",
+      "text": "يَدْعُوا۟",
+      "translation": "mereka berseru/berteriak",
+      "transliteration": "yadʿū"
+    },
+    {
+      "id": 13022,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_011_003.mp3",
+      "text": "ثُبُورًۭا",
+      "translation": "kebinasaan/kecelakaan",
+      "transliteration": "thubūran"
+    },
+    {
+      "id": 13023,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dia akan berteriak, \"Celakalah aku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 59940,
+    "timestamp_to": 63210,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        59895,
+        60695
+      ],
+      [
+        2,
+        60695,
+        61445
+      ],
+      [
+        3,
+        61445,
+        63110
+      ]
+    ]
+  }
+}

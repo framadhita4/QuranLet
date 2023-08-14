@@ -1,0 +1,112 @@
+{
+  "id": 3777,
+  "chapter_id": 36,
+  "verse_key": "36:72",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 387,
+  "manzil_number": 5,
+  "page_number": 445,
+  "juz_number": 23,
+  "text_uthmani": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 60840,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_072_001.mp3",
+      "text": "وَذَلَّلْنَـٰهَا",
+      "translation": "dan Kami tundukkannya",
+      "transliteration": "wadhallalnāhā"
+    },
+    {
+      "id": 60841,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_072_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "untuk mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 60842,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_072_003.mp3",
+      "text": "فَمِنْهَا",
+      "translation": "maka sebagiannya",
+      "transliteration": "famin'hā"
+    },
+    {
+      "id": 60843,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_072_004.mp3",
+      "text": "رَكُوبُهُمْ",
+      "translation": "tunggangan mereka",
+      "transliteration": "rakūbuhum"
+    },
+    {
+      "id": 60844,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_072_005.mp3",
+      "text": "وَمِنْهَا",
+      "translation": "dan sebagiannya",
+      "transliteration": "wamin'hā"
+    },
+    {
+      "id": 60845,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_072_006.mp3",
+      "text": "يَأْكُلُونَ",
+      "translation": "mereka makan",
+      "transliteration": "yakulūna"
+    },
+    {
+      "id": 60846,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tundukkan binatang-binatang itu untuk mereka, maka sebagiannya menjadi tunggangan mereka dan sebagiannya mereka makan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 900570,
+    "timestamp_to": 910260,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        900485,
+        902415
+      ],
+      [
+        2,
+        902415,
+        902945
+      ],
+      [
+        3,
+        902945,
+        904025
+      ],
+      [
+        4,
+        904025,
+        905395
+      ],
+      [
+        5,
+        905395,
+        906415
+      ],
+      [
+        6,
+        906415,
+        910110
+      ]
+    ]
+  }
+}

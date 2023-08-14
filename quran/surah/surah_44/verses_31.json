@@ -1,0 +1,125 @@
+{
+  "id": 4445,
+  "chapter_id": 44,
+  "verse_key": "44:31",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 434,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 33393,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 33394,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_002.mp3",
+      "text": "فِرْعَوْنَ ۚ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 33396,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_004.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 33397,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_005.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 33398,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_006.mp3",
+      "text": "عَالِيًۭا",
+      "translation": "tinggi/sombong",
+      "transliteration": "ʿāliyan"
+    },
+    {
+      "id": 33399,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_007.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 33400,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_031_008.mp3",
+      "text": "ٱلْمُسْرِفِينَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "l-mus'rifīna"
+    },
+    {
+      "id": 33401,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari (azab) Firʻawn .  Sesungguhnya dia adalah orang yang sombong; salah seorang dari orang-orang yang melampaui batas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 307550,
+    "timestamp_to": 319980,
+    "duration": 12440,
+    "segments": [
+      [
+        1,
+        307525,
+        308875
+      ],
+      [
+        2,
+        308875,
+        312575
+      ],
+      [
+        3,
+        312575,
+        313955
+      ],
+      [
+        4,
+        313955,
+        314585
+      ],
+      [
+        5,
+        314585,
+        315695
+      ],
+      [
+        6,
+        315695,
+        316695
+      ],
+      [
+        7,
+        316695,
+        319900
+      ]
+    ]
+  }
+}

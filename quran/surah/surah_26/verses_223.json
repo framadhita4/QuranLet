@@ -1,0 +1,86 @@
+{
+  "id": 3155,
+  "chapter_id": 26,
+  "verse_key": "26:223",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَـٰذِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 86116,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_001.mp3",
+      "text": "يُلْقُونَ",
+      "translation": "mereka melemparkan/menyampaikan",
+      "transliteration": "yul'qūna"
+    },
+    {
+      "id": 86117,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_002.mp3",
+      "text": "ٱلسَّمْعَ",
+      "translation": "pendengaran",
+      "transliteration": "l-samʿa"
+    },
+    {
+      "id": 86118,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_003.mp3",
+      "text": "وَأَكْثَرُهُمْ",
+      "translation": "dan kebanyakan mereka",
+      "transliteration": "wa-aktharuhum"
+    },
+    {
+      "id": 86119,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_004.mp3",
+      "text": "كَـٰذِبُونَ",
+      "translation": "orang-orang yang berdusta",
+      "transliteration": "kādhibūna"
+    },
+    {
+      "id": 86120,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٢٣",
+      "translation": "(223)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka menghadapkan pendengaran (kepada setan) itu dan kebanyakan mereka adalah orang-orang pendusta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1908190,
+    "timestamp_to": 1914980,
+    "duration": 6790,
+    "segments": [
+      [
+        1,
+        1908145,
+        1909175
+      ],
+      [
+        2,
+        1909175,
+        1910195
+      ],
+      [
+        3,
+        1910195,
+        1911555
+      ],
+      [
+        4,
+        1911555,
+        1914910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5750,
+  "chapter_id": 79,
+  "verse_key": "79:38",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 39875,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_038_001.mp3",
+      "text": "وَءَاثَرَ",
+      "translation": "dan ia senang/mengutamakan",
+      "transliteration": "waāthara"
+    },
+    {
+      "id": 39876,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_038_002.mp3",
+      "text": "ٱلْحَيَوٰةَ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayata"
+    },
+    {
+      "id": 39877,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_038_003.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 39878,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan lebih mengutamakan kehidupan dunia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 177200,
+    "timestamp_to": 180990,
+    "duration": 3790,
+    "segments": [
+      [
+        1,
+        177135,
+        178175
+      ],
+      [
+        2,
+        178175,
+        179285
+      ],
+      [
+        3,
+        179285,
+        180590
+      ]
+    ]
+  }
+}

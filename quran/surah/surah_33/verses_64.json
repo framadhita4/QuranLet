@@ -1,0 +1,125 @@
+{
+  "id": 3597,
+  "chapter_id": 33,
+  "verse_key": "33:64",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "ruku_number": 370,
+  "manzil_number": 5,
+  "page_number": 427,
+  "juz_number": 22,
+  "text_uthmani": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 56903,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 56904,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 56905,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_003.mp3",
+      "text": "لَعَنَ",
+      "translation": "mengutuk",
+      "transliteration": "laʿana"
+    },
+    {
+      "id": 56906,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_004.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 56907,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_005.mp3",
+      "text": "وَأَعَدَّ",
+      "translation": "dan Dia menyediakan",
+      "transliteration": "wa-aʿadda"
+    },
+    {
+      "id": 56908,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 56909,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_064_007.mp3",
+      "text": "سَعِيرًا",
+      "translation": "api yang menyala-nyala",
+      "transliteration": "saʿīran"
+    },
+    {
+      "id": 56910,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah melaknati orang-orang kafir dan menyediakan bagi mereka api yang menyala-nyala (neraka),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1450510,
+    "timestamp_to": 1457480,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        1450465,
+        1451545
+      ],
+      [
+        2,
+        1451545,
+        1452315
+      ],
+      [
+        3,
+        1452315,
+        1452865
+      ],
+      [
+        4,
+        1452865,
+        1454365
+      ],
+      [
+        5,
+        1454365,
+        1455355
+      ],
+      [
+        6,
+        1455355,
+        1455835
+      ],
+      [
+        7,
+        1455835,
+        1457400
+      ]
+    ]
+  }
+}

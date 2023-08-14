@@ -1,0 +1,73 @@
+{
+  "id": 4550,
+  "chapter_id": 47,
+  "verse_key": "47:5",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3",
+  "words": [
+    {
+      "id": 4796,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_005_001.mp3",
+      "text": "سَيَهْدِيهِمْ",
+      "translation": "Dia akan memberi petunjuk mereka",
+      "transliteration": "sayahdīhim"
+    },
+    {
+      "id": 4797,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_005_002.mp3",
+      "text": "وَيُصْلِحُ",
+      "translation": "dan Dia akan memperbaiki",
+      "transliteration": "wayuṣ'liḥu"
+    },
+    {
+      "id": 4798,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_005_003.mp3",
+      "text": "بَالَهُمْ",
+      "translation": "keadaan mereka",
+      "transliteration": "bālahum"
+    },
+    {
+      "id": 4799,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah akan memberi pimpinan kepada mereka dan memperbaiki keadaan mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 97650,
+    "timestamp_to": 101780,
+    "duration": 4130,
+    "segments": [
+      [
+        1,
+        97615,
+        99225
+      ],
+      [
+        2,
+        99225,
+        100215
+      ],
+      [
+        3,
+        100215,
+        101710
+      ]
+    ]
+  }
+}

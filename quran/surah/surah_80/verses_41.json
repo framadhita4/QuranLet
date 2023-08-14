@@ -1,0 +1,60 @@
+{
+  "id": 5799,
+  "chapter_id": 80,
+  "verse_key": "80:41",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "تَرْهَقُهَا قَتَرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 42285,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_041_001.mp3",
+      "text": "تَرْهَقُهَا",
+      "translation": "menutupinya",
+      "transliteration": "tarhaquhā"
+    },
+    {
+      "id": 42286,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_041_002.mp3",
+      "text": "قَتَرَةٌ",
+      "translation": "kegelapan",
+      "transliteration": "qataratun"
+    },
+    {
+      "id": 42287,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan ditutup lagi oleh kegelapan<sup foot_note_id=\"1560\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 192850,
+    "timestamp_to": 195490,
+    "duration": 2640,
+    "segments": [
+      [
+        1,
+        192785,
+        194115
+      ],
+      [
+        2,
+        194115,
+        195360
+      ]
+    ]
+  }
+}

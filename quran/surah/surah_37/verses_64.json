@@ -1,0 +1,112 @@
+{
+  "id": 3852,
+  "chapter_id": 37,
+  "verse_key": "37:64",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 56651,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_064_001.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 56652,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_064_002.mp3",
+      "text": "شَجَرَةٌۭ",
+      "translation": "pohon",
+      "transliteration": "shajaratun"
+    },
+    {
+      "id": 56653,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_064_003.mp3",
+      "text": "تَخْرُجُ",
+      "translation": "keluar",
+      "transliteration": "takhruju"
+    },
+    {
+      "id": 56654,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_064_004.mp3",
+      "text": "فِىٓ",
+      "translation": "dari",
+      "transliteration": "fī"
+    },
+    {
+      "id": 56655,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_064_005.mp3",
+      "text": "أَصْلِ",
+      "translation": "asal/dasar",
+      "transliteration": "aṣli"
+    },
+    {
+      "id": 56656,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_064_006.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka yang menyala",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 56657,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia adalah sebatang pohon yang ke luar dari dasar neraka Jaḥīm.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 534080,
+    "timestamp_to": 544060,
+    "duration": 9980,
+    "segments": [
+      [
+        1,
+        534035,
+        535935
+      ],
+      [
+        2,
+        535935,
+        537455
+      ],
+      [
+        3,
+        537455,
+        538695
+      ],
+      [
+        4,
+        538695,
+        540314
+      ],
+      [
+        5,
+        540315,
+        540985
+      ],
+      [
+        6,
+        540985,
+        543940
+      ]
+    ]
+  }
+}

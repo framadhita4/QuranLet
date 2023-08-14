@@ -1,0 +1,99 @@
+{
+  "id": 5938,
+  "chapter_id": 86,
+  "verse_key": "86:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 8081,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_007_001.mp3",
+      "text": "يَخْرُجُ",
+      "translation": "ia keluar",
+      "transliteration": "yakhruju"
+    },
+    {
+      "id": 8082,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_007_002.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 8083,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_007_003.mp3",
+      "text": "بَيْنِ",
+      "translation": "antara",
+      "transliteration": "bayni"
+    },
+    {
+      "id": 8084,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_007_004.mp3",
+      "text": "ٱلصُّلْبِ",
+      "translation": "tulang belakang",
+      "transliteration": "l-ṣul'bi"
+    },
+    {
+      "id": 8085,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_007_005.mp3",
+      "text": "وَٱلتَّرَآئِبِ",
+      "translation": "dan tulang dada",
+      "transliteration": "wal-tarāibi"
+    },
+    {
+      "id": 8086,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang keluar dari antara tulang sulbi laki-laki dan tulang dada.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 34180,
+    "timestamp_to": 41600,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        34035,
+        34945
+      ],
+      [
+        2,
+        34945,
+        36025
+      ],
+      [
+        3,
+        36025,
+        36705
+      ],
+      [
+        4,
+        36705,
+        37605
+      ],
+      [
+        5,
+        37605,
+        41400
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6072,
+  "chapter_id": 92,
+  "verse_key": "92:14",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 16027,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_014_001.mp3",
+      "text": "فَأَنذَرْتُكُمْ",
+      "translation": "maka peringatkanlah",
+      "transliteration": "fa-andhartukum"
+    },
+    {
+      "id": 16028,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_014_002.mp3",
+      "text": "نَارًۭا",
+      "translation": "api neraka",
+      "transliteration": "nāran"
+    },
+    {
+      "id": 16029,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_014_003.mp3",
+      "text": "تَلَظَّىٰ",
+      "translation": "menyala-nyala",
+      "transliteration": "talaẓẓā"
+    },
+    {
+      "id": 16030,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka, kami memperingatkan kamu dengan neraka yang menyala-nyala.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 56430,
+    "timestamp_to": 62200,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        55755,
+        58405
+      ],
+      [
+        2,
+        58405,
+        59765
+      ],
+      [
+        3,
+        59765,
+        61310
+      ]
+    ]
+  }
+}

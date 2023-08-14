@@ -1,0 +1,112 @@
+{
+  "id": 5855,
+  "chapter_id": 83,
+  "verse_key": "83:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 8061,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_007_001.mp3",
+      "text": "كَلَّآ",
+      "translation": "sekali-kali jangan begitu",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 8062,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_007_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 8063,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_007_003.mp3",
+      "text": "كِتَـٰبَ",
+      "translation": "catatan",
+      "transliteration": "kitāba"
+    },
+    {
+      "id": 8064,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_007_004.mp3",
+      "text": "ٱلْفُجَّارِ",
+      "translation": "orang-orang durhaka",
+      "transliteration": "l-fujāri"
+    },
+    {
+      "id": 8065,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_007_005.mp3",
+      "text": "لَفِى",
+      "translation": "dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 8066,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_007_006.mp3",
+      "text": "سِجِّينٍۢ",
+      "translation": "sijjin",
+      "transliteration": "sijjīnin"
+    },
+    {
+      "id": 8067,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali jangan curang, karena sesungguhnya kitab orang yang durhaka tersimpan dalam Sijjīn<sup foot_note_id=\"1563\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42400,
+    "timestamp_to": 52480,
+    "duration": 10080,
+    "segments": [
+      [
+        1,
+        42315,
+        44874
+      ],
+      [
+        2,
+        44875,
+        46015
+      ],
+      [
+        3,
+        46015,
+        46825
+      ],
+      [
+        4,
+        46825,
+        48085
+      ],
+      [
+        5,
+        48085,
+        48645
+      ],
+      [
+        6,
+        48645,
+        52330
+      ]
+    ]
+  }
+}

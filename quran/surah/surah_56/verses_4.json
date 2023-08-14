@@ -1,0 +1,86 @@
+{
+  "id": 4983,
+  "chapter_id": 56,
+  "verse_key": "56:4",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 3582,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_004_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 3583,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_004_002.mp3",
+      "text": "رُجَّتِ",
+      "translation": "digoncangkan",
+      "transliteration": "rujjati"
+    },
+    {
+      "id": 3584,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_004_003.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 3585,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_004_004.mp3",
+      "text": "رَجًّۭا",
+      "translation": "goncangan yang keras",
+      "transliteration": "rajjan"
+    },
+    {
+      "id": 3586,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "apabila bumi digoncangkan sedahsyat-dahsyatnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10920,
+    "timestamp_to": 15050,
+    "duration": 4130,
+    "segments": [
+      [
+        1,
+        10835,
+        11305
+      ],
+      [
+        2,
+        11305,
+        12445
+      ],
+      [
+        3,
+        12445,
+        13345
+      ],
+      [
+        4,
+        13345,
+        14400
+      ]
+    ]
+  }
+}

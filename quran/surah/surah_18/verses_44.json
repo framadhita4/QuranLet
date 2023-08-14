@@ -1,0 +1,151 @@
+{
+  "id": 2184,
+  "chapter_id": 18,
+  "verse_key": "18:44",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "ruku_number": 256,
+  "manzil_number": 4,
+  "page_number": 298,
+  "juz_number": 15,
+  "text_uthmani": "هُنَالِكَ ٱلْوَلَـٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 44281,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_001.mp3",
+      "text": "هُنَالِكَ",
+      "translation": "di sana",
+      "transliteration": "hunālika"
+    },
+    {
+      "id": 44282,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_002.mp3",
+      "text": "ٱلْوَلَـٰيَةُ",
+      "translation": "pertolongan",
+      "transliteration": "l-walāyatu"
+    },
+    {
+      "id": 44283,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_003.mp3",
+      "text": "لِلَّهِ",
+      "translation": "bagi Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 44284,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_004.mp3",
+      "text": "ٱلْحَقِّ ۚ",
+      "translation": "benar",
+      "transliteration": "l-ḥaqi"
+    },
+    {
+      "id": 44286,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_006.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 44287,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_007.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "sebaik-baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 44288,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_008.mp3",
+      "text": "ثَوَابًۭا",
+      "translation": "pahala",
+      "transliteration": "thawāban"
+    },
+    {
+      "id": 44289,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_009.mp3",
+      "text": "وَخَيْرٌ",
+      "translation": "dan sebaik-baik",
+      "transliteration": "wakhayrun"
+    },
+    {
+      "id": 44290,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_044_010.mp3",
+      "text": "عُقْبًۭا",
+      "translation": "balasan",
+      "transliteration": "ʿuq'ban"
+    },
+    {
+      "id": 44291,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di sana pertolongan itu hanya dari Allah yang Hak.  Dia adalah sebaik-baik pemberi pahala dan sebaik-baik pemberi balasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 853230,
+    "timestamp_to": 864650,
+    "duration": 11420,
+    "segments": [
+      [
+        1,
+        853195,
+        854355
+      ],
+      [
+        2,
+        854355,
+        855685
+      ],
+      [
+        3,
+        855685,
+        856745
+      ],
+      [
+        4,
+        856745,
+        858035
+      ],
+      [
+        5,
+        858035,
+        858345
+      ],
+      [
+        6,
+        858345,
+        859485
+      ],
+      [
+        7,
+        859485,
+        860985
+      ],
+      [
+        8,
+        860985,
+        862755
+      ],
+      [
+        9,
+        862755,
+        864140
+      ]
+    ]
+  }
+}

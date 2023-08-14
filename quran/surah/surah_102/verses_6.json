@@ -1,0 +1,60 @@
+{
+  "id": 6174,
+  "chapter_id": 102,
+  "verse_key": "102:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 546,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3",
+  "words": [
+    {
+      "id": 6141,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_006_001.mp3",
+      "text": "لَتَرَوُنَّ",
+      "translation": "sungguh kamu akan melihat",
+      "transliteration": "latarawunna"
+    },
+    {
+      "id": 6142,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_006_002.mp3",
+      "text": "ٱلْجَحِيمَ",
+      "translation": "neraka Jahim",
+      "transliteration": "l-jaḥīma"
+    },
+    {
+      "id": 6143,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya kamu benar-benar akan melihat neraka Jaḥīm,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26140,
+    "timestamp_to": 32230,
+    "duration": 6090,
+    "segments": [
+      [
+        1,
+        26065,
+        28295
+      ],
+      [
+        2,
+        28295,
+        32060
+      ]
+    ]
+  }
+}

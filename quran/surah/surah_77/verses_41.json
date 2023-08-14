@@ -1,0 +1,99 @@
+{
+  "id": 5663,
+  "chapter_id": 77,
+  "verse_key": "77:41",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 42161,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_041_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 42162,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_041_002.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 42163,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_041_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 42164,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_041_004.mp3",
+      "text": "ظِلَـٰلٍۢ",
+      "translation": "naungan",
+      "transliteration": "ẓilālin"
+    },
+    {
+      "id": 42165,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_041_005.mp3",
+      "text": "وَعُيُونٍۢ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 42166,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa berada dalam naungan (yang teduh) dan (di sekitar) mata air-mata air.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 209100,
+    "timestamp_to": 217220,
+    "duration": 8130,
+    "segments": [
+      [
+        1,
+        208815,
+        210185
+      ],
+      [
+        2,
+        210185,
+        211585
+      ],
+      [
+        3,
+        211585,
+        211945
+      ],
+      [
+        4,
+        211945,
+        213684
+      ],
+      [
+        5,
+        213685,
+        216850
+      ]
+    ]
+  }
+}

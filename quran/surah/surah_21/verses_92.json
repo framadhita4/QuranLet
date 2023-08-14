@@ -1,0 +1,138 @@
+{
+  "id": 2575,
+  "chapter_id": 21,
+  "verse_key": "21:92",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 283,
+  "manzil_number": 4,
+  "page_number": 330,
+  "juz_number": 17,
+  "text_uthmani": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 68654,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 68655,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_002.mp3",
+      "text": "هَـٰذِهِۦٓ",
+      "translation": "ini",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 68656,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_003.mp3",
+      "text": "أُمَّتُكُمْ",
+      "translation": "umatmu/agamamu",
+      "transliteration": "ummatukum"
+    },
+    {
+      "id": 68657,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_004.mp3",
+      "text": "أُمَّةًۭ",
+      "translation": "ummat/agama",
+      "transliteration": "ummatan"
+    },
+    {
+      "id": 68658,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_005.mp3",
+      "text": "وَٰحِدَةًۭ",
+      "translation": "yang satu",
+      "transliteration": "wāḥidatan"
+    },
+    {
+      "id": 68659,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_006.mp3",
+      "text": "وَأَنَا۠",
+      "translation": "dan Aku",
+      "transliteration": "wa-anā"
+    },
+    {
+      "id": 68660,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_007.mp3",
+      "text": "رَبُّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbukum"
+    },
+    {
+      "id": 68661,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_092_008.mp3",
+      "text": "فَٱعْبُدُونِ",
+      "translation": "maka sembahlah Aku",
+      "transliteration": "fa-uʿ'budūni"
+    },
+    {
+      "id": 68662,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya (agama Tauhid) ini adalah agama kamu semua; agama yang satu <sup foot_note_id=\"971\">1</sup> dan Aku adalah Tuhan-mu, maka sembahlah Aku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1299320,
+    "timestamp_to": 1312880,
+    "duration": 13560,
+    "segments": [
+      [
+        1,
+        1299295,
+        1300795
+      ],
+      [
+        2,
+        1300795,
+        1303125
+      ],
+      [
+        3,
+        1303126,
+        1305045
+      ],
+      [
+        4,
+        1305045,
+        1307045
+      ],
+      [
+        5,
+        1307045,
+        1308745
+      ],
+      [
+        6,
+        1308745,
+        1309285
+      ],
+      [
+        7,
+        1309285,
+        1310265
+      ],
+      [
+        8,
+        1310265,
+        1312820
+      ]
+    ]
+  }
+}

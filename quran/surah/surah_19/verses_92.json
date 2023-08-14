@@ -1,0 +1,112 @@
+{
+  "id": 2342,
+  "chapter_id": 19,
+  "verse_key": "19:92",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ أَن يَتَّخِذَ وَلَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 68647,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_092_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 68648,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_092_002.mp3",
+      "text": "يَنۢبَغِى",
+      "translation": "layak/patut",
+      "transliteration": "yanbaghī"
+    },
+    {
+      "id": 68649,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_092_003.mp3",
+      "text": "لِلرَّحْمَـٰنِ",
+      "translation": "bagi Yang Maha Pengasih",
+      "transliteration": "lilrraḥmāni"
+    },
+    {
+      "id": 68650,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_092_004.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 68651,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_092_005.mp3",
+      "text": "يَتَّخِذَ",
+      "translation": "Dia mengambil/mempunyai",
+      "transliteration": "yattakhidha"
+    },
+    {
+      "id": 68652,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_092_006.mp3",
+      "text": "وَلَدًا",
+      "translation": "seorang anak",
+      "transliteration": "waladan"
+    },
+    {
+      "id": 68653,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidak layak bagi Tuhan Yang Maha Pemurah mengambil (mempunyai) anak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1202690,
+    "timestamp_to": 1210500,
+    "duration": 7810,
+    "segments": [
+      [
+        1,
+        1202465,
+        1203235
+      ],
+      [
+        2,
+        1203235,
+        1205075
+      ],
+      [
+        3,
+        1205075,
+        1206595
+      ],
+      [
+        4,
+        1206595,
+        1206855
+      ],
+      [
+        5,
+        1206855,
+        1208965
+      ],
+      [
+        6,
+        1208965,
+        1210250
+      ]
+    ]
+  }
+}

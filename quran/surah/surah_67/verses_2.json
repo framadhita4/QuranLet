@@ -1,0 +1,177 @@
+{
+  "id": 5243,
+  "chapter_id": 67,
+  "verse_key": "67:2",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "ruku_number": 498,
+  "manzil_number": 7,
+  "page_number": 562,
+  "juz_number": 29,
+  "text_uthmani": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/67.mp3",
+  "words": [
+    {
+      "id": 1462,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 1463,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_002.mp3",
+      "text": "خَلَقَ",
+      "translation": "menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 1464,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_003.mp3",
+      "text": "ٱلْمَوْتَ",
+      "translation": "kematian",
+      "transliteration": "l-mawta"
+    },
+    {
+      "id": 1465,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_004.mp3",
+      "text": "وَٱلْحَيَوٰةَ",
+      "translation": "dan kehidupan",
+      "transliteration": "wal-ḥayata"
+    },
+    {
+      "id": 1466,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_005.mp3",
+      "text": "لِيَبْلُوَكُمْ",
+      "translation": "karena Dia akan mengujimu",
+      "transliteration": "liyabluwakum"
+    },
+    {
+      "id": 1467,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_006.mp3",
+      "text": "أَيُّكُمْ",
+      "translation": "siapa diantara kamu",
+      "transliteration": "ayyukum"
+    },
+    {
+      "id": 1468,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_007.mp3",
+      "text": "أَحْسَنُ",
+      "translation": "lebih baik",
+      "transliteration": "aḥsanu"
+    },
+    {
+      "id": 1469,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_008.mp3",
+      "text": "عَمَلًۭا ۚ",
+      "translation": "perbuatan",
+      "transliteration": "ʿamalan"
+    },
+    {
+      "id": 1471,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_010.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 1472,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_011.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 1473,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_002_012.mp3",
+      "text": "ٱلْغَفُورُ",
+      "translation": "Maha Pengampun",
+      "transliteration": "l-ghafūru"
+    },
+    {
+      "id": 1474,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang menjadikan mati dan hidup, supaya Dia menguji kamu, siapa di antara kamu yang lebih baik amalnya.  Dan Dia Maha Perkasa lagi Maha Pengampun.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10790,
+    "timestamp_to": 24690,
+    "duration": 13900,
+    "segments": [
+      [
+        1,
+        10725,
+        11775
+      ],
+      [
+        2,
+        11775,
+        12365
+      ],
+      [
+        3,
+        12365,
+        13245
+      ],
+      [
+        4,
+        13245,
+        14485
+      ],
+      [
+        5,
+        14485,
+        15855
+      ],
+      [
+        6,
+        15855,
+        16945
+      ],
+      [
+        7,
+        16945,
+        17705
+      ],
+      [
+        8,
+        17705,
+        19115
+      ],
+      [
+        9,
+        19115,
+        19655
+      ],
+      [
+        10,
+        19655,
+        20775
+      ],
+      [
+        11,
+        20775,
+        24570
+      ]
+    ]
+  }
+}

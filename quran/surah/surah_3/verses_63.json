@@ -1,0 +1,112 @@
+{
+  "id": 356,
+  "chapter_id": 3,
+  "verse_key": "3:63",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "ruku_number": 47,
+  "manzil_number": 1,
+  "page_number": 58,
+  "juz_number": 3,
+  "text_uthmani": "فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 56156,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_063_001.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 56157,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_063_002.mp3",
+      "text": "تَوَلَّوْا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "tawallaw"
+    },
+    {
+      "id": 56158,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_063_003.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 56159,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_063_004.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 56160,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_063_005.mp3",
+      "text": "عَلِيمٌۢ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 56161,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_063_006.mp3",
+      "text": "بِٱلْمُفْسِدِينَ",
+      "translation": "terhadap orang-orang yang berbuat kerusakan",
+      "transliteration": "bil-muf'sidīna"
+    },
+    {
+      "id": 56162,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian jika mereka berpaling (dari kebenaran), maka sesunguhnya Allah Maha Mengetahui orang-orang yang berbuat kerusakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1418150,
+    "timestamp_to": 1429170,
+    "duration": 11020,
+    "segments": [
+      [
+        1,
+        1418125,
+        1419385
+      ],
+      [
+        2,
+        1419385,
+        1420355
+      ],
+      [
+        3,
+        1420355,
+        1421845
+      ],
+      [
+        4,
+        1421845,
+        1422785
+      ],
+      [
+        5,
+        1422785,
+        1424645
+      ],
+      [
+        6,
+        1424645,
+        1429090
+      ]
+    ]
+  }
+}

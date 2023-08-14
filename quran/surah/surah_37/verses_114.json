@@ -1,0 +1,99 @@
+{
+  "id": 3902,
+  "chapter_id": 37,
+  "verse_key": "37:114",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 75281,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_114_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 75282,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_114_002.mp3",
+      "text": "مَنَنَّا",
+      "translation": "Kami telah melimpahkan karunia",
+      "transliteration": "manannā"
+    },
+    {
+      "id": 75283,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_114_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 75284,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_114_004.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 75285,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_114_005.mp3",
+      "text": "وَهَـٰرُونَ",
+      "translation": "dan Harun",
+      "transliteration": "wahārūna"
+    },
+    {
+      "id": 75286,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١٤",
+      "translation": "(114)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Kami telah melimpahkan nikmat atas Musa dan Hārūn.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 953250,
+    "timestamp_to": 960170,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        953165,
+        954105
+      ],
+      [
+        2,
+        954105,
+        955585
+      ],
+      [
+        3,
+        955585,
+        956195
+      ],
+      [
+        4,
+        956195,
+        957045
+      ],
+      [
+        5,
+        957045,
+        960010
+      ]
+    ]
+  }
+}

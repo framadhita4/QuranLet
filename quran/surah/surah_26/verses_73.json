@@ -1,0 +1,86 @@
+{
+  "id": 3005,
+  "chapter_id": 26,
+  "verse_key": "26:73",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 61096,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_073_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 61097,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_073_002.mp3",
+      "text": "يَنفَعُونَكُمْ",
+      "translation": "mereka memberi manfaat kepadamu",
+      "transliteration": "yanfaʿūnakum"
+    },
+    {
+      "id": 61098,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_073_003.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 61099,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_073_004.mp3",
+      "text": "يَضُرُّونَ",
+      "translation": "mereka memberi mudarat",
+      "transliteration": "yaḍurrūna"
+    },
+    {
+      "id": 61100,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau (dapatkah) mereka memberi manfaat kepadamu atau memberi mudarat?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 721330,
+    "timestamp_to": 727910,
+    "duration": 6580,
+    "segments": [
+      [
+        1,
+        721265,
+        721705
+      ],
+      [
+        2,
+        721705,
+        723905
+      ],
+      [
+        3,
+        723905,
+        724315
+      ],
+      [
+        4,
+        724315,
+        727800
+      ]
+    ]
+  }
+}

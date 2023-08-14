@@ -1,0 +1,73 @@
+{
+  "id": 5655,
+  "chapter_id": 77,
+  "verse_key": "77:33",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 35562,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_033_001.mp3",
+      "text": "كَأَنَّهُۥ",
+      "translation": "seolah-olah ia",
+      "transliteration": "ka-annahu"
+    },
+    {
+      "id": 35563,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_033_002.mp3",
+      "text": "جِمَـٰلَتٌۭ",
+      "translation": "unta-unta",
+      "transliteration": "jimālatun"
+    },
+    {
+      "id": 35564,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_033_003.mp3",
+      "text": "صُفْرٌۭ",
+      "translation": "kuning",
+      "transliteration": "ṣuf'run"
+    },
+    {
+      "id": 35565,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Seolah-olah ia iringan unta yang kuning.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 158610,
+    "timestamp_to": 163520,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        158535,
+        160275
+      ],
+      [
+        2,
+        160275,
+        162385
+      ],
+      [
+        3,
+        162385,
+        163330
+      ]
+    ]
+  }
+}

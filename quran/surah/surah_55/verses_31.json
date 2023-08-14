@@ -1,0 +1,86 @@
+{
+  "id": 4932,
+  "chapter_id": 55,
+  "verse_key": "55:31",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 33861,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_031_001.mp3",
+      "text": "سَنَفْرُغُ",
+      "translation": "Kami akan berurusan/bertindak",
+      "transliteration": "sanafrughu"
+    },
+    {
+      "id": 33862,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_031_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 33863,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_031_003.mp3",
+      "text": "أَيُّهَ",
+      "translation": "wahai",
+      "transliteration": "ayyuha"
+    },
+    {
+      "id": 33864,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_031_004.mp3",
+      "text": "ٱلثَّقَلَانِ",
+      "translation": "manusia dan jin",
+      "transliteration": "l-thaqalāni"
+    },
+    {
+      "id": 33865,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami akan memperhatikan sepenuhnya kepadamu, hai manusia dan jin.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 230530,
+    "timestamp_to": 237060,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        230475,
+        231615
+      ],
+      [
+        2,
+        231615,
+        232235
+      ],
+      [
+        3,
+        232235,
+        233125
+      ],
+      [
+        4,
+        233125,
+        236940
+      ]
+    ]
+  }
+}

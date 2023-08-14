@@ -1,0 +1,73 @@
+{
+  "id": 6086,
+  "chapter_id": 93,
+  "verse_key": "93:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 7732,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_007_001.mp3",
+      "text": "وَوَجَدَكَ",
+      "translation": "dan Dia mendapatimu",
+      "transliteration": "wawajadaka"
+    },
+    {
+      "id": 7733,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_007_002.mp3",
+      "text": "ضَآلًّۭا",
+      "translation": "sesat/bingung",
+      "transliteration": "ḍāllan"
+    },
+    {
+      "id": 7734,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_007_003.mp3",
+      "text": "فَهَدَىٰ",
+      "translation": "lalu Dia memberi petunjuk",
+      "transliteration": "fahadā"
+    },
+    {
+      "id": 7735,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia mendapatimu sebagai seorang yang bingung<sup foot_note_id=\"1584\">1</sup>, lalu Dia memberikan petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24700,
+    "timestamp_to": 31810,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        24155,
+        25285
+      ],
+      [
+        2,
+        25285,
+        29654
+      ],
+      [
+        3,
+        29655,
+        30770
+      ]
+    ]
+  }
+}

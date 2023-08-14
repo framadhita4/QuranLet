@@ -1,0 +1,99 @@
+{
+  "id": 3763,
+  "chapter_id": 36,
+  "verse_key": "36:58",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "سَلَـٰمٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 53573,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_058_001.mp3",
+      "text": "سَلَـٰمٌۭ",
+      "translation": "penghormatan/sejahtera",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 53574,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_058_002.mp3",
+      "text": "قَوْلًۭا",
+      "translation": "perkataan/kata",
+      "transliteration": "qawlan"
+    },
+    {
+      "id": 53575,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_058_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 53576,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_058_004.mp3",
+      "text": "رَّبٍّۢ",
+      "translation": "Tuhan",
+      "transliteration": "rabbin"
+    },
+    {
+      "id": 53577,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_058_005.mp3",
+      "text": "رَّحِيمٍۢ",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīmin"
+    },
+    {
+      "id": 53578,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Kepada mereka dikatakan), \"Salām\", sebagai ucapan selamat dari Tuhan Yang Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 727840,
+    "timestamp_to": 735830,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        727765,
+        729225
+      ],
+      [
+        2,
+        729225,
+        731015
+      ],
+      [
+        3,
+        731015,
+        731345
+      ],
+      [
+        4,
+        731345,
+        732275
+      ],
+      [
+        5,
+        732275,
+        735700
+      ]
+    ]
+  }
+}

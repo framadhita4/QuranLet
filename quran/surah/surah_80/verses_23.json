@@ -1,0 +1,99 @@
+{
+  "id": 5781,
+  "chapter_id": 80,
+  "verse_key": "80:23",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 26068,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_023_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali jangan",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 26069,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_023_002.mp3",
+      "text": "لَمَّا",
+      "translation": "belum",
+      "transliteration": "lammā"
+    },
+    {
+      "id": 26070,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_023_003.mp3",
+      "text": "يَقْضِ",
+      "translation": "ia melaksanakan",
+      "transliteration": "yaqḍi"
+    },
+    {
+      "id": 26071,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_023_004.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 26072,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_023_005.mp3",
+      "text": "أَمَرَهُۥ",
+      "translation": "Dia perintahkan kepadanya",
+      "transliteration": "amarahu"
+    },
+    {
+      "id": 26073,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali jangan; manusia itu belum melaksanakan apa yang diperintahkan Allah kepadanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 95210,
+    "timestamp_to": 101710,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        95135,
+        96055
+      ],
+      [
+        2,
+        96055,
+        97545
+      ],
+      [
+        3,
+        97545,
+        98305
+      ],
+      [
+        4,
+        98305,
+        100235
+      ],
+      [
+        5,
+        100235,
+        101570
+      ]
+    ]
+  }
+}

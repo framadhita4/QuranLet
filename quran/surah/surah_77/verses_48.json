@@ -1,0 +1,112 @@
+{
+  "id": 5670,
+  "chapter_id": 77,
+  "verse_key": "77:48",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 47388,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_048_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 47389,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_048_002.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 47390,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_048_003.mp3",
+      "text": "لَهُمُ",
+      "translation": "kepada mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 47391,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_048_004.mp3",
+      "text": "ٱرْكَعُوا۟",
+      "translation": "tunduklah",
+      "transliteration": "ir'kaʿū"
+    },
+    {
+      "id": 47392,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_048_005.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 47393,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_048_006.mp3",
+      "text": "يَرْكَعُونَ",
+      "translation": "mereka tunduk",
+      "transliteration": "yarkaʿūna"
+    },
+    {
+      "id": 47394,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila dikatakan kepada mereka, \"Rukuklah\", niscaya mereka tidak mau rukuk.<sup foot_note_id=\"1544\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 259590,
+    "timestamp_to": 266150,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        259495,
+        260335
+      ],
+      [
+        2,
+        260335,
+        260965
+      ],
+      [
+        3,
+        260965,
+        261555
+      ],
+      [
+        4,
+        261555,
+        262345
+      ],
+      [
+        5,
+        262345,
+        262725
+      ],
+      [
+        6,
+        262725,
+        265940
+      ]
+    ]
+  }
+}

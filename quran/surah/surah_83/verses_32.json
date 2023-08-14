@@ -1,0 +1,112 @@
+{
+  "id": 5880,
+  "chapter_id": 83,
+  "verse_key": "83:32",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 34781,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_032_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 34782,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_032_002.mp3",
+      "text": "رَأَوْهُمْ",
+      "translation": "mereka melihat",
+      "transliteration": "ra-awhum"
+    },
+    {
+      "id": 34783,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_032_003.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 34784,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_032_004.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 34785,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_032_005.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu (orang-orang beriman)",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 34786,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_032_006.mp3",
+      "text": "لَضَآلُّونَ",
+      "translation": "orang-orang sesat",
+      "transliteration": "laḍāllūna"
+    },
+    {
+      "id": 34787,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila mereka melihat orang-orang mukmin, mereka mengatakan, \"Sesungguhnya mereka itu benar-benar orang-orang yang sesat\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 239290,
+    "timestamp_to": 254410,
+    "duration": 15130,
+    "segments": [
+      [
+        1,
+        239235,
+        240075
+      ],
+      [
+        2,
+        240075,
+        241085
+      ],
+      [
+        3,
+        241085,
+        243085
+      ],
+      [
+        4,
+        243085,
+        244335
+      ],
+      [
+        5,
+        244335,
+        248135
+      ],
+      [
+        6,
+        248135,
+        254310
+      ]
+    ]
+  }
+}

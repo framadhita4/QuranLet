@@ -1,0 +1,164 @@
+{
+  "id": 1200,
+  "chapter_id": 8,
+  "verse_key": "8:40",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "ruku_number": 150,
+  "manzil_number": 2,
+  "page_number": 181,
+  "juz_number": 9,
+  "text_uthmani": "وَإِن تَوَلَّوْا۟ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَوْلَىٰكُمْ ۚ نِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 41234,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 41235,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_002.mp3",
+      "text": "تَوَلَّوْا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "tawallaw"
+    },
+    {
+      "id": 41236,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_003.mp3",
+      "text": "فَٱعْلَمُوٓا۟",
+      "translation": "maka ketahuilah",
+      "transliteration": "fa-iʿ'lamū"
+    },
+    {
+      "id": 41237,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_004.mp3",
+      "text": "أَنَّ",
+      "translation": "bahwasanya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 41238,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_005.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 41239,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_006.mp3",
+      "text": "مَوْلَىٰكُمْ ۚ",
+      "translation": "Pelindungmu",
+      "transliteration": "mawlākum"
+    },
+    {
+      "id": 41241,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_008.mp3",
+      "text": "نِعْمَ",
+      "translation": "sebaik-baik",
+      "transliteration": "niʿ'ma"
+    },
+    {
+      "id": 41242,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_009.mp3",
+      "text": "ٱلْمَوْلَىٰ",
+      "translation": "Pelindung",
+      "transliteration": "l-mawlā"
+    },
+    {
+      "id": 41243,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_010.mp3",
+      "text": "وَنِعْمَ",
+      "translation": "dan sebaik-baik",
+      "transliteration": "waniʿ'ma"
+    },
+    {
+      "id": 41244,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_040_011.mp3",
+      "text": "ٱلنَّصِيرُ",
+      "translation": "Penolong",
+      "transliteration": "l-naṣīru"
+    },
+    {
+      "id": 41245,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika mereka berpaling, maka ketahuilah bahwasanya Allah Pelindungmu.  Dia adalah sebaik-baik Pelindung dan sebaik-baik penolong.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 866740,
+    "timestamp_to": 883980,
+    "duration": 17240,
+    "segments": [
+      [
+        1,
+        866685,
+        867405
+      ],
+      [
+        2,
+        867405,
+        869345
+      ],
+      [
+        3,
+        869345,
+        872055
+      ],
+      [
+        4,
+        872055,
+        873625
+      ],
+      [
+        5,
+        873625,
+        874695
+      ],
+      [
+        6,
+        874695,
+        876575
+      ],
+      [
+        7,
+        876575,
+        877155
+      ],
+      [
+        8,
+        877155,
+        878685
+      ],
+      [
+        9,
+        878685,
+        879745
+      ],
+      [
+        10,
+        879745,
+        883870
+      ]
+    ]
+  }
+}

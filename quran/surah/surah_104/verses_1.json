@@ -1,0 +1,86 @@
+{
+  "id": 6180,
+  "chapter_id": 104,
+  "verse_key": "104:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 108,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_001_001.mp3",
+      "text": "وَيْلٌۭ",
+      "translation": "kecelakaan",
+      "transliteration": "waylun"
+    },
+    {
+      "id": 109,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_001_002.mp3",
+      "text": "لِّكُلِّ",
+      "translation": "bagi setiap",
+      "transliteration": "likulli"
+    },
+    {
+      "id": 110,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_001_003.mp3",
+      "text": "هُمَزَةٍۢ",
+      "translation": "pengumpat",
+      "transliteration": "humazatin"
+    },
+    {
+      "id": 111,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_001_004.mp3",
+      "text": "لُّمَزَةٍ",
+      "translation": "pencela",
+      "transliteration": "lumazatin"
+    },
+    {
+      "id": 112,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kecelakaanlah bagi setiap pengumpat lagi pencela,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4600,
+    "duration": 4600,
+    "segments": [
+      [
+        1,
+        0,
+        690
+      ],
+      [
+        2,
+        690,
+        1860
+      ],
+      [
+        3,
+        1860,
+        2810
+      ],
+      [
+        4,
+        2810,
+        4535
+      ]
+    ]
+  }
+}

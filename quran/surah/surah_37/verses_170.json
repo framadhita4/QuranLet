@@ -1,0 +1,86 @@
+{
+  "id": 3958,
+  "chapter_id": 37,
+  "verse_key": "37:170",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82839,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_170_001.mp3",
+      "text": "فَكَفَرُوا۟",
+      "translation": "maka/tetapi mereka mengingkari",
+      "transliteration": "fakafarū"
+    },
+    {
+      "id": 82840,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_170_002.mp3",
+      "text": "بِهِۦ ۖ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 82842,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_170_004.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 82843,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_170_005.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka akan mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 82844,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٧٠",
+      "translation": "(170)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi, mereka mengingkarinya (Al-Qur`ān), maka kelak mereka akan mengetahui (akibat keingkarannya itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1361860,
+    "timestamp_to": 1368100,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        1361785,
+        1362855
+      ],
+      [
+        2,
+        1362855,
+        1363785
+      ],
+      [
+        3,
+        1363785,
+        1364595
+      ],
+      [
+        4,
+        1364595,
+        1367970
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2775,
+  "chapter_id": 23,
+  "verse_key": "23:102",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 71783,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_102_001.mp3",
+      "text": "فَمَن",
+      "translation": "maka barangsiapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 71784,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_102_002.mp3",
+      "text": "ثَقُلَتْ",
+      "translation": "berat",
+      "transliteration": "thaqulat"
+    },
+    {
+      "id": 71785,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_102_003.mp3",
+      "text": "مَوَٰزِينُهُۥ",
+      "translation": "timbangannya",
+      "transliteration": "mawāzīnuhu"
+    },
+    {
+      "id": 71786,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_102_004.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itu",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 71787,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_102_005.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 71788,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_102_006.mp3",
+      "text": "ٱلْمُفْلِحُونَ",
+      "translation": "orang-orang yang beruntung",
+      "transliteration": "l-muf'liḥūna"
+    },
+    {
+      "id": 71789,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠٢",
+      "translation": "(102)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang berat timbangan (kebaikan)nya <sup foot_note_id=\"1024\">1</sup>, maka mereka itulah orang-orang yang dapat keberuntungan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1264770,
+    "timestamp_to": 1274750,
+    "duration": 9980,
+    "segments": [
+      [
+        1,
+        1264695,
+        1265745
+      ],
+      [
+        2,
+        1265745,
+        1266625
+      ],
+      [
+        3,
+        1266625,
+        1268235
+      ],
+      [
+        4,
+        1268235,
+        1270945
+      ],
+      [
+        5,
+        1270945,
+        1271315
+      ],
+      [
+        6,
+        1271315,
+        1274630
+      ]
+    ]
+  }
+}

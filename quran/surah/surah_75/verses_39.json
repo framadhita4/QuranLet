@@ -1,0 +1,99 @@
+{
+  "id": 5590,
+  "chapter_id": 75,
+  "verse_key": "75:39",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 40625,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_039_001.mp3",
+      "text": "فَجَعَلَ",
+      "translation": "maka/lalu Dia jadikan",
+      "transliteration": "fajaʿala"
+    },
+    {
+      "id": 40626,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_039_002.mp3",
+      "text": "مِنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 40627,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_039_003.mp3",
+      "text": "ٱلزَّوْجَيْنِ",
+      "translation": "dua jodoh/pasang",
+      "transliteration": "l-zawjayni"
+    },
+    {
+      "id": 40628,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_039_004.mp3",
+      "text": "ٱلذَّكَرَ",
+      "translation": "laki-laki",
+      "transliteration": "l-dhakara"
+    },
+    {
+      "id": 40629,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_039_005.mp3",
+      "text": "وَٱلْأُنثَىٰٓ",
+      "translation": "dan perempuan",
+      "transliteration": "wal-unthā"
+    },
+    {
+      "id": 40630,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu Allah menjadikan darinya sepasang, laki-laki dan perempuan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 191380,
+    "timestamp_to": 197540,
+    "duration": 6170,
+    "segments": [
+      [
+        1,
+        190755,
+        191555
+      ],
+      [
+        2,
+        191555,
+        192125
+      ],
+      [
+        3,
+        192125,
+        193425
+      ],
+      [
+        4,
+        193425,
+        194245
+      ],
+      [
+        5,
+        194245,
+        196410
+      ]
+    ]
+  }
+}

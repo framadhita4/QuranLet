@@ -1,0 +1,112 @@
+{
+  "id": 3160,
+  "chapter_id": 27,
+  "verse_key": "27:1",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "ruku_number": 327,
+  "manzil_number": 5,
+  "page_number": 377,
+  "juz_number": 19,
+  "text_uthmani": " طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 759,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_001_001.mp3",
+      "text": "طسٓ ۚ",
+      "translation": "tha siin",
+      "transliteration": "tta-seen"
+    },
+    {
+      "id": 761,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_001_003.mp3",
+      "text": "تِلْكَ",
+      "translation": "inilah",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 762,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_001_004.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 763,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_001_005.mp3",
+      "text": "ٱلْقُرْءَانِ",
+      "translation": "Al-Qur'an",
+      "transliteration": "l-qur'āni"
+    },
+    {
+      "id": 764,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_001_006.mp3",
+      "text": "وَكِتَابٍۢ",
+      "translation": "dan Kitab",
+      "transliteration": "wakitābin"
+    },
+    {
+      "id": 765,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_001_007.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "nyata/jelas",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 766,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ṭā Sīn <sup foot_note_id=\"1090\">1</sup> (surah) ini adalah ayat-ayat Al-Qur`ān dan (ayat-ayat) kitab yang menjelaskan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 12090,
+    "duration": 12100,
+    "segments": [
+      [
+        1,
+        0,
+        4780
+      ],
+      [
+        2,
+        4780,
+        5370
+      ],
+      [
+        3,
+        5370,
+        6450
+      ],
+      [
+        4,
+        6450,
+        7700
+      ],
+      [
+        5,
+        7700,
+        8900
+      ],
+      [
+        6,
+        8900,
+        12065
+      ]
+    ]
+  }
+}

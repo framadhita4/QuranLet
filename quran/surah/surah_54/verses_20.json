@@ -1,0 +1,112 @@
+{
+  "id": 4866,
+  "chapter_id": 54,
+  "verse_key": "54:20",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 22575,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_020_001.mp3",
+      "text": "تَنزِعُ",
+      "translation": "ia mencabut/menggelimpangkan",
+      "transliteration": "tanziʿu"
+    },
+    {
+      "id": 22576,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_020_002.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 22577,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_020_003.mp3",
+      "text": "كَأَنَّهُمْ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahum"
+    },
+    {
+      "id": 22578,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_020_004.mp3",
+      "text": "أَعْجَازُ",
+      "translation": "batang",
+      "transliteration": "aʿjāzu"
+    },
+    {
+      "id": 22579,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_020_005.mp3",
+      "text": "نَخْلٍۢ",
+      "translation": "korma",
+      "transliteration": "nakhlin"
+    },
+    {
+      "id": 22580,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_020_006.mp3",
+      "text": "مُّنقَعِرٍۢ",
+      "translation": "tercabut/tumbang",
+      "transliteration": "munqaʿirin"
+    },
+    {
+      "id": 22581,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang menggelimpangkan manusia seakan-akan mereka pokok kurma yang tumbang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 181040,
+    "timestamp_to": 191250,
+    "duration": 10210,
+    "segments": [
+      [
+        1,
+        180985,
+        182595
+      ],
+      [
+        2,
+        182595,
+        184025
+      ],
+      [
+        3,
+        184025,
+        186025
+      ],
+      [
+        4,
+        186025,
+        187115
+      ],
+      [
+        5,
+        187115,
+        187875
+      ],
+      [
+        6,
+        187875,
+        191120
+      ]
+    ]
+  }
+}

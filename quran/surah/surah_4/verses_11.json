@@ -1,0 +1,957 @@
+{
+  "id": 504,
+  "chapter_id": 4,
+  "verse_key": "4:11",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "ruku_number": 63,
+  "manzil_number": 1,
+  "page_number": 78,
+  "juz_number": 4,
+  "text_uthmani": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَـٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 12105,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_001.mp3",
+      "text": "يُوصِيكُمُ",
+      "translation": "mewasiatkan kepadamu",
+      "transliteration": "yūṣīkumu"
+    },
+    {
+      "id": 12106,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 12107,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_003.mp3",
+      "text": "فِىٓ",
+      "translation": "dalam/untuk",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12108,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_004.mp3",
+      "text": "أَوْلَـٰدِكُمْ ۖ",
+      "translation": "anak-anakmu",
+      "transliteration": "awlādikum"
+    },
+    {
+      "id": 12110,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_006.mp3",
+      "text": "لِلذَّكَرِ",
+      "translation": "bagi (anak) lelaki",
+      "transliteration": "lildhakari"
+    },
+    {
+      "id": 12111,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_007.mp3",
+      "text": "مِثْلُ",
+      "translation": "seperti",
+      "transliteration": "mith'lu"
+    },
+    {
+      "id": 12112,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_008.mp3",
+      "text": "حَظِّ",
+      "translation": "bagian",
+      "transliteration": "ḥaẓẓi"
+    },
+    {
+      "id": 12113,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_009.mp3",
+      "text": "ٱلْأُنثَيَيْنِ ۚ",
+      "translation": "dua anak perempuan",
+      "transliteration": "l-unthayayni"
+    },
+    {
+      "id": 12115,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_011.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 12116,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_012.mp3",
+      "text": "كُنَّ",
+      "translation": "adalah mereka",
+      "transliteration": "kunna"
+    },
+    {
+      "id": 12117,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_013.mp3",
+      "text": "نِسَآءًۭ",
+      "translation": "perempuan",
+      "transliteration": "nisāan"
+    },
+    {
+      "id": 12118,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_014.mp3",
+      "text": "فَوْقَ",
+      "translation": "di atas",
+      "transliteration": "fawqa"
+    },
+    {
+      "id": 12119,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_015.mp3",
+      "text": "ٱثْنَتَيْنِ",
+      "translation": "dua orang perempuan",
+      "transliteration": "ith'natayni"
+    },
+    {
+      "id": 12120,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_016.mp3",
+      "text": "فَلَهُنَّ",
+      "translation": "maka bagi mereka",
+      "transliteration": "falahunna"
+    },
+    {
+      "id": 12121,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_017.mp3",
+      "text": "ثُلُثَا",
+      "translation": "dua pertiga",
+      "transliteration": "thuluthā"
+    },
+    {
+      "id": 12122,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_018.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 12123,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_019.mp3",
+      "text": "تَرَكَ ۖ",
+      "translation": "ditingalkan",
+      "transliteration": "taraka"
+    },
+    {
+      "id": 12125,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_021.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 12126,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_022.mp3",
+      "text": "كَانَتْ",
+      "translation": "adalah ia",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 12127,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_023.mp3",
+      "text": "وَٰحِدَةًۭ",
+      "translation": "seorang",
+      "transliteration": "wāḥidatan"
+    },
+    {
+      "id": 12128,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_024.mp3",
+      "text": "فَلَهَا",
+      "translation": "maka baginya",
+      "transliteration": "falahā"
+    },
+    {
+      "id": 12129,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_025.mp3",
+      "text": "ٱلنِّصْفُ ۚ",
+      "translation": "separuh",
+      "transliteration": "l-niṣ'fu"
+    },
+    {
+      "id": 12131,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_027.mp3",
+      "text": "وَلِأَبَوَيْهِ",
+      "translation": "dan untuk dua ibu-bapaknya",
+      "transliteration": "wali-abawayhi"
+    },
+    {
+      "id": 12132,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_028.mp3",
+      "text": "لِكُلِّ",
+      "translation": "bagi masing-masing",
+      "transliteration": "likulli"
+    },
+    {
+      "id": 12133,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_029.mp3",
+      "text": "وَٰحِدٍۢ",
+      "translation": "seorang",
+      "transliteration": "wāḥidin"
+    },
+    {
+      "id": 12134,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_030.mp3",
+      "text": "مِّنْهُمَا",
+      "translation": "dari keduanya",
+      "transliteration": "min'humā"
+    },
+    {
+      "id": 12135,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_031.mp3",
+      "text": "ٱلسُّدُسُ",
+      "translation": "seperenam",
+      "transliteration": "l-sudusu"
+    },
+    {
+      "id": 12136,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_032.mp3",
+      "text": "مِمَّا",
+      "translation": "dari apa/harta",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 12137,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_033.mp3",
+      "text": "تَرَكَ",
+      "translation": "ia tinggalkan",
+      "transliteration": "taraka"
+    },
+    {
+      "id": 12138,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_034.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 12139,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_035.mp3",
+      "text": "كَانَ",
+      "translation": "ia adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 12140,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_036.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 12141,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_037.mp3",
+      "text": "وَلَدٌۭ ۚ",
+      "translation": "anak laki-laki",
+      "transliteration": "waladun"
+    },
+    {
+      "id": 12143,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_039.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 12144,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_040.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 12145,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_041.mp3",
+      "text": "يَكُن",
+      "translation": "adalah",
+      "transliteration": "yakun"
+    },
+    {
+      "id": 12146,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_042.mp3",
+      "text": "لَّهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 12147,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_043.mp3",
+      "text": "وَلَدٌۭ",
+      "translation": "anak laki-laki",
+      "transliteration": "waladun"
+    },
+    {
+      "id": 12148,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_044.mp3",
+      "text": "وَوَرِثَهُۥٓ",
+      "translation": "dan mewarisinya",
+      "transliteration": "wawarithahu"
+    },
+    {
+      "id": 12149,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_045.mp3",
+      "text": "أَبَوَاهُ",
+      "translation": "ibu-bapaknya",
+      "transliteration": "abawāhu"
+    },
+    {
+      "id": 12150,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_046.mp3",
+      "text": "فَلِأُمِّهِ",
+      "translation": "maka bagi ibunya",
+      "transliteration": "fali-ummihi"
+    },
+    {
+      "id": 12151,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_047.mp3",
+      "text": "ٱلثُّلُثُ ۚ",
+      "translation": "sepertiga",
+      "transliteration": "l-thuluthu"
+    },
+    {
+      "id": 12153,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_049.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 12154,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_050.mp3",
+      "text": "كَانَ",
+      "translation": "ia adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 12155,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_051.mp3",
+      "text": "لَهُۥٓ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 12156,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_052.mp3",
+      "text": "إِخْوَةٌۭ",
+      "translation": "saudara-saudara",
+      "transliteration": "ikh'watun"
+    },
+    {
+      "id": 12157,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_053.mp3",
+      "text": "فَلِأُمِّهِ",
+      "translation": "maka bagi ibunya",
+      "transliteration": "fali-ummihi"
+    },
+    {
+      "id": 12158,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_054.mp3",
+      "text": "ٱلسُّدُسُ ۚ",
+      "translation": "seperenam",
+      "transliteration": "l-sudusu"
+    },
+    {
+      "id": 12160,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_056.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 12161,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_057.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 12162,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_058.mp3",
+      "text": "وَصِيَّةٍۢ",
+      "translation": "berwasiat",
+      "transliteration": "waṣiyyatin"
+    },
+    {
+      "id": 12163,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_059.mp3",
+      "text": "يُوصِى",
+      "translation": "ia wasiatkan",
+      "transliteration": "yūṣī"
+    },
+    {
+      "id": 12164,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_060.mp3",
+      "text": "بِهَآ",
+      "translation": "baginya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 12165,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_061.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 12166,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_062.mp3",
+      "text": "دَيْنٍ ۗ",
+      "translation": "(dibayar) hutang",
+      "transliteration": "daynin"
+    },
+    {
+      "id": 12168,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_064.mp3",
+      "text": "ءَابَآؤُكُمْ",
+      "translation": "ibu-bapakmu/orang tuamu",
+      "transliteration": "ābāukum"
+    },
+    {
+      "id": 12169,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_065.mp3",
+      "text": "وَأَبْنَآؤُكُمْ",
+      "translation": "dan anak-anakmu",
+      "transliteration": "wa-abnāukum"
+    },
+    {
+      "id": 12170,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_066.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 12171,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_067.mp3",
+      "text": "تَدْرُونَ",
+      "translation": "kamu mengetahui",
+      "transliteration": "tadrūna"
+    },
+    {
+      "id": 12172,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_068.mp3",
+      "text": "أَيُّهُمْ",
+      "translation": "siapa diantara mereka",
+      "transliteration": "ayyuhum"
+    },
+    {
+      "id": 12173,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_069.mp3",
+      "text": "أَقْرَبُ",
+      "translation": "lebih dekat",
+      "transliteration": "aqrabu"
+    },
+    {
+      "id": 12174,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_070.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 12175,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_071.mp3",
+      "text": "نَفْعًۭا ۚ",
+      "translation": "manfaatnya",
+      "transliteration": "nafʿan"
+    },
+    {
+      "id": 12177,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_073.mp3",
+      "text": "فَرِيضَةًۭ",
+      "translation": "ketetapan",
+      "transliteration": "farīḍatan"
+    },
+    {
+      "id": 12178,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_074.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 12179,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_075.mp3",
+      "text": "ٱللَّهِ ۗ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 12181,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_077.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 12182,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_078.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 12183,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_079.mp3",
+      "text": "كَانَ",
+      "translation": "adalah Dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 12184,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_080.mp3",
+      "text": "عَلِيمًا",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīman"
+    },
+    {
+      "id": 12185,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_011_081.mp3",
+      "text": "حَكِيمًۭا",
+      "translation": "Maha Bijaksana",
+      "transliteration": "ḥakīman"
+    },
+    {
+      "id": 12186,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah mensyariatkan bagimu tentang (pembagian pusaka untuk) anak-anakmu.  Yaitu bagian seorang anak lelaki sama dengan bagian dua orang anak perempuan<sup foot_note_id=\"273\">1</sup>; dan jika anak itu semuanya perempuan lebih dari dua<sup foot_note_id=\"274\">2</sup>, maka bagi mereka dua pertiga dari harta yang ditinggalkan; jika anak perempuan itu seorang saja, maka ia memperoleh separuh harta. Dan untuk dua orang ibu bapak, bagi masing-masingnya seperenam dari harta yang ditinggalkan, jika yang meninggal itu mempunyai anak; jika orang yang meninggal tidak mempunyai anak dan ia diwarisi oleh ibu bapaknya (saja), maka ibunya mendapat sepertiga; jika yang meninggal itu mempunyai beberapa saudara, maka ibunya mendapat seperenam.  (Pembagian-pembagian tersebut di atas) sesudah dipenuhi wasiat yang ia buat atau (dan) sesudah dibayar utangnya.  (Tentang) orang tuamu dan anak-anakmu, kamu tidak mengetahui siapa di antara mereka yang lebih dekat (banyak) manfaatnya bagimu.  Ini adalah ketetapan dari Allah.  Sesungguhnya Allah Maha Mengetahui lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 292890,
+    "timestamp_to": 381970,
+    "duration": 89080,
+    "segments": [
+      [
+        1,
+        292845,
+        294225
+      ],
+      [
+        2,
+        294225,
+        295125
+      ],
+      [
+        3,
+        295125,
+        296515
+      ],
+      [
+        4,
+        296515,
+        297935
+      ],
+      [
+        5,
+        297935,
+        299025
+      ],
+      [
+        6,
+        299025,
+        299635
+      ],
+      [
+        7,
+        299635,
+        300355
+      ],
+      [
+        8,
+        300355,
+        303985
+      ],
+      [
+        9,
+        303985,
+        305185
+      ],
+      [
+        10,
+        305185,
+        306215
+      ],
+      [
+        11,
+        306215,
+        309255
+      ],
+      [
+        12,
+        309255,
+        309775
+      ],
+      [
+        13,
+        309775,
+        310915
+      ],
+      [
+        14,
+        310915,
+        312275
+      ],
+      [
+        15,
+        312275,
+        313235
+      ],
+      [
+        16,
+        313235,
+        313615
+      ],
+      [
+        17,
+        313615,
+        314815
+      ],
+      [
+        18,
+        314815,
+        316225
+      ],
+      [
+        19,
+        316225,
+        317115
+      ],
+      [
+        20,
+        317115,
+        319035
+      ],
+      [
+        21,
+        319035,
+        319585
+      ],
+      [
+        22,
+        319585,
+        321065
+      ],
+      [
+        23,
+        321095,
+        322935
+      ],
+      [
+        24,
+        322935,
+        323775
+      ],
+      [
+        25,
+        323775,
+        324665
+      ],
+      [
+        26,
+        324665,
+        326145
+      ],
+      [
+        27,
+        326145,
+        327005
+      ],
+      [
+        28,
+        327005,
+        328315
+      ],
+      [
+        29,
+        328315,
+        328925
+      ],
+      [
+        30,
+        328925,
+        330035
+      ],
+      [
+        31,
+        330035,
+        330595
+      ],
+      [
+        32,
+        330595,
+        331335
+      ],
+      [
+        33,
+        331335,
+        332285
+      ],
+      [
+        34,
+        332285,
+        332695
+      ],
+      [
+        35,
+        332695,
+        333275
+      ],
+      [
+        36,
+        333275,
+        333735
+      ],
+      [
+        37,
+        333735,
+        334575
+      ],
+      [
+        38,
+        334575,
+        335715
+      ],
+      [
+        39,
+        335715,
+        337925
+      ],
+      [
+        40,
+        337925,
+        338955
+      ],
+      [
+        41,
+        338955,
+        340545
+      ],
+      [
+        42,
+        340545,
+        341345
+      ],
+      [
+        43,
+        341365,
+        343055
+      ],
+      [
+        44,
+        343055,
+        343675
+      ],
+      [
+        45,
+        343675,
+        345805
+      ],
+      [
+        46,
+        345805,
+        347335
+      ],
+      [
+        47,
+        347335,
+        349535
+      ],
+      [
+        48,
+        349535,
+        350415
+      ],
+      [
+        49,
+        350445,
+        351845
+      ],
+      [
+        50,
+        351845,
+        352515
+      ],
+      [
+        51,
+        352515,
+        353955
+      ],
+      [
+        52,
+        353955,
+        355125
+      ],
+      [
+        53,
+        355125,
+        356875
+      ],
+      [
+        54,
+        356875,
+        357285
+      ],
+      [
+        55,
+        357285,
+        359555
+      ],
+      [
+        56,
+        359555,
+        362325
+      ],
+      [
+        57,
+        362325,
+        365375
+      ],
+      [
+        58,
+        365375,
+        365775
+      ],
+      [
+        59,
+        365775,
+        366905
+      ],
+      [
+        60,
+        366905,
+        368055
+      ],
+      [
+        61,
+        368055,
+        368845
+      ],
+      [
+        62,
+        368845,
+        369595
+      ],
+      [
+        63,
+        369595,
+        370995
+      ],
+      [
+        64,
+        370995,
+        372145
+      ],
+      [
+        65,
+        372145,
+        373505
+      ],
+      [
+        66,
+        373505,
+        376275
+      ],
+      [
+        67,
+        376275,
+        377595
+      ],
+      [
+        68,
+        377595,
+        378425
+      ],
+      [
+        69,
+        378425,
+        379095
+      ],
+      [
+        70,
+        379095,
+        380175
+      ],
+      [
+        71,
+        380175,
+        381870
+      ]
+    ]
+  }
+}

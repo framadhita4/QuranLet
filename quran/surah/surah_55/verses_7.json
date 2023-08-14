@@ -1,0 +1,86 @@
+{
+  "id": 4908,
+  "chapter_id": 55,
+  "verse_key": "55:7",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 7495,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_007_001.mp3",
+      "text": "وَٱلسَّمَآءَ",
+      "translation": "dan langit",
+      "transliteration": "wal-samāa"
+    },
+    {
+      "id": 7496,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_007_002.mp3",
+      "text": "رَفَعَهَا",
+      "translation": "Dia tinggikannya",
+      "transliteration": "rafaʿahā"
+    },
+    {
+      "id": 7497,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_007_003.mp3",
+      "text": "وَوَضَعَ",
+      "translation": "dan Dia letakkan",
+      "transliteration": "wawaḍaʿa"
+    },
+    {
+      "id": 7498,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_007_004.mp3",
+      "text": "ٱلْمِيزَانَ",
+      "translation": "timbangan",
+      "transliteration": "l-mīzāna"
+    },
+    {
+      "id": 7499,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah telah meninggikan langit dan Dia meletakkan neraca (keadilan).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32600,
+    "timestamp_to": 41060,
+    "duration": 8460,
+    "segments": [
+      [
+        1,
+        32575,
+        35455
+      ],
+      [
+        2,
+        35455,
+        36535
+      ],
+      [
+        3,
+        36535,
+        37395
+      ],
+      [
+        4,
+        37395,
+        40980
+      ]
+    ]
+  }
+}

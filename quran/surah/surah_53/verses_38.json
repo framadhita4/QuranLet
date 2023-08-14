@@ -1,0 +1,99 @@
+{
+  "id": 4822,
+  "chapter_id": 53,
+  "verse_key": "53:38",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 39692,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_001.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 39693,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_002.mp3",
+      "text": "تَزِرُ",
+      "translation": "kamu memikul dosa",
+      "transliteration": "taziru"
+    },
+    {
+      "id": 39694,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_003.mp3",
+      "text": "وَازِرَةٌۭ",
+      "translation": "orang yang berdosa",
+      "transliteration": "wāziratun"
+    },
+    {
+      "id": 39695,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_004.mp3",
+      "text": "وِزْرَ",
+      "translation": "beban/dosa",
+      "transliteration": "wiz'ra"
+    },
+    {
+      "id": 39696,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_005.mp3",
+      "text": "أُخْرَىٰ",
+      "translation": "orang lain",
+      "transliteration": "ukh'rā"
+    },
+    {
+      "id": 39697,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) bahwasanya seorang yang berdosa tidak akan memikul dosa orang lain,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 327980,
+    "timestamp_to": 333670,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        327525,
+        328365
+      ],
+      [
+        2,
+        328365,
+        329005
+      ],
+      [
+        3,
+        329005,
+        331035
+      ],
+      [
+        4,
+        331035,
+        331725
+      ],
+      [
+        5,
+        331725,
+        333170
+      ]
+    ]
+  }
+}

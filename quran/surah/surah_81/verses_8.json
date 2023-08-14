@@ -1,0 +1,73 @@
+{
+  "id": 5808,
+  "chapter_id": 81,
+  "verse_key": "81:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 9203,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_008_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 9204,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_008_002.mp3",
+      "text": "ٱلْمَوْءُۥدَةُ",
+      "translation": "bayi perempuan dikubur hidup-hidup",
+      "transliteration": "l-mawūdatu"
+    },
+    {
+      "id": 9205,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_008_003.mp3",
+      "text": "سُئِلَتْ",
+      "translation": "ditanya",
+      "transliteration": "su-ilat"
+    },
+    {
+      "id": 9206,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20120,
+    "timestamp_to": 23100,
+    "duration": 2980,
+    "segments": [
+      [
+        1,
+        20075,
+        20695
+      ],
+      [
+        2,
+        20695,
+        22145
+      ],
+      [
+        3,
+        22145,
+        23030
+      ]
+    ]
+  }
+}

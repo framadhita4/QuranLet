@@ -1,0 +1,125 @@
+{
+  "id": 5860,
+  "chapter_id": 83,
+  "verse_key": "83:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 14271,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 14272,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_002.mp3",
+      "text": "يُكَذِّبُ",
+      "translation": "mendustakan",
+      "transliteration": "yukadhibu"
+    },
+    {
+      "id": 14273,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_003.mp3",
+      "text": "بِهِۦٓ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 14274,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 14275,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_005.mp3",
+      "text": "كُلُّ",
+      "translation": "setiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 14276,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_006.mp3",
+      "text": "مُعْتَدٍ",
+      "translation": "orang yang melampui batas",
+      "transliteration": "muʿ'tadin"
+    },
+    {
+      "id": 14277,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_012_007.mp3",
+      "text": "أَثِيمٍ",
+      "translation": "orang yang berbuat dosa",
+      "transliteration": "athīmin"
+    },
+    {
+      "id": 14278,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidak ada yang mendustakan hari pembalasan itu melainkan setiap orang yang melampaui batas lagi berdosa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 78370,
+    "timestamp_to": 87720,
+    "duration": 9350,
+    "segments": [
+      [
+        1,
+        78285,
+        78985
+      ],
+      [
+        2,
+        78985,
+        80035
+      ],
+      [
+        3,
+        80035,
+        82055
+      ],
+      [
+        4,
+        82055,
+        82835
+      ],
+      [
+        5,
+        82835,
+        83525
+      ],
+      [
+        6,
+        83525,
+        84495
+      ],
+      [
+        7,
+        84495,
+        87570
+      ]
+    ]
+  }
+}

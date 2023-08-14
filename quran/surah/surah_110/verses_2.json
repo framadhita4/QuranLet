@@ -1,0 +1,125 @@
+{
+  "id": 6215,
+  "chapter_id": 110,
+  "verse_key": "110:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 554,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3",
+  "words": [
+    {
+      "id": 1064,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_001.mp3",
+      "text": "وَرَأَيْتَ",
+      "translation": "dan kamu lihat",
+      "transliteration": "wara-ayta"
+    },
+    {
+      "id": 1065,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_002.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 1066,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_003.mp3",
+      "text": "يَدْخُلُونَ",
+      "translation": "masuk",
+      "transliteration": "yadkhulūna"
+    },
+    {
+      "id": 1067,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_004.mp3",
+      "text": "فِى",
+      "translation": "kedalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 1068,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_005.mp3",
+      "text": "دِينِ",
+      "translation": "agama",
+      "transliteration": "dīni"
+    },
+    {
+      "id": 1069,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 1070,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_002_007.mp3",
+      "text": "أَفْوَاجًۭا",
+      "translation": "berbondong-bondong",
+      "transliteration": "afwājan"
+    },
+    {
+      "id": 1071,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6920,
+    "timestamp_to": 15100,
+    "duration": 8180,
+    "segments": [
+      [
+        1,
+        6795,
+        7825
+      ],
+      [
+        2,
+        7825,
+        9515
+      ],
+      [
+        3,
+        9515,
+        10725
+      ],
+      [
+        4,
+        10725,
+        11195
+      ],
+      [
+        5,
+        11195,
+        12135
+      ],
+      [
+        6,
+        12135,
+        12765
+      ],
+      [
+        7,
+        12765,
+        14280
+      ]
+    ]
+  }
+}

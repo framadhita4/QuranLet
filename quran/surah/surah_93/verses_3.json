@@ -1,0 +1,99 @@
+{
+  "id": 6082,
+  "chapter_id": 93,
+  "verse_key": "93:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 2251,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_003_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2252,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_003_002.mp3",
+      "text": "وَدَّعَكَ",
+      "translation": "meninggalkan kamu",
+      "transliteration": "waddaʿaka"
+    },
+    {
+      "id": 2253,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_003_003.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 2254,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_003_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2255,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_003_005.mp3",
+      "text": "قَلَىٰ",
+      "translation": "marah/benci",
+      "transliteration": "qalā"
+    },
+    {
+      "id": 2256,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tuhan-mu tiada meninggalkan kamu dan tiada (pula) benci kepadamu<sup foot_note_id=\"1582\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4880,
+    "timestamp_to": 9290,
+    "duration": 4420,
+    "segments": [
+      [
+        1,
+        4395,
+        4885
+      ],
+      [
+        2,
+        4885,
+        6045
+      ],
+      [
+        3,
+        6045,
+        6915
+      ],
+      [
+        4,
+        6915,
+        7445
+      ],
+      [
+        5,
+        7445,
+        8300
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5318,
+  "chapter_id": 68,
+  "verse_key": "68:47",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 46571,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_047_001.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 46572,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_047_002.mp3",
+      "text": "عِندَهُمُ",
+      "translation": "di sisi mereka",
+      "transliteration": "ʿindahumu"
+    },
+    {
+      "id": 46573,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_047_003.mp3",
+      "text": "ٱلْغَيْبُ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghaybu"
+    },
+    {
+      "id": 46574,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_047_004.mp3",
+      "text": "فَهُمْ",
+      "translation": "lalu mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 46575,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_047_005.mp3",
+      "text": "يَكْتُبُونَ",
+      "translation": "mereka menulis",
+      "transliteration": "yaktubūna"
+    },
+    {
+      "id": 46576,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah ada pada mereka ilmu tentang yang gaib lalu mereka menulis (padanya apa yang mereka tetapkan)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 387580,
+    "timestamp_to": 394320,
+    "duration": 6740,
+    "segments": [
+      [
+        1,
+        387485,
+        387865
+      ],
+      [
+        2,
+        387865,
+        389635
+      ],
+      [
+        3,
+        389635,
+        390475
+      ],
+      [
+        4,
+        390475,
+        391105
+      ],
+      [
+        5,
+        391105,
+        394160
+      ]
+    ]
+  }
+}

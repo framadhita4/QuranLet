@@ -1,0 +1,138 @@
+{
+  "id": 1736,
+  "chapter_id": 13,
+  "verse_key": "13:29",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "ruku_number": 208,
+  "manzil_number": 3,
+  "page_number": 253,
+  "juz_number": 13,
+  "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3",
+  "words": [
+    {
+      "id": 32250,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 32251,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_002.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 32252,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_003.mp3",
+      "text": "وَعَمِلُوا۟",
+      "translation": "dan mereka beramal",
+      "transliteration": "waʿamilū"
+    },
+    {
+      "id": 32253,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_004.mp3",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation": "kebajikan/saleh",
+      "transliteration": "l-ṣāliḥāti"
+    },
+    {
+      "id": 32254,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_005.mp3",
+      "text": "طُوبَىٰ",
+      "translation": "kebahagiaan",
+      "transliteration": "ṭūbā"
+    },
+    {
+      "id": 32255,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 32256,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_007.mp3",
+      "text": "وَحُسْنُ",
+      "translation": "dan baik",
+      "transliteration": "waḥus'nu"
+    },
+    {
+      "id": 32257,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_029_008.mp3",
+      "text": "مَـَٔابٍۢ",
+      "translation": "tempat kembali",
+      "transliteration": "maābin"
+    },
+    {
+      "id": 32258,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Orang-orang yang beriman dan beramal saleh bagi mereka kebahagiaan dan tempat kembali yang baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 799280,
+    "timestamp_to": 809960,
+    "duration": 10690,
+    "segments": [
+      [
+        1,
+        798735,
+        800065
+      ],
+      [
+        2,
+        800065,
+        801435
+      ],
+      [
+        3,
+        801435,
+        802225
+      ],
+      [
+        4,
+        802225,
+        803845
+      ],
+      [
+        5,
+        803845,
+        804875
+      ],
+      [
+        6,
+        804875,
+        805615
+      ],
+      [
+        7,
+        805615,
+        806475
+      ],
+      [
+        8,
+        806475,
+        809360
+      ]
+    ]
+  }
+}

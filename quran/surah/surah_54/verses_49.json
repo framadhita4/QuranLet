@@ -1,0 +1,99 @@
+{
+  "id": 4895,
+  "chapter_id": 54,
+  "verse_key": "54:49",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 47874,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_049_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesunguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 47875,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_049_002.mp3",
+      "text": "كُلَّ",
+      "translation": "setiap",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 47876,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_049_003.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 47877,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_049_004.mp3",
+      "text": "خَلَقْنَـٰهُ",
+      "translation": "Kami menciptakannya",
+      "transliteration": "khalaqnāhu"
+    },
+    {
+      "id": 47878,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_049_005.mp3",
+      "text": "بِقَدَرٍۢ",
+      "translation": "dengan/menurut ukuran",
+      "transliteration": "biqadarin"
+    },
+    {
+      "id": 47879,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menciptakan segala sesuatu menurut ukuran.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 434480,
+    "timestamp_to": 440640,
+    "duration": 6170,
+    "segments": [
+      [
+        1,
+        434415,
+        436195
+      ],
+      [
+        2,
+        436195,
+        436865
+      ],
+      [
+        3,
+        436865,
+        437825
+      ],
+      [
+        4,
+        437825,
+        439235
+      ],
+      [
+        5,
+        439235,
+        440510
+      ]
+    ]
+  }
+}

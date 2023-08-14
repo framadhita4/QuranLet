@@ -1,0 +1,177 @@
+{
+  "id": 4365,
+  "chapter_id": 43,
+  "verse_key": "43:40",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 41103,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_001.mp3",
+      "text": "أَفَأَنتَ",
+      "translation": "apakah maka kamu",
+      "transliteration": "afa-anta"
+    },
+    {
+      "id": 41104,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_002.mp3",
+      "text": "تُسْمِعُ",
+      "translation": "dapat menjadikan mendengar",
+      "transliteration": "tus'miʿu"
+    },
+    {
+      "id": 41105,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_003.mp3",
+      "text": "ٱلصُّمَّ",
+      "translation": "orang yang tuli",
+      "transliteration": "l-ṣuma"
+    },
+    {
+      "id": 41106,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_004.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 41107,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_005.mp3",
+      "text": "تَهْدِى",
+      "translation": "kamu beri petunjuk",
+      "transliteration": "tahdī"
+    },
+    {
+      "id": 41108,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_006.mp3",
+      "text": "ٱلْعُمْىَ",
+      "translation": "orang yang buta",
+      "transliteration": "l-ʿum'ya"
+    },
+    {
+      "id": 41109,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_007.mp3",
+      "text": "وَمَن",
+      "translation": "dan orang",
+      "transliteration": "waman"
+    },
+    {
+      "id": 41110,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_008.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 41111,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_009.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 41112,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_010.mp3",
+      "text": "ضَلَـٰلٍۢ",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālin"
+    },
+    {
+      "id": 41113,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_040_011.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 41114,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kamu dapat menjadikan orang yang pekak bisa mendengar atau (dapatkah) kamu memberi petunjuk kepada orang yang buta (hatinya) dan kepada orang yang tetap dalam kesesatan yang nyata?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 578550,
+    "timestamp_to": 591740,
+    "duration": 13190,
+    "segments": [
+      [
+        1,
+        578495,
+        580375
+      ],
+      [
+        2,
+        580375,
+        581225
+      ],
+      [
+        3,
+        581225,
+        582845
+      ],
+      [
+        4,
+        582845,
+        583235
+      ],
+      [
+        5,
+        583235,
+        583955
+      ],
+      [
+        6,
+        583955,
+        584815
+      ],
+      [
+        7,
+        584815,
+        585995
+      ],
+      [
+        8,
+        585995,
+        586615
+      ],
+      [
+        9,
+        586615,
+        587045
+      ],
+      [
+        10,
+        587045,
+        587975
+      ],
+      [
+        11,
+        587975,
+        591640
+      ]
+    ]
+  }
+}

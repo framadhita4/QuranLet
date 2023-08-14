@@ -1,0 +1,99 @@
+{
+  "id": 3768,
+  "chapter_id": 36,
+  "verse_key": "36:63",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 56417,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_063_001.mp3",
+      "text": "هَـٰذِهِۦ",
+      "translation": "ini",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 56418,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_063_002.mp3",
+      "text": "جَهَنَّمُ",
+      "translation": "Jahannam",
+      "transliteration": "jahannamu"
+    },
+    {
+      "id": 56419,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_063_003.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "adalah",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 56420,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_063_004.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 56421,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_063_005.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "kamu diancam",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 56422,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Inilah Jahanam yang dahulu kamu diancam (dengannya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 784210,
+    "timestamp_to": 793070,
+    "duration": 8860,
+    "segments": [
+      [
+        1,
+        784145,
+        785275
+      ],
+      [
+        2,
+        785275,
+        786945
+      ],
+      [
+        3,
+        786945,
+        787815
+      ],
+      [
+        4,
+        787815,
+        789475
+      ],
+      [
+        5,
+        789475,
+        792920
+      ]
+    ]
+  }
+}

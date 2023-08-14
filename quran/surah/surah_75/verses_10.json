@@ -1,0 +1,99 @@
+{
+  "id": 5561,
+  "chapter_id": 75,
+  "verse_key": "75:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 11556,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_010_001.mp3",
+      "text": "يَقُولُ",
+      "translation": "berkata",
+      "transliteration": "yaqūlu"
+    },
+    {
+      "id": 11557,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_010_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 11558,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_010_003.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 11559,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_010_004.mp3",
+      "text": "أَيْنَ",
+      "translation": "dimana/kemana",
+      "transliteration": "ayna"
+    },
+    {
+      "id": 11560,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_010_005.mp3",
+      "text": "ٱلْمَفَرُّ",
+      "translation": "tempat lari",
+      "transliteration": "l-mafaru"
+    },
+    {
+      "id": 11561,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada hari itu manusia berkata, \"Ke mana tempat lari?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 46330,
+    "timestamp_to": 52630,
+    "duration": 6300,
+    "segments": [
+      [
+        1,
+        46265,
+        47085
+      ],
+      [
+        2,
+        47085,
+        49135
+      ],
+      [
+        3,
+        49135,
+        50365
+      ],
+      [
+        4,
+        50365,
+        50925
+      ],
+      [
+        5,
+        50925,
+        52490
+      ]
+    ]
+  }
+}

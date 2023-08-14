@@ -1,0 +1,112 @@
+{
+  "id": 5863,
+  "chapter_id": 83,
+  "verse_key": "83:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 17589,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_015_001.mp3",
+      "text": "كَلَّآ",
+      "translation": "sekali-kali jangan/tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 17590,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_015_002.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 17591,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_015_003.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 17592,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_015_004.mp3",
+      "text": "رَّبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 17593,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_015_005.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 17594,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_015_006.mp3",
+      "text": "لَّمَحْجُوبُونَ",
+      "translation": "benar-benar tertutup",
+      "transliteration": "lamaḥjūbūna"
+    },
+    {
+      "id": 17595,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak<sup foot_note_id=\"1564\">1</sup>, sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhan mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 106920,
+    "timestamp_to": 117630,
+    "duration": 10710,
+    "segments": [
+      [
+        1,
+        106865,
+        109355
+      ],
+      [
+        2,
+        109355,
+        110945
+      ],
+      [
+        3,
+        110945,
+        111185
+      ],
+      [
+        4,
+        111185,
+        112435
+      ],
+      [
+        5,
+        112435,
+        113595
+      ],
+      [
+        6,
+        113595,
+        117500
+      ]
+    ]
+  }
+}

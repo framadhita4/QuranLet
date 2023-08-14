@@ -1,0 +1,112 @@
+{
+  "id": 5491,
+  "chapter_id": 73,
+  "verse_key": "73:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 18541,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_001.mp3",
+      "text": "فَعَصَىٰ",
+      "translation": "maka mendurhakai",
+      "transliteration": "faʿaṣā"
+    },
+    {
+      "id": 18542,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 18543,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_003.mp3",
+      "text": "ٱلرَّسُولَ",
+      "translation": "rasul itu",
+      "transliteration": "l-rasūla"
+    },
+    {
+      "id": 18544,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_004.mp3",
+      "text": "فَأَخَذْنَـٰهُ",
+      "translation": "lalu Kami siksa dia",
+      "transliteration": "fa-akhadhnāhu"
+    },
+    {
+      "id": 18545,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_005.mp3",
+      "text": "أَخْذًۭا",
+      "translation": "siksaan",
+      "transliteration": "akhdhan"
+    },
+    {
+      "id": 18546,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_006.mp3",
+      "text": "وَبِيلًۭا",
+      "translation": "yang berat",
+      "transliteration": "wabīlan"
+    },
+    {
+      "id": 18547,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Firʻawn  mendurhakai rasul itu, lalu Kami siksa dia dengan siksaan yang berat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 112530,
+    "timestamp_to": 119950,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        112425,
+        113315
+      ],
+      [
+        2,
+        113315,
+        114275
+      ],
+      [
+        3,
+        114275,
+        115305
+      ],
+      [
+        4,
+        115305,
+        116595
+      ],
+      [
+        5,
+        116595,
+        117675
+      ],
+      [
+        6,
+        117675,
+        119770
+      ]
+    ]
+  }
+}

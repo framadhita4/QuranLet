@@ -1,0 +1,99 @@
+{
+  "id": 5038,
+  "chapter_id": 56,
+  "verse_key": "56:59",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 53814,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_059_001.mp3",
+      "text": "ءَأَنتُمْ",
+      "translation": "apakah kamu",
+      "transliteration": "a-antum"
+    },
+    {
+      "id": 53815,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_059_002.mp3",
+      "text": "تَخْلُقُونَهُۥٓ",
+      "translation": "kamu menciptakannya",
+      "transliteration": "takhluqūnahu"
+    },
+    {
+      "id": 53816,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_059_003.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 53817,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_059_004.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 53818,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_059_005.mp3",
+      "text": "ٱلْخَـٰلِقُونَ",
+      "translation": "yang menciptakannya",
+      "transliteration": "l-khāliqūna"
+    },
+    {
+      "id": 53819,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamukah yang menciptakannya, atau Kami-kah yang menciptakannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 393880,
+    "timestamp_to": 403780,
+    "duration": 9900,
+    "segments": [
+      [
+        1,
+        393765,
+        395605
+      ],
+      [
+        2,
+        395605,
+        398765
+      ],
+      [
+        3,
+        398765,
+        399295
+      ],
+      [
+        4,
+        399295,
+        399895
+      ],
+      [
+        5,
+        399895,
+        403620
+      ]
+    ]
+  }
+}

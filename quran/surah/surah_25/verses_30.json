@@ -1,0 +1,151 @@
+{
+  "id": 2885,
+  "chapter_id": 25,
+  "verse_key": "25:30",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 362,
+  "juz_number": 19,
+  "text_uthmani": "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَـٰذَا ٱلْقُرْءَانَ مَهْجُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 32586,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 32587,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_002.mp3",
+      "text": "ٱلرَّسُولُ",
+      "translation": "Rasul",
+      "transliteration": "l-rasūlu"
+    },
+    {
+      "id": 32588,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_003.mp3",
+      "text": "يَـٰرَبِّ",
+      "translation": "Ya tuhanku",
+      "transliteration": "yārabbi"
+    },
+    {
+      "id": 32589,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_004.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 32590,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_005.mp3",
+      "text": "قَوْمِى",
+      "translation": "kaumku",
+      "transliteration": "qawmī"
+    },
+    {
+      "id": 32591,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_006.mp3",
+      "text": "ٱتَّخَذُوا۟",
+      "translation": "mereka mengambil/menjadikan",
+      "transliteration": "ittakhadhū"
+    },
+    {
+      "id": 32592,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_007.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 32593,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_008.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al Qur'an",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 32594,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_030_009.mp3",
+      "text": "مَهْجُورًۭا",
+      "translation": "menjauhi/tidak dipedulikan",
+      "transliteration": "mahjūran"
+    },
+    {
+      "id": 32595,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkatalah rasul, \"Ya Tuhan-ku, sesungguhnya kaumku menjadikan Al-Qur`ān itu sesuatu yang tidak diacuhkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 514550,
+    "timestamp_to": 524950,
+    "duration": 10400,
+    "segments": [
+      [
+        1,
+        514495,
+        515405
+      ],
+      [
+        2,
+        515405,
+        516515
+      ],
+      [
+        3,
+        516515,
+        517635
+      ],
+      [
+        4,
+        517635,
+        519165
+      ],
+      [
+        5,
+        519165,
+        519835
+      ],
+      [
+        6,
+        519835,
+        520985
+      ],
+      [
+        7,
+        520985,
+        521605
+      ],
+      [
+        8,
+        521605,
+        522945
+      ],
+      [
+        9,
+        522945,
+        524840
+      ]
+    ]
+  }
+}

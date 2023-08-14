@@ -1,0 +1,99 @@
+{
+  "id": 1872,
+  "chapter_id": 15,
+  "verse_key": "15:70",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 59762,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_070_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 59763,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_070_002.mp3",
+      "text": "أَوَلَمْ",
+      "translation": "ataukah tidak",
+      "transliteration": "awalam"
+    },
+    {
+      "id": 59764,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_070_003.mp3",
+      "text": "نَنْهَكَ",
+      "translation": "kami melarangmu",
+      "transliteration": "nanhaka"
+    },
+    {
+      "id": 59765,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_070_004.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 59766,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_070_005.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "alam semesta",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 59767,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Dan bukankah kami telah melarangmu dari (melindungi) manusia <sup foot_note_id=\"806\">1</sup>?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 683780,
+    "timestamp_to": 691220,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        683755,
+        686195
+      ],
+      [
+        2,
+        686195,
+        687045
+      ],
+      [
+        3,
+        687045,
+        687855
+      ],
+      [
+        4,
+        687855,
+        688315
+      ],
+      [
+        5,
+        688315,
+        691150
+      ]
+    ]
+  }
+}

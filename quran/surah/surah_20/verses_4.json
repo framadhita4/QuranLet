@@ -1,0 +1,112 @@
+{
+  "id": 2352,
+  "chapter_id": 20,
+  "verse_key": "20:4",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "تَنزِيلًا مِّمَّنْ خَلَقَ ٱلْأَرْضَ وَٱلسَّمَـٰوَٰتِ ٱلْعُلَى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 3531,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_004_001.mp3",
+      "text": "تَنزِيلًۭا",
+      "translation": "diturunkan",
+      "transliteration": "tanzīlan"
+    },
+    {
+      "id": 3532,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_004_002.mp3",
+      "text": "مِّمَّنْ",
+      "translation": "dari yang",
+      "transliteration": "mimman"
+    },
+    {
+      "id": 3533,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_004_003.mp3",
+      "text": "خَلَقَ",
+      "translation": "telah menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 3534,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_004_004.mp3",
+      "text": "ٱلْأَرْضَ",
+      "translation": "bumi",
+      "transliteration": "l-arḍa"
+    },
+    {
+      "id": 3535,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_004_005.mp3",
+      "text": "وَٱلسَّمَـٰوَٰتِ",
+      "translation": "dan langit",
+      "transliteration": "wal-samāwāti"
+    },
+    {
+      "id": 3536,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_004_006.mp3",
+      "text": "ٱلْعُلَى",
+      "translation": "yang tinggi",
+      "transliteration": "l-ʿulā"
+    },
+    {
+      "id": 3537,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu diturunkan dari Allah yang menciptakan bumi dan langit yang tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16110,
+    "timestamp_to": 25410,
+    "duration": 9300,
+    "segments": [
+      [
+        1,
+        15715,
+        17815
+      ],
+      [
+        2,
+        17815,
+        20105
+      ],
+      [
+        3,
+        20105,
+        20705
+      ],
+      [
+        4,
+        20705,
+        21725
+      ],
+      [
+        5,
+        21725,
+        23505
+      ],
+      [
+        6,
+        23505,
+        24990
+      ]
+    ]
+  }
+}

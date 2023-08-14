@@ -1,0 +1,164 @@
+{
+  "id": 5320,
+  "chapter_id": 68,
+  "verse_key": "68:49",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 47917,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_001.mp3",
+      "text": "لَّوْلَآ",
+      "translation": "kalau tidak",
+      "transliteration": "lawlā"
+    },
+    {
+      "id": 47918,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_002.mp3",
+      "text": "أَن",
+      "translation": "karena",
+      "transliteration": "an"
+    },
+    {
+      "id": 47919,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_003.mp3",
+      "text": "تَدَٰرَكَهُۥ",
+      "translation": "mendapatkannya/ia",
+      "transliteration": "tadārakahu"
+    },
+    {
+      "id": 47920,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_004.mp3",
+      "text": "نِعْمَةٌۭ",
+      "translation": "nikmat",
+      "transliteration": "niʿ'matun"
+    },
+    {
+      "id": 47921,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_005.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 47922,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_006.mp3",
+      "text": "رَّبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 47923,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_007.mp3",
+      "text": "لَنُبِذَ",
+      "translation": "tentu ia dicampakkan",
+      "transliteration": "lanubidha"
+    },
+    {
+      "id": 47924,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_008.mp3",
+      "text": "بِٱلْعَرَآءِ",
+      "translation": "tanah tandus/kosong",
+      "transliteration": "bil-ʿarāi"
+    },
+    {
+      "id": 47925,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_009.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan ia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 47926,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_049_010.mp3",
+      "text": "مَذْمُومٌۭ",
+      "translation": "tercela",
+      "transliteration": "madhmūmun"
+    },
+    {
+      "id": 47927,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kalau sekiranya ia tidak segera mendapat nikmat dari Tuhan-nya, benar-benar ia dicampakkan ke tanah tandus dalam keadaan tercela.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 405130,
+    "timestamp_to": 420020,
+    "duration": 14890,
+    "segments": [
+      [
+        1,
+        405005,
+        407285
+      ],
+      [
+        2,
+        407285,
+        408285
+      ],
+      [
+        3,
+        408285,
+        409705
+      ],
+      [
+        4,
+        409705,
+        410555
+      ],
+      [
+        5,
+        410555,
+        411465
+      ],
+      [
+        6,
+        411465,
+        412705
+      ],
+      [
+        7,
+        412705,
+        413435
+      ],
+      [
+        8,
+        413435,
+        416385
+      ],
+      [
+        9,
+        416385,
+        416905
+      ],
+      [
+        10,
+        416905,
+        419470
+      ]
+    ]
+  }
+}

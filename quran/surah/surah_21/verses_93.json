@@ -1,0 +1,112 @@
+{
+  "id": 2576,
+  "chapter_id": 21,
+  "verse_key": "21:93",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 283,
+  "manzil_number": 4,
+  "page_number": 330,
+  "juz_number": 17,
+  "text_uthmani": "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 69181,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_093_001.mp3",
+      "text": "وَتَقَطَّعُوٓا۟",
+      "translation": "dan mereka memotong",
+      "transliteration": "wataqaṭṭaʿū"
+    },
+    {
+      "id": 69182,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_093_002.mp3",
+      "text": "أَمْرَهُم",
+      "translation": "urusan mereka",
+      "transliteration": "amrahum"
+    },
+    {
+      "id": 69183,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_093_003.mp3",
+      "text": "بَيْنَهُمْ ۖ",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 69185,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_093_005.mp3",
+      "text": "كُلٌّ",
+      "translation": "masing-masing/semuanya",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 69186,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_093_006.mp3",
+      "text": "إِلَيْنَا",
+      "translation": "kepada Kami",
+      "transliteration": "ilaynā"
+    },
+    {
+      "id": 69187,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_093_007.mp3",
+      "text": "رَٰجِعُونَ",
+      "translation": "mereka kembali",
+      "transliteration": "rājiʿūna"
+    },
+    {
+      "id": 69188,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka telah memotong-motong urusan (agama) mereka di antara mereka.  Kepada Kamilah, masing-masing golongan itu akan kembali <sup foot_note_id=\"972\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1312880,
+    "timestamp_to": 1322550,
+    "duration": 9670,
+    "segments": [
+      [
+        1,
+        1312845,
+        1315315
+      ],
+      [
+        2,
+        1315315,
+        1316365
+      ],
+      [
+        3,
+        1316365,
+        1317985
+      ],
+      [
+        4,
+        1317985,
+        1318705
+      ],
+      [
+        5,
+        1318705,
+        1319765
+      ],
+      [
+        6,
+        1319765,
+        1322480
+      ]
+    ]
+  }
+}

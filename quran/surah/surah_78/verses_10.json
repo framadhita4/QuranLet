@@ -1,0 +1,73 @@
+{
+  "id": 5682,
+  "chapter_id": 78,
+  "verse_key": "78:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 11624,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_010_001.mp3",
+      "text": "وَجَعَلْنَا",
+      "translation": "dan Kami jadikan",
+      "transliteration": "wajaʿalnā"
+    },
+    {
+      "id": 11625,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_010_002.mp3",
+      "text": "ٱلَّيْلَ",
+      "translation": "malam",
+      "transliteration": "al-layla"
+    },
+    {
+      "id": 11626,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_010_003.mp3",
+      "text": "لِبَاسًۭا",
+      "translation": "pakaian",
+      "transliteration": "libāsan"
+    },
+    {
+      "id": 11627,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami jadikan malam sebagai pakaian<sup foot_note_id=\"1547\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 44520,
+    "timestamp_to": 48490,
+    "duration": 3970,
+    "segments": [
+      [
+        1,
+        44435,
+        45595
+      ],
+      [
+        2,
+        45595,
+        46505
+      ],
+      [
+        3,
+        46505,
+        48320
+      ]
+    ]
+  }
+}

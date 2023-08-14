@@ -1,0 +1,73 @@
+{
+  "id": 3472,
+  "chapter_id": 31,
+  "verse_key": "31:3",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 356,
+  "manzil_number": 5,
+  "page_number": 411,
+  "juz_number": 21,
+  "text_uthmani": "هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3",
+  "words": [
+    {
+      "id": 3047,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_003_001.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 3048,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_003_002.mp3",
+      "text": "وَرَحْمَةًۭ",
+      "translation": "dan rahmat",
+      "transliteration": "waraḥmatan"
+    },
+    {
+      "id": 3049,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_003_003.mp3",
+      "text": "لِّلْمُحْسِنِينَ",
+      "translation": "bagi orang-orang yang berbuat kebaikan",
+      "transliteration": "lil'muḥ'sinīna"
+    },
+    {
+      "id": 3050,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "menjadi petunjuk dan rahmat bagi orang-orang yang berbuat kebaikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12830,
+    "timestamp_to": 18500,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        12795,
+        14085
+      ],
+      [
+        2,
+        14085,
+        14935
+      ],
+      [
+        3,
+        14935,
+        18410
+      ]
+    ]
+  }
+}

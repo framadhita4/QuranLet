@@ -1,0 +1,177 @@
+{
+  "id": 18,
+  "chapter_id": 2,
+  "verse_key": "2:11",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 12330,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 12331,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_002.mp3",
+      "text": "قِيلَ",
+      "translation": "ketika dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 12332,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 12333,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_004.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 12334,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_005.mp3",
+      "text": "تُفْسِدُوا۟",
+      "translation": "kalian membuat kerusakan",
+      "transliteration": "tuf'sidū"
+    },
+    {
+      "id": 12335,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_006.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12336,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_007.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 12337,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_008.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 12338,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_009.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 12339,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_010.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 12340,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_011_011.mp3",
+      "text": "مُصْلِحُونَ",
+      "translation": "orang-orang yang melakukan perbaikan",
+      "transliteration": "muṣ'liḥūna"
+    },
+    {
+      "id": 12341,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bila dikatakan kepada mereka, “Janganlah kamu membuat kerusakan di muka bumi<sup foot_note_id=\"24\">1</sup>”, mereka menjawab, \"Sesungguhnya kami orang-orang yang mengadakan perbaikan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 119400,
+    "timestamp_to": 130080,
+    "duration": 10690,
+    "segments": [
+      [
+        1,
+        119285,
+        120075
+      ],
+      [
+        2,
+        120075,
+        120695
+      ],
+      [
+        3,
+        120695,
+        121165
+      ],
+      [
+        4,
+        121165,
+        121515
+      ],
+      [
+        5,
+        121515,
+        122405
+      ],
+      [
+        6,
+        122405,
+        122635
+      ],
+      [
+        7,
+        122635,
+        123315
+      ],
+      [
+        8,
+        123315,
+        125255
+      ],
+      [
+        9,
+        125255,
+        126805
+      ],
+      [
+        10,
+        126805,
+        127335
+      ],
+      [
+        11,
+        127335,
+        129860
+      ]
+    ]
+  }
+}

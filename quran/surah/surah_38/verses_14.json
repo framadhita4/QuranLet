@@ -1,0 +1,125 @@
+{
+  "id": 3984,
+  "chapter_id": 38,
+  "verse_key": "38:14",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 393,
+  "manzil_number": 6,
+  "page_number": 453,
+  "juz_number": 23,
+  "text_uthmani": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 16795,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_001.mp3",
+      "text": "إِن",
+      "translation": "tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 16796,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_002.mp3",
+      "text": "كُلٌّ",
+      "translation": "semua itu",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 16797,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 16798,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_004.mp3",
+      "text": "كَذَّبَ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 16799,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_005.mp3",
+      "text": "ٱلرُّسُلَ",
+      "translation": "Rasul-rasul",
+      "transliteration": "l-rusula"
+    },
+    {
+      "id": 16800,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_006.mp3",
+      "text": "فَحَقَّ",
+      "translation": "maka pastilah",
+      "transliteration": "faḥaqqa"
+    },
+    {
+      "id": 16801,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_014_007.mp3",
+      "text": "عِقَابِ",
+      "translation": "azab-Ku",
+      "transliteration": "ʿiqābi"
+    },
+    {
+      "id": 16802,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Semua mereka itu tidak lain hanyalah mendustakan rasul-rasul, maka pastilah (bagi mereka) azab-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 157950,
+    "timestamp_to": 166570,
+    "duration": 8620,
+    "segments": [
+      [
+        1,
+        157895,
+        159195
+      ],
+      [
+        2,
+        159195,
+        160025
+      ],
+      [
+        3,
+        160025,
+        160845
+      ],
+      [
+        4,
+        160845,
+        161765
+      ],
+      [
+        5,
+        161765,
+        162645
+      ],
+      [
+        6,
+        162645,
+        163435
+      ],
+      [
+        7,
+        163435,
+        166120
+      ]
+    ]
+  }
+}

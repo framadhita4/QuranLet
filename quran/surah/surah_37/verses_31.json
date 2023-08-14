@@ -1,0 +1,112 @@
+{
+  "id": 3819,
+  "chapter_id": 37,
+  "verse_key": "37:31",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 34262,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_031_001.mp3",
+      "text": "فَحَقَّ",
+      "translation": "maka pastilah",
+      "transliteration": "faḥaqqa"
+    },
+    {
+      "id": 34263,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_031_002.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas kita/kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 34264,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_031_003.mp3",
+      "text": "قَوْلُ",
+      "translation": "perkataan/putusan",
+      "transliteration": "qawlu"
+    },
+    {
+      "id": 34265,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_031_004.mp3",
+      "text": "رَبِّنَآ ۖ",
+      "translation": "Tuhan kami/kita",
+      "transliteration": "rabbinā"
+    },
+    {
+      "id": 34267,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_031_006.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 34268,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_031_007.mp3",
+      "text": "لَذَآئِقُونَ",
+      "translation": "sungguh akan merasakan",
+      "transliteration": "ladhāiqūna"
+    },
+    {
+      "id": 34269,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka pastilah putusan (azab) Tuhan kita menimpa atas kita; sesungguhnya kita akan merasakan (azab itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 249880,
+    "timestamp_to": 261480,
+    "duration": 11600,
+    "segments": [
+      [
+        1,
+        249775,
+        250575
+      ],
+      [
+        2,
+        250575,
+        251685
+      ],
+      [
+        3,
+        251685,
+        252375
+      ],
+      [
+        4,
+        252375,
+        253535
+      ],
+      [
+        5,
+        253535,
+        255695
+      ],
+      [
+        6,
+        255695,
+        261300
+      ]
+    ]
+  }
+}

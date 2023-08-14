@@ -1,0 +1,112 @@
+{
+  "id": 3139,
+  "chapter_id": 26,
+  "verse_key": "26:207",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "مَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يُمَتَّعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85547,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_207_001.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 85548,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_207_002.mp3",
+      "text": "أَغْنَىٰ",
+      "translation": "mencukupi/berguna",
+      "transliteration": "aghnā"
+    },
+    {
+      "id": 85549,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_207_003.mp3",
+      "text": "عَنْهُم",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 85550,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_207_004.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 85551,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_207_005.mp3",
+      "text": "كَانُوا۟",
+      "translation": "yang mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 85552,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_207_006.mp3",
+      "text": "يُمَتَّعُونَ",
+      "translation": "mereka menikmati",
+      "transliteration": "yumattaʿūna"
+    },
+    {
+      "id": 85553,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٠٧",
+      "translation": "(207)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya tidak berguna bagi mereka apa yang mereka selalu menikmatinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1791400,
+    "timestamp_to": 1800780,
+    "duration": 9380,
+    "segments": [
+      [
+        1,
+        1791355,
+        1793735
+      ],
+      [
+        2,
+        1793735,
+        1794495
+      ],
+      [
+        3,
+        1794495,
+        1795275
+      ],
+      [
+        4,
+        1795275,
+        1796425
+      ],
+      [
+        5,
+        1796425,
+        1797365
+      ],
+      [
+        6,
+        1797365,
+        1800680
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5422,
+  "chapter_id": 71,
+  "verse_key": "71:3",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 2587,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_003_001.mp3",
+      "text": "أَنِ",
+      "translation": "hendaklah",
+      "transliteration": "ani"
+    },
+    {
+      "id": 2588,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_003_002.mp3",
+      "text": "ٱعْبُدُوا۟",
+      "translation": "kamu menyembah",
+      "transliteration": "uʿ'budū"
+    },
+    {
+      "id": 2589,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_003_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 2590,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_003_004.mp3",
+      "text": "وَٱتَّقُوهُ",
+      "translation": "dan bertakwalah kepada-Nya",
+      "transliteration": "wa-ittaqūhu"
+    },
+    {
+      "id": 2591,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_003_005.mp3",
+      "text": "وَأَطِيعُونِ",
+      "translation": "dan taatilah aku",
+      "transliteration": "wa-aṭīʿūni"
+    },
+    {
+      "id": 2592,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) sembahlah olehmu Allah, bertakwalah kepada-Nya dan taatlah kepadaku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24600,
+    "timestamp_to": 30350,
+    "duration": 5750,
+    "segments": [
+      [
+        1,
+        24525,
+        24885
+      ],
+      [
+        2,
+        24885,
+        25435
+      ],
+      [
+        3,
+        25435,
+        26205
+      ],
+      [
+        4,
+        26205,
+        27355
+      ],
+      [
+        5,
+        27355,
+        30170
+      ]
+    ]
+  }
+}

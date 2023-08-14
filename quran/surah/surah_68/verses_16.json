@@ -1,0 +1,73 @@
+{
+  "id": 5287,
+  "chapter_id": 68,
+  "verse_key": "68:16",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 18491,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_016_001.mp3",
+      "text": "سَنَسِمُهُۥ",
+      "translation": "kelak akan Kami beri tanda dia",
+      "transliteration": "sanasimuhu"
+    },
+    {
+      "id": 18492,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_016_002.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 18493,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_016_003.mp3",
+      "text": "ٱلْخُرْطُومِ",
+      "translation": "belalai",
+      "transliteration": "l-khur'ṭūmi"
+    },
+    {
+      "id": 18494,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kelak akan Kami beri tanda dia di belalai(nya)<sup foot_note_id=\"1492\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 109200,
+    "timestamp_to": 114580,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        109135,
+        110115
+      ],
+      [
+        2,
+        110115,
+        110775
+      ],
+      [
+        3,
+        110775,
+        114440
+      ]
+    ]
+  }
+}

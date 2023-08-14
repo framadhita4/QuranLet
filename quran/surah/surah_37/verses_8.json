@@ -1,0 +1,151 @@
+{
+  "id": 3796,
+  "chapter_id": 37,
+  "verse_key": "37:8",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 9572,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 9573,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_002.mp3",
+      "text": "يَسَّمَّعُونَ",
+      "translation": "mereka dapat mendengarkan",
+      "transliteration": "yassammaʿūna"
+    },
+    {
+      "id": 9574,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_003.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 9575,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_004.mp3",
+      "text": "ٱلْمَلَإِ",
+      "translation": "pembesar-pembesar",
+      "transliteration": "l-mala-i"
+    },
+    {
+      "id": 9576,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_005.mp3",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation": "tertinggi",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 9577,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_006.mp3",
+      "text": "وَيُقْذَفُونَ",
+      "translation": "dan mereka dilempari",
+      "transliteration": "wayuq'dhafūna"
+    },
+    {
+      "id": 9578,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_007.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 9579,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_008.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 9580,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_008_009.mp3",
+      "text": "جَانِبٍۢ",
+      "translation": "penjuru",
+      "transliteration": "jānibin"
+    },
+    {
+      "id": 9581,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "setan-setan itu tidak dapat mendengar-dengarkan (pembicaraan) para malaikat dan mereka dilempari dari segala penjuru.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 43080,
+    "timestamp_to": 52920,
+    "duration": 9850,
+    "segments": [
+      [
+        1,
+        43035,
+        43555
+      ],
+      [
+        2,
+        43555,
+        45905
+      ],
+      [
+        3,
+        45905,
+        46295
+      ],
+      [
+        4,
+        46295,
+        47175
+      ],
+      [
+        5,
+        47175,
+        48255
+      ],
+      [
+        6,
+        48255,
+        49845
+      ],
+      [
+        7,
+        49845,
+        50845
+      ],
+      [
+        8,
+        50845,
+        51505
+      ],
+      [
+        9,
+        51505,
+        52820
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3849,
+  "chapter_id": 37,
+  "verse_key": "37:61",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ ٱلْعَـٰمِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 55351,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_061_001.mp3",
+      "text": "لِمِثْلِ",
+      "translation": "untuk seperti",
+      "transliteration": "limith'li"
+    },
+    {
+      "id": 55352,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_061_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 55353,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_061_003.mp3",
+      "text": "فَلْيَعْمَلِ",
+      "translation": "maka hendaklah berusaha",
+      "transliteration": "falyaʿmali"
+    },
+    {
+      "id": 55354,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_061_004.mp3",
+      "text": "ٱلْعَـٰمِلُونَ",
+      "translation": "orang-orang yang bekerja",
+      "transliteration": "l-ʿāmilūna"
+    },
+    {
+      "id": 55355,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Untuk kemenangan serupa ini, hendaklah berusaha orang-orang yang bekerja\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 510470,
+    "timestamp_to": 517650,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        510415,
+        511385
+      ],
+      [
+        2,
+        511385,
+        512205
+      ],
+      [
+        3,
+        512205,
+        513515
+      ],
+      [
+        4,
+        513515,
+        517540
+      ]
+    ]
+  }
+}

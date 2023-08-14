@@ -1,0 +1,86 @@
+{
+  "id": 5915,
+  "chapter_id": 85,
+  "verse_key": "85:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 6733,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_006_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 6734,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_006_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 6735,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_006_003.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 6736,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_006_004.mp3",
+      "text": "قُعُودٌۭ",
+      "translation": "duduk",
+      "transliteration": "quʿūdun"
+    },
+    {
+      "id": 6737,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ketika mereka duduk di sekitarnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33220,
+    "timestamp_to": 38710,
+    "duration": 5490,
+    "segments": [
+      [
+        1,
+        33185,
+        33635
+      ],
+      [
+        2,
+        33635,
+        33965
+      ],
+      [
+        3,
+        33965,
+        34975
+      ],
+      [
+        4,
+        34975,
+        38610
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1845,
+  "chapter_id": 15,
+  "verse_key": "15:43",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 44076,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_043_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 44077,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_043_002.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 44078,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_043_003.mp3",
+      "text": "لَمَوْعِدُهُمْ",
+      "translation": "sungguh dijanjikan kepada mereka",
+      "transliteration": "lamawʿiduhum"
+    },
+    {
+      "id": 44079,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_043_004.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 44080,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Jahanam itu benar-benar tempat yang telah diancamkan kepada mereka (pengikut-pengikut setan) semuanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 424910,
+    "timestamp_to": 432410,
+    "duration": 7500,
+    "segments": [
+      [
+        1,
+        424885,
+        426275
+      ],
+      [
+        2,
+        426275,
+        428165
+      ],
+      [
+        3,
+        428165,
+        429575
+      ],
+      [
+        4,
+        429575,
+        432330
+      ]
+    ]
+  }
+}

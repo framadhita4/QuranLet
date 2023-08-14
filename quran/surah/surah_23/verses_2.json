@@ -1,0 +1,99 @@
+{
+  "id": 2675,
+  "chapter_id": 23,
+  "verse_key": "23:2",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 1546,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_002_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 1547,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_002_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 1548,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_002_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 1549,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_002_004.mp3",
+      "text": "صَلَاتِهِمْ",
+      "translation": "sholat mereka",
+      "transliteration": "ṣalātihim"
+    },
+    {
+      "id": 1550,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_002_005.mp3",
+      "text": "خَـٰشِعُونَ",
+      "translation": "orang-orang yang khusyu`",
+      "transliteration": "khāshiʿūna"
+    },
+    {
+      "id": 1551,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang khusyuk dalam salatnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6160,
+    "timestamp_to": 14020,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        6115,
+        7385
+      ],
+      [
+        2,
+        7385,
+        7815
+      ],
+      [
+        3,
+        7815,
+        8145
+      ],
+      [
+        4,
+        8145,
+        9475
+      ],
+      [
+        5,
+        9475,
+        13940
+      ]
+    ]
+  }
+}

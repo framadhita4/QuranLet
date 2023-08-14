@@ -1,0 +1,164 @@
+{
+  "id": 1021,
+  "chapter_id": 7,
+  "verse_key": "7:67",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "ruku_number": 130,
+  "manzil_number": 2,
+  "page_number": 158,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ يَـٰقَوْمِ لَيْسَ بِى سَفَاهَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 57993,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Hud) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 57994,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_002.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 57995,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_003.mp3",
+      "text": "لَيْسَ",
+      "translation": "bukanlah",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 57996,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_004.mp3",
+      "text": "بِى",
+      "translation": "bagi aku",
+      "transliteration": "bī"
+    },
+    {
+      "id": 57997,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_005.mp3",
+      "text": "سَفَاهَةٌۭ",
+      "translation": "kurang akal",
+      "transliteration": "safāhatun"
+    },
+    {
+      "id": 57998,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_006.mp3",
+      "text": "وَلَـٰكِنِّى",
+      "translation": "akan tetapi aku",
+      "transliteration": "walākinnī"
+    },
+    {
+      "id": 57999,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_007.mp3",
+      "text": "رَسُولٌۭ",
+      "translation": "utusan",
+      "transliteration": "rasūlun"
+    },
+    {
+      "id": 58000,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_008.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 58001,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_009.mp3",
+      "text": "رَّبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 58002,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_067_010.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 58003,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hūd berkata \"Hai kaumku, tidak ada padaku kekurangan akal sedikit pun, tetapi aku ini adalah utusan dari Tuhan semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1561750,
+    "timestamp_to": 1574390,
+    "duration": 12640,
+    "segments": [
+      [
+        1,
+        1561695,
+        1562375
+      ],
+      [
+        2,
+        1562375,
+        1563525
+      ],
+      [
+        3,
+        1563525,
+        1564095
+      ],
+      [
+        4,
+        1564095,
+        1564435
+      ],
+      [
+        5,
+        1564435,
+        1566345
+      ],
+      [
+        6,
+        1566345,
+        1568365
+      ],
+      [
+        7,
+        1568365,
+        1569435
+      ],
+      [
+        8,
+        1569435,
+        1570185
+      ],
+      [
+        9,
+        1570185,
+        1571095
+      ],
+      [
+        10,
+        1571095,
+        1574280
+      ]
+    ]
+  }
+}

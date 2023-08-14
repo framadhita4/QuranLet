@@ -1,0 +1,125 @@
+{
+  "id": 2568,
+  "chapter_id": 21,
+  "verse_key": "21:85",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 283,
+  "manzil_number": 4,
+  "page_number": 329,
+  "juz_number": 17,
+  "text_uthmani": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 66360,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_001.mp3",
+      "text": "وَإِسْمَـٰعِيلَ",
+      "translation": "dan Ismai'il",
+      "transliteration": "wa-is'māʿīla"
+    },
+    {
+      "id": 66361,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_002.mp3",
+      "text": "وَإِدْرِيسَ",
+      "translation": "dan Idris",
+      "transliteration": "wa-id'rīsa"
+    },
+    {
+      "id": 66362,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_003.mp3",
+      "text": "وَذَا",
+      "translation": "dan",
+      "transliteration": "wadhā"
+    },
+    {
+      "id": 66363,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_004.mp3",
+      "text": "ٱلْكِفْلِ ۖ",
+      "translation": "Zulkifli",
+      "transliteration": "l-kif'li"
+    },
+    {
+      "id": 66365,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_006.mp3",
+      "text": "كُلٌّۭ",
+      "translation": "masing-masing semuanya",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 66366,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_007.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 66367,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_085_008.mp3",
+      "text": "ٱلصَّـٰبِرِينَ",
+      "translation": "orang-orang yang sabar",
+      "transliteration": "l-ṣābirīna"
+    },
+    {
+      "id": 66368,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah kisah) Ismā`īl, Idrīs dan Żulkifli.  Semua mereka termasuk orang-orang yang sabar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1187820,
+    "timestamp_to": 1196570,
+    "duration": 8750,
+    "segments": [
+      [
+        1,
+        1187795,
+        1189515
+      ],
+      [
+        2,
+        1189515,
+        1190705
+      ],
+      [
+        3,
+        1190705,
+        1191015
+      ],
+      [
+        4,
+        1191015,
+        1191865
+      ],
+      [
+        5,
+        1191865,
+        1192765
+      ],
+      [
+        6,
+        1192765,
+        1193685
+      ],
+      [
+        7,
+        1193685,
+        1196510
+      ]
+    ]
+  }
+}

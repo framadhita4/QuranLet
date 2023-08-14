@@ -1,0 +1,86 @@
+{
+  "id": 3942,
+  "chapter_id": 37,
+  "verse_key": "37:154",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 80946,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_154_001.mp3",
+      "text": "مَا",
+      "translation": "mengapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 80947,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_154_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 80948,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_154_003.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 80949,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_154_004.mp3",
+      "text": "تَحْكُمُونَ",
+      "translation": "kamu menghukumi/menetapkan",
+      "transliteration": "taḥkumūna"
+    },
+    {
+      "id": 80950,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٥٤",
+      "translation": "(154)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah yang terjadi padamu? Bagaimana (caranya) kamu menetapkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1241990,
+    "timestamp_to": 1247240,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        1241955,
+        1242495
+      ],
+      [
+        2,
+        1242495,
+        1243095
+      ],
+      [
+        3,
+        1243095,
+        1243745
+      ],
+      [
+        4,
+        1243745,
+        1247160
+      ]
+    ]
+  }
+}

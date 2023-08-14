@@ -1,0 +1,125 @@
+{
+  "id": 923,
+  "chapter_id": 6,
+  "verse_key": "6:134",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "ruku_number": 117,
+  "manzil_number": 2,
+  "page_number": 145,
+  "juz_number": 8,
+  "text_uthmani": "إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 78346,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 78347,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_002.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 78348,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_003.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "dijanjikan kepadamu",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 78349,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_004.mp3",
+      "text": "لَـَٔاتٍۢ ۖ",
+      "translation": "pasti akan datang",
+      "transliteration": "laātin"
+    },
+    {
+      "id": 78351,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_006.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 78352,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_007.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 78353,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_008.mp3",
+      "text": "بِمُعْجِزِينَ",
+      "translation": "orang-orang yang menolak",
+      "transliteration": "bimuʿ'jizīna"
+    },
+    {
+      "id": 78354,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٣٤",
+      "translation": "(134)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya apa yang dijanjikan kepadamu pasti datang, dan kamu sekali-kali tidak sanggup menolaknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3314370,
+    "timestamp_to": 3329520,
+    "duration": 15150,
+    "segments": [
+      [
+        1,
+        3314315,
+        3316175
+      ],
+      [
+        2,
+        3316175,
+        3316535
+      ],
+      [
+        3,
+        3316535,
+        3317905
+      ],
+      [
+        4,
+        3317905,
+        3320655
+      ],
+      [
+        5,
+        3320655,
+        3322955
+      ],
+      [
+        6,
+        3322955,
+        3325785
+      ],
+      [
+        7,
+        3325785,
+        3329440
+      ]
+    ]
+  }
+}

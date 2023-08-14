@@ -1,0 +1,86 @@
+{
+  "id": 5838,
+  "chapter_id": 82,
+  "verse_key": "82:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 10425,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali jangan",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 10426,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_002.mp3",
+      "text": "بَلْ",
+      "translation": "tetap/bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 10427,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_003.mp3",
+      "text": "تُكَذِّبُونَ",
+      "translation": "kamu mendustakan",
+      "transliteration": "tukadhibūna"
+    },
+    {
+      "id": 10428,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_004.mp3",
+      "text": "بِٱلدِّينِ",
+      "translation": "pada hari pembalasan",
+      "transliteration": "bil-dīni"
+    },
+    {
+      "id": 10429,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukan hanya durhaka saja, bahkan kamu mendustakan hari pembalasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42840,
+    "timestamp_to": 48460,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        42485,
+        43335
+      ],
+      [
+        2,
+        43335,
+        43725
+      ],
+      [
+        3,
+        43725,
+        45195
+      ],
+      [
+        4,
+        45195,
+        48040
+      ]
+    ]
+  }
+}

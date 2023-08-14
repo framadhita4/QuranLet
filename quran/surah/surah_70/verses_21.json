@@ -1,0 +1,86 @@
+{
+  "id": 5396,
+  "chapter_id": 70,
+  "verse_key": "70:21",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 23903,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_021_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 23904,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_021_002.mp3",
+      "text": "مَسَّهُ",
+      "translation": "menimpanya/mendapatkan",
+      "transliteration": "massahu"
+    },
+    {
+      "id": 23905,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_021_003.mp3",
+      "text": "ٱلْخَيْرُ",
+      "translation": "kebaikan",
+      "transliteration": "l-khayru"
+    },
+    {
+      "id": 23906,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_021_004.mp3",
+      "text": "مَنُوعًا",
+      "translation": "menahan/amat kikir",
+      "transliteration": "manūʿan"
+    },
+    {
+      "id": 23907,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila ia mendapat kebaikan, ia amat kikir,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 109810,
+    "timestamp_to": 113780,
+    "duration": 3970,
+    "segments": [
+      [
+        1,
+        109755,
+        110605
+      ],
+      [
+        2,
+        110605,
+        111365
+      ],
+      [
+        3,
+        111365,
+        112215
+      ],
+      [
+        4,
+        112215,
+        113680
+      ]
+    ]
+  }
+}

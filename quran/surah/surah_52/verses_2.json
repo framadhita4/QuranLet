@@ -1,0 +1,60 @@
+{
+  "id": 4737,
+  "chapter_id": 52,
+  "verse_key": "52:2",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَكِتَـٰبٍ مَّسْطُورٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 1153,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_002_001.mp3",
+      "text": "وَكِتَـٰبٍۢ",
+      "translation": "dan kitab",
+      "transliteration": "wakitābin"
+    },
+    {
+      "id": 1154,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_002_002.mp3",
+      "text": "مَّسْطُورٍۢ",
+      "translation": "tertulis",
+      "transliteration": "masṭūrin"
+    },
+    {
+      "id": 1155,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kitab yang ditulis,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3400,
+    "timestamp_to": 8810,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        2995,
+        4245
+      ],
+      [
+        2,
+        4245,
+        8330
+      ]
+    ]
+  }
+}

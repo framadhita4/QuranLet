@@ -1,0 +1,73 @@
+{
+  "id": 5583,
+  "chapter_id": 75,
+  "verse_key": "75:32",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 34746,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_032_001.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 34747,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_032_002.mp3",
+      "text": "كَذَّبَ",
+      "translation": "dia mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 34748,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_032_003.mp3",
+      "text": "وَتَوَلَّىٰ",
+      "translation": "dan dia berpaling",
+      "transliteration": "watawallā"
+    },
+    {
+      "id": 34749,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi ia mendustakan (rasul) dan berpaling (dari kebenaran),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 154570,
+    "timestamp_to": 158800,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        154245,
+        155955
+      ],
+      [
+        2,
+        155955,
+        156785
+      ],
+      [
+        3,
+        156785,
+        158060
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4987,
+  "chapter_id": 56,
+  "verse_key": "56:8",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 8746,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_008_001.mp3",
+      "text": "فَأَصْحَـٰبُ",
+      "translation": "maka kaum/golongan",
+      "transliteration": "fa-aṣḥābu"
+    },
+    {
+      "id": 8747,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_008_002.mp3",
+      "text": "ٱلْمَيْمَنَةِ",
+      "translation": "kanan",
+      "transliteration": "l-maymanati"
+    },
+    {
+      "id": 8748,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_008_003.mp3",
+      "text": "مَآ",
+      "translation": "apa/siapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 8749,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_008_004.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "kaum/golongan",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 8750,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_008_005.mp3",
+      "text": "ٱلْمَيْمَنَةِ",
+      "translation": "kanan",
+      "transliteration": "l-maymanati"
+    },
+    {
+      "id": 8751,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yaitu golongan kanan<sup foot_note_id=\"1449\">1</sup>.  Alangkah mulianya golongan kanan itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32430,
+    "timestamp_to": 40060,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        32315,
+        33625
+      ],
+      [
+        2,
+        33625,
+        35085
+      ],
+      [
+        3,
+        35085,
+        36715
+      ],
+      [
+        4,
+        36715,
+        37855
+      ],
+      [
+        5,
+        37855,
+        39870
+      ]
+    ]
+  }
+}

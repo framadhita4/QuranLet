@@ -1,0 +1,73 @@
+{
+  "id": 4993,
+  "chapter_id": 56,
+  "verse_key": "56:14",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 16044,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_014_001.mp3",
+      "text": "وَقَلِيلٌۭ",
+      "translation": "dan sedikit",
+      "transliteration": "waqalīlun"
+    },
+    {
+      "id": 16045,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_014_002.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 16046,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_014_003.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 16047,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan segolongan kecil dari orang-orang yang kemudian<sup foot_note_id=\"1451\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 73760,
+    "timestamp_to": 80530,
+    "duration": 6770,
+    "segments": [
+      [
+        1,
+        73715,
+        74925
+      ],
+      [
+        2,
+        74925,
+        76455
+      ],
+      [
+        3,
+        76455,
+        80410
+      ]
+    ]
+  }
+}

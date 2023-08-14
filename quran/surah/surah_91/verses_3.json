@@ -1,0 +1,73 @@
+{
+  "id": 6046,
+  "chapter_id": 91,
+  "verse_key": "91:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 2093,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_003_001.mp3",
+      "text": "وَٱلنَّهَارِ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāri"
+    },
+    {
+      "id": 2094,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_003_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 2095,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_003_003.mp3",
+      "text": "جَلَّىٰهَا",
+      "translation": "menampakkannya",
+      "transliteration": "jallāhā"
+    },
+    {
+      "id": 2096,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan siang apabila menampakkannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6610,
+    "timestamp_to": 11360,
+    "duration": 4760,
+    "segments": [
+      [
+        1,
+        6205,
+        8445
+      ],
+      [
+        2,
+        8445,
+        9075
+      ],
+      [
+        3,
+        9075,
+        10550
+      ]
+    ]
+  }
+}

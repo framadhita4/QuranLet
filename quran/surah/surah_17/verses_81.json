@@ -1,0 +1,151 @@
+{
+  "id": 2110,
+  "chapter_id": 17,
+  "verse_key": "17:81",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "ruku_number": 248,
+  "manzil_number": 4,
+  "page_number": 290,
+  "juz_number": 15,
+  "text_uthmani": "وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَـٰطِلُ ۚ إِنَّ ٱلْبَـٰطِلَ كَانَ زَهُوقًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 64732,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_001.mp3",
+      "text": "وَقُلْ",
+      "translation": "dan katakanlah",
+      "transliteration": "waqul"
+    },
+    {
+      "id": 64733,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_002.mp3",
+      "text": "جَآءَ",
+      "translation": "telah datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 64734,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_003.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "benar",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 64735,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_004.mp3",
+      "text": "وَزَهَقَ",
+      "translation": "dan telah lenyap",
+      "transliteration": "wazahaqa"
+    },
+    {
+      "id": 64736,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_005.mp3",
+      "text": "ٱلْبَـٰطِلُ ۚ",
+      "translation": "batil",
+      "transliteration": "l-bāṭilu"
+    },
+    {
+      "id": 64738,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_007.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 64739,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_008.mp3",
+      "text": "ٱلْبَـٰطِلَ",
+      "translation": "yang batil",
+      "transliteration": "l-bāṭila"
+    },
+    {
+      "id": 64740,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_009.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 64741,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_081_010.mp3",
+      "text": "زَهُوقًۭا",
+      "translation": "lenyap",
+      "transliteration": "zahūqan"
+    },
+    {
+      "id": 64742,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨١",
+      "translation": "(81)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan katakanlah, \"Yang benar telah datang dan yang batil telah lenyap\".  Sesungguhnya yang batil itu adalah sesuatu yang pasti lenyap.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1426810,
+    "timestamp_to": 1437570,
+    "duration": 10760,
+    "segments": [
+      [
+        1,
+        1426765,
+        1427375
+      ],
+      [
+        2,
+        1427375,
+        1429555
+      ],
+      [
+        3,
+        1429555,
+        1430555
+      ],
+      [
+        4,
+        1430555,
+        1431395
+      ],
+      [
+        5,
+        1431395,
+        1432435
+      ],
+      [
+        6,
+        1432435,
+        1434065
+      ],
+      [
+        7,
+        1434065,
+        1435275
+      ],
+      [
+        8,
+        1435275,
+        1435885
+      ],
+      [
+        9,
+        1435885,
+        1437500
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4165,
+  "chapter_id": 40,
+  "verse_key": "40:32",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "ruku_number": 409,
+  "manzil_number": 6,
+  "page_number": 470,
+  "juz_number": 24,
+  "text_uthmani": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 34506,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_032_001.mp3",
+      "text": "وَيَـٰقَوْمِ",
+      "translation": "hai kaumku",
+      "transliteration": "wayāqawmi"
+    },
+    {
+      "id": 34507,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_032_002.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 34508,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_032_003.mp3",
+      "text": "أَخَافُ",
+      "translation": "aku takut/khawatir",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 34509,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_032_004.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 34510,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_032_005.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 34511,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_032_006.mp3",
+      "text": "ٱلتَّنَادِ",
+      "translation": "panggil-memanggil",
+      "transliteration": "l-tanādi"
+    },
+    {
+      "id": 34512,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai kaumku, sesungguhnya aku khawatir terhadapmu akan siksaan hari panggil-memanggil <sup foot_note_id=\"1322\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 571370,
+    "timestamp_to": 581010,
+    "duration": 9640,
+    "segments": [
+      [
+        1,
+        569126,
+        570366
+      ],
+      [
+        2,
+        570366,
+        572556
+      ],
+      [
+        3,
+        572556,
+        573936
+      ],
+      [
+        4,
+        573936,
+        574896
+      ],
+      [
+        5,
+        574896,
+        575446
+      ],
+      [
+        6,
+        575446,
+        578741
+      ]
+    ]
+  }
+}

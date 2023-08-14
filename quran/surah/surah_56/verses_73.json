@@ -1,0 +1,99 @@
+{
+  "id": 5052,
+  "chapter_id": 56,
+  "verse_key": "56:73",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 60967,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_001.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 60968,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_002.mp3",
+      "text": "جَعَلْنَـٰهَا",
+      "translation": "Kami menjadikannya",
+      "transliteration": "jaʿalnāhā"
+    },
+    {
+      "id": 60969,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_003.mp3",
+      "text": "تَذْكِرَةًۭ",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "tadhkiratan"
+    },
+    {
+      "id": 60970,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_004.mp3",
+      "text": "وَمَتَـٰعًۭا",
+      "translation": "dan kesenangan/bahan yang berguna",
+      "transliteration": "wamatāʿan"
+    },
+    {
+      "id": 60971,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_005.mp3",
+      "text": "لِّلْمُقْوِينَ",
+      "translation": "bagi orang-orang yang musafir",
+      "transliteration": "lil'muq'wīna"
+    },
+    {
+      "id": 60972,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami menjadikan api itu untuk peringatan dan bahan yang berguna bagi musafir di padang pasir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 529350,
+    "timestamp_to": 539200,
+    "duration": 9850,
+    "segments": [
+      [
+        1,
+        529275,
+        529955
+      ],
+      [
+        2,
+        529955,
+        531515
+      ],
+      [
+        3,
+        531515,
+        533265
+      ],
+      [
+        4,
+        533265,
+        535025
+      ],
+      [
+        5,
+        535025,
+        539030
+      ]
+    ]
+  }
+}

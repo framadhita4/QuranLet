@@ -1,0 +1,112 @@
+{
+  "id": 4750,
+  "chapter_id": 52,
+  "verse_key": "52:15",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "أَفَسِحْرٌ هَـٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 17222,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_015_001.mp3",
+      "text": "أَفَسِحْرٌ",
+      "translation": "maka apakah sihir",
+      "transliteration": "afasiḥ'run"
+    },
+    {
+      "id": 17223,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_015_002.mp3",
+      "text": "هَـٰذَآ",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 17224,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_015_003.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 17225,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_015_004.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 17226,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_015_005.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 17227,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_015_006.mp3",
+      "text": "تُبْصِرُونَ",
+      "translation": "kamu melihat",
+      "transliteration": "tub'ṣirūna"
+    },
+    {
+      "id": 17228,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah ini sihir? Ataukah kamu tidak melihat?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 79370,
+    "timestamp_to": 89060,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        79295,
+        80605
+      ],
+      [
+        2,
+        80605,
+        82815
+      ],
+      [
+        3,
+        82815,
+        83215
+      ],
+      [
+        4,
+        83215,
+        84845
+      ],
+      [
+        5,
+        84845,
+        85295
+      ],
+      [
+        6,
+        85295,
+        88920
+      ]
+    ]
+  }
+}

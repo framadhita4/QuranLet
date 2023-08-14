@@ -1,0 +1,86 @@
+{
+  "id": 5782,
+  "chapter_id": 80,
+  "verse_key": "80:24",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 26981,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_024_001.mp3",
+      "text": "فَلْيَنظُرِ",
+      "translation": "maka hendaklah ia memperhatikan",
+      "transliteration": "falyanẓuri"
+    },
+    {
+      "id": 26982,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_024_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 26983,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_024_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 26984,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_024_004.mp3",
+      "text": "طَعَامِهِۦٓ",
+      "translation": "makanannya",
+      "transliteration": "ṭaʿāmihi"
+    },
+    {
+      "id": 26985,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka hendaklah manusia itu memperhatikan makanannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101710,
+    "timestamp_to": 107980,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        101635,
+        103625
+      ],
+      [
+        2,
+        103625,
+        105565
+      ],
+      [
+        3,
+        105565,
+        106145
+      ],
+      [
+        4,
+        106145,
+        107820
+      ]
+    ]
+  }
+}

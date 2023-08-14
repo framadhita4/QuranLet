@@ -1,0 +1,177 @@
+{
+  "id": 15,
+  "chapter_id": 2,
+  "verse_key": "2:8",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 9598,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_001.mp3",
+      "text": "وَمِنَ",
+      "translation": "dan diantara",
+      "transliteration": "wamina"
+    },
+    {
+      "id": 9599,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_002.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 9600,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_003.mp3",
+      "text": "مَن",
+      "translation": "orang yang",
+      "transliteration": "man"
+    },
+    {
+      "id": 9601,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_004.mp3",
+      "text": "يَقُولُ",
+      "translation": "berkata",
+      "transliteration": "yaqūlu"
+    },
+    {
+      "id": 9602,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_005.mp3",
+      "text": "ءَامَنَّا",
+      "translation": "kami beriman",
+      "transliteration": "āmannā"
+    },
+    {
+      "id": 9603,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_006.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 9604,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_007.mp3",
+      "text": "وَبِٱلْيَوْمِ",
+      "translation": "dan kepada hari",
+      "transliteration": "wabil-yawmi"
+    },
+    {
+      "id": 9605,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_008.mp3",
+      "text": "ٱلْـَٔاخِرِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhiri"
+    },
+    {
+      "id": 9606,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_009.mp3",
+      "text": "وَمَا",
+      "translation": "dan bukanlah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 9607,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_010.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 9608,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_008_011.mp3",
+      "text": "بِمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "bimu'minīna"
+    },
+    {
+      "id": 9609,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di antara manusia ada yang mengatakan, \"Kami beriman kepada Allah dan hari kemudian<sup foot_note_id=\"22\">1</sup>\", padahal mereka itu sesungguhnya bukan orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81190,
+    "timestamp_to": 93230,
+    "duration": 12040,
+    "segments": [
+      [
+        1,
+        81105,
+        81695
+      ],
+      [
+        2,
+        81695,
+        83025
+      ],
+      [
+        3,
+        83025,
+        83275
+      ],
+      [
+        4,
+        83275,
+        84615
+      ],
+      [
+        5,
+        84615,
+        86135
+      ],
+      [
+        6,
+        86135,
+        87155
+      ],
+      [
+        7,
+        87155,
+        88235
+      ],
+      [
+        8,
+        88235,
+        89155
+      ],
+      [
+        9,
+        89155,
+        89745
+      ],
+      [
+        10,
+        89745,
+        90715
+      ],
+      [
+        11,
+        90715,
+        93090
+      ]
+    ]
+  }
+}

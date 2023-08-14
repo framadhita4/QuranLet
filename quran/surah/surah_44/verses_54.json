@@ -1,0 +1,86 @@
+{
+  "id": 4468,
+  "chapter_id": 44,
+  "verse_key": "44:54",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 51052,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_054_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 51053,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_054_002.mp3",
+      "text": "وَزَوَّجْنَـٰهُم",
+      "translation": "Kami jodohkan mereka",
+      "transliteration": "wazawwajnāhum"
+    },
+    {
+      "id": 51054,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_054_003.mp3",
+      "text": "بِحُورٍ",
+      "translation": "dengan jelita/bidadari",
+      "transliteration": "biḥūrin"
+    },
+    {
+      "id": 51055,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_054_004.mp3",
+      "text": "عِينٍۢ",
+      "translation": "matanya",
+      "transliteration": "ʿīnin"
+    },
+    {
+      "id": 51056,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "demikianlah.  Dan Kami berikan kepada mereka bidadari.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 519960,
+    "timestamp_to": 527800,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        519925,
+        521185
+      ],
+      [
+        2,
+        521185,
+        523945
+      ],
+      [
+        3,
+        523945,
+        524925
+      ],
+      [
+        4,
+        524925,
+        527700
+      ]
+    ]
+  }
+}

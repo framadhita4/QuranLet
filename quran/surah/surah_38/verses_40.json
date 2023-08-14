@@ -1,0 +1,112 @@
+{
+  "id": 4010,
+  "chapter_id": 38,
+  "verse_key": "38:40",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 41266,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_040_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 41267,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_040_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya (dia mempunyai)",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 41268,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_040_003.mp3",
+      "text": "عِندَنَا",
+      "translation": "disisi Kami",
+      "transliteration": "ʿindanā"
+    },
+    {
+      "id": 41269,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_040_004.mp3",
+      "text": "لَزُلْفَىٰ",
+      "translation": "sungguh dekat",
+      "transliteration": "lazul'fā"
+    },
+    {
+      "id": 41270,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_040_005.mp3",
+      "text": "وَحُسْنَ",
+      "translation": "dan amat baik",
+      "transliteration": "waḥus'na"
+    },
+    {
+      "id": 41271,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_040_006.mp3",
+      "text": "مَـَٔابٍۢ",
+      "translation": "tempat kembali",
+      "transliteration": "maābin"
+    },
+    {
+      "id": 41272,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya dia mempunyai kedudukan yang dekat pada sisi Kami dan tempat kembali yang baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 549180,
+    "timestamp_to": 557620,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        549125,
+        550945
+      ],
+      [
+        2,
+        550945,
+        551485
+      ],
+      [
+        3,
+        551485,
+        553105
+      ],
+      [
+        4,
+        553105,
+        554105
+      ],
+      [
+        5,
+        554105,
+        554965
+      ],
+      [
+        6,
+        554965,
+        557500
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3108,
+  "chapter_id": 26,
+  "verse_key": "26:176",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83502,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_176_001.mp3",
+      "text": "كَذَّبَ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 83503,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_176_002.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penduduk",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 83504,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_176_003.mp3",
+      "text": "لْـَٔيْكَةِ",
+      "translation": "Aikah",
+      "transliteration": "al'aykati"
+    },
+    {
+      "id": 83505,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_176_004.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 83506,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧٦",
+      "translation": "(176)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Penduduk Aikah <sup foot_note_id=\"1088\">1</sup> telah mendustakan rasul-rasul;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1534120,
+    "timestamp_to": 1540280,
+    "duration": 6170,
+    "segments": [
+      [
+        1,
+        1534095,
+        1535015
+      ],
+      [
+        2,
+        1535015,
+        1536085
+      ],
+      [
+        3,
+        1536085,
+        1537325
+      ],
+      [
+        4,
+        1537325,
+        1540210
+      ]
+    ]
+  }
+}

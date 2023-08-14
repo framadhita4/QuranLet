@@ -1,0 +1,99 @@
+{
+  "id": 6214,
+  "chapter_id": 110,
+  "verse_key": "110:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 554,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3",
+  "words": [
+    {
+      "id": 232,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_001_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 233,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_001_002.mp3",
+      "text": "جَآءَ",
+      "translation": "datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 234,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_001_003.mp3",
+      "text": "نَصْرُ",
+      "translation": "pertolongan",
+      "transliteration": "naṣru"
+    },
+    {
+      "id": 235,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_001_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 236,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/110_001_005.mp3",
+      "text": "وَٱلْفَتْحُ",
+      "translation": "dan kemenangan",
+      "transliteration": "wal-fatḥu"
+    },
+    {
+      "id": 237,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila telah datang pertolongan Allah dan kemenangan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6920,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        0,
+        720
+      ],
+      [
+        2,
+        720,
+        3630
+      ],
+      [
+        3,
+        3630,
+        4190
+      ],
+      [
+        4,
+        4190,
+        5170
+      ],
+      [
+        5,
+        5170,
+        6795
+      ]
+    ]
+  }
+}

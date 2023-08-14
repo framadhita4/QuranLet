@@ -1,0 +1,99 @@
+{
+  "id": 5367,
+  "chapter_id": 69,
+  "verse_key": "69:44",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 44524,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_044_001.mp3",
+      "text": "وَلَوْ",
+      "translation": "dan seandaiannya",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 44525,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_044_002.mp3",
+      "text": "تَقَوَّلَ",
+      "translation": "dia mengadakan perkataan",
+      "transliteration": "taqawwala"
+    },
+    {
+      "id": 44526,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_044_003.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas Kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 44527,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_044_004.mp3",
+      "text": "بَعْضَ",
+      "translation": "sebagian",
+      "transliteration": "baʿḍa"
+    },
+    {
+      "id": 44528,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_044_005.mp3",
+      "text": "ٱلْأَقَاوِيلِ",
+      "translation": "perkataan",
+      "transliteration": "l-aqāwīli"
+    },
+    {
+      "id": 44529,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Seandainya dia (Muhammad) mengadakan sebagian perkataan atas (nama) Kami,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 335400,
+    "timestamp_to": 342450,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        335315,
+        335925
+      ],
+      [
+        2,
+        335925,
+        337005
+      ],
+      [
+        3,
+        337005,
+        338045
+      ],
+      [
+        4,
+        338045,
+        338625
+      ],
+      [
+        5,
+        338625,
+        342310
+      ]
+    ]
+  }
+}

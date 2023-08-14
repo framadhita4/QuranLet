@@ -1,0 +1,73 @@
+{
+  "id": 5925,
+  "chapter_id": 85,
+  "verse_key": "85:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "فَعَّالٌ لِّمَا يُرِيدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 18646,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_016_001.mp3",
+      "text": "فَعَّالٌۭ",
+      "translation": "berbuat",
+      "transliteration": "faʿʿālun"
+    },
+    {
+      "id": 18647,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_016_002.mp3",
+      "text": "لِّمَا",
+      "translation": "terhadap apa",
+      "transliteration": "limā"
+    },
+    {
+      "id": 18648,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_016_003.mp3",
+      "text": "يُرِيدُ",
+      "translation": "yang dikehendaki",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 18649,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Kuasa berbuat apa yang dikehendaki-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 137010,
+    "timestamp_to": 141890,
+    "duration": 4890,
+    "segments": [
+      [
+        1,
+        136945,
+        137925
+      ],
+      [
+        2,
+        137925,
+        138765
+      ],
+      [
+        3,
+        138765,
+        141780
+      ]
+    ]
+  }
+}

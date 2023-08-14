@@ -1,0 +1,99 @@
+{
+  "id": 2712,
+  "chapter_id": 23,
+  "verse_key": "23:39",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 40960,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_039_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Rasul) berkata/berdo'a",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 40961,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_039_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 40962,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_039_003.mp3",
+      "text": "ٱنصُرْنِى",
+      "translation": "tolonglah aku",
+      "transliteration": "unṣur'nī"
+    },
+    {
+      "id": 40963,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_039_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/karena",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 40964,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_039_005.mp3",
+      "text": "كَذَّبُونِ",
+      "translation": "mereka mendustakan aku",
+      "transliteration": "kadhabūni"
+    },
+    {
+      "id": 40965,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Rasul itu berdoa, \"Ya Tuhan-ku, tolonglah aku karena mereka mendustakanku.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 537860,
+    "timestamp_to": 544630,
+    "duration": 6770,
+    "segments": [
+      [
+        1,
+        537835,
+        538595
+      ],
+      [
+        2,
+        538595,
+        539135
+      ],
+      [
+        3,
+        539135,
+        540845
+      ],
+      [
+        4,
+        540845,
+        541455
+      ],
+      [
+        5,
+        541455,
+        544580
+      ]
+    ]
+  }
+}

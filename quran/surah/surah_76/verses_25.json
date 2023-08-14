@@ -1,0 +1,99 @@
+{
+  "id": 5616,
+  "chapter_id": 76,
+  "verse_key": "76:25",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 517,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 28101,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_025_001.mp3",
+      "text": "وَٱذْكُرِ",
+      "translation": "dan ingatlah/sebutlah",
+      "transliteration": "wa-udh'kuri"
+    },
+    {
+      "id": 28102,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_025_002.mp3",
+      "text": "ٱسْمَ",
+      "translation": "nama",
+      "transliteration": "is'ma"
+    },
+    {
+      "id": 28103,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_025_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 28104,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_025_004.mp3",
+      "text": "بُكْرَةًۭ",
+      "translation": "di waktu pagi",
+      "transliteration": "buk'ratan"
+    },
+    {
+      "id": 28105,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_025_005.mp3",
+      "text": "وَأَصِيلًۭا",
+      "translation": "dan petang",
+      "transliteration": "wa-aṣīlan"
+    },
+    {
+      "id": 28106,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sebutlah nama Tuhan-mu pada (waktu) pagi dan petang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 230840,
+    "timestamp_to": 236200,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        230815,
+        231555
+      ],
+      [
+        2,
+        231555,
+        231975
+      ],
+      [
+        3,
+        231975,
+        232735
+      ],
+      [
+        4,
+        232735,
+        233995
+      ],
+      [
+        5,
+        233995,
+        236110
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6181,
+  "chapter_id": 104,
+  "verse_key": "104:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 1031,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_002_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 1032,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_002_002.mp3",
+      "text": "جَمَعَ",
+      "translation": "mengumpulkan",
+      "transliteration": "jamaʿa"
+    },
+    {
+      "id": 1033,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_002_003.mp3",
+      "text": "مَالًۭا",
+      "translation": "harta",
+      "transliteration": "mālan"
+    },
+    {
+      "id": 1034,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_002_004.mp3",
+      "text": "وَعَدَّدَهُۥ",
+      "translation": "dan dia menghitungnya",
+      "transliteration": "waʿaddadahu"
+    },
+    {
+      "id": 1035,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mengumpulkan harta dan menghitung-hitungnya<sup foot_note_id=\"1601\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4600,
+    "timestamp_to": 9980,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        4535,
+        5655
+      ],
+      [
+        2,
+        5655,
+        6365
+      ],
+      [
+        3,
+        6365,
+        7485
+      ],
+      [
+        4,
+        7485,
+        9840
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2686,
+  "chapter_id": 23,
+  "verse_key": "23:13",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 15224,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_013_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 15225,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_013_002.mp3",
+      "text": "جَعَلْنَـٰهُ",
+      "translation": "Kami jadikannya",
+      "transliteration": "jaʿalnāhu"
+    },
+    {
+      "id": 15226,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_013_003.mp3",
+      "text": "نُطْفَةًۭ",
+      "translation": "air mani",
+      "transliteration": "nuṭ'fatan"
+    },
+    {
+      "id": 15227,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_013_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 15228,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_013_005.mp3",
+      "text": "قَرَارٍۢ",
+      "translation": "tempat",
+      "transliteration": "qarārin"
+    },
+    {
+      "id": 15229,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_013_006.mp3",
+      "text": "مَّكِينٍۢ",
+      "translation": "kuat/kokoh",
+      "transliteration": "makīnin"
+    },
+    {
+      "id": 15230,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami jadikan sari pati itu air mani (yang disimpan) dalam tempat yang kokoh (rahim).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 107770,
+    "timestamp_to": 117170,
+    "duration": 9410,
+    "segments": [
+      [
+        1,
+        107735,
+        108825
+      ],
+      [
+        2,
+        108825,
+        110085
+      ],
+      [
+        3,
+        110085,
+        111815
+      ],
+      [
+        4,
+        111815,
+        112225
+      ],
+      [
+        5,
+        112225,
+        113495
+      ],
+      [
+        6,
+        113495,
+        117080
+      ]
+    ]
+  }
+}

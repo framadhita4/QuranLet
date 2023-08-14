@@ -1,0 +1,112 @@
+{
+  "id": 2148,
+  "chapter_id": 18,
+  "verse_key": "18:8",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 252,
+  "manzil_number": 4,
+  "page_number": 294,
+  "juz_number": 15,
+  "text_uthmani": "وَإِنَّا لَجَـٰعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 8571,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_008_001.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya Kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 8572,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_008_002.mp3",
+      "text": "لَجَـٰعِلُونَ",
+      "translation": "sungguh telah menjadikan",
+      "transliteration": "lajāʿilūna"
+    },
+    {
+      "id": 8573,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_008_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 8574,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_008_004.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "diatasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 8575,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_008_005.mp3",
+      "text": "صَعِيدًۭا",
+      "translation": "tanah",
+      "transliteration": "ṣaʿīdan"
+    },
+    {
+      "id": 8576,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_008_006.mp3",
+      "text": "جُرُزًا",
+      "translation": "tandus/gersang",
+      "transliteration": "juruzan"
+    },
+    {
+      "id": 8577,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami benar-benar akan menjadikan (pula) apa yang di atasnya menjadi tanah rata lagi tandus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81210,
+    "timestamp_to": 88990,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        81175,
+        82905
+      ],
+      [
+        2,
+        82905,
+        84295
+      ],
+      [
+        3,
+        84295,
+        84795
+      ],
+      [
+        4,
+        84795,
+        85745
+      ],
+      [
+        5,
+        85745,
+        86815
+      ],
+      [
+        6,
+        86815,
+        88640
+      ]
+    ]
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "id": 785,
+  "chapter_id": 5,
+  "verse_key": "5:116",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "ruku_number": 101,
+  "manzil_number": 2,
+  "page_number": 127,
+  "juz_number": 7,
+  "text_uthmani": "وَإِذْ قَالَ ٱللَّهُ يَـٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَـٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَـٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 75604,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 75605,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_002.mp3",
+      "text": "قَالَ",
+      "translation": "berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 75606,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 75607,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_004.mp3",
+      "text": "يَـٰعِيسَى",
+      "translation": "Wahai Isa",
+      "transliteration": "yāʿīsā"
+    },
+    {
+      "id": 75608,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_005.mp3",
+      "text": "ٱبْنَ",
+      "translation": "putera",
+      "transliteration": "ib'na"
+    },
+    {
+      "id": 75609,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_006.mp3",
+      "text": "مَرْيَمَ",
+      "translation": "Maryam",
+      "transliteration": "maryama"
+    },
+    {
+      "id": 75610,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_007.mp3",
+      "text": "ءَأَنتَ",
+      "translation": "adakah kamu",
+      "transliteration": "a-anta"
+    },
+    {
+      "id": 75611,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_008.mp3",
+      "text": "قُلْتَ",
+      "translation": "kamu mengatakan",
+      "transliteration": "qul'ta"
+    },
+    {
+      "id": 75612,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_009.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "kepada manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 75613,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_010.mp3",
+      "text": "ٱتَّخِذُونِى",
+      "translation": "jadikanlah aku",
+      "transliteration": "ittakhidhūnī"
+    },
+    {
+      "id": 75614,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_011.mp3",
+      "text": "وَأُمِّىَ",
+      "translation": "dan ibuku",
+      "transliteration": "wa-ummiya"
+    },
+    {
+      "id": 75615,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_012.mp3",
+      "text": "إِلَـٰهَيْنِ",
+      "translation": "dua Tuhan",
+      "transliteration": "ilāhayni"
+    },
+    {
+      "id": 75616,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_013.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 75617,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_014.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 75618,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_015.mp3",
+      "text": "ٱللَّهِ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 75620,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_017.mp3",
+      "text": "قَالَ",
+      "translation": "(Isa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 75621,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_018.mp3",
+      "text": "سُبْحَـٰنَكَ",
+      "translation": "Maha Suci Engkau",
+      "transliteration": "sub'ḥānaka"
+    },
+    {
+      "id": 75622,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_019.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 75623,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_020.mp3",
+      "text": "يَكُونُ",
+      "translation": "ada",
+      "transliteration": "yakūnu"
+    },
+    {
+      "id": 75624,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_021.mp3",
+      "text": "لِىٓ",
+      "translation": "bagiku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 75625,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_022.mp3",
+      "text": "أَنْ",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 75626,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_023.mp3",
+      "text": "أَقُولَ",
+      "translation": "aku mengatakan",
+      "transliteration": "aqūla"
+    },
+    {
+      "id": 75627,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_024.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 75628,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_025.mp3",
+      "text": "لَيْسَ",
+      "translation": "bukan",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 75629,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_026.mp3",
+      "text": "لِى",
+      "translation": "bagiku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 75630,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_027.mp3",
+      "text": "بِحَقٍّ ۚ",
+      "translation": "dengan hak",
+      "transliteration": "biḥaqqin"
+    },
+    {
+      "id": 75632,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_029.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 75633,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_030.mp3",
+      "text": "كُنتُ",
+      "translation": "aku adalah",
+      "transliteration": "kuntu"
+    },
+    {
+      "id": 75634,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_031.mp3",
+      "text": "قُلْتُهُۥ",
+      "translation": "aku mengatakannya",
+      "transliteration": "qul'tuhu"
+    },
+    {
+      "id": 75635,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_032.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 75636,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_033.mp3",
+      "text": "عَلِمْتَهُۥ ۚ",
+      "translation": "Engkau mengetahuinya",
+      "transliteration": "ʿalim'tahu"
+    },
+    {
+      "id": 75638,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_035.mp3",
+      "text": "تَعْلَمُ",
+      "translation": "Engkau mengetahui",
+      "transliteration": "taʿlamu"
+    },
+    {
+      "id": 75639,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_036.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 75640,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_037.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 75641,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_038.mp3",
+      "text": "نَفْسِى",
+      "translation": "diriku",
+      "transliteration": "nafsī"
+    },
+    {
+      "id": 75642,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_039.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 75643,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_040.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "aku mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 75644,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_041.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 75645,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_042.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 75646,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_043.mp3",
+      "text": "نَفْسِكَ ۚ",
+      "translation": "diri Engkau",
+      "transliteration": "nafsika"
+    },
+    {
+      "id": 75648,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_045.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya Engkau",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 75649,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_046.mp3",
+      "text": "أَنتَ",
+      "translation": "Engkau",
+      "transliteration": "anta"
+    },
+    {
+      "id": 75650,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_047.mp3",
+      "text": "عَلَّـٰمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿallāmu"
+    },
+    {
+      "id": 75651,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_116_048.mp3",
+      "text": "ٱلْغُيُوبِ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghuyūbi"
+    },
+    {
+      "id": 75652,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١٦",
+      "translation": "(116)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) ketika Allah berfirman, \"Hai ʻIsa putra Maryam, adakah kamu mengatakan kepada manusia, \"Jadikanlah aku dan ibuku dua orang tuhan selain Allah?\"  `Isa menjawab, \"Maha Suci Engkau, tidaklah patut bagiku mengatakan apa yang bukan hakku (mengatakannya).  Jika aku pernah mengatakannya, maka tentulah Engkau mengetahuinya. Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri Engkau.  Sesungguhnya Engkau Maha Mengetahui perkara yang gaib-gaib\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3616660,
+    "timestamp_to": 3662320,
+    "duration": 45660,
+    "segments": [
+      [
+        1,
+        3616605,
+        3617555
+      ],
+      [
+        2,
+        3617555,
+        3618075
+      ],
+      [
+        3,
+        3618075,
+        3618945
+      ],
+      [
+        4,
+        3618945,
+        3619955
+      ],
+      [
+        5,
+        3619955,
+        3620435
+      ],
+      [
+        6,
+        3620435,
+        3621295
+      ],
+      [
+        7,
+        3621295,
+        3622545
+      ],
+      [
+        8,
+        3622545,
+        3623235
+      ],
+      [
+        9,
+        3623235,
+        3624795
+      ],
+      [
+        10,
+        3624795,
+        3626275
+      ],
+      [
+        11,
+        3626275,
+        3627875
+      ],
+      [
+        12,
+        3627875,
+        3629075
+      ],
+      [
+        13,
+        3629075,
+        3630185
+      ],
+      [
+        14,
+        3630185,
+        3630725
+      ],
+      [
+        15,
+        3630725,
+        3632515
+      ],
+      [
+        16,
+        3632515,
+        3633685
+      ],
+      [
+        17,
+        3633685,
+        3635045
+      ],
+      [
+        18,
+        3635045,
+        3635475
+      ],
+      [
+        19,
+        3635475,
+        3636315
+      ],
+      [
+        20,
+        3636315,
+        3637885
+      ],
+      [
+        21,
+        3637885,
+        3638145
+      ],
+      [
+        22,
+        3638145,
+        3639225
+      ],
+      [
+        23,
+        3639225,
+        3639615
+      ],
+      [
+        24,
+        3639615,
+        3640285
+      ],
+      [
+        25,
+        3640285,
+        3640635
+      ],
+      [
+        26,
+        3640635,
+        3641855
+      ],
+      [
+        27,
+        3641855,
+        3642085
+      ],
+      [
+        28,
+        3642085,
+        3643185
+      ],
+      [
+        28,
+        3643185,
+        3644505
+      ],
+      [
+        29,
+        3644505,
+        3645575
+      ],
+      [
+        30,
+        3645575,
+        3646215
+      ],
+      [
+        31,
+        3646215,
+        3647885
+      ],
+      [
+        32,
+        3647885,
+        3648765
+      ],
+      [
+        33,
+        3648765,
+        3649135
+      ],
+      [
+        34,
+        3649135,
+        3649645
+      ],
+      [
+        35,
+        3649645,
+        3650435
+      ],
+      [
+        36,
+        3650435,
+        3652355
+      ],
+      [
+        37,
+        3652355,
+        3653185
+      ],
+      [
+        38,
+        3653185,
+        3653655
+      ],
+      [
+        39,
+        3653655,
+        3654175
+      ],
+      [
+        40,
+        3654175,
+        3655355
+      ],
+      [
+        41,
+        3655355,
+        3656685
+      ],
+      [
+        42,
+        3656685,
+        3658005
+      ],
+      [
+        43,
+        3658005,
+        3659085
+      ],
+      [
+        44,
+        3659085,
+        3661940
+      ]
+    ]
+  }
+}

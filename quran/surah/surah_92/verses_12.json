@@ -1,0 +1,73 @@
+{
+  "id": 6070,
+  "chapter_id": 92,
+  "verse_key": "92:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 13757,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_012_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 13758,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_012_002.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "bagi Kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 13759,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_012_003.mp3",
+      "text": "لَلْهُدَىٰ",
+      "translation": "kesudahan/akherat",
+      "transliteration": "lalhudā"
+    },
+    {
+      "id": 13760,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kewajiban Kami-lah memberi petunjuk,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 46950,
+    "timestamp_to": 50740,
+    "duration": 3790,
+    "segments": [
+      [
+        1,
+        46565,
+        47645
+      ],
+      [
+        2,
+        47645,
+        48815
+      ],
+      [
+        3,
+        48815,
+        50000
+      ]
+    ]
+  }
+}

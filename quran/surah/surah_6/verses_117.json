@@ -1,0 +1,177 @@
+{
+  "id": 906,
+  "chapter_id": 6,
+  "verse_key": "6:117",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "ruku_number": 115,
+  "manzil_number": 2,
+  "page_number": 142,
+  "juz_number": 8,
+  "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 75716,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 75717,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 75718,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_003.mp3",
+      "text": "هُوَ",
+      "translation": "Dialah",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 75719,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_004.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 75720,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_005.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 75721,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_006.mp3",
+      "text": "يَضِلُّ",
+      "translation": "tersesat",
+      "transliteration": "yaḍillu"
+    },
+    {
+      "id": 75722,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_007.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 75723,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_008.mp3",
+      "text": "سَبِيلِهِۦ ۖ",
+      "translation": "jalanNya",
+      "transliteration": "sabīlihi"
+    },
+    {
+      "id": 75725,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_010.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 75726,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_011.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 75727,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_117_012.mp3",
+      "text": "بِٱلْمُهْتَدِينَ",
+      "translation": "pada orang-orang yang mendapat petunjuk",
+      "transliteration": "bil-muh'tadīna"
+    },
+    {
+      "id": 75728,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١٧",
+      "translation": "(117)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu, Dia-lah yang lebih mengetahui tentang orang yang tersesat dari jalan-Nya dan Dia lebih mengetahui tentang orang orang yang mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2863510,
+    "timestamp_to": 2877510,
+    "duration": 14000,
+    "segments": [
+      [
+        1,
+        2863485,
+        2865105
+      ],
+      [
+        2,
+        2865105,
+        2865955
+      ],
+      [
+        3,
+        2865955,
+        2866265
+      ],
+      [
+        4,
+        2866265,
+        2867185
+      ],
+      [
+        5,
+        2867185,
+        2868375
+      ],
+      [
+        6,
+        2868375,
+        2869395
+      ],
+      [
+        7,
+        2869395,
+        2870565
+      ],
+      [
+        8,
+        2870565,
+        2872085
+      ],
+      [
+        9,
+        2872085,
+        2872615
+      ],
+      [
+        10,
+        2872615,
+        2873555
+      ],
+      [
+        11,
+        2873555,
+        2877460
+      ]
+    ]
+  }
+}

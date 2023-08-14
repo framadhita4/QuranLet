@@ -1,0 +1,177 @@
+{
+  "id": 2120,
+  "chapter_id": 17,
+  "verse_key": "17:91",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "ruku_number": 249,
+  "manzil_number": 4,
+  "page_number": 291,
+  "juz_number": 15,
+  "text_uthmani": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِّن نَّخِيلٍ وَعِنَبٍ فَتُفَجِّرَ ٱلْأَنْهَـٰرَ خِلَـٰلَهَا تَفْجِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 68216,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 68217,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_002.mp3",
+      "text": "تَكُونَ",
+      "translation": "adalah",
+      "transliteration": "takūna"
+    },
+    {
+      "id": 68218,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_003.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 68219,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_004.mp3",
+      "text": "جَنَّةٌۭ",
+      "translation": "kebun",
+      "transliteration": "jannatun"
+    },
+    {
+      "id": 68220,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_005.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 68221,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_006.mp3",
+      "text": "نَّخِيلٍۢ",
+      "translation": "korma",
+      "transliteration": "nakhīlin"
+    },
+    {
+      "id": 68222,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_007.mp3",
+      "text": "وَعِنَبٍۢ",
+      "translation": "dan anggur",
+      "transliteration": "waʿinabin"
+    },
+    {
+      "id": 68223,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_008.mp3",
+      "text": "فَتُفَجِّرَ",
+      "translation": "lalu kamu alirkan",
+      "transliteration": "fatufajjira"
+    },
+    {
+      "id": 68224,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_009.mp3",
+      "text": "ٱلْأَنْهَـٰرَ",
+      "translation": "sungai-sungai",
+      "transliteration": "l-anhāra"
+    },
+    {
+      "id": 68225,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_010.mp3",
+      "text": "خِلَـٰلَهَا",
+      "translation": "di celah-celahnya",
+      "transliteration": "khilālahā"
+    },
+    {
+      "id": 68226,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_091_011.mp3",
+      "text": "تَفْجِيرًا",
+      "translation": "terpancar",
+      "transliteration": "tafjīran"
+    },
+    {
+      "id": 68227,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩١",
+      "translation": "(91)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau kamu mempunyai sebuah kebun kurma dan anggur, lalu kamu alirkan sungai-sungai di celah kebun yang deras alirannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1567580,
+    "timestamp_to": 1580750,
+    "duration": 13170,
+    "segments": [
+      [
+        1,
+        1567545,
+        1567935
+      ],
+      [
+        2,
+        1567935,
+        1568865
+      ],
+      [
+        3,
+        1568865,
+        1569255
+      ],
+      [
+        4,
+        1569255,
+        1570625
+      ],
+      [
+        5,
+        1570625,
+        1571715
+      ],
+      [
+        6,
+        1571715,
+        1573215
+      ],
+      [
+        7,
+        1573215,
+        1574525
+      ],
+      [
+        8,
+        1574525,
+        1576245
+      ],
+      [
+        9,
+        1576245,
+        1577485
+      ],
+      [
+        10,
+        1577485,
+        1578805
+      ],
+      [
+        11,
+        1578805,
+        1580670
+      ]
+    ]
+  }
+}

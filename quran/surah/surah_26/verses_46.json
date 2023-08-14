@@ -1,0 +1,73 @@
+{
+  "id": 2978,
+  "chapter_id": 26,
+  "verse_key": "26:46",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "فَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 46025,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_046_001.mp3",
+      "text": "فَأُلْقِىَ",
+      "translation": "maka terjatuhlah/tersungkurlah",
+      "transliteration": "fa-ul'qiya"
+    },
+    {
+      "id": 46026,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_046_002.mp3",
+      "text": "ٱلسَّحَرَةُ",
+      "translation": "ahli-ahli sihir",
+      "transliteration": "l-saḥaratu"
+    },
+    {
+      "id": 46027,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_046_003.mp3",
+      "text": "سَـٰجِدِينَ",
+      "translation": "mereka bersujud",
+      "transliteration": "sājidīna"
+    },
+    {
+      "id": 46028,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tersungkurlah ahli-ahli sihir sambil bersujud (kepada Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 455480,
+    "timestamp_to": 460440,
+    "duration": 4960,
+    "segments": [
+      [
+        1,
+        455405,
+        456385
+      ],
+      [
+        2,
+        456385,
+        457465
+      ],
+      [
+        3,
+        457465,
+        460310
+      ]
+    ]
+  }
+}

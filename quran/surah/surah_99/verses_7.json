@@ -1,0 +1,112 @@
+{
+  "id": 6145,
+  "chapter_id": 99,
+  "verse_key": "99:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 8354,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_007_001.mp3",
+      "text": "فَمَن",
+      "translation": "maka barang siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 8355,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_007_002.mp3",
+      "text": "يَعْمَلْ",
+      "translation": "dia mengerjakan/beramal",
+      "transliteration": "yaʿmal"
+    },
+    {
+      "id": 8356,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_007_003.mp3",
+      "text": "مِثْقَالَ",
+      "translation": "seberat",
+      "transliteration": "mith'qāla"
+    },
+    {
+      "id": 8357,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_007_004.mp3",
+      "text": "ذَرَّةٍ",
+      "translation": "zarrah/atom",
+      "transliteration": "dharratin"
+    },
+    {
+      "id": 8358,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_007_005.mp3",
+      "text": "خَيْرًۭا",
+      "translation": "kebaikan",
+      "transliteration": "khayran"
+    },
+    {
+      "id": 8359,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_007_006.mp3",
+      "text": "يَرَهُۥ",
+      "translation": "dia melihatnya",
+      "transliteration": "yarahu"
+    },
+    {
+      "id": 8360,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang mengerjakan kebaikan seberat zarah pun, niscaya dia akan melihat (balasan)nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33280,
+    "timestamp_to": 40390,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        33125,
+        33705
+      ],
+      [
+        2,
+        33705,
+        35265
+      ],
+      [
+        3,
+        35265,
+        36375
+      ],
+      [
+        4,
+        36375,
+        37375
+      ],
+      [
+        5,
+        37375,
+        38175
+      ],
+      [
+        6,
+        38175,
+        40150
+      ]
+    ]
+  }
+}

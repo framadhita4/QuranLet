@@ -1,0 +1,138 @@
+{
+  "id": 2181,
+  "chapter_id": 18,
+  "verse_key": "18:41",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "ruku_number": 256,
+  "manzil_number": 4,
+  "page_number": 298,
+  "juz_number": 15,
+  "text_uthmani": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 42027,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 42028,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_002.mp3",
+      "text": "يُصْبِحَ",
+      "translation": "menjadi",
+      "transliteration": "yuṣ'biḥa"
+    },
+    {
+      "id": 42029,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_003.mp3",
+      "text": "مَآؤُهَا",
+      "translation": "airnya",
+      "transliteration": "māuhā"
+    },
+    {
+      "id": 42030,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_004.mp3",
+      "text": "غَوْرًۭا",
+      "translation": "surut",
+      "transliteration": "ghawran"
+    },
+    {
+      "id": 42031,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_005.mp3",
+      "text": "فَلَن",
+      "translation": "maka tidak",
+      "transliteration": "falan"
+    },
+    {
+      "id": 42032,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_006.mp3",
+      "text": "تَسْتَطِيعَ",
+      "translation": "kamu dapat/kuasa",
+      "transliteration": "tastaṭīʿa"
+    },
+    {
+      "id": 42033,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_007.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya(air)",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 42034,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_041_008.mp3",
+      "text": "طَلَبًۭا",
+      "translation": "mencarinya/mendapatkannya",
+      "transliteration": "ṭalaban"
+    },
+    {
+      "id": 42035,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau airnya menjadi surut ke dalam tanah, maka sekali-kali kamu tidak dapat menemukannya lagi\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 807960,
+    "timestamp_to": 817570,
+    "duration": 9610,
+    "segments": [
+      [
+        1,
+        807935,
+        808325
+      ],
+      [
+        2,
+        808325,
+        809235
+      ],
+      [
+        3,
+        809235,
+        811455
+      ],
+      [
+        4,
+        811455,
+        813195
+      ],
+      [
+        5,
+        813195,
+        814175
+      ],
+      [
+        6,
+        814175,
+        815565
+      ],
+      [
+        7,
+        815565,
+        816105
+      ],
+      [
+        8,
+        816105,
+        817490
+      ]
+    ]
+  }
+}

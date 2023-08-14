@@ -1,0 +1,99 @@
+{
+  "id": 3838,
+  "chapter_id": 37,
+  "verse_key": "37:50",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 48885,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_050_001.mp3",
+      "text": "فَأَقْبَلَ",
+      "translation": "Maka menghadap",
+      "transliteration": "fa-aqbala"
+    },
+    {
+      "id": 48886,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_050_002.mp3",
+      "text": "بَعْضُهُمْ",
+      "translation": "sebagian mereka",
+      "transliteration": "baʿḍuhum"
+    },
+    {
+      "id": 48887,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_050_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 48888,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_050_004.mp3",
+      "text": "بَعْضٍۢ",
+      "translation": "sebagian yang lain",
+      "transliteration": "baʿḍin"
+    },
+    {
+      "id": 48889,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_050_005.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka bertanya-tanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 48890,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, sebagian mereka menghadap kepada sebagian yang lain sambil bercakap-cakap.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 419380,
+    "timestamp_to": 429360,
+    "duration": 9980,
+    "segments": [
+      [
+        1,
+        419315,
+        420645
+      ],
+      [
+        2,
+        420645,
+        421635
+      ],
+      [
+        3,
+        421635,
+        422295
+      ],
+      [
+        4,
+        422295,
+        424145
+      ],
+      [
+        5,
+        424145,
+        429210
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2964,
+  "chapter_id": 26,
+  "verse_key": "26:32",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 34788,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_001.mp3",
+      "text": "فَأَلْقَىٰ",
+      "translation": "lalu (Musa)melemparkan",
+      "transliteration": "fa-alqā"
+    },
+    {
+      "id": 34789,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_002.mp3",
+      "text": "عَصَاهُ",
+      "translation": "tongkatnya",
+      "transliteration": "ʿaṣāhu"
+    },
+    {
+      "id": 34790,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_003.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 34791,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_004.mp3",
+      "text": "هِىَ",
+      "translation": "ia/tongkat itu",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 34792,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_005.mp3",
+      "text": "ثُعْبَانٌۭ",
+      "translation": "ular",
+      "transliteration": "thuʿ'bānun"
+    },
+    {
+      "id": 34793,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_006.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 34794,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Musa melemparkan tongkatnya, lalu tiba-tiba tongkat itu (menjadi) ular yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 318500,
+    "timestamp_to": 326130,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        318425,
+        319465
+      ],
+      [
+        2,
+        319465,
+        320355
+      ],
+      [
+        3,
+        320355,
+        321185
+      ],
+      [
+        4,
+        321185,
+        321585
+      ],
+      [
+        5,
+        321585,
+        322915
+      ],
+      [
+        6,
+        322915,
+        326030
+      ]
+    ]
+  }
+}

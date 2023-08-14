@@ -1,0 +1,112 @@
+{
+  "id": 4124,
+  "chapter_id": 39,
+  "verse_key": "39:66",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "ruku_number": 404,
+  "manzil_number": 6,
+  "page_number": 465,
+  "juz_number": 24,
+  "text_uthmani": "بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّـٰكِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 57865,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_066_001.mp3",
+      "text": "بَلِ",
+      "translation": "bahkan/sebenarnya",
+      "transliteration": "bali"
+    },
+    {
+      "id": 57866,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_066_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 57867,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_066_003.mp3",
+      "text": "فَٱعْبُدْ",
+      "translation": "hendaknya kamu sembah",
+      "transliteration": "fa-uʿ'bud"
+    },
+    {
+      "id": 57868,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_066_004.mp3",
+      "text": "وَكُن",
+      "translation": "dan jadilah kamu",
+      "transliteration": "wakun"
+    },
+    {
+      "id": 57869,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_066_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 57870,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_066_006.mp3",
+      "text": "ٱلشَّـٰكِرِينَ",
+      "translation": "orang-orang yang bersyukur",
+      "transliteration": "l-shākirīna"
+    },
+    {
+      "id": 57871,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena itu, maka hendaklah Allah saja kamu sembah dan hendaklah kamu termasuk orang-orang yang bersyukur\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1380270,
+    "timestamp_to": 1388370,
+    "duration": 8100,
+    "segments": [
+      [
+        1,
+        1380245,
+        1380775
+      ],
+      [
+        2,
+        1380775,
+        1381605
+      ],
+      [
+        3,
+        1381605,
+        1382455
+      ],
+      [
+        4,
+        1382455,
+        1383275
+      ],
+      [
+        5,
+        1383275,
+        1384335
+      ],
+      [
+        6,
+        1384335,
+        1388290
+      ]
+    ]
+  }
+}

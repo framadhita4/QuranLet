@@ -1,0 +1,73 @@
+{
+  "id": 3812,
+  "chapter_id": 37,
+  "verse_key": "37:24",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 27418,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_024_001.mp3",
+      "text": "وَقِفُوهُمْ ۖ",
+      "translation": "berhentikanlah mereka",
+      "transliteration": "waqifūhum"
+    },
+    {
+      "id": 27420,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_024_003.mp3",
+      "text": "إِنَّهُم",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 27421,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_024_004.mp3",
+      "text": "مَّسْـُٔولُونَ",
+      "translation": "mereka ditanya",
+      "transliteration": "masūlūna"
+    },
+    {
+      "id": 27422,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tahanlah mereka (di tempat perhentian) karena sesungguhnya mereka akan ditanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 184780,
+    "timestamp_to": 193060,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        184695,
+        186595
+      ],
+      [
+        2,
+        186595,
+        188365
+      ],
+      [
+        3,
+        188365,
+        192900
+      ]
+    ]
+  }
+}

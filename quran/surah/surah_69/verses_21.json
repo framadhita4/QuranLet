@@ -1,0 +1,86 @@
+{
+  "id": 5344,
+  "chapter_id": 69,
+  "verse_key": "69:21",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 23891,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_021_001.mp3",
+      "text": "فَهُوَ",
+      "translation": "dan dia/orang itu",
+      "transliteration": "fahuwa"
+    },
+    {
+      "id": 23892,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_021_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 23893,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_021_003.mp3",
+      "text": "عِيشَةٍۢ",
+      "translation": "kehidupan",
+      "transliteration": "ʿīshatin"
+    },
+    {
+      "id": 23894,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_021_004.mp3",
+      "text": "رَّاضِيَةٍۢ",
+      "translation": "yang diridhoi",
+      "transliteration": "rāḍiyatin"
+    },
+    {
+      "id": 23895,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka orang itu berada dalam kehidupan yang diridai,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 178650,
+    "timestamp_to": 182540,
+    "duration": 3890,
+    "segments": [
+      [
+        1,
+        178565,
+        179145
+      ],
+      [
+        2,
+        179145,
+        179705
+      ],
+      [
+        3,
+        179705,
+        180685
+      ],
+      [
+        4,
+        180685,
+        182410
+      ]
+    ]
+  }
+}

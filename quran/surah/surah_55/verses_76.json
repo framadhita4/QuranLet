@@ -1,0 +1,112 @@
+{
+  "id": 4977,
+  "chapter_id": 55,
+  "verse_key": "55:76",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 62450,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_076_001.mp3",
+      "text": "مُتَّكِـِٔينَ",
+      "translation": "mereka bersandar",
+      "transliteration": "muttakiīna"
+    },
+    {
+      "id": 62451,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_076_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "diatas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 62452,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_076_003.mp3",
+      "text": "رَفْرَفٍ",
+      "translation": "bantal-bantal",
+      "transliteration": "rafrafin"
+    },
+    {
+      "id": 62453,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_076_004.mp3",
+      "text": "خُضْرٍۢ",
+      "translation": "hijau",
+      "transliteration": "khuḍ'rin"
+    },
+    {
+      "id": 62454,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_076_005.mp3",
+      "text": "وَعَبْقَرِىٍّ",
+      "translation": "dan permandani",
+      "transliteration": "waʿabqariyyin"
+    },
+    {
+      "id": 62455,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_076_006.mp3",
+      "text": "حِسَانٍۢ",
+      "translation": "bagus indah",
+      "transliteration": "ḥisānin"
+    },
+    {
+      "id": 62456,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka bertelekan pada bantal-bantal yang hijau dan permadani-permadani yang indah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 661940,
+    "timestamp_to": 671450,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        661875,
+        663325
+      ],
+      [
+        2,
+        663325,
+        664015
+      ],
+      [
+        3,
+        664015,
+        665045
+      ],
+      [
+        4,
+        665045,
+        665875
+      ],
+      [
+        5,
+        665875,
+        668185
+      ],
+      [
+        6,
+        668185,
+        671350
+      ]
+    ]
+  }
+}

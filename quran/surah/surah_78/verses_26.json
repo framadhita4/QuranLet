@@ -1,0 +1,60 @@
+{
+  "id": 5698,
+  "chapter_id": 78,
+  "verse_key": "78:26",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "جَزَآءً وِفَاقًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 28535,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_026_001.mp3",
+      "text": "جَزَآءًۭ",
+      "translation": "pembalasan",
+      "transliteration": "jazāan"
+    },
+    {
+      "id": 28536,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_026_002.mp3",
+      "text": "وِفَاقًا",
+      "translation": "setimpal",
+      "transliteration": "wifāqan"
+    },
+    {
+      "id": 28537,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sebagai pambalasan yang setimpal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 137310,
+    "timestamp_to": 142380,
+    "duration": 5070,
+    "segments": [
+      [
+        1,
+        137245,
+        140055
+      ],
+      [
+        2,
+        140055,
+        142270
+      ]
+    ]
+  }
+}

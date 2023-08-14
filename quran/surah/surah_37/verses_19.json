@@ -1,0 +1,125 @@
+{
+  "id": 3807,
+  "chapter_id": 37,
+  "verse_key": "37:19",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 22243,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_001.mp3",
+      "text": "فَإِنَّمَا",
+      "translation": "maka sesungguhnya hanyalah",
+      "transliteration": "fa-innamā"
+    },
+    {
+      "id": 22244,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_002.mp3",
+      "text": "هِىَ",
+      "translation": "ia/kebangkitan",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 22245,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_003.mp3",
+      "text": "زَجْرَةٌۭ",
+      "translation": "hentakan/teriakan",
+      "transliteration": "zajratun"
+    },
+    {
+      "id": 22246,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_004.mp3",
+      "text": "وَٰحِدَةٌۭ",
+      "translation": "satu/sekali",
+      "transliteration": "wāḥidatun"
+    },
+    {
+      "id": 22247,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_005.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 22248,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_006.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 22249,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_019_007.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "mereka melihat",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 22250,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sesungguhnya kebangkitan itu hanya dengan satu teriakan saja, maka tiba-tiba mereka meIihatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 135490,
+    "timestamp_to": 147320,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        135425,
+        137535
+      ],
+      [
+        2,
+        137535,
+        137955
+      ],
+      [
+        3,
+        137955,
+        139655
+      ],
+      [
+        4,
+        139655,
+        141145
+      ],
+      [
+        5,
+        141146,
+        142455
+      ],
+      [
+        6,
+        142455,
+        142915
+      ],
+      [
+        7,
+        142915,
+        147180
+      ]
+    ]
+  }
+}

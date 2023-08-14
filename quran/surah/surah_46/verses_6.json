@@ -1,0 +1,151 @@
+{
+  "id": 4516,
+  "chapter_id": 46,
+  "verse_key": "46:6",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "ruku_number": 440,
+  "manzil_number": 6,
+  "page_number": 503,
+  "juz_number": 26,
+  "text_uthmani": "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/46.mp3",
+  "words": [
+    {
+      "id": 6022,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 6023,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_002.mp3",
+      "text": "حُشِرَ",
+      "translation": "dikumpulkan",
+      "transliteration": "ḥushira"
+    },
+    {
+      "id": 6024,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_003.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 6025,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_004.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka/sesembahan",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 6026,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_005.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 6027,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_006.mp3",
+      "text": "أَعْدَآءًۭ",
+      "translation": "musuh-musuh",
+      "transliteration": "aʿdāan"
+    },
+    {
+      "id": 6028,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_007.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka(sesembahan)",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 6029,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_008.mp3",
+      "text": "بِعِبَادَتِهِمْ",
+      "translation": "pada pemujaan mereka",
+      "transliteration": "biʿibādatihim"
+    },
+    {
+      "id": 6030,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_006_009.mp3",
+      "text": "كَـٰفِرِينَ",
+      "translation": "mereka mengingkari",
+      "transliteration": "kāfirīna"
+    },
+    {
+      "id": 6031,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila manusia dikumpulkan (pada hari kiamat), niscaya sembahan-sembahan itu menjadi musuh mereka dan mengingkari pemujaan-pemujaan mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 93970,
+    "timestamp_to": 108440,
+    "duration": 14470,
+    "segments": [
+      [
+        1,
+        93905,
+        94915
+      ],
+      [
+        2,
+        94915,
+        95575
+      ],
+      [
+        3,
+        95575,
+        97185
+      ],
+      [
+        4,
+        97185,
+        98105
+      ],
+      [
+        5,
+        98105,
+        98805
+      ],
+      [
+        6,
+        98805,
+        102164
+      ],
+      [
+        7,
+        102165,
+        103215
+      ],
+      [
+        8,
+        103215,
+        104995
+      ],
+      [
+        9,
+        104995,
+        108330
+      ]
+    ]
+  }
+}

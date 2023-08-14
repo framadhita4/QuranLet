@@ -1,0 +1,177 @@
+{
+  "id": 2902,
+  "chapter_id": 25,
+  "verse_key": "25:47",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 314,
+  "manzil_number": 4,
+  "page_number": 364,
+  "juz_number": 19,
+  "text_uthmani": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 46615,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 46616,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 46617,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_003.mp3",
+      "text": "جَعَلَ",
+      "translation": "telah menjadikan",
+      "transliteration": "jaʿala"
+    },
+    {
+      "id": 46618,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_004.mp3",
+      "text": "لَكُمُ",
+      "translation": "bagi kalian",
+      "transliteration": "lakumu"
+    },
+    {
+      "id": 46619,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_005.mp3",
+      "text": "ٱلَّيْلَ",
+      "translation": "malam",
+      "transliteration": "al-layla"
+    },
+    {
+      "id": 46620,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_006.mp3",
+      "text": "لِبَاسًۭا",
+      "translation": "pakaian",
+      "transliteration": "libāsan"
+    },
+    {
+      "id": 46621,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_007.mp3",
+      "text": "وَٱلنَّوْمَ",
+      "translation": "dan tidur",
+      "transliteration": "wal-nawma"
+    },
+    {
+      "id": 46622,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_008.mp3",
+      "text": "سُبَاتًۭا",
+      "translation": "istirahat",
+      "transliteration": "subātan"
+    },
+    {
+      "id": 46623,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_009.mp3",
+      "text": "وَجَعَلَ",
+      "translation": "dan Dia menjadikan",
+      "transliteration": "wajaʿala"
+    },
+    {
+      "id": 46624,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_010.mp3",
+      "text": "ٱلنَّهَارَ",
+      "translation": "siang",
+      "transliteration": "l-nahāra"
+    },
+    {
+      "id": 46625,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_047_011.mp3",
+      "text": "نُشُورًۭا",
+      "translation": "bangkit/bangun",
+      "transliteration": "nushūran"
+    },
+    {
+      "id": 46626,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah yang menjadikan untukmu malam (sebagai) pakaian dan tidur untuk istirahat dan Dia menjadikan siang untuk bangun berusaha.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 749770,
+    "timestamp_to": 762360,
+    "duration": 12590,
+    "segments": [
+      [
+        1,
+        749745,
+        750395
+      ],
+      [
+        2,
+        750395,
+        751295
+      ],
+      [
+        3,
+        751295,
+        752015
+      ],
+      [
+        4,
+        752015,
+        752555
+      ],
+      [
+        5,
+        752555,
+        753465
+      ],
+      [
+        6,
+        753465,
+        755315
+      ],
+      [
+        7,
+        755315,
+        756775
+      ],
+      [
+        8,
+        756775,
+        757885
+      ],
+      [
+        9,
+        757885,
+        759095
+      ],
+      [
+        10,
+        759095,
+        760485
+      ],
+      [
+        11,
+        760485,
+        762310
+      ]
+    ]
+  }
+}

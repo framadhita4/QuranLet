@@ -1,0 +1,372 @@
+{
+  "id": 1225,
+  "chapter_id": 8,
+  "verse_key": "8:65",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "ruku_number": 154,
+  "manzil_number": 2,
+  "page_number": 185,
+  "juz_number": 10,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ ۚ إِن يَكُن مِّنكُمْ عِشْرُونَ صَـٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ ۚ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ كَفَرُوا۟ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 57097,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 57098,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_002.mp3",
+      "text": "ٱلنَّبِىُّ",
+      "translation": "Nabi",
+      "transliteration": "l-nabiyu"
+    },
+    {
+      "id": 57099,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_003.mp3",
+      "text": "حَرِّضِ",
+      "translation": "kobarkanlah semangat",
+      "transliteration": "ḥarriḍi"
+    },
+    {
+      "id": 57100,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_004.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang mukmin/beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 57101,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_005.mp3",
+      "text": "عَلَى",
+      "translation": "atas/untuk",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 57102,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_006.mp3",
+      "text": "ٱلْقِتَالِ ۚ",
+      "translation": "berperang",
+      "transliteration": "l-qitāli"
+    },
+    {
+      "id": 57104,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_008.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 57105,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_009.mp3",
+      "text": "يَكُن",
+      "translation": "ada",
+      "transliteration": "yakun"
+    },
+    {
+      "id": 57106,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_010.mp3",
+      "text": "مِّنكُمْ",
+      "translation": "diantara kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 57107,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_011.mp3",
+      "text": "عِشْرُونَ",
+      "translation": "duapuluh",
+      "transliteration": "ʿish'rūna"
+    },
+    {
+      "id": 57108,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_012.mp3",
+      "text": "صَـٰبِرُونَ",
+      "translation": "orang-orang yang sabar",
+      "transliteration": "ṣābirūna"
+    },
+    {
+      "id": 57109,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_013.mp3",
+      "text": "يَغْلِبُوا۟",
+      "translation": "mereka mengalahkan",
+      "transliteration": "yaghlibū"
+    },
+    {
+      "id": 57110,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_014.mp3",
+      "text": "مِا۟ئَتَيْنِ ۚ",
+      "translation": "duaratus",
+      "transliteration": "mi-atayni"
+    },
+    {
+      "id": 57112,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_016.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 57113,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_017.mp3",
+      "text": "يَكُن",
+      "translation": "ada",
+      "transliteration": "yakun"
+    },
+    {
+      "id": 57114,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_018.mp3",
+      "text": "مِّنكُم",
+      "translation": "diantara kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 57115,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_019.mp3",
+      "text": "مِّا۟ئَةٌۭ",
+      "translation": "seratus",
+      "transliteration": "mi-atun"
+    },
+    {
+      "id": 57116,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_020.mp3",
+      "text": "يَغْلِبُوٓا۟",
+      "translation": "mereka mengalahkan",
+      "transliteration": "yaghlibū"
+    },
+    {
+      "id": 57117,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_021.mp3",
+      "text": "أَلْفًۭا",
+      "translation": "seribu",
+      "transliteration": "alfan"
+    },
+    {
+      "id": 57118,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_022.mp3",
+      "text": "مِّنَ",
+      "translation": "dari pada",
+      "transliteration": "mina"
+    },
+    {
+      "id": 57119,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_023.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 57120,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_024.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 57121,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_025.mp3",
+      "text": "بِأَنَّهُمْ",
+      "translation": "dengan/disebabkan bahwasanya",
+      "transliteration": "bi-annahum"
+    },
+    {
+      "id": 57122,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_026.mp3",
+      "text": "قَوْمٌۭ",
+      "translation": "kaum",
+      "transliteration": "qawmun"
+    },
+    {
+      "id": 57123,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_027.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 57124,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_065_028.mp3",
+      "text": "يَفْقَهُونَ",
+      "translation": "mengerti",
+      "transliteration": "yafqahūna"
+    },
+    {
+      "id": 57125,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٥",
+      "translation": "(65)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai Nabi, kobarkanlah semangat para mukmin untuk berperang.  Jika ada dua puluh orang yang sabar diantara kamu, niscaya mereka dapat mengalahkan dua ratus orang musuh.  Dan jika ada seratus orang (yang sabar) di antaramu, mereka dapat mengalahkan seribu dari pada orang-orang kafir, disebabkan orang-orang kafir itu kaum yang tidak mengerti<sup foot_note_id=\"623\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1483270,
+    "timestamp_to": 1525070,
+    "duration": 41800,
+    "segments": [
+      [
+        1,
+        1483225,
+        1486015
+      ],
+      [
+        2,
+        1486015,
+        1487815
+      ],
+      [
+        3,
+        1487815,
+        1488765
+      ],
+      [
+        4,
+        1488765,
+        1490215
+      ],
+      [
+        5,
+        1490215,
+        1490645
+      ],
+      [
+        6,
+        1490645,
+        1493445
+      ],
+      [
+        7,
+        1493446,
+        1495145
+      ],
+      [
+        8,
+        1495145,
+        1495605
+      ],
+      [
+        9,
+        1495605,
+        1498125
+      ],
+      [
+        10,
+        1498125,
+        1499155
+      ],
+      [
+        11,
+        1499155,
+        1500605
+      ],
+      [
+        12,
+        1500605,
+        1501755
+      ],
+      [
+        13,
+        1501755,
+        1504845
+      ],
+      [
+        14,
+        1504845,
+        1506155
+      ],
+      [
+        15,
+        1506155,
+        1506625
+      ],
+      [
+        16,
+        1506625,
+        1509155
+      ],
+      [
+        17,
+        1509155,
+        1510855
+      ],
+      [
+        18,
+        1510855,
+        1514245
+      ],
+      [
+        19,
+        1514245,
+        1514915
+      ],
+      [
+        20,
+        1514915,
+        1516015
+      ],
+      [
+        21,
+        1516015,
+        1517075
+      ],
+      [
+        22,
+        1517075,
+        1518055
+      ],
+      [
+        23,
+        1518055,
+        1520105
+      ],
+      [
+        24,
+        1520105,
+        1520785
+      ],
+      [
+        25,
+        1520785,
+        1521515
+      ],
+      [
+        26,
+        1521515,
+        1524960
+      ]
+    ]
+  }
+}

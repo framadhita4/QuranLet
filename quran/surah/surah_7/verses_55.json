@@ -1,0 +1,138 @@
+{
+  "id": 1009,
+  "chapter_id": 7,
+  "verse_key": "7:55",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "ruku_number": 128,
+  "manzil_number": 2,
+  "page_number": 157,
+  "juz_number": 8,
+  "text_uthmani": "ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 52027,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_001.mp3",
+      "text": "ٱدْعُوا۟",
+      "translation": "berdoalah kamu",
+      "transliteration": "id'ʿū"
+    },
+    {
+      "id": 52028,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_002.mp3",
+      "text": "رَبَّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbakum"
+    },
+    {
+      "id": 52029,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_003.mp3",
+      "text": "تَضَرُّعًۭا",
+      "translation": "merendahkan diri",
+      "transliteration": "taḍarruʿan"
+    },
+    {
+      "id": 52030,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_004.mp3",
+      "text": "وَخُفْيَةً ۚ",
+      "translation": "dan suara yang lembut",
+      "transliteration": "wakhuf'yatan"
+    },
+    {
+      "id": 52032,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_006.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 52033,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_007.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 52034,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_008.mp3",
+      "text": "يُحِبُّ",
+      "translation": "menyukai",
+      "transliteration": "yuḥibbu"
+    },
+    {
+      "id": 52035,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_055_009.mp3",
+      "text": "ٱلْمُعْتَدِينَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "l-muʿ'tadīna"
+    },
+    {
+      "id": 52036,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berdoalah kepada Tuhan-mu dengan berendah diri dan suara yang lembut.  Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas<sup foot_note_id=\"550\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1324310,
+    "timestamp_to": 1335910,
+    "duration": 11600,
+    "segments": [
+      [
+        1,
+        1324285,
+        1325205
+      ],
+      [
+        2,
+        1325205,
+        1326135
+      ],
+      [
+        3,
+        1326135,
+        1328394
+      ],
+      [
+        4,
+        1328395,
+        1329885
+      ],
+      [
+        5,
+        1329885,
+        1331575
+      ],
+      [
+        6,
+        1331575,
+        1331985
+      ],
+      [
+        7,
+        1331985,
+        1332795
+      ],
+      [
+        8,
+        1332795,
+        1335860
+      ]
+    ]
+  }
+}

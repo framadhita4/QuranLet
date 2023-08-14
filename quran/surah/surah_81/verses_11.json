@@ -1,0 +1,73 @@
+{
+  "id": 5811,
+  "chapter_id": 81,
+  "verse_key": "81:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 12988,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_011_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 12989,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_011_002.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 12990,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_011_003.mp3",
+      "text": "كُشِطَتْ",
+      "translation": "dibuka/tabirnya/dilenyapkan",
+      "transliteration": "kushiṭat"
+    },
+    {
+      "id": 12991,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila langit dilenyapkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 29550,
+    "timestamp_to": 33360,
+    "duration": 3810,
+    "segments": [
+      [
+        1,
+        29525,
+        30155
+      ],
+      [
+        2,
+        30155,
+        32505
+      ],
+      [
+        3,
+        32505,
+        33300
+      ]
+    ]
+  }
+}

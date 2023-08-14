@@ -1,0 +1,99 @@
+{
+  "id": 3158,
+  "chapter_id": 26,
+  "verse_key": "26:226",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 86200,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_226_001.mp3",
+      "text": "وَأَنَّهُمْ",
+      "translation": "dan bahwasanya mereka",
+      "transliteration": "wa-annahum"
+    },
+    {
+      "id": 86201,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_226_002.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka mengatakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 86202,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_226_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 86203,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_226_004.mp3",
+      "text": "لَا",
+      "translation": "yang tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 86204,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_226_005.mp3",
+      "text": "يَفْعَلُونَ",
+      "translation": "mereka mengerjakan",
+      "transliteration": "yafʿalūna"
+    },
+    {
+      "id": 86205,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٢٦",
+      "translation": "(226)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya mereka suka mengatakan apa yang mereka sendiri tidak mengerjakan(nya)?,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1931750,
+    "timestamp_to": 1939140,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        1931725,
+        1933515
+      ],
+      [
+        2,
+        1933515,
+        1934835
+      ],
+      [
+        3,
+        1934835,
+        1935285
+      ],
+      [
+        4,
+        1935285,
+        1935635
+      ],
+      [
+        5,
+        1935635,
+        1939060
+      ]
+    ]
+  }
+}

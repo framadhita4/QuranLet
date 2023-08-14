@@ -1,0 +1,164 @@
+{
+  "id": 4567,
+  "chapter_id": 47,
+  "verse_key": "47:22",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "ruku_number": 446,
+  "manzil_number": 6,
+  "page_number": 509,
+  "juz_number": 26,
+  "text_uthmani": "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ وَتُقَطِّعُوٓا۟ أَرْحَامَكُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3",
+  "words": [
+    {
+      "id": 24602,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_001.mp3",
+      "text": "فَهَلْ",
+      "translation": "maka apakah",
+      "transliteration": "fahal"
+    },
+    {
+      "id": 24603,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_002.mp3",
+      "text": "عَسَيْتُمْ",
+      "translation": "sekiranya kamu",
+      "transliteration": "ʿasaytum"
+    },
+    {
+      "id": 24604,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_003.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 24605,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_004.mp3",
+      "text": "تَوَلَّيْتُمْ",
+      "translation": "kamu berkuasa",
+      "transliteration": "tawallaytum"
+    },
+    {
+      "id": 24606,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 24607,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_006.mp3",
+      "text": "تُفْسِدُوا۟",
+      "translation": "kalian membuat kerusakan",
+      "transliteration": "tuf'sidū"
+    },
+    {
+      "id": 24608,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_007.mp3",
+      "text": "فِى",
+      "translation": "di muka",
+      "transliteration": "fī"
+    },
+    {
+      "id": 24609,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_008.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 24610,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_009.mp3",
+      "text": "وَتُقَطِّعُوٓا۟",
+      "translation": "dan kamu memutuskan",
+      "transliteration": "watuqaṭṭiʿū"
+    },
+    {
+      "id": 24611,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_022_010.mp3",
+      "text": "أَرْحَامَكُمْ",
+      "translation": "hubungan keluargamu",
+      "transliteration": "arḥāmakum"
+    },
+    {
+      "id": 24612,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kiranya jika kamu berkuasa kamu akan membuat kerusakan di muka bumi dan memutuskan hubungan kekeluargaan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 438760,
+    "timestamp_to": 451480,
+    "duration": 12720,
+    "segments": [
+      [
+        1,
+        438715,
+        439405
+      ],
+      [
+        2,
+        439405,
+        440545
+      ],
+      [
+        3,
+        440545,
+        440985
+      ],
+      [
+        4,
+        440985,
+        443235
+      ],
+      [
+        5,
+        443235,
+        444165
+      ],
+      [
+        6,
+        444165,
+        445205
+      ],
+      [
+        7,
+        445205,
+        445475
+      ],
+      [
+        8,
+        445475,
+        446355
+      ],
+      [
+        9,
+        446355,
+        449325
+      ],
+      [
+        10,
+        449325,
+        451380
+      ]
+    ]
+  }
+}

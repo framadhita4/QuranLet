@@ -1,0 +1,99 @@
+{
+  "id": 2427,
+  "chapter_id": 20,
+  "verse_key": "20:79",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 273,
+  "manzil_number": 4,
+  "page_number": 317,
+  "juz_number": 16,
+  "text_uthmani": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُۥ وَمَا هَدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 63846,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_079_001.mp3",
+      "text": "وَأَضَلَّ",
+      "translation": "dan telah menyesatkan",
+      "transliteration": "wa-aḍalla"
+    },
+    {
+      "id": 63847,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_079_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 63848,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_079_003.mp3",
+      "text": "قَوْمَهُۥ",
+      "translation": "kaumnya",
+      "transliteration": "qawmahu"
+    },
+    {
+      "id": 63849,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_079_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 63850,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_079_005.mp3",
+      "text": "هَدَىٰ",
+      "translation": "memberi petunjuk",
+      "transliteration": "hadā"
+    },
+    {
+      "id": 63851,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Firʻawn  telah menyesatkan kaumnya dan tidak memberi petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 850180,
+    "timestamp_to": 855170,
+    "duration": 4990,
+    "segments": [
+      [
+        1,
+        850155,
+        851295
+      ],
+      [
+        2,
+        851295,
+        852355
+      ],
+      [
+        3,
+        852355,
+        853455
+      ],
+      [
+        4,
+        853455,
+        853975
+      ],
+      [
+        5,
+        853975,
+        854820
+      ]
+    ]
+  }
+}

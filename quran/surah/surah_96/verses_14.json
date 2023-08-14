@@ -1,0 +1,99 @@
+{
+  "id": 6120,
+  "chapter_id": 96,
+  "verse_key": "96:14",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 16380,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_014_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "apakah tidak/tidaklah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 16381,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_014_002.mp3",
+      "text": "يَعْلَم",
+      "translation": "dia mengetahui",
+      "transliteration": "yaʿlam"
+    },
+    {
+      "id": 16382,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_014_003.mp3",
+      "text": "بِأَنَّ",
+      "translation": "bahwa sesungguhnya",
+      "transliteration": "bi-anna"
+    },
+    {
+      "id": 16383,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_014_004.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 16384,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_014_005.mp3",
+      "text": "يَرَىٰ",
+      "translation": "Dia melihat",
+      "transliteration": "yarā"
+    },
+    {
+      "id": 16385,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat segala perbuatannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53320,
+    "timestamp_to": 58910,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        52945,
+        53535
+      ],
+      [
+        2,
+        53535,
+        55105
+      ],
+      [
+        3,
+        55105,
+        56565
+      ],
+      [
+        4,
+        56565,
+        57385
+      ],
+      [
+        5,
+        57385,
+        58490
+      ]
+    ]
+  }
+}

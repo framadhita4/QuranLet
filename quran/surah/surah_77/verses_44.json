@@ -1,0 +1,86 @@
+{
+  "id": 5666,
+  "chapter_id": 77,
+  "verse_key": "77:44",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 44580,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_044_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 44581,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_044_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 44582,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_044_003.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 44583,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_044_004.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 44584,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 232890,
+    "timestamp_to": 238740,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        232815,
+        234125
+      ],
+      [
+        2,
+        234125,
+        235155
+      ],
+      [
+        3,
+        235155,
+        235715
+      ],
+      [
+        4,
+        235715,
+        238530
+      ]
+    ]
+  }
+}

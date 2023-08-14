@@ -1,0 +1,177 @@
+{
+  "id": 2278,
+  "chapter_id": 19,
+  "verse_key": "19:28",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 307,
+  "juz_number": 16,
+  "text_uthmani": "يَـٰٓأُخْتَ هَـٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 30807,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_001.mp3",
+      "text": "يَـٰٓأُخْتَ",
+      "translation": "wahai saudara perempuan",
+      "transliteration": "yāukh'ta"
+    },
+    {
+      "id": 30808,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_002.mp3",
+      "text": "هَـٰرُونَ",
+      "translation": "Harun",
+      "transliteration": "hārūna"
+    },
+    {
+      "id": 30809,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_003.mp3",
+      "text": "مَا",
+      "translation": "tidakkah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 30810,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_004.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 30811,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_005.mp3",
+      "text": "أَبُوكِ",
+      "translation": "ayahmu",
+      "transliteration": "abūki"
+    },
+    {
+      "id": 30812,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_006.mp3",
+      "text": "ٱمْرَأَ",
+      "translation": "orang",
+      "transliteration": "im'ra-a"
+    },
+    {
+      "id": 30813,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_007.mp3",
+      "text": "سَوْءٍۢ",
+      "translation": "seburuk-buruk",
+      "transliteration": "sawin"
+    },
+    {
+      "id": 30814,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_008.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak/bukan",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 30815,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_009.mp3",
+      "text": "كَانَتْ",
+      "translation": "ada",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 30816,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_010.mp3",
+      "text": "أُمُّكِ",
+      "translation": "ibumu",
+      "transliteration": "ummuki"
+    },
+    {
+      "id": 30817,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_028_011.mp3",
+      "text": "بَغِيًّۭا",
+      "translation": "pelacur/jalang",
+      "transliteration": "baghiyyan"
+    },
+    {
+      "id": 30818,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai saudara perempuan Hārūn <sup foot_note_id=\"901\">1</sup>, ayahmu sekali-kali bukanlah seorang yang jahat dan ibumu sekali-kali bukanlah seorang pezina\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 371610,
+    "timestamp_to": 385300,
+    "duration": 13690,
+    "segments": [
+      [
+        1,
+        371225,
+        374315
+      ],
+      [
+        2,
+        374315,
+        375565
+      ],
+      [
+        3,
+        375565,
+        375965
+      ],
+      [
+        4,
+        375965,
+        376725
+      ],
+      [
+        5,
+        376725,
+        377695
+      ],
+      [
+        6,
+        377695,
+        378315
+      ],
+      [
+        7,
+        378315,
+        379945
+      ],
+      [
+        8,
+        379945,
+        380565
+      ],
+      [
+        9,
+        380565,
+        381545
+      ],
+      [
+        10,
+        381545,
+        383155
+      ],
+      [
+        11,
+        383155,
+        384470
+      ]
+    ]
+  }
+}

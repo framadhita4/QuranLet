@@ -1,0 +1,125 @@
+{
+  "id": 4420,
+  "chapter_id": 44,
+  "verse_key": "44:6",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 5999,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_001.mp3",
+      "text": "رَحْمَةًۭ",
+      "translation": "rahmat",
+      "transliteration": "raḥmatan"
+    },
+    {
+      "id": 6000,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 6001,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_003.mp3",
+      "text": "رَّبِّكَ ۚ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 6003,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_005.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 6004,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_006.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 6005,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_007.mp3",
+      "text": "ٱلسَّمِيعُ",
+      "translation": "Maha Mendengar",
+      "transliteration": "l-samīʿu"
+    },
+    {
+      "id": 6006,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_006_008.mp3",
+      "text": "ٱلْعَلِيمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-ʿalīmu"
+    },
+    {
+      "id": 6007,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sebagai rahmat dari Tuhan-mu.  Sesungguhnya Dia-lah Yang Maha Mendengar lagi Maha Mengetahui,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42260,
+    "timestamp_to": 51690,
+    "duration": 9430,
+    "segments": [
+      [
+        1,
+        42225,
+        43255
+      ],
+      [
+        2,
+        43255,
+        44255
+      ],
+      [
+        3,
+        44255,
+        45825
+      ],
+      [
+        4,
+        45825,
+        47305
+      ],
+      [
+        5,
+        47305,
+        47775
+      ],
+      [
+        6,
+        47775,
+        48835
+      ],
+      [
+        7,
+        48835,
+        51600
+      ]
+    ]
+  }
+}

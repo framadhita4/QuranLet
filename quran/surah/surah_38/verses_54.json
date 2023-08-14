@@ -1,0 +1,125 @@
+{
+  "id": 4024,
+  "chapter_id": 38,
+  "verse_key": "38:54",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّ هَـٰذَا لَرِزْقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 51539,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 51540,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 51541,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_003.mp3",
+      "text": "لَرِزْقُنَا",
+      "translation": "benar-benar rizki Kami",
+      "transliteration": "lariz'qunā"
+    },
+    {
+      "id": 51542,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_004.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 51543,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_005.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 51544,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_006.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 51545,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_054_007.mp3",
+      "text": "نَّفَادٍ",
+      "translation": "habis",
+      "transliteration": "nafādin"
+    },
+    {
+      "id": 51546,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ini adalah benar-benar rezeki dari Kami yang tiada habis-habisnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 713010,
+    "timestamp_to": 721940,
+    "duration": 8930,
+    "segments": [
+      [
+        1,
+        712645,
+        714135
+      ],
+      [
+        2,
+        714135,
+        715075
+      ],
+      [
+        3,
+        715075,
+        716375
+      ],
+      [
+        4,
+        716375,
+        716765
+      ],
+      [
+        5,
+        716765,
+        717465
+      ],
+      [
+        6,
+        717465,
+        717735
+      ],
+      [
+        7,
+        717735,
+        721550
+      ]
+    ]
+  }
+}

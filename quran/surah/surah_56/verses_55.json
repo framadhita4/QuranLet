@@ -1,0 +1,73 @@
+{
+  "id": 5034,
+  "chapter_id": 56,
+  "verse_key": "56:55",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 51704,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_055_001.mp3",
+      "text": "فَشَـٰرِبُونَ",
+      "translation": "maka akan meminum",
+      "transliteration": "fashāribūna"
+    },
+    {
+      "id": 51705,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_055_002.mp3",
+      "text": "شُرْبَ",
+      "translation": "minuman",
+      "transliteration": "shur'ba"
+    },
+    {
+      "id": 51706,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_055_003.mp3",
+      "text": "ٱلْهِيمِ",
+      "translation": "unta",
+      "transliteration": "l-hīmi"
+    },
+    {
+      "id": 51707,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kamu minum seperti unta yang sangat haus minum.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 367990,
+    "timestamp_to": 373760,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        367905,
+        369365
+      ],
+      [
+        2,
+        369365,
+        370035
+      ],
+      [
+        3,
+        370035,
+        373620
+      ]
+    ]
+  }
+}

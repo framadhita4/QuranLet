@@ -1,0 +1,190 @@
+{
+  "id": 4652,
+  "chapter_id": 50,
+  "verse_key": "50:22",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَـٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 24645,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_001.mp3",
+      "text": "لَّقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 24646,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_002.mp3",
+      "text": "كُنتَ",
+      "translation": "adalah kamu",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 24647,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 24648,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_004.mp3",
+      "text": "غَفْلَةٍۢ",
+      "translation": "kelalaian",
+      "transliteration": "ghaflatin"
+    },
+    {
+      "id": 24649,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_005.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 24650,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_006.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 24651,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_007.mp3",
+      "text": "فَكَشَفْنَا",
+      "translation": "maka Kami singkapkan",
+      "transliteration": "fakashafnā"
+    },
+    {
+      "id": 24652,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_008.mp3",
+      "text": "عَنكَ",
+      "translation": "dari padamu",
+      "transliteration": "ʿanka"
+    },
+    {
+      "id": 24653,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_009.mp3",
+      "text": "غِطَآءَكَ",
+      "translation": "tabirmu",
+      "transliteration": "ghiṭāaka"
+    },
+    {
+      "id": 24654,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_010.mp3",
+      "text": "فَبَصَرُكَ",
+      "translation": "maka pandanganmu",
+      "transliteration": "fabaṣaruka"
+    },
+    {
+      "id": 24655,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_011.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 24656,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_022_012.mp3",
+      "text": "حَدِيدٌۭ",
+      "translation": "amat tajam",
+      "transliteration": "ḥadīdun"
+    },
+    {
+      "id": 24657,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu berada dalam keadaan lalai dari (hal) ini, maka Kami singkapkan darimu tutup (yang menutupi) matamu, maka penglihatanmu pada hari itu amat tajam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 266020,
+    "timestamp_to": 283310,
+    "duration": 17290,
+    "segments": [
+      [
+        1,
+        265955,
+        266655
+      ],
+      [
+        2,
+        266655,
+        268375
+      ],
+      [
+        3,
+        268375,
+        268875
+      ],
+      [
+        4,
+        268875,
+        269835
+      ],
+      [
+        5,
+        269835,
+        271405
+      ],
+      [
+        6,
+        271405,
+        272305
+      ],
+      [
+        7,
+        272305,
+        273785
+      ],
+      [
+        8,
+        273785,
+        275035
+      ],
+      [
+        9,
+        275035,
+        277735
+      ],
+      [
+        10,
+        277735,
+        278905
+      ],
+      [
+        11,
+        278905,
+        279815
+      ],
+      [
+        12,
+        279815,
+        283180
+      ]
+    ]
+  }
+}

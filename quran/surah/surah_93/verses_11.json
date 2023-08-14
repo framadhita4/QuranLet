@@ -1,0 +1,86 @@
+{
+  "id": 6090,
+  "chapter_id": 93,
+  "verse_key": "93:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 12598,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_011_001.mp3",
+      "text": "وَأَمَّا",
+      "translation": "dan adapun",
+      "transliteration": "wa-ammā"
+    },
+    {
+      "id": 12599,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_011_002.mp3",
+      "text": "بِنِعْمَةِ",
+      "translation": "dengan/terhadap nikmat",
+      "transliteration": "biniʿ'mati"
+    },
+    {
+      "id": 12600,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_011_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 12601,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_011_004.mp3",
+      "text": "فَحَدِّثْ",
+      "translation": "maka hendaklah kamu ceritakan",
+      "transliteration": "faḥaddith"
+    },
+    {
+      "id": 12602,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan terhadap nikmat Tuhan-mu, maka hendaklah kamu menyebut-nyebutnya (dengan bersyukur).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 49070,
+    "timestamp_to": 54950,
+    "duration": 5880,
+    "segments": [
+      [
+        1,
+        49015,
+        50775
+      ],
+      [
+        2,
+        50775,
+        51865
+      ],
+      [
+        3,
+        51865,
+        52795
+      ],
+      [
+        4,
+        52795,
+        54080
+      ]
+    ]
+  }
+}

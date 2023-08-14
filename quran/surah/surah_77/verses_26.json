@@ -1,0 +1,60 @@
+{
+  "id": 5648,
+  "chapter_id": 77,
+  "verse_key": "77:26",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "أَحْيَآءً وَأَمْوَٰتًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 28882,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_026_001.mp3",
+      "text": "أَحْيَآءًۭ",
+      "translation": "orang-orang yang hidup",
+      "transliteration": "aḥyāan"
+    },
+    {
+      "id": 28883,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_026_002.mp3",
+      "text": "وَأَمْوَٰتًۭا",
+      "translation": "dan orang-orang yang mati",
+      "transliteration": "wa-amwātan"
+    },
+    {
+      "id": 28884,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "orang-orang hidup dan orang-orang mati?<sup foot_note_id=\"1542\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105970,
+    "timestamp_to": 111090,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        105565,
+        108805
+      ],
+      [
+        2,
+        108805,
+        110590
+      ]
+    ]
+  }
+}

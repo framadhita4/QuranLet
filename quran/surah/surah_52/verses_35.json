@@ -1,0 +1,138 @@
+{
+  "id": 4770,
+  "chapter_id": 52,
+  "verse_key": "52:35",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 37205,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 37206,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_002.mp3",
+      "text": "خُلِقُوا۟",
+      "translation": "mereka diciptakan",
+      "transliteration": "khuliqū"
+    },
+    {
+      "id": 37207,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 37208,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_004.mp3",
+      "text": "غَيْرِ",
+      "translation": "selain",
+      "transliteration": "ghayri"
+    },
+    {
+      "id": 37209,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_005.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 37210,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_006.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 37211,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_007.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 37212,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_035_008.mp3",
+      "text": "ٱلْخَـٰلِقُونَ",
+      "translation": "yang menciptakan",
+      "transliteration": "l-khāliqūna"
+    },
+    {
+      "id": 37213,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah mereka diciptakan tanpa sesuatu pun ataukah mereka yang menciptakan (diri mereka sendiri)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 325380,
+    "timestamp_to": 333190,
+    "duration": 7810,
+    "segments": [
+      [
+        1,
+        325305,
+        325715
+      ],
+      [
+        2,
+        325715,
+        326655
+      ],
+      [
+        3,
+        326655,
+        327085
+      ],
+      [
+        4,
+        327085,
+        327715
+      ],
+      [
+        5,
+        327715,
+        328675
+      ],
+      [
+        6,
+        328675,
+        329075
+      ],
+      [
+        7,
+        329075,
+        329495
+      ],
+      [
+        8,
+        329495,
+        333060
+      ]
+    ]
+  }
+}

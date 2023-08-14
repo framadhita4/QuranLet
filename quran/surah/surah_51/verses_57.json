@@ -1,0 +1,151 @@
+{
+  "id": 4732,
+  "chapter_id": 51,
+  "verse_key": "51:57",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 52743,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_001.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 52744,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_002.mp3",
+      "text": "أُرِيدُ",
+      "translation": "Aku menghendaki",
+      "transliteration": "urīdu"
+    },
+    {
+      "id": 52745,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_003.mp3",
+      "text": "مِنْهُم",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 52746,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 52747,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_005.mp3",
+      "text": "رِّزْقٍۢ",
+      "translation": "rezeki",
+      "transliteration": "riz'qin"
+    },
+    {
+      "id": 52748,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_006.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 52749,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_007.mp3",
+      "text": "أُرِيدُ",
+      "translation": "Aku menghendaki",
+      "transliteration": "urīdu"
+    },
+    {
+      "id": 52750,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_008.mp3",
+      "text": "أَن",
+      "translation": "supaya",
+      "transliteration": "an"
+    },
+    {
+      "id": 52751,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_057_009.mp3",
+      "text": "يُطْعِمُونِ",
+      "translation": "mereka memberi Aku makan",
+      "transliteration": "yuṭ'ʿimūni"
+    },
+    {
+      "id": 52752,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Aku tidak menghendaki rezeki sedikit pun dari mereka dan Aku tidak menghendaki supaya mereka memberi Aku makan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 502210,
+    "timestamp_to": 516320,
+    "duration": 14110,
+    "segments": [
+      [
+        1,
+        502145,
+        504165
+      ],
+      [
+        2,
+        504165,
+        505165
+      ],
+      [
+        3,
+        505165,
+        505925
+      ],
+      [
+        4,
+        505925,
+        506915
+      ],
+      [
+        5,
+        506915,
+        508725
+      ],
+      [
+        6,
+        508725,
+        510795
+      ],
+      [
+        7,
+        510795,
+        511715
+      ],
+      [
+        8,
+        511715,
+        512035
+      ],
+      [
+        9,
+        512035,
+        516170
+      ]
+    ]
+  }
+}

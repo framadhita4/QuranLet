@@ -1,0 +1,112 @@
+{
+  "id": 5051,
+  "chapter_id": 56,
+  "verse_key": "56:72",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 60655,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_072_001.mp3",
+      "text": "ءَأَنتُمْ",
+      "translation": "apakah kamu",
+      "transliteration": "a-antum"
+    },
+    {
+      "id": 60656,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_072_002.mp3",
+      "text": "أَنشَأْتُمْ",
+      "translation": "kamu menumbuhkan",
+      "transliteration": "anshatum"
+    },
+    {
+      "id": 60657,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_072_003.mp3",
+      "text": "شَجَرَتَهَآ",
+      "translation": "kayunya",
+      "transliteration": "shajaratahā"
+    },
+    {
+      "id": 60658,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_072_004.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 60659,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_072_005.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 60660,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_072_006.mp3",
+      "text": "ٱلْمُنشِـُٔونَ",
+      "translation": "yang menumbuhkannya",
+      "transliteration": "l-munshiūna"
+    },
+    {
+      "id": 60661,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamukah yang menjadikan kayu itu atau Kami-kah yang menjadikannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 515950,
+    "timestamp_to": 529350,
+    "duration": 13400,
+    "segments": [
+      [
+        1,
+        515855,
+        517695
+      ],
+      [
+        2,
+        517695,
+        520065
+      ],
+      [
+        3,
+        520065,
+        523025
+      ],
+      [
+        4,
+        523025,
+        523425
+      ],
+      [
+        5,
+        523425,
+        524135
+      ],
+      [
+        6,
+        524135,
+        529180
+      ]
+    ]
+  }
+}

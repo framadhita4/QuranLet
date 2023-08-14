@@ -1,0 +1,99 @@
+{
+  "id": 6200,
+  "chapter_id": 107,
+  "verse_key": "107:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "words": [
+    {
+      "id": 2449,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_003_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 2450,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_003_002.mp3",
+      "text": "يَحُضُّ",
+      "translation": "menganjurkan",
+      "transliteration": "yaḥuḍḍu"
+    },
+    {
+      "id": 2451,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_003_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 2452,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_003_004.mp3",
+      "text": "طَعَامِ",
+      "translation": "memberi makan",
+      "transliteration": "ṭaʿāmi"
+    },
+    {
+      "id": 2453,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_003_005.mp3",
+      "text": "ٱلْمِسْكِينِ",
+      "translation": "orang miskin",
+      "transliteration": "l-mis'kīni"
+    },
+    {
+      "id": 2454,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tidak menganjurkan memberi makan orang miskin.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12800,
+    "timestamp_to": 20010,
+    "duration": 7210,
+    "segments": [
+      [
+        1,
+        12705,
+        13465
+      ],
+      [
+        2,
+        13465,
+        14435
+      ],
+      [
+        3,
+        14435,
+        14945
+      ],
+      [
+        4,
+        14945,
+        15855
+      ],
+      [
+        5,
+        15855,
+        19850
+      ]
+    ]
+  }
+}

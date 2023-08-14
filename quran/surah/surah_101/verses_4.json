@@ -1,0 +1,99 @@
+{
+  "id": 6161,
+  "chapter_id": 101,
+  "verse_key": "101:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 3357,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_004_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 3358,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_004_002.mp3",
+      "text": "يَكُونُ",
+      "translation": "adalah",
+      "transliteration": "yakūnu"
+    },
+    {
+      "id": 3359,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_004_003.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 3360,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_004_004.mp3",
+      "text": "كَٱلْفَرَاشِ",
+      "translation": "seperti anai-anai",
+      "transliteration": "kal-farāshi"
+    },
+    {
+      "id": 3361,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_004_005.mp3",
+      "text": "ٱلْمَبْثُوثِ",
+      "translation": "bertebaran",
+      "transliteration": "l-mabthūthi"
+    },
+    {
+      "id": 3362,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari itu manusia adalah seperti kupu-kupu yang bertebaran,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10210,
+    "timestamp_to": 17990,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        10085,
+        10765
+      ],
+      [
+        2,
+        10765,
+        11665
+      ],
+      [
+        3,
+        11665,
+        13235
+      ],
+      [
+        4,
+        13235,
+        14555
+      ],
+      [
+        5,
+        14555,
+        17440
+      ]
+    ]
+  }
+}

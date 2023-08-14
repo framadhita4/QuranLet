@@ -1,0 +1,86 @@
+{
+  "id": 4968,
+  "chapter_id": 55,
+  "verse_key": "55:67",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 58087,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_067_001.mp3",
+      "text": "فَبِأَىِّ",
+      "translation": "maka yang mana",
+      "transliteration": "fabi-ayyi"
+    },
+    {
+      "id": 58088,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_067_002.mp3",
+      "text": "ءَالَآءِ",
+      "translation": "ni'mat",
+      "transliteration": "ālāi"
+    },
+    {
+      "id": 58089,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_067_003.mp3",
+      "text": "رَبِّكُمَا",
+      "translation": "Tuhanmu berdua",
+      "transliteration": "rabbikumā"
+    },
+    {
+      "id": 58090,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_067_004.mp3",
+      "text": "تُكَذِّبَانِ",
+      "translation": "kamu berdua dustakan",
+      "transliteration": "tukadhibāni"
+    },
+    {
+      "id": 58091,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka nikmat Tuhan kamu yang manakah yang kamu dustakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 582530,
+    "timestamp_to": 591360,
+    "duration": 8830,
+    "segments": [
+      [
+        1,
+        582445,
+        583505
+      ],
+      [
+        2,
+        583505,
+        585864
+      ],
+      [
+        3,
+        585865,
+        587175
+      ],
+      [
+        4,
+        587175,
+        591210
+      ]
+    ]
+  }
+}

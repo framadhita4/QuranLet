@@ -1,0 +1,138 @@
+{
+  "id": 2593,
+  "chapter_id": 21,
+  "verse_key": "21:110",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 331,
+  "juz_number": 17,
+  "text_uthmani": "إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 74316,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 74317,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_002.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 74318,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_003.mp3",
+      "text": "ٱلْجَهْرَ",
+      "translation": "keras/terus terang",
+      "transliteration": "l-jahra"
+    },
+    {
+      "id": 74319,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 74320,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_005.mp3",
+      "text": "ٱلْقَوْلِ",
+      "translation": "perkataan",
+      "transliteration": "l-qawli"
+    },
+    {
+      "id": 74321,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_006.mp3",
+      "text": "وَيَعْلَمُ",
+      "translation": "dan Dia mengetahui",
+      "transliteration": "wayaʿlamu"
+    },
+    {
+      "id": 74322,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_007.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 74323,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_110_008.mp3",
+      "text": "تَكْتُمُونَ",
+      "translation": "kamu sembunyikan/rahasiakan",
+      "transliteration": "taktumūna"
+    },
+    {
+      "id": 74324,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١١٠",
+      "translation": "(110)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Dia mengetahui perkataan (yang kamu ucapkan) dengan terang-terangan dan Dia mengetahui apa yang kamu rahasiakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1539880,
+    "timestamp_to": 1548580,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        1539845,
+        1541415
+      ],
+      [
+        2,
+        1541415,
+        1542245
+      ],
+      [
+        3,
+        1542245,
+        1543135
+      ],
+      [
+        4,
+        1543135,
+        1543445
+      ],
+      [
+        5,
+        1543445,
+        1544285
+      ],
+      [
+        6,
+        1544285,
+        1545285
+      ],
+      [
+        7,
+        1545285,
+        1545635
+      ],
+      [
+        8,
+        1545635,
+        1548520
+      ]
+    ]
+  }
+}

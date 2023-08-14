@@ -1,0 +1,125 @@
+{
+  "id": 4711,
+  "chapter_id": 51,
+  "verse_key": "51:36",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 37880,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 37881,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_002.mp3",
+      "text": "وَجَدْنَا",
+      "translation": "kami dapati",
+      "transliteration": "wajadnā"
+    },
+    {
+      "id": 37882,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_003.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 37883,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_004.mp3",
+      "text": "غَيْرَ",
+      "translation": "selain",
+      "transliteration": "ghayra"
+    },
+    {
+      "id": 37884,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_005.mp3",
+      "text": "بَيْتٍۢ",
+      "translation": "sebuah rumah",
+      "transliteration": "baytin"
+    },
+    {
+      "id": 37885,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_006.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 37886,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_036_007.mp3",
+      "text": "ٱلْمُسْلِمِينَ",
+      "translation": "orang-orang yang berserah diri",
+      "transliteration": "l-mus'limīna"
+    },
+    {
+      "id": 37887,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tidak mendapati di negeri itu, kecuali sebuah rumah dari orang yang berserah diri<sup foot_note_id=\"1422\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 279670,
+    "timestamp_to": 288210,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        279635,
+        280265
+      ],
+      [
+        2,
+        280265,
+        281415
+      ],
+      [
+        3,
+        281415,
+        282345
+      ],
+      [
+        4,
+        282345,
+        283095
+      ],
+      [
+        5,
+        283095,
+        283915
+      ],
+      [
+        6,
+        283915,
+        285005
+      ],
+      [
+        7,
+        285005,
+        288120
+      ]
+    ]
+  }
+}

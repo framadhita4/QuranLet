@@ -1,0 +1,151 @@
+{
+  "id": 4552,
+  "chapter_id": 47,
+  "verse_key": "47:7",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3",
+  "words": [
+    {
+      "id": 7355,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 7356,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 7357,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_003.mp3",
+      "text": "ءَامَنُوٓا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 7358,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_004.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 7359,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_005.mp3",
+      "text": "تَنصُرُوا۟",
+      "translation": "menolong",
+      "transliteration": "tanṣurū"
+    },
+    {
+      "id": 7360,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_006.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 7361,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_007.mp3",
+      "text": "يَنصُرْكُمْ",
+      "translation": "Dia akan menolongmu",
+      "transliteration": "yanṣur'kum"
+    },
+    {
+      "id": 7362,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_008.mp3",
+      "text": "وَيُثَبِّتْ",
+      "translation": "dan Dia akan meneguhkan",
+      "transliteration": "wayuthabbit"
+    },
+    {
+      "id": 7363,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_007_009.mp3",
+      "text": "أَقْدَامَكُمْ",
+      "translation": "kedudukanmu",
+      "transliteration": "aqdāmakum"
+    },
+    {
+      "id": 7364,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang yang beriman, jika kamu menolong (agama) Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 107550,
+    "timestamp_to": 123300,
+    "duration": 15750,
+    "segments": [
+      [
+        1,
+        107495,
+        110545
+      ],
+      [
+        2,
+        110545,
+        111555
+      ],
+      [
+        3,
+        111555,
+        114265
+      ],
+      [
+        4,
+        114265,
+        115345
+      ],
+      [
+        5,
+        115345,
+        116945
+      ],
+      [
+        6,
+        116945,
+        117795
+      ],
+      [
+        7,
+        117795,
+        119925
+      ],
+      [
+        8,
+        119925,
+        121165
+      ],
+      [
+        9,
+        121165,
+        123190
+      ]
+    ]
+  }
+}

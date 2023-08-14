@@ -1,0 +1,138 @@
+{
+  "id": 2498,
+  "chapter_id": 21,
+  "verse_key": "21:15",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 279,
+  "manzil_number": 4,
+  "page_number": 323,
+  "juz_number": 17,
+  "text_uthmani": "فَمَا زَالَت تِّلْكَ دَعْوَىٰهُمْ حَتَّىٰ جَعَلْنَـٰهُمْ حَصِيدًا خَـٰمِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 17296,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka",
+      "transliteration": "famā"
+    },
+    {
+      "id": 17297,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_002.mp3",
+      "text": "زَالَت",
+      "translation": "senantiasa/tetap",
+      "transliteration": "zālat"
+    },
+    {
+      "id": 17298,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_003.mp3",
+      "text": "تِّلْكَ",
+      "translation": "itulah/demikianlah",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 17299,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_004.mp3",
+      "text": "دَعْوَىٰهُمْ",
+      "translation": "seruan/keluhan mereka",
+      "transliteration": "daʿwāhum"
+    },
+    {
+      "id": 17300,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_005.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 17301,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_006.mp3",
+      "text": "جَعَلْنَـٰهُمْ",
+      "translation": "Kami jadikan mereka",
+      "transliteration": "jaʿalnāhum"
+    },
+    {
+      "id": 17302,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_007.mp3",
+      "text": "حَصِيدًا",
+      "translation": "ketam/tuai",
+      "transliteration": "ḥaṣīdan"
+    },
+    {
+      "id": 17303,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_015_008.mp3",
+      "text": "خَـٰمِدِينَ",
+      "translation": "padam/tak dapat hidup lagi",
+      "transliteration": "khāmidīna"
+    },
+    {
+      "id": 17304,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tetaplah demikian keluhan mereka sehingga Kami jadikan mereka sebagai tanaman yang telah dituai yang tidak dapat hidup lagi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 190500,
+    "timestamp_to": 199900,
+    "duration": 9410,
+    "segments": [
+      [
+        1,
+        190445,
+        191015
+      ],
+      [
+        2,
+        191015,
+        191675
+      ],
+      [
+        3,
+        191675,
+        192435
+      ],
+      [
+        4,
+        192435,
+        193625
+      ],
+      [
+        5,
+        193625,
+        194445
+      ],
+      [
+        6,
+        194445,
+        195885
+      ],
+      [
+        7,
+        195885,
+        196905
+      ],
+      [
+        8,
+        196905,
+        199830
+      ]
+    ]
+  }
+}

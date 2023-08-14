@@ -1,0 +1,60 @@
+{
+  "id": 6079,
+  "chapter_id": 92,
+  "verse_key": "92:21",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَلَسَوْفَ يَرْضَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 23749,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_021_001.mp3",
+      "text": "وَلَسَوْفَ",
+      "translation": "dan kelak",
+      "transliteration": "walasawfa"
+    },
+    {
+      "id": 23750,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_021_002.mp3",
+      "text": "يَرْضَىٰ",
+      "translation": "ridha",
+      "transliteration": "yarḍā"
+    },
+    {
+      "id": 23751,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kelak dia benar-benar mendapat kepuasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 95720,
+    "timestamp_to": 99770,
+    "duration": 4050,
+    "segments": [
+      [
+        1,
+        95345,
+        96585
+      ],
+      [
+        2,
+        96585,
+        97630
+      ]
+    ]
+  }
+}

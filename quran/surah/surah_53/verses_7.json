@@ -1,0 +1,73 @@
+{
+  "id": 4791,
+  "chapter_id": 53,
+  "verse_key": "53:7",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 7482,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_007_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 7483,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_007_002.mp3",
+      "text": "بِٱلْأُفُقِ",
+      "translation": "di ufuk",
+      "transliteration": "bil-ufuqi"
+    },
+    {
+      "id": 7484,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_007_003.mp3",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation": "yang tinggi",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 7485,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sedang dia berada di ufuk yang tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26850,
+    "timestamp_to": 30560,
+    "duration": 3710,
+    "segments": [
+      [
+        1,
+        26455,
+        27115
+      ],
+      [
+        2,
+        27115,
+        28305
+      ],
+      [
+        3,
+        28305,
+        29570
+      ]
+    ]
+  }
+}

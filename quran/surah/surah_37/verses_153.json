@@ -1,0 +1,86 @@
+{
+  "id": 3941,
+  "chapter_id": 37,
+  "verse_key": "37:153",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 80896,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_153_001.mp3",
+      "text": "أَصْطَفَى",
+      "translation": "apakah Dia memilih",
+      "transliteration": "aṣṭafā"
+    },
+    {
+      "id": 80897,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_153_002.mp3",
+      "text": "ٱلْبَنَاتِ",
+      "translation": "anak-anak perempuan",
+      "transliteration": "l-banāti"
+    },
+    {
+      "id": 80898,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_153_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas/dari",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 80899,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_153_004.mp3",
+      "text": "ٱلْبَنِينَ",
+      "translation": "anak laki-laki",
+      "transliteration": "l-banīna"
+    },
+    {
+      "id": 80900,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥٣",
+      "translation": "(153)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah Tuhan memilih (mengutamakan) anak-anak perempuan daripada anak laki-laki?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1236560,
+    "timestamp_to": 1241990,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        1236485,
+        1237265
+      ],
+      [
+        2,
+        1237265,
+        1238325
+      ],
+      [
+        3,
+        1238325,
+        1238685
+      ],
+      [
+        4,
+        1238685,
+        1241880
+      ]
+    ]
+  }
+}

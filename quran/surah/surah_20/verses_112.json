@@ -1,0 +1,177 @@
+{
+  "id": 2460,
+  "chapter_id": 20,
+  "verse_key": "20:112",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "page_number": 319,
+  "juz_number": 16,
+  "text_uthmani": "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 74769,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_001.mp3",
+      "text": "وَمَن",
+      "translation": "dan barangsiapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 74770,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_002.mp3",
+      "text": "يَعْمَلْ",
+      "translation": "mengerjakan",
+      "transliteration": "yaʿmal"
+    },
+    {
+      "id": 74771,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 74772,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_004.mp3",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation": "kebajikan",
+      "transliteration": "l-ṣāliḥāti"
+    },
+    {
+      "id": 74773,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_005.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan/sedang ia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 74774,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_006.mp3",
+      "text": "مُؤْمِنٌۭ",
+      "translation": "beriman",
+      "transliteration": "mu'minun"
+    },
+    {
+      "id": 74775,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_007.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 74776,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_008.mp3",
+      "text": "يَخَافُ",
+      "translation": "ia merasa khawatir",
+      "transliteration": "yakhāfu"
+    },
+    {
+      "id": 74777,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_009.mp3",
+      "text": "ظُلْمًۭا",
+      "translation": "kezaliman",
+      "transliteration": "ẓul'man"
+    },
+    {
+      "id": 74778,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_010.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 74779,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_112_011.mp3",
+      "text": "هَضْمًۭا",
+      "translation": "pengurangan hak",
+      "transliteration": "haḍman"
+    },
+    {
+      "id": 74780,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١٢",
+      "translation": "(112)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan barang siapa mengerjakan amal-amal yang saleh dan ia dalam keadaan beriman, maka ia tidak khawatir akan perlakuan yang tidak adil (terhadapnya) dan tidak (pula) akan pengurangan haknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1277030,
+    "timestamp_to": 1288860,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        1276635,
+        1277115
+      ],
+      [
+        2,
+        1277115,
+        1278665
+      ],
+      [
+        3,
+        1278665,
+        1278995
+      ],
+      [
+        4,
+        1278995,
+        1280585
+      ],
+      [
+        5,
+        1280585,
+        1281155
+      ],
+      [
+        6,
+        1281155,
+        1283025
+      ],
+      [
+        7,
+        1283025,
+        1283795
+      ],
+      [
+        8,
+        1283795,
+        1284555
+      ],
+      [
+        9,
+        1284555,
+        1286485
+      ],
+      [
+        10,
+        1286485,
+        1286965
+      ],
+      [
+        11,
+        1286965,
+        1288110
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 3120,
+  "chapter_id": 26,
+  "verse_key": "26:188",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84469,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_188_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Syu'aib) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 84470,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_188_002.mp3",
+      "text": "رَبِّىٓ",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 84471,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_188_003.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 84472,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_188_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan/terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 84473,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_188_005.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 84474,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٨٨",
+      "translation": "(188)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Syuʻayb berkata, \"Tuhan-ku lebih mengetahui apa yang kamu kerjakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1640260,
+    "timestamp_to": 1648020,
+    "duration": 7760,
+    "segments": [
+      [
+        1,
+        1640215,
+        1640835
+      ],
+      [
+        2,
+        1640835,
+        1643185
+      ],
+      [
+        3,
+        1643185,
+        1644035
+      ],
+      [
+        4,
+        1644035,
+        1644705
+      ],
+      [
+        5,
+        1644705,
+        1647920
+      ]
+    ]
+  }
+}

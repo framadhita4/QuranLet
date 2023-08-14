@@ -1,0 +1,73 @@
+{
+  "id": 3156,
+  "chapter_id": 26,
+  "verse_key": "26:224",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 86141,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_224_001.mp3",
+      "text": "وَٱلشُّعَرَآءُ",
+      "translation": "dan penyair-penyair",
+      "transliteration": "wal-shuʿarāu"
+    },
+    {
+      "id": 86142,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_224_002.mp3",
+      "text": "يَتَّبِعُهُمُ",
+      "translation": "mengikuti mereka",
+      "transliteration": "yattabiʿuhumu"
+    },
+    {
+      "id": 86143,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_224_003.mp3",
+      "text": "ٱلْغَاوُۥنَ",
+      "translation": "orang-orang yang sesat",
+      "transliteration": "l-ghāwūna"
+    },
+    {
+      "id": 86144,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٢٤",
+      "translation": "(224)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan penyair-penyair itu diikuti oleh orang-orang yang sesat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1914980,
+    "timestamp_to": 1923440,
+    "duration": 8460,
+    "segments": [
+      [
+        1,
+        1914955,
+        1918394
+      ],
+      [
+        2,
+        1918395,
+        1919865
+      ],
+      [
+        3,
+        1919865,
+        1923340
+      ]
+    ]
+  }
+}

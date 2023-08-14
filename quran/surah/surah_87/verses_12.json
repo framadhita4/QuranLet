@@ -1,0 +1,86 @@
+{
+  "id": 5960,
+  "chapter_id": 87,
+  "verse_key": "87:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 14191,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_012_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 14192,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_012_002.mp3",
+      "text": "يَصْلَى",
+      "translation": "ia akan masuk",
+      "transliteration": "yaṣlā"
+    },
+    {
+      "id": 14193,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_012_003.mp3",
+      "text": "ٱلنَّارَ",
+      "translation": "api/neraka",
+      "transliteration": "l-nāra"
+    },
+    {
+      "id": 14194,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_012_004.mp3",
+      "text": "ٱلْكُبْرَىٰ",
+      "translation": "yang besar",
+      "transliteration": "l-kub'rā"
+    },
+    {
+      "id": 14195,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) orang yang akan memasuki api yang besar (neraka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55090,
+    "timestamp_to": 60210,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        55045,
+        56165
+      ],
+      [
+        2,
+        56165,
+        56725
+      ],
+      [
+        3,
+        56725,
+        58445
+      ],
+      [
+        4,
+        58445,
+        60100
+      ]
+    ]
+  }
+}

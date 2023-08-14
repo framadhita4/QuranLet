@@ -1,0 +1,138 @@
+{
+  "id": 3754,
+  "chapter_id": 36,
+  "verse_key": "36:49",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 443,
+  "juz_number": 23,
+  "text_uthmani": "مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 48297,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 48298,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_002.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "mereka menunggu",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 48299,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 48300,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_004.mp3",
+      "text": "صَيْحَةًۭ",
+      "translation": "teriakan/suara keras",
+      "transliteration": "ṣayḥatan"
+    },
+    {
+      "id": 48301,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_005.mp3",
+      "text": "وَٰحِدَةًۭ",
+      "translation": "satu kali",
+      "transliteration": "wāḥidatan"
+    },
+    {
+      "id": 48302,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_006.mp3",
+      "text": "تَأْخُذُهُمْ",
+      "translation": "menimpa mereka",
+      "transliteration": "takhudhuhum"
+    },
+    {
+      "id": 48303,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_007.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/ketika mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 48304,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_049_008.mp3",
+      "text": "يَخِصِّمُونَ",
+      "translation": "mereka bertengkar",
+      "transliteration": "yakhiṣṣimūna"
+    },
+    {
+      "id": 48305,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tidak menunggu, melainkan satu teriakan saja <sup foot_note_id=\"1269\">1</sup> yang akan membinasakan mereka ketika mereka sedang bertengkar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 612520,
+    "timestamp_to": 625110,
+    "duration": 12590,
+    "segments": [
+      [
+        1,
+        612445,
+        612945
+      ],
+      [
+        2,
+        612945,
+        614825
+      ],
+      [
+        3,
+        614825,
+        615605
+      ],
+      [
+        4,
+        615605,
+        617415
+      ],
+      [
+        5,
+        617415,
+        618755
+      ],
+      [
+        6,
+        618755,
+        620375
+      ],
+      [
+        7,
+        620375,
+        620955
+      ],
+      [
+        8,
+        620955,
+        624970
+      ]
+    ]
+  }
+}

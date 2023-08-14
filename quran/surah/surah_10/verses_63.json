@@ -1,0 +1,86 @@
+{
+  "id": 1427,
+  "chapter_id": 10,
+  "verse_key": "10:63",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "ruku_number": 178,
+  "manzil_number": 3,
+  "page_number": 216,
+  "juz_number": 11,
+  "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 56205,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_063_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 56206,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_063_002.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 56207,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_063_003.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 56208,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_063_004.mp3",
+      "text": "يَتَّقُونَ",
+      "translation": "mereka bertakwa",
+      "transliteration": "yattaqūna"
+    },
+    {
+      "id": 56209,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) orang-orang yang beriman dan mereka selalu bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1666230,
+    "timestamp_to": 1673810,
+    "duration": 7580,
+    "segments": [
+      [
+        1,
+        1666175,
+        1667425
+      ],
+      [
+        2,
+        1667425,
+        1668715
+      ],
+      [
+        3,
+        1668715,
+        1669805
+      ],
+      [
+        4,
+        1669805,
+        1673700
+      ]
+    ]
+  }
+}

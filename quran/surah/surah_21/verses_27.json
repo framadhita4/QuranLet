@@ -1,0 +1,112 @@
+{
+  "id": 2510,
+  "chapter_id": 21,
+  "verse_key": "21:27",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 279,
+  "manzil_number": 4,
+  "page_number": 324,
+  "juz_number": 17,
+  "text_uthmani": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ وَهُم بِأَمْرِهِۦ يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 29690,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_027_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 29691,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_027_002.mp3",
+      "text": "يَسْبِقُونَهُۥ",
+      "translation": "mereka mendahuluinya",
+      "transliteration": "yasbiqūnahu"
+    },
+    {
+      "id": 29692,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_027_003.mp3",
+      "text": "بِٱلْقَوْلِ",
+      "translation": "dengan perkataan",
+      "transliteration": "bil-qawli"
+    },
+    {
+      "id": 29693,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_027_004.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 29694,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_027_005.mp3",
+      "text": "بِأَمْرِهِۦ",
+      "translation": "dengan perintah-Nya",
+      "transliteration": "bi-amrihi"
+    },
+    {
+      "id": 29695,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_027_006.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka mengerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 29696,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka itu tidak mendahului-Nya dengan perkataan dan mereka mengerjakan perintah-perintah-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 342930,
+    "timestamp_to": 351210,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        342905,
+        343385
+      ],
+      [
+        2,
+        343385,
+        344975
+      ],
+      [
+        3,
+        344975,
+        346045
+      ],
+      [
+        4,
+        346045,
+        347385
+      ],
+      [
+        5,
+        347385,
+        348645
+      ],
+      [
+        6,
+        348645,
+        351140
+      ]
+    ]
+  }
+}

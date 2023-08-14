@@ -1,0 +1,86 @@
+{
+  "id": 3037,
+  "chapter_id": 26,
+  "verse_key": "26:105",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "كَذَّبَتْ قَوْمُ نُوحٍ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 72689,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_105_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 72690,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_105_002.mp3",
+      "text": "قَوْمُ",
+      "translation": "kaum",
+      "transliteration": "qawmu"
+    },
+    {
+      "id": 72691,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_105_003.mp3",
+      "text": "نُوحٍ",
+      "translation": "Nuh",
+      "transliteration": "nūḥin"
+    },
+    {
+      "id": 72692,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_105_004.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 72693,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠٥",
+      "translation": "(105)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum Nūḥ telah mendustakan para rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 966630,
+    "timestamp_to": 972300,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        966565,
+        967615
+      ],
+      [
+        2,
+        967615,
+        968255
+      ],
+      [
+        3,
+        968255,
+        968965
+      ],
+      [
+        4,
+        968965,
+        972190
+      ]
+    ]
+  }
+}

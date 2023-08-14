@@ -1,0 +1,151 @@
+{
+  "id": 2905,
+  "chapter_id": 25,
+  "verse_key": "25:50",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 314,
+  "manzil_number": 4,
+  "page_number": 364,
+  "juz_number": 19,
+  "text_uthmani": "وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 48687,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 48688,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_002.mp3",
+      "text": "صَرَّفْنَـٰهُ",
+      "translation": "Kami telah mempergilirkannya",
+      "transliteration": "ṣarrafnāhu"
+    },
+    {
+      "id": 48689,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_003.mp3",
+      "text": "بَيْنَهُمْ",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 48690,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_004.mp3",
+      "text": "لِيَذَّكَّرُوا۟",
+      "translation": "agar mereka mengambil pelajaran",
+      "transliteration": "liyadhakkarū"
+    },
+    {
+      "id": 48691,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_005.mp3",
+      "text": "فَأَبَىٰٓ",
+      "translation": "maka/tetapi enggan",
+      "transliteration": "fa-abā"
+    },
+    {
+      "id": 48692,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_006.mp3",
+      "text": "أَكْثَرُ",
+      "translation": "kebanyakan",
+      "transliteration": "aktharu"
+    },
+    {
+      "id": 48693,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_007.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 48694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_008.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 48695,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_050_009.mp3",
+      "text": "كُفُورًۭا",
+      "translation": "ingkar",
+      "transliteration": "kufūran"
+    },
+    {
+      "id": 48696,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah mempergilirkan hujan itu di antara manusia supaya mereka mengambil pelajaran (dari padanya); maka kebanyakan manusia itu tidak mau, kecuali mengingkari (nikmat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 796500,
+    "timestamp_to": 808860,
+    "duration": 12360,
+    "segments": [
+      [
+        1,
+        796445,
+        797245
+      ],
+      [
+        2,
+        797245,
+        798875
+      ],
+      [
+        3,
+        798875,
+        800145
+      ],
+      [
+        4,
+        800145,
+        801575
+      ],
+      [
+        5,
+        801575,
+        803855
+      ],
+      [
+        6,
+        803855,
+        804705
+      ],
+      [
+        7,
+        804705,
+        806275
+      ],
+      [
+        8,
+        806275,
+        807025
+      ],
+      [
+        9,
+        807025,
+        808760
+      ]
+    ]
+  }
+}

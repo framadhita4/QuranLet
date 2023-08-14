@@ -1,0 +1,138 @@
+{
+  "id": 4417,
+  "chapter_id": 44,
+  "verse_key": "44:3",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 2083,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 2084,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_002.mp3",
+      "text": "أَنزَلْنَـٰهُ",
+      "translation": "Kami menurunkannya",
+      "transliteration": "anzalnāhu"
+    },
+    {
+      "id": 2085,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 2086,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_004.mp3",
+      "text": "لَيْلَةٍۢ",
+      "translation": "malam hari",
+      "transliteration": "laylatin"
+    },
+    {
+      "id": 2087,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_005.mp3",
+      "text": "مُّبَـٰرَكَةٍ ۚ",
+      "translation": "yang diberkati",
+      "transliteration": "mubārakatin"
+    },
+    {
+      "id": 2089,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_007.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 2090,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_008.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah Kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 2091,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_003_009.mp3",
+      "text": "مُنذِرِينَ",
+      "translation": "Pemberi peringatan",
+      "transliteration": "mundhirīna"
+    },
+    {
+      "id": 2092,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya Kami menurunkannya pada suatu malam yang diberkahi <sup foot_note_id=\"1370\">1</sup> dan sesungguhnya Kami-lah yang memberi peringatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9300,
+    "timestamp_to": 26380,
+    "duration": 17090,
+    "segments": [
+      [
+        1,
+        9245,
+        12445
+      ],
+      [
+        2,
+        12445,
+        14645
+      ],
+      [
+        3,
+        14645,
+        15175
+      ],
+      [
+        4,
+        15175,
+        16105
+      ],
+      [
+        5,
+        16105,
+        18805
+      ],
+      [
+        6,
+        18805,
+        20435
+      ],
+      [
+        7,
+        20435,
+        22335
+      ],
+      [
+        8,
+        22335,
+        26280
+      ]
+    ]
+  }
+}

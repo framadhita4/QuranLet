@@ -1,0 +1,177 @@
+{
+  "id": 401,
+  "chapter_id": 3,
+  "verse_key": "3:108",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "ruku_number": 52,
+  "manzil_number": 1,
+  "page_number": 63,
+  "juz_number": 4,
+  "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۗ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًا لِّلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 73605,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "itulah",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 73606,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_002.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 73607,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 73608,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_004.mp3",
+      "text": "نَتْلُوهَا",
+      "translation": "Kami bacakannya (ayat-ayat)",
+      "transliteration": "natlūhā"
+    },
+    {
+      "id": 73609,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_005.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 73610,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_006.mp3",
+      "text": "بِٱلْحَقِّ ۗ",
+      "translation": "dengan benar",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 73612,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_008.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 73613,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_009.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 73614,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_010.mp3",
+      "text": "يُرِيدُ",
+      "translation": "Dia berkehendak",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 73615,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_011.mp3",
+      "text": "ظُلْمًۭا",
+      "translation": "aniaya",
+      "transliteration": "ẓul'man"
+    },
+    {
+      "id": 73616,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_108_012.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi semesta alam (hamba-hambaNya)",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 73617,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠٨",
+      "translation": "(108)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah ayat-ayat Allah. Kami bacakan ayat-ayat itu kepadamu dengan benar; dan tiadalah Allah berkehendak untuk menganiaya hamba-hamba-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2488090,
+    "timestamp_to": 2501960,
+    "duration": 13870,
+    "segments": [
+      [
+        1,
+        2488035,
+        2488705
+      ],
+      [
+        2,
+        2488705,
+        2489945
+      ],
+      [
+        3,
+        2489945,
+        2490925
+      ],
+      [
+        4,
+        2490925,
+        2492265
+      ],
+      [
+        5,
+        2492265,
+        2493195
+      ],
+      [
+        6,
+        2493195,
+        2494655
+      ],
+      [
+        7,
+        2494655,
+        2495065
+      ],
+      [
+        8,
+        2495065,
+        2496095
+      ],
+      [
+        9,
+        2496095,
+        2496985
+      ],
+      [
+        10,
+        2496985,
+        2497875
+      ],
+      [
+        11,
+        2497875,
+        2501870
+      ]
+    ]
+  }
+}

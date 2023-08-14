@@ -1,0 +1,86 @@
+{
+  "id": 3826,
+  "chapter_id": 37,
+  "verse_key": "37:38",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 40221,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_038_001.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 40222,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_038_002.mp3",
+      "text": "لَذَآئِقُوا۟",
+      "translation": "pasti akan merasakan",
+      "transliteration": "ladhāiqū"
+    },
+    {
+      "id": 40223,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_038_003.mp3",
+      "text": "ٱلْعَذَابِ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābi"
+    },
+    {
+      "id": 40224,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_038_004.mp3",
+      "text": "ٱلْأَلِيمِ",
+      "translation": "pedih",
+      "transliteration": "l-alīmi"
+    },
+    {
+      "id": 40225,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu pasti akan merasakan azab yang pedih.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 324670,
+    "timestamp_to": 333450,
+    "duration": 8780,
+    "segments": [
+      [
+        1,
+        324585,
+        326335
+      ],
+      [
+        2,
+        326335,
+        329105
+      ],
+      [
+        3,
+        329105,
+        330265
+      ],
+      [
+        4,
+        330265,
+        333290
+      ]
+    ]
+  }
+}

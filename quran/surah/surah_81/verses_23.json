@@ -1,0 +1,86 @@
+{
+  "id": 5823,
+  "chapter_id": 81,
+  "verse_key": "81:23",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 26318,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_023_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 26319,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_023_002.mp3",
+      "text": "رَءَاهُ",
+      "translation": "dia telah melihat",
+      "transliteration": "raāhu"
+    },
+    {
+      "id": 26320,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_023_003.mp3",
+      "text": "بِٱلْأُفُقِ",
+      "translation": "di tepi langit/di ufuk",
+      "transliteration": "bil-ufuqi"
+    },
+    {
+      "id": 26321,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_023_004.mp3",
+      "text": "ٱلْمُبِينِ",
+      "translation": "nyata/terang",
+      "transliteration": "l-mubīni"
+    },
+    {
+      "id": 26322,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Muhammad itu melihat Jibril di ufuk yang terang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 82180,
+    "timestamp_to": 87460,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        82095,
+        82855
+      ],
+      [
+        2,
+        82855,
+        83805
+      ],
+      [
+        3,
+        83805,
+        84855
+      ],
+      [
+        4,
+        84855,
+        87330
+      ]
+    ]
+  }
+}

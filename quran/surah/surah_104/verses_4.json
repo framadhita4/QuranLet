@@ -1,0 +1,86 @@
+{
+  "id": 6183,
+  "chapter_id": 104,
+  "verse_key": "104:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 3599,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_004_001.mp3",
+      "text": "كَلَّا ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 3601,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_004_003.mp3",
+      "text": "لَيُنۢبَذَنَّ",
+      "translation": "sungguh dia akan dilemparkan",
+      "transliteration": "layunbadhanna"
+    },
+    {
+      "id": 3602,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_004_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 3603,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_004_005.mp3",
+      "text": "ٱلْحُطَمَةِ",
+      "translation": "Hutamah",
+      "transliteration": "l-ḥuṭamati"
+    },
+    {
+      "id": 3604,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam ῌuṭamah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16640,
+    "timestamp_to": 23380,
+    "duration": 6740,
+    "segments": [
+      [
+        1,
+        16555,
+        17525
+      ],
+      [
+        2,
+        17525,
+        21355
+      ],
+      [
+        3,
+        21355,
+        21645
+      ],
+      [
+        4,
+        21645,
+        23220
+      ]
+    ]
+  }
+}

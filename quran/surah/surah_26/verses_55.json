@@ -1,0 +1,73 @@
+{
+  "id": 2987,
+  "chapter_id": 26,
+  "verse_key": "26:55",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّهُمْ لَنَا لَغَآئِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 51819,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_055_001.mp3",
+      "text": "وَإِنَّهُمْ",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-innahum"
+    },
+    {
+      "id": 51820,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_055_002.mp3",
+      "text": "لَنَا",
+      "translation": "bagi kita",
+      "transliteration": "lanā"
+    },
+    {
+      "id": 51821,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_055_003.mp3",
+      "text": "لَغَآئِظُونَ",
+      "translation": "benar-benar marah",
+      "transliteration": "laghāiẓūna"
+    },
+    {
+      "id": 51822,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya mereka membuat hal-hal yang menimbulkan amarah kita,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 569660,
+    "timestamp_to": 576970,
+    "duration": 7320,
+    "segments": [
+      [
+        1,
+        569615,
+        571535
+      ],
+      [
+        2,
+        571535,
+        572275
+      ],
+      [
+        3,
+        572275,
+        576900
+      ]
+    ]
+  }
+}

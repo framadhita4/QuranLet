@@ -1,0 +1,99 @@
+{
+  "id": 5660,
+  "chapter_id": 77,
+  "verse_key": "77:38",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 39516,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_038_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 39517,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_038_002.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 39518,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_038_003.mp3",
+      "text": "ٱلْفَصْلِ ۖ",
+      "translation": "keputusan",
+      "transliteration": "l-faṣli"
+    },
+    {
+      "id": 39520,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_038_005.mp3",
+      "text": "جَمَعْنَـٰكُمْ",
+      "translation": "Kami mengumpulkan kamu",
+      "transliteration": "jamaʿnākum"
+    },
+    {
+      "id": 39521,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_038_006.mp3",
+      "text": "وَٱلْأَوَّلِينَ",
+      "translation": "dan orang-orang terdahulu",
+      "transliteration": "wal-awalīna"
+    },
+    {
+      "id": 39522,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah hari keputusan; (pada hari ini) Kami mengumpulkan kamu dan orang-orang terdahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 188070,
+    "timestamp_to": 195230,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        187905,
+        188735
+      ],
+      [
+        2,
+        188735,
+        189375
+      ],
+      [
+        3,
+        189375,
+        190195
+      ],
+      [
+        4,
+        190195,
+        191595
+      ],
+      [
+        5,
+        191595,
+        194980
+      ]
+    ]
+  }
+}

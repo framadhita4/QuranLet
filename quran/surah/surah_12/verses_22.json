@@ -1,0 +1,151 @@
+{
+  "id": 1618,
+  "chapter_id": 12,
+  "verse_key": "12:22",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "ruku_number": 195,
+  "manzil_number": 3,
+  "page_number": 237,
+  "juz_number": 12,
+  "text_uthmani": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 25071,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_001.mp3",
+      "text": "وَلَمَّا",
+      "translation": "dan setelah",
+      "transliteration": "walammā"
+    },
+    {
+      "id": 25072,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_002.mp3",
+      "text": "بَلَغَ",
+      "translation": "dia sampai",
+      "transliteration": "balagha"
+    },
+    {
+      "id": 25073,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_003.mp3",
+      "text": "أَشُدَّهُۥٓ",
+      "translation": "dewasanya",
+      "transliteration": "ashuddahu"
+    },
+    {
+      "id": 25074,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_004.mp3",
+      "text": "ءَاتَيْنَـٰهُ",
+      "translation": "Kami berikan kepadanya",
+      "transliteration": "ātaynāhu"
+    },
+    {
+      "id": 25075,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_005.mp3",
+      "text": "حُكْمًۭا",
+      "translation": "hikmah",
+      "transliteration": "ḥuk'man"
+    },
+    {
+      "id": 25076,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_006.mp3",
+      "text": "وَعِلْمًۭا ۚ",
+      "translation": "dan ilmu",
+      "transliteration": "waʿil'man"
+    },
+    {
+      "id": 25078,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_008.mp3",
+      "text": "وَكَذَٰلِكَ",
+      "translation": "dan demikianlah",
+      "transliteration": "wakadhālika"
+    },
+    {
+      "id": 25079,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_009.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 25080,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_022_010.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 25081,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tatkala dia cukup dewasa <sup foot_note_id=\"749\">1</sup> , Kami berikan kepadanya hikmah dan ilmu.  Demikianlah, Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 449450,
+    "timestamp_to": 464500,
+    "duration": 15050,
+    "segments": [
+      [
+        1,
+        449415,
+        451135
+      ],
+      [
+        2,
+        451135,
+        451765
+      ],
+      [
+        3,
+        451765,
+        454495
+      ],
+      [
+        4,
+        454495,
+        456005
+      ],
+      [
+        5,
+        456005,
+        457675
+      ],
+      [
+        6,
+        457675,
+        458795
+      ],
+      [
+        7,
+        458795,
+        460495
+      ],
+      [
+        8,
+        460495,
+        461125
+      ],
+      [
+        9,
+        461125,
+        464430
+      ]
+    ]
+  }
+}

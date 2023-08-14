@@ -1,0 +1,73 @@
+{
+  "id": 4959,
+  "chapter_id": 55,
+  "verse_key": "55:58",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 53397,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_058_001.mp3",
+      "text": "كَأَنَّهُنَّ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahunna"
+    },
+    {
+      "id": 53398,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_058_002.mp3",
+      "text": "ٱلْيَاقُوتُ",
+      "translation": "yakut",
+      "transliteration": "l-yāqūtu"
+    },
+    {
+      "id": 53399,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_058_003.mp3",
+      "text": "وَٱلْمَرْجَانُ",
+      "translation": "dan marjan",
+      "transliteration": "wal-marjānu"
+    },
+    {
+      "id": 53400,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Seakan-akan bidadari itu permata yakut dan merjan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 508610,
+    "timestamp_to": 516890,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        508545,
+        511425
+      ],
+      [
+        2,
+        511425,
+        512815
+      ],
+      [
+        3,
+        512815,
+        516760
+      ]
+    ]
+  }
+}

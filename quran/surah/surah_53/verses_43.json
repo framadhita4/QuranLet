@@ -1,0 +1,86 @@
+{
+  "id": 4827,
+  "chapter_id": 53,
+  "verse_key": "53:43",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 43481,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_043_001.mp3",
+      "text": "وَأَنَّهُۥ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-annahu"
+    },
+    {
+      "id": 43482,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_043_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 43483,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_043_003.mp3",
+      "text": "أَضْحَكَ",
+      "translation": "menjadikan ia tertawa",
+      "transliteration": "aḍḥaka"
+    },
+    {
+      "id": 43484,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_043_004.mp3",
+      "text": "وَأَبْكَىٰ",
+      "translation": "dan menjadikan ia menangis",
+      "transliteration": "wa-abkā"
+    },
+    {
+      "id": 43485,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya Dia-lah yang menjadikan orang tertawa dan menangis,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 356730,
+    "timestamp_to": 361560,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        356335,
+        358185
+      ],
+      [
+        2,
+        358185,
+        358605
+      ],
+      [
+        3,
+        358605,
+        359605
+      ],
+      [
+        4,
+        359605,
+        360720
+      ]
+    ]
+  }
+}

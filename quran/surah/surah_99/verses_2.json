@@ -1,0 +1,73 @@
+{
+  "id": 6140,
+  "chapter_id": 99,
+  "verse_key": "99:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 1839,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_002_001.mp3",
+      "text": "وَأَخْرَجَتِ",
+      "translation": "dan mengeluarkan",
+      "transliteration": "wa-akhrajati"
+    },
+    {
+      "id": 1840,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_002_002.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 1841,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_002_003.mp3",
+      "text": "أَثْقَالَهَا",
+      "translation": "beban beratnya",
+      "transliteration": "athqālahā"
+    },
+    {
+      "id": 1842,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4780,
+    "timestamp_to": 9270,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        4295,
+        5675
+      ],
+      [
+        2,
+        5675,
+        6465
+      ],
+      [
+        3,
+        6465,
+        8160
+      ]
+    ]
+  }
+}

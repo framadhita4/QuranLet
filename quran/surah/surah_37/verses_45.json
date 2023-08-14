@@ -1,0 +1,99 @@
+{
+  "id": 3833,
+  "chapter_id": 37,
+  "verse_key": "37:45",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 45314,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_045_001.mp3",
+      "text": "يُطَافُ",
+      "translation": "dikelilingkan/diedarkan",
+      "transliteration": "yuṭāfu"
+    },
+    {
+      "id": 45315,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_045_002.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas/kepada mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 45316,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_045_003.mp3",
+      "text": "بِكَأْسٍۢ",
+      "translation": "piala",
+      "transliteration": "bikasin"
+    },
+    {
+      "id": 45317,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_045_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 45318,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_045_005.mp3",
+      "text": "مَّعِينٍۭ",
+      "translation": "mata air",
+      "transliteration": "maʿīnin"
+    },
+    {
+      "id": 45319,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Diedarkan kepada mereka gelas yang berisi khamar dari sungai yang mengalir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 377190,
+    "timestamp_to": 386020,
+    "duration": 8830,
+    "segments": [
+      [
+        1,
+        377125,
+        378015
+      ],
+      [
+        2,
+        378015,
+        378995
+      ],
+      [
+        3,
+        378995,
+        380535
+      ],
+      [
+        4,
+        380535,
+        381915
+      ],
+      [
+        5,
+        381915,
+        385870
+      ]
+    ]
+  }
+}

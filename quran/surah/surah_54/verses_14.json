@@ -1,0 +1,112 @@
+{
+  "id": 4860,
+  "chapter_id": 54,
+  "verse_key": "54:14",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 16031,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_014_001.mp3",
+      "text": "تَجْرِى",
+      "translation": "berlayar",
+      "transliteration": "tajrī"
+    },
+    {
+      "id": 16032,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_014_002.mp3",
+      "text": "بِأَعْيُنِنَا",
+      "translation": "dengan pemeliharaan Kami",
+      "transliteration": "bi-aʿyuninā"
+    },
+    {
+      "id": 16033,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_014_003.mp3",
+      "text": "جَزَآءًۭ",
+      "translation": "balasan",
+      "transliteration": "jazāan"
+    },
+    {
+      "id": 16034,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_014_004.mp3",
+      "text": "لِّمَن",
+      "translation": "bagi orang-orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 16035,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_014_005.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 16036,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_014_006.mp3",
+      "text": "كُفِرَ",
+      "translation": "diingkari",
+      "transliteration": "kufira"
+    },
+    {
+      "id": 16037,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang berlayar dengan pemeliharaan Kami sebagai balasan bagi orang-orang yang diingkari (Nūḥ).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 129870,
+    "timestamp_to": 138460,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        129805,
+        130705
+      ],
+      [
+        2,
+        130705,
+        132205
+      ],
+      [
+        3,
+        132205,
+        135115
+      ],
+      [
+        4,
+        135115,
+        136605
+      ],
+      [
+        5,
+        136605,
+        137365
+      ],
+      [
+        6,
+        137365,
+        138360
+      ]
+    ]
+  }
+}

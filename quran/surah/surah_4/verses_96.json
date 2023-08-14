@@ -1,0 +1,138 @@
+{
+  "id": 589,
+  "chapter_id": 4,
+  "verse_key": "4:96",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "ruku_number": 74,
+  "manzil_number": 1,
+  "page_number": 94,
+  "juz_number": 5,
+  "text_uthmani": "دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 70100,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_001.mp3",
+      "text": "دَرَجَـٰتٍۢ",
+      "translation": "beberapa derajat",
+      "transliteration": "darajātin"
+    },
+    {
+      "id": 70101,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_002.mp3",
+      "text": "مِّنْهُ",
+      "translation": "daripadaNya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 70102,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_003.mp3",
+      "text": "وَمَغْفِرَةًۭ",
+      "translation": "dan ampunan",
+      "transliteration": "wamaghfiratan"
+    },
+    {
+      "id": 70103,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_004.mp3",
+      "text": "وَرَحْمَةًۭ ۚ",
+      "translation": "dan rahmat",
+      "transliteration": "waraḥmatan"
+    },
+    {
+      "id": 70105,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_006.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 70106,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_007.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 70107,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_008.mp3",
+      "text": "غَفُورًۭا",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūran"
+    },
+    {
+      "id": 70108,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_096_009.mp3",
+      "text": "رَّحِيمًا",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīman"
+    },
+    {
+      "id": 70109,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) beberapa derajat dari-Nya, ampunan serta rahmat.  Dan adalah Allah Maha Pengampun lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2832720,
+    "timestamp_to": 2842520,
+    "duration": 9800,
+    "segments": [
+      [
+        1,
+        2832665,
+        2833745
+      ],
+      [
+        2,
+        2833745,
+        2835175
+      ],
+      [
+        3,
+        2835175,
+        2837285
+      ],
+      [
+        4,
+        2837285,
+        2838505
+      ],
+      [
+        5,
+        2838505,
+        2839215
+      ],
+      [
+        6,
+        2839215,
+        2840105
+      ],
+      [
+        7,
+        2840105,
+        2840885
+      ],
+      [
+        8,
+        2840885,
+        2842400
+      ]
+    ]
+  }
+}

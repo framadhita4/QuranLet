@@ -1,0 +1,125 @@
+{
+  "id": 3025,
+  "chapter_id": 26,
+  "verse_key": "26:93",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 69273,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 69274,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_002.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 69275,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 69276,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_004.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 69277,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_005.mp3",
+      "text": "يَنصُرُونَكُمْ",
+      "translation": "mereka dapat menolong kamu",
+      "transliteration": "yanṣurūnakum"
+    },
+    {
+      "id": 69278,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_006.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 69279,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_093_007.mp3",
+      "text": "يَنتَصِرُونَ",
+      "translation": "menolong diri mereka",
+      "transliteration": "yantaṣirūna"
+    },
+    {
+      "id": 69280,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "selain dari Allah? Dapatkah mereka menolong kamu atau menolong diri mereka sendiri?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 875620,
+    "timestamp_to": 885990,
+    "duration": 10370,
+    "segments": [
+      [
+        1,
+        875565,
+        875975
+      ],
+      [
+        2,
+        875975,
+        877215
+      ],
+      [
+        3,
+        877215,
+        878165
+      ],
+      [
+        4,
+        878165,
+        878435
+      ],
+      [
+        5,
+        878435,
+        880965
+      ],
+      [
+        6,
+        880965,
+        881455
+      ],
+      [
+        7,
+        881455,
+        885910
+      ]
+    ]
+  }
+}

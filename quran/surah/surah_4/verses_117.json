@@ -1,0 +1,192 @@
+{
+  "id": 610,
+  "chapter_id": 4,
+  "verse_key": "4:117",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "ruku_number": 79,
+  "manzil_number": 1,
+  "page_number": 97,
+  "juz_number": 5,
+  "text_uthmani": "إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَـٰثًا وَإِن يَدْعُونَ إِلَّا شَيْطَـٰنًا مَّرِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 75859,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_001.mp3",
+      "text": "إِن",
+      "translation": "tidak",
+      "transliteration": "in"
+    },
+    {
+      "id": 75860,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_002.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka sembah",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 75861,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 75862,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_004.mp3",
+      "text": "دُونِهِۦٓ",
+      "translation": "Dia/Allah",
+      "transliteration": "dūnihi"
+    },
+    {
+      "id": 75863,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_005.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 75864,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_006.mp3",
+      "text": "إِنَـٰثًۭا",
+      "translation": "berhala",
+      "transliteration": "ināthan"
+    },
+    {
+      "id": 75865,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_007.mp3",
+      "text": "وَإِن",
+      "translation": "dan tidak",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 75866,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_008.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka sembah",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 75867,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_009.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 75868,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_010.mp3",
+      "text": "شَيْطَـٰنًۭا",
+      "translation": "syaitan",
+      "transliteration": "shayṭānan"
+    },
+    {
+      "id": 75869,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_117_011.mp3",
+      "text": "مَّرِيدًۭا",
+      "translation": "yang durhaka",
+      "transliteration": "marīdan"
+    },
+    {
+      "id": 75870,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١٧",
+      "translation": "(117)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang mereka sembah selain Allah itu, tidak lain hanyalah berhala<sup foot_note_id=\"349\">1</sup>, dan (dengan menyembah berhala itu) mereka tidak lain hanyalah menyembah setan yang durhaka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3371900,
+    "timestamp_to": 3391130,
+    "duration": 19230,
+    "segments": [
+      [
+        1,
+        3371875,
+        3372905
+      ],
+      [
+        2,
+        3372905,
+        3373915
+      ],
+      [
+        3,
+        3373915,
+        3374435
+      ],
+      [
+        4,
+        3374435,
+        3377175
+      ],
+      [
+        5,
+        3377175,
+        3379345
+      ],
+      [
+        6,
+        3379345,
+        3380815
+      ],
+      [
+        7,
+        3380815,
+        3381305
+      ],
+      [
+        8,
+        3381305,
+        3382925
+      ],
+      [
+        9,
+        3382925,
+        3383825
+      ],
+      [
+        7,
+        3383825,
+        3385635
+      ],
+      [
+        8,
+        3385635,
+        3386635
+      ],
+      [
+        9,
+        3386635,
+        3387385
+      ],
+      [
+        10,
+        3387385,
+        3388635
+      ],
+      [
+        11,
+        3388635,
+        3390740
+      ]
+    ]
+  }
+}

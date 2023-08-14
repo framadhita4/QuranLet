@@ -1,0 +1,125 @@
+{
+  "id": 3045,
+  "chapter_id": 26,
+  "verse_key": "26:113",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى ۖ لَوْ تَشْعُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 74833,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 74834,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_002.mp3",
+      "text": "حِسَابُهُمْ",
+      "translation": "perhitungan mereka",
+      "transliteration": "ḥisābuhum"
+    },
+    {
+      "id": 74835,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 74836,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_004.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 74837,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_005.mp3",
+      "text": "رَبِّى ۖ",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 74839,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_007.mp3",
+      "text": "لَوْ",
+      "translation": "jikalau",
+      "transliteration": "law"
+    },
+    {
+      "id": 74840,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_113_008.mp3",
+      "text": "تَشْعُرُونَ",
+      "translation": "menyadari/mengerti",
+      "transliteration": "tashʿurūna"
+    },
+    {
+      "id": 74841,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١١٣",
+      "translation": "(113)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Perhitungan (amal perbuatan) mereka tidak lain hanyalah kepada Tuhan-ku, kalau kamu menyadari.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1021960,
+    "timestamp_to": 1029250,
+    "duration": 7290,
+    "segments": [
+      [
+        1,
+        1021935,
+        1022335
+      ],
+      [
+        2,
+        1022335,
+        1023505
+      ],
+      [
+        3,
+        1023505,
+        1024385
+      ],
+      [
+        4,
+        1024385,
+        1024965
+      ],
+      [
+        5,
+        1024965,
+        1025845
+      ],
+      [
+        6,
+        1025845,
+        1026245
+      ],
+      [
+        7,
+        1026245,
+        1029170
+      ]
+    ]
+  }
+}

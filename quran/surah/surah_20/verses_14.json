@@ -1,0 +1,177 @@
+{
+  "id": 2362,
+  "chapter_id": 20,
+  "verse_key": "20:14",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 16004,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_001.mp3",
+      "text": "إِنَّنِىٓ",
+      "translation": "sesungguhnya Aku",
+      "transliteration": "innanī"
+    },
+    {
+      "id": 16005,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_002.mp3",
+      "text": "أَنَا",
+      "translation": "Aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 16006,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 16007,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_004.mp3",
+      "text": "لَآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 16008,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_005.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 16009,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_006.mp3",
+      "text": "إِلَّآ",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 16010,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_007.mp3",
+      "text": "أَنَا۠",
+      "translation": "Aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 16011,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_008.mp3",
+      "text": "فَٱعْبُدْنِى",
+      "translation": "maka sembahlah Aku",
+      "transliteration": "fa-uʿ'bud'nī"
+    },
+    {
+      "id": 16012,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_009.mp3",
+      "text": "وَأَقِمِ",
+      "translation": "dan dirikan",
+      "transliteration": "wa-aqimi"
+    },
+    {
+      "id": 16013,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_010.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 16014,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_014_011.mp3",
+      "text": "لِذِكْرِىٓ",
+      "translation": "untuk mengingat-Ku",
+      "transliteration": "lidhik'rī"
+    },
+    {
+      "id": 16015,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Aku ini adalah Allah, tidak ada Tuhan (yang hak) selain Aku, maka sembahlah Aku dan dirikanlah salat untuk mengingat Aku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 118380,
+    "timestamp_to": 134160,
+    "duration": 15780,
+    "segments": [
+      [
+        1,
+        118015,
+        121365
+      ],
+      [
+        2,
+        121365,
+        121695
+      ],
+      [
+        3,
+        121695,
+        122705
+      ],
+      [
+        4,
+        122705,
+        125015
+      ],
+      [
+        5,
+        125015,
+        125855
+      ],
+      [
+        6,
+        125855,
+        128295
+      ],
+      [
+        7,
+        128295,
+        128775
+      ],
+      [
+        8,
+        128775,
+        130175
+      ],
+      [
+        9,
+        130175,
+        131035
+      ],
+      [
+        10,
+        131035,
+        132175
+      ],
+      [
+        11,
+        132175,
+        133750
+      ]
+    ]
+  }
+}

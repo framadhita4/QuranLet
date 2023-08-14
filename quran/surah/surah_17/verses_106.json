@@ -1,0 +1,151 @@
+{
+  "id": 2135,
+  "chapter_id": 17,
+  "verse_key": "17:106",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 251,
+  "manzil_number": 4,
+  "page_number": 293,
+  "juz_number": 15,
+  "text_uthmani": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 73004,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_001.mp3",
+      "text": "وَقُرْءَانًۭا",
+      "translation": "dan Al-Qur'an",
+      "transliteration": "waqur'ānan"
+    },
+    {
+      "id": 73005,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_002.mp3",
+      "text": "فَرَقْنَـٰهُ",
+      "translation": "Kami pisah-pisahkannya",
+      "transliteration": "faraqnāhu"
+    },
+    {
+      "id": 73006,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_003.mp3",
+      "text": "لِتَقْرَأَهُۥ",
+      "translation": "supaya kamu membacakannya",
+      "transliteration": "litaqra-ahu"
+    },
+    {
+      "id": 73007,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_004.mp3",
+      "text": "عَلَى",
+      "translation": "atas/kepada",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 73008,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_005.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 73009,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_006.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 73010,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_007.mp3",
+      "text": "مُكْثٍۢ",
+      "translation": "berangsur-angsur",
+      "transliteration": "muk'thin"
+    },
+    {
+      "id": 73011,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_008.mp3",
+      "text": "وَنَزَّلْنَـٰهُ",
+      "translation": "dan Kami turunkannya",
+      "transliteration": "wanazzalnāhu"
+    },
+    {
+      "id": 73012,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_106_009.mp3",
+      "text": "تَنزِيلًۭا",
+      "translation": "turun-menurun/terus-menerus",
+      "transliteration": "tanzīlan"
+    },
+    {
+      "id": 73013,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Al-Qur`ān itu telah Kami turunkan dengan berangsur-angsur agar kamu membacakannya perlahan-lahan kepada manusia dan Kami menurunkannya bagian demi bagian.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1885690,
+    "timestamp_to": 1898540,
+    "duration": 12850,
+    "segments": [
+      [
+        1,
+        1885625,
+        1887205
+      ],
+      [
+        2,
+        1887205,
+        1888945
+      ],
+      [
+        3,
+        1888945,
+        1890355
+      ],
+      [
+        4,
+        1890355,
+        1890805
+      ],
+      [
+        5,
+        1890805,
+        1892175
+      ],
+      [
+        6,
+        1892175,
+        1892795
+      ],
+      [
+        7,
+        1892795,
+        1894315
+      ],
+      [
+        8,
+        1894315,
+        1895905
+      ],
+      [
+        9,
+        1895905,
+        1898410
+      ]
+    ]
+  }
+}

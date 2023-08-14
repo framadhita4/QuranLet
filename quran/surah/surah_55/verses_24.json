@@ -1,0 +1,112 @@
+{
+  "id": 4925,
+  "chapter_id": 55,
+  "verse_key": "55:24",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 26869,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_024_001.mp3",
+      "text": "وَلَهُ",
+      "translation": "dan bagi-Nya",
+      "transliteration": "walahu"
+    },
+    {
+      "id": 26870,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_024_002.mp3",
+      "text": "ٱلْجَوَارِ",
+      "translation": "kapal-kapal",
+      "transliteration": "l-jawāri"
+    },
+    {
+      "id": 26871,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_024_003.mp3",
+      "text": "ٱلْمُنشَـَٔاتُ",
+      "translation": "yang timbul/tinggi",
+      "transliteration": "l-munshaātu"
+    },
+    {
+      "id": 26872,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_024_004.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 26873,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_024_005.mp3",
+      "text": "ٱلْبَحْرِ",
+      "translation": "lautan",
+      "transliteration": "l-baḥri"
+    },
+    {
+      "id": 26874,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_024_006.mp3",
+      "text": "كَٱلْأَعْلَـٰمِ",
+      "translation": "laksana gunung-gunung",
+      "transliteration": "kal-aʿlāmi"
+    },
+    {
+      "id": 26875,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kepunyaan-Nya-lah bahtera-bahtera yang tinggi layarnya di lautan laksana gunung-gunung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 171290,
+    "timestamp_to": 180250,
+    "duration": 8960,
+    "segments": [
+      [
+        1,
+        171235,
+        171865
+      ],
+      [
+        2,
+        171865,
+        173105
+      ],
+      [
+        3,
+        173105,
+        175385
+      ],
+      [
+        4,
+        175385,
+        175675
+      ],
+      [
+        5,
+        175675,
+        176575
+      ],
+      [
+        6,
+        176575,
+        180090
+      ]
+    ]
+  }
+}

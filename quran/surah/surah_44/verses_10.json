@@ -1,0 +1,112 @@
+{
+  "id": 4424,
+  "chapter_id": 44,
+  "verse_key": "44:10",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 10946,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_010_001.mp3",
+      "text": "فَٱرْتَقِبْ",
+      "translation": "maka tunggulah",
+      "transliteration": "fa-ir'taqib"
+    },
+    {
+      "id": 10947,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_010_002.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 10948,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_010_003.mp3",
+      "text": "تَأْتِى",
+      "translation": "datang/membawa",
+      "transliteration": "tatī"
+    },
+    {
+      "id": 10949,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_010_004.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 10950,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_010_005.mp3",
+      "text": "بِدُخَانٍۢ",
+      "translation": "dengan asap/kabut",
+      "transliteration": "bidukhānin"
+    },
+    {
+      "id": 10951,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_010_006.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 10952,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tunggulah hari ketika langit membawa kabut yang nyata <sup foot_note_id=\"1372\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87840,
+    "timestamp_to": 97530,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        87785,
+        88895
+      ],
+      [
+        2,
+        88895,
+        89415
+      ],
+      [
+        3,
+        89415,
+        90035
+      ],
+      [
+        4,
+        90035,
+        92805
+      ],
+      [
+        5,
+        92805,
+        93945
+      ],
+      [
+        6,
+        93945,
+        97440
+      ]
+    ]
+  }
+}

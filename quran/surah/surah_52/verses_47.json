@@ -1,0 +1,164 @@
+{
+  "id": 4782,
+  "chapter_id": 52,
+  "verse_key": "52:47",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 46604,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 46605,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_002.mp3",
+      "text": "لِلَّذِينَ",
+      "translation": "bagi orang-orang yang",
+      "transliteration": "lilladhīna"
+    },
+    {
+      "id": 46606,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_003.mp3",
+      "text": "ظَلَمُوا۟",
+      "translation": "zallim",
+      "transliteration": "ẓalamū"
+    },
+    {
+      "id": 46607,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_004.mp3",
+      "text": "عَذَابًۭا",
+      "translation": "azab",
+      "transliteration": "ʿadhāban"
+    },
+    {
+      "id": 46608,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_005.mp3",
+      "text": "دُونَ",
+      "translation": "selain",
+      "transliteration": "dūna"
+    },
+    {
+      "id": 46609,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_006.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu/dari itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 46610,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_007.mp3",
+      "text": "وَلَـٰكِنَّ",
+      "translation": "akan tetapi",
+      "transliteration": "walākinna"
+    },
+    {
+      "id": 46611,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_008.mp3",
+      "text": "أَكْثَرَهُمْ",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharahum"
+    },
+    {
+      "id": 46612,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_009.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 46613,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_047_010.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 46614,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya untuk orang-orang yang zalim ada azab selain itu<sup foot_note_id=\"1428\">1</sup>.  Tetapi kebanyakan mereka tidak mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 451780,
+    "timestamp_to": 466460,
+    "duration": 14680,
+    "segments": [
+      [
+        1,
+        451705,
+        453335
+      ],
+      [
+        2,
+        453335,
+        454755
+      ],
+      [
+        3,
+        454755,
+        455665
+      ],
+      [
+        4,
+        455665,
+        457445
+      ],
+      [
+        5,
+        457445,
+        458215
+      ],
+      [
+        6,
+        458215,
+        459195
+      ],
+      [
+        7,
+        459195,
+        461105
+      ],
+      [
+        8,
+        461105,
+        462455
+      ],
+      [
+        9,
+        462455,
+        462975
+      ],
+      [
+        10,
+        462975,
+        466320
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6041,
+  "chapter_id": 90,
+  "verse_key": "90:18",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 20964,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_018_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 20965,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_018_002.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "golongan",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 20966,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_018_003.mp3",
+      "text": "ٱلْمَيْمَنَةِ",
+      "translation": "kanan",
+      "transliteration": "l-maymanati"
+    },
+    {
+      "id": 20967,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87690,
+    "timestamp_to": 93440,
+    "duration": 5750,
+    "segments": [
+      [
+        1,
+        87655,
+        90405
+      ],
+      [
+        2,
+        90405,
+        91425
+      ],
+      [
+        3,
+        91425,
+        93330
+      ]
+    ]
+  }
+}

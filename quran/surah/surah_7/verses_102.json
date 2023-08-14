@@ -1,0 +1,151 @@
+{
+  "id": 1056,
+  "chapter_id": 7,
+  "verse_key": "7:102",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 134,
+  "manzil_number": 2,
+  "page_number": 163,
+  "juz_number": 9,
+  "text_uthmani": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ ۖ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَـٰسِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 71816,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 71817,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_002.mp3",
+      "text": "وَجَدْنَا",
+      "translation": "Kami mendapati",
+      "transliteration": "wajadnā"
+    },
+    {
+      "id": 71818,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_003.mp3",
+      "text": "لِأَكْثَرِهِم",
+      "translation": "bagi kebanyakan mereka",
+      "transliteration": "li-aktharihim"
+    },
+    {
+      "id": 71819,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 71820,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_005.mp3",
+      "text": "عَهْدٍۢ ۖ",
+      "translation": "janji",
+      "transliteration": "ʿahdin"
+    },
+    {
+      "id": 71822,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_007.mp3",
+      "text": "وَإِن",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 71823,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_008.mp3",
+      "text": "وَجَدْنَآ",
+      "translation": "Kami mendapati",
+      "transliteration": "wajadnā"
+    },
+    {
+      "id": 71824,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_009.mp3",
+      "text": "أَكْثَرَهُمْ",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharahum"
+    },
+    {
+      "id": 71825,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_102_010.mp3",
+      "text": "لَفَـٰسِقِينَ",
+      "translation": "sungguh orang-orang fasik",
+      "transliteration": "lafāsiqīna"
+    },
+    {
+      "id": 71826,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠٢",
+      "translation": "(102)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tidak mendapati kebanyakan mereka memenuhi janji.  Sesungguhnya Kami mendapati kebanyakan mereka orang-orang yang fasik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2403700,
+    "timestamp_to": 2419030,
+    "duration": 15330,
+    "segments": [
+      [
+        1,
+        2403675,
+        2404515
+      ],
+      [
+        2,
+        2404515,
+        2405625
+      ],
+      [
+        3,
+        2405625,
+        2407275
+      ],
+      [
+        4,
+        2407275,
+        2408265
+      ],
+      [
+        5,
+        2408265,
+        2410195
+      ],
+      [
+        6,
+        2410195,
+        2411435
+      ],
+      [
+        7,
+        2411435,
+        2413685
+      ],
+      [
+        8,
+        2413685,
+        2415035
+      ],
+      [
+        9,
+        2415035,
+        2418910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 3242,
+  "chapter_id": 27,
+  "verse_key": "27:83",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "ruku_number": 333,
+  "manzil_number": 5,
+  "page_number": 384,
+  "juz_number": 20,
+  "text_uthmani": "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 65603,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari itu",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 65604,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_002.mp3",
+      "text": "نَحْشُرُ",
+      "translation": "Kami kumpulkan",
+      "transliteration": "naḥshuru"
+    },
+    {
+      "id": 65605,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 65606,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_004.mp3",
+      "text": "كُلِّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 65607,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_005.mp3",
+      "text": "أُمَّةٍۢ",
+      "translation": "ummat",
+      "transliteration": "ummatin"
+    },
+    {
+      "id": 65608,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_006.mp3",
+      "text": "فَوْجًۭا",
+      "translation": "segolongan",
+      "transliteration": "fawjan"
+    },
+    {
+      "id": 65609,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_007.mp3",
+      "text": "مِّمَّن",
+      "translation": "dari orang-orang",
+      "transliteration": "mimman"
+    },
+    {
+      "id": 65610,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_008.mp3",
+      "text": "يُكَذِّبُ",
+      "translation": "mereka mendustakan",
+      "transliteration": "yukadhibu"
+    },
+    {
+      "id": 65611,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_009.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "dengan ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 65612,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_010.mp3",
+      "text": "فَهُمْ",
+      "translation": "lalu mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 65613,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_083_011.mp3",
+      "text": "يُوزَعُونَ",
+      "translation": "mereka dibagi-bagi",
+      "transliteration": "yūzaʿūna"
+    },
+    {
+      "id": 65614,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) hari (ketika) Kami kumpulkan dari tiap-tiap umat segolongan orang-orang yang mendustakan ayat-ayat Kami, lalu mereka dibagi-bagi (dalam kelompok-kelompok).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1463540,
+    "timestamp_to": 1479160,
+    "duration": 15620,
+    "segments": [
+      [
+        1,
+        1463485,
+        1464425
+      ],
+      [
+        2,
+        1464425,
+        1465255
+      ],
+      [
+        3,
+        1465255,
+        1466305
+      ],
+      [
+        4,
+        1466305,
+        1466905
+      ],
+      [
+        5,
+        1466905,
+        1468525
+      ],
+      [
+        6,
+        1468525,
+        1469925
+      ],
+      [
+        7,
+        1469925,
+        1471805
+      ],
+      [
+        3,
+        1471805,
+        1473025
+      ],
+      [
+        9,
+        1473025,
+        1475645
+      ],
+      [
+        10,
+        1475645,
+        1476295
+      ],
+      [
+        11,
+        1476295,
+        1479060
+      ]
+    ]
+  }
+}

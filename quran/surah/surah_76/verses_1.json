@@ -1,0 +1,177 @@
+{
+  "id": 5592,
+  "chapter_id": 76,
+  "verse_key": "76:1",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": " هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 639,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah/bukankah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 640,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_002.mp3",
+      "text": "أَتَىٰ",
+      "translation": "telah datang",
+      "transliteration": "atā"
+    },
+    {
+      "id": 641,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 642,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_004.mp3",
+      "text": "ٱلْإِنسَـٰنِ",
+      "translation": "manusia",
+      "transliteration": "l-insāni"
+    },
+    {
+      "id": 643,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_005.mp3",
+      "text": "حِينٌۭ",
+      "translation": "waktu",
+      "transliteration": "ḥīnun"
+    },
+    {
+      "id": 644,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_006.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 645,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_007.mp3",
+      "text": "ٱلدَّهْرِ",
+      "translation": "masa",
+      "transliteration": "l-dahri"
+    },
+    {
+      "id": 646,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_008.mp3",
+      "text": "لَمْ",
+      "translation": "tidaklah",
+      "transliteration": "lam"
+    },
+    {
+      "id": 647,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_009.mp3",
+      "text": "يَكُن",
+      "translation": "dia",
+      "transliteration": "yakun"
+    },
+    {
+      "id": 648,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_010.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 649,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_001_011.mp3",
+      "text": "مَّذْكُورًا",
+      "translation": "yang disebut",
+      "transliteration": "madhkūran"
+    },
+    {
+      "id": 650,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah telah datang atas manusia satu waktu dari masa, sedang dia ketika itu belum merupakan sesuatu yang dapat disebut?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 10500,
+    "duration": 10500,
+    "segments": [
+      [
+        1,
+        0,
+        400
+      ],
+      [
+        2,
+        400,
+        940
+      ],
+      [
+        3,
+        940,
+        1380
+      ],
+      [
+        4,
+        1380,
+        3180
+      ],
+      [
+        5,
+        3180,
+        3870
+      ],
+      [
+        6,
+        3870,
+        4970
+      ],
+      [
+        7,
+        4970,
+        5830
+      ],
+      [
+        8,
+        5830,
+        6160
+      ],
+      [
+        9,
+        6160,
+        7320
+      ],
+      [
+        10,
+        7320,
+        8020
+      ],
+      [
+        11,
+        8020,
+        10475
+      ]
+    ]
+  }
+}

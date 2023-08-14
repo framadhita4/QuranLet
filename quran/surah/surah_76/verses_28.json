@@ -1,0 +1,151 @@
+{
+  "id": 5619,
+  "chapter_id": 76,
+  "verse_key": "76:28",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 517,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 31141,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_001.mp3",
+      "text": "نَّحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 31142,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_002.mp3",
+      "text": "خَلَقْنَـٰهُمْ",
+      "translation": "Kami menciptakan mereka",
+      "transliteration": "khalaqnāhum"
+    },
+    {
+      "id": 31143,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_003.mp3",
+      "text": "وَشَدَدْنَآ",
+      "translation": "dan Kami kuatkan",
+      "transliteration": "washadadnā"
+    },
+    {
+      "id": 31144,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_004.mp3",
+      "text": "أَسْرَهُمْ ۖ",
+      "translation": "tubuh mereka",
+      "transliteration": "asrahum"
+    },
+    {
+      "id": 31146,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_006.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 31147,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_007.mp3",
+      "text": "شِئْنَا",
+      "translation": "Kami menghendaki",
+      "transliteration": "shi'nā"
+    },
+    {
+      "id": 31148,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_008.mp3",
+      "text": "بَدَّلْنَآ",
+      "translation": "Kami mengganti",
+      "transliteration": "baddalnā"
+    },
+    {
+      "id": 31149,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_009.mp3",
+      "text": "أَمْثَـٰلَهُمْ",
+      "translation": "serupa mereka",
+      "transliteration": "amthālahum"
+    },
+    {
+      "id": 31150,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_028_010.mp3",
+      "text": "تَبْدِيلًا",
+      "translation": "penggantian",
+      "transliteration": "tabdīlan"
+    },
+    {
+      "id": 31151,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami telah menciptakan mereka dan menguatkan persendian tubuh mereka, apabila Kami menghendaki, Kami sungguh-sungguh mengganti (mereka) dengan orang-orang yang serupa dengan mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 257230,
+    "timestamp_to": 270680,
+    "duration": 13450,
+    "segments": [
+      [
+        1,
+        257125,
+        257735
+      ],
+      [
+        2,
+        257735,
+        259085
+      ],
+      [
+        3,
+        259085,
+        261815
+      ],
+      [
+        4,
+        261815,
+        263315
+      ],
+      [
+        5,
+        263315,
+        263905
+      ],
+      [
+        6,
+        263905,
+        264845
+      ],
+      [
+        7,
+        264845,
+        267345
+      ],
+      [
+        8,
+        267345,
+        268805
+      ],
+      [
+        9,
+        268805,
+        270430
+      ]
+    ]
+  }
+}

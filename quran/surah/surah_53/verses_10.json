@@ -1,0 +1,104 @@
+{
+  "id": 4794,
+  "chapter_id": 53,
+  "verse_key": "53:10",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 11155,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_010_001.mp3",
+      "text": "فَأَوْحَىٰٓ",
+      "translation": "maka Dia mewahyukan",
+      "transliteration": "fa-awḥā"
+    },
+    {
+      "id": 11156,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_010_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 11157,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_010_003.mp3",
+      "text": "عَبْدِهِۦ",
+      "translation": "hamba-Nya",
+      "transliteration": "ʿabdihi"
+    },
+    {
+      "id": 11158,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_010_004.mp3",
+      "text": "مَآ",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 11159,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_010_005.mp3",
+      "text": "أَوْحَىٰ",
+      "translation": "Dia wahyukan",
+      "transliteration": "awḥā"
+    },
+    {
+      "id": 11160,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu dia menyampaikan kepada hamba-Nya (Muhammad) apa yang telah Allah wahyukan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39260,
+    "timestamp_to": 46680,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        38795,
+        41305
+      ],
+      [
+        2,
+        41305,
+        41955
+      ],
+      [
+        3,
+        41955,
+        43125
+      ],
+      [
+        4,
+        43125,
+        43305
+      ],
+      [
+        5,
+        43305,
+        44755
+      ],
+      [
+        5,
+        44755,
+        45840
+      ]
+    ]
+  }
+}

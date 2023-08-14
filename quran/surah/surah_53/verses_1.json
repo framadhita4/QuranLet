@@ -1,0 +1,73 @@
+{
+  "id": 4785,
+  "chapter_id": 53,
+  "verse_key": "53:1",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": " وَٱلنَّجْمِ إِذَا هَوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 280,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_001_001.mp3",
+      "text": "وَٱلنَّجْمِ",
+      "translation": "demi bintang",
+      "transliteration": "wal-najmi"
+    },
+    {
+      "id": 281,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_001_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 282,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_001_003.mp3",
+      "text": "هَوَىٰ",
+      "translation": "terbenam",
+      "transliteration": "hawā"
+    },
+    {
+      "id": 283,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi bintang ketika terbenam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4410,
+    "duration": 4420,
+    "segments": [
+      [
+        1,
+        0,
+        2350
+      ],
+      [
+        2,
+        2350,
+        2980
+      ],
+      [
+        3,
+        2980,
+        3855
+      ]
+    ]
+  }
+}

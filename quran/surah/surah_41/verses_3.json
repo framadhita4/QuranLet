@@ -1,0 +1,125 @@
+{
+  "id": 4221,
+  "chapter_id": 41,
+  "verse_key": "41:3",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 415,
+  "manzil_number": 6,
+  "page_number": 477,
+  "juz_number": 24,
+  "text_uthmani": "كِتَـٰبٌ فُصِّلَتْ ءَايَـٰتُهُۥ قُرْءَانًا عَرَبِيًّا لِّقَوْمٍ يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 2059,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_001.mp3",
+      "text": "كِتَـٰبٌۭ",
+      "translation": "kitab",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 2060,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_002.mp3",
+      "text": "فُصِّلَتْ",
+      "translation": "dijelaskan",
+      "transliteration": "fuṣṣilat"
+    },
+    {
+      "id": 2061,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_003.mp3",
+      "text": "ءَايَـٰتُهُۥ",
+      "translation": "ayat-ayatnya",
+      "transliteration": "āyātuhu"
+    },
+    {
+      "id": 2062,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_004.mp3",
+      "text": "قُرْءَانًا",
+      "translation": "bacaan",
+      "transliteration": "qur'ānan"
+    },
+    {
+      "id": 2063,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_005.mp3",
+      "text": "عَرَبِيًّۭا",
+      "translation": "bahasa Arab",
+      "transliteration": "ʿarabiyyan"
+    },
+    {
+      "id": 2064,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_006.mp3",
+      "text": "لِّقَوْمٍۢ",
+      "translation": "bagi kaum",
+      "transliteration": "liqawmin"
+    },
+    {
+      "id": 2065,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_003_007.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 2066,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kitab yang dijelaskan ayat-ayatnya, yakni bacaan dalam bahasa Arab untuk kaum yang mengetahui,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12230,
+    "timestamp_to": 23310,
+    "duration": 11080,
+    "segments": [
+      [
+        1,
+        12115,
+        12915
+      ],
+      [
+        2,
+        12915,
+        14655
+      ],
+      [
+        3,
+        14655,
+        15935
+      ],
+      [
+        4,
+        15935,
+        17035
+      ],
+      [
+        5,
+        17035,
+        18035
+      ],
+      [
+        6,
+        18035,
+        20105
+      ],
+      [
+        7,
+        20105,
+        23140
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1700,
+  "chapter_id": 12,
+  "verse_key": "12:104",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "ruku_number": 203,
+  "manzil_number": 3,
+  "page_number": 248,
+  "juz_number": 13,
+  "text_uthmani": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 72558,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 72559,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_002.mp3",
+      "text": "تَسْـَٔلُهُمْ",
+      "translation": "kamu meminta",
+      "transliteration": "tasaluhum"
+    },
+    {
+      "id": 72560,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_003.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 72561,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_004.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 72562,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_005.mp3",
+      "text": "أَجْرٍ ۚ",
+      "translation": "upah",
+      "transliteration": "ajrin"
+    },
+    {
+      "id": 72564,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_007.mp3",
+      "text": "إِنْ",
+      "translation": "jika/tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 72565,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_008.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 72566,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_009.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/hanyalah",
+      "transliteration": "illā"
+    },
+    {
+      "id": 72567,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_010.mp3",
+      "text": "ذِكْرٌۭ",
+      "translation": "pelajaran/peringatan",
+      "transliteration": "dhik'run"
+    },
+    {
+      "id": 72568,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_104_011.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi semesta alam",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 72569,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٠٤",
+      "translation": "(104)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu sekali-kali tidak meminta upah kepada mereka (terhadap seruanmu ini), itu tidak lain hanyalah pengajaran bagi semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2341710,
+    "timestamp_to": 2352050,
+    "duration": 10350,
+    "segments": [
+      [
+        1,
+        2341675,
+        2342325
+      ],
+      [
+        2,
+        2342325,
+        2343655
+      ],
+      [
+        3,
+        2343655,
+        2344545
+      ],
+      [
+        4,
+        2344545,
+        2344975
+      ],
+      [
+        5,
+        2344975,
+        2345825
+      ],
+      [
+        6,
+        2345825,
+        2346265
+      ],
+      [
+        7,
+        2346265,
+        2346595
+      ],
+      [
+        8,
+        2346595,
+        2347545
+      ],
+      [
+        9,
+        2347545,
+        2348265
+      ],
+      [
+        10,
+        2348265,
+        2351970
+      ]
+    ]
+  }
+}

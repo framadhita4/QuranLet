@@ -1,0 +1,112 @@
+{
+  "id": 1072,
+  "chapter_id": 7,
+  "verse_key": "7:118",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "فَوَقَعَ ٱلْحَقُّ وَبَطَلَ مَا كَانُوا۟ يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 75913,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_118_001.mp3",
+      "text": "فَوَقَعَ",
+      "translation": "maka nyatalah",
+      "transliteration": "fawaqaʿa"
+    },
+    {
+      "id": 75914,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_118_002.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "yang benar",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 75915,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_118_003.mp3",
+      "text": "وَبَطَلَ",
+      "translation": "dan lenyaplah",
+      "transliteration": "wabaṭala"
+    },
+    {
+      "id": 75916,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_118_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 75917,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_118_005.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 75918,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_118_006.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 75919,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١٨",
+      "translation": "(118)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena itu, nyatalah yang benar dan batallah yang selalu mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2628260,
+    "timestamp_to": 2635700,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        2628195,
+        2629145
+      ],
+      [
+        2,
+        2629145,
+        2630095
+      ],
+      [
+        3,
+        2630095,
+        2630935
+      ],
+      [
+        4,
+        2630935,
+        2631285
+      ],
+      [
+        5,
+        2631285,
+        2632185
+      ],
+      [
+        6,
+        2632185,
+        2635580
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 920,
+  "chapter_id": 6,
+  "verse_key": "6:131",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "ruku_number": 117,
+  "manzil_number": 2,
+  "page_number": 144,
+  "juz_number": 8,
+  "text_uthmani": "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَـٰفِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 78069,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 78070,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 78071,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_003.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 78072,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_004.mp3",
+      "text": "يَكُن",
+      "translation": "akan ada",
+      "transliteration": "yakun"
+    },
+    {
+      "id": 78073,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_005.mp3",
+      "text": "رَّبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 78074,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_006.mp3",
+      "text": "مُهْلِكَ",
+      "translation": "membinasakan",
+      "transliteration": "muh'lika"
+    },
+    {
+      "id": 78075,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_007.mp3",
+      "text": "ٱلْقُرَىٰ",
+      "translation": "negeri-negeri",
+      "transliteration": "l-qurā"
+    },
+    {
+      "id": 78076,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_008.mp3",
+      "text": "بِظُلْمٍۢ",
+      "translation": "dengan aniaya",
+      "transliteration": "biẓul'min"
+    },
+    {
+      "id": 78077,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_009.mp3",
+      "text": "وَأَهْلُهَا",
+      "translation": "dan penduduknya",
+      "transliteration": "wa-ahluhā"
+    },
+    {
+      "id": 78078,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_131_010.mp3",
+      "text": "غَـٰفِلُونَ",
+      "translation": "orang-orang yang lengah",
+      "transliteration": "ghāfilūna"
+    },
+    {
+      "id": 78079,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣١",
+      "translation": "(131)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang demikian itu adalah karena Tuhan-mu tidaklah membinasakan kota-kota secara aniaya, sedang penduduknya dalam keadaan lengah<sup foot_note_id=\"506\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3254730,
+    "timestamp_to": 3266770,
+    "duration": 12040,
+    "segments": [
+      [
+        1,
+        3254685,
+        3255805
+      ],
+      [
+        2,
+        3255805,
+        3256015
+      ],
+      [
+        3,
+        3256015,
+        3256595
+      ],
+      [
+        4,
+        3256595,
+        3257055
+      ],
+      [
+        5,
+        3257055,
+        3258185
+      ],
+      [
+        6,
+        3258185,
+        3258995
+      ],
+      [
+        7,
+        3258995,
+        3259925
+      ],
+      [
+        8,
+        3259925,
+        3261435
+      ],
+      [
+        9,
+        3261435,
+        3263205
+      ],
+      [
+        10,
+        3263205,
+        3266700
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2589,
+  "chapter_id": 21,
+  "verse_key": "21:106",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 331,
+  "juz_number": 17,
+  "text_uthmani": "إِنَّ فِى هَـٰذَا لَبَلَـٰغًا لِّقَوْمٍ عَـٰبِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 73113,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_106_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 73114,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_106_002.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 73115,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_106_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 73116,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_106_004.mp3",
+      "text": "لَبَلَـٰغًۭا",
+      "translation": "adalah penyampaian/penjelasan",
+      "transliteration": "labalāghan"
+    },
+    {
+      "id": 73117,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_106_005.mp3",
+      "text": "لِّقَوْمٍ",
+      "translation": "bagi kaum",
+      "transliteration": "liqawmin"
+    },
+    {
+      "id": 73118,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_106_006.mp3",
+      "text": "عَـٰبِدِينَ",
+      "translation": "orang-orang yang menyembah",
+      "transliteration": "ʿābidīna"
+    },
+    {
+      "id": 73119,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya (apa yang disebutkan) dalam (surat) ini, benar-benar menjadi peringatan bagi kaum yang menyembah (Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1490170,
+    "timestamp_to": 1497640,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        1490135,
+        1491485
+      ],
+      [
+        2,
+        1491485,
+        1492005
+      ],
+      [
+        3,
+        1492005,
+        1492805
+      ],
+      [
+        4,
+        1492805,
+        1493805
+      ],
+      [
+        5,
+        1493805,
+        1494915
+      ],
+      [
+        6,
+        1494915,
+        1497550
+      ]
+    ]
+  }
+}

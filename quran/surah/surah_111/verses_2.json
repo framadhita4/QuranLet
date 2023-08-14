@@ -1,0 +1,112 @@
+{
+  "id": 6218,
+  "chapter_id": 111,
+  "verse_key": "111:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 555,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3",
+  "words": [
+    {
+      "id": 949,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_002_001.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 950,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_002_002.mp3",
+      "text": "أَغْنَىٰ",
+      "translation": "berguna",
+      "transliteration": "aghnā"
+    },
+    {
+      "id": 951,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_002_003.mp3",
+      "text": "عَنْهُ",
+      "translation": "dari padanya/kepadanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 952,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_002_004.mp3",
+      "text": "مَالُهُۥ",
+      "translation": "hartanya",
+      "transliteration": "māluhu"
+    },
+    {
+      "id": 953,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_002_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 954,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_002_006.mp3",
+      "text": "كَسَبَ",
+      "translation": "yang ia usahakan",
+      "transliteration": "kasaba"
+    },
+    {
+      "id": 955,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidaklah berfaedah kepadanya harta bendanya dan apa yang ia usahakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7390,
+    "timestamp_to": 14550,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        6805,
+        9185
+      ],
+      [
+        2,
+        9185,
+        9845
+      ],
+      [
+        3,
+        9845,
+        10665
+      ],
+      [
+        4,
+        10665,
+        11815
+      ],
+      [
+        5,
+        11815,
+        12255
+      ],
+      [
+        6,
+        12255,
+        13110
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3850,
+  "chapter_id": 37,
+  "verse_key": "37:62",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 55882,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_062_001.mp3",
+      "text": "أَذَٰلِكَ",
+      "translation": "apakah yang demikian itu",
+      "transliteration": "adhālika"
+    },
+    {
+      "id": 55883,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_062_002.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 55884,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_062_003.mp3",
+      "text": "نُّزُلًا",
+      "translation": "hidangan/tempat",
+      "transliteration": "nuzulan"
+    },
+    {
+      "id": 55885,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_062_004.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah",
+      "transliteration": "am"
+    },
+    {
+      "id": 55886,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_062_005.mp3",
+      "text": "شَجَرَةُ",
+      "translation": "pohon",
+      "transliteration": "shajaratu"
+    },
+    {
+      "id": 55887,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_062_006.mp3",
+      "text": "ٱلزَّقُّومِ",
+      "translation": "zaqqum",
+      "transliteration": "l-zaqūmi"
+    },
+    {
+      "id": 55888,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Makanan surga) itukah hidangan yang lebih baik ataukah pohon zakum<sup foot_note_id=\"1277\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 517650,
+    "timestamp_to": 526110,
+    "duration": 8460,
+    "segments": [
+      [
+        1,
+        517595,
+        518725
+      ],
+      [
+        2,
+        518725,
+        519355
+      ],
+      [
+        3,
+        519355,
+        521075
+      ],
+      [
+        4,
+        521075,
+        521445
+      ],
+      [
+        5,
+        521445,
+        522325
+      ],
+      [
+        6,
+        522325,
+        525990
+      ]
+    ]
+  }
+}

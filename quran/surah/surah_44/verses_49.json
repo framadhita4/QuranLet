@@ -1,0 +1,99 @@
+{
+  "id": 4463,
+  "chapter_id": 44,
+  "verse_key": "44:49",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 47928,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_049_001.mp3",
+      "text": "ذُقْ",
+      "translation": "rasakanlah",
+      "transliteration": "dhuq"
+    },
+    {
+      "id": 47929,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_049_002.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 47930,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_049_003.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 47931,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_049_004.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "seorang perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 47932,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_049_005.mp3",
+      "text": "ٱلْكَرِيمُ",
+      "translation": "seorang mulia",
+      "transliteration": "l-karīmu"
+    },
+    {
+      "id": 47933,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Rasakanlah, sesungguhnya kamu orang yang perkasa lagi mulia <sup foot_note_id=\"1380\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 477830,
+    "timestamp_to": 485610,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        477775,
+        478265
+      ],
+      [
+        2,
+        478265,
+        479905
+      ],
+      [
+        3,
+        479905,
+        481515
+      ],
+      [
+        4,
+        481515,
+        482595
+      ],
+      [
+        5,
+        482595,
+        485540
+      ]
+    ]
+  }
+}

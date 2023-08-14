@@ -1,0 +1,99 @@
+{
+  "id": 6117,
+  "chapter_id": 96,
+  "verse_key": "96:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 13014,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_011_001.mp3",
+      "text": "أَرَءَيْتَ",
+      "translation": "apakah kamu lihat/pendapatmu",
+      "transliteration": "ara-ayta"
+    },
+    {
+      "id": 13015,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_011_002.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 13016,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_011_003.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 13017,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_011_004.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 13018,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_011_005.mp3",
+      "text": "ٱلْهُدَىٰٓ",
+      "translation": "petunjuk",
+      "transliteration": "l-hudā"
+    },
+    {
+      "id": 13019,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bagaimana pendapatmu jika orang yang dilarang (yaitu Muhammad) itu berada di atas kebenaran,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41380,
+    "timestamp_to": 45820,
+    "duration": 4440,
+    "segments": [
+      [
+        1,
+        40895,
+        41885
+      ],
+      [
+        2,
+        41885,
+        42945
+      ],
+      [
+        3,
+        42945,
+        43615
+      ],
+      [
+        4,
+        43615,
+        43935
+      ],
+      [
+        5,
+        43935,
+        44950
+      ]
+    ]
+  }
+}

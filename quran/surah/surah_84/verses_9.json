@@ -1,0 +1,86 @@
+{
+  "id": 5893,
+  "chapter_id": 84,
+  "verse_key": "84:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 10433,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_001.mp3",
+      "text": "وَيَنقَلِبُ",
+      "translation": "dan dia akan dikembalikan",
+      "transliteration": "wayanqalibu"
+    },
+    {
+      "id": 10434,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_002.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 10435,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_003.mp3",
+      "text": "أَهْلِهِۦ",
+      "translation": "keluarganya",
+      "transliteration": "ahlihi"
+    },
+    {
+      "id": 10436,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_004.mp3",
+      "text": "مَسْرُورًۭا",
+      "translation": "dengan gembira",
+      "transliteration": "masrūran"
+    },
+    {
+      "id": 10437,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dia akan kembali kepada kaumnya (yang sama-sama beriman) dengan gembira.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 44920,
+    "timestamp_to": 51790,
+    "duration": 6870,
+    "segments": [
+      [
+        1,
+        44895,
+        46885
+      ],
+      [
+        2,
+        46885,
+        48715
+      ],
+      [
+        3,
+        48715,
+        49775
+      ],
+      [
+        4,
+        49775,
+        51740
+      ]
+    ]
+  }
+}

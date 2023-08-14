@@ -1,0 +1,138 @@
+{
+  "id": 4402,
+  "chapter_id": 43,
+  "verse_key": "43:77",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 62852,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_001.mp3",
+      "text": "وَنَادَوْا۟",
+      "translation": "dan mereka berseru",
+      "transliteration": "wanādaw"
+    },
+    {
+      "id": 62853,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_002.mp3",
+      "text": "يَـٰمَـٰلِكُ",
+      "translation": "hai Malik",
+      "transliteration": "yāmāliku"
+    },
+    {
+      "id": 62854,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_003.mp3",
+      "text": "لِيَقْضِ",
+      "translation": "hendaklah mengakhiri",
+      "transliteration": "liyaqḍi"
+    },
+    {
+      "id": 62855,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_004.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 62856,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_005.mp3",
+      "text": "رَبُّكَ ۖ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 62858,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_007.mp3",
+      "text": "قَالَ",
+      "translation": "ia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 62859,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_008.mp3",
+      "text": "إِنَّكُم",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 62860,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_077_009.mp3",
+      "text": "مَّـٰكِثُونَ",
+      "translation": "orang-orang yang tetap tinggal",
+      "transliteration": "mākithūna"
+    },
+    {
+      "id": 62861,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berseru, \"Hai Malik<sup foot_note_id=\"1366\">1</sup>, biarlah Tuhan-mu membunuh kami saja\".  Dia menjawab, \"Kamu akan tetap tinggal (di neraka ini)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1060240,
+    "timestamp_to": 1072730,
+    "duration": 12490,
+    "segments": [
+      [
+        1,
+        1060215,
+        1061375
+      ],
+      [
+        2,
+        1061375,
+        1062735
+      ],
+      [
+        3,
+        1062735,
+        1063565
+      ],
+      [
+        4,
+        1063565,
+        1064505
+      ],
+      [
+        5,
+        1064505,
+        1066055
+      ],
+      [
+        6,
+        1066055,
+        1066645
+      ],
+      [
+        7,
+        1066645,
+        1068805
+      ],
+      [
+        8,
+        1068805,
+        1072640
+      ]
+    ]
+  }
+}

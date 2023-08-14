@@ -1,0 +1,182 @@
+{
+  "id": 662,
+  "chapter_id": 4,
+  "verse_key": "4:169",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "ruku_number": 84,
+  "manzil_number": 1,
+  "page_number": 104,
+  "juz_number": 6,
+  "text_uthmani": "إِلَّا طَرِيقَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 82719,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 82720,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_002.mp3",
+      "text": "طَرِيقَ",
+      "translation": "jalan",
+      "transliteration": "ṭarīqa"
+    },
+    {
+      "id": 82721,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_003.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 82722,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_004.mp3",
+      "text": "خَـٰلِدِينَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidīna"
+    },
+    {
+      "id": 82723,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_005.mp3",
+      "text": "فِيهَآ",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 82724,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_006.mp3",
+      "text": "أَبَدًۭا ۚ",
+      "translation": "selama-lamanya",
+      "transliteration": "abadan"
+    },
+    {
+      "id": 82726,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_008.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 82727,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_009.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 82728,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_010.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 82729,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_011.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82730,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_169_012.mp3",
+      "text": "يَسِيرًۭا",
+      "translation": "mudah",
+      "transliteration": "yasīran"
+    },
+    {
+      "id": 82731,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٦٩",
+      "translation": "(169)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali jalan ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya.  Dan yang demikian itu adalah mudah bagi Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4518900,
+    "timestamp_to": 4530730,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        4518835,
+        4519605
+      ],
+      [
+        2,
+        4519605,
+        4520425
+      ],
+      [
+        3,
+        4520425,
+        4521955
+      ],
+      [
+        4,
+        4521955,
+        4523115
+      ],
+      [
+        5,
+        4523115,
+        4523785
+      ],
+      [
+        6,
+        4523785,
+        4525365
+      ],
+      [
+        6,
+        4525365,
+        4526455
+      ],
+      [
+        7,
+        4526455,
+        4527215
+      ],
+      [
+        8,
+        4527215,
+        4527985
+      ],
+      [
+        9,
+        4527985,
+        4528355
+      ],
+      [
+        10,
+        4528355,
+        4529275
+      ],
+      [
+        11,
+        4529275,
+        4530640
+      ]
+    ]
+  }
+}

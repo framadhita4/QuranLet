@@ -1,0 +1,73 @@
+{
+  "id": 5509,
+  "chapter_id": 74,
+  "verse_key": "74:14",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 16463,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_014_001.mp3",
+      "text": "وَمَهَّدتُّ",
+      "translation": "dan Aku lapangkan (rizki)",
+      "transliteration": "wamahhadttu"
+    },
+    {
+      "id": 16464,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_014_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 16465,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_014_003.mp3",
+      "text": "تَمْهِيدًۭا",
+      "translation": "selapang-lapangnya",
+      "transliteration": "tamhīdan"
+    },
+    {
+      "id": 16466,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Ku-lapangkan baginya (rezeki dan kekuasaan) dengan selapang-lapangnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50110,
+    "timestamp_to": 53710,
+    "duration": 3610,
+    "segments": [
+      [
+        1,
+        49855,
+        51075
+      ],
+      [
+        2,
+        51075,
+        51555
+      ],
+      [
+        3,
+        51555,
+        53020
+      ]
+    ]
+  }
+}

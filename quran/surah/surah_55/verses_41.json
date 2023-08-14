@@ -1,0 +1,112 @@
+{
+  "id": 4942,
+  "chapter_id": 55,
+  "verse_key": "55:41",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 42122,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_041_001.mp3",
+      "text": "يُعْرَفُ",
+      "translation": "diketahui/dikenal",
+      "transliteration": "yuʿ'rafu"
+    },
+    {
+      "id": 42123,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_041_002.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 42124,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_041_003.mp3",
+      "text": "بِسِيمَـٰهُمْ",
+      "translation": "dengan tanda-tanda mereka",
+      "transliteration": "bisīmāhum"
+    },
+    {
+      "id": 42125,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_041_004.mp3",
+      "text": "فَيُؤْخَذُ",
+      "translation": "lalu dipegang/diambil",
+      "transliteration": "fayu'khadhu"
+    },
+    {
+      "id": 42126,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_041_005.mp3",
+      "text": "بِٱلنَّوَٰصِى",
+      "translation": "dengan umbun-umbun",
+      "transliteration": "bil-nawāṣī"
+    },
+    {
+      "id": 42127,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_041_006.mp3",
+      "text": "وَٱلْأَقْدَامِ",
+      "translation": "dan kaki-kaki",
+      "transliteration": "wal-aqdāmi"
+    },
+    {
+      "id": 42128,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Orang-orang yang berdosa dikenal dengan tanda-tandanya, lalu dipegang ubun-ubun dan kaki mereka<sup foot_note_id=\"1446\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 348700,
+    "timestamp_to": 360300,
+    "duration": 11600,
+    "segments": [
+      [
+        1,
+        348565,
+        349445
+      ],
+      [
+        2,
+        349445,
+        351015
+      ],
+      [
+        3,
+        351015,
+        352625
+      ],
+      [
+        4,
+        352625,
+        353835
+      ],
+      [
+        5,
+        353835,
+        356085
+      ],
+      [
+        6,
+        356085,
+        359820
+      ]
+    ]
+  }
+}

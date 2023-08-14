@@ -1,0 +1,99 @@
+{
+  "id": 4016,
+  "chapter_id": 38,
+  "verse_key": "38:46",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 46282,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_046_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 46283,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_046_002.mp3",
+      "text": "أَخْلَصْنَـٰهُم",
+      "translation": "Kami mensucikan mereka",
+      "transliteration": "akhlaṣnāhum"
+    },
+    {
+      "id": 46284,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_046_003.mp3",
+      "text": "بِخَالِصَةٍۢ",
+      "translation": "dengan suci/bersih",
+      "transliteration": "bikhāliṣatin"
+    },
+    {
+      "id": 46285,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_046_004.mp3",
+      "text": "ذِكْرَى",
+      "translation": "ingat/mengingat",
+      "transliteration": "dhik'rā"
+    },
+    {
+      "id": 46286,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_046_005.mp3",
+      "text": "ٱلدَّارِ",
+      "translation": "rumah/kampung",
+      "transliteration": "l-dāri"
+    },
+    {
+      "id": 46287,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah mensucikan mereka dengan (menganugerahkan kepada mereka) akhlak yang tinggi, yaitu selalu mengingatkan (manusia) kepada negeri akhirat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 635770,
+    "timestamp_to": 647030,
+    "duration": 11260,
+    "segments": [
+      [
+        1,
+        635735,
+        638514
+      ],
+      [
+        2,
+        638515,
+        640785
+      ],
+      [
+        3,
+        640785,
+        643005
+      ],
+      [
+        4,
+        643005,
+        643515
+      ],
+      [
+        5,
+        643515,
+        646970
+      ]
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 4274,
+  "chapter_id": 42,
+  "verse_key": "42:2",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "ruku_number": 421,
+  "manzil_number": 6,
+  "page_number": 483,
+  "juz_number": 25,
+  "text_uthmani": "عٓسٓقٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3",
+  "words": [
+    {
+      "id": 947,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_002_001.mp3",
+      "text": "عٓسٓقٓ",
+      "translation": "'Ain Siin Qaaf",
+      "transliteration": "ain-seen-qaf"
+    },
+    {
+      "id": 948,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ʻAin Sīn Qāf <sup foot_note_id=\"1339\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4810,
+    "timestamp_to": 19960,
+    "duration": 15150,
+    "segments": [
+      [
+        1,
+        4775,
+        19900
+      ]
+    ]
+  }
+}

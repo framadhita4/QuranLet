@@ -1,0 +1,86 @@
+{
+  "id": 2397,
+  "chapter_id": 20,
+  "verse_key": "20:49",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 314,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ فَمَن رَّبُّكُمَا يَـٰمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 47869,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_049_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 47870,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_049_002.mp3",
+      "text": "فَمَن",
+      "translation": "maka siapakah",
+      "transliteration": "faman"
+    },
+    {
+      "id": 47871,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_049_003.mp3",
+      "text": "رَّبُّكُمَا",
+      "translation": "Tuhanmu berdua",
+      "transliteration": "rabbukumā"
+    },
+    {
+      "id": 47872,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_049_004.mp3",
+      "text": "يَـٰمُوسَىٰ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 47873,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata  Firʻawn , \"Maka siapakah Tuhan-mu berdua, hai Musa? <sup foot_note_id=\"923\">1</sup>\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 429590,
+    "timestamp_to": 434210,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        429185,
+        429935
+      ],
+      [
+        2,
+        429935,
+        430275
+      ],
+      [
+        3,
+        430275,
+        431895
+      ],
+      [
+        4,
+        431895,
+        433420
+      ]
+    ]
+  }
+}

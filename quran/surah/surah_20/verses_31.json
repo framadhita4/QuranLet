@@ -1,0 +1,73 @@
+{
+  "id": 2379,
+  "chapter_id": 20,
+  "verse_key": "20:31",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "ٱشْدُدْ بِهِۦٓ أَزْرِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 33532,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_031_001.mp3",
+      "text": "ٱشْدُدْ",
+      "translation": "teguhkanlah",
+      "transliteration": "ush'dud"
+    },
+    {
+      "id": 33533,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_031_002.mp3",
+      "text": "بِهِۦٓ",
+      "translation": "dengan dia",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 33534,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_031_003.mp3",
+      "text": "أَزْرِى",
+      "translation": "kekuatanku",
+      "transliteration": "azrī"
+    },
+    {
+      "id": 33535,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "teguhkanlah dengan dia kekuatanku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 237620,
+    "timestamp_to": 241770,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        237415,
+        238405
+      ],
+      [
+        2,
+        238405,
+        239405
+      ],
+      [
+        3,
+        239405,
+        241270
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5539,
+  "chapter_id": 74,
+  "verse_key": "74:44",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 44489,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_044_001.mp3",
+      "text": "وَلَمْ",
+      "translation": "dan tidak ada",
+      "transliteration": "walam"
+    },
+    {
+      "id": 44490,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_044_002.mp3",
+      "text": "نَكُ",
+      "translation": "kami",
+      "transliteration": "naku"
+    },
+    {
+      "id": 44491,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_044_003.mp3",
+      "text": "نُطْعِمُ",
+      "translation": "kami memberi makan",
+      "transliteration": "nuṭ'ʿimu"
+    },
+    {
+      "id": 44492,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_044_004.mp3",
+      "text": "ٱلْمِسْكِينَ",
+      "translation": "orang-orang miskin",
+      "transliteration": "l-mis'kīna"
+    },
+    {
+      "id": 44493,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kami tidak (pula) memberi makan orang miskin,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 233980,
+    "timestamp_to": 239020,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        233925,
+        234525
+      ],
+      [
+        2,
+        234525,
+        234885
+      ],
+      [
+        3,
+        234885,
+        235595
+      ],
+      [
+        4,
+        235595,
+        238890
+      ]
+    ]
+  }
+}

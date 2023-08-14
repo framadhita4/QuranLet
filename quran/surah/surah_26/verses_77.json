@@ -1,0 +1,112 @@
+{
+  "id": 3009,
+  "chapter_id": 26,
+  "verse_key": "26:77",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "فَإِنَّهُمْ عَدُوٌّ لِّىٓ إِلَّا رَبَّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 63036,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_077_001.mp3",
+      "text": "فَإِنَّهُمْ",
+      "translation": "maka sesungguhnya mereka",
+      "transliteration": "fa-innahum"
+    },
+    {
+      "id": 63037,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_077_002.mp3",
+      "text": "عَدُوٌّۭ",
+      "translation": "musuh",
+      "transliteration": "ʿaduwwun"
+    },
+    {
+      "id": 63038,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_077_003.mp3",
+      "text": "لِّىٓ",
+      "translation": "bagiku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 63039,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_077_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 63040,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_077_005.mp3",
+      "text": "رَبَّ",
+      "translation": "Tuhan",
+      "transliteration": "rabba"
+    },
+    {
+      "id": 63041,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_077_006.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 63042,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena sesungguhnya apa yang kamu sembah itu adalah musuhku, kecuali Tuhan Semesta Alam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 753630,
+    "timestamp_to": 763010,
+    "duration": 9380,
+    "segments": [
+      [
+        1,
+        753575,
+        755525
+      ],
+      [
+        2,
+        755525,
+        756525
+      ],
+      [
+        3,
+        756525,
+        758555
+      ],
+      [
+        4,
+        758555,
+        759355
+      ],
+      [
+        5,
+        759355,
+        759995
+      ],
+      [
+        6,
+        759995,
+        762920
+      ]
+    ]
+  }
+}

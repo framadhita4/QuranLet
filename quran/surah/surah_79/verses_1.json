@@ -1,0 +1,60 @@
+{
+  "id": 5713,
+  "chapter_id": 79,
+  "verse_key": "79:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلنَّـٰزِعَـٰتِ غَرْقًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 679,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_001_001.mp3",
+      "text": "وَٱلنَّـٰزِعَـٰتِ",
+      "translation": "demi yang mencabut",
+      "transliteration": "wal-nāziʿāti"
+    },
+    {
+      "id": 680,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_001_002.mp3",
+      "text": "غَرْقًۭا",
+      "translation": "dengan keras",
+      "transliteration": "gharqan"
+    },
+    {
+      "id": 681,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi (malaikat-malaikat) yang mencabut (nyawa) dengan keras,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4570,
+    "duration": 4570,
+    "segments": [
+      [
+        1,
+        0,
+        2900
+      ],
+      [
+        2,
+        2900,
+        4515
+      ]
+    ]
+  }
+}

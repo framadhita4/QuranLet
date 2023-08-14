@@ -1,0 +1,164 @@
+{
+  "id": 3698,
+  "chapter_id": 35,
+  "verse_key": "35:38",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 382,
+  "manzil_number": 5,
+  "page_number": 438,
+  "juz_number": 22,
+  "text_uthmani": "إِنَّ ٱللَّهَ عَـٰلِمُ غَيْبِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 40195,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 40196,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 40197,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_003.mp3",
+      "text": "عَـٰلِمُ",
+      "translation": "mengetahui",
+      "transliteration": "ʿālimu"
+    },
+    {
+      "id": 40198,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_004.mp3",
+      "text": "غَيْبِ",
+      "translation": "kegaiban",
+      "transliteration": "ghaybi"
+    },
+    {
+      "id": 40199,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_005.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 40200,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_006.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 40202,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_008.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 40203,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_009.mp3",
+      "text": "عَلِيمٌۢ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 40204,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_010.mp3",
+      "text": "بِذَاتِ",
+      "translation": "dengan yang ada",
+      "transliteration": "bidhāti"
+    },
+    {
+      "id": 40205,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_038_011.mp3",
+      "text": "ٱلصُّدُورِ",
+      "translation": "dalam dada/hati",
+      "transliteration": "l-ṣudūri"
+    },
+    {
+      "id": 40206,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah mengetahui yang tersembunyi di langit dan di bumi.  Sesungguhnya Dia Maha Mengetahui segala isi hati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 746530,
+    "timestamp_to": 760060,
+    "duration": 13530,
+    "segments": [
+      [
+        1,
+        746505,
+        747805
+      ],
+      [
+        2,
+        747805,
+        748605
+      ],
+      [
+        3,
+        748605,
+        749425
+      ],
+      [
+        4,
+        749425,
+        749985
+      ],
+      [
+        5,
+        749985,
+        751445
+      ],
+      [
+        6,
+        751445,
+        752945
+      ],
+      [
+        7,
+        752945,
+        754605
+      ],
+      [
+        8,
+        754605,
+        756495
+      ],
+      [
+        9,
+        756495,
+        757225
+      ],
+      [
+        10,
+        757225,
+        759980
+      ]
+    ]
+  }
+}

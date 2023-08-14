@@ -1,0 +1,86 @@
+{
+  "id": 6004,
+  "chapter_id": 89,
+  "verse_key": "89:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 12830,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_011_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 12831,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_011_002.mp3",
+      "text": "طَغَوْا۟",
+      "translation": "(mereka) melampui batas",
+      "transliteration": "ṭaghaw"
+    },
+    {
+      "id": 12832,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_011_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12833,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_011_004.mp3",
+      "text": "ٱلْبِلَـٰدِ",
+      "translation": "negeri-negeri itu",
+      "transliteration": "l-bilādi"
+    },
+    {
+      "id": 12834,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang berbuat sewenang-wenang dalam negeri,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42970,
+    "timestamp_to": 48300,
+    "duration": 5330,
+    "segments": [
+      [
+        1,
+        42885,
+        44075
+      ],
+      [
+        2,
+        44075,
+        44705
+      ],
+      [
+        3,
+        44705,
+        44955
+      ],
+      [
+        4,
+        44955,
+        48140
+      ]
+    ]
+  }
+}

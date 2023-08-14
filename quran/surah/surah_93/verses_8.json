@@ -1,0 +1,73 @@
+{
+  "id": 6087,
+  "chapter_id": 93,
+  "verse_key": "93:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 8971,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_008_001.mp3",
+      "text": "وَوَجَدَكَ",
+      "translation": "dan Dia mendapatimu",
+      "transliteration": "wawajadaka"
+    },
+    {
+      "id": 8972,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_008_002.mp3",
+      "text": "عَآئِلًۭا",
+      "translation": "miskin/kekurangan",
+      "transliteration": "ʿāilan"
+    },
+    {
+      "id": 8973,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_008_003.mp3",
+      "text": "فَأَغْنَىٰ",
+      "translation": "lalu Dia memberi kecukupan",
+      "transliteration": "fa-aghnā"
+    },
+    {
+      "id": 8974,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 31810,
+    "timestamp_to": 37920,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        31315,
+        32435
+      ],
+      [
+        2,
+        32435,
+        35525
+      ],
+      [
+        3,
+        35525,
+        36750
+      ]
+    ]
+  }
+}

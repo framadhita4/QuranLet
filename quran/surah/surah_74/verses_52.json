@@ -1,0 +1,151 @@
+{
+  "id": 5547,
+  "chapter_id": 74,
+  "verse_key": "74:52",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 49933,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 49934,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_002.mp3",
+      "text": "يُرِيدُ",
+      "translation": "menghendaki",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 49935,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_003.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 49936,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_004.mp3",
+      "text": "ٱمْرِئٍۢ",
+      "translation": "seseorang",
+      "transliteration": "im'ri-in"
+    },
+    {
+      "id": 49937,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_005.mp3",
+      "text": "مِّنْهُمْ",
+      "translation": "di antara mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 49938,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_006.mp3",
+      "text": "أَن",
+      "translation": "untuk",
+      "transliteration": "an"
+    },
+    {
+      "id": 49939,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_007.mp3",
+      "text": "يُؤْتَىٰ",
+      "translation": "diberi ia",
+      "transliteration": "yu'tā"
+    },
+    {
+      "id": 49940,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_008.mp3",
+      "text": "صُحُفًۭا",
+      "translation": "lembaran-lembaran",
+      "transliteration": "ṣuḥufan"
+    },
+    {
+      "id": 49941,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_052_009.mp3",
+      "text": "مُّنَشَّرَةًۭ",
+      "translation": "ditebarkan/terbuka",
+      "transliteration": "munasharatan"
+    },
+    {
+      "id": 49942,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan tiap-tiap orang dari mereka berkehendak supaya diberikan kepadanya lembaran-lembaran yang terbuka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 280530,
+    "timestamp_to": 289540,
+    "duration": 9010,
+    "segments": [
+      [
+        1,
+        280475,
+        280855
+      ],
+      [
+        2,
+        280855,
+        281695
+      ],
+      [
+        3,
+        281695,
+        282235
+      ],
+      [
+        4,
+        282235,
+        282885
+      ],
+      [
+        5,
+        282885,
+        284495
+      ],
+      [
+        6,
+        284495,
+        284745
+      ],
+      [
+        7,
+        284745,
+        286155
+      ],
+      [
+        8,
+        286155,
+        287045
+      ],
+      [
+        9,
+        287045,
+        289430
+      ]
+    ]
+  }
+}

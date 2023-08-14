@@ -1,0 +1,86 @@
+{
+  "id": 6165,
+  "chapter_id": 101,
+  "verse_key": "101:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 8590,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_008_001.mp3",
+      "text": "وَأَمَّا",
+      "translation": "dan adapun",
+      "transliteration": "wa-ammā"
+    },
+    {
+      "id": 8591,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_008_002.mp3",
+      "text": "مَنْ",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 8592,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_008_003.mp3",
+      "text": "خَفَّتْ",
+      "translation": "ringan",
+      "transliteration": "khaffat"
+    },
+    {
+      "id": 8593,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_008_004.mp3",
+      "text": "مَوَٰزِينُهُۥ",
+      "translation": "timbangannya",
+      "transliteration": "mawāzīnuhu"
+    },
+    {
+      "id": 8594,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 35180,
+    "timestamp_to": 40250,
+    "duration": 5070,
+    "segments": [
+      [
+        1,
+        35095,
+        36995
+      ],
+      [
+        2,
+        36995,
+        37365
+      ],
+      [
+        3,
+        37365,
+        38255
+      ],
+      [
+        4,
+        38255,
+        40040
+      ]
+    ]
+  }
+}

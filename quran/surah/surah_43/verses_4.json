@@ -1,0 +1,125 @@
+{
+  "id": 4329,
+  "chapter_id": 43,
+  "verse_key": "43:4",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 426,
+  "manzil_number": 6,
+  "page_number": 489,
+  "juz_number": 25,
+  "text_uthmani": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَـٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 3343,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia/Al Qur'an",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 3344,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_002.mp3",
+      "text": "فِىٓ",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 3345,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_003.mp3",
+      "text": "أُمِّ",
+      "translation": "induk",
+      "transliteration": "ummi"
+    },
+    {
+      "id": 3346,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_004.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Al kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 3347,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_005.mp3",
+      "text": "لَدَيْنَا",
+      "translation": "di sisi Kami",
+      "transliteration": "ladaynā"
+    },
+    {
+      "id": 3348,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_006.mp3",
+      "text": "لَعَلِىٌّ",
+      "translation": "benar-benar tinggi",
+      "transliteration": "laʿaliyyun"
+    },
+    {
+      "id": 3349,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_004_007.mp3",
+      "text": "حَكِيمٌ",
+      "translation": "hikmah",
+      "transliteration": "ḥakīmun"
+    },
+    {
+      "id": 3350,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Al-Qur`ān itu dalam induk Alkitab (Lawḥ Maḥfūẓ) di sisi Kami adalah benar-benar tinggi (nilainya) dan amat banyak mengandung hikmah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19600,
+    "timestamp_to": 30340,
+    "duration": 10740,
+    "segments": [
+      [
+        1,
+        19575,
+        21215
+      ],
+      [
+        2,
+        21215,
+        23245
+      ],
+      [
+        3,
+        23245,
+        24275
+      ],
+      [
+        4,
+        24275,
+        25335
+      ],
+      [
+        5,
+        25335,
+        26555
+      ],
+      [
+        6,
+        26555,
+        27705
+      ],
+      [
+        7,
+        27705,
+        30270
+      ]
+    ]
+  }
+}

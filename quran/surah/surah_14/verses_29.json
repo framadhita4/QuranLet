@@ -1,0 +1,96 @@
+{
+  "id": 1779,
+  "chapter_id": 14,
+  "verse_key": "14:29",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 215,
+  "manzil_number": 3,
+  "page_number": 259,
+  "juz_number": 13,
+  "text_uthmani": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 32286,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_001.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 32287,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_002.mp3",
+      "text": "يَصْلَوْنَهَا ۖ",
+      "translation": "mereka memasukinya",
+      "transliteration": "yaṣlawnahā"
+    },
+    {
+      "id": 32289,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_004.mp3",
+      "text": "وَبِئْسَ",
+      "translation": "dan seburuk-buruk",
+      "transliteration": "wabi'sa"
+    },
+    {
+      "id": 32290,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_005.mp3",
+      "text": "ٱلْقَرَارُ",
+      "translation": "tempat ketetapan/kediaman",
+      "transliteration": "l-qarāru"
+    },
+    {
+      "id": 32291,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu neraka jahanam; mereka masuk ke dalamnya; dan itulah seburuk-buruk tempat kediaman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 728392,
+    "timestamp_to": 740693,
+    "duration": 12070,
+    "segments": [
+      [
+        1,
+        730005,
+        730596
+      ],
+      [
+        2,
+        730596,
+        732911
+      ],
+      [
+        1,
+        732911,
+        734626
+      ],
+      [
+        2,
+        734626,
+        736173
+      ],
+      [
+        3,
+        736173,
+        737152
+      ],
+      [
+        4,
+        737152,
+        740602
+      ]
+    ]
+  }
+}

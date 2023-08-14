@@ -1,0 +1,112 @@
+{
+  "id": 5336,
+  "chapter_id": 69,
+  "verse_key": "69:13",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌ وَٰحِدَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 15213,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_013_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 15214,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_013_002.mp3",
+      "text": "نُفِخَ",
+      "translation": "ditiup",
+      "transliteration": "nufikha"
+    },
+    {
+      "id": 15215,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_013_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 15216,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_013_004.mp3",
+      "text": "ٱلصُّورِ",
+      "translation": "sangkakala",
+      "transliteration": "l-ṣūri"
+    },
+    {
+      "id": 15217,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_013_005.mp3",
+      "text": "نَفْخَةٌۭ",
+      "translation": "tiupan",
+      "transliteration": "nafkhatun"
+    },
+    {
+      "id": 15218,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_013_006.mp3",
+      "text": "وَٰحِدَةٌۭ",
+      "translation": "satu/sekali",
+      "transliteration": "wāḥidatun"
+    },
+    {
+      "id": 15219,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila sangkakala ditiup sekali tiup<sup foot_note_id=\"1508\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105190,
+    "timestamp_to": 111750,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        105125,
+        106065
+      ],
+      [
+        2,
+        106065,
+        106695
+      ],
+      [
+        3,
+        106695,
+        106895
+      ],
+      [
+        4,
+        106895,
+        107845
+      ],
+      [
+        5,
+        107845,
+        110065
+      ],
+      [
+        6,
+        110065,
+        111620
+      ]
+    ]
+  }
+}

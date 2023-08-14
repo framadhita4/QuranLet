@@ -1,0 +1,99 @@
+{
+  "id": 4418,
+  "chapter_id": 44,
+  "verse_key": "44:4",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 3351,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_004_001.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 3352,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_004_002.mp3",
+      "text": "يُفْرَقُ",
+      "translation": "dijelaskan",
+      "transliteration": "yuf'raqu"
+    },
+    {
+      "id": 3353,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_004_003.mp3",
+      "text": "كُلُّ",
+      "translation": "segala",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 3354,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_004_004.mp3",
+      "text": "أَمْرٍ",
+      "translation": "perkara/urusan",
+      "transliteration": "amrin"
+    },
+    {
+      "id": 3355,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_004_005.mp3",
+      "text": "حَكِيمٍ",
+      "translation": "hikmah/bijaksana",
+      "transliteration": "ḥakīmin"
+    },
+    {
+      "id": 3356,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada malam itu dijelaskan segala urusan yang penuh hikmah <sup foot_note_id=\"1371\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26380,
+    "timestamp_to": 31970,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        26325,
+        27265
+      ],
+      [
+        2,
+        27265,
+        28155
+      ],
+      [
+        3,
+        28155,
+        28765
+      ],
+      [
+        4,
+        28765,
+        29535
+      ],
+      [
+        5,
+        29535,
+        31860
+      ]
+    ]
+  }
+}

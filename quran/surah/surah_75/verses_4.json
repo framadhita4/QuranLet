@@ -1,0 +1,112 @@
+{
+  "id": 5555,
+  "chapter_id": 75,
+  "verse_key": "75:4",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 4048,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_004_001.mp3",
+      "text": "بَلَىٰ",
+      "translation": "yang benar/bahkan",
+      "transliteration": "balā"
+    },
+    {
+      "id": 4049,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_004_002.mp3",
+      "text": "قَـٰدِرِينَ",
+      "translation": "berkuasa",
+      "transliteration": "qādirīna"
+    },
+    {
+      "id": 4050,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_004_003.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 4051,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_004_004.mp3",
+      "text": "أَن",
+      "translation": "dari",
+      "transliteration": "an"
+    },
+    {
+      "id": 4052,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_004_005.mp3",
+      "text": "نُّسَوِّىَ",
+      "translation": "Kami menyempurnakan",
+      "transliteration": "nusawwiya"
+    },
+    {
+      "id": 4053,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_004_006.mp3",
+      "text": "بَنَانَهُۥ",
+      "translation": "jari-jemarinya",
+      "transliteration": "banānahu"
+    },
+    {
+      "id": 4054,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukan demikian, sebenarnya Kami kuasa menyusun (kembali) jari jemarinya dengan sempurna.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20790,
+    "timestamp_to": 28260,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        20735,
+        21425
+      ],
+      [
+        2,
+        21425,
+        22695
+      ],
+      [
+        3,
+        22695,
+        24525
+      ],
+      [
+        4,
+        24525,
+        24815
+      ],
+      [
+        5,
+        24815,
+        26505
+      ],
+      [
+        6,
+        26505,
+        28130
+      ]
+    ]
+  }
+}

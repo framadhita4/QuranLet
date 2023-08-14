@@ -1,0 +1,151 @@
+{
+  "id": 2324,
+  "chapter_id": 19,
+  "verse_key": "19:74",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 268,
+  "manzil_number": 4,
+  "page_number": 310,
+  "juz_number": 16,
+  "text_uthmani": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَـٰثًا وَرِءْيًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 61462,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_001.mp3",
+      "text": "وَكَمْ",
+      "translation": "dan berapa banyak",
+      "transliteration": "wakam"
+    },
+    {
+      "id": 61463,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_002.mp3",
+      "text": "أَهْلَكْنَا",
+      "translation": "telah Kami binasakan",
+      "transliteration": "ahlaknā"
+    },
+    {
+      "id": 61464,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_003.mp3",
+      "text": "قَبْلَهُم",
+      "translation": "sebelum mereka",
+      "transliteration": "qablahum"
+    },
+    {
+      "id": 61465,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 61466,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_005.mp3",
+      "text": "قَرْنٍ",
+      "translation": "umat",
+      "transliteration": "qarnin"
+    },
+    {
+      "id": 61467,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_006.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 61468,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_007.mp3",
+      "text": "أَحْسَنُ",
+      "translation": "lebih baik/bagus",
+      "transliteration": "aḥsanu"
+    },
+    {
+      "id": 61469,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_008.mp3",
+      "text": "أَثَـٰثًۭا",
+      "translation": "perabotan rumah tangga",
+      "transliteration": "athāthan"
+    },
+    {
+      "id": 61470,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_074_009.mp3",
+      "text": "وَرِءْيًۭا",
+      "translation": "dan pandang mata",
+      "transliteration": "wari'yan"
+    },
+    {
+      "id": 61471,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berapa banyak umat yang telah Kami binasakan sebelum mereka <sup foot_note_id=\"906\">1</sup>, sedang mereka adalah lebih bagus alat rumah tangganya dan lebih sedap dipandang mata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1022900,
+    "timestamp_to": 1033350,
+    "duration": 10450,
+    "segments": [
+      [
+        1,
+        1022845,
+        1023565
+      ],
+      [
+        2,
+        1023565,
+        1024955
+      ],
+      [
+        3,
+        1024955,
+        1026265
+      ],
+      [
+        4,
+        1026265,
+        1027115
+      ],
+      [
+        5,
+        1027115,
+        1028695
+      ],
+      [
+        6,
+        1028695,
+        1029055
+      ],
+      [
+        7,
+        1029055,
+        1029975
+      ],
+      [
+        8,
+        1029975,
+        1030965
+      ],
+      [
+        9,
+        1030965,
+        1033270
+      ]
+    ]
+  }
+}

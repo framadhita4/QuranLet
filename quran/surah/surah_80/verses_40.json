@@ -1,0 +1,86 @@
+{
+  "id": 5798,
+  "chapter_id": 80,
+  "verse_key": "80:40",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 41292,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_040_001.mp3",
+      "text": "وَوُجُوهٌۭ",
+      "translation": "dan wajah-wajah",
+      "transliteration": "wawujūhun"
+    },
+    {
+      "id": 41293,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_040_002.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 41294,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_040_003.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 41295,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_040_004.mp3",
+      "text": "غَبَرَةٌۭ",
+      "translation": "tertutup debu",
+      "transliteration": "ghabaratun"
+    },
+    {
+      "id": 41296,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan banyak (pula) muka pada hari itu tertutup debu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 186890,
+    "timestamp_to": 192850,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        186815,
+        188065
+      ],
+      [
+        2,
+        188066,
+        190325
+      ],
+      [
+        3,
+        190325,
+        191505
+      ],
+      [
+        4,
+        191505,
+        192710
+      ]
+    ]
+  }
+}

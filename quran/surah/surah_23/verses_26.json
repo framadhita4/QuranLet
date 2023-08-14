@@ -1,0 +1,99 @@
+{
+  "id": 2699,
+  "chapter_id": 23,
+  "verse_key": "23:26",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 296,
+  "manzil_number": 4,
+  "page_number": 343,
+  "juz_number": 18,
+  "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 29044,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_026_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Nuh) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 29045,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_026_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 29046,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_026_003.mp3",
+      "text": "ٱنصُرْنِى",
+      "translation": "tolonglah aku",
+      "transliteration": "unṣur'nī"
+    },
+    {
+      "id": 29047,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_026_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/karena",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 29048,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_026_005.mp3",
+      "text": "كَذَّبُونِ",
+      "translation": "mereka mendustakan aku",
+      "transliteration": "kadhabūni"
+    },
+    {
+      "id": 29049,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Nūḥ berdoa, \"Ya Tuhan-ku, tolonglah aku <sup foot_note_id=\"996\">1</sup> karena mereka mendustakan aku.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 332970,
+    "timestamp_to": 340490,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        332925,
+        333585
+      ],
+      [
+        2,
+        333585,
+        334165
+      ],
+      [
+        3,
+        334165,
+        336205
+      ],
+      [
+        4,
+        336205,
+        336815
+      ],
+      [
+        5,
+        336815,
+        340420
+      ]
+    ]
+  }
+}

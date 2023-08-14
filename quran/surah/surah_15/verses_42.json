@@ -1,0 +1,177 @@
+{
+  "id": 1844,
+  "chapter_id": 15,
+  "verse_key": "15:42",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَـٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 43315,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 43316,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_002.mp3",
+      "text": "عِبَادِى",
+      "translation": "hamba-hambaKu",
+      "transliteration": "ʿibādī"
+    },
+    {
+      "id": 43317,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_003.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 43318,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_004.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 43319,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_005.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 43320,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_006.mp3",
+      "text": "سُلْطَـٰنٌ",
+      "translation": "kekuasaan",
+      "transliteration": "sul'ṭānun"
+    },
+    {
+      "id": 43321,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_007.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 43322,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_008.mp3",
+      "text": "مَنِ",
+      "translation": "orang",
+      "transliteration": "mani"
+    },
+    {
+      "id": 43323,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_009.mp3",
+      "text": "ٱتَّبَعَكَ",
+      "translation": "mengikuti kamu",
+      "transliteration": "ittabaʿaka"
+    },
+    {
+      "id": 43324,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_010.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 43325,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_042_011.mp3",
+      "text": "ٱلْغَاوِينَ",
+      "translation": "orang-orang yang sesat",
+      "transliteration": "l-ghāwīna"
+    },
+    {
+      "id": 43326,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya hamba-hamba-Ku tidak ada kekuasaan bagimu terhadap mereka, kecuali orang-orang yang mengikut kamu, yaitu orang-orang yang sesat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 413600,
+    "timestamp_to": 424910,
+    "duration": 11310,
+    "segments": [
+      [
+        1,
+        413575,
+        414975
+      ],
+      [
+        2,
+        414975,
+        416005
+      ],
+      [
+        3,
+        416005,
+        416705
+      ],
+      [
+        4,
+        416705,
+        417045
+      ],
+      [
+        5,
+        417045,
+        418085
+      ],
+      [
+        6,
+        418085,
+        419395
+      ],
+      [
+        7,
+        419395,
+        420325
+      ],
+      [
+        8,
+        420325,
+        420785
+      ],
+      [
+        9,
+        420785,
+        421805
+      ],
+      [
+        10,
+        421805,
+        422125
+      ],
+      [
+        11,
+        422125,
+        424860
+      ]
+    ]
+  }
+}

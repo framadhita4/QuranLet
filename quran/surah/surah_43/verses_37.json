@@ -1,0 +1,125 @@
+{
+  "id": 4362,
+  "chapter_id": 43,
+  "verse_key": "43:37",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 38685,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_001.mp3",
+      "text": "وَإِنَّهُمْ",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-innahum"
+    },
+    {
+      "id": 38686,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_002.mp3",
+      "text": "لَيَصُدُّونَهُمْ",
+      "translation": "benar-benar menghalangi mereka",
+      "transliteration": "layaṣuddūnahum"
+    },
+    {
+      "id": 38687,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_003.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 38688,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_004.mp3",
+      "text": "ٱلسَّبِيلِ",
+      "translation": "jalan",
+      "transliteration": "l-sabīli"
+    },
+    {
+      "id": 38689,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_005.mp3",
+      "text": "وَيَحْسَبُونَ",
+      "translation": "dan mereka mengira",
+      "transliteration": "wayaḥsabūna"
+    },
+    {
+      "id": 38690,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_006.mp3",
+      "text": "أَنَّهُم",
+      "translation": "bahwa sesungguhnya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 38691,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_037_007.mp3",
+      "text": "مُّهْتَدُونَ",
+      "translation": "mendapat petunjuk",
+      "transliteration": "muh'tadūna"
+    },
+    {
+      "id": 38692,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, setan-setan itu benar-benar menghalangi mereka dari jalan yang benar dan mereka menyangka bahwa mereka mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 537300,
+    "timestamp_to": 550180,
+    "duration": 12880,
+    "segments": [
+      [
+        1,
+        537255,
+        539215
+      ],
+      [
+        2,
+        539215,
+        541115
+      ],
+      [
+        3,
+        541115,
+        541485
+      ],
+      [
+        4,
+        541485,
+        542635
+      ],
+      [
+        5,
+        542635,
+        543975
+      ],
+      [
+        6,
+        543975,
+        545495
+      ],
+      [
+        7,
+        545495,
+        550080
+      ]
+    ]
+  }
+}

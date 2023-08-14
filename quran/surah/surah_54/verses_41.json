@@ -1,0 +1,99 @@
+{
+  "id": 4887,
+  "chapter_id": 54,
+  "verse_key": "54:41",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 42080,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_041_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 42081,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_041_002.mp3",
+      "text": "جَآءَ",
+      "translation": "datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 42082,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_041_003.mp3",
+      "text": "ءَالَ",
+      "translation": "keluarga/kaum",
+      "transliteration": "āla"
+    },
+    {
+      "id": 42083,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_041_004.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 42084,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_041_005.mp3",
+      "text": "ٱلنُّذُرُ",
+      "translation": "pemberi peringatan/ancaman",
+      "transliteration": "l-nudhuru"
+    },
+    {
+      "id": 42085,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah datang kepada kaum Firʻawn  ancaman-ancaman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 367730,
+    "timestamp_to": 374680,
+    "duration": 6950,
+    "segments": [
+      [
+        1,
+        367685,
+        368585
+      ],
+      [
+        2,
+        368585,
+        370715
+      ],
+      [
+        3,
+        370715,
+        371445
+      ],
+      [
+        4,
+        371445,
+        372435
+      ],
+      [
+        5,
+        372435,
+        374580
+      ]
+    ]
+  }
+}

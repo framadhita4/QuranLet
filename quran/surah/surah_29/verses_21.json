@@ -1,0 +1,138 @@
+{
+  "id": 3361,
+  "chapter_id": 29,
+  "verse_key": "29:21",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "ruku_number": 344,
+  "manzil_number": 5,
+  "page_number": 398,
+  "juz_number": 20,
+  "text_uthmani": "يُعَذِّبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ ۖ وَإِلَيْهِ تُقْلَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 24098,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_001.mp3",
+      "text": "يُعَذِّبُ",
+      "translation": "Dia mengazab",
+      "transliteration": "yuʿadhibu"
+    },
+    {
+      "id": 24099,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_002.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 24100,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_003.mp3",
+      "text": "يَشَآءُ",
+      "translation": "Dia kehendaki",
+      "transliteration": "yashāu"
+    },
+    {
+      "id": 24101,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_004.mp3",
+      "text": "وَيَرْحَمُ",
+      "translation": "dan Dia memberi rahmat",
+      "transliteration": "wayarḥamu"
+    },
+    {
+      "id": 24102,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_005.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 24103,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_006.mp3",
+      "text": "يَشَآءُ ۖ",
+      "translation": "Dia kehendaki",
+      "transliteration": "yashāu"
+    },
+    {
+      "id": 24105,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_008.mp3",
+      "text": "وَإِلَيْهِ",
+      "translation": "dan kepadanya",
+      "transliteration": "wa-ilayhi"
+    },
+    {
+      "id": 24106,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_021_009.mp3",
+      "text": "تُقْلَبُونَ",
+      "translation": "kamu dikembalikan",
+      "transliteration": "tuq'labūna"
+    },
+    {
+      "id": 24107,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah mengazab siapa yang dikehendaki-Nya dan memberi rahmat kepada siapa yang dikehendaki-Nya dan hanya kepada-Nya-lah kamu akan dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 380830,
+    "timestamp_to": 395280,
+    "duration": 14450,
+    "segments": [
+      [
+        1,
+        380805,
+        381845
+      ],
+      [
+        2,
+        381845,
+        382145
+      ],
+      [
+        3,
+        382145,
+        385585
+      ],
+      [
+        4,
+        385585,
+        386575
+      ],
+      [
+        5,
+        386575,
+        386715
+      ],
+      [
+        6,
+        386715,
+        390495
+      ],
+      [
+        7,
+        390495,
+        391945
+      ],
+      [
+        8,
+        391945,
+        395190
+      ]
+    ]
+  }
+}

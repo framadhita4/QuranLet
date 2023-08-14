@@ -1,0 +1,125 @@
+{
+  "id": 2729,
+  "chapter_id": 23,
+  "verse_key": "23:56",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 52258,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_001.mp3",
+      "text": "نُسَارِعُ",
+      "translation": "Kami menyegerakan",
+      "transliteration": "nusāriʿu"
+    },
+    {
+      "id": 52259,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 52260,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 52261,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_004.mp3",
+      "text": "ٱلْخَيْرَٰتِ ۚ",
+      "translation": "kebaikan",
+      "transliteration": "l-khayrāti"
+    },
+    {
+      "id": 52263,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_006.mp3",
+      "text": "بَل",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 52264,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_007.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 52265,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_056_008.mp3",
+      "text": "يَشْعُرُونَ",
+      "translation": "mereka sadar",
+      "transliteration": "yashʿurūna"
+    },
+    {
+      "id": 52266,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami bersegera memberikan kebaikan-kebaikan kepada mereka? Tidak, sebenarnya mereka tidak sadar <sup foot_note_id=\"1007\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 736160,
+    "timestamp_to": 745220,
+    "duration": 9070,
+    "segments": [
+      [
+        1,
+        736105,
+        737195
+      ],
+      [
+        2,
+        737195,
+        737695
+      ],
+      [
+        3,
+        737695,
+        738015
+      ],
+      [
+        4,
+        738015,
+        741175
+      ],
+      [
+        5,
+        741175,
+        741555
+      ],
+      [
+        6,
+        741555,
+        741985
+      ],
+      [
+        7,
+        741985,
+        745110
+      ]
+    ]
+  }
+}

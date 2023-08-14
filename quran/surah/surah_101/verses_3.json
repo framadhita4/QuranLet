@@ -1,0 +1,86 @@
+{
+  "id": 6160,
+  "chapter_id": 101,
+  "verse_key": "101:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 2067,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_003_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2068,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_003_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 2069,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_003_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2070,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_003_004.mp3",
+      "text": "ٱلْقَارِعَةُ",
+      "translation": "hari kiamat",
+      "transliteration": "l-qāriʿatu"
+    },
+    {
+      "id": 2071,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah hari kiamat itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4620,
+    "timestamp_to": 10210,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        4535,
+        6724
+      ],
+      [
+        2,
+        6725,
+        8175
+      ],
+      [
+        3,
+        8175,
+        8295
+      ],
+      [
+        4,
+        8295,
+        10000
+      ]
+    ]
+  }
+}

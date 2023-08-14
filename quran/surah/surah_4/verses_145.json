@@ -1,0 +1,177 @@
+{
+  "id": 638,
+  "chapter_id": 4,
+  "verse_key": "4:145",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 40,
+  "ruku_number": 82,
+  "manzil_number": 1,
+  "page_number": 101,
+  "juz_number": 5,
+  "text_uthmani": "إِنَّ ٱلْمُنَـٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 79780,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 79781,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_002.mp3",
+      "text": "ٱلْمُنَـٰفِقِينَ",
+      "translation": "orang-orang munafik",
+      "transliteration": "l-munāfiqīna"
+    },
+    {
+      "id": 79782,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 79783,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_004.mp3",
+      "text": "ٱلدَّرْكِ",
+      "translation": "tingkatan",
+      "transliteration": "l-darki"
+    },
+    {
+      "id": 79784,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_005.mp3",
+      "text": "ٱلْأَسْفَلِ",
+      "translation": "paling bawah",
+      "transliteration": "l-asfali"
+    },
+    {
+      "id": 79785,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 79786,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_007.mp3",
+      "text": "ٱلنَّارِ",
+      "translation": "neraka",
+      "transliteration": "l-nāri"
+    },
+    {
+      "id": 79787,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_008.mp3",
+      "text": "وَلَن",
+      "translation": "dan tidak",
+      "transliteration": "walan"
+    },
+    {
+      "id": 79788,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_009.mp3",
+      "text": "تَجِدَ",
+      "translation": "kamu mendapat",
+      "transliteration": "tajida"
+    },
+    {
+      "id": 79789,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_010.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 79790,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_145_011.mp3",
+      "text": "نَصِيرًا",
+      "translation": "penolong",
+      "transliteration": "naṣīran"
+    },
+    {
+      "id": 79791,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤٥",
+      "translation": "(145)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang munafik itu (ditempatkan) pada tingkatan yang paling bawah dari neraka.  Dan kamu sekali-kali tidak akan mendapat seorang penolong pun bagi mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4036880,
+    "timestamp_to": 4048160,
+    "duration": 11290,
+    "segments": [
+      [
+        1,
+        4036795,
+        4038205
+      ],
+      [
+        2,
+        4038205,
+        4039945
+      ],
+      [
+        3,
+        4039945,
+        4040205
+      ],
+      [
+        4,
+        4040205,
+        4041035
+      ],
+      [
+        5,
+        4041035,
+        4042115
+      ],
+      [
+        6,
+        4042115,
+        4042555
+      ],
+      [
+        7,
+        4042555,
+        4043855
+      ],
+      [
+        8,
+        4043855,
+        4045095
+      ],
+      [
+        9,
+        4045095,
+        4045825
+      ],
+      [
+        10,
+        4045825,
+        4046495
+      ],
+      [
+        11,
+        4046495,
+        4048030
+      ]
+    ]
+  }
+}

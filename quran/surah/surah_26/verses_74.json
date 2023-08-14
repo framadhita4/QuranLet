@@ -1,0 +1,117 @@
+{
+  "id": 3006,
+  "chapter_id": 26,
+  "verse_key": "26:74",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 61559,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_074_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 61560,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_074_002.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 61561,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_074_003.mp3",
+      "text": "وَجَدْنَآ",
+      "translation": "kami dapati",
+      "transliteration": "wajadnā"
+    },
+    {
+      "id": 61562,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_074_004.mp3",
+      "text": "ءَابَآءَنَا",
+      "translation": "bapak-bapak/nenek moyang kami",
+      "transliteration": "ābāanā"
+    },
+    {
+      "id": 61563,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_074_005.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 61564,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_074_006.mp3",
+      "text": "يَفْعَلُونَ",
+      "translation": "mereka kerjakan/berbuat",
+      "transliteration": "yafʿalūna"
+    },
+    {
+      "id": 61565,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"(Bukan karena itu) sebenarnya kami mendapati nenek moyang kami berbuat demikian\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 727910,
+    "timestamp_to": 737860,
+    "duration": 9950,
+    "segments": [
+      [
+        1,
+        727865,
+        728705
+      ],
+      [
+        2,
+        728705,
+        729095
+      ],
+      [
+        3,
+        729095,
+        729875
+      ],
+      [
+        4,
+        729875,
+        732495
+      ],
+      [
+        4,
+        732495,
+        734015
+      ],
+      [
+        5,
+        734015,
+        735215
+      ],
+      [
+        6,
+        735215,
+        737790
+      ]
+    ]
+  }
+}

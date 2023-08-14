@@ -1,0 +1,86 @@
+{
+  "id": 6061,
+  "chapter_id": 92,
+  "verse_key": "92:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 2121,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_003_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2122,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_003_002.mp3",
+      "text": "خَلَقَ",
+      "translation": "ciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 2123,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_003_003.mp3",
+      "text": "ٱلذَّكَرَ",
+      "translation": "laki-laki",
+      "transliteration": "l-dhakara"
+    },
+    {
+      "id": 2124,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_003_004.mp3",
+      "text": "وَٱلْأُنثَىٰٓ",
+      "translation": "dan perempuan",
+      "transliteration": "wal-unthā"
+    },
+    {
+      "id": 2125,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan penciptaan laki-laki dan perempuan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7730,
+    "timestamp_to": 12750,
+    "duration": 5020,
+    "segments": [
+      [
+        1,
+        7165,
+        7815
+      ],
+      [
+        2,
+        7815,
+        8425
+      ],
+      [
+        3,
+        8425,
+        9335
+      ],
+      [
+        4,
+        9335,
+        11580
+      ]
+    ]
+  }
+}

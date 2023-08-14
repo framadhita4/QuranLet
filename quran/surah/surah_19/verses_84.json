@@ -1,0 +1,125 @@
+{
+  "id": 2334,
+  "chapter_id": 19,
+  "verse_key": "19:84",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 65679,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka janganlah",
+      "transliteration": "falā"
+    },
+    {
+      "id": 65680,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_002.mp3",
+      "text": "تَعْجَلْ",
+      "translation": "kamu tergesa-gesa",
+      "transliteration": "taʿjal"
+    },
+    {
+      "id": 65681,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_003.mp3",
+      "text": "عَلَيْهِمْ ۖ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 65683,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_005.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 65684,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_006.mp3",
+      "text": "نَعُدُّ",
+      "translation": "Kami menghitung",
+      "transliteration": "naʿuddu"
+    },
+    {
+      "id": 65685,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_007.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 65686,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_084_008.mp3",
+      "text": "عَدًّۭا",
+      "translation": "perhitungan",
+      "transliteration": "ʿaddan"
+    },
+    {
+      "id": 65687,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka janganlah kamu tergesa-gesa memintakan siksa terhadap mereka karena sesungguhnya Kami hanya menghitung datangnya (hari siksaan) untuk mereka dengan perhitungan yang teliti.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1147020,
+    "timestamp_to": 1154780,
+    "duration": 7760,
+    "segments": [
+      [
+        1,
+        1146625,
+        1147375
+      ],
+      [
+        2,
+        1147375,
+        1148355
+      ],
+      [
+        3,
+        1148355,
+        1149475
+      ],
+      [
+        4,
+        1149475,
+        1151475
+      ],
+      [
+        5,
+        1151475,
+        1152305
+      ],
+      [
+        6,
+        1152305,
+        1153025
+      ],
+      [
+        7,
+        1153025,
+        1154050
+      ]
+    ]
+  }
+}

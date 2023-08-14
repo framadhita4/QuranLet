@@ -1,0 +1,99 @@
+{
+  "id": 3821,
+  "chapter_id": 37,
+  "verse_key": "37:33",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فَإِنَّهُمْ يَوْمَئِذٍ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 36032,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_033_001.mp3",
+      "text": "فَإِنَّهُمْ",
+      "translation": "maka sesungguhnya mereka",
+      "transliteration": "fa-innahum"
+    },
+    {
+      "id": 36033,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_033_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 36034,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_033_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 36035,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_033_004.mp3",
+      "text": "ٱلْعَذَابِ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābi"
+    },
+    {
+      "id": 36036,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_033_005.mp3",
+      "text": "مُشْتَرِكُونَ",
+      "translation": "orang-orang yang bersekutu",
+      "transliteration": "mush'tarikūna"
+    },
+    {
+      "id": 36037,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sesungguhnya, mereka pada hari itu bersama-sama dalam azab.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 270260,
+    "timestamp_to": 279400,
+    "duration": 9140,
+    "segments": [
+      [
+        1,
+        270185,
+        272025
+      ],
+      [
+        2,
+        272025,
+        273255
+      ],
+      [
+        3,
+        273255,
+        274295
+      ],
+      [
+        4,
+        274295,
+        275365
+      ],
+      [
+        5,
+        275365,
+        279260
+      ]
+    ]
+  }
+}

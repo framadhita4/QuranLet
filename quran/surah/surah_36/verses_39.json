@@ -1,0 +1,125 @@
+{
+  "id": 3744,
+  "chapter_id": 36,
+  "verse_key": "36:39",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 442,
+  "juz_number": 23,
+  "text_uthmani": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 40880,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_001.mp3",
+      "text": "وَٱلْقَمَرَ",
+      "translation": "dan bulan",
+      "transliteration": "wal-qamara"
+    },
+    {
+      "id": 40881,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_002.mp3",
+      "text": "قَدَّرْنَـٰهُ",
+      "translation": "telah Kami tetapkannya",
+      "transliteration": "qaddarnāhu"
+    },
+    {
+      "id": 40882,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_003.mp3",
+      "text": "مَنَازِلَ",
+      "translation": "tempat-tempat(nya)",
+      "transliteration": "manāzila"
+    },
+    {
+      "id": 40883,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_004.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 40884,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_005.mp3",
+      "text": "عَادَ",
+      "translation": "ia kembali",
+      "transliteration": "ʿāda"
+    },
+    {
+      "id": 40885,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_006.mp3",
+      "text": "كَٱلْعُرْجُونِ",
+      "translation": "seperti tandan",
+      "transliteration": "kal-ʿur'jūni"
+    },
+    {
+      "id": 40886,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_039_007.mp3",
+      "text": "ٱلْقَدِيمِ",
+      "translation": "yang tua",
+      "transliteration": "l-qadīmi"
+    },
+    {
+      "id": 40887,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan telah Kami tetapkan bagi bulan manzilah-manzilah sehingga (setelah dia sampai ke manzilah yang terakhir) kembalilah dia sebagai bentuk tandan yang tua <sup foot_note_id=\"1267\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 479680,
+    "timestamp_to": 489400,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        479595,
+        480755
+      ],
+      [
+        2,
+        480755,
+        482215
+      ],
+      [
+        3,
+        482215,
+        483215
+      ],
+      [
+        4,
+        483215,
+        484065
+      ],
+      [
+        5,
+        484065,
+        484665
+      ],
+      [
+        6,
+        484665,
+        486135
+      ],
+      [
+        7,
+        486135,
+        489260
+      ]
+    ]
+  }
+}

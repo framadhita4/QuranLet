@@ -1,0 +1,177 @@
+{
+  "id": 1166,
+  "chapter_id": 8,
+  "verse_key": "8:6",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 146,
+  "manzil_number": 2,
+  "page_number": 177,
+  "juz_number": 9,
+  "text_uthmani": "يُجَـٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 6115,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_001.mp3",
+      "text": "يُجَـٰدِلُونَكَ",
+      "translation": "mereka akan membantahmu",
+      "transliteration": "yujādilūnaka"
+    },
+    {
+      "id": 6116,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_002.mp3",
+      "text": "فِى",
+      "translation": "tentang",
+      "transliteration": "fī"
+    },
+    {
+      "id": 6117,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_003.mp3",
+      "text": "ٱلْحَقِّ",
+      "translation": "kebenaran",
+      "transliteration": "l-ḥaqi"
+    },
+    {
+      "id": 6118,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_004.mp3",
+      "text": "بَعْدَ مَا",
+      "translation": "sesudah",
+      "transliteration": "baʿdamā"
+    },
+    {
+      "id": 6119,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_005.mp3",
+      "text": "تَبَيَّنَ",
+      "translation": "apa",
+      "transliteration": "tabayyana"
+    },
+    {
+      "id": 6120,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_006.mp3",
+      "text": "كَأَنَّمَا",
+      "translation": "nyata",
+      "transliteration": "ka-annamā"
+    },
+    {
+      "id": 6121,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_007.mp3",
+      "text": "يُسَاقُونَ",
+      "translation": "seakan-akan",
+      "transliteration": "yusāqūna"
+    },
+    {
+      "id": 6122,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_008.mp3",
+      "text": "إِلَى",
+      "translation": "mereka dihalau",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 6123,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_009.mp3",
+      "text": "ٱلْمَوْتِ",
+      "translation": "kepada",
+      "transliteration": "l-mawti"
+    },
+    {
+      "id": 6124,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_010.mp3",
+      "text": "وَهُمْ",
+      "translation": "kematian",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 6125,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_006_011.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 6127,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "mereka membantahmu tentang kebenaran sesudah nyata (bahwa mereka pasti menang), seolah-olah mereka dihalau kepada kematian, sedang mereka melihat (sebab-sebab kematian itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 109440,
+    "timestamp_to": 124250,
+    "duration": 14810,
+    "segments": [
+      [
+        1,
+        109385,
+        111215
+      ],
+      [
+        2,
+        111215,
+        111465
+      ],
+      [
+        3,
+        111465,
+        112375
+      ],
+      [
+        4,
+        112375,
+        113385
+      ],
+      [
+        5,
+        113385,
+        114565
+      ],
+      [
+        6,
+        114565,
+        116545
+      ],
+      [
+        7,
+        116545,
+        117825
+      ],
+      [
+        8,
+        117825,
+        118235
+      ],
+      [
+        9,
+        118235,
+        119185
+      ],
+      [
+        10,
+        119185,
+        119825
+      ],
+      [
+        11,
+        119825,
+        124170
+      ]
+    ]
+  }
+}

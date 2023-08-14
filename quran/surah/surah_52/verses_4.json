@@ -1,0 +1,60 @@
+{
+  "id": 4739,
+  "chapter_id": 52,
+  "verse_key": "52:4",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 3515,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_004_001.mp3",
+      "text": "وَٱلْبَيْتِ",
+      "translation": "dan rumah",
+      "transliteration": "wal-bayti"
+    },
+    {
+      "id": 3516,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_004_002.mp3",
+      "text": "ٱلْمَعْمُورِ",
+      "translation": "dimakmurkan",
+      "transliteration": "l-maʿmūri"
+    },
+    {
+      "id": 3517,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan demi Baitul Makmur<sup foot_note_id=\"1426\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15240,
+    "timestamp_to": 19600,
+    "duration": 4360,
+    "segments": [
+      [
+        1,
+        15155,
+        16265
+      ],
+      [
+        2,
+        16265,
+        19090
+      ]
+    ]
+  }
+}

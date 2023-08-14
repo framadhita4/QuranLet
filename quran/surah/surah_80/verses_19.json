@@ -1,0 +1,86 @@
+{
+  "id": 5777,
+  "chapter_id": 80,
+  "verse_key": "80:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 21803,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_019_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 21804,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_019_002.mp3",
+      "text": "نُّطْفَةٍ",
+      "translation": "setetes mani",
+      "transliteration": "nuṭ'fatin"
+    },
+    {
+      "id": 21805,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_019_003.mp3",
+      "text": "خَلَقَهُۥ",
+      "translation": "Dia menciptakannya",
+      "transliteration": "khalaqahu"
+    },
+    {
+      "id": 21806,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_019_004.mp3",
+      "text": "فَقَدَّرَهُۥ",
+      "translation": "lalu Dia menentukannya",
+      "transliteration": "faqaddarahu"
+    },
+    {
+      "id": 21807,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dari setetes mani, Allah menciptakannya lalu menentukannya<sup foot_note_id=\"1558\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 74690,
+    "timestamp_to": 80070,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        74625,
+        74965
+      ],
+      [
+        2,
+        74965,
+        77125
+      ],
+      [
+        3,
+        77125,
+        78185
+      ],
+      [
+        4,
+        78185,
+        79950
+      ]
+    ]
+  }
+}

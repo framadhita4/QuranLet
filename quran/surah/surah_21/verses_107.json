@@ -1,0 +1,99 @@
+{
+  "id": 2590,
+  "chapter_id": 21,
+  "verse_key": "21:107",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 331,
+  "juz_number": 17,
+  "text_uthmani": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 73277,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_107_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 73278,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_107_002.mp3",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation": "Kami mengutus kamu",
+      "transliteration": "arsalnāka"
+    },
+    {
+      "id": 73279,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_107_003.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 73280,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_107_004.mp3",
+      "text": "رَحْمَةًۭ",
+      "translation": "rahmat",
+      "transliteration": "raḥmatan"
+    },
+    {
+      "id": 73281,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_107_005.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi semesta alam",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 73282,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠٧",
+      "translation": "(107)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tiadalah Kami mengutus kamu, melainkan untuk (menjadi) rahmat bagi semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1497640,
+    "timestamp_to": 1505820,
+    "duration": 8180,
+    "segments": [
+      [
+        1,
+        1497585,
+        1499655
+      ],
+      [
+        2,
+        1499655,
+        1501065
+      ],
+      [
+        3,
+        1501065,
+        1501895
+      ],
+      [
+        4,
+        1501895,
+        1502705
+      ],
+      [
+        5,
+        1502705,
+        1505740
+      ]
+    ]
+  }
+}

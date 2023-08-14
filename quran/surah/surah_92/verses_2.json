@@ -1,0 +1,73 @@
+{
+  "id": 6060,
+  "chapter_id": 92,
+  "verse_key": "92:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 1785,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_002_001.mp3",
+      "text": "وَٱلنَّهَارِ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāri"
+    },
+    {
+      "id": 1786,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_002_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 1787,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_002_003.mp3",
+      "text": "تَجَلَّىٰ",
+      "translation": "terang benderang",
+      "transliteration": "tajallā"
+    },
+    {
+      "id": 1788,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan siang apabila terang benderang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3320,
+    "timestamp_to": 7730,
+    "duration": 4420,
+    "segments": [
+      [
+        1,
+        2775,
+        4775
+      ],
+      [
+        2,
+        4775,
+        5345
+      ],
+      [
+        3,
+        5345,
+        6630
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5775,
+  "chapter_id": 80,
+  "verse_key": "80:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 19197,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_017_001.mp3",
+      "text": "قُتِلَ",
+      "translation": "dibunuh/binasa",
+      "transliteration": "qutila"
+    },
+    {
+      "id": 19198,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_017_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 19199,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_017_003.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 19200,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_017_004.mp3",
+      "text": "أَكْفَرَهُۥ",
+      "translation": "kekafirannya",
+      "transliteration": "akfarahu"
+    },
+    {
+      "id": 19201,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Binasalah manusia; alangkah amat sangat kekafirannya!",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65440,
+    "timestamp_to": 71400,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        65325,
+        65895
+      ],
+      [
+        2,
+        65895,
+        68095
+      ],
+      [
+        3,
+        68095,
+        69865
+      ],
+      [
+        4,
+        69865,
+        71230
+      ]
+    ]
+  }
+}

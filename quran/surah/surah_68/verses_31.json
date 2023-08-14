@@ -1,0 +1,99 @@
+{
+  "id": 5302,
+  "chapter_id": 68,
+  "verse_key": "68:31",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 33975,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 33976,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_002.mp3",
+      "text": "يَـٰوَيْلَنَآ",
+      "translation": "betapa celakanya kami",
+      "transliteration": "yāwaylanā"
+    },
+    {
+      "id": 33977,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_003.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 33978,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_004.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 33979,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_005.mp3",
+      "text": "طَـٰغِينَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "ṭāghīna"
+    },
+    {
+      "id": 33980,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Aduhai celakalah kita; sesungguhnya kita ini adalah orang-orang yang melampaui batas\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 227920,
+    "timestamp_to": 237740,
+    "duration": 9820,
+    "segments": [
+      [
+        1,
+        227845,
+        228685
+      ],
+      [
+        2,
+        228685,
+        231775
+      ],
+      [
+        3,
+        231775,
+        233055
+      ],
+      [
+        4,
+        233055,
+        234485
+      ],
+      [
+        5,
+        234485,
+        237600
+      ]
+    ]
+  }
+}

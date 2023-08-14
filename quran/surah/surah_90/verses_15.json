@@ -1,0 +1,73 @@
+{
+  "id": 6038,
+  "chapter_id": 90,
+  "verse_key": "90:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "يَتِيمًا ذَا مَقْرَبَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 17751,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_015_001.mp3",
+      "text": "يَتِيمًۭا",
+      "translation": "anak yatim",
+      "transliteration": "yatīman"
+    },
+    {
+      "id": 17752,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_015_002.mp3",
+      "text": "ذَا",
+      "translation": "mempunyai",
+      "transliteration": "dhā"
+    },
+    {
+      "id": 17753,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_015_003.mp3",
+      "text": "مَقْرَبَةٍ",
+      "translation": "dekat/kerabat",
+      "transliteration": "maqrabatin"
+    },
+    {
+      "id": 17754,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(kepada) anak yatim yang ada hubungan kerabat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 69270,
+    "timestamp_to": 72930,
+    "duration": 3660,
+    "segments": [
+      [
+        1,
+        69195,
+        70855
+      ],
+      [
+        2,
+        70855,
+        71325
+      ],
+      [
+        3,
+        71325,
+        72790
+      ]
+    ]
+  }
+}

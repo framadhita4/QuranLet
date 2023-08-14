@@ -1,0 +1,99 @@
+{
+  "id": 4454,
+  "chapter_id": 44,
+  "verse_key": "44:40",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 434,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 41137,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_040_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 41138,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_040_002.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 41139,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_040_003.mp3",
+      "text": "ٱلْفَصْلِ",
+      "translation": "keputusan",
+      "transliteration": "l-faṣli"
+    },
+    {
+      "id": 41140,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_040_004.mp3",
+      "text": "مِيقَـٰتُهُمْ",
+      "translation": "waktu mereka",
+      "transliteration": "mīqātuhum"
+    },
+    {
+      "id": 41141,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_040_005.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 41142,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya hari keputusan (hari kiamat) itu adalah waktu yang dijanjikan bagi mereka semuanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 406560,
+    "timestamp_to": 414810,
+    "duration": 8260,
+    "segments": [
+      [
+        1,
+        406515,
+        407925
+      ],
+      [
+        2,
+        407925,
+        408485
+      ],
+      [
+        3,
+        408485,
+        409425
+      ],
+      [
+        4,
+        409425,
+        410885
+      ],
+      [
+        5,
+        410885,
+        414730
+      ]
+    ]
+  }
+}

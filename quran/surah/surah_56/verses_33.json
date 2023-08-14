@@ -1,0 +1,86 @@
+{
+  "id": 5012,
+  "chapter_id": 56,
+  "verse_key": "56:33",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 36066,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_033_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 36067,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_033_002.mp3",
+      "text": "مَقْطُوعَةٍۢ",
+      "translation": "terputus",
+      "transliteration": "maqṭūʿatin"
+    },
+    {
+      "id": 36068,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_033_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 36069,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_033_004.mp3",
+      "text": "مَمْنُوعَةٍۢ",
+      "translation": "tercegah/terlarang",
+      "transliteration": "mamnūʿatin"
+    },
+    {
+      "id": 36070,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang tidak berhenti (buahnya) dan tidak terlarang mengambilnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 205470,
+    "timestamp_to": 210690,
+    "duration": 5230,
+    "segments": [
+      [
+        1,
+        205425,
+        205955
+      ],
+      [
+        2,
+        205955,
+        208315
+      ],
+      [
+        3,
+        208315,
+        208965
+      ],
+      [
+        4,
+        208965,
+        210590
+      ]
+    ]
+  }
+}

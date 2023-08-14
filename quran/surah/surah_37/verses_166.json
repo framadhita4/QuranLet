@@ -1,0 +1,73 @@
+{
+  "id": 3954,
+  "chapter_id": 37,
+  "verse_key": "37:166",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82489,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_166_001.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 82490,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_166_002.mp3",
+      "text": "لَنَحْنُ",
+      "translation": "benar-benar kami",
+      "transliteration": "lanaḥnu"
+    },
+    {
+      "id": 82491,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_166_003.mp3",
+      "text": "ٱلْمُسَبِّحُونَ",
+      "translation": "orang-orang yang bertasbih",
+      "transliteration": "l-musabiḥūna"
+    },
+    {
+      "id": 82492,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦٦",
+      "translation": "(166)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya kami benar-benar bertasbih (kepada Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1333780,
+    "timestamp_to": 1340150,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        1333715,
+        1335615
+      ],
+      [
+        2,
+        1335615,
+        1336355
+      ],
+      [
+        3,
+        1336355,
+        1340020
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3749,
+  "chapter_id": 36,
+  "verse_key": "36:44",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 443,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا رَحْمَةً مِّنَّا وَمَتَـٰعًا إِلَىٰ حِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 44713,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_044_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 44714,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_044_002.mp3",
+      "text": "رَحْمَةًۭ",
+      "translation": "rahmat",
+      "transliteration": "raḥmatan"
+    },
+    {
+      "id": 44715,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_044_003.mp3",
+      "text": "مِّنَّا",
+      "translation": "dari Kami",
+      "transliteration": "minnā"
+    },
+    {
+      "id": 44716,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_044_004.mp3",
+      "text": "وَمَتَـٰعًا",
+      "translation": "dan kesenangan hidup",
+      "transliteration": "wamatāʿan"
+    },
+    {
+      "id": 44717,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_044_005.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 44718,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_044_006.mp3",
+      "text": "حِينٍۢ",
+      "translation": "suatu waktu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 44719,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi (Kami selamatkan mereka) karena rahmat yang besar dari Kami dan untuk memberikan kesenangan hidup sampai kepada suatu ketika.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 538910,
+    "timestamp_to": 547690,
+    "duration": 8780,
+    "segments": [
+      [
+        1,
+        538815,
+        539645
+      ],
+      [
+        2,
+        539645,
+        540945
+      ],
+      [
+        3,
+        540945,
+        543025
+      ],
+      [
+        4,
+        543025,
+        544285
+      ],
+      [
+        5,
+        544285,
+        544865
+      ],
+      [
+        6,
+        544865,
+        547530
+      ]
+    ]
+  }
+}

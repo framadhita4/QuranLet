@@ -1,0 +1,73 @@
+{
+  "id": 5573,
+  "chapter_id": 75,
+  "verse_key": "75:22",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 24917,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_022_001.mp3",
+      "text": "وُجُوهٌۭ",
+      "translation": "wajah-wajah",
+      "transliteration": "wujūhun"
+    },
+    {
+      "id": 24918,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_022_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 24919,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_022_003.mp3",
+      "text": "نَّاضِرَةٌ",
+      "translation": "berseri-seri",
+      "transliteration": "nāḍiratun"
+    },
+    {
+      "id": 24920,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Wajah-wajah (orang-orang mukmin) pada hari itu berseri-seri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 104150,
+    "timestamp_to": 108960,
+    "duration": 4810,
+    "segments": [
+      [
+        1,
+        104085,
+        104925
+      ],
+      [
+        2,
+        104925,
+        105825
+      ],
+      [
+        3,
+        105825,
+        108820
+      ]
+    ]
+  }
+}

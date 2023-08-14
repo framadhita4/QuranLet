@@ -1,0 +1,73 @@
+{
+  "id": 4693,
+  "chapter_id": 51,
+  "verse_key": "51:18",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 20357,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_018_001.mp3",
+      "text": "وَبِٱلْأَسْحَارِ",
+      "translation": "dan di waktu sahur",
+      "transliteration": "wabil-asḥāri"
+    },
+    {
+      "id": 20358,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_018_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 20359,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_018_003.mp3",
+      "text": "يَسْتَغْفِرُونَ",
+      "translation": "mereka mohon ampun",
+      "transliteration": "yastaghfirūna"
+    },
+    {
+      "id": 20360,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di akhir-akhir malam mereka memohon ampun (kepada Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 104300,
+    "timestamp_to": 110650,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        104235,
+        106075
+      ],
+      [
+        2,
+        106075,
+        106445
+      ],
+      [
+        3,
+        106445,
+        110520
+      ]
+    ]
+  }
+}

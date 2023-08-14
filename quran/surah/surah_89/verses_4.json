@@ -1,0 +1,73 @@
+{
+  "id": 5997,
+  "chapter_id": 89,
+  "verse_key": "89:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّيْلِ إِذَا يَسْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 3817,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_004_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "dan malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 3818,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_004_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 3819,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_004_003.mp3",
+      "text": "يَسْرِ",
+      "translation": "berlalu",
+      "transliteration": "yasri"
+    },
+    {
+      "id": 3820,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan malam bila berlalu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6270,
+    "timestamp_to": 9090,
+    "duration": 2820,
+    "segments": [
+      [
+        1,
+        6185,
+        7275
+      ],
+      [
+        2,
+        7275,
+        7925
+      ],
+      [
+        3,
+        7925,
+        8930
+      ]
+    ]
+  }
+}

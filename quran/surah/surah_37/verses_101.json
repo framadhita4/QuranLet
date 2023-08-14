@@ -1,0 +1,73 @@
+{
+  "id": 3889,
+  "chapter_id": 37,
+  "verse_key": "37:101",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 71751,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_101_001.mp3",
+      "text": "فَبَشَّرْنَـٰهُ",
+      "translation": "maka Kami beri kabar gembira kepadanya",
+      "transliteration": "fabasharnāhu"
+    },
+    {
+      "id": 71752,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_101_002.mp3",
+      "text": "بِغُلَـٰمٍ",
+      "translation": "dengan seorang anak",
+      "transliteration": "bighulāmin"
+    },
+    {
+      "id": 71753,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_101_003.mp3",
+      "text": "حَلِيمٍۢ",
+      "translation": "penyantun/berbudi",
+      "transliteration": "ḥalīmin"
+    },
+    {
+      "id": 71754,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠١",
+      "translation": "(101)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami beri dia kabar gembira dengan seorang anak yang amat sabar <sup foot_note_id=\"1283\">1</sup> .",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 815160,
+    "timestamp_to": 821060,
+    "duration": 5900,
+    "segments": [
+      [
+        1,
+        815095,
+        816805
+      ],
+      [
+        2,
+        816805,
+        817995
+      ],
+      [
+        3,
+        817995,
+        820970
+      ]
+    ]
+  }
+}

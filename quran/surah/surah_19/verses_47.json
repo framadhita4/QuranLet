@@ -1,0 +1,164 @@
+{
+  "id": 2297,
+  "chapter_id": 19,
+  "verse_key": "19:47",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 266,
+  "manzil_number": 4,
+  "page_number": 308,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 46475,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_001.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 46476,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_002.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "semoga keselamatan",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 46477,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_003.mp3",
+      "text": "عَلَيْكَ ۖ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 46479,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_005.mp3",
+      "text": "سَأَسْتَغْفِرُ",
+      "translation": "aku akan memohon ampunan",
+      "transliteration": "sa-astaghfiru"
+    },
+    {
+      "id": 46480,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_006.mp3",
+      "text": "لَكَ",
+      "translation": "untuk kamu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 46481,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_007.mp3",
+      "text": "رَبِّىٓ ۖ",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 46483,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_009.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 46484,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_010.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 46485,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_011.mp3",
+      "text": "بِى",
+      "translation": "kepadaku",
+      "transliteration": "bī"
+    },
+    {
+      "id": 46486,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_047_012.mp3",
+      "text": "حَفِيًّۭا",
+      "translation": "sangat baik",
+      "transliteration": "ḥafiyyan"
+    },
+    {
+      "id": 46487,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Ibrāhīm, \"Semoga keselamatan dilimpahkan kepadamu, aku akan meminta ampun bagimu kepada Tuhan-ku.  Sesungguhnya Dia sangat baik kepadaku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 638480,
+    "timestamp_to": 650990,
+    "duration": 12510,
+    "segments": [
+      [
+        1,
+        638105,
+        638855
+      ],
+      [
+        2,
+        638855,
+        639995
+      ],
+      [
+        3,
+        639995,
+        641075
+      ],
+      [
+        4,
+        641075,
+        642775
+      ],
+      [
+        5,
+        642775,
+        643185
+      ],
+      [
+        6,
+        643185,
+        645965
+      ],
+      [
+        7,
+        645965,
+        647575
+      ],
+      [
+        8,
+        647575,
+        648215
+      ],
+      [
+        9,
+        648215,
+        648815
+      ],
+      [
+        10,
+        648815,
+        650560
+      ]
+    ]
+  }
+}

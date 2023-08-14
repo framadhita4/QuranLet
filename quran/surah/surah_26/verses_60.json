@@ -1,0 +1,60 @@
+{
+  "id": 2992,
+  "chapter_id": 26,
+  "verse_key": "26:60",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "فَأَتْبَعُوهُم مُّشْرِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 54554,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_060_001.mp3",
+      "text": "فَأَتْبَعُوهُم",
+      "translation": "maka mereka dapat menyusul (Bani Israil)",
+      "transliteration": "fa-atbaʿūhum"
+    },
+    {
+      "id": 54555,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_060_002.mp3",
+      "text": "مُّشْرِقِينَ",
+      "translation": "diwaktu matahari terbit",
+      "transliteration": "mush'riqīna"
+    },
+    {
+      "id": 54556,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Firʻawn  dan bala tentaranya dapat menyusuli mereka pada waktu matahari terbit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 608680,
+    "timestamp_to": 614010,
+    "duration": 5330,
+    "segments": [
+      [
+        1,
+        608615,
+        610845
+      ],
+      [
+        2,
+        610845,
+        613890
+      ]
+    ]
+  }
+}

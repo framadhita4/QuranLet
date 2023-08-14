@@ -1,0 +1,125 @@
+{
+  "id": 4306,
+  "chapter_id": 42,
+  "verse_key": "42:34",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "ruku_number": 424,
+  "manzil_number": 6,
+  "page_number": 487,
+  "juz_number": 25,
+  "text_uthmani": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3",
+  "words": [
+    {
+      "id": 36150,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 36151,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_002.mp3",
+      "text": "يُوبِقْهُنَّ",
+      "translation": "Dia membinasakannya",
+      "transliteration": "yūbiq'hunna"
+    },
+    {
+      "id": 36152,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_003.mp3",
+      "text": "بِمَا",
+      "translation": "dengan sebab",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 36153,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_004.mp3",
+      "text": "كَسَبُوا۟",
+      "translation": "perbuatan mereka",
+      "transliteration": "kasabū"
+    },
+    {
+      "id": 36154,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_005.mp3",
+      "text": "وَيَعْفُ",
+      "translation": "dan Dia memberi maaf",
+      "transliteration": "wayaʿfu"
+    },
+    {
+      "id": 36155,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_006.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 36156,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_034_007.mp3",
+      "text": "كَثِيرٍۢ",
+      "translation": "kebanyakan",
+      "transliteration": "kathīrin"
+    },
+    {
+      "id": 36157,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau kapal-kapal itu dibinasakan-Nya karena perbuatan mereka atau Dia memberi maaf sebagian besar (dari mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 737650,
+    "timestamp_to": 746770,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        737625,
+        738105
+      ],
+      [
+        2,
+        738105,
+        740375
+      ],
+      [
+        3,
+        740375,
+        740965
+      ],
+      [
+        4,
+        740965,
+        741975
+      ],
+      [
+        5,
+        741975,
+        742775
+      ],
+      [
+        6,
+        742775,
+        743805
+      ],
+      [
+        7,
+        743805,
+        746690
+      ]
+    ]
+  }
+}

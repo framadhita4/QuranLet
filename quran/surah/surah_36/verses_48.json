@@ -1,0 +1,125 @@
+{
+  "id": 3753,
+  "chapter_id": 36,
+  "verse_key": "36:48",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 443,
+  "juz_number": 23,
+  "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 47051,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_001.mp3",
+      "text": "وَيَقُولُونَ",
+      "translation": "dan mereka berkata",
+      "transliteration": "wayaqūlūna"
+    },
+    {
+      "id": 47052,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_002.mp3",
+      "text": "مَتَىٰ",
+      "translation": "bilakah",
+      "transliteration": "matā"
+    },
+    {
+      "id": 47053,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 47054,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_004.mp3",
+      "text": "ٱلْوَعْدُ",
+      "translation": "janji",
+      "transliteration": "l-waʿdu"
+    },
+    {
+      "id": 47055,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_005.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 47056,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 47057,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_048_007.mp3",
+      "text": "صَـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "ṣādiqīna"
+    },
+    {
+      "id": 47058,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka berkata, \"Bilakah (terjadinya) janji ini (hari berbangkit) jika kamu adalah orang-orang yang benar?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 602650,
+    "timestamp_to": 612520,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        602625,
+        604065
+      ],
+      [
+        2,
+        604065,
+        604795
+      ],
+      [
+        3,
+        604795,
+        605355
+      ],
+      [
+        4,
+        605355,
+        606235
+      ],
+      [
+        5,
+        606235,
+        607345
+      ],
+      [
+        6,
+        607345,
+        608805
+      ],
+      [
+        7,
+        608805,
+        612430
+      ]
+    ]
+  }
+}

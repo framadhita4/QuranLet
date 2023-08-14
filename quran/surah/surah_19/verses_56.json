@@ -1,0 +1,138 @@
+{
+  "id": 2306,
+  "chapter_id": 19,
+  "verse_key": "19:56",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "page_number": 309,
+  "juz_number": 16,
+  "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 52367,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_001.mp3",
+      "text": "وَٱذْكُرْ",
+      "translation": "dan ingatlah",
+      "transliteration": "wa-udh'kur"
+    },
+    {
+      "id": 52368,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_002.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 52369,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_003.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 52370,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_004.mp3",
+      "text": "إِدْرِيسَ ۚ",
+      "translation": "Idris",
+      "transliteration": "id'rīsa"
+    },
+    {
+      "id": 52372,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_006.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 52373,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_007.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 52374,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_008.mp3",
+      "text": "صِدِّيقًۭا",
+      "translation": "sangat benar",
+      "transliteration": "ṣiddīqan"
+    },
+    {
+      "id": 52375,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_056_009.mp3",
+      "text": "نَّبِيًّۭا",
+      "translation": "seorang nabi",
+      "transliteration": "nabiyyan"
+    },
+    {
+      "id": 52376,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ceritakanlah (hai Muhammad kepada mereka, kisah) Idrīs (yang tersebut) di dalam Al-Qur`ān.  Sesungguhnya ia adalah seorang yang sangat membenarkan dan seorang nabi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 759090,
+    "timestamp_to": 770270,
+    "duration": 11180,
+    "segments": [
+      [
+        1,
+        758745,
+        759675
+      ],
+      [
+        2,
+        759675,
+        759885
+      ],
+      [
+        3,
+        759885,
+        761075
+      ],
+      [
+        4,
+        761075,
+        763735
+      ],
+      [
+        5,
+        763735,
+        765605
+      ],
+      [
+        6,
+        765605,
+        766285
+      ],
+      [
+        7,
+        766285,
+        767665
+      ],
+      [
+        8,
+        767665,
+        769510
+      ]
+    ]
+  }
+}

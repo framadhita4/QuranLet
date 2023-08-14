@@ -1,0 +1,73 @@
+{
+  "id": 5889,
+  "chapter_id": 84,
+  "verse_key": "84:5",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 5488,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_005_001.mp3",
+      "text": "وَأَذِنَتْ",
+      "translation": "dan ia patuh",
+      "transliteration": "wa-adhinat"
+    },
+    {
+      "id": 5489,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_005_002.mp3",
+      "text": "لِرَبِّهَا",
+      "translation": "kepada Tuhannya",
+      "transliteration": "lirabbihā"
+    },
+    {
+      "id": 5490,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_005_003.mp3",
+      "text": "وَحُقَّتْ",
+      "translation": "dan ia semestinya",
+      "transliteration": "waḥuqqat"
+    },
+    {
+      "id": 5491,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan patuh kepada Tuhan-nya, dan sudah semestinya bumi itu patuh, (pada waktu itu manusia akan mengetahui akibat perbuatannya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16030,
+    "timestamp_to": 19900,
+    "duration": 3870,
+    "segments": [
+      [
+        1,
+        15975,
+        17015
+      ],
+      [
+        2,
+        17015,
+        18195
+      ],
+      [
+        3,
+        18195,
+        19780
+      ]
+    ]
+  }
+}

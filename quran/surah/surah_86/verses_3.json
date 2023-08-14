@@ -1,0 +1,60 @@
+{
+  "id": 5934,
+  "chapter_id": 86,
+  "verse_key": "86:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 2882,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_003_001.mp3",
+      "text": "ٱلنَّجْمُ",
+      "translation": "bintang",
+      "transliteration": "al-najmu"
+    },
+    {
+      "id": 2883,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_003_002.mp3",
+      "text": "ٱلثَّاقِبُ",
+      "translation": "cemerlang/menembus",
+      "transliteration": "l-thāqibu"
+    },
+    {
+      "id": 2884,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) bintang yang cahayanya menembus,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10340,
+    "timestamp_to": 14020,
+    "duration": 3680,
+    "segments": [
+      [
+        1,
+        10275,
+        12235
+      ],
+      [
+        2,
+        12235,
+        13850
+      ]
+    ]
+  }
+}

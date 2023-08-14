@@ -1,0 +1,125 @@
+{
+  "id": 60,
+  "chapter_id": 2,
+  "verse_key": "2:53",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 7,
+  "manzil_number": 1,
+  "page_number": 8,
+  "juz_number": 1,
+  "text_uthmani": "وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 50897,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 50898,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_002.mp3",
+      "text": "ءَاتَيْنَا",
+      "translation": "Kami datangkan",
+      "transliteration": "ātaynā"
+    },
+    {
+      "id": 50899,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_003.mp3",
+      "text": "مُوسَى",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 50900,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_004.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "Al Kitab (Taurat)",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 50901,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_005.mp3",
+      "text": "وَٱلْفُرْقَانَ",
+      "translation": "dan Furqan",
+      "transliteration": "wal-fur'qāna"
+    },
+    {
+      "id": 50902,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_006.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 50903,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_053_007.mp3",
+      "text": "تَهْتَدُونَ",
+      "translation": "kalian mendapat petunjuk",
+      "transliteration": "tahtadūna"
+    },
+    {
+      "id": 50904,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah), ketika Kami berikan kepada Musa Alkitab (Taurat) dan keterangan yang membedakan antara yang benar dan yang salah agar kamu mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 949410,
+    "timestamp_to": 958470,
+    "duration": 9070,
+    "segments": [
+      [
+        1,
+        949345,
+        950025
+      ],
+      [
+        2,
+        950025,
+        951155
+      ],
+      [
+        3,
+        951155,
+        951735
+      ],
+      [
+        4,
+        951735,
+        952775
+      ],
+      [
+        5,
+        952775,
+        953985
+      ],
+      [
+        6,
+        953985,
+        955285
+      ],
+      [
+        7,
+        955285,
+        958340
+      ]
+    ]
+  }
+}

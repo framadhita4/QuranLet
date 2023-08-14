@@ -1,0 +1,151 @@
+{
+  "id": 1854,
+  "chapter_id": 15,
+  "verse_key": "15:52",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 50201,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 50202,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_002.mp3",
+      "text": "دَخَلُوا۟",
+      "translation": "mereka masuk",
+      "transliteration": "dakhalū"
+    },
+    {
+      "id": 50203,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_003.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya/ketempatnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 50204,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_004.mp3",
+      "text": "فَقَالُوا۟",
+      "translation": "lalu mereka mengucapkan",
+      "transliteration": "faqālū"
+    },
+    {
+      "id": 50205,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_005.mp3",
+      "text": "سَلَـٰمًۭا",
+      "translation": "salam",
+      "transliteration": "salāman"
+    },
+    {
+      "id": 50206,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_006.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 50207,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_007.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 50208,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_008.mp3",
+      "text": "مِنكُمْ",
+      "translation": "dari kamu/kepadamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 50209,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_052_009.mp3",
+      "text": "وَجِلُونَ",
+      "translation": "khawatir/takut",
+      "transliteration": "wajilūna"
+    },
+    {
+      "id": 50210,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketika mereka masuk ke tempatnya, lalu mereka mengucapkan,  \"Salām\".  Berkata  Ibrāhīm, \"Sesungguhnya kami merasa takut kepadamu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 507230,
+    "timestamp_to": 518460,
+    "duration": 11230,
+    "segments": [
+      [
+        1,
+        507205,
+        507675
+      ],
+      [
+        2,
+        507675,
+        508505
+      ],
+      [
+        3,
+        508505,
+        509375
+      ],
+      [
+        4,
+        509375,
+        510465
+      ],
+      [
+        5,
+        510465,
+        512365
+      ],
+      [
+        6,
+        512365,
+        512945
+      ],
+      [
+        7,
+        512945,
+        514295
+      ],
+      [
+        8,
+        514295,
+        515715
+      ],
+      [
+        9,
+        515715,
+        518380
+      ]
+    ]
+  }
+}

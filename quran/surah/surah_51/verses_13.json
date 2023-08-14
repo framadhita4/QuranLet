@@ -1,0 +1,99 @@
+{
+  "id": 4688,
+  "chapter_id": 51,
+  "verse_key": "51:13",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 14907,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_013_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 14908,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_013_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 14909,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_013_003.mp3",
+      "text": "عَلَى",
+      "translation": "di atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 14910,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_013_004.mp3",
+      "text": "ٱلنَّارِ",
+      "translation": "neraka",
+      "transliteration": "l-nāri"
+    },
+    {
+      "id": 14911,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_013_005.mp3",
+      "text": "يُفْتَنُونَ",
+      "translation": "mereka disiksa",
+      "transliteration": "yuf'tanūna"
+    },
+    {
+      "id": 14912,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Hari pembalasan itu ialah) pada hari ketika mereka diazab di atas api neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55980,
+    "timestamp_to": 62480,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        55915,
+        56655
+      ],
+      [
+        2,
+        56655,
+        57025
+      ],
+      [
+        3,
+        57025,
+        57455
+      ],
+      [
+        4,
+        57455,
+        59305
+      ],
+      [
+        5,
+        59305,
+        62350
+      ]
+    ]
+  }
+}

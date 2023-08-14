@@ -1,0 +1,86 @@
+{
+  "id": 3896,
+  "chapter_id": 37,
+  "verse_key": "37:108",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 73688,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_108_001.mp3",
+      "text": "وَتَرَكْنَا",
+      "translation": "dan Kami tinggalkan",
+      "transliteration": "wataraknā"
+    },
+    {
+      "id": 73689,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_108_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya (Ibrahim)",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 73690,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_108_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 73691,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_108_004.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang yang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 73692,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠٨",
+      "translation": "(108)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami abadikan untuk Ibrāhīm itu (pujian yang baik) di kalangan orang-orang yang datang kemudian,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 899910,
+    "timestamp_to": 906070,
+    "duration": 6170,
+    "segments": [
+      [
+        1,
+        899845,
+        901175
+      ],
+      [
+        2,
+        901175,
+        902035
+      ],
+      [
+        3,
+        902035,
+        902285
+      ],
+      [
+        4,
+        902285,
+        905940
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4464,
+  "chapter_id": 44,
+  "verse_key": "44:50",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 48457,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_050_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 48458,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_050_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 48459,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_050_003.mp3",
+      "text": "مَا",
+      "translation": "apa (azab)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 48460,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_050_004.mp3",
+      "text": "كُنتُم",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 48461,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_050_005.mp3",
+      "text": "بِهِۦ",
+      "translation": "padanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 48462,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_050_006.mp3",
+      "text": "تَمْتَرُونَ",
+      "translation": "kamu meragukan",
+      "transliteration": "tamtarūna"
+    },
+    {
+      "id": 48463,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ini adalah azab yang dahulu selalu kamu meragu-ragukannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 485610,
+    "timestamp_to": 494750,
+    "duration": 9140,
+    "segments": [
+      [
+        1,
+        485585,
+        486845
+      ],
+      [
+        2,
+        486845,
+        487865
+      ],
+      [
+        3,
+        487865,
+        488265
+      ],
+      [
+        4,
+        488265,
+        490725
+      ],
+      [
+        5,
+        490725,
+        491385
+      ],
+      [
+        6,
+        491385,
+        494680
+      ]
+    ]
+  }
+}

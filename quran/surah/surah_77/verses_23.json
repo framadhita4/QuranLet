@@ -1,0 +1,73 @@
+{
+  "id": 5645,
+  "chapter_id": 77,
+  "verse_key": "77:23",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 26027,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_023_001.mp3",
+      "text": "فَقَدَرْنَا",
+      "translation": "lalu Kami tentukan",
+      "transliteration": "faqadarnā"
+    },
+    {
+      "id": 26028,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_023_002.mp3",
+      "text": "فَنِعْمَ",
+      "translation": "maka sebaik-baik",
+      "transliteration": "faniʿ'ma"
+    },
+    {
+      "id": 26029,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_023_003.mp3",
+      "text": "ٱلْقَـٰدِرُونَ",
+      "translation": "yang menentukan",
+      "transliteration": "l-qādirūna"
+    },
+    {
+      "id": 26030,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu Kami tentukan (bentuknya), maka Kami-lah sebaik-baik yang menentukan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 91580,
+    "timestamp_to": 96490,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        91465,
+        92595
+      ],
+      [
+        2,
+        92595,
+        93295
+      ],
+      [
+        3,
+        93295,
+        96300
+      ]
+    ]
+  }
+}

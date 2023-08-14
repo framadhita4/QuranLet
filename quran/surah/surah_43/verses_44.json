@@ -1,0 +1,112 @@
+{
+  "id": 4369,
+  "chapter_id": 43,
+  "verse_key": "43:44",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 44273,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 44274,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_002.mp3",
+      "text": "لَذِكْرٌۭ",
+      "translation": "benar-benar pengajaran",
+      "transliteration": "ladhik'run"
+    },
+    {
+      "id": 44275,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_003.mp3",
+      "text": "لَّكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 44276,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_004.mp3",
+      "text": "وَلِقَوْمِكَ ۖ",
+      "translation": "dan bagi kaummu",
+      "transliteration": "waliqawmika"
+    },
+    {
+      "id": 44278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_006.mp3",
+      "text": "وَسَوْفَ",
+      "translation": "dan kelak",
+      "transliteration": "wasawfa"
+    },
+    {
+      "id": 44279,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_007.mp3",
+      "text": "تُسْـَٔلُونَ",
+      "translation": "kamu akan ditanya",
+      "transliteration": "tus'alūna"
+    },
+    {
+      "id": 44280,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Al-Qur`ān itu benar-benar adalah suatu kemuliaan besar bagimu dan bagi kaummu dan kelak kamu akan diminta pertanggungan jawab.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 629200,
+    "timestamp_to": 638400,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        629175,
+        631145
+      ],
+      [
+        2,
+        631145,
+        632085
+      ],
+      [
+        3,
+        632085,
+        632695
+      ],
+      [
+        4,
+        632695,
+        634445
+      ],
+      [
+        5,
+        634445,
+        635325
+      ],
+      [
+        6,
+        635325,
+        638350
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6084,
+  "chapter_id": 93,
+  "verse_key": "93:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 4814,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_005_001.mp3",
+      "text": "وَلَسَوْفَ",
+      "translation": "dan sungguh kelak",
+      "transliteration": "walasawfa"
+    },
+    {
+      "id": 4815,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_005_002.mp3",
+      "text": "يُعْطِيكَ",
+      "translation": "memberikan kepadamu",
+      "transliteration": "yuʿ'ṭīka"
+    },
+    {
+      "id": 4816,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_005_003.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 4817,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_005_004.mp3",
+      "text": "فَتَرْضَىٰٓ",
+      "translation": "maka kamu jadi puas",
+      "transliteration": "fatarḍā"
+    },
+    {
+      "id": 4818,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kelak Tuhan-mu pasti memberikan karunia-Nya kepadamu, lalu (hati) kamu menjadi puas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14460,
+    "timestamp_to": 19480,
+    "duration": 5020,
+    "segments": [
+      [
+        1,
+        14005,
+        15145
+      ],
+      [
+        2,
+        15145,
+        16275
+      ],
+      [
+        3,
+        16275,
+        17175
+      ],
+      [
+        4,
+        17175,
+        18480
+      ]
+    ]
+  }
+}

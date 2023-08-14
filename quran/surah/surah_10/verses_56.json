@@ -1,0 +1,99 @@
+{
+  "id": 1420,
+  "chapter_id": 10,
+  "verse_key": "10:56",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "ruku_number": 177,
+  "manzil_number": 3,
+  "page_number": 215,
+  "juz_number": 11,
+  "text_uthmani": "هُوَ يُحْىِۦ وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 52550,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_056_001.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 52551,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_056_002.mp3",
+      "text": "يُحْىِۦ",
+      "translation": "menghidupkan",
+      "transliteration": "yuḥ'yī"
+    },
+    {
+      "id": 52552,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_056_003.mp3",
+      "text": "وَيُمِيتُ",
+      "translation": "dan mematikan",
+      "transliteration": "wayumītu"
+    },
+    {
+      "id": 52553,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_056_004.mp3",
+      "text": "وَإِلَيْهِ",
+      "translation": "dan kepadaNya",
+      "transliteration": "wa-ilayhi"
+    },
+    {
+      "id": 52554,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_056_005.mp3",
+      "text": "تُرْجَعُونَ",
+      "translation": "kalian dikembalikan",
+      "transliteration": "tur'jaʿūna"
+    },
+    {
+      "id": 52555,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah yang menghidupkan dan mematikan dan hanya kepada-Nya-lah kamu dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1492160,
+    "timestamp_to": 1500180,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1492105,
+        1492475
+      ],
+      [
+        2,
+        1492475,
+        1493465
+      ],
+      [
+        3,
+        1493465,
+        1494715
+      ],
+      [
+        4,
+        1494715,
+        1495875
+      ],
+      [
+        5,
+        1495875,
+        1500080
+      ]
+    ]
+  }
+}

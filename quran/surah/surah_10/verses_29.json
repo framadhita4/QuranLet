@@ -1,0 +1,164 @@
+{
+  "id": 1393,
+  "chapter_id": 10,
+  "verse_key": "10:29",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "ruku_number": 174,
+  "manzil_number": 3,
+  "page_number": 212,
+  "juz_number": 11,
+  "text_uthmani": "فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَـٰفِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 32015,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_001.mp3",
+      "text": "فَكَفَىٰ",
+      "translation": "maka cukuplah",
+      "transliteration": "fakafā"
+    },
+    {
+      "id": 32016,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_002.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "dengan Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 32017,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_003.mp3",
+      "text": "شَهِيدًۢا",
+      "translation": "menjadi saksi",
+      "transliteration": "shahīdan"
+    },
+    {
+      "id": 32018,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_004.mp3",
+      "text": "بَيْنَنَا",
+      "translation": "antara kami",
+      "transliteration": "baynanā"
+    },
+    {
+      "id": 32019,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_005.mp3",
+      "text": "وَبَيْنَكُمْ",
+      "translation": "dan antara kamu",
+      "transliteration": "wabaynakum"
+    },
+    {
+      "id": 32020,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_006.mp3",
+      "text": "إِن",
+      "translation": "bahwa",
+      "transliteration": "in"
+    },
+    {
+      "id": 32021,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_007.mp3",
+      "text": "كُنَّا",
+      "translation": "kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 32022,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_008.mp3",
+      "text": "عَنْ",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 32023,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_009.mp3",
+      "text": "عِبَادَتِكُمْ",
+      "translation": "penyembahan kamu",
+      "transliteration": "ʿibādatikum"
+    },
+    {
+      "id": 32024,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_029_010.mp3",
+      "text": "لَغَـٰفِلِينَ",
+      "translation": "sungguh lalai/tidak tahu",
+      "transliteration": "laghāfilīna"
+    },
+    {
+      "id": 32025,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan cukuplah Allah menjadi saksi antara kami dengan kamu; bahwa kami tidak tahu-menahu tentang penyembahan kamu (kepada kami) <sup foot_note_id=\"688\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 897750,
+    "timestamp_to": 913790,
+    "duration": 16040,
+    "segments": [
+      [
+        1,
+        897725,
+        898755
+      ],
+      [
+        2,
+        898755,
+        899895
+      ],
+      [
+        3,
+        899895,
+        901985
+      ],
+      [
+        4,
+        901985,
+        903135
+      ],
+      [
+        5,
+        903135,
+        904545
+      ],
+      [
+        6,
+        904545,
+        905835
+      ],
+      [
+        7,
+        905835,
+        907655
+      ],
+      [
+        8,
+        907655,
+        908095
+      ],
+      [
+        9,
+        908095,
+        909735
+      ],
+      [
+        10,
+        909735,
+        913740
+      ]
+    ]
+  }
+}

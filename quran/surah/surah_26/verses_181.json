@@ -1,0 +1,112 @@
+{
+  "id": 3113,
+  "chapter_id": 26,
+  "verse_key": "26:181",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "۞ أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83914,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_181_002.mp3",
+      "text": "۞ أَوْفُوا۟",
+      "translation": "sempurnakanlah",
+      "transliteration": "awfū"
+    },
+    {
+      "id": 83915,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_181_003.mp3",
+      "text": "ٱلْكَيْلَ",
+      "translation": "takaran",
+      "transliteration": "l-kayla"
+    },
+    {
+      "id": 83916,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_181_004.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 83917,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_181_005.mp3",
+      "text": "تَكُونُوا۟",
+      "translation": "kalian menjadi",
+      "transliteration": "takūnū"
+    },
+    {
+      "id": 83918,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_181_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 83919,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_181_007.mp3",
+      "text": "ٱلْمُخْسِرِينَ",
+      "translation": "orang-orang yang merugikan",
+      "transliteration": "l-mukh'sirīna"
+    },
+    {
+      "id": 83920,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٨١",
+      "translation": "(181)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sempurnakanlah takaran dan janganlah kamu termasuk orang-orang yang merugikan",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1570160,
+    "timestamp_to": 1577550,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        1570115,
+        1570805
+      ],
+      [
+        2,
+        1570805,
+        1571775
+      ],
+      [
+        3,
+        1571775,
+        1572335
+      ],
+      [
+        4,
+        1572335,
+        1573505
+      ],
+      [
+        5,
+        1573505,
+        1573835
+      ],
+      [
+        6,
+        1573835,
+        1577470
+      ]
+    ]
+  }
+}

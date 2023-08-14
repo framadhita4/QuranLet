@@ -1,0 +1,86 @@
+{
+  "id": 5784,
+  "chapter_id": 80,
+  "verse_key": "80:26",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 29107,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_026_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 29108,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_026_002.mp3",
+      "text": "شَقَقْنَا",
+      "translation": "Kami belah",
+      "transliteration": "shaqaqnā"
+    },
+    {
+      "id": 29109,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_026_003.mp3",
+      "text": "ٱلْأَرْضَ",
+      "translation": "bumi",
+      "transliteration": "l-arḍa"
+    },
+    {
+      "id": 29110,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_026_004.mp3",
+      "text": "شَقًّۭا",
+      "translation": "belahan (sebaik-baiknya)",
+      "transliteration": "shaqqan"
+    },
+    {
+      "id": 29111,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian Kami belah bumi dengan sebaik-baiknya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 114380,
+    "timestamp_to": 119130,
+    "duration": 4760,
+    "segments": [
+      [
+        1,
+        113915,
+        115545
+      ],
+      [
+        2,
+        115545,
+        116435
+      ],
+      [
+        3,
+        116435,
+        117325
+      ],
+      [
+        4,
+        117325,
+        118650
+      ]
+    ]
+  }
+}

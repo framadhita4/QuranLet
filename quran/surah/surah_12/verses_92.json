@@ -1,0 +1,177 @@
+{
+  "id": 1688,
+  "chapter_id": 12,
+  "verse_key": "12:92",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "ruku_number": 202,
+  "manzil_number": 3,
+  "page_number": 246,
+  "juz_number": 13,
+  "text_uthmani": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 68592,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Yusuf) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 68593,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_002.mp3",
+      "text": "لَا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 68594,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_003.mp3",
+      "text": "تَثْرِيبَ",
+      "translation": "cercaan",
+      "transliteration": "tathrība"
+    },
+    {
+      "id": 68595,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_004.mp3",
+      "text": "عَلَيْكُمُ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykumu"
+    },
+    {
+      "id": 68596,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_005.mp3",
+      "text": "ٱلْيَوْمَ ۖ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 68598,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_007.mp3",
+      "text": "يَغْفِرُ",
+      "translation": "mengampuni",
+      "transliteration": "yaghfiru"
+    },
+    {
+      "id": 68599,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_008.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 68600,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_009.mp3",
+      "text": "لَكُمْ ۖ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 68602,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_011.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 68603,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_012.mp3",
+      "text": "أَرْحَمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "arḥamu"
+    },
+    {
+      "id": 68604,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_092_013.mp3",
+      "text": "ٱلرَّٰحِمِينَ",
+      "translation": "para penyayang",
+      "transliteration": "l-rāḥimīna"
+    },
+    {
+      "id": 68605,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia (Yūsuf) berkata, \"Pada hari ini tak ada cercaan terhadap kamu, mudah-mudahan Allah mengampuni (kamu) dan Dia adalah Maha Penyayang di antara para penyayang\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2099290,
+    "timestamp_to": 2112770,
+    "duration": 13480,
+    "segments": [
+      [
+        1,
+        2099265,
+        2099825
+      ],
+      [
+        2,
+        2099825,
+        2100345
+      ],
+      [
+        3,
+        2100345,
+        2101465
+      ],
+      [
+        4,
+        2101465,
+        2102595
+      ],
+      [
+        5,
+        2102595,
+        2105275
+      ],
+      [
+        6,
+        2105275,
+        2106355
+      ],
+      [
+        7,
+        2106355,
+        2107295
+      ],
+      [
+        8,
+        2107295,
+        2108035
+      ],
+      [
+        9,
+        2108035,
+        2108605
+      ],
+      [
+        10,
+        2108605,
+        2109505
+      ],
+      [
+        11,
+        2109505,
+        2112700
+      ]
+    ]
+  }
+}

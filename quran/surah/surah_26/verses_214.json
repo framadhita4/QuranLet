@@ -1,0 +1,73 @@
+{
+  "id": 3146,
+  "chapter_id": 26,
+  "verse_key": "26:214",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85753,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_214_001.mp3",
+      "text": "وَأَنذِرْ",
+      "translation": "dan berilah peringatan",
+      "transliteration": "wa-andhir"
+    },
+    {
+      "id": 85754,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_214_002.mp3",
+      "text": "عَشِيرَتَكَ",
+      "translation": "kerabat-kerabatmu",
+      "transliteration": "ʿashīrataka"
+    },
+    {
+      "id": 85755,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_214_003.mp3",
+      "text": "ٱلْأَقْرَبِينَ",
+      "translation": "yang terdekat",
+      "transliteration": "l-aqrabīna"
+    },
+    {
+      "id": 85756,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢١٤",
+      "translation": "(214)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1845790,
+    "timestamp_to": 1852710,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        1845735,
+        1847635
+      ],
+      [
+        2,
+        1847635,
+        1848855
+      ],
+      [
+        3,
+        1848855,
+        1852630
+      ]
+    ]
+  }
+}

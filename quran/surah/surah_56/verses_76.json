@@ -1,0 +1,99 @@
+{
+  "id": 5055,
+  "chapter_id": 56,
+  "verse_key": "56:76",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 62468,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_076_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "sesungguhnya ia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 62469,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_076_002.mp3",
+      "text": "لَقَسَمٌۭ",
+      "translation": "sungguh sumpah",
+      "transliteration": "laqasamun"
+    },
+    {
+      "id": 62470,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_076_003.mp3",
+      "text": "لَّوْ",
+      "translation": "jika",
+      "transliteration": "law"
+    },
+    {
+      "id": 62471,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_076_004.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 62472,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_076_005.mp3",
+      "text": "عَظِيمٌ",
+      "translation": "besar",
+      "transliteration": "ʿaẓīmun"
+    },
+    {
+      "id": 62473,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya sumpah itu adalah sumpah yang besar kalau kamu mengetahui,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 553590,
+    "timestamp_to": 562260,
+    "duration": 8670,
+    "segments": [
+      [
+        1,
+        553475,
+        555425
+      ],
+      [
+        2,
+        555425,
+        556365
+      ],
+      [
+        3,
+        556365,
+        557065
+      ],
+      [
+        4,
+        557065,
+        558385
+      ],
+      [
+        5,
+        558385,
+        562090
+      ]
+    ]
+  }
+}

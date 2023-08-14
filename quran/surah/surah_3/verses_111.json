@@ -1,0 +1,177 @@
+{
+  "id": 404,
+  "chapter_id": 3,
+  "verse_key": "3:111",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "ruku_number": 53,
+  "manzil_number": 1,
+  "page_number": 64,
+  "juz_number": 4,
+  "text_uthmani": "لَن يَضُرُّوكُمْ إِلَّآ أَذًى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 74421,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_001.mp3",
+      "text": "لَن",
+      "translation": "tidak akan",
+      "transliteration": "lan"
+    },
+    {
+      "id": 74422,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_002.mp3",
+      "text": "يَضُرُّوكُمْ",
+      "translation": "mereka memudharatkan kamu",
+      "transliteration": "yaḍurrūkum"
+    },
+    {
+      "id": 74423,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_003.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 74424,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_004.mp3",
+      "text": "أَذًۭى ۖ",
+      "translation": "gangguan/celaan",
+      "transliteration": "adhan"
+    },
+    {
+      "id": 74426,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_006.mp3",
+      "text": "وَإِن",
+      "translation": "dan sekiranya",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 74427,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_007.mp3",
+      "text": "يُقَـٰتِلُوكُمْ",
+      "translation": "mereka memerangi kamu",
+      "transliteration": "yuqātilūkum"
+    },
+    {
+      "id": 74428,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_008.mp3",
+      "text": "يُوَلُّوكُمُ",
+      "translation": "mereka berbalik",
+      "transliteration": "yuwallūkumu"
+    },
+    {
+      "id": 74429,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_009.mp3",
+      "text": "ٱلْأَدْبَارَ",
+      "translation": "ke belakang",
+      "transliteration": "l-adbāra"
+    },
+    {
+      "id": 74430,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_010.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 74431,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_011.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 74432,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_111_012.mp3",
+      "text": "يُنصَرُونَ",
+      "translation": "mereka mendapat pertolongan",
+      "transliteration": "yunṣarūna"
+    },
+    {
+      "id": 74433,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١١",
+      "translation": "(111)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka sekali-kali tidak akan dapat membuat mudarat kepada kamu, selain dari gangguan-gangguan celaan saja, dan jika mereka berperang dengan kamu, pastilah mereka berbalik melarikan diri ke belakang (kalah).  Kemudian mereka tidak mendapat pertolongan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2545460,
+    "timestamp_to": 2563640,
+    "duration": 18180,
+    "segments": [
+      [
+        1,
+        2545415,
+        2545675
+      ],
+      [
+        3,
+        2545675,
+        2546885
+      ],
+      [
+        3,
+        2546886,
+        2550635
+      ],
+      [
+        4,
+        2550635,
+        2551475
+      ],
+      [
+        5,
+        2551475,
+        2552865
+      ],
+      [
+        6,
+        2552865,
+        2554685
+      ],
+      [
+        7,
+        2554685,
+        2556265
+      ],
+      [
+        8,
+        2556265,
+        2557655
+      ],
+      [
+        9,
+        2557655,
+        2559305
+      ],
+      [
+        10,
+        2559305,
+        2559865
+      ],
+      [
+        11,
+        2559865,
+        2563570
+      ]
+    ]
+  }
+}

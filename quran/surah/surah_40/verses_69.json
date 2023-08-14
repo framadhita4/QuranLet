@@ -1,0 +1,164 @@
+{
+  "id": 4202,
+  "chapter_id": 40,
+  "verse_key": "40:69",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 413,
+  "manzil_number": 6,
+  "page_number": 475,
+  "juz_number": 24,
+  "text_uthmani": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِ ٱللَّهِ أَنَّىٰ يُصْرَفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 59176,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidakkah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 59177,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_002.mp3",
+      "text": "تَرَ",
+      "translation": "kamu memperhatikan",
+      "transliteration": "tara"
+    },
+    {
+      "id": 59178,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_003.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 59179,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_004.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 59180,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_005.mp3",
+      "text": "يُجَـٰدِلُونَ",
+      "translation": "mereka membantah",
+      "transliteration": "yujādilūna"
+    },
+    {
+      "id": 59181,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_006.mp3",
+      "text": "فِىٓ",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 59182,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_007.mp3",
+      "text": "ءَايَـٰتِ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyāti"
+    },
+    {
+      "id": 59183,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_008.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 59184,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_009.mp3",
+      "text": "أَنَّىٰ",
+      "translation": "bagaimana",
+      "transliteration": "annā"
+    },
+    {
+      "id": 59185,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_069_010.mp3",
+      "text": "يُصْرَفُونَ",
+      "translation": "mereka dipalingkan",
+      "transliteration": "yuṣ'rafūna"
+    },
+    {
+      "id": 59186,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kamu tidak melihat kepada orang-orang yang membantah ayat-ayat Allah? Bagaimanakah mereka dapat dipalingkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1287460,
+    "timestamp_to": 1300050,
+    "duration": 12590,
+    "segments": [
+      [
+        1,
+        1287415,
+        1287995
+      ],
+      [
+        2,
+        1287995,
+        1288455
+      ],
+      [
+        3,
+        1288455,
+        1288765
+      ],
+      [
+        4,
+        1288765,
+        1289755
+      ],
+      [
+        5,
+        1289755,
+        1291155
+      ],
+      [
+        6,
+        1291155,
+        1293265
+      ],
+      [
+        7,
+        1293265,
+        1294315
+      ],
+      [
+        8,
+        1294315,
+        1295115
+      ],
+      [
+        9,
+        1295115,
+        1296945
+      ],
+      [
+        10,
+        1296945,
+        1299950
+      ]
+    ]
+  }
+}

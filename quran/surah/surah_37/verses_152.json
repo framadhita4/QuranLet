@@ -1,0 +1,101 @@
+{
+  "id": 3940,
+  "chapter_id": 37,
+  "verse_key": "37:152",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 80658,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_152_001.mp3",
+      "text": "وَلَدَ",
+      "translation": "beranak",
+      "transliteration": "walada"
+    },
+    {
+      "id": 80659,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_152_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 80660,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_152_003.mp3",
+      "text": "وَإِنَّهُمْ",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-innahum"
+    },
+    {
+      "id": 80661,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_152_004.mp3",
+      "text": "لَكَـٰذِبُونَ",
+      "translation": "benar-benar berdusta",
+      "transliteration": "lakādhibūna"
+    },
+    {
+      "id": 80662,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥٢",
+      "translation": "(152)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Allah beranak\".  Dan sesungguhnya, mereka benar-benar orang yang berdusta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1229790,
+    "timestamp_to": 1236560,
+    "duration": 19830,
+    "segments": [
+      [
+        2,
+        1229715,
+        1232055
+      ],
+      [
+        3,
+        1232055,
+        1233915
+      ],
+      [
+        2,
+        1233915,
+        1239214
+      ],
+      [
+        3,
+        1239215,
+        1242515
+      ],
+      [
+        2,
+        1242515,
+        1244265
+      ],
+      [
+        3,
+        1244265,
+        1246045
+      ],
+      [
+        4,
+        1246045,
+        1249470
+      ]
+    ]
+  }
+}

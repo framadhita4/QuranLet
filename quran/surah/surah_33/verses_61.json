@@ -1,0 +1,112 @@
+{
+  "id": 3594,
+  "chapter_id": 33,
+  "verse_key": "33:61",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "ruku_number": 370,
+  "manzil_number": 5,
+  "page_number": 426,
+  "juz_number": 22,
+  "text_uthmani": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 54785,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_061_001.mp3",
+      "text": "مَّلْعُونِينَ ۖ",
+      "translation": "mereka terkutuk",
+      "transliteration": "malʿūnīna"
+    },
+    {
+      "id": 54787,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_061_003.mp3",
+      "text": "أَيْنَمَا",
+      "translation": "dimana saja",
+      "transliteration": "aynamā"
+    },
+    {
+      "id": 54788,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_061_004.mp3",
+      "text": "ثُقِفُوٓا۟",
+      "translation": "mereka dijumpai",
+      "transliteration": "thuqifū"
+    },
+    {
+      "id": 54789,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_061_005.mp3",
+      "text": "أُخِذُوا۟",
+      "translation": "mereka ditangkap",
+      "transliteration": "ukhidhū"
+    },
+    {
+      "id": 54790,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_061_006.mp3",
+      "text": "وَقُتِّلُوا۟",
+      "translation": "dan mereka dibunuh",
+      "transliteration": "waquttilū"
+    },
+    {
+      "id": 54791,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_061_007.mp3",
+      "text": "تَقْتِيلًۭا",
+      "translation": "pembunuhan yang dahsyat",
+      "transliteration": "taqtīlan"
+    },
+    {
+      "id": 54792,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dalam keadaan terlaknat.  Di mana saja mereka dijumpai, mereka ditangkap dan dibunuh dengan sehebat-hebatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1412820,
+    "timestamp_to": 1422380,
+    "duration": 9560,
+    "segments": [
+      [
+        1,
+        1412755,
+        1415845
+      ],
+      [
+        2,
+        1415845,
+        1416775
+      ],
+      [
+        3,
+        1416775,
+        1418735
+      ],
+      [
+        4,
+        1418735,
+        1419605
+      ],
+      [
+        5,
+        1419605,
+        1420635
+      ],
+      [
+        6,
+        1420635,
+        1421940
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5914,
+  "chapter_id": 85,
+  "verse_key": "85:5",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 5492,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_005_001.mp3",
+      "text": "ٱلنَّارِ",
+      "translation": "api",
+      "transliteration": "al-nāri"
+    },
+    {
+      "id": 5493,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_005_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "mempunyai",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 5494,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_005_003.mp3",
+      "text": "ٱلْوَقُودِ",
+      "translation": "kayu bakar",
+      "transliteration": "l-waqūdi"
+    },
+    {
+      "id": 5495,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang berapi (dinyalakan dengan) kayu bakar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26450,
+    "timestamp_to": 33220,
+    "duration": 6770,
+    "segments": [
+      [
+        1,
+        26375,
+        28495
+      ],
+      [
+        2,
+        28495,
+        29135
+      ],
+      [
+        3,
+        29135,
+        33110
+      ]
+    ]
+  }
+}

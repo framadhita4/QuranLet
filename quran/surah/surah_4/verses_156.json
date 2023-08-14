@@ -1,0 +1,112 @@
+{
+  "id": 649,
+  "chapter_id": 4,
+  "verse_key": "4:156",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "ruku_number": 83,
+  "manzil_number": 1,
+  "page_number": 103,
+  "juz_number": 6,
+  "text_uthmani": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَـٰنًا عَظِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 81219,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_001.mp3",
+      "text": "وَبِكُفْرِهِمْ",
+      "translation": "dan karena kekafiran mereka",
+      "transliteration": "wabikuf'rihim"
+    },
+    {
+      "id": 81220,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_002.mp3",
+      "text": "وَقَوْلِهِمْ",
+      "translation": "dan perkataan mereka",
+      "transliteration": "waqawlihim"
+    },
+    {
+      "id": 81221,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas/terhadap",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 81222,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_004.mp3",
+      "text": "مَرْيَمَ",
+      "translation": "Maryam",
+      "transliteration": "maryama"
+    },
+    {
+      "id": 81223,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_005.mp3",
+      "text": "بُهْتَـٰنًا",
+      "translation": "kedustaan",
+      "transliteration": "buh'tānan"
+    },
+    {
+      "id": 81224,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_006.mp3",
+      "text": "عَظِيمًۭا",
+      "translation": "besar",
+      "transliteration": "ʿaẓīman"
+    },
+    {
+      "id": 81225,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٥٦",
+      "translation": "(156)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan karena kekafiran mereka (terhadap ʻIsa ) dan tuduhan mereka terhadap Maryam dengan kedustaan besar (zina),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4271840,
+    "timestamp_to": 4278680,
+    "duration": 6850,
+    "segments": [
+      [
+        1,
+        4271785,
+        4273235
+      ],
+      [
+        2,
+        4273235,
+        4274445
+      ],
+      [
+        3,
+        4274445,
+        4275155
+      ],
+      [
+        4,
+        4275155,
+        4275965
+      ],
+      [
+        5,
+        4275965,
+        4277085
+      ],
+      [
+        6,
+        4277085,
+        4278320
+      ]
+    ]
+  }
+}

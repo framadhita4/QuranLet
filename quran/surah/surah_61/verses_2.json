@@ -1,0 +1,138 @@
+{
+  "id": 5165,
+  "chapter_id": 61,
+  "verse_key": "61:2",
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "ruku_number": 486,
+  "manzil_number": 7,
+  "page_number": 551,
+  "juz_number": 28,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/61.mp3",
+  "words": [
+    {
+      "id": 1352,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 1353,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 1354,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 1355,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_004.mp3",
+      "text": "لِمَ",
+      "translation": "mengapa",
+      "transliteration": "lima"
+    },
+    {
+      "id": 1356,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_005.mp3",
+      "text": "تَقُولُونَ",
+      "translation": "kamu mengatakan",
+      "transliteration": "taqūlūna"
+    },
+    {
+      "id": 1357,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_006.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1358,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_007.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 1359,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/061_002_008.mp3",
+      "text": "تَفْعَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "tafʿalūna"
+    },
+    {
+      "id": 1360,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang yang beriman, mengapa kamu mengatakan apa yang tidak kamu perbuat?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10210,
+    "timestamp_to": 20350,
+    "duration": 10140,
+    "segments": [
+      [
+        1,
+        10165,
+        12835
+      ],
+      [
+        2,
+        12835,
+        13755
+      ],
+      [
+        3,
+        13755,
+        14815
+      ],
+      [
+        4,
+        14815,
+        15135
+      ],
+      [
+        5,
+        15135,
+        16435
+      ],
+      [
+        6,
+        16435,
+        16885
+      ],
+      [
+        7,
+        16885,
+        17135
+      ],
+      [
+        8,
+        17135,
+        20210
+      ]
+    ]
+  }
+}

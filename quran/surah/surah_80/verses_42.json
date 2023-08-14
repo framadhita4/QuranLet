@@ -1,0 +1,86 @@
+{
+  "id": 5800,
+  "chapter_id": 80,
+  "verse_key": "80:42",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 42815,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_042_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 42816,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_042_002.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 42817,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_042_003.mp3",
+      "text": "ٱلْكَفَرَةُ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kafaratu"
+    },
+    {
+      "id": 42818,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_042_004.mp3",
+      "text": "ٱلْفَجَرَةُ",
+      "translation": "durhaka",
+      "transliteration": "l-fajaratu"
+    },
+    {
+      "id": 42819,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka itulah orang-orang kafir lagi durhaka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 195490,
+    "timestamp_to": 202520,
+    "duration": 7030,
+    "segments": [
+      [
+        1,
+        195425,
+        198095
+      ],
+      [
+        2,
+        198095,
+        198525
+      ],
+      [
+        3,
+        198525,
+        199715
+      ],
+      [
+        4,
+        199715,
+        202220
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5851,
+  "chapter_id": 83,
+  "verse_key": "83:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 2853,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_003_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 2854,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_003_002.mp3",
+      "text": "كَالُوهُمْ",
+      "translation": "mereka menakar",
+      "transliteration": "kālūhum"
+    },
+    {
+      "id": 2855,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_003_003.mp3",
+      "text": "أَو",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 2856,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_003_004.mp3",
+      "text": "وَّزَنُوهُمْ",
+      "translation": "mereka menimbang",
+      "transliteration": "wazanūhum"
+    },
+    {
+      "id": 2857,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_003_005.mp3",
+      "text": "يُخْسِرُونَ",
+      "translation": "mengurangi",
+      "transliteration": "yukh'sirūna"
+    },
+    {
+      "id": 2858,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila mereka menakar atau menimbang untuk orang lain, mereka mengurangi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12800,
+    "timestamp_to": 19910,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        12725,
+        13635
+      ],
+      [
+        2,
+        13635,
+        14935
+      ],
+      [
+        3,
+        14935,
+        15225
+      ],
+      [
+        4,
+        15225,
+        16475
+      ],
+      [
+        5,
+        16475,
+        19620
+      ]
+    ]
+  }
+}

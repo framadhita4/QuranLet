@@ -1,0 +1,60 @@
+{
+  "id": 5676,
+  "chapter_id": 78,
+  "verse_key": "78:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا سَيَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 4175,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_004_001.mp3",
+      "text": "كَلَّا",
+      "translation": "jangan begitu/sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 4176,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_004_002.mp3",
+      "text": "سَيَعْلَمُونَ",
+      "translation": "kelak mereka akan mengetahui",
+      "transliteration": "sayaʿlamūna"
+    },
+    {
+      "id": 4177,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak<sup foot_note_id=\"1546\">1</sup>; kelak mereka akan mengetahui,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 17530,
+    "timestamp_to": 21610,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        17425,
+        18385
+      ],
+      [
+        2,
+        18385,
+        21400
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1064,
+  "chapter_id": 7,
+  "verse_key": "7:110",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ ۖ فَمَاذَا تَأْمُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 74032,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_001.mp3",
+      "text": "يُرِيدُ",
+      "translation": "dia bermaksud",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 74033,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 74034,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_003.mp3",
+      "text": "يُخْرِجَكُم",
+      "translation": "mengeluarkan kamu",
+      "transliteration": "yukh'rijakum"
+    },
+    {
+      "id": 74035,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 74036,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_005.mp3",
+      "text": "أَرْضِكُمْ ۖ",
+      "translation": "bumi/negerimu",
+      "transliteration": "arḍikum"
+    },
+    {
+      "id": 74038,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_007.mp3",
+      "text": "فَمَاذَا",
+      "translation": "maka apa yang",
+      "transliteration": "famādhā"
+    },
+    {
+      "id": 74039,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_110_008.mp3",
+      "text": "تَأْمُرُونَ",
+      "translation": "kamu perintahkan",
+      "transliteration": "tamurūna"
+    },
+    {
+      "id": 74040,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١٠",
+      "translation": "(110)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang bermaksud hendak mengeluarkan kamu dari negerimu\".  (Firʻawn  berkata), \"Maka apakah yang kamu anjurkan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2518750,
+    "timestamp_to": 2528940,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        2518695,
+        2519575
+      ],
+      [
+        2,
+        2519575,
+        2519905
+      ],
+      [
+        3,
+        2519905,
+        2521815
+      ],
+      [
+        4,
+        2521815,
+        2523105
+      ],
+      [
+        5,
+        2523105,
+        2524695
+      ],
+      [
+        6,
+        2524695,
+        2525705
+      ],
+      [
+        7,
+        2525705,
+        2528860
+      ]
+    ]
+  }
+}

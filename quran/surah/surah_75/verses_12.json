@@ -1,0 +1,86 @@
+{
+  "id": 5563,
+  "chapter_id": 75,
+  "verse_key": "75:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 14131,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 14132,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_002.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 14133,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_003.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 14134,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_004.mp3",
+      "text": "ٱلْمُسْتَقَرُّ",
+      "translation": "tempat menetap/kembali",
+      "transliteration": "l-mus'taqaru"
+    },
+    {
+      "id": 14135,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hanya kepada Tuhan-mu sajalah pada hari itu tempat kembali.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55560,
+    "timestamp_to": 60240,
+    "duration": 4680,
+    "segments": [
+      [
+        1,
+        55495,
+        56175
+      ],
+      [
+        2,
+        56175,
+        56945
+      ],
+      [
+        3,
+        56945,
+        58275
+      ],
+      [
+        4,
+        58275,
+        60120
+      ]
+    ]
+  }
+}

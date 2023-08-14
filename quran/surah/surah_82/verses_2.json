@@ -1,0 +1,73 @@
+{
+  "id": 5831,
+  "chapter_id": 82,
+  "verse_key": "82:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 1726,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_002_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 1727,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_002_002.mp3",
+      "text": "ٱلْكَوَاكِبُ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-kawākibu"
+    },
+    {
+      "id": 1728,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_002_003.mp3",
+      "text": "ٱنتَثَرَتْ",
+      "translation": "jatuh bertaburan",
+      "transliteration": "intatharat"
+    },
+    {
+      "id": 1729,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila bintang-bintang jatuh berserakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4860,
+    "timestamp_to": 9510,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        4825,
+        5535
+      ],
+      [
+        2,
+        5535,
+        6805
+      ],
+      [
+        3,
+        6805,
+        9410
+      ]
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 3253,
+  "chapter_id": 28,
+  "verse_key": "28:1",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "ruku_number": 334,
+  "manzil_number": 5,
+  "page_number": 385,
+  "juz_number": 20,
+  "text_uthmani": " طسٓمٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 767,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_001_001.mp3",
+      "text": "طسٓمٓ",
+      "translation": "Thaa siin miim",
+      "transliteration": "tta-seen-meem"
+    },
+    {
+      "id": 768,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ṭā Sīn Mīm <sup foot_note_id=\"1110\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 9980,
+    "duration": 9980,
+    "segments": [
+      [
+        1,
+        0,
+        9815
+      ]
+    ]
+  }
+}

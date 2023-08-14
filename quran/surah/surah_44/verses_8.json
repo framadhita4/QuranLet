@@ -1,0 +1,164 @@
+{
+  "id": 4422,
+  "chapter_id": 44,
+  "verse_key": "44:8",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 8578,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_001.mp3",
+      "text": "لَآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 8579,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_002.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "Tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 8580,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 8581,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_004.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 8582,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_005.mp3",
+      "text": "يُحْىِۦ",
+      "translation": "Dia menghidupkan",
+      "transliteration": "yuḥ'yī"
+    },
+    {
+      "id": 8583,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_006.mp3",
+      "text": "وَيُمِيتُ ۖ",
+      "translation": "dan Dia mematikan",
+      "transliteration": "wayumītu"
+    },
+    {
+      "id": 8585,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_008.mp3",
+      "text": "رَبُّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbukum"
+    },
+    {
+      "id": 8586,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_009.mp3",
+      "text": "وَرَبُّ",
+      "translation": "dan Tuhan",
+      "transliteration": "warabbu"
+    },
+    {
+      "id": 8587,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_010.mp3",
+      "text": "ءَابَآئِكُمُ",
+      "translation": "bapak-bapak kamu",
+      "transliteration": "ābāikumu"
+    },
+    {
+      "id": 8588,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_008_011.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "terdahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 8589,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada Tuhan (yang berhak disembah), melainkan Dia, yang menghidupkan dan yang mematikan. (Dia-lah) Tuhan-mu dan Tuhan bapak-bapakmu yang terdahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65040,
+    "timestamp_to": 81520,
+    "duration": 16480,
+    "segments": [
+      [
+        1,
+        65015,
+        67304
+      ],
+      [
+        2,
+        67305,
+        68125
+      ],
+      [
+        3,
+        68125,
+        68975
+      ],
+      [
+        4,
+        68975,
+        69335
+      ],
+      [
+        5,
+        69335,
+        70265
+      ],
+      [
+        6,
+        70265,
+        72484
+      ],
+      [
+        7,
+        72484,
+        74185
+      ],
+      [
+        8,
+        74185,
+        74985
+      ],
+      [
+        9,
+        74985,
+        78035
+      ],
+      [
+        10,
+        78035,
+        81440
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 2953,
+  "chapter_id": 26,
+  "verse_key": "26:21",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 24003,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_001.mp3",
+      "text": "فَفَرَرْتُ",
+      "translation": "maka saya lari",
+      "transliteration": "fafarartu"
+    },
+    {
+      "id": 24004,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_002.mp3",
+      "text": "مِنكُمْ",
+      "translation": "dari kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 24005,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_003.mp3",
+      "text": "لَمَّا",
+      "translation": "ketika",
+      "transliteration": "lammā"
+    },
+    {
+      "id": 24006,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_004.mp3",
+      "text": "خِفْتُكُمْ",
+      "translation": "saya takut kepadamu",
+      "transliteration": "khif'tukum"
+    },
+    {
+      "id": 24007,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_005.mp3",
+      "text": "فَوَهَبَ",
+      "translation": "lalu memberikan",
+      "transliteration": "fawahaba"
+    },
+    {
+      "id": 24008,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_006.mp3",
+      "text": "لِى",
+      "translation": "kepadaku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 24009,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_007.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 24010,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_008.mp3",
+      "text": "حُكْمًۭا",
+      "translation": "hikmah/ilmu",
+      "transliteration": "ḥuk'man"
+    },
+    {
+      "id": 24011,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_009.mp3",
+      "text": "وَجَعَلَنِى",
+      "translation": "dan Dia menjadikan aku",
+      "transliteration": "wajaʿalanī"
+    },
+    {
+      "id": 24012,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_010.mp3",
+      "text": "مِنَ",
+      "translation": "dari/di antara",
+      "transliteration": "mina"
+    },
+    {
+      "id": 24013,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_021_011.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 24014,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu aku lari meninggalkan kamu ketika aku takut kepadamu, kemudian Tuhan-ku memberikan kepadaku ilmu serta Dia menjadikanku salah seorang di antara rasul-rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 203720,
+    "timestamp_to": 217090,
+    "duration": 13380,
+    "segments": [
+      [
+        1,
+        203695,
+        204795
+      ],
+      [
+        2,
+        204795,
+        206095
+      ],
+      [
+        3,
+        206095,
+        207485
+      ],
+      [
+        4,
+        207485,
+        208535
+      ],
+      [
+        5,
+        208535,
+        209685
+      ],
+      [
+        6,
+        209685,
+        209815
+      ],
+      [
+        7,
+        209815,
+        210715
+      ],
+      [
+        8,
+        210715,
+        212235
+      ],
+      [
+        9,
+        212235,
+        213665
+      ],
+      [
+        10,
+        213665,
+        214035
+      ],
+      [
+        11,
+        214035,
+        217020
+      ]
+    ]
+  }
+}

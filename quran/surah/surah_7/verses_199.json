@@ -1,0 +1,125 @@
+{
+  "id": 1153,
+  "chapter_id": 7,
+  "verse_key": "7:199",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "page_number": 176,
+  "juz_number": 9,
+  "text_uthmani": "خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَـٰهِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 85207,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_001.mp3",
+      "text": "خُذِ",
+      "translation": "ambillah/berilah",
+      "transliteration": "khudhi"
+    },
+    {
+      "id": 85208,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_002.mp3",
+      "text": "ٱلْعَفْوَ",
+      "translation": "maaf",
+      "transliteration": "l-ʿafwa"
+    },
+    {
+      "id": 85209,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_003.mp3",
+      "text": "وَأْمُرْ",
+      "translation": "dan suruhlah",
+      "transliteration": "wamur"
+    },
+    {
+      "id": 85210,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_004.mp3",
+      "text": "بِٱلْعُرْفِ",
+      "translation": "dengan mengerjakan kebaikan",
+      "transliteration": "bil-ʿur'fi"
+    },
+    {
+      "id": 85211,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_005.mp3",
+      "text": "وَأَعْرِضْ",
+      "translation": "dan berpalinglah",
+      "transliteration": "wa-aʿriḍ"
+    },
+    {
+      "id": 85212,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_006.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 85213,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_199_007.mp3",
+      "text": "ٱلْجَـٰهِلِينَ",
+      "translation": "orang-orang yang bodoh",
+      "transliteration": "l-jāhilīna"
+    },
+    {
+      "id": 85214,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٩٩",
+      "translation": "(199)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jadilah engkau pemaaf dan suruhlah orang mengerjakan yang makruf, serta berpalinglah dari orang-orang yang bodoh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4653680,
+    "timestamp_to": 4662220,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        4653625,
+        4654175
+      ],
+      [
+        2,
+        4654175,
+        4655065
+      ],
+      [
+        3,
+        4655065,
+        4655945
+      ],
+      [
+        4,
+        4655945,
+        4657005
+      ],
+      [
+        5,
+        4657005,
+        4658155
+      ],
+      [
+        6,
+        4658155,
+        4658565
+      ],
+      [
+        7,
+        4658565,
+        4662140
+      ]
+    ]
+  }
+}

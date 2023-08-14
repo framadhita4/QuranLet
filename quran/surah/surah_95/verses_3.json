@@ -1,0 +1,73 @@
+{
+  "id": 6101,
+  "chapter_id": 95,
+  "verse_key": "95:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3",
+  "words": [
+    {
+      "id": 2603,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_003_001.mp3",
+      "text": "وَهَـٰذَا",
+      "translation": "dan ini",
+      "transliteration": "wahādhā"
+    },
+    {
+      "id": 2604,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_003_002.mp3",
+      "text": "ٱلْبَلَدِ",
+      "translation": "negri",
+      "transliteration": "l-baladi"
+    },
+    {
+      "id": 2605,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_003_003.mp3",
+      "text": "ٱلْأَمِينِ",
+      "translation": "aman",
+      "transliteration": "l-amīni"
+    },
+    {
+      "id": 2606,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan demi kota (Mekah) ini yang aman,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8940,
+    "timestamp_to": 13770,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        8585,
+        9445
+      ],
+      [
+        2,
+        9445,
+        10275
+      ],
+      [
+        3,
+        10275,
+        13350
+      ]
+    ]
+  }
+}

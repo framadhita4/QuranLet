@@ -1,0 +1,99 @@
+{
+  "id": 3888,
+  "chapter_id": 37,
+  "verse_key": "37:100",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 71188,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_100_001.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 71189,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_100_002.mp3",
+      "text": "هَبْ",
+      "translation": "berilah",
+      "transliteration": "hab"
+    },
+    {
+      "id": 71190,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_100_003.mp3",
+      "text": "لِى",
+      "translation": "kepadaku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 71191,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_100_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 71192,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_100_005.mp3",
+      "text": "ٱلصَّـٰلِحِينَ",
+      "translation": "orang-orang yang saleh",
+      "transliteration": "l-ṣāliḥīna"
+    },
+    {
+      "id": 71193,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠٠",
+      "translation": "(100)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ya Tuhan-ku, anugerahkanlah kepadaku (seorang anak) yang termasuk orang-orang yang saleh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 809830,
+    "timestamp_to": 815160,
+    "duration": 5330,
+    "segments": [
+      [
+        1,
+        809755,
+        810505
+      ],
+      [
+        2,
+        810505,
+        810875
+      ],
+      [
+        3,
+        810875,
+        811255
+      ],
+      [
+        4,
+        811255,
+        811615
+      ],
+      [
+        5,
+        811615,
+        815020
+      ]
+    ]
+  }
+}

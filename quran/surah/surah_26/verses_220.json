@@ -1,0 +1,86 @@
+{
+  "id": 3152,
+  "chapter_id": 26,
+  "verse_key": "26:220",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85987,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_220_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 85988,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_220_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 85989,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_220_003.mp3",
+      "text": "ٱلسَّمِيعُ",
+      "translation": "Maha Mendengar",
+      "transliteration": "l-samīʿu"
+    },
+    {
+      "id": 85990,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_220_004.mp3",
+      "text": "ٱلْعَلِيمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-ʿalīmu"
+    },
+    {
+      "id": 85991,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٢٠",
+      "translation": "(220)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Dia adalah Yang Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1887400,
+    "timestamp_to": 1893380,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        1887355,
+        1889095
+      ],
+      [
+        2,
+        1889095,
+        1889485
+      ],
+      [
+        3,
+        1889485,
+        1890545
+      ],
+      [
+        4,
+        1890545,
+        1893310
+      ]
+    ]
+  }
+}

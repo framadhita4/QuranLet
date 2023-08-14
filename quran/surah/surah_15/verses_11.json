@@ -1,0 +1,138 @@
+{
+  "id": 1813,
+  "chapter_id": 15,
+  "verse_key": "15:11",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 13206,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 13207,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_002.mp3",
+      "text": "يَأْتِيهِم",
+      "translation": "datang kepada mereka",
+      "transliteration": "yatīhim"
+    },
+    {
+      "id": 13208,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 13209,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_004.mp3",
+      "text": "رَّسُولٍ",
+      "translation": "seorang Rasul",
+      "transliteration": "rasūlin"
+    },
+    {
+      "id": 13210,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_005.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 13211,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_006.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 13212,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_007.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 13213,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_011_008.mp3",
+      "text": "يَسْتَهْزِءُونَ",
+      "translation": "mereka memperolok-olok",
+      "transliteration": "yastahziūna"
+    },
+    {
+      "id": 13214,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidak datang seorang rasul pun kepada mereka, melainkan mereka selalu memperolok-olokkannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 96880,
+    "timestamp_to": 105970,
+    "duration": 9090,
+    "segments": [
+      [
+        1,
+        96855,
+        97515
+      ],
+      [
+        2,
+        97515,
+        98625
+      ],
+      [
+        3,
+        98625,
+        99395
+      ],
+      [
+        4,
+        99395,
+        100685
+      ],
+      [
+        5,
+        100685,
+        101415
+      ],
+      [
+        6,
+        101415,
+        102255
+      ],
+      [
+        7,
+        102255,
+        102955
+      ],
+      [
+        8,
+        102955,
+        105890
+      ]
+    ]
+  }
+}

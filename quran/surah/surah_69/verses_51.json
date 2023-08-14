@@ -1,0 +1,73 @@
+{
+  "id": 5374,
+  "chapter_id": 69,
+  "verse_key": "69:51",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 49239,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_051_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya (Al Qur'an)",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 49240,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_051_002.mp3",
+      "text": "لَحَقُّ",
+      "translation": "nyata-nyata kebenaran",
+      "transliteration": "laḥaqqu"
+    },
+    {
+      "id": 49241,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_051_003.mp3",
+      "text": "ٱلْيَقِينِ",
+      "translation": "yang diyakini",
+      "transliteration": "l-yaqīni"
+    },
+    {
+      "id": 49242,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Al-Qur`ān itu benar-benar kebenaran yang diyakini.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 386680,
+    "timestamp_to": 393180,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        386625,
+        388495
+      ],
+      [
+        2,
+        388495,
+        389335
+      ],
+      [
+        3,
+        389335,
+        393060
+      ]
+    ]
+  }
+}

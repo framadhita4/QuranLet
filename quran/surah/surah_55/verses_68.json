@@ -1,0 +1,86 @@
+{
+  "id": 4969,
+  "chapter_id": 55,
+  "verse_key": "55:68",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 58642,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_068_001.mp3",
+      "text": "فِيهِمَا",
+      "translation": "di dalam keduanya",
+      "transliteration": "fīhimā"
+    },
+    {
+      "id": 58643,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_068_002.mp3",
+      "text": "فَـٰكِهَةٌۭ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatun"
+    },
+    {
+      "id": 58644,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_068_003.mp3",
+      "text": "وَنَخْلٌۭ",
+      "translation": "dan kurma",
+      "transliteration": "wanakhlun"
+    },
+    {
+      "id": 58645,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_068_004.mp3",
+      "text": "وَرُمَّانٌۭ",
+      "translation": "dan delima",
+      "transliteration": "warummānun"
+    },
+    {
+      "id": 58646,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalam keduanya (ada macam-macam) buah-buahan dan kurma serta delima.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 591360,
+    "timestamp_to": 600530,
+    "duration": 9170,
+    "segments": [
+      [
+        1,
+        591295,
+        592365
+      ],
+      [
+        2,
+        592365,
+        594195
+      ],
+      [
+        3,
+        594195,
+        596115
+      ],
+      [
+        4,
+        596115,
+        600080
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 4854,
+  "chapter_id": 54,
+  "verse_key": "54:8",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 8731,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_001.mp3",
+      "text": "مُّهْطِعِينَ",
+      "translation": "datang dengan cepat",
+      "transliteration": "muh'ṭiʿīna"
+    },
+    {
+      "id": 8732,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_002.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 8733,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_003.mp3",
+      "text": "ٱلدَّاعِ ۖ",
+      "translation": "penyeru",
+      "transliteration": "l-dāʿi"
+    },
+    {
+      "id": 8735,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_005.mp3",
+      "text": "يَقُولُ",
+      "translation": "berkata",
+      "transliteration": "yaqūlu"
+    },
+    {
+      "id": 8736,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_006.mp3",
+      "text": "ٱلْكَـٰفِرُونَ",
+      "translation": "Orang-orang kafir",
+      "transliteration": "l-kāfirūna"
+    },
+    {
+      "id": 8737,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_007.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 8738,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_008.mp3",
+      "text": "يَوْمٌ",
+      "translation": "hari",
+      "transliteration": "yawmun"
+    },
+    {
+      "id": 8739,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_008_009.mp3",
+      "text": "عَسِرٌۭ",
+      "translation": "berat",
+      "transliteration": "ʿasirun"
+    },
+    {
+      "id": 8740,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka datang dengan cepat kepada penyeru itu. Orang-orang kafir berkata, \"Ini adalah hari yang berat\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 66890,
+    "timestamp_to": 76890,
+    "duration": 10010,
+    "segments": [
+      [
+        1,
+        66825,
+        68055
+      ],
+      [
+        2,
+        68055,
+        68485
+      ],
+      [
+        3,
+        68485,
+        70775
+      ],
+      [
+        4,
+        70775,
+        72215
+      ],
+      [
+        5,
+        72215,
+        73765
+      ],
+      [
+        6,
+        73765,
+        74745
+      ],
+      [
+        7,
+        74745,
+        75625
+      ],
+      [
+        8,
+        75625,
+        76750
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 2286,
+  "chapter_id": 19,
+  "verse_key": "19:36",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 307,
+  "juz_number": 16,
+  "text_uthmani": "وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 37922,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 37923,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 37924,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_003.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 37925,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_004.mp3",
+      "text": "وَرَبُّكُمْ",
+      "translation": "dan Tuhanmu",
+      "transliteration": "warabbukum"
+    },
+    {
+      "id": 37926,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_005.mp3",
+      "text": "فَٱعْبُدُوهُ ۚ",
+      "translation": "maka sembahlah Dia",
+      "transliteration": "fa-uʿ'budūhu"
+    },
+    {
+      "id": 37928,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_007.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 37929,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_008.mp3",
+      "text": "صِرَٰطٌۭ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭun"
+    },
+    {
+      "id": 37930,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_036_009.mp3",
+      "text": "مُّسْتَقِيمٌۭ",
+      "translation": "lurus",
+      "transliteration": "mus'taqīmun"
+    },
+    {
+      "id": 37931,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah adalah Tuhan-ku dan Tuhan-mu, maka sembahIah Dia oleh kamu sekalian. Ini adalah jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 472280,
+    "timestamp_to": 486520,
+    "duration": 14240,
+    "segments": [
+      [
+        1,
+        472255,
+        473615
+      ],
+      [
+        2,
+        473615,
+        474705
+      ],
+      [
+        3,
+        474705,
+        475515
+      ],
+      [
+        4,
+        475515,
+        476915
+      ],
+      [
+        5,
+        476915,
+        480505
+      ],
+      [
+        6,
+        480505,
+        481365
+      ],
+      [
+        7,
+        481365,
+        482375
+      ],
+      [
+        8,
+        482375,
+        486410
+      ]
+    ]
+  }
+}

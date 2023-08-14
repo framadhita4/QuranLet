@@ -1,0 +1,138 @@
+{
+  "id": 1030,
+  "chapter_id": 7,
+  "verse_key": "7:76",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "ruku_number": 131,
+  "manzil_number": 2,
+  "page_number": 160,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا بِٱلَّذِىٓ ءَامَنتُم بِهِۦ كَـٰفِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 62499,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_001.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 62500,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 62501,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_003.mp3",
+      "text": "ٱسْتَكْبَرُوٓا۟",
+      "translation": "(mereka) menyombongkan diri",
+      "transliteration": "is'takbarū"
+    },
+    {
+      "id": 62502,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_004.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 62503,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_005.mp3",
+      "text": "بِٱلَّذِىٓ",
+      "translation": "dengan yang",
+      "transliteration": "bi-alladhī"
+    },
+    {
+      "id": 62504,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_006.mp3",
+      "text": "ءَامَنتُم",
+      "translation": "kamu imankan",
+      "transliteration": "āmantum"
+    },
+    {
+      "id": 62505,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_007.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 62506,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_076_008.mp3",
+      "text": "كَـٰفِرُونَ",
+      "translation": "ingkar/tidak percaya",
+      "transliteration": "kāfirūna"
+    },
+    {
+      "id": 62507,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Orang-orang yang menyombongkan diri berkata, \"Sesungguhnya kami adalah orang yang tidak percaya kepada apa yang kamu imani itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1829270,
+    "timestamp_to": 1844370,
+    "duration": 15100,
+    "segments": [
+      [
+        1,
+        1829215,
+        1829995
+      ],
+      [
+        2,
+        1829995,
+        1831035
+      ],
+      [
+        3,
+        1831035,
+        1834025
+      ],
+      [
+        4,
+        1834025,
+        1835365
+      ],
+      [
+        5,
+        1835365,
+        1837865
+      ],
+      [
+        6,
+        1837865,
+        1840565
+      ],
+      [
+        7,
+        1840565,
+        1841165
+      ],
+      [
+        8,
+        1841165,
+        1844260
+      ]
+    ]
+  }
+}

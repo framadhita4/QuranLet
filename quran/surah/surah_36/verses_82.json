@@ -1,0 +1,164 @@
+{
+  "id": 3787,
+  "chapter_id": 36,
+  "verse_key": "36:82",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 387,
+  "manzil_number": 5,
+  "page_number": 445,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 65041,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_001.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 65042,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_002.mp3",
+      "text": "أَمْرُهُۥٓ",
+      "translation": "urusan-Nya/perintah-Nya",
+      "transliteration": "amruhu"
+    },
+    {
+      "id": 65043,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_003.mp3",
+      "text": "إِذَآ",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 65044,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_004.mp3",
+      "text": "أَرَادَ",
+      "translation": "Dia menghendaki",
+      "transliteration": "arāda"
+    },
+    {
+      "id": 65045,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_005.mp3",
+      "text": "شَيْـًٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 65046,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_006.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 65047,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_007.mp3",
+      "text": "يَقُولَ",
+      "translation": "Dia berkata",
+      "transliteration": "yaqūla"
+    },
+    {
+      "id": 65048,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_008.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 65049,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_009.mp3",
+      "text": "كُن",
+      "translation": "jadi",
+      "transliteration": "kun"
+    },
+    {
+      "id": 65050,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_082_010.mp3",
+      "text": "فَيَكُونُ",
+      "translation": "maka jadilah",
+      "transliteration": "fayakūnu"
+    },
+    {
+      "id": 65051,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya perintah-Nya apabila Dia menghendaki sesuatu hanyalah berkata kepadanya, \"Jadilah!\" Maka terjadilah ia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1026510,
+    "timestamp_to": 1043830,
+    "duration": 17320,
+    "segments": [
+      [
+        1,
+        1026445,
+        1029865
+      ],
+      [
+        2,
+        1029865,
+        1032295
+      ],
+      [
+        3,
+        1032295,
+        1034325
+      ],
+      [
+        4,
+        1034325,
+        1035135
+      ],
+      [
+        5,
+        1035135,
+        1035995
+      ],
+      [
+        6,
+        1035995,
+        1036205
+      ],
+      [
+        7,
+        1036205,
+        1037905
+      ],
+      [
+        8,
+        1037905,
+        1038415
+      ],
+      [
+        9,
+        1038415,
+        1039835
+      ],
+      [
+        10,
+        1039835,
+        1043670
+      ]
+    ]
+  }
+}

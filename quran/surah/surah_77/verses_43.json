@@ -1,0 +1,112 @@
+{
+  "id": 5665,
+  "chapter_id": 77,
+  "verse_key": "77:43",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 43967,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_043_001.mp3",
+      "text": "كُلُوا۟",
+      "translation": "makanlah",
+      "transliteration": "kulū"
+    },
+    {
+      "id": 43968,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_043_002.mp3",
+      "text": "وَٱشْرَبُوا۟",
+      "translation": "dan minumlah kamu",
+      "transliteration": "wa-ish'rabū"
+    },
+    {
+      "id": 43969,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_043_003.mp3",
+      "text": "هَنِيٓـًٔۢا",
+      "translation": "dengan senang/sepuas hati",
+      "transliteration": "hanīan"
+    },
+    {
+      "id": 43970,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_043_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/karena apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 43971,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_043_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 43972,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_043_006.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu telah kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 43973,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka), \"Makan dan minumlah kamu dengan enak karena apa yang telah kamu kerjakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 223330,
+    "timestamp_to": 232890,
+    "duration": 9560,
+    "segments": [
+      [
+        1,
+        223245,
+        223865
+      ],
+      [
+        2,
+        223865,
+        224735
+      ],
+      [
+        3,
+        224735,
+        227934
+      ],
+      [
+        4,
+        227935,
+        228525
+      ],
+      [
+        5,
+        228525,
+        230065
+      ],
+      [
+        6,
+        230065,
+        232730
+      ]
+    ]
+  }
+}

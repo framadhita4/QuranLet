@@ -1,0 +1,99 @@
+{
+  "id": 4747,
+  "chapter_id": 52,
+  "verse_key": "52:12",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "ٱلَّذِينَ هُمْ فِى خَوْضٍ يَلْعَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 13630,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_012_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 13631,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_012_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 13632,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_012_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 13633,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_012_004.mp3",
+      "text": "خَوْضٍۢ",
+      "translation": "kesesatan",
+      "transliteration": "khawḍin"
+    },
+    {
+      "id": 13634,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_012_005.mp3",
+      "text": "يَلْعَبُونَ",
+      "translation": "mereka bermain-main",
+      "transliteration": "yalʿabūna"
+    },
+    {
+      "id": 13635,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang bermain-main dalam kebatilan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 54820,
+    "timestamp_to": 62210,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        54705,
+        56075
+      ],
+      [
+        2,
+        56075,
+        56475
+      ],
+      [
+        3,
+        56475,
+        56915
+      ],
+      [
+        4,
+        56915,
+        58075
+      ],
+      [
+        5,
+        58075,
+        62020
+      ]
+    ]
+  }
+}

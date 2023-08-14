@@ -1,0 +1,99 @@
+{
+  "id": 2079,
+  "chapter_id": 17,
+  "verse_key": "17:50",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "ruku_number": 244,
+  "manzil_number": 4,
+  "page_number": 287,
+  "juz_number": 15,
+  "text_uthmani": "۞ قُلْ كُونُوا۟ حِجَارَةً أَوْ حَدِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 48386,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_050_002.mp3",
+      "text": "۞ قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 48387,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_050_003.mp3",
+      "text": "كُونُوا۟",
+      "translation": "jadilah kamu",
+      "transliteration": "kūnū"
+    },
+    {
+      "id": 48388,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_050_004.mp3",
+      "text": "حِجَارَةً",
+      "translation": "batu",
+      "transliteration": "ḥijāratan"
+    },
+    {
+      "id": 48389,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_050_005.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 48390,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_050_006.mp3",
+      "text": "حَدِيدًا",
+      "translation": "besi",
+      "transliteration": "ḥadīdan"
+    },
+    {
+      "id": 48391,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Jadilah kamu sekalian batu atau besi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 875530,
+    "timestamp_to": 880230,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        875475,
+        875975
+      ],
+      [
+        2,
+        875975,
+        876795
+      ],
+      [
+        3,
+        876795,
+        878145
+      ],
+      [
+        4,
+        878145,
+        878505
+      ],
+      [
+        5,
+        878505,
+        879750
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1450,
+  "chapter_id": 10,
+  "verse_key": "10:86",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "ruku_number": 180,
+  "manzil_number": 3,
+  "page_number": 218,
+  "juz_number": 11,
+  "text_uthmani": "وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 66722,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_086_001.mp3",
+      "text": "وَنَجِّنَا",
+      "translation": "dan selamatkanlah kami",
+      "transliteration": "wanajjinā"
+    },
+    {
+      "id": 66723,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_086_002.mp3",
+      "text": "بِرَحْمَتِكَ",
+      "translation": "dengan rahmat Engkau",
+      "transliteration": "biraḥmatika"
+    },
+    {
+      "id": 66724,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_086_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 66725,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_086_004.mp3",
+      "text": "ٱلْقَوْمِ",
+      "translation": "kaum",
+      "transliteration": "l-qawmi"
+    },
+    {
+      "id": 66726,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_086_005.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang yang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 66727,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan selamatkanlah kami dengan rahmat Engkau dari (tipu daya) orang-orang yang kafir\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2149110,
+    "timestamp_to": 2157260,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        2149055,
+        2150405
+      ],
+      [
+        2,
+        2150405,
+        2151705
+      ],
+      [
+        3,
+        2151705,
+        2152085
+      ],
+      [
+        4,
+        2152085,
+        2153105
+      ],
+      [
+        5,
+        2153105,
+        2157160
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5802,
+  "chapter_id": 81,
+  "verse_key": "81:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 1722,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_002_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 1723,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_002_002.mp3",
+      "text": "ٱلنُّجُومُ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-nujūmu"
+    },
+    {
+      "id": 1724,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_002_003.mp3",
+      "text": "ٱنكَدَرَتْ",
+      "translation": "berjatuhan",
+      "transliteration": "inkadarat"
+    },
+    {
+      "id": 1725,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila bintang-bintang berjatuhan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2380,
+    "timestamp_to": 6090,
+    "duration": 3710,
+    "segments": [
+      [
+        1,
+        2355,
+        3035
+      ],
+      [
+        2,
+        3035,
+        4415
+      ],
+      [
+        3,
+        4415,
+        6020
+      ]
+    ]
+  }
+}

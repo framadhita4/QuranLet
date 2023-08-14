@@ -1,0 +1,86 @@
+{
+  "id": 6139,
+  "chapter_id": 99,
+  "verse_key": "99:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 55,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_001_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 56,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_001_002.mp3",
+      "text": "زُلْزِلَتِ",
+      "translation": "digoncangkan",
+      "transliteration": "zul'zilati"
+    },
+    {
+      "id": 57,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_001_003.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 58,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_001_004.mp3",
+      "text": "زِلْزَالَهَا",
+      "translation": "goncangan",
+      "transliteration": "zil'zālahā"
+    },
+    {
+      "id": 59,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila bumi diguncangkan dengan guncangan (yang dahsyat),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4780,
+    "duration": 4780,
+    "segments": [
+      [
+        1,
+        0,
+        690
+      ],
+      [
+        2,
+        690,
+        1730
+      ],
+      [
+        3,
+        1730,
+        2580
+      ],
+      [
+        4,
+        2580,
+        4295
+      ]
+    ]
+  }
+}

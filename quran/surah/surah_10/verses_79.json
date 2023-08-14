@@ -1,0 +1,112 @@
+{
+  "id": 1443,
+  "chapter_id": 10,
+  "verse_key": "10:79",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "ruku_number": 179,
+  "manzil_number": 3,
+  "page_number": 218,
+  "juz_number": 11,
+  "text_uthmani": "وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَـٰحِرٍ عَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 63763,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_079_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 63764,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_079_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 63765,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_079_003.mp3",
+      "text": "ٱئْتُونِى",
+      "translation": "datangkan kepadaku",
+      "transliteration": "i'tūnī"
+    },
+    {
+      "id": 63766,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_079_004.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan setiap",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 63767,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_079_005.mp3",
+      "text": "سَـٰحِرٍ",
+      "translation": "ahli sihir",
+      "transliteration": "sāḥirin"
+    },
+    {
+      "id": 63768,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_079_006.mp3",
+      "text": "عَلِيمٍۢ",
+      "translation": "pandai",
+      "transliteration": "ʿalīmin"
+    },
+    {
+      "id": 63769,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn berkata (kepada pemuka kaumnya), \"Datangkanlah kepadaku semua ahli-ahli sihir yang pandai!\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2021580,
+    "timestamp_to": 2029700,
+    "duration": 8130,
+    "segments": [
+      [
+        1,
+        2021375,
+        2022245
+      ],
+      [
+        2,
+        2022245,
+        2023365
+      ],
+      [
+        3,
+        2023365,
+        2024365
+      ],
+      [
+        4,
+        2024365,
+        2025165
+      ],
+      [
+        5,
+        2025165,
+        2026265
+      ],
+      [
+        6,
+        2026265,
+        2029450
+      ]
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": 2423,
+  "chapter_id": 20,
+  "verse_key": "20:75",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 316,
+  "juz_number": 16,
+  "text_uthmani": "وَمَن يَأْتِهِۦ مُؤْمِنًا قَدْ عَمِلَ ٱلصَّـٰلِحَـٰتِ فَأُو۟لَـٰٓئِكَ لَهُمُ ٱلدَّرَجَـٰتُ ٱلْعُلَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 61895,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_001.mp3",
+      "text": "وَمَن",
+      "translation": "dan barangsiapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 61896,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_002.mp3",
+      "text": "يَأْتِهِۦ",
+      "translation": "datang kepada-Nya",
+      "transliteration": "yatihi"
+    },
+    {
+      "id": 61897,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_003.mp3",
+      "text": "مُؤْمِنًۭا",
+      "translation": "keadaan beriman",
+      "transliteration": "mu'minan"
+    },
+    {
+      "id": 61898,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_004.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya/sungguh-sungguh",
+      "transliteration": "qad"
+    },
+    {
+      "id": 61899,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_005.mp3",
+      "text": "عَمِلَ",
+      "translation": "dia beramal",
+      "transliteration": "ʿamila"
+    },
+    {
+      "id": 61900,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_006.mp3",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation": "kebajikan/saleh",
+      "transliteration": "l-ṣāliḥāti"
+    },
+    {
+      "id": 61901,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_007.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itulah",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 61902,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_008.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi mereka (memperoleh)",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 61903,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_009.mp3",
+      "text": "ٱلدَّرَجَـٰتُ",
+      "translation": "derajat",
+      "transliteration": "l-darajātu"
+    },
+    {
+      "id": 61904,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_075_010.mp3",
+      "text": "ٱلْعُلَىٰ",
+      "translation": "tinggi",
+      "transliteration": "l-ʿulā"
+    },
+    {
+      "id": 61905,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan barang siapa datang kepada Tuhan-nya dalam keadaan beriman, lagi sungguh-sungguh telah beramal saleh, maka mereka itulah orang-orang yang memperoleh tempat-tempat yang tinggi (mulia),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 788140,
+    "timestamp_to": 801590,
+    "duration": 13450,
+    "segments": [
+      [
+        1,
+        787615,
+        788015
+      ],
+      [
+        2,
+        788015,
+        789025
+      ],
+      [
+        2,
+        789025,
+        790065
+      ],
+      [
+        3,
+        790065,
+        791625
+      ],
+      [
+        4,
+        791625,
+        792035
+      ],
+      [
+        5,
+        792035,
+        792745
+      ],
+      [
+        6,
+        792745,
+        794375
+      ],
+      [
+        7,
+        794375,
+        797465
+      ],
+      [
+        8,
+        797465,
+        798145
+      ],
+      [
+        9,
+        798145,
+        799555
+      ],
+      [
+        10,
+        799555,
+        800620
+      ]
+    ]
+  }
+}

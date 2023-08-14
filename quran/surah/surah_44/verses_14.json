@@ -1,0 +1,112 @@
+{
+  "id": 4428,
+  "chapter_id": 44,
+  "verse_key": "44:14",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 15880,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_014_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 15881,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_014_002.mp3",
+      "text": "تَوَلَّوْا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "tawallaw"
+    },
+    {
+      "id": 15882,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_014_003.mp3",
+      "text": "عَنْهُ",
+      "translation": "dari padanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 15883,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_014_004.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan mereka berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 15884,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_014_005.mp3",
+      "text": "مُعَلَّمٌۭ",
+      "translation": "seorang yang diajar",
+      "transliteration": "muʿallamun"
+    },
+    {
+      "id": 15885,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_014_006.mp3",
+      "text": "مَّجْنُونٌ",
+      "translation": "seorang gila",
+      "transliteration": "majnūnun"
+    },
+    {
+      "id": 15886,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian mereka berpaling darinya dan berkata, \"Dia adalah seorang yang menerima ajaran (dari orang lain) lagi pula seorang yang gila<sup foot_note_id=\"1373\">1</sup>\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 126790,
+    "timestamp_to": 136010,
+    "duration": 9220,
+    "segments": [
+      [
+        1,
+        126735,
+        127945
+      ],
+      [
+        2,
+        127945,
+        129095
+      ],
+      [
+        3,
+        129095,
+        129885
+      ],
+      [
+        4,
+        129885,
+        130885
+      ],
+      [
+        5,
+        130885,
+        132115
+      ],
+      [
+        6,
+        132115,
+        135930
+      ]
+    ]
+  }
+}

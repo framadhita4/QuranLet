@@ -1,0 +1,138 @@
+{
+  "id": 3505,
+  "chapter_id": 32,
+  "verse_key": "32:2",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "page_number": 415,
+  "juz_number": 21,
+  "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 1882,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_001.mp3",
+      "text": "تَنزِيلُ",
+      "translation": "turunnya",
+      "transliteration": "tanzīlu"
+    },
+    {
+      "id": 1883,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_002.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "kitab (Al Qur'an)",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 1884,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_003.mp3",
+      "text": "لَا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 1885,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_004.mp3",
+      "text": "رَيْبَ",
+      "translation": "keraguan",
+      "transliteration": "rayba"
+    },
+    {
+      "id": 1886,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_005.mp3",
+      "text": "فِيهِ",
+      "translation": "di dalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 1887,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_006.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 1888,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_007.mp3",
+      "text": "رَّبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 1889,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_002_008.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 1890,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Turunnya Al-Qur`ān yang tidak ada keraguan padanya (adalah) dari Tuhan semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8050,
+    "timestamp_to": 15760,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        7995,
+        9625
+      ],
+      [
+        2,
+        9625,
+        10505
+      ],
+      [
+        3,
+        10505,
+        10875
+      ],
+      [
+        4,
+        10875,
+        11415
+      ],
+      [
+        5,
+        11415,
+        12015
+      ],
+      [
+        6,
+        12015,
+        12195
+      ],
+      [
+        7,
+        12195,
+        12945
+      ],
+      [
+        8,
+        12945,
+        15670
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5635,
+  "chapter_id": 77,
+  "verse_key": "77:13",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "لِيَوْمِ ٱلْفَصْلِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 15375,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_013_001.mp3",
+      "text": "لِيَوْمِ",
+      "translation": "untuk/sampai hari",
+      "transliteration": "liyawmi"
+    },
+    {
+      "id": 15376,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_013_002.mp3",
+      "text": "ٱلْفَصْلِ",
+      "translation": "keputusan",
+      "transliteration": "l-faṣli"
+    },
+    {
+      "id": 15377,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sampai hari keputusan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37580,
+    "timestamp_to": 39590,
+    "duration": 2010,
+    "segments": [
+      [
+        1,
+        37515,
+        38355
+      ],
+      [
+        2,
+        38355,
+        39200
+      ]
+    ]
+  }
+}

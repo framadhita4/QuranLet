@@ -1,0 +1,117 @@
+{
+  "id": 3938,
+  "chapter_id": 37,
+  "verse_key": "37:150",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًا وَهُمْ شَـٰهِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 80419,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_150_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 80420,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_150_002.mp3",
+      "text": "خَلَقْنَا",
+      "translation": "Kami menciptakan",
+      "transliteration": "khalaqnā"
+    },
+    {
+      "id": 80421,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_150_003.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةَ",
+      "translation": "malaikat-malaikat",
+      "transliteration": "l-malāikata"
+    },
+    {
+      "id": 80422,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_150_004.mp3",
+      "text": "إِنَـٰثًۭا",
+      "translation": "perempuan",
+      "transliteration": "ināthan"
+    },
+    {
+      "id": 80423,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_150_005.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 80424,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_150_006.mp3",
+      "text": "شَـٰهِدُونَ",
+      "translation": "menyaksikan",
+      "transliteration": "shāhidūna"
+    },
+    {
+      "id": 80425,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥٠",
+      "translation": "(150)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau apakah Kami menciptakan malaikat-malaikat berupa perempuan dan mereka menyaksikan(nya)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1209540,
+    "timestamp_to": 1219680,
+    "duration": 10140,
+    "segments": [
+      [
+        1,
+        1209475,
+        1209865
+      ],
+      [
+        2,
+        1209865,
+        1210735
+      ],
+      [
+        3,
+        1210735,
+        1213775
+      ],
+      [
+        4,
+        1213775,
+        1214735
+      ],
+      [
+        5,
+        1214735,
+        1215625
+      ],
+      [
+        5,
+        1215625,
+        1216145
+      ],
+      [
+        6,
+        1216145,
+        1219550
+      ]
+    ]
+  }
+}

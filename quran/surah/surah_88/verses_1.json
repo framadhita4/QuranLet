@@ -1,0 +1,86 @@
+{
+  "id": 5968,
+  "chapter_id": 88,
+  "verse_key": "88:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 724,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_001_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 725,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_001_002.mp3",
+      "text": "أَتَىٰكَ",
+      "translation": "telah datang kepadamu",
+      "transliteration": "atāka"
+    },
+    {
+      "id": 726,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_001_003.mp3",
+      "text": "حَدِيثُ",
+      "translation": "cerita/berita",
+      "transliteration": "ḥadīthu"
+    },
+    {
+      "id": 727,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_001_004.mp3",
+      "text": "ٱلْغَـٰشِيَةِ",
+      "translation": "peristiwa yang dahsyat",
+      "transliteration": "l-ghāshiyati"
+    },
+    {
+      "id": 728,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sudah datangkah kepadamu berita (tentang) hari pembalasan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4020,
+    "duration": 4020,
+    "segments": [
+      [
+        1,
+        0,
+        400
+      ],
+      [
+        2,
+        400,
+        1200
+      ],
+      [
+        3,
+        1200,
+        2050
+      ],
+      [
+        4,
+        2050,
+        3925
+      ]
+    ]
+  }
+}

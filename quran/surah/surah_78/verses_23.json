@@ -1,0 +1,73 @@
+{
+  "id": 5695,
+  "chapter_id": 78,
+  "verse_key": "78:23",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 25605,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_023_001.mp3",
+      "text": "لَّـٰبِثِينَ",
+      "translation": "mereka tinggal",
+      "transliteration": "lābithīna"
+    },
+    {
+      "id": 25606,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_023_002.mp3",
+      "text": "فِيهَآ",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 25607,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_023_003.mp3",
+      "text": "أَحْقَابًۭا",
+      "translation": "beberapa lama",
+      "transliteration": "aḥqāban"
+    },
+    {
+      "id": 25608,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka tinggal di dalamnya berabad-abad lamanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 119030,
+    "timestamp_to": 124750,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        118975,
+        120345
+      ],
+      [
+        2,
+        120345,
+        122675
+      ],
+      [
+        3,
+        122675,
+        124590
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3829,
+  "chapter_id": 37,
+  "verse_key": "37:41",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 42552,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_041_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 42553,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_041_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka (memperoleh)",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 42554,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_041_003.mp3",
+      "text": "رِزْقٌۭ",
+      "translation": "rezeki",
+      "transliteration": "riz'qun"
+    },
+    {
+      "id": 42555,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_041_004.mp3",
+      "text": "مَّعْلُومٌۭ",
+      "translation": "tertentu",
+      "transliteration": "maʿlūmun"
+    },
+    {
+      "id": 42556,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka itu memperoleh rezeki yang tertentu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 347870,
+    "timestamp_to": 357070,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        347795,
+        350584
+      ],
+      [
+        2,
+        350585,
+        351115
+      ],
+      [
+        3,
+        351115,
+        351795
+      ],
+      [
+        4,
+        351795,
+        356920
+      ]
+    ]
+  }
+}

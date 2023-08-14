@@ -1,0 +1,112 @@
+{
+  "id": 2767,
+  "chapter_id": 23,
+  "verse_key": "23:94",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 69664,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_094_001.mp3",
+      "text": "رَبِّ",
+      "translation": "Ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 69665,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_094_002.mp3",
+      "text": "فَلَا",
+      "translation": "maka janganlah",
+      "transliteration": "falā"
+    },
+    {
+      "id": 69666,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_094_003.mp3",
+      "text": "تَجْعَلْنِى",
+      "translation": "Engkau jadikan aku",
+      "transliteration": "tajʿalnī"
+    },
+    {
+      "id": 69667,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_094_004.mp3",
+      "text": "فِى",
+      "translation": "dalam/diantara",
+      "transliteration": "fī"
+    },
+    {
+      "id": 69668,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_094_005.mp3",
+      "text": "ٱلْقَوْمِ",
+      "translation": "kaum",
+      "transliteration": "l-qawmi"
+    },
+    {
+      "id": 69669,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_094_006.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang zalim",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 69670,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ya Tuhanku, maka janganlah Engkau jadikan aku berada di antara orang-orang yang zalim.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1174940,
+    "timestamp_to": 1182180,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        1174905,
+        1175615
+      ],
+      [
+        2,
+        1175615,
+        1176215
+      ],
+      [
+        3,
+        1176215,
+        1177435
+      ],
+      [
+        4,
+        1177435,
+        1177645
+      ],
+      [
+        5,
+        1177645,
+        1178535
+      ],
+      [
+        6,
+        1178535,
+        1182090
+      ]
+    ]
+  }
+}

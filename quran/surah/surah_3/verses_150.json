@@ -1,0 +1,112 @@
+{
+  "id": 443,
+  "chapter_id": 3,
+  "verse_key": "3:150",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "ruku_number": 57,
+  "manzil_number": 1,
+  "page_number": 69,
+  "juz_number": 4,
+  "text_uthmani": "بَلِ ٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ خَيْرُ ٱلنَّـٰصِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 80426,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_150_001.mp3",
+      "text": "بَلِ",
+      "translation": "tetapi",
+      "transliteration": "bali"
+    },
+    {
+      "id": 80427,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_150_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 80428,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_150_003.mp3",
+      "text": "مَوْلَىٰكُمْ ۖ",
+      "translation": "perlindunganmu",
+      "transliteration": "mawlākum"
+    },
+    {
+      "id": 80430,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_150_005.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 80431,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_150_006.mp3",
+      "text": "خَيْرُ",
+      "translation": "sebaik-baik",
+      "transliteration": "khayru"
+    },
+    {
+      "id": 80432,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_150_007.mp3",
+      "text": "ٱلنَّـٰصِرِينَ",
+      "translation": "penolong",
+      "transliteration": "l-nāṣirīna"
+    },
+    {
+      "id": 80433,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٥٠",
+      "translation": "(150)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi (ikutilah Allah), Allah-lah Pelindungmu, dan Dia-lah sebaik-baik Penolong.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3408410,
+    "timestamp_to": 3415850,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        3408385,
+        3408945
+      ],
+      [
+        2,
+        3408945,
+        3409745
+      ],
+      [
+        3,
+        3409745,
+        3411055
+      ],
+      [
+        4,
+        3411055,
+        3411605
+      ],
+      [
+        5,
+        3411605,
+        3412305
+      ],
+      [
+        6,
+        3412305,
+        3415790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 3603,
+  "chapter_id": 33,
+  "verse_key": "33:70",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "ruku_number": 371,
+  "manzil_number": 5,
+  "page_number": 427,
+  "juz_number": 22,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًا سَدِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 59723,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 59724,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 59725,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 59726,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_004.mp3",
+      "text": "ٱتَّقُوا۟",
+      "translation": "bertakwalah",
+      "transliteration": "ittaqū"
+    },
+    {
+      "id": 59727,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_005.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 59728,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_006.mp3",
+      "text": "وَقُولُوا۟",
+      "translation": "dan katakanlah",
+      "transliteration": "waqūlū"
+    },
+    {
+      "id": 59729,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_007.mp3",
+      "text": "قَوْلًۭا",
+      "translation": "perkataan",
+      "transliteration": "qawlan"
+    },
+    {
+      "id": 59730,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_070_008.mp3",
+      "text": "سَدِيدًۭا",
+      "translation": "benar",
+      "transliteration": "sadīdan"
+    },
+    {
+      "id": 59731,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang yang beriman, bertakwalah kamu kepada Allah dan katakanlah perkataan yang benar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1525520,
+    "timestamp_to": 1534980,
+    "duration": 9460,
+    "segments": [
+      [
+        1,
+        1525185,
+        1527745
+      ],
+      [
+        2,
+        1527745,
+        1528645
+      ],
+      [
+        3,
+        1528645,
+        1529455
+      ],
+      [
+        4,
+        1529455,
+        1530095
+      ],
+      [
+        5,
+        1530095,
+        1530885
+      ],
+      [
+        6,
+        1530885,
+        1531815
+      ],
+      [
+        7,
+        1531815,
+        1532495
+      ],
+      [
+        8,
+        1532495,
+        1534620
+      ]
+    ]
+  }
+}

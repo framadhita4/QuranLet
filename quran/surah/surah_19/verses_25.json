@@ -1,0 +1,138 @@
+{
+  "id": 2275,
+  "chapter_id": 19,
+  "verse_key": "19:25",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 306,
+  "juz_number": 16,
+  "text_uthmani": "وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَـٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 27790,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_001.mp3",
+      "text": "وَهُزِّىٓ",
+      "translation": "dan goyangkanlah",
+      "transliteration": "wahuzzī"
+    },
+    {
+      "id": 27791,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_002.mp3",
+      "text": "إِلَيْكِ",
+      "translation": "kepadamu/kearahmu",
+      "transliteration": "ilayki"
+    },
+    {
+      "id": 27792,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_003.mp3",
+      "text": "بِجِذْعِ",
+      "translation": "dengan batang",
+      "transliteration": "bijidh'ʿi"
+    },
+    {
+      "id": 27793,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_004.mp3",
+      "text": "ٱلنَّخْلَةِ",
+      "translation": "pohon kurma",
+      "transliteration": "l-nakhlati"
+    },
+    {
+      "id": 27794,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_005.mp3",
+      "text": "تُسَـٰقِطْ",
+      "translation": "ia akan menggugurkan",
+      "transliteration": "tusāqiṭ"
+    },
+    {
+      "id": 27795,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_006.mp3",
+      "text": "عَلَيْكِ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayki"
+    },
+    {
+      "id": 27796,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_007.mp3",
+      "text": "رُطَبًۭا",
+      "translation": "basah/masak",
+      "transliteration": "ruṭaban"
+    },
+    {
+      "id": 27797,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_025_008.mp3",
+      "text": "جَنِيًّۭا",
+      "translation": "buah",
+      "transliteration": "janiyyan"
+    },
+    {
+      "id": 27798,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan goyanglah pangkal pohon kurma itu ke arahmu, niscaya pohon itu akan menggugurkan buah kurma yang masak kepadamu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 314610,
+    "timestamp_to": 326550,
+    "duration": 11940,
+    "segments": [
+      [
+        1,
+        314555,
+        317075
+      ],
+      [
+        2,
+        317075,
+        317995
+      ],
+      [
+        3,
+        317995,
+        318885
+      ],
+      [
+        4,
+        318885,
+        320705
+      ],
+      [
+        5,
+        320705,
+        321745
+      ],
+      [
+        6,
+        321745,
+        322725
+      ],
+      [
+        7,
+        322725,
+        324165
+      ],
+      [
+        8,
+        324165,
+        326450
+      ]
+    ]
+  }
+}

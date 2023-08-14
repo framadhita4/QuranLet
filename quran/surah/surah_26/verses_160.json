@@ -1,0 +1,86 @@
+{
+  "id": 3092,
+  "chapter_id": 26,
+  "verse_key": "26:160",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "كَذَّبَتْ قَوْمُ لُوطٍ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 81848,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_160_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 81849,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_160_002.mp3",
+      "text": "قَوْمُ",
+      "translation": "kaum",
+      "transliteration": "qawmu"
+    },
+    {
+      "id": 81850,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_160_003.mp3",
+      "text": "لُوطٍ",
+      "translation": "Lut",
+      "transliteration": "lūṭin"
+    },
+    {
+      "id": 81851,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_160_004.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 81852,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦٠",
+      "translation": "(160)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum Lūṭ telah mendustakan rasul-rasul,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1401290,
+    "timestamp_to": 1407530,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        1401265,
+        1402375
+      ],
+      [
+        2,
+        1402375,
+        1403035
+      ],
+      [
+        3,
+        1403035,
+        1403755
+      ],
+      [
+        4,
+        1403755,
+        1407460
+      ]
+    ]
+  }
+}

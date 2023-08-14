@@ -1,0 +1,60 @@
+{
+  "id": 4677,
+  "chapter_id": 51,
+  "verse_key": "51:2",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "فَٱلْحَـٰمِلَـٰتِ وِقْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 1127,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_002_001.mp3",
+      "text": "فَٱلْحَـٰمِلَـٰتِ",
+      "translation": "maka yang mengandung",
+      "transliteration": "fal-ḥāmilāti"
+    },
+    {
+      "id": 1128,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_002_002.mp3",
+      "text": "وِقْرًۭا",
+      "translation": "beban berat",
+      "transliteration": "wiq'ran"
+    },
+    {
+      "id": 1129,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan awan yang mengandung hujan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3580,
+    "timestamp_to": 7000,
+    "duration": 3420,
+    "segments": [
+      [
+        1,
+        3525,
+        5405
+      ],
+      [
+        2,
+        5405,
+        6860
+      ]
+    ]
+  }
+}

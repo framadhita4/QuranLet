@@ -1,0 +1,60 @@
+{
+  "id": 6194,
+  "chapter_id": 106,
+  "verse_key": "106:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 550,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3",
+  "words": [
+    {
+      "id": 266,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_001_001.mp3",
+      "text": "لِإِيلَـٰفِ",
+      "translation": "karena kebiasaan",
+      "transliteration": "liīlāfi"
+    },
+    {
+      "id": 267,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_001_002.mp3",
+      "text": "قُرَيْشٍ",
+      "translation": "orang-orang Qurais",
+      "transliteration": "qurayshin"
+    },
+    {
+      "id": 268,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena kebiasaan orang-orang Quraisy,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4620,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        0,
+        1290
+      ],
+      [
+        2,
+        1290,
+        4575
+      ]
+    ]
+  }
+}

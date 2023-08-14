@@ -1,0 +1,99 @@
+{
+  "id": 4686,
+  "chapter_id": 51,
+  "verse_key": "51:11",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 12440,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_011_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 12441,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_011_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 12442,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_011_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12443,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_011_004.mp3",
+      "text": "غَمْرَةٍۢ",
+      "translation": "kebodohan",
+      "transliteration": "ghamratin"
+    },
+    {
+      "id": 12444,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_011_005.mp3",
+      "text": "سَاهُونَ",
+      "translation": "orang-orang yang lalai",
+      "transliteration": "sāhūna"
+    },
+    {
+      "id": 12445,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang terbenam dalam kebodohan yang lalai,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41920,
+    "timestamp_to": 49420,
+    "duration": 7500,
+    "segments": [
+      [
+        1,
+        41855,
+        43115
+      ],
+      [
+        2,
+        43115,
+        43525
+      ],
+      [
+        3,
+        43525,
+        44065
+      ],
+      [
+        4,
+        44065,
+        45215
+      ],
+      [
+        5,
+        45215,
+        49290
+      ]
+    ]
+  }
+}

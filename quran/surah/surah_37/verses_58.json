@@ -1,0 +1,73 @@
+{
+  "id": 3846,
+  "chapter_id": 37,
+  "verse_key": "37:58",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 53591,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_058_001.mp3",
+      "text": "أَفَمَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afamā"
+    },
+    {
+      "id": 53592,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_058_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami/kita",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 53593,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_058_003.mp3",
+      "text": "بِمَيِّتِينَ",
+      "translation": "dengan mati",
+      "transliteration": "bimayyitīna"
+    },
+    {
+      "id": 53594,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kita tidak akan mati?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 489960,
+    "timestamp_to": 495240,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        489905,
+        490795
+      ],
+      [
+        2,
+        490795,
+        491425
+      ],
+      [
+        3,
+        491425,
+        495130
+      ]
+    ]
+  }
+}

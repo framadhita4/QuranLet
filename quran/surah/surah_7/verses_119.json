@@ -1,0 +1,86 @@
+{
+  "id": 1073,
+  "chapter_id": 7,
+  "verse_key": "7:119",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "فَغُلِبُوا۟ هُنَالِكَ وَٱنقَلَبُوا۟ صَـٰغِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 76203,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_001.mp3",
+      "text": "فَغُلِبُوا۟",
+      "translation": "maka mereka dikalahkan",
+      "transliteration": "faghulibū"
+    },
+    {
+      "id": 76204,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_002.mp3",
+      "text": "هُنَالِكَ",
+      "translation": "disana (ditempat itu)",
+      "transliteration": "hunālika"
+    },
+    {
+      "id": 76205,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_003.mp3",
+      "text": "وَٱنقَلَبُوا۟",
+      "translation": "dan mereka kembali",
+      "transliteration": "wa-inqalabū"
+    },
+    {
+      "id": 76206,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_004.mp3",
+      "text": "صَـٰغِرِينَ",
+      "translation": "menjadi kecil (kehinaan)",
+      "transliteration": "ṣāghirīna"
+    },
+    {
+      "id": 76207,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka kalah di tempat itu dan jadilah mereka orang-orang yang hina.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2635700,
+    "timestamp_to": 2644160,
+    "duration": 8460,
+    "segments": [
+      [
+        1,
+        2635635,
+        2636775
+      ],
+      [
+        2,
+        2636775,
+        2637925
+      ],
+      [
+        3,
+        2637925,
+        2640235
+      ],
+      [
+        4,
+        2640235,
+        2644060
+      ]
+    ]
+  }
+}

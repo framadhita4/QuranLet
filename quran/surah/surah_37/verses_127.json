@@ -1,0 +1,73 @@
+{
+  "id": 3915,
+  "chapter_id": 37,
+  "verse_key": "37:127",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 77515,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_127_001.mp3",
+      "text": "فَكَذَّبُوهُ",
+      "translation": "maka mereka mendustakannya",
+      "transliteration": "fakadhabūhu"
+    },
+    {
+      "id": 77516,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_127_002.mp3",
+      "text": "فَإِنَّهُمْ",
+      "translation": "maka sesungguhnya mereka",
+      "transliteration": "fa-innahum"
+    },
+    {
+      "id": 77517,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_127_003.mp3",
+      "text": "لَمُحْضَرُونَ",
+      "translation": "sungguh mereka dihadapkan",
+      "transliteration": "lamuḥ'ḍarūna"
+    },
+    {
+      "id": 77518,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٢٧",
+      "translation": "(127)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka mendustakannya karena itu mereka akan diseret (ke neraka),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1047090,
+    "timestamp_to": 1054460,
+    "duration": 7370,
+    "segments": [
+      [
+        1,
+        1047025,
+        1048535
+      ],
+      [
+        2,
+        1048535,
+        1050425
+      ],
+      [
+        3,
+        1050425,
+        1054330
+      ]
+    ]
+  }
+}

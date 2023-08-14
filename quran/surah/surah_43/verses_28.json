@@ -1,0 +1,125 @@
+{
+  "id": 4353,
+  "chapter_id": 43,
+  "verse_key": "43:28",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 428,
+  "manzil_number": 6,
+  "page_number": 491,
+  "juz_number": 25,
+  "text_uthmani": "وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 30571,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_001.mp3",
+      "text": "وَجَعَلَهَا",
+      "translation": "dan(Ibrahim) menjadikannya",
+      "transliteration": "wajaʿalahā"
+    },
+    {
+      "id": 30572,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_002.mp3",
+      "text": "كَلِمَةًۢ",
+      "translation": "kalimat",
+      "transliteration": "kalimatan"
+    },
+    {
+      "id": 30573,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_003.mp3",
+      "text": "بَاقِيَةًۭ",
+      "translation": "kekal",
+      "transliteration": "bāqiyatan"
+    },
+    {
+      "id": 30574,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_004.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 30575,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_005.mp3",
+      "text": "عَقِبِهِۦ",
+      "translation": "keturunannya",
+      "transliteration": "ʿaqibihi"
+    },
+    {
+      "id": 30576,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_006.mp3",
+      "text": "لَعَلَّهُمْ",
+      "translation": "supaya mereka",
+      "transliteration": "laʿallahum"
+    },
+    {
+      "id": 30577,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_028_007.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "mereka kembali",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 30578,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (lbrahim) menjadikan kalimat tauhid itu kalimat yang kekal pada keturunannya supaya mereka kembali kepada kalimat tauhid itu <sup foot_note_id=\"1356\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 385060,
+    "timestamp_to": 395740,
+    "duration": 10690,
+    "segments": [
+      [
+        1,
+        385035,
+        386245
+      ],
+      [
+        2,
+        386245,
+        387865
+      ],
+      [
+        3,
+        387865,
+        389605
+      ],
+      [
+        4,
+        389605,
+        390105
+      ],
+      [
+        5,
+        390105,
+        391205
+      ],
+      [
+        6,
+        391205,
+        392435
+      ],
+      [
+        7,
+        392435,
+        395670
+      ]
+    ]
+  }
+}

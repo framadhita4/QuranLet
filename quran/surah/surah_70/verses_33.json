@@ -1,0 +1,86 @@
+{
+  "id": 5408,
+  "chapter_id": 70,
+  "verse_key": "70:33",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 35534,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_033_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 35535,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_033_002.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 35536,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_033_003.mp3",
+      "text": "بِشَهَـٰدَٰتِهِمْ",
+      "translation": "dengan kesaksian mereka",
+      "transliteration": "bishahādātihim"
+    },
+    {
+      "id": 35537,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_033_004.mp3",
+      "text": "قَآئِمُونَ",
+      "translation": "orang-orang yang menegakkan",
+      "transliteration": "qāimūna"
+    },
+    {
+      "id": 35538,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang memberikan kesaksiannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 198240,
+    "timestamp_to": 207230,
+    "duration": 8990,
+    "segments": [
+      [
+        1,
+        198155,
+        199315
+      ],
+      [
+        2,
+        199315,
+        200215
+      ],
+      [
+        3,
+        200215,
+        202095
+      ],
+      [
+        4,
+        202095,
+        207060
+      ]
+    ]
+  }
+}

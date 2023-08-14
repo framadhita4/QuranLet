@@ -1,0 +1,86 @@
+{
+  "id": 6063,
+  "chapter_id": 92,
+  "verse_key": "92:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 4746,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_005_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 4747,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_005_002.mp3",
+      "text": "مَنْ",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 4748,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_005_003.mp3",
+      "text": "أَعْطَىٰ",
+      "translation": "ia memberikan",
+      "transliteration": "aʿṭā"
+    },
+    {
+      "id": 4749,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_005_004.mp3",
+      "text": "وَٱتَّقَىٰ",
+      "translation": "dan bertaqwa",
+      "transliteration": "wa-ittaqā"
+    },
+    {
+      "id": 4750,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang yang memberikan (hartanya di jalan Allah) dan bertakwa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 17030,
+    "timestamp_to": 21810,
+    "duration": 4780,
+    "segments": [
+      [
+        1,
+        16395,
+        18135
+      ],
+      [
+        2,
+        18135,
+        18545
+      ],
+      [
+        3,
+        18545,
+        19445
+      ],
+      [
+        4,
+        19445,
+        21120
+      ]
+    ]
+  }
+}

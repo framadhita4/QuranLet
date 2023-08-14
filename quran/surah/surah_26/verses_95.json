@@ -1,0 +1,73 @@
+{
+  "id": 3027,
+  "chapter_id": 26,
+  "verse_key": "26:95",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 69954,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_095_001.mp3",
+      "text": "وَجُنُودُ",
+      "translation": "dan bala tentara",
+      "transliteration": "wajunūdu"
+    },
+    {
+      "id": 69955,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_095_002.mp3",
+      "text": "إِبْلِيسَ",
+      "translation": "iblis",
+      "transliteration": "ib'līsa"
+    },
+    {
+      "id": 69956,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_095_003.mp3",
+      "text": "أَجْمَعُونَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿūna"
+    },
+    {
+      "id": 69957,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bala tentara iblis semuanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 891840,
+    "timestamp_to": 897430,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        891785,
+        892955
+      ],
+      [
+        2,
+        892955,
+        894045
+      ],
+      [
+        3,
+        894045,
+        897310
+      ]
+    ]
+  }
+}

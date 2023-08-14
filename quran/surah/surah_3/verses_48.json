@@ -1,0 +1,99 @@
+{
+  "id": 341,
+  "chapter_id": 3,
+  "verse_key": "3:48",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "ruku_number": 46,
+  "manzil_number": 1,
+  "page_number": 56,
+  "juz_number": 3,
+  "text_uthmani": "وَيُعَلِّمُهُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 47382,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_048_001.mp3",
+      "text": "وَيُعَلِّمُهُ",
+      "translation": "dan Dia mengajarkan kepadamu",
+      "transliteration": "wayuʿallimuhu"
+    },
+    {
+      "id": 47383,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_048_002.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "Al Kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 47384,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_048_003.mp3",
+      "text": "وَٱلْحِكْمَةَ",
+      "translation": "dan Hikmah",
+      "transliteration": "wal-ḥik'mata"
+    },
+    {
+      "id": 47385,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_048_004.mp3",
+      "text": "وَٱلتَّوْرَىٰةَ",
+      "translation": "dan Taurat",
+      "transliteration": "wal-tawrāta"
+    },
+    {
+      "id": 47386,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_048_005.mp3",
+      "text": "وَٱلْإِنجِيلَ",
+      "translation": "dan Injil",
+      "transliteration": "wal-injīla"
+    },
+    {
+      "id": 47387,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah akan mengajarkan kepadanya Alkitab<sup foot_note_id=\"197\">1</sup>, Hikmah, Taurat, dan Injil.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1100170,
+    "timestamp_to": 1109440,
+    "duration": 9270,
+    "segments": [
+      [
+        1,
+        1100105,
+        1101625
+      ],
+      [
+        2,
+        1101625,
+        1102795
+      ],
+      [
+        3,
+        1102795,
+        1104065
+      ],
+      [
+        4,
+        1104065,
+        1105525
+      ],
+      [
+        5,
+        1105525,
+        1109340
+      ]
+    ]
+  }
+}

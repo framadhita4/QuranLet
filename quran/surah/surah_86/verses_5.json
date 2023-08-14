@@ -1,0 +1,86 @@
+{
+  "id": 5936,
+  "chapter_id": 86,
+  "verse_key": "86:5",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 5502,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_005_001.mp3",
+      "text": "فَلْيَنظُرِ",
+      "translation": "maka hendaklah memperhatikan",
+      "transliteration": "falyanẓuri"
+    },
+    {
+      "id": 5503,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_005_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 5504,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_005_003.mp3",
+      "text": "مِمَّ",
+      "translation": "dari apa",
+      "transliteration": "mimma"
+    },
+    {
+      "id": 5505,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_005_004.mp3",
+      "text": "خُلِقَ",
+      "translation": "ia diciptakan",
+      "transliteration": "khuliqa"
+    },
+    {
+      "id": 5506,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka hendaklah manusia memperhatikan dari apakah dia diciptakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21020,
+    "timestamp_to": 27990,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        20895,
+        23035
+      ],
+      [
+        2,
+        23035,
+        25055
+      ],
+      [
+        3,
+        25055,
+        26575
+      ],
+      [
+        4,
+        26575,
+        27800
+      ]
+    ]
+  }
+}

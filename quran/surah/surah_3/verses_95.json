@@ -1,0 +1,177 @@
+{
+  "id": 388,
+  "chapter_id": 3,
+  "verse_key": "3:95",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "ruku_number": 51,
+  "manzil_number": 1,
+  "page_number": 62,
+  "juz_number": 4,
+  "text_uthmani": "قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 69903,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 69904,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_002.mp3",
+      "text": "صَدَقَ",
+      "translation": "benarlah",
+      "transliteration": "ṣadaqa"
+    },
+    {
+      "id": 69905,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_003.mp3",
+      "text": "ٱللَّهُ ۗ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 69907,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_005.mp3",
+      "text": "فَٱتَّبِعُوا۟",
+      "translation": "maka ikutilah",
+      "transliteration": "fa-ittabiʿū"
+    },
+    {
+      "id": 69908,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_006.mp3",
+      "text": "مِلَّةَ",
+      "translation": "agama",
+      "transliteration": "millata"
+    },
+    {
+      "id": 69909,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_007.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 69910,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_008.mp3",
+      "text": "حَنِيفًۭا",
+      "translation": "yang lurus",
+      "transliteration": "ḥanīfan"
+    },
+    {
+      "id": 69911,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_009.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak/bukan",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 69912,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_010.mp3",
+      "text": "كَانَ",
+      "translation": "adalah dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 69913,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_011.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 69914,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_095_012.mp3",
+      "text": "ٱلْمُشْرِكِينَ",
+      "translation": "orang-orang yang musyrik",
+      "transliteration": "l-mush'rikīna"
+    },
+    {
+      "id": 69915,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Benarlah (apa yang difirmankan) Allah\".  Maka ikutilah agama Ibrāhīm yang lurus, dan bukanlah dia termasuk orang-orang yang musyrik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2186290,
+    "timestamp_to": 2200080,
+    "duration": 13790,
+    "segments": [
+      [
+        1,
+        2186225,
+        2186655
+      ],
+      [
+        2,
+        2186655,
+        2187325
+      ],
+      [
+        3,
+        2187325,
+        2190185
+      ],
+      [
+        4,
+        2190185,
+        2191325
+      ],
+      [
+        5,
+        2191325,
+        2192205
+      ],
+      [
+        6,
+        2192205,
+        2193555
+      ],
+      [
+        7,
+        2193555,
+        2194685
+      ],
+      [
+        8,
+        2194685,
+        2195975
+      ],
+      [
+        9,
+        2195975,
+        2196615
+      ],
+      [
+        10,
+        2196615,
+        2196925
+      ],
+      [
+        11,
+        2196925,
+        2199960
+      ]
+    ]
+  }
+}

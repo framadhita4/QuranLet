@@ -1,0 +1,86 @@
+{
+  "id": 6112,
+  "chapter_id": 96,
+  "verse_key": "96:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 6676,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_006_001.mp3",
+      "text": "كَلَّآ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 6677,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_006_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 6678,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_006_003.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 6679,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_006_004.mp3",
+      "text": "لَيَطْغَىٰٓ",
+      "translation": "benar-benar melampui batas",
+      "transliteration": "layaṭghā"
+    },
+    {
+      "id": 6680,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketahuilah! Sesungguhnya manusia benar-benar melampaui batas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20660,
+    "timestamp_to": 27770,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        20235,
+        22615
+      ],
+      [
+        2,
+        22615,
+        23665
+      ],
+      [
+        3,
+        23665,
+        25715
+      ],
+      [
+        4,
+        25715,
+        27290
+      ]
+    ]
+  }
+}

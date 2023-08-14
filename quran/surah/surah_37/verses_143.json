@@ -1,0 +1,99 @@
+{
+  "id": 3931,
+  "chapter_id": 37,
+  "verse_key": "37:143",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79509,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_143_001.mp3",
+      "text": "فَلَوْلَآ",
+      "translation": "maka kalau tidak",
+      "transliteration": "falawlā"
+    },
+    {
+      "id": 79510,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_143_002.mp3",
+      "text": "أَنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "annahu"
+    },
+    {
+      "id": 79511,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_143_003.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 79512,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_143_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 79513,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_143_005.mp3",
+      "text": "ٱلْمُسَبِّحِينَ",
+      "translation": "orang-orang yang bertasbih",
+      "transliteration": "l-musabiḥīna"
+    },
+    {
+      "id": 79514,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٤٣",
+      "translation": "(143)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kalau sekiranya dia tidak termasuk orang-orang yang banyak mengingat Allah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1151890,
+    "timestamp_to": 1160510,
+    "duration": 8620,
+    "segments": [
+      [
+        1,
+        1151825,
+        1154194
+      ],
+      [
+        2,
+        1154195,
+        1155695
+      ],
+      [
+        3,
+        1155695,
+        1156395
+      ],
+      [
+        4,
+        1156395,
+        1156705
+      ],
+      [
+        5,
+        1156705,
+        1160420
+      ]
+    ]
+  }
+}

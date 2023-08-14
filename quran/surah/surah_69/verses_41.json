@@ -1,0 +1,125 @@
+{
+  "id": 5364,
+  "chapter_id": 69,
+  "verse_key": "69:41",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 42179,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 42180,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_002.mp3",
+      "text": "هُوَ",
+      "translation": "ia (Al Qur'an)",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 42181,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_003.mp3",
+      "text": "بِقَوْلِ",
+      "translation": "dengan perkataan",
+      "transliteration": "biqawli"
+    },
+    {
+      "id": 42182,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_004.mp3",
+      "text": "شَاعِرٍۢ ۚ",
+      "translation": "seorang penyair",
+      "transliteration": "shāʿirin"
+    },
+    {
+      "id": 42184,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_006.mp3",
+      "text": "قَلِيلًۭا",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 42185,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_007.mp3",
+      "text": "مَّا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 42186,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_041_008.mp3",
+      "text": "تُؤْمِنُونَ",
+      "translation": "kamu beriman",
+      "transliteration": "tu'minūna"
+    },
+    {
+      "id": 42187,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Al-Qur`ān itu bukanlah perkataan seorang penyair.  Sedikit sekali kamu beriman kepadanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 310090,
+    "timestamp_to": 318920,
+    "duration": 8830,
+    "segments": [
+      [
+        1,
+        310005,
+        310675
+      ],
+      [
+        2,
+        310675,
+        311095
+      ],
+      [
+        3,
+        311095,
+        311975
+      ],
+      [
+        4,
+        311975,
+        312965
+      ],
+      [
+        5,
+        312965,
+        314075
+      ],
+      [
+        6,
+        314075,
+        315405
+      ],
+      [
+        7,
+        315405,
+        318760
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5634,
+  "chapter_id": 77,
+  "verse_key": "77:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 14196,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_012_001.mp3",
+      "text": "لِأَىِّ",
+      "translation": "untuk manakah",
+      "transliteration": "li-ayyi"
+    },
+    {
+      "id": 14197,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_012_002.mp3",
+      "text": "يَوْمٍ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 14198,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_012_003.mp3",
+      "text": "أُجِّلَتْ",
+      "translation": "ditentukan/ditangguhkan",
+      "transliteration": "ujjilat"
+    },
+    {
+      "id": 14199,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Niscaya dikatakan kepada mereka), \"Sampai hari apakah ditangguhkan (mengazab orang-orang kafir itu)?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 34710,
+    "timestamp_to": 37580,
+    "duration": 2870,
+    "segments": [
+      [
+        1,
+        34655,
+        35545
+      ],
+      [
+        2,
+        35545,
+        36285
+      ],
+      [
+        3,
+        36285,
+        37460
+      ]
+    ]
+  }
+}

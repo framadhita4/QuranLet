@@ -1,0 +1,138 @@
+{
+  "id": 1791,
+  "chapter_id": 14,
+  "verse_key": "14:41",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 216,
+  "manzil_number": 3,
+  "page_number": 260,
+  "juz_number": 13,
+  "text_uthmani": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 42046,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_001.mp3",
+      "text": "رَبَّنَا",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 42047,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_002.mp3",
+      "text": "ٱغْفِرْ",
+      "translation": "ampunilah",
+      "transliteration": "igh'fir"
+    },
+    {
+      "id": 42048,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_003.mp3",
+      "text": "لِى",
+      "translation": "aku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 42049,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_004.mp3",
+      "text": "وَلِوَٰلِدَىَّ",
+      "translation": "dan kedua orang tuaku",
+      "transliteration": "waliwālidayya"
+    },
+    {
+      "id": 42050,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_005.mp3",
+      "text": "وَلِلْمُؤْمِنِينَ",
+      "translation": "dan kepada orang-orang mukmin",
+      "transliteration": "walil'mu'minīna"
+    },
+    {
+      "id": 42051,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_006.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 42052,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_007.mp3",
+      "text": "يَقُومُ",
+      "translation": "wahai kaumku",
+      "transliteration": "yaqūmu"
+    },
+    {
+      "id": 42053,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_041_008.mp3",
+      "text": "ٱلْحِسَابُ",
+      "translation": "hisab/perhitungan",
+      "transliteration": "l-ḥisābu"
+    },
+    {
+      "id": 42054,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ya Tuhan kami, beri ampunlah aku dan kedua ibu bapakku dan sekalian orang-orang mukmin pada hari terjadinya hisab (hari kiamat)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 988796,
+    "timestamp_to": 1000651,
+    "duration": 12070,
+    "segments": [
+      [
+        1,
+        988693,
+        989905
+      ],
+      [
+        2,
+        989905,
+        990584
+      ],
+      [
+        3,
+        990584,
+        990922
+      ],
+      [
+        4,
+        990922,
+        992936
+      ],
+      [
+        5,
+        992936,
+        995081
+      ],
+      [
+        6,
+        995081,
+        995668
+      ],
+      [
+        7,
+        995668,
+        996794
+      ],
+      [
+        8,
+        996794,
+        1000596
+      ]
+    ]
+  }
+}

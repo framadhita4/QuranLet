@@ -1,0 +1,190 @@
+{
+  "id": 3535,
+  "chapter_id": 33,
+  "verse_key": "33:2",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "ruku_number": 363,
+  "manzil_number": 5,
+  "page_number": 418,
+  "juz_number": 21,
+  "text_uthmani": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 1891,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_001.mp3",
+      "text": "وَٱتَّبِعْ",
+      "translation": "dan ikutilah",
+      "transliteration": "wa-ittabiʿ"
+    },
+    {
+      "id": 1892,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_002.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1893,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_003.mp3",
+      "text": "يُوحَىٰٓ",
+      "translation": "diwahyukan",
+      "transliteration": "yūḥā"
+    },
+    {
+      "id": 1894,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_004.mp3",
+      "text": "إِلَيْكَ",
+      "translation": "kepadamu",
+      "transliteration": "ilayka"
+    },
+    {
+      "id": 1895,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 1896,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_006.mp3",
+      "text": "رَّبِّكَ ۚ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 1898,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_008.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 1899,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_009.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 1900,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_010.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 1901,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_011.mp3",
+      "text": "بِمَا",
+      "translation": "tentang apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 1902,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_012.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 1903,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_002_013.mp3",
+      "text": "خَبِيرًۭا",
+      "translation": "Maha Mengetahui",
+      "transliteration": "khabīran"
+    },
+    {
+      "id": 1904,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan ikutilah apa yang diwahyukan Tuhan kepadamu.  Sesungguhnya Allah adalah Maha Mengetahui apa yang kamu kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16270,
+    "timestamp_to": 27740,
+    "duration": 11470,
+    "segments": [
+      [
+        1,
+        15905,
+        16805
+      ],
+      [
+        2,
+        16805,
+        17285
+      ],
+      [
+        3,
+        17285,
+        19435
+      ],
+      [
+        4,
+        19435,
+        20215
+      ],
+      [
+        5,
+        20215,
+        20345
+      ],
+      [
+        6,
+        20345,
+        21725
+      ],
+      [
+        7,
+        21725,
+        22735
+      ],
+      [
+        8,
+        22735,
+        23505
+      ],
+      [
+        9,
+        23505,
+        24115
+      ],
+      [
+        10,
+        24115,
+        24715
+      ],
+      [
+        11,
+        24715,
+        25905
+      ],
+      [
+        12,
+        25905,
+        27350
+      ]
+    ]
+  }
+}

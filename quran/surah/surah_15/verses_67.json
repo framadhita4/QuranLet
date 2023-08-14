@@ -1,0 +1,86 @@
+{
+  "id": 1869,
+  "chapter_id": 15,
+  "verse_key": "15:67",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 58345,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_067_001.mp3",
+      "text": "وَجَآءَ",
+      "translation": "dan datang",
+      "transliteration": "wajāa"
+    },
+    {
+      "id": 58346,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_067_002.mp3",
+      "text": "أَهْلُ",
+      "translation": "penduduk",
+      "transliteration": "ahlu"
+    },
+    {
+      "id": 58347,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_067_003.mp3",
+      "text": "ٱلْمَدِينَةِ",
+      "translation": "kota itu",
+      "transliteration": "l-madīnati"
+    },
+    {
+      "id": 58348,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_067_004.mp3",
+      "text": "يَسْتَبْشِرُونَ",
+      "translation": "mereka bergembira",
+      "transliteration": "yastabshirūna"
+    },
+    {
+      "id": 58349,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan datanglah penduduk kota itu (ke rumah Lūṭ) dengan gembira (karena) kedatangan tamu-tamu itu <sup foot_note_id=\"805\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 661080,
+    "timestamp_to": 668600,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        661055,
+        663425
+      ],
+      [
+        2,
+        663425,
+        663855
+      ],
+      [
+        3,
+        663855,
+        665215
+      ],
+      [
+        4,
+        665215,
+        668550
+      ]
+    ]
+  }
+}

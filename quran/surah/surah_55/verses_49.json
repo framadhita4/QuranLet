@@ -1,0 +1,86 @@
+{
+  "id": 4950,
+  "chapter_id": 55,
+  "verse_key": "55:49",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 47880,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_049_001.mp3",
+      "text": "فَبِأَىِّ",
+      "translation": "maka yang mana",
+      "transliteration": "fabi-ayyi"
+    },
+    {
+      "id": 47881,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_049_002.mp3",
+      "text": "ءَالَآءِ",
+      "translation": "ni'mat",
+      "transliteration": "ālāi"
+    },
+    {
+      "id": 47882,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_049_003.mp3",
+      "text": "رَبِّكُمَا",
+      "translation": "Tuhanmu berdua",
+      "transliteration": "rabbikumā"
+    },
+    {
+      "id": 47883,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_049_004.mp3",
+      "text": "تُكَذِّبَانِ",
+      "translation": "kamu berdua dustakan",
+      "transliteration": "tukadhibāni"
+    },
+    {
+      "id": 47884,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka nikmat Tuhan kamu yang manakah yang kamu dustakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 419830,
+    "timestamp_to": 428740,
+    "duration": 8910,
+    "segments": [
+      [
+        1,
+        419715,
+        420825
+      ],
+      [
+        2,
+        420825,
+        423235
+      ],
+      [
+        3,
+        423235,
+        424505
+      ],
+      [
+        4,
+        424505,
+        428570
+      ]
+    ]
+  }
+}

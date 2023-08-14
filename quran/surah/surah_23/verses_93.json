@@ -1,0 +1,112 @@
+{
+  "id": 2766,
+  "chapter_id": 23,
+  "verse_key": "23:93",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 69266,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_093_001.mp3",
+      "text": "قُل",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 69267,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_093_002.mp3",
+      "text": "رَّبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 69268,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_093_003.mp3",
+      "text": "إِمَّا",
+      "translation": "adapun/jika",
+      "transliteration": "immā"
+    },
+    {
+      "id": 69269,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_093_004.mp3",
+      "text": "تُرِيَنِّى",
+      "translation": "Engkau memperlihatkan kepadaku",
+      "transliteration": "turiyannī"
+    },
+    {
+      "id": 69270,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_093_005.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 69271,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_093_006.mp3",
+      "text": "يُوعَدُونَ",
+      "translation": "mereka diancam",
+      "transliteration": "yūʿadūna"
+    },
+    {
+      "id": 69272,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Ya Tuhan, jika Engkau sungguh-sungguh hendak memperlihatkan kepadaku azab yang diancamkan kepada mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1166820,
+    "timestamp_to": 1174940,
+    "duration": 8130,
+    "segments": [
+      [
+        1,
+        1166795,
+        1167035
+      ],
+      [
+        2,
+        1167035,
+        1167795
+      ],
+      [
+        3,
+        1167795,
+        1169195
+      ],
+      [
+        4,
+        1169195,
+        1171265
+      ],
+      [
+        5,
+        1171265,
+        1171695
+      ],
+      [
+        6,
+        1171695,
+        1174890
+      ]
+    ]
+  }
+}

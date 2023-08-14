@@ -1,0 +1,73 @@
+{
+  "id": 6092,
+  "chapter_id": 94,
+  "verse_key": "94:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3",
+  "words": [
+    {
+      "id": 1361,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_002_001.mp3",
+      "text": "وَوَضَعْنَا",
+      "translation": "dan Kami letakkan/turunkan",
+      "transliteration": "wawaḍaʿnā"
+    },
+    {
+      "id": 1362,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_002_002.mp3",
+      "text": "عَنكَ",
+      "translation": "dari kamu",
+      "transliteration": "ʿanka"
+    },
+    {
+      "id": 1363,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_002_003.mp3",
+      "text": "وِزْرَكَ",
+      "translation": "bebanmu",
+      "transliteration": "wiz'raka"
+    },
+    {
+      "id": 1364,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami telah menghilangkan darimu bebanmu<sup foot_note_id=\"1585\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3580,
+    "timestamp_to": 7970,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        3515,
+        4865
+      ],
+      [
+        2,
+        4865,
+        6485
+      ],
+      [
+        3,
+        6485,
+        7830
+      ]
+    ]
+  }
+}

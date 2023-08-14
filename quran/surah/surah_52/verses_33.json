@@ -1,0 +1,112 @@
+{
+  "id": 4768,
+  "chapter_id": 52,
+  "verse_key": "52:33",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 35409,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_033_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 35410,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_033_002.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka mengatakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 35411,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_033_003.mp3",
+      "text": "تَقَوَّلَهُۥ ۚ",
+      "translation": "ia mengada-adakannya",
+      "transliteration": "taqawwalahu"
+    },
+    {
+      "id": 35413,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_033_005.mp3",
+      "text": "بَل",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 35414,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_033_006.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 35415,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_033_007.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka tidak beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 35416,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah mereka mengatakan, \"Dia (Muhammad) membuat-buatnya\".  Sebenarnya mereka tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 306800,
+    "timestamp_to": 314430,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        306715,
+        307105
+      ],
+      [
+        2,
+        307105,
+        308585
+      ],
+      [
+        3,
+        308585,
+        310345
+      ],
+      [
+        4,
+        310345,
+        310585
+      ],
+      [
+        5,
+        310585,
+        311295
+      ],
+      [
+        6,
+        311295,
+        314280
+      ]
+    ]
+  }
+}

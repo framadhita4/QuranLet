@@ -1,0 +1,216 @@
+{
+  "id": 3604,
+  "chapter_id": 33,
+  "verse_key": "33:71",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "ruku_number": 371,
+  "manzil_number": 5,
+  "page_number": 427,
+  "juz_number": 22,
+  "text_uthmani": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 60227,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_001.mp3",
+      "text": "يُصْلِحْ",
+      "translation": "Dia akan memperbaiki",
+      "transliteration": "yuṣ'liḥ"
+    },
+    {
+      "id": 60228,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 60229,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_003.mp3",
+      "text": "أَعْمَـٰلَكُمْ",
+      "translation": "amalan kamu",
+      "transliteration": "aʿmālakum"
+    },
+    {
+      "id": 60230,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_004.mp3",
+      "text": "وَيَغْفِرْ",
+      "translation": "dan mengampuni",
+      "transliteration": "wayaghfir"
+    },
+    {
+      "id": 60231,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_005.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 60232,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_006.mp3",
+      "text": "ذُنُوبَكُمْ ۗ",
+      "translation": "dosa-dosa kamu",
+      "transliteration": "dhunūbakum"
+    },
+    {
+      "id": 60234,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_008.mp3",
+      "text": "وَمَن",
+      "translation": "dan siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 60235,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_009.mp3",
+      "text": "يُطِعِ",
+      "translation": "mentaati",
+      "transliteration": "yuṭiʿi"
+    },
+    {
+      "id": 60236,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_010.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 60237,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_011.mp3",
+      "text": "وَرَسُولَهُۥ",
+      "translation": "dan rasulnya",
+      "transliteration": "warasūlahu"
+    },
+    {
+      "id": 60238,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_012.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sungguh",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 60239,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_013.mp3",
+      "text": "فَازَ",
+      "translation": "ia mendapat keuntungan/kemenangan",
+      "transliteration": "fāza"
+    },
+    {
+      "id": 60240,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_014.mp3",
+      "text": "فَوْزًا",
+      "translation": "keuntungan/kemenangan",
+      "transliteration": "fawzan"
+    },
+    {
+      "id": 60241,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_071_015.mp3",
+      "text": "عَظِيمًا",
+      "translation": "besar",
+      "transliteration": "ʿaẓīman"
+    },
+    {
+      "id": 60242,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya Allah memperbaiki bagimu amalan-amalanmu dan mengampuni bagimu dosa-dosamu.  Dan barang siapa menaati Allah dan rasul-Nya, maka sesungguhnya ia telah mendapat kemenangan yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1534980,
+    "timestamp_to": 1548250,
+    "duration": 13270,
+    "segments": [
+      [
+        1,
+        1534955,
+        1535805
+      ],
+      [
+        2,
+        1535805,
+        1536375
+      ],
+      [
+        3,
+        1536375,
+        1537715
+      ],
+      [
+        4,
+        1537715,
+        1538695
+      ],
+      [
+        5,
+        1538695,
+        1539215
+      ],
+      [
+        6,
+        1539215,
+        1540765
+      ],
+      [
+        7,
+        1540765,
+        1541155
+      ],
+      [
+        8,
+        1541155,
+        1542515
+      ],
+      [
+        9,
+        1542515,
+        1543235
+      ],
+      [
+        10,
+        1543235,
+        1544475
+      ],
+      [
+        11,
+        1544475,
+        1545145
+      ],
+      [
+        12,
+        1545145,
+        1545755
+      ],
+      [
+        13,
+        1545755,
+        1546505
+      ],
+      [
+        14,
+        1546505,
+        1547680
+      ]
+    ]
+  }
+}

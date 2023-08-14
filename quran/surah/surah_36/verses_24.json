@@ -1,0 +1,99 @@
+{
+  "id": 3729,
+  "chapter_id": 36,
+  "verse_key": "36:24",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "إِنِّىٓ إِذًا لَّفِى ضَلَـٰلٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 27408,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_024_001.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 27409,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_024_002.mp3",
+      "text": "إِذًۭا",
+      "translation": "jika demikian",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 27410,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_024_003.mp3",
+      "text": "لَّفِى",
+      "translation": "sungguh/pasti dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 27411,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_024_004.mp3",
+      "text": "ضَلَـٰلٍۢ",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālin"
+    },
+    {
+      "id": 27412,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_024_005.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 27413,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya, aku kalau begitu pasti berada dalam kesesatan yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 293880,
+    "timestamp_to": 303620,
+    "duration": 9740,
+    "segments": [
+      [
+        1,
+        293775,
+        296815
+      ],
+      [
+        2,
+        296815,
+        297245
+      ],
+      [
+        3,
+        297245,
+        298035
+      ],
+      [
+        4,
+        298035,
+        299585
+      ],
+      [
+        5,
+        299585,
+        303450
+      ]
+    ]
+  }
+}

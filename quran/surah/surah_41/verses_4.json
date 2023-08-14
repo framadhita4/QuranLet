@@ -1,0 +1,125 @@
+{
+  "id": 4222,
+  "chapter_id": 41,
+  "verse_key": "41:4",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 415,
+  "manzil_number": 6,
+  "page_number": 477,
+  "juz_number": 24,
+  "text_uthmani": "بَشِيرًا وَنَذِيرًا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3",
+  "words": [
+    {
+      "id": 3312,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_001.mp3",
+      "text": "بَشِيرًۭا",
+      "translation": "berita gembira",
+      "transliteration": "bashīran"
+    },
+    {
+      "id": 3313,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_002.mp3",
+      "text": "وَنَذِيرًۭا",
+      "translation": "dan peringatan",
+      "transliteration": "wanadhīran"
+    },
+    {
+      "id": 3314,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_003.mp3",
+      "text": "فَأَعْرَضَ",
+      "translation": "tetapi berpaling",
+      "transliteration": "fa-aʿraḍa"
+    },
+    {
+      "id": 3315,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_004.mp3",
+      "text": "أَكْثَرُهُمْ",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharuhum"
+    },
+    {
+      "id": 3316,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_005.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 3317,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_006.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 3318,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_004_007.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengarkan",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 3319,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang membawa berita gembira dan yang membawa peringatan, tetapi kebanyakan mereka berpaling (daripadanya), maka mereka tidak mau mendengarkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23310,
+    "timestamp_to": 33180,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        23255,
+        24145
+      ],
+      [
+        2,
+        24145,
+        26445
+      ],
+      [
+        3,
+        26445,
+        27515
+      ],
+      [
+        4,
+        27515,
+        28615
+      ],
+      [
+        5,
+        28615,
+        29205
+      ],
+      [
+        6,
+        29205,
+        29615
+      ],
+      [
+        7,
+        29615,
+        33100
+      ]
+    ]
+  }
+}

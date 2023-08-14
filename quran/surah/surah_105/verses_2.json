@@ -1,0 +1,99 @@
+{
+  "id": 6190,
+  "chapter_id": 105,
+  "verse_key": "105:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 549,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3",
+  "words": [
+    {
+      "id": 1019,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_002_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "apakah tidak",
+      "transliteration": "alam"
+    },
+    {
+      "id": 1020,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_002_002.mp3",
+      "text": "يَجْعَلْ",
+      "translation": "Dia jadikan",
+      "transliteration": "yajʿal"
+    },
+    {
+      "id": 1021,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_002_003.mp3",
+      "text": "كَيْدَهُمْ",
+      "translation": "tipu daya mereka",
+      "transliteration": "kaydahum"
+    },
+    {
+      "id": 1022,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_002_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 1023,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_002_005.mp3",
+      "text": "تَضْلِيلٍۢ",
+      "translation": "kesesatan/sia-sia",
+      "transliteration": "taḍlīlin"
+    },
+    {
+      "id": 1024,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Kakbah) itu sia-sia?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7940,
+    "timestamp_to": 14210,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        7895,
+        8555
+      ],
+      [
+        2,
+        8555,
+        9365
+      ],
+      [
+        3,
+        9365,
+        10445
+      ],
+      [
+        4,
+        10445,
+        10885
+      ],
+      [
+        5,
+        10885,
+        14090
+      ]
+    ]
+  }
+}

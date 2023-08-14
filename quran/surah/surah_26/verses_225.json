@@ -1,0 +1,125 @@
+{
+  "id": 3157,
+  "chapter_id": 26,
+  "verse_key": "26:225",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "أَلَمْ تَرَ أَنَّهُمْ فِى كُلِّ وَادٍ يَهِيمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 86177,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidakkah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 86178,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_002.mp3",
+      "text": "تَرَ",
+      "translation": "kamu melihat",
+      "transliteration": "tara"
+    },
+    {
+      "id": 86179,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_003.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "bahwasanya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 86180,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 86181,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_005.mp3",
+      "text": "كُلِّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 86182,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_006.mp3",
+      "text": "وَادٍۢ",
+      "translation": "lembah",
+      "transliteration": "wādin"
+    },
+    {
+      "id": 86183,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_225_007.mp3",
+      "text": "يَهِيمُونَ",
+      "translation": "mereka mengembara",
+      "transliteration": "yahīmūna"
+    },
+    {
+      "id": 86184,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٢٥",
+      "translation": "(225)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidakkah kamu melihat bahwasanya mereka mengembara di tiap-tiap lembah <sup foot_note_id=\"1089\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1923440,
+    "timestamp_to": 1931750,
+    "duration": 8310,
+    "segments": [
+      [
+        1,
+        1923365,
+        1923915
+      ],
+      [
+        2,
+        1923915,
+        1924375
+      ],
+      [
+        3,
+        1924375,
+        1925965
+      ],
+      [
+        4,
+        1925965,
+        1926395
+      ],
+      [
+        5,
+        1926395,
+        1927025
+      ],
+      [
+        6,
+        1927025,
+        1928555
+      ],
+      [
+        7,
+        1928555,
+        1931650
+      ]
+    ]
+  }
+}

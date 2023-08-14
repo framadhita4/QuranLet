@@ -1,0 +1,86 @@
+{
+  "id": 5005,
+  "chapter_id": 56,
+  "verse_key": "56:26",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 28877,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_026_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 28878,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_026_002.mp3",
+      "text": "قِيلًۭا",
+      "translation": "perkataan",
+      "transliteration": "qīlan"
+    },
+    {
+      "id": 28879,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_026_003.mp3",
+      "text": "سَلَـٰمًۭا",
+      "translation": "selamat/sejahtera",
+      "transliteration": "salāman"
+    },
+    {
+      "id": 28880,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_026_004.mp3",
+      "text": "سَلَـٰمًۭا",
+      "translation": "selamat/sejahtera",
+      "transliteration": "salāman"
+    },
+    {
+      "id": 28881,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "akan tetapi mereka mendengar ucapan salam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 162370,
+    "timestamp_to": 168820,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        161785,
+        162685
+      ],
+      [
+        2,
+        162685,
+        164255
+      ],
+      [
+        3,
+        164255,
+        165765
+      ],
+      [
+        4,
+        165765,
+        168180
+      ]
+    ]
+  }
+}

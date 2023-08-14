@@ -1,0 +1,135 @@
+{
+  "id": 1731,
+  "chapter_id": 13,
+  "verse_key": "13:24",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "ruku_number": 207,
+  "manzil_number": 3,
+  "page_number": 252,
+  "juz_number": 13,
+  "text_uthmani": "سَلَـٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3",
+  "words": [
+    {
+      "id": 27310,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_001.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "keselamatan",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 27311,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_002.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 27312,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_003.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/sebab",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 27313,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_004.mp3",
+      "text": "صَبَرْتُمْ ۚ",
+      "translation": "kesabaranmu",
+      "transliteration": "ṣabartum"
+    },
+    {
+      "id": 27315,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_006.mp3",
+      "text": "فَنِعْمَ",
+      "translation": "maka alangkah nikmatnya/baiknya",
+      "transliteration": "faniʿ'ma"
+    },
+    {
+      "id": 27316,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_007.mp3",
+      "text": "عُقْبَى",
+      "translation": "kesudahan",
+      "transliteration": "ʿuq'bā"
+    },
+    {
+      "id": 27317,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_024_008.mp3",
+      "text": "ٱلدَّارِ",
+      "translation": "tempat",
+      "transliteration": "l-dāri"
+    },
+    {
+      "id": 27318,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(sambil mengucapkan), \"Salāmun ʻalaikum bimā ṣabartum <sup foot_note_id=\"772\">1</sup>\".   Maka alangkah baiknya tempat kesudahan itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 687550,
+    "timestamp_to": 697140,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        687515,
+        688645
+      ],
+      [
+        2,
+        688645,
+        690785
+      ],
+      [
+        3,
+        690785,
+        691405
+      ],
+      [
+        4,
+        691405,
+        692705
+      ],
+      [
+        5,
+        692705,
+        693625
+      ],
+      [
+        6,
+        693625,
+        694295
+      ],
+      [
+        7,
+        694295,
+        694825
+      ],
+      [
+        6,
+        694825,
+        696005
+      ],
+      [
+        7,
+        696005,
+        697040
+      ]
+    ]
+  }
+}

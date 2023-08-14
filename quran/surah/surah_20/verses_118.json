@@ -1,0 +1,125 @@
+{
+  "id": 2466,
+  "chapter_id": 20,
+  "verse_key": "20:118",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 276,
+  "manzil_number": 4,
+  "page_number": 320,
+  "juz_number": 16,
+  "text_uthmani": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 75937,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 75938,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_002.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 75939,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_003.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 75940,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_004.mp3",
+      "text": "تَجُوعَ",
+      "translation": "kamu kelaparan",
+      "transliteration": "tajūʿa"
+    },
+    {
+      "id": 75941,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_005.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 75942,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_006.mp3",
+      "text": "وَلَا",
+      "translation": "dan kamu tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 75943,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_118_007.mp3",
+      "text": "تَعْرَىٰ",
+      "translation": "telanjang",
+      "transliteration": "taʿrā"
+    },
+    {
+      "id": 75944,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١٨",
+      "translation": "(118)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu tidak akan kelaparan di dalamnya dan tidak akan telanjang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1367980,
+    "timestamp_to": 1373860,
+    "duration": 5880,
+    "segments": [
+      [
+        1,
+        1367945,
+        1368945
+      ],
+      [
+        2,
+        1368945,
+        1369405
+      ],
+      [
+        3,
+        1369405,
+        1370135
+      ],
+      [
+        4,
+        1370135,
+        1371035
+      ],
+      [
+        5,
+        1371035,
+        1371755
+      ],
+      [
+        6,
+        1371755,
+        1372515
+      ],
+      [
+        7,
+        1372515,
+        1373800
+      ]
+    ]
+  }
+}

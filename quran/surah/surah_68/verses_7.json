@@ -1,0 +1,177 @@
+{
+  "id": 5278,
+  "chapter_id": 68,
+  "verse_key": "68:7",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 7876,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 7877,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 7878,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_003.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 7879,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_004.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 7880,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_005.mp3",
+      "text": "بِمَن",
+      "translation": "pada siapa",
+      "transliteration": "biman"
+    },
+    {
+      "id": 7881,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_006.mp3",
+      "text": "ضَلَّ",
+      "translation": "ia sesat",
+      "transliteration": "ḍalla"
+    },
+    {
+      "id": 7882,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_007.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 7883,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_008.mp3",
+      "text": "سَبِيلِهِۦ",
+      "translation": "jalan-Nya",
+      "transliteration": "sabīlihi"
+    },
+    {
+      "id": 7884,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_009.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 7885,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_010.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 7886,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_011.mp3",
+      "text": "بِٱلْمُهْتَدِينَ",
+      "translation": "terhadap orang-orang yang mendapat petunjuk",
+      "transliteration": "bil-muh'tadīna"
+    },
+    {
+      "id": 7887,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu, Dia-lah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dia-lah yang paling mengetahui orang-orang yang mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39760,
+    "timestamp_to": 52270,
+    "duration": 12510,
+    "segments": [
+      [
+        1,
+        39695,
+        41115
+      ],
+      [
+        2,
+        41115,
+        41915
+      ],
+      [
+        3,
+        41915,
+        42245
+      ],
+      [
+        4,
+        42245,
+        43095
+      ],
+      [
+        5,
+        43095,
+        44385
+      ],
+      [
+        6,
+        44385,
+        44955
+      ],
+      [
+        7,
+        44955,
+        45385
+      ],
+      [
+        8,
+        45385,
+        47305
+      ],
+      [
+        9,
+        47305,
+        47925
+      ],
+      [
+        10,
+        47925,
+        48795
+      ],
+      [
+        11,
+        48795,
+        52130
+      ]
+    ]
+  }
+}

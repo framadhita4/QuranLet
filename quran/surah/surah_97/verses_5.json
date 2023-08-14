@@ -1,0 +1,99 @@
+{
+  "id": 6130,
+  "chapter_id": 97,
+  "verse_key": "97:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 541,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3",
+  "words": [
+    {
+      "id": 4984,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_005_001.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "sejahtera",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 4985,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_005_002.mp3",
+      "text": "هِىَ",
+      "translation": "ia/malam itu",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 4986,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_005_003.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "hingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 4987,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_005_004.mp3",
+      "text": "مَطْلَعِ",
+      "translation": "terbit",
+      "transliteration": "maṭlaʿi"
+    },
+    {
+      "id": 4988,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_005_005.mp3",
+      "text": "ٱلْفَجْرِ",
+      "translation": "fajar",
+      "transliteration": "l-fajri"
+    },
+    {
+      "id": 4989,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Malam itu (penuh) kesejahteraan sampai terbit fajar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30600,
+    "timestamp_to": 35820,
+    "duration": 5230,
+    "segments": [
+      [
+        1,
+        30235,
+        31395
+      ],
+      [
+        2,
+        31395,
+        31815
+      ],
+      [
+        3,
+        31815,
+        32715
+      ],
+      [
+        4,
+        32715,
+        33625
+      ],
+      [
+        5,
+        33625,
+        35320
+      ]
+    ]
+  }
+}

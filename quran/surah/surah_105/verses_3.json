@@ -1,0 +1,86 @@
+{
+  "id": 6191,
+  "chapter_id": 105,
+  "verse_key": "105:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 549,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3",
+  "words": [
+    {
+      "id": 2361,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_003_001.mp3",
+      "text": "وَأَرْسَلَ",
+      "translation": "dan Dia mengirimkan",
+      "transliteration": "wa-arsala"
+    },
+    {
+      "id": 2362,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_003_002.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 2363,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_003_003.mp3",
+      "text": "طَيْرًا",
+      "translation": "burung",
+      "transliteration": "ṭayran"
+    },
+    {
+      "id": 2364,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_003_004.mp3",
+      "text": "أَبَابِيلَ",
+      "translation": "yang berbondong-bondong",
+      "transliteration": "abābīla"
+    },
+    {
+      "id": 2365,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Dia mengirimkan kapada mereka burung yang berbondong-bondong,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14210,
+    "timestamp_to": 21110,
+    "duration": 6900,
+    "segments": [
+      [
+        1,
+        14135,
+        15245
+      ],
+      [
+        2,
+        15245,
+        16285
+      ],
+      [
+        3,
+        16285,
+        17115
+      ],
+      [
+        4,
+        17115,
+        20470
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 560,
+  "chapter_id": 4,
+  "verse_key": "4:67",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "ruku_number": 70,
+  "manzil_number": 1,
+  "page_number": 89,
+  "juz_number": 5,
+  "text_uthmani": "وَإِذًا لَّـَٔاتَيْنَـٰهُم مِّن لَّدُنَّآ أَجْرًا عَظِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 58121,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_067_001.mp3",
+      "text": "وَإِذًۭا",
+      "translation": "dan kalau demikian",
+      "transliteration": "wa-idhan"
+    },
+    {
+      "id": 58122,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_067_002.mp3",
+      "text": "لَّـَٔاتَيْنَـٰهُم",
+      "translation": "pasti Kami berikan",
+      "transliteration": "laātaynāhum"
+    },
+    {
+      "id": 58123,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_067_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 58124,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_067_004.mp3",
+      "text": "لَّدُنَّآ",
+      "translation": "sisi Kami",
+      "transliteration": "ladunnā"
+    },
+    {
+      "id": 58125,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_067_005.mp3",
+      "text": "أَجْرًا",
+      "translation": "pahala",
+      "transliteration": "ajran"
+    },
+    {
+      "id": 58126,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_067_006.mp3",
+      "text": "عَظِيمًۭا",
+      "translation": "besar",
+      "transliteration": "ʿaẓīman"
+    },
+    {
+      "id": 58127,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kalau demikian, pasti Kami berikan kepada mereka pahala yang besar dari sisi Kami,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2001370,
+    "timestamp_to": 2009940,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        2001045,
+        2001785
+      ],
+      [
+        2,
+        2001785,
+        2003985
+      ],
+      [
+        3,
+        2003985,
+        2004645
+      ],
+      [
+        4,
+        2004645,
+        2006145
+      ],
+      [
+        5,
+        2006145,
+        2008145
+      ],
+      [
+        6,
+        2008145,
+        2009360
+      ]
+    ]
+  }
+}

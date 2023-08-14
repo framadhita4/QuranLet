@@ -1,0 +1,546 @@
+{
+  "id": 5095,
+  "chapter_id": 57,
+  "verse_key": "57:20",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "ruku_number": 476,
+  "manzil_number": 7,
+  "page_number": 540,
+  "juz_number": 27,
+  "text_uthmani": "ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/57.mp3",
+  "words": [
+    {
+      "id": 22603,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_001.mp3",
+      "text": "ٱعْلَمُوٓا۟",
+      "translation": "ketahuilah",
+      "transliteration": "iʿ'lamū"
+    },
+    {
+      "id": 22604,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_002.mp3",
+      "text": "أَنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "annamā"
+    },
+    {
+      "id": 22605,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_003.mp3",
+      "text": "ٱلْحَيَوٰةُ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayatu"
+    },
+    {
+      "id": 22606,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_004.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 22607,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_005.mp3",
+      "text": "لَعِبٌۭ",
+      "translation": "permainan",
+      "transliteration": "laʿibun"
+    },
+    {
+      "id": 22608,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_006.mp3",
+      "text": "وَلَهْوٌۭ",
+      "translation": "dan senda gurau",
+      "transliteration": "walahwun"
+    },
+    {
+      "id": 22609,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_007.mp3",
+      "text": "وَزِينَةٌۭ",
+      "translation": "dan perhiasan",
+      "transliteration": "wazīnatun"
+    },
+    {
+      "id": 22610,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_008.mp3",
+      "text": "وَتَفَاخُرٌۢ",
+      "translation": "dan bermegah-megahan",
+      "transliteration": "watafākhurun"
+    },
+    {
+      "id": 22611,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_009.mp3",
+      "text": "بَيْنَكُمْ",
+      "translation": "diantara kamu",
+      "transliteration": "baynakum"
+    },
+    {
+      "id": 22612,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_010.mp3",
+      "text": "وَتَكَاثُرٌۭ",
+      "translation": "dan berbangga-banggaan",
+      "transliteration": "watakāthurun"
+    },
+    {
+      "id": 22613,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_011.mp3",
+      "text": "فِى",
+      "translation": "pada/tentang",
+      "transliteration": "fī"
+    },
+    {
+      "id": 22614,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_012.mp3",
+      "text": "ٱلْأَمْوَٰلِ",
+      "translation": "harta",
+      "transliteration": "l-amwāli"
+    },
+    {
+      "id": 22615,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_013.mp3",
+      "text": "وَٱلْأَوْلَـٰدِ ۖ",
+      "translation": "dan anak-anak",
+      "transliteration": "wal-awlādi"
+    },
+    {
+      "id": 22617,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_015.mp3",
+      "text": "كَمَثَلِ",
+      "translation": "seperti perumpamaan",
+      "transliteration": "kamathali"
+    },
+    {
+      "id": 22618,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_016.mp3",
+      "text": "غَيْثٍ",
+      "translation": "hujan",
+      "transliteration": "ghaythin"
+    },
+    {
+      "id": 22619,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_017.mp3",
+      "text": "أَعْجَبَ",
+      "translation": "mengagumkan",
+      "transliteration": "aʿjaba"
+    },
+    {
+      "id": 22620,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_018.mp3",
+      "text": "ٱلْكُفَّارَ",
+      "translation": "orang-orang kafir/petani",
+      "transliteration": "l-kufāra"
+    },
+    {
+      "id": 22621,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_019.mp3",
+      "text": "نَبَاتُهُۥ",
+      "translation": "tanaman-tanamannya",
+      "transliteration": "nabātuhu"
+    },
+    {
+      "id": 22622,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_020.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 22623,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_021.mp3",
+      "text": "يَهِيجُ",
+      "translation": "ia menjadi kering",
+      "transliteration": "yahīju"
+    },
+    {
+      "id": 22624,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_022.mp3",
+      "text": "فَتَرَىٰهُ",
+      "translation": "maka kamu melihatnya",
+      "transliteration": "fatarāhu"
+    },
+    {
+      "id": 22625,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_023.mp3",
+      "text": "مُصْفَرًّۭا",
+      "translation": "kuning",
+      "transliteration": "muṣ'farran"
+    },
+    {
+      "id": 22626,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_024.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 22627,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_025.mp3",
+      "text": "يَكُونُ",
+      "translation": "adalah ia",
+      "transliteration": "yakūnu"
+    },
+    {
+      "id": 22628,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_026.mp3",
+      "text": "حُطَـٰمًۭا ۖ",
+      "translation": "hancur",
+      "transliteration": "ḥuṭāman"
+    },
+    {
+      "id": 22630,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_028.mp3",
+      "text": "وَفِى",
+      "translation": "dan pada",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 22631,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_029.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 22632,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_030.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 22633,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_031.mp3",
+      "text": "شَدِيدٌۭ",
+      "translation": "pedih",
+      "transliteration": "shadīdun"
+    },
+    {
+      "id": 22634,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_032.mp3",
+      "text": "وَمَغْفِرَةٌۭ",
+      "translation": "dan ampunan",
+      "transliteration": "wamaghfiratun"
+    },
+    {
+      "id": 22635,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_033.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 22636,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_034.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 22637,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_035.mp3",
+      "text": "وَرِضْوَٰنٌۭ ۚ",
+      "translation": "dan keridaan",
+      "transliteration": "wariḍ'wānun"
+    },
+    {
+      "id": 22639,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_037.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 22640,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_038.mp3",
+      "text": "ٱلْحَيَوٰةُ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayatu"
+    },
+    {
+      "id": 22641,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_039.mp3",
+      "text": "ٱلدُّنْيَآ",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 22642,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_040.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 22643,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_041.mp3",
+      "text": "مَتَـٰعُ",
+      "translation": "kesenangan",
+      "transliteration": "matāʿu"
+    },
+    {
+      "id": 22644,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_020_042.mp3",
+      "text": "ٱلْغُرُورِ",
+      "translation": "tipuan",
+      "transliteration": "l-ghurūri"
+    },
+    {
+      "id": 22645,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketahuilah, bahwa sesungguhnya kehidupan dunia itu hanyalah permainan dan suatu yang melalaikan, perhiasan, dan bermegah-megah antara kamu serta berbangga-banggaan tentang banyaknya harta dan anak, seperti hujan yang tanam-tanamannya mengagumkan para petani; kemudian tanaman itu menjadi kering dan kamu lihat warnanya kuning kemudian menjadi hancur. Dan di akhirat (nanti) ada azab yang keras dan ampunan dari Allah serta keridaan-Nya.  Dan kehidupan dunia ini tidak lain hanyalah kesenangan yang menipu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 456870,
+    "timestamp_to": 513970,
+    "duration": 57040,
+    "segments": [
+      [
+        1,
+        456805,
+        459155
+      ],
+      [
+        2,
+        459155,
+        460625
+      ],
+      [
+        3,
+        460625,
+        461815
+      ],
+      [
+        4,
+        461815,
+        462915
+      ],
+      [
+        5,
+        462915,
+        464355
+      ],
+      [
+        6,
+        464355,
+        465995
+      ],
+      [
+        7,
+        465995,
+        467935
+      ],
+      [
+        8,
+        467935,
+        470045
+      ],
+      [
+        9,
+        470045,
+        471185
+      ],
+      [
+        10,
+        471185,
+        473275
+      ],
+      [
+        11,
+        473275,
+        473535
+      ],
+      [
+        12,
+        473535,
+        474815
+      ],
+      [
+        13,
+        474815,
+        478345
+      ],
+      [
+        14,
+        478345,
+        479125
+      ],
+      [
+        15,
+        479125,
+        480065
+      ],
+      [
+        16,
+        480065,
+        480875
+      ],
+      [
+        17,
+        480875,
+        482245
+      ],
+      [
+        18,
+        482245,
+        483475
+      ],
+      [
+        19,
+        483475,
+        484655
+      ],
+      [
+        20,
+        484655,
+        485655
+      ],
+      [
+        21,
+        485655,
+        486835
+      ],
+      [
+        22,
+        486835,
+        488545
+      ],
+      [
+        23,
+        488545,
+        489815
+      ],
+      [
+        24,
+        489815,
+        490825
+      ],
+      [
+        25,
+        490825,
+        492075
+      ],
+      [
+        26,
+        492105,
+        492885
+      ],
+      [
+        27,
+        492885,
+        494195
+      ],
+      [
+        28,
+        494195,
+        495125
+      ],
+      [
+        31,
+        495125,
+        496245
+      ],
+      [
+        29,
+        496245,
+        498035
+      ],
+      [
+        30,
+        498035,
+        499315
+      ],
+      [
+        31,
+        499315,
+        500525
+      ],
+      [
+        32,
+        500525,
+        501495
+      ],
+      [
+        33,
+        501495,
+        504755
+      ],
+      [
+        34,
+        504785,
+        505345
+      ],
+      [
+        35,
+        505345,
+        506455
+      ],
+      [
+        36,
+        506455,
+        509085
+      ],
+      [
+        37,
+        509085,
+        510115
+      ],
+      [
+        38,
+        510115,
+        510985
+      ],
+      [
+        39,
+        510985,
+        513820
+      ]
+    ]
+  }
+}

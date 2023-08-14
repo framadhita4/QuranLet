@@ -1,0 +1,99 @@
+{
+  "id": 5511,
+  "chapter_id": 74,
+  "verse_key": "74:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 18548,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_001.mp3",
+      "text": "كَلَّآ ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 18550,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_003.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "karena sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 18551,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 18552,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_005.mp3",
+      "text": "لِـَٔايَـٰتِنَا",
+      "translation": "kepada ayat-ayat Kami",
+      "transliteration": "liāyātinā"
+    },
+    {
+      "id": 18553,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_006.mp3",
+      "text": "عَنِيدًۭا",
+      "translation": "menentang",
+      "transliteration": "ʿanīdan"
+    },
+    {
+      "id": 18554,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak (akan Aku tambah), karena sesungguhnya dia menentang ayat-ayat Kami (Al-Qur`ān).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 58930,
+    "timestamp_to": 65670,
+    "duration": 6740,
+    "segments": [
+      [
+        1,
+        58865,
+        59775
+      ],
+      [
+        2,
+        59775,
+        61785
+      ],
+      [
+        3,
+        61785,
+        62385
+      ],
+      [
+        4,
+        62385,
+        64005
+      ],
+      [
+        5,
+        64005,
+        65220
+      ]
+    ]
+  }
+}

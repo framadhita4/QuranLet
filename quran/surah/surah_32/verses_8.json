@@ -1,0 +1,138 @@
+{
+  "id": 3511,
+  "chapter_id": 32,
+  "verse_key": "32:8",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "page_number": 415,
+  "juz_number": 21,
+  "text_uthmani": "ثُمَّ جَعَلَ نَسْلَهُۥ مِن سُلَـٰلَةٍ مِّن مَّآءٍ مَّهِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 9460,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 9461,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_002.mp3",
+      "text": "جَعَلَ",
+      "translation": "Dia menjadikan",
+      "transliteration": "jaʿala"
+    },
+    {
+      "id": 9462,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_003.mp3",
+      "text": "نَسْلَهُۥ",
+      "translation": "keturunannya",
+      "transliteration": "naslahu"
+    },
+    {
+      "id": 9463,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 9464,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_005.mp3",
+      "text": "سُلَـٰلَةٍۢ",
+      "translation": "sari pati",
+      "transliteration": "sulālatin"
+    },
+    {
+      "id": 9465,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_006.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 9466,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_007.mp3",
+      "text": "مَّآءٍۢ",
+      "translation": "air",
+      "transliteration": "māin"
+    },
+    {
+      "id": 9467,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_008.mp3",
+      "text": "مَّهِينٍۢ",
+      "translation": "yang hina",
+      "transliteration": "mahīnin"
+    },
+    {
+      "id": 9468,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Dia menjadikan keturunannya dari sari pati air yang hina (air mani).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 99270,
+    "timestamp_to": 109900,
+    "duration": 10630,
+    "segments": [
+      [
+        1,
+        99215,
+        100355
+      ],
+      [
+        2,
+        100355,
+        100995
+      ],
+      [
+        3,
+        100995,
+        101845
+      ],
+      [
+        4,
+        101845,
+        102645
+      ],
+      [
+        5,
+        102645,
+        103905
+      ],
+      [
+        6,
+        103905,
+        104605
+      ],
+      [
+        7,
+        104605,
+        106925
+      ],
+      [
+        8,
+        106925,
+        109810
+      ]
+    ]
+  }
+}

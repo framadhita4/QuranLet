@@ -1,0 +1,86 @@
+{
+  "id": 5903,
+  "chapter_id": 84,
+  "verse_key": "84:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 21524,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_019_001.mp3",
+      "text": "لَتَرْكَبُنَّ",
+      "translation": "sesungguhnya kamu akan naik/melalui",
+      "transliteration": "latarkabunna"
+    },
+    {
+      "id": 21525,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_019_002.mp3",
+      "text": "طَبَقًا",
+      "translation": "setingkat",
+      "transliteration": "ṭabaqan"
+    },
+    {
+      "id": 21526,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_019_003.mp3",
+      "text": "عَن",
+      "translation": "dari/demi",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 21527,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_019_004.mp3",
+      "text": "طَبَقٍۢ",
+      "translation": "setingkat",
+      "transliteration": "ṭabaqin"
+    },
+    {
+      "id": 21528,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya kamu melalui tingkat demi tingkat (dalam kehidupan)<sup foot_note_id=\"1567\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 97010,
+    "timestamp_to": 102440,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        96985,
+        99325
+      ],
+      [
+        2,
+        99325,
+        100105
+      ],
+      [
+        3,
+        100105,
+        101395
+      ],
+      [
+        4,
+        101395,
+        102380
+      ]
+    ]
+  }
+}

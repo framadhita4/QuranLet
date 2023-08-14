@@ -1,0 +1,73 @@
+{
+  "id": 5664,
+  "chapter_id": 77,
+  "verse_key": "77:42",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 43004,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_042_001.mp3",
+      "text": "وَفَوَٰكِهَ",
+      "translation": "dan buah-buahan",
+      "transliteration": "wafawākiha"
+    },
+    {
+      "id": 43005,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_042_002.mp3",
+      "text": "مِمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 43006,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_042_003.mp3",
+      "text": "يَشْتَهُونَ",
+      "translation": "mereka inginkan",
+      "transliteration": "yashtahūna"
+    },
+    {
+      "id": 43007,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (mendapat) buah-buahan dari (macam-macam) yang mereka ingini.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 217220,
+    "timestamp_to": 223330,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        217125,
+        218345
+      ],
+      [
+        2,
+        218345,
+        219875
+      ],
+      [
+        3,
+        219875,
+        223150
+      ]
+    ]
+  }
+}

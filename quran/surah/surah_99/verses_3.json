@@ -1,0 +1,86 @@
+{
+  "id": 6141,
+  "chapter_id": 99,
+  "verse_key": "99:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 2911,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_003_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 2912,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_003_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 2913,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_003_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2914,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_003_004.mp3",
+      "text": "لَهَا",
+      "translation": "ia",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 2915,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan manusia bertanya, \"Mengapa bumi (jadi begini)?\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9270,
+    "timestamp_to": 14340,
+    "duration": 5070,
+    "segments": [
+      [
+        1,
+        8645,
+        9575
+      ],
+      [
+        2,
+        9575,
+        11955
+      ],
+      [
+        3,
+        11955,
+        12435
+      ],
+      [
+        4,
+        12435,
+        13140
+      ]
+    ]
+  }
+}

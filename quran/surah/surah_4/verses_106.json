@@ -1,0 +1,125 @@
+{
+  "id": 599,
+  "chapter_id": 4,
+  "verse_key": "4:106",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "ruku_number": 77,
+  "manzil_number": 1,
+  "page_number": 96,
+  "juz_number": 5,
+  "text_uthmani": "وَٱسْتَغْفِرِ ٱللَّهَ ۖ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 73026,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_001.mp3",
+      "text": "وَٱسْتَغْفِرِ",
+      "translation": "dan mohonlah ampun",
+      "transliteration": "wa-is'taghfiri"
+    },
+    {
+      "id": 73027,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_002.mp3",
+      "text": "ٱللَّهَ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 73029,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_004.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 73030,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_005.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 73031,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_006.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 73032,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_007.mp3",
+      "text": "غَفُورًۭا",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūran"
+    },
+    {
+      "id": 73033,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_106_008.mp3",
+      "text": "رَّحِيمًۭا",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīman"
+    },
+    {
+      "id": 73034,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan mohonlah ampun kepada Allah.  Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3142620,
+    "timestamp_to": 3152050,
+    "duration": 9430,
+    "segments": [
+      [
+        1,
+        3142575,
+        3143885
+      ],
+      [
+        2,
+        3143885,
+        3146845
+      ],
+      [
+        3,
+        3146845,
+        3147815
+      ],
+      [
+        4,
+        3147815,
+        3148705
+      ],
+      [
+        5,
+        3148705,
+        3149395
+      ],
+      [
+        6,
+        3149395,
+        3150215
+      ],
+      [
+        7,
+        3150215,
+        3151700
+      ]
+    ]
+  }
+}

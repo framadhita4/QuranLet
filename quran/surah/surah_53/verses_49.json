@@ -1,0 +1,86 @@
+{
+  "id": 4833,
+  "chapter_id": 53,
+  "verse_key": "53:49",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 48314,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_049_001.mp3",
+      "text": "وَأَنَّهُۥ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-annahu"
+    },
+    {
+      "id": 48315,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_049_002.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 48316,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_049_003.mp3",
+      "text": "رَبُّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 48317,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_049_004.mp3",
+      "text": "ٱلشِّعْرَىٰ",
+      "translation": "bintang syi'ra",
+      "transliteration": "l-shiʿ'rā"
+    },
+    {
+      "id": 48318,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya Dia-lah Tuhan (yang memiliki) bintang Syiʻrā<sup foot_note_id=\"1433\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 388860,
+    "timestamp_to": 393300,
+    "duration": 4440,
+    "segments": [
+      [
+        1,
+        388505,
+        390275
+      ],
+      [
+        2,
+        390275,
+        390645
+      ],
+      [
+        3,
+        390645,
+        391355
+      ],
+      [
+        4,
+        391355,
+        392920
+      ]
+    ]
+  }
+}

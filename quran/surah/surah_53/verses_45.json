@@ -1,0 +1,99 @@
+{
+  "id": 4829,
+  "chapter_id": 53,
+  "verse_key": "53:45",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 44949,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_045_001.mp3",
+      "text": "وَأَنَّهُۥ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-annahu"
+    },
+    {
+      "id": 44950,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_045_002.mp3",
+      "text": "خَلَقَ",
+      "translation": "Dia menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 44951,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_045_003.mp3",
+      "text": "ٱلزَّوْجَيْنِ",
+      "translation": "berpasangan",
+      "transliteration": "l-zawjayni"
+    },
+    {
+      "id": 44952,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_045_004.mp3",
+      "text": "ٱلذَّكَرَ",
+      "translation": "laki-laki",
+      "transliteration": "l-dhakara"
+    },
+    {
+      "id": 44953,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_045_005.mp3",
+      "text": "وَٱلْأُنثَىٰ",
+      "translation": "dan perempuan",
+      "transliteration": "wal-unthā"
+    },
+    {
+      "id": 44954,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya Dia-lah yang menciptakan berpasang-pasangan laki-laki dan perempuan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 366500,
+    "timestamp_to": 374020,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        366085,
+        368015
+      ],
+      [
+        2,
+        368015,
+        368705
+      ],
+      [
+        3,
+        368705,
+        370105
+      ],
+      [
+        4,
+        370105,
+        371015
+      ],
+      [
+        5,
+        371015,
+        373130
+      ]
+    ]
+  }
+}

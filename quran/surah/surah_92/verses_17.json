@@ -1,0 +1,60 @@
+{
+  "id": 6075,
+  "chapter_id": 92,
+  "verse_key": "92:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 19361,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_017_001.mp3",
+      "text": "وَسَيُجَنَّبُهَا",
+      "translation": "dan akan dijauhkan-dia",
+      "transliteration": "wasayujannabuhā"
+    },
+    {
+      "id": 19362,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_017_002.mp3",
+      "text": "ٱلْأَتْقَى",
+      "translation": "berbakti",
+      "transliteration": "l-atqā"
+    },
+    {
+      "id": 19363,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kelak akan dijauhkan orang yang paling takwa dari neraka itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71840,
+    "timestamp_to": 76460,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        71195,
+        74235
+      ],
+      [
+        2,
+        74235,
+        75780
+      ]
+    ]
+  }
+}

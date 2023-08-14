@@ -1,0 +1,86 @@
+{
+  "id": 2678,
+  "chapter_id": 23,
+  "verse_key": "23:5",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 5301,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_005_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 5302,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_005_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 5303,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_005_003.mp3",
+      "text": "لِفُرُوجِهِمْ",
+      "translation": "pada kemaluan mereka",
+      "transliteration": "lifurūjihim"
+    },
+    {
+      "id": 5304,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_005_004.mp3",
+      "text": "حَـٰفِظُونَ",
+      "translation": "mereka memelihara/menjaga",
+      "transliteration": "ḥāfiẓūna"
+    },
+    {
+      "id": 5305,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang menjaga kemaluannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 28780,
+    "timestamp_to": 36410,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        28745,
+        30125
+      ],
+      [
+        2,
+        30125,
+        30465
+      ],
+      [
+        3,
+        30465,
+        32075
+      ],
+      [
+        4,
+        32075,
+        36320
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2941,
+  "chapter_id": 26,
+  "verse_key": "26:9",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 316,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 10462,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_009_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 10463,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_009_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 10464,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_009_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "benar-benar Dia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 10465,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_009_004.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 10466,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_009_005.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 10467,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Tuhan-mu benar-benar Dia-lah Yang Maha Perkasa lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 85550,
+    "timestamp_to": 92660,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        85525,
+        87155
+      ],
+      [
+        2,
+        87155,
+        88005
+      ],
+      [
+        3,
+        88005,
+        88635
+      ],
+      [
+        4,
+        88635,
+        89785
+      ],
+      [
+        5,
+        89785,
+        92590
+      ]
+    ]
+  }
+}

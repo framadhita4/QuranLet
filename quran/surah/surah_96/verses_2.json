@@ -1,0 +1,86 @@
+{
+  "id": 6108,
+  "chapter_id": 96,
+  "verse_key": "96:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 1580,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_002_001.mp3",
+      "text": "خَلَقَ",
+      "translation": "menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 1581,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_002_002.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 1582,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_002_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 1583,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_002_004.mp3",
+      "text": "عَلَقٍ",
+      "translation": "segumpal darah",
+      "transliteration": "ʿalaqin"
+    },
+    {
+      "id": 1584,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia telah menciptakan manusia dari segumpal darah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4360,
+    "timestamp_to": 8800,
+    "duration": 4440,
+    "segments": [
+      [
+        1,
+        4325,
+        5085
+      ],
+      [
+        2,
+        5085,
+        6985
+      ],
+      [
+        3,
+        6985,
+        7425
+      ],
+      [
+        4,
+        7425,
+        8710
+      ]
+    ]
+  }
+}

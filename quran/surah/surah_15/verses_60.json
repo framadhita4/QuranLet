@@ -1,0 +1,112 @@
+{
+  "id": 1862,
+  "chapter_id": 15,
+  "verse_key": "15:60",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 54439,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_060_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 54440,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_060_002.mp3",
+      "text": "ٱمْرَأَتَهُۥ",
+      "translation": "isterinya",
+      "transliteration": "im'ra-atahu"
+    },
+    {
+      "id": 54441,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_060_003.mp3",
+      "text": "قَدَّرْنَآ ۙ",
+      "translation": "Kami telah menentukan",
+      "transliteration": "qaddarnā"
+    },
+    {
+      "id": 54443,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_060_005.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 54444,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_060_006.mp3",
+      "text": "لَمِنَ",
+      "translation": "sungguh dari/termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 54445,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_060_007.mp3",
+      "text": "ٱلْغَـٰبِرِينَ",
+      "translation": "orang-orang yang tertinggal",
+      "transliteration": "l-ghābirīna"
+    },
+    {
+      "id": 54446,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali istrinya, Kami telah menentukan bahwa sesungguhnya ia itu termasuk orang-orang yang tertinggal (bersama-sama dengan orang kafir lainnya)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 588070,
+    "timestamp_to": 597660,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        588005,
+        588615
+      ],
+      [
+        2,
+        588615,
+        589885
+      ],
+      [
+        3,
+        589885,
+        592485
+      ],
+      [
+        4,
+        592485,
+        594105
+      ],
+      [
+        5,
+        594105,
+        594615
+      ],
+      [
+        6,
+        594615,
+        597570
+      ]
+    ]
+  }
+}

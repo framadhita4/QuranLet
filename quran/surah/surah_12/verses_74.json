@@ -1,0 +1,112 @@
+{
+  "id": 1670,
+  "chapter_id": 12,
+  "verse_key": "12:74",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 201,
+  "manzil_number": 3,
+  "page_number": 244,
+  "juz_number": 13,
+  "text_uthmani": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَـٰذِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 61368,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_074_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 61369,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_074_002.mp3",
+      "text": "فَمَا",
+      "translation": "maka apa",
+      "transliteration": "famā"
+    },
+    {
+      "id": 61370,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_074_003.mp3",
+      "text": "جَزَٰٓؤُهُۥٓ",
+      "translation": "balasannya",
+      "transliteration": "jazāuhu"
+    },
+    {
+      "id": 61371,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_074_004.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 61372,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_074_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 61373,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_074_006.mp3",
+      "text": "كَـٰذِبِينَ",
+      "translation": "orang-orang yang berdusta",
+      "transliteration": "kādhibīna"
+    },
+    {
+      "id": 61374,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Tetapi apa balasannya jikalau kamu betul-betul pendusta? \"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1693400,
+    "timestamp_to": 1705470,
+    "duration": 12070,
+    "segments": [
+      [
+        1,
+        1693345,
+        1694205
+      ],
+      [
+        2,
+        1694205,
+        1694875
+      ],
+      [
+        3,
+        1694875,
+        1699245
+      ],
+      [
+        4,
+        1699245,
+        1700395
+      ],
+      [
+        5,
+        1700395,
+        1702205
+      ],
+      [
+        6,
+        1702205,
+        1705350
+      ]
+    ]
+  }
+}

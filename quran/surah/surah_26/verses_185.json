@@ -1,0 +1,99 @@
+{
+  "id": 3117,
+  "chapter_id": 26,
+  "verse_key": "26:185",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84179,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_185_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 84180,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_185_002.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 84181,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_185_003.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 84182,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_185_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 84183,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_185_005.mp3",
+      "text": "ٱلْمُسَحَّرِينَ",
+      "translation": "orang-orang yang kena sihir",
+      "transliteration": "l-musaḥarīna"
+    },
+    {
+      "id": 84184,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٨٥",
+      "translation": "(185)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Sesungguhnya kamu adalah salah seorang dari orang-orang yang kena sihir,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1603280,
+    "timestamp_to": 1614120,
+    "duration": 10840,
+    "segments": [
+      [
+        1,
+        1603255,
+        1605665
+      ],
+      [
+        2,
+        1605665,
+        1608655
+      ],
+      [
+        3,
+        1608655,
+        1610235
+      ],
+      [
+        4,
+        1610235,
+        1610595
+      ],
+      [
+        5,
+        1610595,
+        1614070
+      ]
+    ]
+  }
+}

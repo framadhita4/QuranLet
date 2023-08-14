@@ -1,0 +1,99 @@
+{
+  "id": 3848,
+  "chapter_id": 37,
+  "verse_key": "37:60",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّ هَـٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 54504,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_060_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 54505,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_060_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 54506,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_060_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "benar-benar ia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 54507,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_060_004.mp3",
+      "text": "ٱلْفَوْزُ",
+      "translation": "keuntungan/kemenangan",
+      "transliteration": "l-fawzu"
+    },
+    {
+      "id": 54508,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_060_005.mp3",
+      "text": "ٱلْعَظِيمُ",
+      "translation": "besar",
+      "transliteration": "l-ʿaẓīmu"
+    },
+    {
+      "id": 54509,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ini benar-benar kemenangan yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 503230,
+    "timestamp_to": 510470,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        503195,
+        504635
+      ],
+      [
+        2,
+        504635,
+        505525
+      ],
+      [
+        3,
+        505525,
+        506095
+      ],
+      [
+        4,
+        506095,
+        506965
+      ],
+      [
+        5,
+        506965,
+        510380
+      ]
+    ]
+  }
+}

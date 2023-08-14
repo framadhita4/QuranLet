@@ -1,0 +1,86 @@
+{
+  "id": 3836,
+  "chapter_id": 37,
+  "verse_key": "37:48",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ عِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 47477,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_048_001.mp3",
+      "text": "وَعِندَهُمْ",
+      "translation": "dan di sisi mereka",
+      "transliteration": "waʿindahum"
+    },
+    {
+      "id": 47478,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_048_002.mp3",
+      "text": "قَـٰصِرَٰتُ",
+      "translation": "tidak liar pandangan",
+      "transliteration": "qāṣirātu"
+    },
+    {
+      "id": 47479,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_048_003.mp3",
+      "text": "ٱلطَّرْفِ",
+      "translation": "ujung/mata",
+      "transliteration": "l-ṭarfi"
+    },
+    {
+      "id": 47480,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_048_004.mp3",
+      "text": "عِينٌۭ",
+      "translation": "mata/jelita",
+      "transliteration": "ʿīnun"
+    },
+    {
+      "id": 47481,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di sisi mereka, ada bidadari-bidadari yang tidak liar pandangannya dan jelita matanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 403290,
+    "timestamp_to": 410260,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        403205,
+        405225
+      ],
+      [
+        2,
+        405225,
+        406525
+      ],
+      [
+        3,
+        406525,
+        407355
+      ],
+      [
+        4,
+        407355,
+        410110
+      ]
+    ]
+  }
+}

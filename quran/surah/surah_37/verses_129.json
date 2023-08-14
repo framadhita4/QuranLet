@@ -1,0 +1,86 @@
+{
+  "id": 3917,
+  "chapter_id": 37,
+  "verse_key": "37:129",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 77903,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_129_001.mp3",
+      "text": "وَتَرَكْنَا",
+      "translation": "dan Kami tinggalkan",
+      "transliteration": "wataraknā"
+    },
+    {
+      "id": 77904,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_129_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 77905,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_129_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 77906,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_129_004.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang yang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 77907,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٢٩",
+      "translation": "(129)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami abadikan untuk Ilyās (pujian yang baik) di kalangan orang-orang yang datang kemudian,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1060020,
+    "timestamp_to": 1065480,
+    "duration": 5460,
+    "segments": [
+      [
+        1,
+        1059945,
+        1061175
+      ],
+      [
+        2,
+        1061175,
+        1062075
+      ],
+      [
+        3,
+        1062075,
+        1062255
+      ],
+      [
+        4,
+        1062255,
+        1065350
+      ]
+    ]
+  }
+}

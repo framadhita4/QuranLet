@@ -1,0 +1,112 @@
+{
+  "id": 5835,
+  "chapter_id": 82,
+  "verse_key": "82:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 6707,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_006_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 6708,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_006_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 6709,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_006_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 6710,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_006_004.mp3",
+      "text": "غَرَّكَ",
+      "translation": "yang menipu kamu",
+      "transliteration": "gharraka"
+    },
+    {
+      "id": 6711,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_006_005.mp3",
+      "text": "بِرَبِّكَ",
+      "translation": "terhadap Tuhanmu",
+      "transliteration": "birabbika"
+    },
+    {
+      "id": 6712,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_006_006.mp3",
+      "text": "ٱلْكَرِيمِ",
+      "translation": "Mulia/Pemurah",
+      "transliteration": "l-karīmi"
+    },
+    {
+      "id": 6713,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai manusia, apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhan-mu Yang Maha Pemurah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21210,
+    "timestamp_to": 30720,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        21185,
+        23845
+      ],
+      [
+        2,
+        23845,
+        25725
+      ],
+      [
+        3,
+        25725,
+        25905
+      ],
+      [
+        4,
+        25905,
+        27035
+      ],
+      [
+        5,
+        27035,
+        28045
+      ],
+      [
+        6,
+        28045,
+        30610
+      ]
+    ]
+  }
+}

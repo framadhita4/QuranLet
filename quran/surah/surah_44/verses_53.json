@@ -1,0 +1,99 @@
+{
+  "id": 4467,
+  "chapter_id": 44,
+  "verse_key": "44:53",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "يَلْبَسُونَ مِن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَقَـٰبِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 50523,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_053_001.mp3",
+      "text": "يَلْبَسُونَ",
+      "translation": "mereka memakai",
+      "transliteration": "yalbasūna"
+    },
+    {
+      "id": 50524,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_053_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50525,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_053_003.mp3",
+      "text": "سُندُسٍۢ",
+      "translation": "kain sutera halus",
+      "transliteration": "sundusin"
+    },
+    {
+      "id": 50526,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_053_004.mp3",
+      "text": "وَإِسْتَبْرَقٍۢ",
+      "translation": "dan sutera tebal",
+      "transliteration": "wa-is'tabraqin"
+    },
+    {
+      "id": 50527,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_053_005.mp3",
+      "text": "مُّتَقَـٰبِلِينَ",
+      "translation": "mereka berhadap-hadapan",
+      "transliteration": "mutaqābilīna"
+    },
+    {
+      "id": 50528,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka memakai sutra yang halus dan sutra yang tebal, (duduk) berhadap-hadapan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 508940,
+    "timestamp_to": 519960,
+    "duration": 11020,
+    "segments": [
+      [
+        1,
+        508885,
+        510275
+      ],
+      [
+        2,
+        510275,
+        511205
+      ],
+      [
+        3,
+        511205,
+        513845
+      ],
+      [
+        4,
+        513845,
+        515385
+      ],
+      [
+        5,
+        515385,
+        519870
+      ]
+    ]
+  }
+}

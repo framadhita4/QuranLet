@@ -1,0 +1,99 @@
+{
+  "id": 3872,
+  "chapter_id": 37,
+  "verse_key": "37:84",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍ سَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 65615,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_084_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 65616,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_084_002.mp3",
+      "text": "جَآءَ",
+      "translation": "dia datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 65617,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_084_003.mp3",
+      "text": "رَبَّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbahu"
+    },
+    {
+      "id": 65618,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_084_004.mp3",
+      "text": "بِقَلْبٍۢ",
+      "translation": "dengan hati",
+      "transliteration": "biqalbin"
+    },
+    {
+      "id": 65619,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_084_005.mp3",
+      "text": "سَلِيمٍ",
+      "translation": "selamat/suci",
+      "transliteration": "salīmin"
+    },
+    {
+      "id": 65620,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(lngatlah) ketika ia datang kepada Tuhan-nya dengan hati yang suci<sup foot_note_id=\"1279\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 694120,
+    "timestamp_to": 702870,
+    "duration": 8750,
+    "segments": [
+      [
+        1,
+        694065,
+        694565
+      ],
+      [
+        2,
+        694565,
+        696775
+      ],
+      [
+        3,
+        696775,
+        697765
+      ],
+      [
+        4,
+        697765,
+        699575
+      ],
+      [
+        5,
+        699575,
+        702760
+      ]
+    ]
+  }
+}

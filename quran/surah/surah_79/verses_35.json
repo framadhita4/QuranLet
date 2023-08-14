@@ -1,0 +1,99 @@
+{
+  "id": 5747,
+  "chapter_id": 79,
+  "verse_key": "79:35",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 37388,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_035_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 37389,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_035_002.mp3",
+      "text": "يَتَذَكَّرُ",
+      "translation": "teringat",
+      "transliteration": "yatadhakkaru"
+    },
+    {
+      "id": 37390,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_035_003.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 37391,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_035_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 37392,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_035_005.mp3",
+      "text": "سَعَىٰ",
+      "translation": "ia telah kerjakan",
+      "transliteration": "saʿā"
+    },
+    {
+      "id": 37393,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari (ketika) manusia teringat akan apa yang telah dikerjakannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 163120,
+    "timestamp_to": 168550,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        163065,
+        163675
+      ],
+      [
+        2,
+        163675,
+        164865
+      ],
+      [
+        3,
+        164865,
+        166925
+      ],
+      [
+        4,
+        166925,
+        167315
+      ],
+      [
+        5,
+        167315,
+        168130
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5603,
+  "chapter_id": 76,
+  "verse_key": "76:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 14499,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_012_001.mp3",
+      "text": "وَجَزَىٰهُم",
+      "translation": "dan Dia memberi balasan pada mereka",
+      "transliteration": "wajazāhum"
+    },
+    {
+      "id": 14500,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_012_002.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/sebab",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 14501,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_012_003.mp3",
+      "text": "صَبَرُوا۟",
+      "translation": "mereka sabar",
+      "transliteration": "ṣabarū"
+    },
+    {
+      "id": 14502,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_012_004.mp3",
+      "text": "جَنَّةًۭ",
+      "translation": "sorga",
+      "transliteration": "jannatan"
+    },
+    {
+      "id": 14503,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_012_005.mp3",
+      "text": "وَحَرِيرًۭا",
+      "translation": "dan sutera",
+      "transliteration": "waḥarīran"
+    },
+    {
+      "id": 14504,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia memberi balasan kepada mereka karena kesabaran mereka (dengan) surga dan (pakaian) sutra,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 110340,
+    "timestamp_to": 117210,
+    "duration": 6870,
+    "segments": [
+      [
+        1,
+        110295,
+        111895
+      ],
+      [
+        2,
+        111895,
+        112475
+      ],
+      [
+        3,
+        112475,
+        113255
+      ],
+      [
+        4,
+        113255,
+        114885
+      ],
+      [
+        5,
+        114885,
+        117090
+      ]
+    ]
+  }
+}

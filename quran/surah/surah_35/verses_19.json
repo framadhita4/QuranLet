@@ -1,0 +1,86 @@
+{
+  "id": 3679,
+  "chapter_id": 35,
+  "verse_key": "35:19",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 437,
+  "juz_number": 22,
+  "text_uthmani": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 22226,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 22227,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_002.mp3",
+      "text": "يَسْتَوِى",
+      "translation": "sama",
+      "transliteration": "yastawī"
+    },
+    {
+      "id": 22228,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_003.mp3",
+      "text": "ٱلْأَعْمَىٰ",
+      "translation": "orang yang buta",
+      "transliteration": "l-aʿmā"
+    },
+    {
+      "id": 22229,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_004.mp3",
+      "text": "وَٱلْبَصِيرُ",
+      "translation": "dan orang yang melihat",
+      "transliteration": "wal-baṣīru"
+    },
+    {
+      "id": 22230,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah sama orang yang buta dengan orang yang melihat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 413720,
+    "timestamp_to": 419730,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        412435,
+        413245
+      ],
+      [
+        2,
+        413245,
+        413965
+      ],
+      [
+        3,
+        413965,
+        414915
+      ],
+      [
+        4,
+        414915,
+        418380
+      ]
+    ]
+  }
+}

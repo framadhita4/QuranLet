@@ -1,0 +1,151 @@
+{
+  "id": 4120,
+  "chapter_id": 39,
+  "verse_key": "39:62",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "ruku_number": 403,
+  "manzil_number": 6,
+  "page_number": 465,
+  "juz_number": 24,
+  "text_uthmani": "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 55842,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_001.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "al-lahu"
+    },
+    {
+      "id": 55843,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_002.mp3",
+      "text": "خَـٰلِقُ",
+      "translation": "pencipta",
+      "transliteration": "khāliqu"
+    },
+    {
+      "id": 55844,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_003.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 55845,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_004.mp3",
+      "text": "شَىْءٍۢ ۖ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 55847,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_006.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 55848,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_007.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 55849,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_008.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 55850,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_009.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 55851,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_062_010.mp3",
+      "text": "وَكِيلٌۭ",
+      "translation": "penjaga",
+      "transliteration": "wakīlun"
+    },
+    {
+      "id": 55852,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah menciptakan segala sesuatu dan Dia memelihara segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1318020,
+    "timestamp_to": 1329750,
+    "duration": 11730,
+    "segments": [
+      [
+        1,
+        1317995,
+        1319125
+      ],
+      [
+        2,
+        1319125,
+        1320105
+      ],
+      [
+        3,
+        1320105,
+        1322644
+      ],
+      [
+        4,
+        1322645,
+        1322765
+      ],
+      [
+        5,
+        1322765,
+        1323285
+      ],
+      [
+        6,
+        1323285,
+        1324025
+      ],
+      [
+        7,
+        1324025,
+        1324665
+      ],
+      [
+        8,
+        1324665,
+        1326685
+      ],
+      [
+        9,
+        1326685,
+        1329670
+      ]
+    ]
+  }
+}

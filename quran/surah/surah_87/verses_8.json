@@ -1,0 +1,60 @@
+{
+  "id": 5956,
+  "chapter_id": 87,
+  "verse_key": "87:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 9263,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_008_001.mp3",
+      "text": "وَنُيَسِّرُكَ",
+      "translation": "dan Kami memudahkan",
+      "transliteration": "wanuyassiruka"
+    },
+    {
+      "id": 9264,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_008_002.mp3",
+      "text": "لِلْيُسْرَىٰ",
+      "translation": "untuk kemudahan",
+      "transliteration": "lil'yus'rā"
+    },
+    {
+      "id": 9265,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami akan memberi kamu taufik kepada jalan yang mudah<sup foot_note_id=\"1572\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37980,
+    "timestamp_to": 41320,
+    "duration": 3340,
+    "segments": [
+      [
+        1,
+        37375,
+        38885
+      ],
+      [
+        2,
+        38885,
+        40660
+      ]
+    ]
+  }
+}

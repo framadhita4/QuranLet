@@ -1,0 +1,164 @@
+{
+  "id": 1006,
+  "chapter_id": 7,
+  "verse_key": "7:52",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "ruku_number": 127,
+  "manzil_number": 2,
+  "page_number": 157,
+  "juz_number": 8,
+  "text_uthmani": "وَلَقَدْ جِئْنَـٰهُم بِكِتَـٰبٍ فَصَّلْنَـٰهُ عَلَىٰ عِلْمٍ هُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 49669,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 49670,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_002.mp3",
+      "text": "جِئْنَـٰهُم",
+      "translation": "telah Kami datangkan kepada mereka",
+      "transliteration": "ji'nāhum"
+    },
+    {
+      "id": 49671,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_003.mp3",
+      "text": "بِكِتَـٰبٍۢ",
+      "translation": "dengan sebuah kitab",
+      "transliteration": "bikitābin"
+    },
+    {
+      "id": 49672,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_004.mp3",
+      "text": "فَصَّلْنَـٰهُ",
+      "translation": "Kami jelaskannya",
+      "transliteration": "faṣṣalnāhu"
+    },
+    {
+      "id": 49673,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_005.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 49674,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_006.mp3",
+      "text": "عِلْمٍ",
+      "translation": "ilmu pengetahuan",
+      "transliteration": "ʿil'min"
+    },
+    {
+      "id": 49675,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_007.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 49676,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_008.mp3",
+      "text": "وَرَحْمَةًۭ",
+      "translation": "dan rahmat",
+      "transliteration": "waraḥmatan"
+    },
+    {
+      "id": 49677,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_009.mp3",
+      "text": "لِّقَوْمٍۢ",
+      "translation": "bagi kaum/orang-orang",
+      "transliteration": "liqawmin"
+    },
+    {
+      "id": 49678,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_052_010.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 49679,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah mendatangkan sebuah Kitab (Al-Qur`ān) kepada mereka yang Kami telah menjelaskannya atas dasar pengetahuan Kami<sup foot_note_id=\"547\">1</sup>; menjadi petunjuk dan rahmat bagi orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1219370,
+    "timestamp_to": 1235280,
+    "duration": 15910,
+    "segments": [
+      [
+        1,
+        1219345,
+        1220315
+      ],
+      [
+        2,
+        1220315,
+        1222245
+      ],
+      [
+        3,
+        1222245,
+        1223905
+      ],
+      [
+        4,
+        1223905,
+        1226165
+      ],
+      [
+        5,
+        1226165,
+        1226805
+      ],
+      [
+        6,
+        1226805,
+        1227715
+      ],
+      [
+        7,
+        1227715,
+        1228315
+      ],
+      [
+        8,
+        1228315,
+        1230085
+      ],
+      [
+        9,
+        1230085,
+        1231965
+      ],
+      [
+        10,
+        1231965,
+        1235230
+      ]
+    ]
+  }
+}

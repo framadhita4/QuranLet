@@ -1,0 +1,86 @@
+{
+  "id": 3142,
+  "chapter_id": 26,
+  "verse_key": "26:210",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85629,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_210_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 85630,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_210_002.mp3",
+      "text": "تَنَزَّلَتْ",
+      "translation": "(dibawa) turun",
+      "transliteration": "tanazzalat"
+    },
+    {
+      "id": 85631,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_210_003.mp3",
+      "text": "بِهِ",
+      "translation": "dengannya (Al Qur'an",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 85632,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_210_004.mp3",
+      "text": "ٱلشَّيَـٰطِينُ",
+      "translation": "syaitan",
+      "transliteration": "l-shayāṭīnu"
+    },
+    {
+      "id": 85633,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢١٠",
+      "translation": "(210)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Al-Qur`ān itu bukanlah dibawa turun oleh setan-setan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1817370,
+    "timestamp_to": 1822930,
+    "duration": 5570,
+    "segments": [
+      [
+        1,
+        1817325,
+        1817955
+      ],
+      [
+        2,
+        1817955,
+        1819235
+      ],
+      [
+        3,
+        1819235,
+        1819645
+      ],
+      [
+        4,
+        1819645,
+        1822840
+      ]
+    ]
+  }
+}

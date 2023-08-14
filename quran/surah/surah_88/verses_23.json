@@ -1,0 +1,86 @@
+{
+  "id": 5990,
+  "chapter_id": 88,
+  "verse_key": "88:23",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 25796,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_023_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 25797,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_023_002.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 25798,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_023_003.mp3",
+      "text": "تَوَلَّىٰ",
+      "translation": "ia berpaling",
+      "transliteration": "tawallā"
+    },
+    {
+      "id": 25799,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_023_004.mp3",
+      "text": "وَكَفَرَ",
+      "translation": "dan ia kafir",
+      "transliteration": "wakafara"
+    },
+    {
+      "id": 25800,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi orang yang berpaling dan kafir,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 99100,
+    "timestamp_to": 103490,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        99025,
+        99865
+      ],
+      [
+        2,
+        99865,
+        100915
+      ],
+      [
+        3,
+        100915,
+        102045
+      ],
+      [
+        4,
+        102045,
+        103320
+      ]
+    ]
+  }
+}

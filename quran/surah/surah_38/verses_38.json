@@ -1,0 +1,86 @@
+{
+  "id": 4008,
+  "chapter_id": 38,
+  "verse_key": "38:38",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 40247,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_038_001.mp3",
+      "text": "وَءَاخَرِينَ",
+      "translation": "dan yang lain",
+      "transliteration": "waākharīna"
+    },
+    {
+      "id": 40248,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_038_002.mp3",
+      "text": "مُقَرَّنِينَ",
+      "translation": "yang terikat",
+      "transliteration": "muqarranīna"
+    },
+    {
+      "id": 40249,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_038_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 40250,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_038_004.mp3",
+      "text": "ٱلْأَصْفَادِ",
+      "translation": "belenggu",
+      "transliteration": "l-aṣfādi"
+    },
+    {
+      "id": 40251,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan setan yang lain yang terikat dalam belenggu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 533380,
+    "timestamp_to": 539830,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        533315,
+        534775
+      ],
+      [
+        2,
+        534775,
+        536085
+      ],
+      [
+        3,
+        536085,
+        536395
+      ],
+      [
+        4,
+        536395,
+        539740
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3936,
+  "chapter_id": 37,
+  "verse_key": "37:148",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 80179,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_001.mp3",
+      "text": "فَـَٔامَنُوا۟",
+      "translation": "lalu mereka beriman",
+      "transliteration": "faāmanū"
+    },
+    {
+      "id": 80180,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_002.mp3",
+      "text": "فَمَتَّعْنَـٰهُمْ",
+      "translation": "maka Kami beri kesenangan mereka",
+      "transliteration": "famattaʿnāhum"
+    },
+    {
+      "id": 80181,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada/sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 80182,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_004.mp3",
+      "text": "حِينٍۢ",
+      "translation": "waktu yang tertentu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 80183,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٤٨",
+      "translation": "(148)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, mereka beriman, karena itu Kami anugerahkan kenikmatan hidup kepada mereka hingga waktu yang tertentu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1194110,
+    "timestamp_to": 1201760,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        1194055,
+        1195395
+      ],
+      [
+        2,
+        1195395,
+        1197505
+      ],
+      [
+        3,
+        1197505,
+        1198065
+      ],
+      [
+        4,
+        1198065,
+        1201630
+      ]
+    ]
+  }
+}

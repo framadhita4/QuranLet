@@ -1,0 +1,99 @@
+{
+  "id": 1874,
+  "chapter_id": 15,
+  "verse_key": "15:72",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "لَعَمْرُكَ إِنَّهُمْ لَفِى سَكْرَتِهِمْ يَعْمَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 60516,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_072_001.mp3",
+      "text": "لَعَمْرُكَ",
+      "translation": "demi umurmu",
+      "transliteration": "laʿamruka"
+    },
+    {
+      "id": 60517,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_072_002.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 60518,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_072_003.mp3",
+      "text": "لَفِى",
+      "translation": "sungguh dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 60519,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_072_004.mp3",
+      "text": "سَكْرَتِهِمْ",
+      "translation": "kemabukan mereka",
+      "transliteration": "sakratihim"
+    },
+    {
+      "id": 60520,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_072_005.mp3",
+      "text": "يَعْمَهُونَ",
+      "translation": "mereka bingung",
+      "transliteration": "yaʿmahūna"
+    },
+    {
+      "id": 60521,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Demi umurmu <sup foot_note_id=\"807\">1</sup> (Muhammad), sesungguhnya mereka terombang-ambing di dalam kemabukan (kesesatan)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 703260,
+    "timestamp_to": 710680,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        703235,
+        704415
+      ],
+      [
+        2,
+        704415,
+        706005
+      ],
+      [
+        3,
+        706005,
+        706625
+      ],
+      [
+        4,
+        706625,
+        707985
+      ],
+      [
+        5,
+        707985,
+        710550
+      ]
+    ]
+  }
+}

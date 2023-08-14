@@ -1,0 +1,125 @@
+{
+  "id": 1805,
+  "chapter_id": 15,
+  "verse_key": "15:3",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 3132,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_001.mp3",
+      "text": "ذَرْهُمْ",
+      "translation": "biarkanlah mereka",
+      "transliteration": "dharhum"
+    },
+    {
+      "id": 3133,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_002.mp3",
+      "text": "يَأْكُلُوا۟",
+      "translation": "mereka makan",
+      "transliteration": "yakulū"
+    },
+    {
+      "id": 3134,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_003.mp3",
+      "text": "وَيَتَمَتَّعُوا۟",
+      "translation": "dan mereka bersenang-senang",
+      "transliteration": "wayatamattaʿū"
+    },
+    {
+      "id": 3135,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_004.mp3",
+      "text": "وَيُلْهِهِمُ",
+      "translation": "dan melalaikan mereka",
+      "transliteration": "wayul'hihimu"
+    },
+    {
+      "id": 3136,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_005.mp3",
+      "text": "ٱلْأَمَلُ ۖ",
+      "translation": "angan-angan",
+      "transliteration": "l-amalu"
+    },
+    {
+      "id": 3138,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_007.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 3139,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_003_008.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 3140,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Biarkanlah mereka (di dunia ini) makan dan bersenang-senang dan dilalaikan oleh angan-angan (kosong), maka kelak mereka akan mengetahui (akibat perbuatan mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19050,
+    "timestamp_to": 27830,
+    "duration": 8780,
+    "segments": [
+      [
+        1,
+        19025,
+        19875
+      ],
+      [
+        2,
+        19875,
+        20925
+      ],
+      [
+        3,
+        20925,
+        22525
+      ],
+      [
+        4,
+        22525,
+        23635
+      ],
+      [
+        5,
+        23635,
+        24435
+      ],
+      [
+        6,
+        24435,
+        25285
+      ],
+      [
+        7,
+        25285,
+        27740
+      ]
+    ]
+  }
+}

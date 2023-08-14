@@ -1,0 +1,112 @@
+{
+  "id": 3003,
+  "chapter_id": 26,
+  "verse_key": "26:71",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَـٰكِفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 60161,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_071_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 60162,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_071_002.mp3",
+      "text": "نَعْبُدُ",
+      "translation": "kami menyembah",
+      "transliteration": "naʿbudu"
+    },
+    {
+      "id": 60163,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_071_003.mp3",
+      "text": "أَصْنَامًۭا",
+      "translation": "berhala-berhala",
+      "transliteration": "aṣnāman"
+    },
+    {
+      "id": 60164,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_071_004.mp3",
+      "text": "فَنَظَلُّ",
+      "translation": "maka kami senantiasa",
+      "transliteration": "fanaẓallu"
+    },
+    {
+      "id": 60165,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_071_005.mp3",
+      "text": "لَهَا",
+      "translation": "kepadanya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 60166,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_071_006.mp3",
+      "text": "عَـٰكِفِينَ",
+      "translation": "senantiasa tekun",
+      "transliteration": "ʿākifīna"
+    },
+    {
+      "id": 60167,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Kami menyembah berhala-berhala dan kami senantiasa tekun menyembahnya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 706860,
+    "timestamp_to": 715110,
+    "duration": 8260,
+    "segments": [
+      [
+        1,
+        706795,
+        707545
+      ],
+      [
+        2,
+        707545,
+        708475
+      ],
+      [
+        3,
+        708475,
+        710545
+      ],
+      [
+        4,
+        710545,
+        711625
+      ],
+      [
+        5,
+        711625,
+        712275
+      ],
+      [
+        6,
+        712275,
+        714990
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5608,
+  "chapter_id": 76,
+  "verse_key": "76:17",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 19574,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_017_001.mp3",
+      "text": "وَيُسْقَوْنَ",
+      "translation": "dan mereka diberi minum",
+      "transliteration": "wayus'qawna"
+    },
+    {
+      "id": 19575,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_017_002.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 19576,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_017_003.mp3",
+      "text": "كَأْسًۭا",
+      "translation": "piala/gelas",
+      "transliteration": "kasan"
+    },
+    {
+      "id": 19577,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_017_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah ia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 19578,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_017_005.mp3",
+      "text": "مِزَاجُهَا",
+      "translation": "campurannya",
+      "transliteration": "mizājuhā"
+    },
+    {
+      "id": 19579,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_017_006.mp3",
+      "text": "زَنجَبِيلًا",
+      "translation": "jahe",
+      "transliteration": "zanjabīlan"
+    },
+    {
+      "id": 19580,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalam surga itu, mereka diberi minum segelas (minuman) yang campurannya adalah jahe.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 154770,
+    "timestamp_to": 162450,
+    "duration": 7680,
+    "segments": [
+      [
+        1,
+        154725,
+        155845
+      ],
+      [
+        2,
+        155845,
+        156655
+      ],
+      [
+        3,
+        156655,
+        157955
+      ],
+      [
+        4,
+        157955,
+        158625
+      ],
+      [
+        5,
+        158625,
+        159845
+      ],
+      [
+        6,
+        159845,
+        162370
+      ]
+    ]
+  }
+}

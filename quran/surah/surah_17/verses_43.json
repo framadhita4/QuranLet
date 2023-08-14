@@ -1,0 +1,112 @@
+{
+  "id": 2072,
+  "chapter_id": 17,
+  "verse_key": "17:43",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "ruku_number": 244,
+  "manzil_number": 4,
+  "page_number": 286,
+  "juz_number": 15,
+  "text_uthmani": "سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 43474,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_043_001.mp3",
+      "text": "سُبْحَـٰنَهُۥ",
+      "translation": "Maha Suci Dia",
+      "transliteration": "sub'ḥānahu"
+    },
+    {
+      "id": 43475,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_043_002.mp3",
+      "text": "وَتَعَـٰلَىٰ",
+      "translation": "dan Maha Tinggi",
+      "transliteration": "wataʿālā"
+    },
+    {
+      "id": 43476,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_043_003.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 43477,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_043_004.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka katakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 43478,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_043_005.mp3",
+      "text": "عُلُوًّۭا",
+      "translation": "ketinggian",
+      "transliteration": "ʿuluwwan"
+    },
+    {
+      "id": 43479,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_043_006.mp3",
+      "text": "كَبِيرًۭا",
+      "translation": "besar",
+      "transliteration": "kabīran"
+    },
+    {
+      "id": 43480,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Suci dan Maha Tinggi Dia dari apa yang mereka katakan dengan ketinggian yang sebesar-besarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 755530,
+    "timestamp_to": 764650,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        755435,
+        757105
+      ],
+      [
+        2,
+        757105,
+        758375
+      ],
+      [
+        3,
+        758375,
+        759845
+      ],
+      [
+        4,
+        759845,
+        761125
+      ],
+      [
+        5,
+        761125,
+        762185
+      ],
+      [
+        6,
+        762185,
+        764470
+      ]
+    ]
+  }
+}

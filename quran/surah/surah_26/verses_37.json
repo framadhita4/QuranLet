@@ -1,0 +1,86 @@
+{
+  "id": 2969,
+  "chapter_id": 26,
+  "verse_key": "26:37",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 39122,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_037_001.mp3",
+      "text": "يَأْتُوكَ",
+      "translation": "mereka akan mendatangkan kepadamu",
+      "transliteration": "yatūka"
+    },
+    {
+      "id": 39123,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_037_002.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan tiap-tiap/semua",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 39124,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_037_003.mp3",
+      "text": "سَحَّارٍ",
+      "translation": "ahli sihir",
+      "transliteration": "saḥḥārin"
+    },
+    {
+      "id": 39125,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_037_004.mp3",
+      "text": "عَلِيمٍۢ",
+      "translation": "yang pandai",
+      "transliteration": "ʿalīmin"
+    },
+    {
+      "id": 39126,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya mereka akan mendatangkan semua ahli sihir yang pandai kepadamu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 367020,
+    "timestamp_to": 374070,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        366975,
+        368215
+      ],
+      [
+        2,
+        368215,
+        369175
+      ],
+      [
+        3,
+        369175,
+        370665
+      ],
+      [
+        4,
+        370665,
+        374000
+      ]
+    ]
+  }
+}

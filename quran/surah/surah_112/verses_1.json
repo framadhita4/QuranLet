@@ -1,0 +1,86 @@
+{
+  "id": 6222,
+  "chapter_id": 112,
+  "verse_key": "112:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 556,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3",
+  "words": [
+    {
+      "id": 6,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_001_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 7,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_001_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 8,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_001_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 9,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_001_004.mp3",
+      "text": "أَحَدٌ",
+      "translation": "Esa",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 10,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Dia-lah Allah, Yang Maha Esa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 2980,
+    "duration": 2980,
+    "segments": [
+      [
+        1,
+        0,
+        430
+      ],
+      [
+        2,
+        430,
+        700
+      ],
+      [
+        3,
+        700,
+        1680
+      ],
+      [
+        4,
+        1680,
+        2915
+      ]
+    ]
+  }
+}

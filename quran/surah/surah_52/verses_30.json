@@ -1,0 +1,125 @@
+{
+  "id": 4765,
+  "chapter_id": 52,
+  "verse_key": "52:30",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 32628,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 32629,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_002.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka mengatakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 32630,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_003.mp3",
+      "text": "شَاعِرٌۭ",
+      "translation": "seorang penyair",
+      "transliteration": "shāʿirun"
+    },
+    {
+      "id": 32631,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_004.mp3",
+      "text": "نَّتَرَبَّصُ",
+      "translation": "kita tunggu-tunggu",
+      "transliteration": "natarabbaṣu"
+    },
+    {
+      "id": 32632,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_005.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 32633,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_006.mp3",
+      "text": "رَيْبَ",
+      "translation": "ragu-ragu",
+      "transliteration": "rayba"
+    },
+    {
+      "id": 32634,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_030_007.mp3",
+      "text": "ٱلْمَنُونِ",
+      "translation": "zaman/masa",
+      "transliteration": "l-manūni"
+    },
+    {
+      "id": 32635,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan mereka mengatakan, \"Dia adalah seorang penyair yang kami tunggu-tunggu kecelakaan menimpanya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 275870,
+    "timestamp_to": 284930,
+    "duration": 9070,
+    "segments": [
+      [
+        1,
+        275805,
+        276285
+      ],
+      [
+        2,
+        276285,
+        277575
+      ],
+      [
+        3,
+        277575,
+        278665
+      ],
+      [
+        4,
+        278665,
+        280675
+      ],
+      [
+        5,
+        280675,
+        281285
+      ],
+      [
+        6,
+        281285,
+        281915
+      ],
+      [
+        7,
+        281915,
+        284800
+      ]
+    ]
+  }
+}

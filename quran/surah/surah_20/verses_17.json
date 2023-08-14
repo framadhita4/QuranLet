@@ -1,0 +1,86 @@
+{
+  "id": 2365,
+  "chapter_id": 20,
+  "verse_key": "20:17",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَمَا تِلْكَ بِيَمِينِكَ يَـٰمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 19305,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_017_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 19306,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_017_002.mp3",
+      "text": "تِلْكَ",
+      "translation": "itu",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 19307,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_017_003.mp3",
+      "text": "بِيَمِينِكَ",
+      "translation": "ditangan kananmu",
+      "transliteration": "biyamīnika"
+    },
+    {
+      "id": 19308,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_017_004.mp3",
+      "text": "يَـٰمُوسَىٰ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 19309,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah itu yang di tangan kananmu, hai Musa?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 156470,
+    "timestamp_to": 161200,
+    "duration": 4730,
+    "segments": [
+      [
+        1,
+        156025,
+        156655
+      ],
+      [
+        2,
+        156655,
+        157365
+      ],
+      [
+        3,
+        157365,
+        158785
+      ],
+      [
+        4,
+        158785,
+        160350
+      ]
+    ]
+  }
+}

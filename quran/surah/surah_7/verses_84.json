@@ -1,0 +1,138 @@
+{
+  "id": 1038,
+  "chapter_id": 7,
+  "verse_key": "7:84",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "ruku_number": 131,
+  "manzil_number": 2,
+  "page_number": 161,
+  "juz_number": 8,
+  "text_uthmani": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 65669,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_001.mp3",
+      "text": "وَأَمْطَرْنَا",
+      "translation": "dan Kami hujani",
+      "transliteration": "wa-amṭarnā"
+    },
+    {
+      "id": 65670,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_002.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 65671,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_003.mp3",
+      "text": "مَّطَرًۭا ۖ",
+      "translation": "hujan",
+      "transliteration": "maṭaran"
+    },
+    {
+      "id": 65673,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_005.mp3",
+      "text": "فَٱنظُرْ",
+      "translation": "maka perhatikanlah",
+      "transliteration": "fa-unẓur"
+    },
+    {
+      "id": 65674,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_006.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 65675,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_007.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 65676,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_008.mp3",
+      "text": "عَـٰقِبَةُ",
+      "translation": "akibat/kesudahan",
+      "transliteration": "ʿāqibatu"
+    },
+    {
+      "id": 65677,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_084_009.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 65678,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami turunkan kepada mereka hujan (batu); maka perhatikanlah bagaimana kesudahan orang-orang yang berdosa itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1971420,
+    "timestamp_to": 1984270,
+    "duration": 12850,
+    "segments": [
+      [
+        1,
+        1971395,
+        1972855
+      ],
+      [
+        2,
+        1972855,
+        1973965
+      ],
+      [
+        3,
+        1973965,
+        1975965
+      ],
+      [
+        4,
+        1975965,
+        1977865
+      ],
+      [
+        5,
+        1977865,
+        1978655
+      ],
+      [
+        6,
+        1978655,
+        1979315
+      ],
+      [
+        7,
+        1979315,
+        1980515
+      ],
+      [
+        8,
+        1980515,
+        1984200
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5976,
+  "chapter_id": 88,
+  "verse_key": "88:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "لِّسَعْيِهَا رَاضِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 9841,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_009_001.mp3",
+      "text": "لِّسَعْيِهَا",
+      "translation": "karena usahanya",
+      "transliteration": "lisaʿyihā"
+    },
+    {
+      "id": 9842,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_009_002.mp3",
+      "text": "رَاضِيَةٌۭ",
+      "translation": "merasa senang",
+      "transliteration": "rāḍiyatun"
+    },
+    {
+      "id": 9843,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "merasa senang karena usahanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39810,
+    "timestamp_to": 42870,
+    "duration": 3060,
+    "segments": [
+      [
+        1,
+        39745,
+        41045
+      ],
+      [
+        2,
+        41045,
+        42710
+      ]
+    ]
+  }
+}

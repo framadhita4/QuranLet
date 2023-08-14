@@ -1,0 +1,86 @@
+{
+  "id": 3970,
+  "chapter_id": 37,
+  "verse_key": "37:182",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83956,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_182_001.mp3",
+      "text": "وَٱلْحَمْدُ",
+      "translation": "dan segala puji",
+      "transliteration": "wal-ḥamdu"
+    },
+    {
+      "id": 83957,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_182_002.mp3",
+      "text": "لِلَّهِ",
+      "translation": "bagi Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 83958,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_182_003.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan/pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 83959,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_182_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 83960,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٨٢",
+      "translation": "(182)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan segala puji bagi Allah Tuhan seru sekalian alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1442330,
+    "timestamp_to": 1449380,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        1442265,
+        1443425
+      ],
+      [
+        2,
+        1443425,
+        1444465
+      ],
+      [
+        3,
+        1444465,
+        1445275
+      ],
+      [
+        4,
+        1445275,
+        1448900
+      ]
+    ]
+  }
+}

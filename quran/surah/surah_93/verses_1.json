@@ -1,0 +1,47 @@
+{
+  "id": 6080,
+  "chapter_id": 93,
+  "verse_key": "93:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلضُّحَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 70,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_001_001.mp3",
+      "text": "وَٱلضُّحَىٰ",
+      "translation": "demi matahari naik",
+      "transliteration": "wal-ḍuḥā"
+    },
+    {
+      "id": 71,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi waktu matahari sepenggalahan naik,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 1850,
+    "duration": 1860,
+    "segments": [
+      [
+        1,
+        0,
+        1275
+      ]
+    ]
+  }
+}

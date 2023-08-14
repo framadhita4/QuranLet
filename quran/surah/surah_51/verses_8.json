@@ -1,0 +1,86 @@
+{
+  "id": 4683,
+  "chapter_id": 51,
+  "verse_key": "51:8",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 8699,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_008_001.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 8700,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_008_002.mp3",
+      "text": "لَفِى",
+      "translation": "benar-benar dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 8701,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_008_003.mp3",
+      "text": "قَوْلٍۢ",
+      "translation": "perkataan",
+      "transliteration": "qawlin"
+    },
+    {
+      "id": 8702,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_008_004.mp3",
+      "text": "مُّخْتَلِفٍۢ",
+      "translation": "berbeda-beda",
+      "transliteration": "mukh'talifin"
+    },
+    {
+      "id": 8703,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya kamu benar-benar dalam keadaan berbeda pendapat<sup foot_note_id=\"1417\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27650,
+    "timestamp_to": 33580,
+    "duration": 5930,
+    "segments": [
+      [
+        1,
+        27585,
+        29305
+      ],
+      [
+        2,
+        29305,
+        29925
+      ],
+      [
+        3,
+        29925,
+        30845
+      ],
+      [
+        4,
+        30845,
+        33100
+      ]
+    ]
+  }
+}

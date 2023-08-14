@@ -1,0 +1,125 @@
+{
+  "id": 2742,
+  "chapter_id": 23,
+  "verse_key": "23:69",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 346,
+  "juz_number": 18,
+  "text_uthmani": "أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 59119,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_001.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 59120,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_002.mp3",
+      "text": "لَمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 59121,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_003.mp3",
+      "text": "يَعْرِفُوا۟",
+      "translation": "mereka mengenal",
+      "transliteration": "yaʿrifū"
+    },
+    {
+      "id": 59122,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_004.mp3",
+      "text": "رَسُولَهُمْ",
+      "translation": "Rasul mereka",
+      "transliteration": "rasūlahum"
+    },
+    {
+      "id": 59123,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_005.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 59124,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_006.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 59125,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_069_007.mp3",
+      "text": "مُنكِرُونَ",
+      "translation": "mereka memungkiri",
+      "transliteration": "munkirūna"
+    },
+    {
+      "id": 59126,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah mereka tidak mengenal rasul mereka karena itu mereka memungkirinya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 879130,
+    "timestamp_to": 887020,
+    "duration": 7890,
+    "segments": [
+      [
+        1,
+        879095,
+        879525
+      ],
+      [
+        2,
+        879525,
+        879955
+      ],
+      [
+        3,
+        879955,
+        880935
+      ],
+      [
+        4,
+        880935,
+        882055
+      ],
+      [
+        5,
+        882055,
+        882605
+      ],
+      [
+        6,
+        882605,
+        883185
+      ],
+      [
+        7,
+        883185,
+        886870
+      ]
+    ]
+  }
+}

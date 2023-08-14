@@ -1,0 +1,86 @@
+{
+  "id": 3957,
+  "chapter_id": 37,
+  "verse_key": "37:169",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82732,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_001.mp3",
+      "text": "لَكُنَّا",
+      "translation": "niscaya kami menjadi",
+      "transliteration": "lakunnā"
+    },
+    {
+      "id": 82733,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_002.mp3",
+      "text": "عِبَادَ",
+      "translation": "hamba-hamba",
+      "transliteration": "ʿibāda"
+    },
+    {
+      "id": 82734,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82735,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "orang-orang yang ikhlas",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 82736,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٦٩",
+      "translation": "(169)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "benar-benar kami akan jadi hamba Allah yang dibersihkan (dari dosa)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1354780,
+    "timestamp_to": 1361860,
+    "duration": 7080,
+    "segments": [
+      [
+        1,
+        1354705,
+        1356535
+      ],
+      [
+        2,
+        1356535,
+        1357395
+      ],
+      [
+        3,
+        1357395,
+        1358335
+      ],
+      [
+        4,
+        1358335,
+        1361710
+      ]
+    ]
+  }
+}

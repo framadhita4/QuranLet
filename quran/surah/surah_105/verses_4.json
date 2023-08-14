@@ -1,0 +1,86 @@
+{
+  "id": 6192,
+  "chapter_id": 105,
+  "verse_key": "105:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 549,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3",
+  "words": [
+    {
+      "id": 3867,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_004_001.mp3",
+      "text": "تَرْمِيهِم",
+      "translation": "yang melempari mereka",
+      "transliteration": "tarmīhim"
+    },
+    {
+      "id": 3868,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_004_002.mp3",
+      "text": "بِحِجَارَةٍۢ",
+      "translation": "dengan batu-batu",
+      "transliteration": "biḥijāratin"
+    },
+    {
+      "id": 3869,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_004_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 3870,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_004_004.mp3",
+      "text": "سِجِّيلٍۢ",
+      "translation": "tanah keras/terbakar",
+      "transliteration": "sijjīlin"
+    },
+    {
+      "id": 3871,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21110,
+    "timestamp_to": 30440,
+    "duration": 9330,
+    "segments": [
+      [
+        1,
+        20545,
+        21725
+      ],
+      [
+        2,
+        21725,
+        24355
+      ],
+      [
+        3,
+        24355,
+        25655
+      ],
+      [
+        4,
+        25655,
+        29820
+      ]
+    ]
+  }
+}

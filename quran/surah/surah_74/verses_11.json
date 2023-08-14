@@ -1,0 +1,86 @@
+{
+  "id": 5506,
+  "chapter_id": 74,
+  "verse_key": "74:11",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 12881,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_011_001.mp3",
+      "text": "ذَرْنِى",
+      "translation": "biarkan Aku",
+      "transliteration": "dharnī"
+    },
+    {
+      "id": 12882,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_011_002.mp3",
+      "text": "وَمَنْ",
+      "translation": "dan orang",
+      "transliteration": "waman"
+    },
+    {
+      "id": 12883,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_011_003.mp3",
+      "text": "خَلَقْتُ",
+      "translation": "Aku ciptakan",
+      "transliteration": "khalaqtu"
+    },
+    {
+      "id": 12884,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_011_004.mp3",
+      "text": "وَحِيدًۭا",
+      "translation": "satu/sendiri",
+      "transliteration": "waḥīdan"
+    },
+    {
+      "id": 12885,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Biarkanlah Aku bertindak terhadap orang<sup foot_note_id=\"1527\">1</sup> yang Aku telah menciptakannya sendirian.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39030,
+    "timestamp_to": 43110,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        38965,
+        39905
+      ],
+      [
+        2,
+        39905,
+        40425
+      ],
+      [
+        3,
+        40425,
+        41325
+      ],
+      [
+        4,
+        41325,
+        42560
+      ]
+    ]
+  }
+}

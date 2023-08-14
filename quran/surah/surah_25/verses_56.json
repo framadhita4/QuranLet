@@ -1,0 +1,99 @@
+{
+  "id": 2911,
+  "chapter_id": 25,
+  "verse_key": "25:56",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 314,
+  "manzil_number": 4,
+  "page_number": 365,
+  "juz_number": 19,
+  "text_uthmani": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 52176,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_056_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 52177,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_056_002.mp3",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation": "Kami mengutus kamu",
+      "transliteration": "arsalnāka"
+    },
+    {
+      "id": 52178,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_056_003.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 52179,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_056_004.mp3",
+      "text": "مُبَشِّرًۭا",
+      "translation": "pembawa kabar gembira",
+      "transliteration": "mubashiran"
+    },
+    {
+      "id": 52180,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_056_005.mp3",
+      "text": "وَنَذِيرًۭا",
+      "translation": "dan pemberi peringatan",
+      "transliteration": "wanadhīran"
+    },
+    {
+      "id": 52181,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah Kami mengutus kamu, melainkan hanya sebagai pembawa kabar gembira dan pemberi peringatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 874300,
+    "timestamp_to": 882530,
+    "duration": 8230,
+    "segments": [
+      [
+        1,
+        874275,
+        876395
+      ],
+      [
+        2,
+        876395,
+        877825
+      ],
+      [
+        3,
+        877825,
+        878715
+      ],
+      [
+        4,
+        878715,
+        879915
+      ],
+      [
+        5,
+        879915,
+        882480
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5307,
+  "chapter_id": 68,
+  "verse_key": "68:36",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 38415,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_036_001.mp3",
+      "text": "مَا",
+      "translation": "mengapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 38416,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_036_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 38417,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_036_003.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 38418,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_036_004.mp3",
+      "text": "تَحْكُمُونَ",
+      "translation": "kamu mengambil keputusan",
+      "transliteration": "taḥkumūna"
+    },
+    {
+      "id": 38419,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mengapa kamu (berbuat demikian), bagaimanakah kamu mengambil keputusan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 284950,
+    "timestamp_to": 289990,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        284875,
+        285335
+      ],
+      [
+        2,
+        285335,
+        285905
+      ],
+      [
+        3,
+        285905,
+        286515
+      ],
+      [
+        4,
+        286515,
+        289860
+      ]
+    ]
+  }
+}

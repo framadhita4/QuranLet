@@ -1,0 +1,73 @@
+{
+  "id": 5883,
+  "chapter_id": 83,
+  "verse_key": "83:35",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 37297,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_035_001.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 37298,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_035_002.mp3",
+      "text": "ٱلْأَرَآئِكِ",
+      "translation": "dipan",
+      "transliteration": "l-arāiki"
+    },
+    {
+      "id": 37299,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_035_003.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "mereka memandang/melihat",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 37300,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka (duduk) di atas dipan-dipan sambil memandang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 270650,
+    "timestamp_to": 278430,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        270535,
+        271025
+      ],
+      [
+        2,
+        271025,
+        273825
+      ],
+      [
+        3,
+        273825,
+        278230
+      ]
+    ]
+  }
+}

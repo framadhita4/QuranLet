@@ -1,0 +1,86 @@
+{
+  "id": 3962,
+  "chapter_id": 37,
+  "verse_key": "37:174",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83296,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_001.mp3",
+      "text": "فَتَوَلَّ",
+      "translation": "maka berpalinglah kamu",
+      "transliteration": "fatawalla"
+    },
+    {
+      "id": 83297,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_002.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 83298,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_003.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 83299,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_004.mp3",
+      "text": "حِينٍۢ",
+      "translation": "waktu tertentu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 83300,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٧٤",
+      "translation": "(174)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka berpalinglah kamu (Muhammad) dari mereka sampai suatu ketika <sup foot_note_id=\"1294\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1389810,
+    "timestamp_to": 1395370,
+    "duration": 5570,
+    "segments": [
+      [
+        1,
+        1389755,
+        1390755
+      ],
+      [
+        2,
+        1390755,
+        1391605
+      ],
+      [
+        3,
+        1391605,
+        1392425
+      ],
+      [
+        4,
+        1392425,
+        1395260
+      ]
+    ]
+  }
+}

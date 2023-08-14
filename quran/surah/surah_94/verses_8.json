@@ -1,0 +1,73 @@
+{
+  "id": 6098,
+  "chapter_id": 94,
+  "verse_key": "94:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3",
+  "words": [
+    {
+      "id": 9077,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_008_001.mp3",
+      "text": "وَإِلَىٰ",
+      "translation": "dan hanya",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 9078,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_008_002.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 9079,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_008_003.mp3",
+      "text": "فَٱرْغَب",
+      "translation": "maka kamu berharap",
+      "transliteration": "fa-ir'ghab"
+    },
+    {
+      "id": 9080,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan hanya kepada Tuhan-mulah hendaknya kamu berharap.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 29890,
+    "timestamp_to": 34120,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        29245,
+        30105
+      ],
+      [
+        2,
+        30105,
+        30985
+      ],
+      [
+        3,
+        30985,
+        33370
+      ]
+    ]
+  }
+}

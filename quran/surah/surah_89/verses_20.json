@@ -1,0 +1,86 @@
+{
+  "id": 6013,
+  "chapter_id": 89,
+  "verse_key": "89:20",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 22866,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_020_001.mp3",
+      "text": "وَتُحِبُّونَ",
+      "translation": "dan kamu mencintai",
+      "transliteration": "watuḥibbūna"
+    },
+    {
+      "id": 22867,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_020_002.mp3",
+      "text": "ٱلْمَالَ",
+      "translation": "harta",
+      "transliteration": "l-māla"
+    },
+    {
+      "id": 22868,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_020_003.mp3",
+      "text": "حُبًّۭا",
+      "translation": "cinta",
+      "transliteration": "ḥubban"
+    },
+    {
+      "id": 22869,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_020_004.mp3",
+      "text": "جَمًّۭا",
+      "translation": "berlebihan",
+      "transliteration": "jamman"
+    },
+    {
+      "id": 22870,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu mencintai harta benda dengan kecintaan yang berlebihan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 116470,
+    "timestamp_to": 123110,
+    "duration": 6640,
+    "segments": [
+      [
+        1,
+        116395,
+        117795
+      ],
+      [
+        2,
+        117795,
+        118705
+      ],
+      [
+        3,
+        118705,
+        120555
+      ],
+      [
+        4,
+        120555,
+        122530
+      ]
+    ]
+  }
+}

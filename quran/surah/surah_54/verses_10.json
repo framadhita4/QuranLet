@@ -1,0 +1,99 @@
+{
+  "id": 4856,
+  "chapter_id": 54,
+  "verse_key": "54:10",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 11161,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_010_001.mp3",
+      "text": "فَدَعَا",
+      "translation": "Maka dia mengadu",
+      "transliteration": "fadaʿā"
+    },
+    {
+      "id": 11162,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_010_002.mp3",
+      "text": "رَبَّهُۥٓ",
+      "translation": "Rabbnya",
+      "transliteration": "rabbahu"
+    },
+    {
+      "id": 11163,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_010_003.mp3",
+      "text": "أَنِّى",
+      "translation": "aku ini",
+      "transliteration": "annī"
+    },
+    {
+      "id": 11164,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_010_004.mp3",
+      "text": "مَغْلُوبٌۭ",
+      "translation": "orang yang dikalahkan",
+      "transliteration": "maghlūbun"
+    },
+    {
+      "id": 11165,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_010_005.mp3",
+      "text": "فَٱنتَصِرْ",
+      "translation": "maka tolonglah (aku)",
+      "transliteration": "fa-intaṣir"
+    },
+    {
+      "id": 11166,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka dia mengadu kepada Tuhan-nya, \"Bahwasanya aku ini adalah orang yang dikalahkan, oleh sebab itu tolonglah (aku)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 88250,
+    "timestamp_to": 97810,
+    "duration": 9560,
+    "segments": [
+      [
+        1,
+        88185,
+        89005
+      ],
+      [
+        2,
+        89005,
+        91505
+      ],
+      [
+        3,
+        91505,
+        93075
+      ],
+      [
+        4,
+        93075,
+        94405
+      ],
+      [
+        5,
+        94405,
+        95510
+      ]
+    ]
+  }
+}

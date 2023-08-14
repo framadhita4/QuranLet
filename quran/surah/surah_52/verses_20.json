@@ -1,0 +1,125 @@
+{
+  "id": 4755,
+  "chapter_id": 52,
+  "verse_key": "52:20",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 22539,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_001.mp3",
+      "text": "مُتَّكِـِٔينَ",
+      "translation": "mereka bersandar",
+      "transliteration": "muttakiīna"
+    },
+    {
+      "id": 22540,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 22541,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_003.mp3",
+      "text": "سُرُرٍۢ",
+      "translation": "dipan",
+      "transliteration": "sururin"
+    },
+    {
+      "id": 22542,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_004.mp3",
+      "text": "مَّصْفُوفَةٍۢ ۖ",
+      "translation": "berbaris/teratur",
+      "transliteration": "maṣfūfatin"
+    },
+    {
+      "id": 22544,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_006.mp3",
+      "text": "وَزَوَّجْنَـٰهُم",
+      "translation": "dan Kami jodohkan mereka",
+      "transliteration": "wazawwajnāhum"
+    },
+    {
+      "id": 22545,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_007.mp3",
+      "text": "بِحُورٍ",
+      "translation": "jelita/bidadari",
+      "transliteration": "biḥūrin"
+    },
+    {
+      "id": 22546,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_020_008.mp3",
+      "text": "عِينٍۢ",
+      "translation": "mata",
+      "transliteration": "ʿīnin"
+    },
+    {
+      "id": 22547,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka bertelekan di atas dipan-dipan berderetan dan Kami kawinkan mereka dengan bidadari-bidadari yang cantik bermata jeli.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 142430,
+    "timestamp_to": 154680,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        142345,
+        144035
+      ],
+      [
+        2,
+        144035,
+        144665
+      ],
+      [
+        3,
+        144665,
+        145465
+      ],
+      [
+        4,
+        145465,
+        148175
+      ],
+      [
+        5,
+        148175,
+        150865
+      ],
+      [
+        6,
+        150865,
+        151825
+      ],
+      [
+        7,
+        151825,
+        154550
+      ]
+    ]
+  }
+}

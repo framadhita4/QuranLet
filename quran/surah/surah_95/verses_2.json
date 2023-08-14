@@ -1,0 +1,60 @@
+{
+  "id": 6100,
+  "chapter_id": 95,
+  "verse_key": "95:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "وَطُورِ سِينِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3",
+  "words": [
+    {
+      "id": 1481,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_002_001.mp3",
+      "text": "وَطُورِ",
+      "translation": "dan bukit",
+      "transliteration": "waṭūri"
+    },
+    {
+      "id": 1482,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_002_002.mp3",
+      "text": "سِينِينَ",
+      "translation": "Sinai",
+      "transliteration": "sīnīna"
+    },
+    {
+      "id": 1483,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan demi bukit Ṭūrsīnā`<sup foot_note_id=\"1589\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4810,
+    "timestamp_to": 8940,
+    "duration": 4130,
+    "segments": [
+      [
+        1,
+        4725,
+        5415
+      ],
+      [
+        2,
+        5415,
+        8500
+      ]
+    ]
+  }
+}

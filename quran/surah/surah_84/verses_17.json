@@ -1,0 +1,73 @@
+{
+  "id": 5901,
+  "chapter_id": 84,
+  "verse_key": "84:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّيْلِ وَمَا وَسَقَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 19695,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_017_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "dan malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 19696,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_017_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 19697,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_017_003.mp3",
+      "text": "وَسَقَ",
+      "translation": "menyelubungi",
+      "transliteration": "wasaqa"
+    },
+    {
+      "id": 19698,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dengan malam dan apa yang diselubunginya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 91680,
+    "timestamp_to": 94400,
+    "duration": 2720,
+    "segments": [
+      [
+        1,
+        91635,
+        92685
+      ],
+      [
+        2,
+        92685,
+        93295
+      ],
+      [
+        3,
+        93295,
+        94330
+      ]
+    ]
+  }
+}

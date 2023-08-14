@@ -1,0 +1,164 @@
+{
+  "id": 2751,
+  "chapter_id": 23,
+  "verse_key": "23:78",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 63428,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 63429,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_002.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 63430,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_003.mp3",
+      "text": "أَنشَأَ",
+      "translation": "mengadakan/menciptakan",
+      "transliteration": "ansha-a"
+    },
+    {
+      "id": 63431,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_004.mp3",
+      "text": "لَكُمُ",
+      "translation": "bagi kalian",
+      "transliteration": "lakumu"
+    },
+    {
+      "id": 63432,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_005.mp3",
+      "text": "ٱلسَّمْعَ",
+      "translation": "pendengaran",
+      "transliteration": "l-samʿa"
+    },
+    {
+      "id": 63433,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_006.mp3",
+      "text": "وَٱلْأَبْصَـٰرَ",
+      "translation": "dan penglihatan",
+      "transliteration": "wal-abṣāra"
+    },
+    {
+      "id": 63434,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_007.mp3",
+      "text": "وَٱلْأَفْـِٔدَةَ ۚ",
+      "translation": "dan hati",
+      "transliteration": "wal-afidata"
+    },
+    {
+      "id": 63436,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_009.mp3",
+      "text": "قَلِيلًۭا",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 63437,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_010.mp3",
+      "text": "مَّا",
+      "translation": "apa-apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 63438,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_078_011.mp3",
+      "text": "تَشْكُرُونَ",
+      "translation": "kalian bersyukur",
+      "transliteration": "tashkurūna"
+    },
+    {
+      "id": 63439,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah yang telah menciptakan bagi kamu sekalian, pendengaran, penglihatan, dan hati.  Amat sedikitlah kamu bersyukur <sup foot_note_id=\"1016\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 995170,
+    "timestamp_to": 1008390,
+    "duration": 13220,
+    "segments": [
+      [
+        1,
+        995115,
+        995755
+      ],
+      [
+        2,
+        995755,
+        997885
+      ],
+      [
+        3,
+        997885,
+        999285
+      ],
+      [
+        4,
+        999285,
+        999795
+      ],
+      [
+        5,
+        999795,
+        1000695
+      ],
+      [
+        6,
+        1000695,
+        1002085
+      ],
+      [
+        7,
+        1002085,
+        1003335
+      ],
+      [
+        8,
+        1003335,
+        1004205
+      ],
+      [
+        9,
+        1004205,
+        1005285
+      ],
+      [
+        10,
+        1005285,
+        1008310
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3953,
+  "chapter_id": 37,
+  "verse_key": "37:165",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82426,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_165_001.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 82427,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_165_002.mp3",
+      "text": "لَنَحْنُ",
+      "translation": "benar-benar kami",
+      "transliteration": "lanaḥnu"
+    },
+    {
+      "id": 82428,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_165_003.mp3",
+      "text": "ٱلصَّآفُّونَ",
+      "translation": "bersaf-saf",
+      "transliteration": "l-ṣāfūna"
+    },
+    {
+      "id": 82429,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٦٥",
+      "translation": "(165)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kami benar-benar bersaf-saf (dalam menunaikan perintah Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1323930,
+    "timestamp_to": 1333780,
+    "duration": 9850,
+    "segments": [
+      [
+        1,
+        1323865,
+        1325705
+      ],
+      [
+        2,
+        1325705,
+        1326435
+      ],
+      [
+        3,
+        1326435,
+        1333650
+      ]
+    ]
+  }
+}

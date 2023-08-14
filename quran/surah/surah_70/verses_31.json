@@ -1,0 +1,125 @@
+{
+  "id": 5406,
+  "chapter_id": 70,
+  "verse_key": "70:31",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 33853,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_001.mp3",
+      "text": "فَمَنِ",
+      "translation": "maka barang siapa",
+      "transliteration": "famani"
+    },
+    {
+      "id": 33854,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_002.mp3",
+      "text": "ٱبْتَغَىٰ",
+      "translation": "mencari",
+      "transliteration": "ib'taghā"
+    },
+    {
+      "id": 33855,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_003.mp3",
+      "text": "وَرَآءَ",
+      "translation": "belakang/selain",
+      "transliteration": "warāa"
+    },
+    {
+      "id": 33856,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_004.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 33857,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_005.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itu",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 33858,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_006.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 33859,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_031_007.mp3",
+      "text": "ٱلْعَادُونَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "l-ʿādūna"
+    },
+    {
+      "id": 33860,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa mencari yang di balik itu<sup foot_note_id=\"1514\">1</sup>, maka mereka itulah orang-orang yang melampaui batas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 180740,
+    "timestamp_to": 190930,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        180675,
+        181265
+      ],
+      [
+        2,
+        181265,
+        182115
+      ],
+      [
+        3,
+        182115,
+        184175
+      ],
+      [
+        4,
+        184175,
+        184915
+      ],
+      [
+        5,
+        184915,
+        187434
+      ],
+      [
+        6,
+        187435,
+        187775
+      ],
+      [
+        7,
+        187775,
+        190770
+      ]
+    ]
+  }
+}

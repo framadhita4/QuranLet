@@ -1,0 +1,112 @@
+{
+  "id": 2416,
+  "chapter_id": 20,
+  "verse_key": "20:68",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 316,
+  "juz_number": 16,
+  "text_uthmani": "قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 58533,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_068_001.mp3",
+      "text": "قُلْنَا",
+      "translation": "Kami berfirman",
+      "transliteration": "qul'nā"
+    },
+    {
+      "id": 58534,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_068_002.mp3",
+      "text": "لَا",
+      "translation": "janganlah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 58535,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_068_003.mp3",
+      "text": "تَخَفْ",
+      "translation": "kamu takut",
+      "transliteration": "takhaf"
+    },
+    {
+      "id": 58536,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_068_004.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 58537,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_068_005.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 58538,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_068_006.mp3",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation": "diatas unggul",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 58539,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami berkata, \"Janganlah kamu takut, sesungguhnya kamulah yang paling unggul (menang).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 654640,
+    "timestamp_to": 661280,
+    "duration": 6640,
+    "segments": [
+      [
+        1,
+        654265,
+        655205
+      ],
+      [
+        2,
+        655205,
+        655675
+      ],
+      [
+        3,
+        655675,
+        656395
+      ],
+      [
+        4,
+        656395,
+        658035
+      ],
+      [
+        5,
+        658035,
+        659195
+      ],
+      [
+        6,
+        659195,
+        660510
+      ]
+    ]
+  }
+}

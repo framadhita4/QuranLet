@@ -1,0 +1,172 @@
+{
+  "id": 5236,
+  "chapter_id": 66,
+  "verse_key": "66:7",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "ruku_number": 496,
+  "manzil_number": 7,
+  "page_number": 560,
+  "juz_number": 28,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/66.mp3",
+  "words": [
+    {
+      "id": 7841,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 7842,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 7843,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 7844,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_004.mp3",
+      "text": "لَا",
+      "translation": "tidak/jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 7845,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_005.mp3",
+      "text": "تَعْتَذِرُوا۟",
+      "translation": "kamu mengemukakan uzur",
+      "transliteration": "taʿtadhirū"
+    },
+    {
+      "id": 7846,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_006.mp3",
+      "text": "ٱلْيَوْمَ ۖ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 7848,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_008.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 7849,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_009.mp3",
+      "text": "تُجْزَوْنَ",
+      "translation": "kamu diberi balasan",
+      "transliteration": "tuj'zawna"
+    },
+    {
+      "id": 7850,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_010.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 7851,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_011.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 7852,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/066_007_012.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 7853,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang kafir, janganlah kamu mengemukakan uzur pada hari ini.  Sesungguhnya kamu hanya diberi balasan menurut apa yang kamu kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 167190,
+    "timestamp_to": 184010,
+    "duration": 16820,
+    "segments": [
+      [
+        1,
+        167125,
+        169985
+      ],
+      [
+        2,
+        169985,
+        170895
+      ],
+      [
+        3,
+        170895,
+        171825
+      ],
+      [
+        4,
+        171825,
+        172065
+      ],
+      [
+        5,
+        172065,
+        175135
+      ],
+      [
+        7,
+        175135,
+        177275
+      ],
+      [
+        8,
+        177275,
+        178295
+      ],
+      [
+        9,
+        178295,
+        178645
+      ],
+      [
+        10,
+        178645,
+        180275
+      ],
+      [
+        11,
+        180275,
+        183870
+      ]
+    ]
+  }
+}

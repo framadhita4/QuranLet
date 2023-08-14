@@ -1,0 +1,99 @@
+{
+  "id": 6010,
+  "chapter_id": 89,
+  "verse_key": "89:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 19504,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_017_001.mp3",
+      "text": "كَلَّا ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 19506,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_017_003.mp3",
+      "text": "بَل",
+      "translation": "tetapi/bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 19507,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_017_004.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 19508,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_017_005.mp3",
+      "text": "تُكْرِمُونَ",
+      "translation": "kamu memuliakan",
+      "transliteration": "tuk'rimūna"
+    },
+    {
+      "id": 19509,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_017_006.mp3",
+      "text": "ٱلْيَتِيمَ",
+      "translation": "anak yatim",
+      "transliteration": "l-yatīma"
+    },
+    {
+      "id": 19510,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak (demikian), sebenarnya kamu tidak memuliakan anak yatim<sup foot_note_id=\"1577\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 94110,
+    "timestamp_to": 101220,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        94045,
+        94945
+      ],
+      [
+        2,
+        94945,
+        95495
+      ],
+      [
+        3,
+        95495,
+        96115
+      ],
+      [
+        4,
+        96115,
+        97395
+      ],
+      [
+        5,
+        97395,
+        101100
+      ]
+    ]
+  }
+}

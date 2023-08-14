@@ -1,0 +1,112 @@
+{
+  "id": 3845,
+  "chapter_id": 37,
+  "verse_key": "37:57",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 53039,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_057_001.mp3",
+      "text": "وَلَوْلَا",
+      "translation": "dan jika tidak",
+      "transliteration": "walawlā"
+    },
+    {
+      "id": 53040,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_057_002.mp3",
+      "text": "نِعْمَةُ",
+      "translation": "nikmat",
+      "transliteration": "niʿ'matu"
+    },
+    {
+      "id": 53041,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_057_003.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 53042,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_057_004.mp3",
+      "text": "لَكُنتُ",
+      "translation": "pastilah aku adalah",
+      "transliteration": "lakuntu"
+    },
+    {
+      "id": 53043,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_057_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 53044,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_057_006.mp3",
+      "text": "ٱلْمُحْضَرِينَ",
+      "translation": "orang-orang yang dihadapkan",
+      "transliteration": "l-muḥ'ḍarīna"
+    },
+    {
+      "id": 53045,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "jikalau tidaklah karena nikmat Tuhan-ku, pastilah aku termasuk orang-orang yang diseret (ke neraka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 481370,
+    "timestamp_to": 489960,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        481295,
+        482445
+      ],
+      [
+        2,
+        482445,
+        483275
+      ],
+      [
+        3,
+        483275,
+        484075
+      ],
+      [
+        4,
+        484075,
+        485765
+      ],
+      [
+        5,
+        485765,
+        486075
+      ],
+      [
+        6,
+        486075,
+        489840
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4472,
+  "chapter_id": 44,
+  "verse_key": "44:58",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 53246,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_001.mp3",
+      "text": "فَإِنَّمَا",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-innamā"
+    },
+    {
+      "id": 53247,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_002.mp3",
+      "text": "يَسَّرْنَـٰهُ",
+      "translation": "Kami mudahkannya",
+      "transliteration": "yassarnāhu"
+    },
+    {
+      "id": 53248,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_003.mp3",
+      "text": "بِلِسَانِكَ",
+      "translation": "dengan lisan/bahasamu",
+      "transliteration": "bilisānika"
+    },
+    {
+      "id": 53249,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_004.mp3",
+      "text": "لَعَلَّهُمْ",
+      "translation": "supaya mereka",
+      "transliteration": "laʿallahum"
+    },
+    {
+      "id": 53250,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_005.mp3",
+      "text": "يَتَذَكَّرُونَ",
+      "translation": "mereka mendapat pelajaran",
+      "transliteration": "yatadhakkarūna"
+    },
+    {
+      "id": 53251,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya, Kami mudahkan Al-Qur`ān itu dengan bahasamu supaya mereka mendapat pelajaran.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 555510,
+    "timestamp_to": 565230,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        555455,
+        557375
+      ],
+      [
+        2,
+        557375,
+        558925
+      ],
+      [
+        3,
+        558925,
+        560275
+      ],
+      [
+        4,
+        560275,
+        561535
+      ],
+      [
+        5,
+        561535,
+        565150
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 2652,
+  "chapter_id": 22,
+  "verse_key": "22:57",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "ruku_number": 291,
+  "manzil_number": 4,
+  "page_number": 339,
+  "juz_number": 17,
+  "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 52734,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 52735,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_002.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 52736,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_003.mp3",
+      "text": "وَكَذَّبُوا۟",
+      "translation": "dan mereka mendustakan",
+      "transliteration": "wakadhabū"
+    },
+    {
+      "id": 52737,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_004.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "dengan ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 52738,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_005.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itu",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 52739,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 52740,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_007.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 52741,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_057_008.mp3",
+      "text": "مُّهِينٌۭ",
+      "translation": "menghinakan",
+      "transliteration": "muhīnun"
+    },
+    {
+      "id": 52742,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang kafir dan mendustakan ayat-ayat Kami, maka bagi mereka azab yang menghinakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1289640,
+    "timestamp_to": 1303250,
+    "duration": 13610,
+    "segments": [
+      [
+        1,
+        1289595,
+        1290895
+      ],
+      [
+        2,
+        1290895,
+        1291915
+      ],
+      [
+        3,
+        1291915,
+        1293245
+      ],
+      [
+        4,
+        1293245,
+        1295115
+      ],
+      [
+        5,
+        1295115,
+        1298055
+      ],
+      [
+        6,
+        1298055,
+        1298605
+      ],
+      [
+        7,
+        1298605,
+        1299765
+      ],
+      [
+        8,
+        1299765,
+        1303180
+      ]
+    ]
+  }
+}

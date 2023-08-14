@@ -1,0 +1,112 @@
+{
+  "id": 6037,
+  "chapter_id": 90,
+  "verse_key": "90:14",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 16485,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_014_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 16486,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_014_002.mp3",
+      "text": "إِطْعَـٰمٌۭ",
+      "translation": "memberi makan",
+      "transliteration": "iṭ'ʿāmun"
+    },
+    {
+      "id": 16487,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_014_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 16488,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_014_004.mp3",
+      "text": "يَوْمٍۢ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 16489,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_014_005.mp3",
+      "text": "ذِى",
+      "translation": "mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 16490,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_014_006.mp3",
+      "text": "مَسْغَبَةٍۢ",
+      "translation": "kelaparan",
+      "transliteration": "masghabatin"
+    },
+    {
+      "id": 16491,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau memberi makan pada hari kelaparan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 63000,
+    "timestamp_to": 69270,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        62925,
+        63345
+      ],
+      [
+        2,
+        63345,
+        65205
+      ],
+      [
+        3,
+        65205,
+        65745
+      ],
+      [
+        4,
+        65745,
+        67265
+      ],
+      [
+        5,
+        67265,
+        67715
+      ],
+      [
+        6,
+        67715,
+        69120
+      ]
+    ]
+  }
+}

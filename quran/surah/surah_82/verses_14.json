@@ -1,0 +1,86 @@
+{
+  "id": 5843,
+  "chapter_id": 82,
+  "verse_key": "82:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 16432,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_014_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 16433,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_014_002.mp3",
+      "text": "ٱلْفُجَّارَ",
+      "translation": "orang-orang durhaka",
+      "transliteration": "l-fujāra"
+    },
+    {
+      "id": 16434,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_014_003.mp3",
+      "text": "لَفِى",
+      "translation": "dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 16435,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_014_004.mp3",
+      "text": "جَحِيمٍۢ",
+      "translation": "neraka",
+      "transliteration": "jaḥīmin"
+    },
+    {
+      "id": 16436,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 67840,
+    "timestamp_to": 73460,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        67765,
+        68935
+      ],
+      [
+        2,
+        68935,
+        70325
+      ],
+      [
+        3,
+        70325,
+        70915
+      ],
+      [
+        4,
+        70915,
+        73310
+      ]
+    ]
+  }
+}

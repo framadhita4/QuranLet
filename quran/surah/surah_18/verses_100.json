@@ -1,0 +1,99 @@
+{
+  "id": 2240,
+  "chapter_id": 18,
+  "verse_key": "18:100",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 262,
+  "manzil_number": 4,
+  "page_number": 304,
+  "juz_number": 16,
+  "text_uthmani": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِّلْكَـٰفِرِينَ عَرْضًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 71194,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_100_001.mp3",
+      "text": "وَعَرَضْنَا",
+      "translation": "dan Kami palingkan/perlihatkan",
+      "transliteration": "waʿaraḍnā"
+    },
+    {
+      "id": 71195,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_100_002.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 71196,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_100_003.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 71197,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_100_004.mp3",
+      "text": "لِّلْكَـٰفِرِينَ",
+      "translation": "bagi/kepada orang-orang kafir",
+      "transliteration": "lil'kāfirīna"
+    },
+    {
+      "id": 71198,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_100_005.mp3",
+      "text": "عَرْضًا",
+      "translation": "berpaling jelas",
+      "transliteration": "ʿarḍan"
+    },
+    {
+      "id": 71199,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٠",
+      "translation": "(100)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami tampakkan Jahanam pada hari itu <sup foot_note_id=\"894\">1</sup> kepada orang-orang kafir dengan jelas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1809270,
+    "timestamp_to": 1817030,
+    "duration": 7760,
+    "segments": [
+      [
+        1,
+        1808725,
+        1810015
+      ],
+      [
+        2,
+        1810015,
+        1811835
+      ],
+      [
+        3,
+        1811835,
+        1813095
+      ],
+      [
+        4,
+        1813095,
+        1814885
+      ],
+      [
+        5,
+        1814885,
+        1816460
+      ]
+    ]
+  }
+}

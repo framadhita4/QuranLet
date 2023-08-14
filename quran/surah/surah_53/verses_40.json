@@ -1,0 +1,86 @@
+{
+  "id": 4824,
+  "chapter_id": 53,
+  "verse_key": "53:40",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 41115,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 41116,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_002.mp3",
+      "text": "سَعْيَهُۥ",
+      "translation": "usahanya",
+      "transliteration": "saʿyahu"
+    },
+    {
+      "id": 41117,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_003.mp3",
+      "text": "سَوْفَ",
+      "translation": "kelak",
+      "transliteration": "sawfa"
+    },
+    {
+      "id": 41118,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_004.mp3",
+      "text": "يُرَىٰ",
+      "translation": "diperlihatkan",
+      "transliteration": "yurā"
+    },
+    {
+      "id": 41119,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya usaha itu kelak akan diperlihatkan (kepadanya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 339910,
+    "timestamp_to": 344350,
+    "duration": 4440,
+    "segments": [
+      [
+        1,
+        339475,
+        340775
+      ],
+      [
+        2,
+        340775,
+        341895
+      ],
+      [
+        3,
+        341895,
+        342655
+      ],
+      [
+        4,
+        342655,
+        343870
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3008,
+  "chapter_id": 26,
+  "verse_key": "26:76",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 62695,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_076_001.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 62696,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_076_002.mp3",
+      "text": "وَءَابَآؤُكُمُ",
+      "translation": "dan bapak-bapak/nenek moyangmu",
+      "transliteration": "waābāukumu"
+    },
+    {
+      "id": 62697,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_076_003.mp3",
+      "text": "ٱلْأَقْدَمُونَ",
+      "translation": "terdahulu",
+      "transliteration": "l-aqdamūna"
+    },
+    {
+      "id": 62698,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kamu dan nenek moyang kamu yang dahulu?,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 745640,
+    "timestamp_to": 753630,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        745335,
+        747085
+      ],
+      [
+        2,
+        747085,
+        750225
+      ],
+      [
+        3,
+        750225,
+        753270
+      ]
+    ]
+  }
+}

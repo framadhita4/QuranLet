@@ -1,0 +1,86 @@
+{
+  "id": 5723,
+  "chapter_id": 79,
+  "verse_key": "79:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "أَءِذَا كُنَّا عِظَـٰمًا نَّخِرَةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 12979,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_011_001.mp3",
+      "text": "أَءِذَا",
+      "translation": "apakah apabila",
+      "transliteration": "a-idhā"
+    },
+    {
+      "id": 12980,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_011_002.mp3",
+      "text": "كُنَّا",
+      "translation": "kami adalah/menjadi",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 12981,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_011_003.mp3",
+      "text": "عِظَـٰمًۭا",
+      "translation": "tulang belulang",
+      "transliteration": "ʿiẓāman"
+    },
+    {
+      "id": 12982,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_011_004.mp3",
+      "text": "نَّخِرَةًۭ",
+      "translation": "hancur",
+      "transliteration": "nakhiratan"
+    },
+    {
+      "id": 12983,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah (akan dibangkitkan juga) apabila kami telah menjadi tulang belulang yang hancur lumat?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41000,
+    "timestamp_to": 47010,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        40935,
+        41755
+      ],
+      [
+        2,
+        41755,
+        43585
+      ],
+      [
+        3,
+        43585,
+        44525
+      ],
+      [
+        4,
+        44525,
+        46890
+      ]
+    ]
+  }
+}

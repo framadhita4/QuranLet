@@ -1,0 +1,86 @@
+{
+  "id": 3871,
+  "chapter_id": 37,
+  "verse_key": "37:83",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 65354,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_083_002.mp3",
+      "text": "۞ وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 65355,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_083_003.mp3",
+      "text": "مِن",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 65356,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_083_004.mp3",
+      "text": "شِيعَتِهِۦ",
+      "translation": "golongannya",
+      "transliteration": "shīʿatihi"
+    },
+    {
+      "id": 65357,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_083_005.mp3",
+      "text": "لَإِبْرَٰهِيمَ",
+      "translation": "benar-benar Ibrahim",
+      "transliteration": "la-ib'rāhīma"
+    },
+    {
+      "id": 65358,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Ibrāhīm benar-benar termasuk golongannya (Nūḥ) <sup foot_note_id=\"1278\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 686620,
+    "timestamp_to": 694120,
+    "duration": 7500,
+    "segments": [
+      [
+        1,
+        686555,
+        688035
+      ],
+      [
+        2,
+        688035,
+        688405
+      ],
+      [
+        3,
+        688405,
+        690355
+      ],
+      [
+        4,
+        690355,
+        694000
+      ]
+    ]
+  }
+}

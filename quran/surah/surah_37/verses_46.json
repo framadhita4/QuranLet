@@ -1,0 +1,73 @@
+{
+  "id": 3834,
+  "chapter_id": 37,
+  "verse_key": "37:46",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "بَيْضَآءَ لَذَّةٍ لِّلشَّـٰرِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 46070,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_046_001.mp3",
+      "text": "بَيْضَآءَ",
+      "translation": "putih",
+      "transliteration": "bayḍāa"
+    },
+    {
+      "id": 46071,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_046_002.mp3",
+      "text": "لَذَّةٍۢ",
+      "translation": "sedap rasanya",
+      "transliteration": "ladhatin"
+    },
+    {
+      "id": 46072,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_046_003.mp3",
+      "text": "لِّلشَّـٰرِبِينَ",
+      "translation": "bagi orang-orang yang meminum",
+      "transliteration": "lilshāribīna"
+    },
+    {
+      "id": 46073,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Warnanya) putih bersih, sedap rasanya bagi orang-orang yang minum.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 386020,
+    "timestamp_to": 393940,
+    "duration": 7920,
+    "segments": [
+      [
+        1,
+        385935,
+        388845
+      ],
+      [
+        2,
+        388845,
+        389585
+      ],
+      [
+        3,
+        389585,
+        393790
+      ]
+    ]
+  }
+}

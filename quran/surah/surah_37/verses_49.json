@@ -1,0 +1,73 @@
+{
+  "id": 3837,
+  "chapter_id": 37,
+  "verse_key": "37:49",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 48157,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_049_001.mp3",
+      "text": "كَأَنَّهُنَّ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahunna"
+    },
+    {
+      "id": 48158,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_049_002.mp3",
+      "text": "بَيْضٌۭ",
+      "translation": "telor",
+      "transliteration": "bayḍun"
+    },
+    {
+      "id": 48159,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_049_003.mp3",
+      "text": "مَّكْنُونٌۭ",
+      "translation": "terpelihara/tersimpan baik",
+      "transliteration": "maknūnun"
+    },
+    {
+      "id": 48160,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "seakan-akan mereka adalah telur (burung unta) yang tersimpan dengan baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 410260,
+    "timestamp_to": 419380,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        410185,
+        413354
+      ],
+      [
+        2,
+        413355,
+        414175
+      ],
+      [
+        3,
+        414175,
+        419240
+      ]
+    ]
+  }
+}

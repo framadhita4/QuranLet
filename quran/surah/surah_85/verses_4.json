@@ -1,0 +1,73 @@
+{
+  "id": 5913,
+  "chapter_id": 85,
+  "verse_key": "85:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 4235,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_004_001.mp3",
+      "text": "قُتِلَ",
+      "translation": "dibunuh/dibinasakan",
+      "transliteration": "qutila"
+    },
+    {
+      "id": 4236,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_004_002.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "kaum/orang-orang",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 4237,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_004_003.mp3",
+      "text": "ٱلْأُخْدُودِ",
+      "translation": "pembuat parit",
+      "transliteration": "l-ukh'dūdi"
+    },
+    {
+      "id": 4238,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Binasa dan terlaknatlah orang-orang yang membuat parit<sup foot_note_id=\"1568\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20440,
+    "timestamp_to": 26450,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        20375,
+        21025
+      ],
+      [
+        2,
+        21025,
+        21985
+      ],
+      [
+        3,
+        21985,
+        26310
+      ]
+    ]
+  }
+}

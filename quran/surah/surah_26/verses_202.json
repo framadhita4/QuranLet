@@ -1,0 +1,99 @@
+{
+  "id": 3134,
+  "chapter_id": 26,
+  "verse_key": "26:202",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85370,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_202_001.mp3",
+      "text": "فَيَأْتِيَهُم",
+      "translation": "maka datang kepada mereka",
+      "transliteration": "fayatiyahum"
+    },
+    {
+      "id": 85371,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_202_002.mp3",
+      "text": "بَغْتَةًۭ",
+      "translation": "dengan tiba-tiba",
+      "transliteration": "baghtatan"
+    },
+    {
+      "id": 85372,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_202_003.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 85373,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_202_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 85374,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_202_005.mp3",
+      "text": "يَشْعُرُونَ",
+      "translation": "mereka menyadari",
+      "transliteration": "yashʿurūna"
+    },
+    {
+      "id": 85375,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٠٢",
+      "translation": "(202)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka datanglah azab kepada mereka dengan mendadak, sedang mereka tidak menyadarinya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1756610,
+    "timestamp_to": 1764680,
+    "duration": 8070,
+    "segments": [
+      [
+        1,
+        1756585,
+        1758675
+      ],
+      [
+        2,
+        1758675,
+        1760525
+      ],
+      [
+        3,
+        1760525,
+        1761005
+      ],
+      [
+        4,
+        1761005,
+        1761545
+      ],
+      [
+        5,
+        1761545,
+        1764590
+      ]
+    ]
+  }
+}

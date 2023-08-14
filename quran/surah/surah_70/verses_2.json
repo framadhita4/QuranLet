@@ -1,0 +1,86 @@
+{
+  "id": 5377,
+  "chapter_id": 70,
+  "verse_key": "70:2",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 1552,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_002_001.mp3",
+      "text": "لِّلْكَـٰفِرِينَ",
+      "translation": "untuk orang-orang kafir",
+      "transliteration": "lil'kāfirīna"
+    },
+    {
+      "id": 1553,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_002_002.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 1554,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_002_003.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 1555,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_002_004.mp3",
+      "text": "دَافِعٌۭ",
+      "translation": "menolak",
+      "transliteration": "dāfiʿun"
+    },
+    {
+      "id": 1556,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk orang-orang kafir, yang tidak seorang pun dapat menolaknya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7310,
+    "timestamp_to": 11780,
+    "duration": 4470,
+    "segments": [
+      [
+        1,
+        7255,
+        8985
+      ],
+      [
+        2,
+        8985,
+        9775
+      ],
+      [
+        3,
+        9775,
+        10335
+      ],
+      [
+        4,
+        10335,
+        11650
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5814,
+  "chapter_id": 81,
+  "verse_key": "81:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 15854,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_014_001.mp3",
+      "text": "عَلِمَتْ",
+      "translation": "mengetahu",
+      "transliteration": "ʿalimat"
+    },
+    {
+      "id": 15855,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_014_002.mp3",
+      "text": "نَفْسٌۭ",
+      "translation": "diri/jiwa",
+      "transliteration": "nafsun"
+    },
+    {
+      "id": 15856,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_014_003.mp3",
+      "text": "مَّآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 15857,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_014_004.mp3",
+      "text": "أَحْضَرَتْ",
+      "translation": "ia sediakan/kerjakan",
+      "transliteration": "aḥḍarat"
+    },
+    {
+      "id": 15858,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39890,
+    "timestamp_to": 44930,
+    "duration": 5040,
+    "segments": [
+      [
+        1,
+        39825,
+        40715
+      ],
+      [
+        2,
+        40715,
+        41435
+      ],
+      [
+        3,
+        41435,
+        43275
+      ],
+      [
+        4,
+        43275,
+        44840
+      ]
+    ]
+  }
+}

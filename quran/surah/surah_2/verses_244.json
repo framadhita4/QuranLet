@@ -1,0 +1,151 @@
+{
+  "id": 251,
+  "chapter_id": 2,
+  "verse_key": "2:244",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "ruku_number": 33,
+  "manzil_number": 1,
+  "page_number": 39,
+  "juz_number": 2,
+  "text_uthmani": "وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 86778,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_001.mp3",
+      "text": "وَقَـٰتِلُوا۟",
+      "translation": "dan berperanglah kamu sekalian",
+      "transliteration": "waqātilū"
+    },
+    {
+      "id": 86779,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_002.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 86780,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_003.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 86781,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 86782,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_005.mp3",
+      "text": "وَٱعْلَمُوٓا۟",
+      "translation": "dan ketahuilah",
+      "transliteration": "wa-iʿ'lamū"
+    },
+    {
+      "id": 86783,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_006.mp3",
+      "text": "أَنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 86784,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_007.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 86785,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_008.mp3",
+      "text": "سَمِيعٌ",
+      "translation": "Maha Mendengar",
+      "transliteration": "samīʿun"
+    },
+    {
+      "id": 86786,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_244_009.mp3",
+      "text": "عَلِيمٌۭ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 86787,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٤٤",
+      "translation": "(244)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan berperanglah kamu sekalian di jalan Allah, dan ketahuilah, sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5794670,
+    "timestamp_to": 5803710,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        5794605,
+        5795675
+      ],
+      [
+        2,
+        5795675,
+        5795995
+      ],
+      [
+        3,
+        5795995,
+        5796965
+      ],
+      [
+        4,
+        5796965,
+        5797425
+      ],
+      [
+        5,
+        5797425,
+        5799325
+      ],
+      [
+        6,
+        5799325,
+        5800215
+      ],
+      [
+        7,
+        5800215,
+        5800925
+      ],
+      [
+        8,
+        5800925,
+        5801795
+      ],
+      [
+        9,
+        5801795,
+        5803590
+      ]
+    ]
+  }
+}

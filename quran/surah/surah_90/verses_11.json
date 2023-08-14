@@ -1,0 +1,73 @@
+{
+  "id": 6034,
+  "chapter_id": 90,
+  "verse_key": "90:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 12673,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_011_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka/tetapi tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 12674,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_011_002.mp3",
+      "text": "ٱقْتَحَمَ",
+      "translation": "ia menempuh",
+      "transliteration": "iq'taḥama"
+    },
+    {
+      "id": 12675,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_011_003.mp3",
+      "text": "ٱلْعَقَبَةَ",
+      "translation": "pendakian/mendaki",
+      "transliteration": "l-ʿaqabata"
+    },
+    {
+      "id": 12676,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tidakkah sebaiknya (dengan hartanya itu) ia menempuh jalan yang mendaki lagi sukar?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53250,
+    "timestamp_to": 56070,
+    "duration": 2820,
+    "segments": [
+      [
+        1,
+        53215,
+        53575
+      ],
+      [
+        2,
+        53575,
+        54425
+      ],
+      [
+        3,
+        54425,
+        55950
+      ]
+    ]
+  }
+}

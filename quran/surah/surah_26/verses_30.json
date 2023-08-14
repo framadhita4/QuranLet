@@ -1,0 +1,99 @@
+{
+  "id": 2962,
+  "chapter_id": 26,
+  "verse_key": "26:30",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ أَوَلَوْ جِئْتُكَ بِشَىْءٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 32937,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_030_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 32938,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_030_002.mp3",
+      "text": "أَوَلَوْ",
+      "translation": "apakah jika",
+      "transliteration": "awalaw"
+    },
+    {
+      "id": 32939,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_030_003.mp3",
+      "text": "جِئْتُكَ",
+      "translation": "aku datangkan kepadamu",
+      "transliteration": "ji'tuka"
+    },
+    {
+      "id": 32940,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_030_004.mp3",
+      "text": "بِشَىْءٍۢ",
+      "translation": "dengan sesuatu",
+      "transliteration": "bishayin"
+    },
+    {
+      "id": 32941,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_030_005.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 32942,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Musa berkata, \"Dan apakah (kamu akan melakukan itu) kendatipun aku tunjukkan kepadamu sesuatu (keterangan) yang nyata?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 301550,
+    "timestamp_to": 308680,
+    "duration": 7130,
+    "segments": [
+      [
+        1,
+        301505,
+        302135
+      ],
+      [
+        2,
+        302135,
+        302885
+      ],
+      [
+        3,
+        302885,
+        303745
+      ],
+      [
+        4,
+        303745,
+        305515
+      ],
+      [
+        5,
+        305515,
+        308610
+      ]
+    ]
+  }
+}

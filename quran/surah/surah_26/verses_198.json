@@ -1,0 +1,99 @@
+{
+  "id": 3130,
+  "chapter_id": 26,
+  "verse_key": "26:198",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85187,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_198_001.mp3",
+      "text": "وَلَوْ",
+      "translation": "dan kalau",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 85188,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_198_002.mp3",
+      "text": "نَزَّلْنَـٰهُ",
+      "translation": "Kami menurunkannya",
+      "transliteration": "nazzalnāhu"
+    },
+    {
+      "id": 85189,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_198_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 85190,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_198_004.mp3",
+      "text": "بَعْضِ",
+      "translation": "sebagian",
+      "transliteration": "baʿḍi"
+    },
+    {
+      "id": 85191,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_198_005.mp3",
+      "text": "ٱلْأَعْجَمِينَ",
+      "translation": "bukan bangsa Arab",
+      "transliteration": "l-aʿjamīna"
+    },
+    {
+      "id": 85192,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٩٨",
+      "translation": "(198)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kalau  Al-Qur`ān itu Kami turunkan kepada salah seorang dari golongan bukan Arab,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1727120,
+    "timestamp_to": 1733910,
+    "duration": 6790,
+    "segments": [
+      [
+        1,
+        1727045,
+        1727625
+      ],
+      [
+        2,
+        1727625,
+        1729175
+      ],
+      [
+        3,
+        1729175,
+        1729785
+      ],
+      [
+        4,
+        1729785,
+        1730415
+      ],
+      [
+        5,
+        1730415,
+        1733780
+      ]
+    ]
+  }
+}

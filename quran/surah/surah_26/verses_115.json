@@ -1,0 +1,99 @@
+{
+  "id": 3047,
+  "chapter_id": 26,
+  "verse_key": "26:115",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 75309,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_115_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 75310,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_115_002.mp3",
+      "text": "أَنَا۠",
+      "translation": "aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 75311,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_115_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/hanyalah",
+      "transliteration": "illā"
+    },
+    {
+      "id": 75312,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_115_004.mp3",
+      "text": "نَذِيرٌۭ",
+      "translation": "pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 75313,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_115_005.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 75314,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١١٥",
+      "translation": "(115)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Aku (ini) tidak lain melainkan pemberi peringatan yang menjelaskan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1036020,
+    "timestamp_to": 1041950,
+    "duration": 5930,
+    "segments": [
+      [
+        1,
+        1035975,
+        1036255
+      ],
+      [
+        2,
+        1036255,
+        1036805
+      ],
+      [
+        3,
+        1036805,
+        1037655
+      ],
+      [
+        4,
+        1037655,
+        1038465
+      ],
+      [
+        5,
+        1038465,
+        1041860
+      ]
+    ]
+  }
+}

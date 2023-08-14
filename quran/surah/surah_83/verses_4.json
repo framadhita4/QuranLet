@@ -1,0 +1,99 @@
+{
+  "id": 5852,
+  "chapter_id": 83,
+  "verse_key": "83:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 4218,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_004_001.mp3",
+      "text": "أَلَا",
+      "translation": "tidakkah",
+      "transliteration": "alā"
+    },
+    {
+      "id": 4219,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_004_002.mp3",
+      "text": "يَظُنُّ",
+      "translation": "mereka menyangka",
+      "transliteration": "yaẓunnu"
+    },
+    {
+      "id": 4220,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_004_003.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 4221,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_004_004.mp3",
+      "text": "أَنَّهُم",
+      "translation": "bahwa sesungguhnya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 4222,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_004_005.mp3",
+      "text": "مَّبْعُوثُونَ",
+      "translation": "orang-orang yang dibangkitkan",
+      "transliteration": "mabʿūthūna"
+    },
+    {
+      "id": 4223,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidaklah orang-orang itu menyangka bahwa sesungguhnya mereka akan dibangkitkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19910,
+    "timestamp_to": 30280,
+    "duration": 10370,
+    "segments": [
+      [
+        1,
+        19695,
+        20385
+      ],
+      [
+        2,
+        20385,
+        22095
+      ],
+      [
+        3,
+        22095,
+        24305
+      ],
+      [
+        4,
+        24305,
+        26165
+      ],
+      [
+        5,
+        26165,
+        30000
+      ]
+    ]
+  }
+}

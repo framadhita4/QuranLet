@@ -1,0 +1,112 @@
+{
+  "id": 4003,
+  "chapter_id": 38,
+  "verse_key": "38:33",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 35495,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_033_001.mp3",
+      "text": "رُدُّوهَا",
+      "translation": "bawalah kembali",
+      "transliteration": "ruddūhā"
+    },
+    {
+      "id": 35496,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_033_002.mp3",
+      "text": "عَلَىَّ ۖ",
+      "translation": "kepadaku",
+      "transliteration": "ʿalayya"
+    },
+    {
+      "id": 35498,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_033_004.mp3",
+      "text": "فَطَفِقَ",
+      "translation": "lalu dia mulai berbuat",
+      "transliteration": "faṭafiqa"
+    },
+    {
+      "id": 35499,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_033_005.mp3",
+      "text": "مَسْحًۢا",
+      "translation": "mengusap-usap",
+      "transliteration": "masḥan"
+    },
+    {
+      "id": 35500,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_033_006.mp3",
+      "text": "بِٱلسُّوقِ",
+      "translation": "dengan kaki",
+      "transliteration": "bil-sūqi"
+    },
+    {
+      "id": 35501,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_033_007.mp3",
+      "text": "وَٱلْأَعْنَاقِ",
+      "translation": "dan leher",
+      "transliteration": "wal-aʿnāqi"
+    },
+    {
+      "id": 35502,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Bawalah semua kuda itu kembali kepadaku\".  Lalu, ia potong kaki dan leher kuda itu <sup foot_note_id=\"1302\">1</sup> b.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 470700,
+    "timestamp_to": 480630,
+    "duration": 9930,
+    "segments": [
+      [
+        1,
+        470365,
+        471625
+      ],
+      [
+        2,
+        471625,
+        472395
+      ],
+      [
+        3,
+        472395,
+        473815
+      ],
+      [
+        4,
+        473815,
+        475425
+      ],
+      [
+        5,
+        475425,
+        476525
+      ],
+      [
+        6,
+        476525,
+        479890
+      ]
+    ]
+  }
+}

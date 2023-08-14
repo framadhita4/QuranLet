@@ -1,0 +1,151 @@
+{
+  "id": 4778,
+  "chapter_id": 52,
+  "verse_key": "52:43",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 43744,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 43745,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 43746,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_003.mp3",
+      "text": "إِلَـٰهٌ",
+      "translation": "Tuhan",
+      "transliteration": "ilāhun"
+    },
+    {
+      "id": 43747,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_004.mp3",
+      "text": "غَيْرُ",
+      "translation": "selain",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 43748,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_005.mp3",
+      "text": "ٱللَّهِ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 43750,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_007.mp3",
+      "text": "سُبْحَـٰنَ",
+      "translation": "Maha Suci",
+      "transliteration": "sub'ḥāna"
+    },
+    {
+      "id": 43751,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_008.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 43752,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_009.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa yang",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 43753,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_043_010.mp3",
+      "text": "يُشْرِكُونَ",
+      "translation": "mereka persekutukan",
+      "transliteration": "yush'rikūna"
+    },
+    {
+      "id": 43754,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah mereka mempunyai tuhan selain Allah.  Maha Suci Allah dari apa yang mereka persekutukan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 403190,
+    "timestamp_to": 416750,
+    "duration": 13560,
+    "segments": [
+      [
+        1,
+        403115,
+        403385
+      ],
+      [
+        2,
+        403385,
+        404235
+      ],
+      [
+        3,
+        404235,
+        405235
+      ],
+      [
+        4,
+        405235,
+        405975
+      ],
+      [
+        5,
+        405975,
+        409555
+      ],
+      [
+        6,
+        409555,
+        410635
+      ],
+      [
+        7,
+        410635,
+        411625
+      ],
+      [
+        8,
+        411625,
+        413265
+      ],
+      [
+        9,
+        413265,
+        416590
+      ]
+    ]
+  }
+}

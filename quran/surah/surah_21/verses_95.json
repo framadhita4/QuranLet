@@ -1,0 +1,125 @@
+{
+  "id": 2578,
+  "chapter_id": 21,
+  "verse_key": "21:95",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 330,
+  "juz_number": 17,
+  "text_uthmani": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَـٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 69829,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_001.mp3",
+      "text": "وَحَرَٰمٌ",
+      "translation": "dan haram",
+      "transliteration": "waḥarāmun"
+    },
+    {
+      "id": 69830,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 69831,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_003.mp3",
+      "text": "قَرْيَةٍ",
+      "translation": "suatu negeri",
+      "transliteration": "qaryatin"
+    },
+    {
+      "id": 69832,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_004.mp3",
+      "text": "أَهْلَكْنَـٰهَآ",
+      "translation": "Kami telah binasakannya",
+      "transliteration": "ahlaknāhā"
+    },
+    {
+      "id": 69833,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_005.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "karena sesungguhnya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 69834,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_006.mp3",
+      "text": "لَا",
+      "translation": "(mereka) tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 69835,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_095_007.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "kembali",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 69836,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sungguh tidak mungkin atas (penduduk) suatu negeri yang telah Kami binasakan bahwa mereka tidak akan kembali (kepada Kami).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1337860,
+    "timestamp_to": 1348360,
+    "duration": 10500,
+    "segments": [
+      [
+        1,
+        1337805,
+        1339095
+      ],
+      [
+        2,
+        1339095,
+        1339655
+      ],
+      [
+        3,
+        1339655,
+        1340895
+      ],
+      [
+        4,
+        1340895,
+        1343805
+      ],
+      [
+        5,
+        1343805,
+        1345255
+      ],
+      [
+        6,
+        1345255,
+        1345635
+      ],
+      [
+        7,
+        1345635,
+        1348250
+      ]
+    ]
+  }
+}

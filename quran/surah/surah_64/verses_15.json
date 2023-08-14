@@ -1,0 +1,138 @@
+{
+  "id": 5214,
+  "chapter_id": 64,
+  "verse_key": "64:15",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 493,
+  "manzil_number": 7,
+  "page_number": 557,
+  "juz_number": 28,
+  "text_uthmani": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ ۚ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3",
+  "words": [
+    {
+      "id": 17379,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_001.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 17380,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_002.mp3",
+      "text": "أَمْوَٰلُكُمْ",
+      "translation": "hartamu",
+      "transliteration": "amwālukum"
+    },
+    {
+      "id": 17381,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_003.mp3",
+      "text": "وَأَوْلَـٰدُكُمْ",
+      "translation": "dan anak-anakmu",
+      "transliteration": "wa-awlādukum"
+    },
+    {
+      "id": 17382,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_004.mp3",
+      "text": "فِتْنَةٌۭ ۚ",
+      "translation": "fitnah/ujian",
+      "transliteration": "fit'natun"
+    },
+    {
+      "id": 17384,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_006.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 17385,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_007.mp3",
+      "text": "عِندَهُۥٓ",
+      "translation": "disisi-Nya",
+      "transliteration": "ʿindahu"
+    },
+    {
+      "id": 17386,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_008.mp3",
+      "text": "أَجْرٌ",
+      "translation": "pahala",
+      "transliteration": "ajrun"
+    },
+    {
+      "id": 17387,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_015_009.mp3",
+      "text": "عَظِيمٌۭ",
+      "translation": "besar",
+      "transliteration": "ʿaẓīmun"
+    },
+    {
+      "id": 17388,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya hartamu dan anak-anakmu hanyalah cobaan (bagimu), di sisi Allah-lah pahala yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 262790,
+    "timestamp_to": 277550,
+    "duration": 14760,
+    "segments": [
+      [
+        1,
+        262705,
+        266015
+      ],
+      [
+        2,
+        266015,
+        267445
+      ],
+      [
+        3,
+        267445,
+        268965
+      ],
+      [
+        4,
+        268965,
+        270215
+      ],
+      [
+        5,
+        270215,
+        271145
+      ],
+      [
+        6,
+        271145,
+        274175
+      ],
+      [
+        7,
+        274175,
+        274875
+      ],
+      [
+        8,
+        274875,
+        277430
+      ]
+    ]
+  }
+}

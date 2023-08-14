@@ -1,0 +1,112 @@
+{
+  "id": 1174,
+  "chapter_id": 8,
+  "verse_key": "8:14",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 147,
+  "manzil_number": 2,
+  "page_number": 178,
+  "juz_number": 9,
+  "text_uthmani": "ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَـٰفِرِينَ عَذَابَ ٱلنَّارِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 16016,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_014_001.mp3",
+      "text": "ذَٰلِكُمْ",
+      "translation": "demikian itulah",
+      "transliteration": "dhālikum"
+    },
+    {
+      "id": 16017,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_014_002.mp3",
+      "text": "فَذُوقُوهُ",
+      "translation": "maka rasakanlah ia",
+      "transliteration": "fadhūqūhu"
+    },
+    {
+      "id": 16018,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_014_003.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 16019,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_014_004.mp3",
+      "text": "لِلْكَـٰفِرِينَ",
+      "translation": "bagi orang-orang kafir",
+      "transliteration": "lil'kāfirīna"
+    },
+    {
+      "id": 16020,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_014_005.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 16021,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_014_006.mp3",
+      "text": "ٱلنَّارِ",
+      "translation": "neraka",
+      "transliteration": "l-nāri"
+    },
+    {
+      "id": 16022,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah (hukum dunia yang ditimpakan atasmu), maka rasakanlah hukuman itu.  Sesungguhnya bagi orang-orang yang kafir itu ada (lagi) azab neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 284520,
+    "timestamp_to": 296410,
+    "duration": 11890,
+    "segments": [
+      [
+        1,
+        283945,
+        285165
+      ],
+      [
+        2,
+        285165,
+        286615
+      ],
+      [
+        3,
+        286615,
+        288325
+      ],
+      [
+        4,
+        288325,
+        290125
+      ],
+      [
+        5,
+        290125,
+        291135
+      ],
+      [
+        6,
+        291135,
+        295800
+      ]
+    ]
+  }
+}

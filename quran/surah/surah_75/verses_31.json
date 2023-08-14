@@ -1,0 +1,86 @@
+{
+  "id": 5582,
+  "chapter_id": 75,
+  "verse_key": "75:31",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 33725,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_031_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka/karena tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 33726,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_031_002.mp3",
+      "text": "صَدَّقَ",
+      "translation": "dia membenarkan",
+      "transliteration": "ṣaddaqa"
+    },
+    {
+      "id": 33727,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_031_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 33728,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_031_004.mp3",
+      "text": "صَلَّىٰ",
+      "translation": "dia mengerjakan sholat",
+      "transliteration": "ṣallā"
+    },
+    {
+      "id": 33729,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ia tidak mau membenarkan (rasul dan Al-Qur`ān) dan tidak mau mengerjakan salat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 151200,
+    "timestamp_to": 154570,
+    "duration": 3370,
+    "segments": [
+      [
+        1,
+        151135,
+        151735
+      ],
+      [
+        2,
+        151735,
+        152635
+      ],
+      [
+        3,
+        152635,
+        153115
+      ],
+      [
+        4,
+        153115,
+        154180
+      ]
+    ]
+  }
+}

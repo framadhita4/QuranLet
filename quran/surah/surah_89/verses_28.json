@@ -1,0 +1,99 @@
+{
+  "id": 6021,
+  "chapter_id": 89,
+  "verse_key": "89:28",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 31092,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_028_001.mp3",
+      "text": "ٱرْجِعِىٓ",
+      "translation": "kembalilah",
+      "transliteration": "ir'jiʿī"
+    },
+    {
+      "id": 31093,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_028_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 31094,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_028_003.mp3",
+      "text": "رَبِّكِ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbiki"
+    },
+    {
+      "id": 31095,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_028_004.mp3",
+      "text": "رَاضِيَةًۭ",
+      "translation": "rida/puas",
+      "transliteration": "rāḍiyatan"
+    },
+    {
+      "id": 31096,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_028_005.mp3",
+      "text": "مَّرْضِيَّةًۭ",
+      "translation": "diridhoi",
+      "transliteration": "marḍiyyatan"
+    },
+    {
+      "id": 31097,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kembalilah kepada Tuhan-mu dengan hati yang puas lagi diridai-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 179790,
+    "timestamp_to": 187420,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        179385,
+        181824
+      ],
+      [
+        2,
+        181825,
+        182465
+      ],
+      [
+        3,
+        182465,
+        183255
+      ],
+      [
+        4,
+        183255,
+        184445
+      ],
+      [
+        5,
+        184445,
+        186930
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 3066,
+  "chapter_id": 26,
+  "verse_key": "26:134",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "وَجَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 78391,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_134_001.mp3",
+      "text": "وَجَنَّـٰتٍۢ",
+      "translation": "dan kebun-kebun",
+      "transliteration": "wajannātin"
+    },
+    {
+      "id": 78392,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_134_002.mp3",
+      "text": "وَعُيُونٍ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 78393,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣٤",
+      "translation": "(134)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kebun-kebun dan mata air,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1179600,
+    "timestamp_to": 1185190,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        1179535,
+        1182325
+      ],
+      [
+        2,
+        1182325,
+        1185070
+      ]
+    ]
+  }
+}

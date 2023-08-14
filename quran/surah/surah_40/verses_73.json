@@ -1,0 +1,125 @@
+{
+  "id": 4206,
+  "chapter_id": 40,
+  "verse_key": "40:73",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 413,
+  "manzil_number": 6,
+  "page_number": 475,
+  "juz_number": 24,
+  "text_uthmani": "ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 61101,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 61102,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_002.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 61103,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 61104,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_004.mp3",
+      "text": "أَيْنَ",
+      "translation": "dimanakah",
+      "transliteration": "ayna"
+    },
+    {
+      "id": 61105,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_005.mp3",
+      "text": "مَا",
+      "translation": "apa (berhala)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 61106,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 61107,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_073_007.mp3",
+      "text": "تُشْرِكُونَ",
+      "translation": "kamu persekutukan",
+      "transliteration": "tush'rikūna"
+    },
+    {
+      "id": 61108,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian dikatakan kepada mereka, \"Manakah berhala-berhala yang selalu kamu persekutukan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1331420,
+    "timestamp_to": 1340690,
+    "duration": 9270,
+    "segments": [
+      [
+        1,
+        1331355,
+        1332765
+      ],
+      [
+        2,
+        1332765,
+        1333475
+      ],
+      [
+        3,
+        1333475,
+        1334015
+      ],
+      [
+        4,
+        1334015,
+        1334665
+      ],
+      [
+        5,
+        1334665,
+        1335015
+      ],
+      [
+        6,
+        1335015,
+        1336915
+      ],
+      [
+        7,
+        1336915,
+        1340570
+      ]
+    ]
+  }
+}

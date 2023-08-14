@@ -1,0 +1,99 @@
+{
+  "id": 3914,
+  "chapter_id": 37,
+  "verse_key": "37:126",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 77351,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_126_001.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "al-laha"
+    },
+    {
+      "id": 77352,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_126_002.mp3",
+      "text": "رَبَّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbakum"
+    },
+    {
+      "id": 77353,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_126_003.mp3",
+      "text": "وَرَبَّ",
+      "translation": "dan Tuhan",
+      "transliteration": "warabba"
+    },
+    {
+      "id": 77354,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_126_004.mp3",
+      "text": "ءَابَآئِكُمُ",
+      "translation": "bapak-bapak kamu",
+      "transliteration": "ābāikumu"
+    },
+    {
+      "id": 77355,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_126_005.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "terdahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 77356,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٢٦",
+      "translation": "(126)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) Allah Tuhanmu dan Tuhan bapak-bapakmu yang terdahulu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1037610,
+    "timestamp_to": 1047090,
+    "duration": 9480,
+    "segments": [
+      [
+        1,
+        1037535,
+        1038575
+      ],
+      [
+        2,
+        1038575,
+        1039535
+      ],
+      [
+        3,
+        1039535,
+        1040345
+      ],
+      [
+        4,
+        1040345,
+        1043225
+      ],
+      [
+        5,
+        1043225,
+        1046950
+      ]
+    ]
+  }
+}

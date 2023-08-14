@@ -1,0 +1,125 @@
+{
+  "id": 3761,
+  "chapter_id": 36,
+  "verse_key": "36:56",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 52528,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_001.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 52529,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_002.mp3",
+      "text": "وَأَزْوَٰجُهُمْ",
+      "translation": "dan isteri-isteri mereka",
+      "transliteration": "wa-azwājuhum"
+    },
+    {
+      "id": 52530,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 52531,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_004.mp3",
+      "text": "ظِلَـٰلٍ",
+      "translation": "tempat yang teduh",
+      "transliteration": "ẓilālin"
+    },
+    {
+      "id": 52532,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_005.mp3",
+      "text": "عَلَى",
+      "translation": "di atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 52533,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_006.mp3",
+      "text": "ٱلْأَرَآئِكِ",
+      "translation": "tempat duduk/pelamin",
+      "transliteration": "l-arāiki"
+    },
+    {
+      "id": 52534,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_056_007.mp3",
+      "text": "مُتَّكِـُٔونَ",
+      "translation": "mereka bersandar",
+      "transliteration": "muttakiūna"
+    },
+    {
+      "id": 52535,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka dan istri-istri mereka berada dalam tempat yang teduh; bertelekan di atas dipan-dipan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 706520,
+    "timestamp_to": 717570,
+    "duration": 11050,
+    "segments": [
+      [
+        1,
+        706435,
+        706985
+      ],
+      [
+        2,
+        706985,
+        708805
+      ],
+      [
+        3,
+        708805,
+        709225
+      ],
+      [
+        4,
+        709225,
+        710295
+      ],
+      [
+        5,
+        710295,
+        710755
+      ],
+      [
+        6,
+        710755,
+        713495
+      ],
+      [
+        7,
+        713495,
+        717410
+      ]
+    ]
+  }
+}

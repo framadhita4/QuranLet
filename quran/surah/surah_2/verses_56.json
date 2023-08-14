@@ -1,0 +1,125 @@
+{
+  "id": 63,
+  "chapter_id": 2,
+  "verse_key": "2:56",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 7,
+  "manzil_number": 1,
+  "page_number": 8,
+  "juz_number": 1,
+  "text_uthmani": "ثُمَّ بَعَثْنَـٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 52059,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 52060,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_002.mp3",
+      "text": "بَعَثْنَـٰكُم",
+      "translation": "Kami bangkitkan kamu",
+      "transliteration": "baʿathnākum"
+    },
+    {
+      "id": 52061,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_003.mp3",
+      "text": "مِّنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 52062,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_004.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 52063,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_005.mp3",
+      "text": "مَوْتِكُمْ",
+      "translation": "matimu",
+      "transliteration": "mawtikum"
+    },
+    {
+      "id": 52064,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_006.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 52065,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_056_007.mp3",
+      "text": "تَشْكُرُونَ",
+      "translation": "kalian bersyukur",
+      "transliteration": "tashkurūna"
+    },
+    {
+      "id": 52066,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Setelah itu, Kami bangkitkan kamu sesudah kamu mati<sup foot_note_id=\"52\">1</sup> supaya kamu bersyukur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1012650,
+    "timestamp_to": 1022730,
+    "duration": 10080,
+    "segments": [
+      [
+        1,
+        1012575,
+        1013785
+      ],
+      [
+        2,
+        1013785,
+        1015115
+      ],
+      [
+        3,
+        1015115,
+        1016825
+      ],
+      [
+        4,
+        1016825,
+        1017415
+      ],
+      [
+        5,
+        1017415,
+        1018275
+      ],
+      [
+        6,
+        1018275,
+        1019475
+      ],
+      [
+        7,
+        1019475,
+        1022580
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3114,
+  "chapter_id": 26,
+  "verse_key": "26:182",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83943,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_182_001.mp3",
+      "text": "وَزِنُوا۟",
+      "translation": "dan timbanglah",
+      "transliteration": "wazinū"
+    },
+    {
+      "id": 83944,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_182_002.mp3",
+      "text": "بِٱلْقِسْطَاسِ",
+      "translation": "dengan neraca/timbangan",
+      "transliteration": "bil-qis'ṭāsi"
+    },
+    {
+      "id": 83945,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_182_003.mp3",
+      "text": "ٱلْمُسْتَقِيمِ",
+      "translation": "yang lurus",
+      "transliteration": "l-mus'taqīmi"
+    },
+    {
+      "id": 83946,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٨٢",
+      "translation": "(182)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan timbanglah dengan timbangan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1577550,
+    "timestamp_to": 1583710,
+    "duration": 6170,
+    "segments": [
+      [
+        1,
+        1577515,
+        1578465
+      ],
+      [
+        2,
+        1578465,
+        1580065
+      ],
+      [
+        3,
+        1580065,
+        1583620
+      ]
+    ]
+  }
+}

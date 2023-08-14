@@ -1,0 +1,60 @@
+{
+  "id": 4982,
+  "chapter_id": 56,
+  "verse_key": "56:3",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "خَافِضَةٌ رَّافِعَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 2257,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_003_001.mp3",
+      "text": "خَافِضَةٌۭ",
+      "translation": "yang merendahkan",
+      "transliteration": "khāfiḍatun"
+    },
+    {
+      "id": 2258,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_003_002.mp3",
+      "text": "رَّافِعَةٌ",
+      "translation": "yang meninggikan",
+      "transliteration": "rāfiʿatun"
+    },
+    {
+      "id": 2259,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Kejadian itu) merendahkan (satu golongan) dan meninggikan (golongan yang lain),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7680,
+    "timestamp_to": 10920,
+    "duration": 3240,
+    "segments": [
+      [
+        1,
+        7575,
+        9065
+      ],
+      [
+        2,
+        9065,
+        10730
+      ]
+    ]
+  }
+}

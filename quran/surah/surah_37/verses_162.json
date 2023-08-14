@@ -1,0 +1,86 @@
+{
+  "id": 3950,
+  "chapter_id": 37,
+  "verse_key": "37:162",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "مَآ أَنتُمْ عَلَيْهِ بِفَـٰتِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82062,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_162_001.mp3",
+      "text": "مَآ",
+      "translation": "tidaklah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 82063,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_162_002.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 82064,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_162_003.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atas-Nya/terhadap-Nya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 82065,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_162_004.mp3",
+      "text": "بِفَـٰتِنِينَ",
+      "translation": "dengan memperdayakan",
+      "transliteration": "bifātinīna"
+    },
+    {
+      "id": 82066,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٦٢",
+      "translation": "(162)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak dapat menyesatkan (seseorang) terhadap Allah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1299740,
+    "timestamp_to": 1307630,
+    "duration": 7890,
+    "segments": [
+      [
+        1,
+        1299675,
+        1301815
+      ],
+      [
+        2,
+        1301815,
+        1303185
+      ],
+      [
+        3,
+        1303185,
+        1304095
+      ],
+      [
+        4,
+        1304095,
+        1307520
+      ]
+    ]
+  }
+}

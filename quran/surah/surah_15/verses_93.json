@@ -1,0 +1,73 @@
+{
+  "id": 1895,
+  "chapter_id": 15,
+  "verse_key": "15:93",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "عَمَّا كَانُوا۟ يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 69141,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_093_001.mp3",
+      "text": "عَمَّا",
+      "translation": "tentang apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 69142,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_093_002.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 69143,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_093_003.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 69144,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tentang apa yang telah mereka kerjakan dahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 899170,
+    "timestamp_to": 904730,
+    "duration": 5570,
+    "segments": [
+      [
+        1,
+        899145,
+        900745
+      ],
+      [
+        2,
+        900745,
+        901665
+      ],
+      [
+        3,
+        901665,
+        904650
+      ]
+    ]
+  }
+}

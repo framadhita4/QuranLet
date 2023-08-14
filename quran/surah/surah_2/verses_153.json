@@ -1,0 +1,169 @@
+{
+  "id": 160,
+  "chapter_id": 2,
+  "verse_key": "2:153",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "ruku_number": 20,
+  "manzil_number": 1,
+  "page_number": 23,
+  "juz_number": 2,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 80856,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 80857,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 80858,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 80859,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_004.mp3",
+      "text": "ٱسْتَعِينُوا۟",
+      "translation": "mohonlah pertolongan",
+      "transliteration": "is'taʿīnū"
+    },
+    {
+      "id": 80860,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_005.mp3",
+      "text": "بِٱلصَّبْرِ",
+      "translation": "dengan sabar",
+      "transliteration": "bil-ṣabri"
+    },
+    {
+      "id": 80861,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_006.mp3",
+      "text": "وَٱلصَّلَوٰةِ ۚ",
+      "translation": "dan sholat",
+      "transliteration": "wal-ṣalati"
+    },
+    {
+      "id": 80863,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_008.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 80864,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_009.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 80865,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_010.mp3",
+      "text": "مَعَ",
+      "translation": "beserta",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 80866,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_153_011.mp3",
+      "text": "ٱلصَّـٰبِرِينَ",
+      "translation": "orang-orang yang sabar",
+      "transliteration": "l-ṣābirīna"
+    },
+    {
+      "id": 80867,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥٣",
+      "translation": "(153)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang yang beriman, mintalah pertolongan (kepada Allah) dengan sabar dan salat, sesungguhnya Allah beserta orang-orang yang sabar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3379400,
+    "timestamp_to": 3393950,
+    "duration": 14550,
+    "segments": [
+      [
+        1,
+        3379345,
+        3382045
+      ],
+      [
+        2,
+        3382045,
+        3383085
+      ],
+      [
+        3,
+        3383085,
+        3383805
+      ],
+      [
+        4,
+        3383805,
+        3384965
+      ],
+      [
+        5,
+        3384965,
+        3385905
+      ],
+      [
+        6,
+        3385905,
+        3386665
+      ],
+      [
+        8,
+        3386665,
+        3388525
+      ],
+      [
+        7,
+        3388525,
+        3389565
+      ],
+      [
+        8,
+        3389565,
+        3390435
+      ],
+      [
+        9,
+        3390435,
+        3390815
+      ],
+      [
+        10,
+        3390815,
+        3393820
+      ]
+    ]
+  }
+}

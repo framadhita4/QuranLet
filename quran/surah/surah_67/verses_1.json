@@ -1,0 +1,151 @@
+{
+  "id": 5242,
+  "chapter_id": 67,
+  "verse_key": "67:1",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "ruku_number": 498,
+  "manzil_number": 7,
+  "page_number": 562,
+  "juz_number": 29,
+  "text_uthmani": " تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/67.mp3",
+  "words": [
+    {
+      "id": 572,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_001.mp3",
+      "text": "تَبَـٰرَكَ",
+      "translation": "Maha Suci",
+      "transliteration": "tabāraka"
+    },
+    {
+      "id": 573,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 574,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_003.mp3",
+      "text": "بِيَدِهِ",
+      "translation": "di tangan-Nya",
+      "transliteration": "biyadihi"
+    },
+    {
+      "id": 575,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_004.mp3",
+      "text": "ٱلْمُلْكُ",
+      "translation": "kerajaan",
+      "transliteration": "l-mul'ku"
+    },
+    {
+      "id": 576,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_005.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 577,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_006.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 578,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_007.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 579,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_008.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 580,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/067_001_009.mp3",
+      "text": "قَدِيرٌ",
+      "translation": "Maha Kuasa",
+      "transliteration": "qadīrun"
+    },
+    {
+      "id": 581,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Suci Allah Yang di tangan-Nya-lah segala kerajaan, dan Dia Maha Kuasa atas segala sesuatu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 10790,
+    "duration": 10790,
+    "segments": [
+      [
+        1,
+        0,
+        1040
+      ],
+      [
+        2,
+        1040,
+        1990
+      ],
+      [
+        3,
+        1990,
+        2820
+      ],
+      [
+        4,
+        2820,
+        3760
+      ],
+      [
+        5,
+        3760,
+        4250
+      ],
+      [
+        6,
+        4250,
+        4950
+      ],
+      [
+        7,
+        4950,
+        5550
+      ],
+      [
+        8,
+        5550,
+        7280
+      ],
+      [
+        9,
+        7280,
+        10725
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4438,
+  "chapter_id": 44,
+  "verse_key": "44:24",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 26708,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_024_001.mp3",
+      "text": "وَٱتْرُكِ",
+      "translation": "dan tinggalkan/biarkan",
+      "transliteration": "wa-ut'ruki"
+    },
+    {
+      "id": 26709,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_024_002.mp3",
+      "text": "ٱلْبَحْرَ",
+      "translation": "laut",
+      "transliteration": "l-baḥra"
+    },
+    {
+      "id": 26710,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_024_003.mp3",
+      "text": "رَهْوًا ۖ",
+      "translation": "tenang",
+      "transliteration": "rahwan"
+    },
+    {
+      "id": 26712,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_024_005.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 26713,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_024_006.mp3",
+      "text": "جُندٌۭ",
+      "translation": "bala tentara",
+      "transliteration": "jundun"
+    },
+    {
+      "id": 26714,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_024_007.mp3",
+      "text": "مُّغْرَقُونَ",
+      "translation": "orang-orang yang ditenggelamkan",
+      "transliteration": "mugh'raqūna"
+    },
+    {
+      "id": 26715,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan biarkanlah laut itu tetap terbelah. Sesungguhnya mereka adalah tentara yang akan ditenggelamkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 241770,
+    "timestamp_to": 251930,
+    "duration": 10160,
+    "segments": [
+      [
+        1,
+        241745,
+        242765
+      ],
+      [
+        2,
+        242765,
+        243445
+      ],
+      [
+        3,
+        243445,
+        244455
+      ],
+      [
+        4,
+        244455,
+        246365
+      ],
+      [
+        5,
+        246365,
+        247985
+      ],
+      [
+        6,
+        247985,
+        251860
+      ]
+    ]
+  }
+}

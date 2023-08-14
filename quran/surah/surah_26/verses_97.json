@@ -1,0 +1,112 @@
+{
+  "id": 3029,
+  "chapter_id": 26,
+  "verse_key": "26:97",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "تَٱللَّهِ إِن كُنَّا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 70275,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_097_001.mp3",
+      "text": "تَٱللَّهِ",
+      "translation": "demi Allah",
+      "transliteration": "tal-lahi"
+    },
+    {
+      "id": 70276,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_097_002.mp3",
+      "text": "إِن",
+      "translation": "sesungguhnya",
+      "transliteration": "in"
+    },
+    {
+      "id": 70277,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_097_003.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 70278,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_097_004.mp3",
+      "text": "لَفِى",
+      "translation": "dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 70279,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_097_005.mp3",
+      "text": "ضَلَـٰلٍۢ",
+      "translation": "benar-benar dalam kesesatan",
+      "transliteration": "ḍalālin"
+    },
+    {
+      "id": 70280,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_097_006.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 70281,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٧",
+      "translation": "(97)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"demi Allah, sungguh kita dahulu (di dunia) dalam kesesatan yang nyata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 902970,
+    "timestamp_to": 912030,
+    "duration": 9070,
+    "segments": [
+      [
+        1,
+        902915,
+        904085
+      ],
+      [
+        2,
+        904085,
+        904775
+      ],
+      [
+        3,
+        904775,
+        906775
+      ],
+      [
+        4,
+        906775,
+        907335
+      ],
+      [
+        5,
+        907335,
+        908615
+      ],
+      [
+        6,
+        908615,
+        911960
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4359,
+  "chapter_id": 43,
+  "verse_key": "43:34",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 428,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 36509,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_034_001.mp3",
+      "text": "وَلِبُيُوتِهِمْ",
+      "translation": "dan bagi rumah-rumah mereka",
+      "transliteration": "walibuyūtihim"
+    },
+    {
+      "id": 36510,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_034_002.mp3",
+      "text": "أَبْوَٰبًۭا",
+      "translation": "pintu-pintu",
+      "transliteration": "abwāban"
+    },
+    {
+      "id": 36511,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_034_003.mp3",
+      "text": "وَسُرُرًا",
+      "translation": "dan ranjang/dipan",
+      "transliteration": "wasururan"
+    },
+    {
+      "id": 36512,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_034_004.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 36513,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_034_005.mp3",
+      "text": "يَتَّكِـُٔونَ",
+      "translation": "mereka bersandar",
+      "transliteration": "yattakiūna"
+    },
+    {
+      "id": 36514,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (Kami buatkan pula) pintu-pintu (perak) bagi rumah-rumah mereka dan (begitu pula) dipan-dipan yang mereka bertelekan atasnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 498560,
+    "timestamp_to": 507810,
+    "duration": 9250,
+    "segments": [
+      [
+        1,
+        498505,
+        500275
+      ],
+      [
+        2,
+        500275,
+        502155
+      ],
+      [
+        3,
+        502155,
+        503035
+      ],
+      [
+        4,
+        503035,
+        504105
+      ],
+      [
+        5,
+        504105,
+        507700
+      ]
+    ]
+  }
+}

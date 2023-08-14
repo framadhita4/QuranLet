@@ -1,0 +1,112 @@
+{
+  "id": 2451,
+  "chapter_id": 20,
+  "verse_key": "20:103",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "page_number": 319,
+  "juz_number": 16,
+  "text_uthmani": "يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 72159,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_103_001.mp3",
+      "text": "يَتَخَـٰفَتُونَ",
+      "translation": "mereka berbisik-bisik",
+      "transliteration": "yatakhāfatūna"
+    },
+    {
+      "id": 72160,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_103_002.mp3",
+      "text": "بَيْنَهُمْ",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 72161,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_103_003.mp3",
+      "text": "إِن",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 72162,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_103_004.mp3",
+      "text": "لَّبِثْتُمْ",
+      "translation": "kamu berdiam",
+      "transliteration": "labith'tum"
+    },
+    {
+      "id": 72163,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_103_005.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 72164,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_103_006.mp3",
+      "text": "عَشْرًۭا",
+      "translation": "sepuluh",
+      "transliteration": "ʿashran"
+    },
+    {
+      "id": 72165,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka berbisik-bisik di antara mereka, \"Kamu tidak berdiam (di dunia), melainkan hanyalah sepuluh (hari)\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1188400,
+    "timestamp_to": 1194980,
+    "duration": 6580,
+    "segments": [
+      [
+        1,
+        1188375,
+        1190195
+      ],
+      [
+        2,
+        1190195,
+        1191235
+      ],
+      [
+        3,
+        1191235,
+        1191505
+      ],
+      [
+        4,
+        1191505,
+        1192745
+      ],
+      [
+        5,
+        1192745,
+        1193525
+      ],
+      [
+        6,
+        1193525,
+        1194920
+      ]
+    ]
+  }
+}

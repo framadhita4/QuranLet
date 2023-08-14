@@ -1,0 +1,138 @@
+{
+  "id": 4647,
+  "chapter_id": 50,
+  "verse_key": "50:17",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "إِذْ يَتَلَقَّى ٱلْمُتَلَقِّيَانِ عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 19273,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 19274,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_002.mp3",
+      "text": "يَتَلَقَّى",
+      "translation": "mendapatkan/mencatat",
+      "transliteration": "yatalaqqā"
+    },
+    {
+      "id": 19275,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_003.mp3",
+      "text": "ٱلْمُتَلَقِّيَانِ",
+      "translation": "dua pencatat/dua malaikat",
+      "transliteration": "l-mutalaqiyāni"
+    },
+    {
+      "id": 19276,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_004.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 19277,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_005.mp3",
+      "text": "ٱلْيَمِينِ",
+      "translation": "sebelah kanan",
+      "transliteration": "l-yamīni"
+    },
+    {
+      "id": 19278,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_006.mp3",
+      "text": "وَعَنِ",
+      "translation": "dan dari",
+      "transliteration": "waʿani"
+    },
+    {
+      "id": 19279,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_007.mp3",
+      "text": "ٱلشِّمَالِ",
+      "translation": "kiir",
+      "transliteration": "l-shimāli"
+    },
+    {
+      "id": 19280,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_017_008.mp3",
+      "text": "قَعِيدٌۭ",
+      "translation": "duduk",
+      "transliteration": "qaʿīdun"
+    },
+    {
+      "id": 19281,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) ketika dua orang malaikat mencatat amal perbuatannya, seorang duduk di sebelah kanan dan yang lain duduk di sebelah kiri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 210180,
+    "timestamp_to": 220180,
+    "duration": 10010,
+    "segments": [
+      [
+        1,
+        210105,
+        210635
+      ],
+      [
+        2,
+        210635,
+        211695
+      ],
+      [
+        3,
+        211695,
+        213765
+      ],
+      [
+        4,
+        213765,
+        214235
+      ],
+      [
+        5,
+        214235,
+        215385
+      ],
+      [
+        6,
+        215385,
+        216035
+      ],
+      [
+        7,
+        216035,
+        217205
+      ],
+      [
+        8,
+        217205,
+        220060
+      ]
+    ]
+  }
+}

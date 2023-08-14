@@ -1,0 +1,73 @@
+{
+  "id": 5549,
+  "chapter_id": 74,
+  "verse_key": "74:54",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّآ إِنَّهُۥ تَذْكِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 51345,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_054_001.mp3",
+      "text": "كَلَّآ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 51346,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_054_002.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 51347,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_054_003.mp3",
+      "text": "تَذْكِرَةٌۭ",
+      "translation": "peringatan/pelajaran",
+      "transliteration": "tadhkiratun"
+    },
+    {
+      "id": 51348,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak demikian halnya.  Sesungguhnya Al-Qur`ān itu adalah peringatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 294530,
+    "timestamp_to": 299650,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        294455,
+        296525
+      ],
+      [
+        2,
+        296525,
+        297955
+      ],
+      [
+        3,
+        297955,
+        299480
+      ]
+    ]
+  }
+}

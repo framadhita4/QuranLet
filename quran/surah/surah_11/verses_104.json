@@ -1,0 +1,99 @@
+{
+  "id": 1577,
+  "chapter_id": 11,
+  "verse_key": "11:104",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "وَمَا نُؤَخِّرُهُۥٓ إِلَّا لِأَجَلٍ مَّعْدُودٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 72662,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_104_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 72663,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_104_002.mp3",
+      "text": "نُؤَخِّرُهُۥٓ",
+      "translation": "Kami mengundurkannya",
+      "transliteration": "nu-akhiruhu"
+    },
+    {
+      "id": 72664,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_104_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 72665,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_104_004.mp3",
+      "text": "لِأَجَلٍۢ",
+      "translation": "sampai waktu",
+      "transliteration": "li-ajalin"
+    },
+    {
+      "id": 72666,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_104_005.mp3",
+      "text": "مَّعْدُودٍۢ",
+      "translation": "ditentukan/dihitung",
+      "transliteration": "maʿdūdin"
+    },
+    {
+      "id": 72667,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٠٤",
+      "translation": "(104)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tiadalah mengundurkannya, melainkan sampai waktu yang tertentu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2397320,
+    "timestamp_to": 2407640,
+    "duration": 10320,
+    "segments": [
+      [
+        1,
+        2396655,
+        2397465
+      ],
+      [
+        2,
+        2397465,
+        2400664
+      ],
+      [
+        3,
+        2400665,
+        2401535
+      ],
+      [
+        4,
+        2401535,
+        2402395
+      ],
+      [
+        5,
+        2402395,
+        2406940
+      ]
+    ]
+  }
+}

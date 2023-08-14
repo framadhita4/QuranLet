@@ -1,0 +1,99 @@
+{
+  "id": 3036,
+  "chapter_id": 26,
+  "verse_key": "26:104",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 72552,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_104_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 72553,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_104_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 72554,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_104_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "benar-benar Dia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 72555,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_104_004.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 72556,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_104_005.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 72557,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٠٤",
+      "translation": "(104)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Tuhan-mu benar-benar Dia-lah Yang Maha Perkasa lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 958270,
+    "timestamp_to": 966630,
+    "duration": 8360,
+    "segments": [
+      [
+        1,
+        958235,
+        959845
+      ],
+      [
+        2,
+        959845,
+        960885
+      ],
+      [
+        3,
+        960885,
+        961515
+      ],
+      [
+        4,
+        961515,
+        962885
+      ],
+      [
+        5,
+        962885,
+        966530
+      ]
+    ]
+  }
+}

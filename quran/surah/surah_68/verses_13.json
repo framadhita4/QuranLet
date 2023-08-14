@@ -1,0 +1,86 @@
+{
+  "id": 5284,
+  "chapter_id": 68,
+  "verse_key": "68:13",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 15068,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_001.mp3",
+      "text": "عُتُلٍّۭ",
+      "translation": "kaku kasar",
+      "transliteration": "ʿutullin"
+    },
+    {
+      "id": 15069,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_002.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 15070,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 15071,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_004.mp3",
+      "text": "زَنِيمٍ",
+      "translation": "terkenal jahat",
+      "transliteration": "zanīmin"
+    },
+    {
+      "id": 15072,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang kaku kasar, selain dari itu, yang terkenal kejahatannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 85220,
+    "timestamp_to": 92220,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        85145,
+        86525
+      ],
+      [
+        2,
+        86525,
+        87535
+      ],
+      [
+        3,
+        87535,
+        88335
+      ],
+      [
+        4,
+        88335,
+        92080
+      ]
+    ]
+  }
+}

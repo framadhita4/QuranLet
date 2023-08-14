@@ -1,0 +1,99 @@
+{
+  "id": 5411,
+  "chapter_id": 70,
+  "verse_key": "70:36",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 505,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 38126,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_036_001.mp3",
+      "text": "فَمَالِ",
+      "translation": "maka mengapa",
+      "transliteration": "famāli"
+    },
+    {
+      "id": 38127,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_036_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 38128,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_036_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 38129,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_036_004.mp3",
+      "text": "قِبَلَكَ",
+      "translation": "datang ke arahmu",
+      "transliteration": "qibalaka"
+    },
+    {
+      "id": 38130,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_036_005.mp3",
+      "text": "مُهْطِعِينَ",
+      "translation": "bersegera",
+      "transliteration": "muh'ṭiʿīna"
+    },
+    {
+      "id": 38131,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mengapakah orang-orang kafir itu bersegera datang ke arahmu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 223140,
+    "timestamp_to": 229540,
+    "duration": 6400,
+    "segments": [
+      [
+        1,
+        223065,
+        223855
+      ],
+      [
+        2,
+        223855,
+        224765
+      ],
+      [
+        3,
+        224765,
+        225585
+      ],
+      [
+        4,
+        225585,
+        226455
+      ],
+      [
+        5,
+        226455,
+        229400
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4819,
+  "chapter_id": 53,
+  "verse_key": "53:35",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 36955,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_035_001.mp3",
+      "text": "أَعِندَهُۥ",
+      "translation": "apakah di sisi",
+      "transliteration": "aʿindahu"
+    },
+    {
+      "id": 36956,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_035_002.mp3",
+      "text": "عِلْمُ",
+      "translation": "pengetahuan",
+      "transliteration": "ʿil'mu"
+    },
+    {
+      "id": 36957,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_035_003.mp3",
+      "text": "ٱلْغَيْبِ",
+      "translation": "gaib",
+      "transliteration": "l-ghaybi"
+    },
+    {
+      "id": 36958,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_035_004.mp3",
+      "text": "فَهُوَ",
+      "translation": "maka dia",
+      "transliteration": "fahuwa"
+    },
+    {
+      "id": 36959,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_035_005.mp3",
+      "text": "يَرَىٰٓ",
+      "translation": "dia melihat",
+      "transliteration": "yarā"
+    },
+    {
+      "id": 36960,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah dia mempunyai pengetahuan tentang yang gaib, sehingga dia mengetahui (apa yang dikatakan)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 313290,
+    "timestamp_to": 318700,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        312855,
+        314715
+      ],
+      [
+        2,
+        314715,
+        315345
+      ],
+      [
+        3,
+        315345,
+        316245
+      ],
+      [
+        4,
+        316245,
+        316985
+      ],
+      [
+        5,
+        316985,
+        318200
+      ]
+    ]
+  }
+}

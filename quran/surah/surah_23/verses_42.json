@@ -1,0 +1,112 @@
+{
+  "id": 2715,
+  "chapter_id": 23,
+  "verse_key": "23:42",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 43340,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 43341,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_002.mp3",
+      "text": "أَنشَأْنَا",
+      "translation": "Kami tumbuhkan/jadikan",
+      "transliteration": "anshanā"
+    },
+    {
+      "id": 43342,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_003.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43343,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_004.mp3",
+      "text": "بَعْدِهِمْ",
+      "translation": "sesudah mereka",
+      "transliteration": "baʿdihim"
+    },
+    {
+      "id": 43344,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_005.mp3",
+      "text": "قُرُونًا",
+      "translation": "ummat-ummat/generasi",
+      "transliteration": "qurūnan"
+    },
+    {
+      "id": 43345,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_006.mp3",
+      "text": "ءَاخَرِينَ",
+      "translation": "yang lain",
+      "transliteration": "ākharīna"
+    },
+    {
+      "id": 43346,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami ciptakan sesudah mereka umat-umat yang lain <sup foot_note_id=\"1002\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 566210,
+    "timestamp_to": 574990,
+    "duration": 8780,
+    "segments": [
+      [
+        1,
+        566155,
+        567325
+      ],
+      [
+        2,
+        567325,
+        569145
+      ],
+      [
+        3,
+        569145,
+        570015
+      ],
+      [
+        4,
+        570015,
+        570995
+      ],
+      [
+        5,
+        570995,
+        572055
+      ],
+      [
+        6,
+        572055,
+        574900
+      ]
+    ]
+  }
+}

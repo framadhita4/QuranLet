@@ -1,0 +1,86 @@
+{
+  "id": 3135,
+  "chapter_id": 26,
+  "verse_key": "26:203",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85440,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_203_001.mp3",
+      "text": "فَيَقُولُوا۟",
+      "translation": "lalu mereka berkata",
+      "transliteration": "fayaqūlū"
+    },
+    {
+      "id": 85441,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_203_002.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 85442,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_203_003.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 85443,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_203_004.mp3",
+      "text": "مُنظَرُونَ",
+      "translation": "orang-orang yang diberi tangguh",
+      "transliteration": "munẓarūna"
+    },
+    {
+      "id": 85444,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٠٣",
+      "translation": "(203)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu mereka berkata, \"Apakah kami dapat diberi tangguh?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1764680,
+    "timestamp_to": 1771000,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        1764615,
+        1765955
+      ],
+      [
+        2,
+        1765955,
+        1766385
+      ],
+      [
+        3,
+        1766385,
+        1766945
+      ],
+      [
+        4,
+        1766945,
+        1770910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1215,
+  "chapter_id": 8,
+  "verse_key": "8:55",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "ruku_number": 152,
+  "manzil_number": 2,
+  "page_number": 184,
+  "juz_number": 10,
+  "text_uthmani": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُوا۟ فَهُمْ لَا يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 51693,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 51694,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_002.mp3",
+      "text": "شَرَّ",
+      "translation": "seburuk-buruk",
+      "transliteration": "sharra"
+    },
+    {
+      "id": 51695,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_003.mp3",
+      "text": "ٱلدَّوَآبِّ",
+      "translation": "binatang melata",
+      "transliteration": "l-dawābi"
+    },
+    {
+      "id": 51696,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_004.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 51697,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_005.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 51698,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_006.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 51699,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_007.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 51700,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_008.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 51701,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_009.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 51702,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_055_010.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 51703,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya binatang (makhluk) yang paling buruk di sisi Allah ialah orang-orang yang kafir, karena mereka itu tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1288500,
+    "timestamp_to": 1302950,
+    "duration": 14450,
+    "segments": [
+      [
+        1,
+        1288475,
+        1289925
+      ],
+      [
+        2,
+        1289925,
+        1290565
+      ],
+      [
+        3,
+        1290565,
+        1294355
+      ],
+      [
+        4,
+        1294355,
+        1295705
+      ],
+      [
+        5,
+        1295705,
+        1296635
+      ],
+      [
+        6,
+        1296635,
+        1297635
+      ],
+      [
+        7,
+        1297635,
+        1298565
+      ],
+      [
+        8,
+        1298565,
+        1299245
+      ],
+      [
+        9,
+        1299245,
+        1299705
+      ],
+      [
+        10,
+        1299705,
+        1302860
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 5473,
+  "chapter_id": 72,
+  "verse_key": "72:26",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 509,
+  "manzil_number": 7,
+  "page_number": 573,
+  "juz_number": 29,
+  "text_uthmani": "عَـٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3",
+  "words": [
+    {
+      "id": 28717,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_001.mp3",
+      "text": "عَـٰلِمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿālimu"
+    },
+    {
+      "id": 28718,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_002.mp3",
+      "text": "ٱلْغَيْبِ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghaybi"
+    },
+    {
+      "id": 28719,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_003.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 28720,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_004.mp3",
+      "text": "يُظْهِرُ",
+      "translation": "Dia menerangkan/menyatakan",
+      "transliteration": "yuẓ'hiru"
+    },
+    {
+      "id": 28721,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_005.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 28722,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_006.mp3",
+      "text": "غَيْبِهِۦٓ",
+      "translation": "kegaiban-Nya",
+      "transliteration": "ghaybihi"
+    },
+    {
+      "id": 28723,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_026_007.mp3",
+      "text": "أَحَدًا",
+      "translation": "seseorang",
+      "transliteration": "aḥadan"
+    },
+    {
+      "id": 28724,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dia adalah Tuhan) Yang Mengetahui yang gaib, maka Dia tidak memperlihatkan kepada seorang pun tentang yang gaib itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 295360,
+    "timestamp_to": 303090,
+    "duration": 7730,
+    "segments": [
+      [
+        1,
+        294985,
+        295815
+      ],
+      [
+        2,
+        295815,
+        296665
+      ],
+      [
+        3,
+        296665,
+        297245
+      ],
+      [
+        4,
+        297245,
+        298065
+      ],
+      [
+        5,
+        298065,
+        298625
+      ],
+      [
+        6,
+        298625,
+        301045
+      ],
+      [
+        7,
+        301045,
+        302650
+      ]
+    ]
+  }
+}

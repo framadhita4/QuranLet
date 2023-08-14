@@ -1,0 +1,73 @@
+{
+  "id": 5821,
+  "chapter_id": 81,
+  "verse_key": "81:21",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 23835,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_021_001.mp3",
+      "text": "مُّطَاعٍۢ",
+      "translation": "ditaati",
+      "transliteration": "muṭāʿin"
+    },
+    {
+      "id": 23836,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_021_002.mp3",
+      "text": "ثَمَّ",
+      "translation": "kemudian",
+      "transliteration": "thamma"
+    },
+    {
+      "id": 23837,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_021_003.mp3",
+      "text": "أَمِينٍۢ",
+      "translation": "dipercaya",
+      "transliteration": "amīnin"
+    },
+    {
+      "id": 23838,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang dita'ati di sana (di alam malaikat) lagi dipercaya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72090,
+    "timestamp_to": 77030,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        72045,
+        73625
+      ],
+      [
+        2,
+        73625,
+        74805
+      ],
+      [
+        3,
+        74805,
+        76930
+      ]
+    ]
+  }
+}

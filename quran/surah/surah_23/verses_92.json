@@ -1,0 +1,112 @@
+{
+  "id": 2765,
+  "chapter_id": 23,
+  "verse_key": "23:92",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 68787,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_092_001.mp3",
+      "text": "عَـٰلِمِ",
+      "translation": "yang mengetahui",
+      "transliteration": "ʿālimi"
+    },
+    {
+      "id": 68788,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_092_002.mp3",
+      "text": "ٱلْغَيْبِ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghaybi"
+    },
+    {
+      "id": 68789,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_092_003.mp3",
+      "text": "وَٱلشَّهَـٰدَةِ",
+      "translation": "dan yang nampak",
+      "transliteration": "wal-shahādati"
+    },
+    {
+      "id": 68790,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_092_004.mp3",
+      "text": "فَتَعَـٰلَىٰ",
+      "translation": "maka Maha Tinggi Dia",
+      "transliteration": "fataʿālā"
+    },
+    {
+      "id": 68791,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_092_005.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 68792,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_092_006.mp3",
+      "text": "يُشْرِكُونَ",
+      "translation": "mereka persekutukan",
+      "transliteration": "yush'rikūna"
+    },
+    {
+      "id": 68793,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang mengetahui semua yang gaib <sup foot_note_id=\"1019\">1</sup> dan semua yang tampak, maka Maha Tinggilah Dia dari apa yang mereka persekutukan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1157650,
+    "timestamp_to": 1166820,
+    "duration": 9170,
+    "segments": [
+      [
+        1,
+        1157595,
+        1158435
+      ],
+      [
+        2,
+        1158435,
+        1159305
+      ],
+      [
+        3,
+        1159305,
+        1160735
+      ],
+      [
+        4,
+        1160735,
+        1161825
+      ],
+      [
+        5,
+        1161825,
+        1163455
+      ],
+      [
+        6,
+        1163455,
+        1166740
+      ]
+    ]
+  }
+}

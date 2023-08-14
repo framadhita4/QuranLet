@@ -1,0 +1,177 @@
+{
+  "id": 3497,
+  "chapter_id": 31,
+  "verse_key": "31:28",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 358,
+  "manzil_number": 5,
+  "page_number": 413,
+  "juz_number": 21,
+  "text_uthmani": "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3",
+  "words": [
+    {
+      "id": 31248,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_001.mp3",
+      "text": "مَّا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 31249,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_002.mp3",
+      "text": "خَلْقُكُمْ",
+      "translation": "menciptakan kalian",
+      "transliteration": "khalqukum"
+    },
+    {
+      "id": 31250,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 31251,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_004.mp3",
+      "text": "بَعْثُكُمْ",
+      "translation": "kebangkitanmu",
+      "transliteration": "baʿthukum"
+    },
+    {
+      "id": 31252,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 31253,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_006.mp3",
+      "text": "كَنَفْسٍۢ",
+      "translation": "seperti jiwa",
+      "transliteration": "kanafsin"
+    },
+    {
+      "id": 31254,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_007.mp3",
+      "text": "وَٰحِدَةٍ ۗ",
+      "translation": "satu",
+      "transliteration": "wāḥidatin"
+    },
+    {
+      "id": 31256,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_009.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 31257,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_010.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 31258,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_011.mp3",
+      "text": "سَمِيعٌۢ",
+      "translation": "Maha Mendengar",
+      "transliteration": "samīʿun"
+    },
+    {
+      "id": 31259,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_028_012.mp3",
+      "text": "بَصِيرٌ",
+      "translation": "Maha Melihat",
+      "transliteration": "baṣīrun"
+    },
+    {
+      "id": 31260,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidaklah Allah menciptakan dan membangkitkan kamu (dari dalam kubur) itu, melainkan hanyalah seperti (menciptakan dan membangkitkan) satu jiwa saja <sup foot_note_id=\"1184\">1</sup>.  Sesungguhnya Allah Maha Mendengar lagi Maha Melihat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 478180,
+    "timestamp_to": 491690,
+    "duration": 13510,
+    "segments": [
+      [
+        1,
+        478125,
+        478525
+      ],
+      [
+        2,
+        478525,
+        479535
+      ],
+      [
+        3,
+        479535,
+        480065
+      ],
+      [
+        4,
+        480065,
+        481005
+      ],
+      [
+        5,
+        481005,
+        481695
+      ],
+      [
+        6,
+        481695,
+        483195
+      ],
+      [
+        7,
+        483195,
+        484935
+      ],
+      [
+        8,
+        484935,
+        486155
+      ],
+      [
+        9,
+        486155,
+        487015
+      ],
+      [
+        10,
+        487015,
+        488705
+      ],
+      [
+        11,
+        488705,
+        491590
+      ]
+    ]
+  }
+}

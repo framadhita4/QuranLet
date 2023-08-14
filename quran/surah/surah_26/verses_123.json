@@ -1,0 +1,73 @@
+{
+  "id": 3055,
+  "chapter_id": 26,
+  "verse_key": "26:123",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 76880,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_123_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 76881,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_123_002.mp3",
+      "text": "عَادٌ",
+      "translation": "kaum 'Ad",
+      "transliteration": "ʿādun"
+    },
+    {
+      "id": 76882,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_123_003.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 76883,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٢٣",
+      "translation": "(123)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum ‘Ād telah mendustakan para rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1104390,
+    "timestamp_to": 1109070,
+    "duration": 4680,
+    "segments": [
+      [
+        1,
+        1104365,
+        1105325
+      ],
+      [
+        2,
+        1105325,
+        1106045
+      ],
+      [
+        3,
+        1106045,
+        1109000
+      ]
+    ]
+  }
+}

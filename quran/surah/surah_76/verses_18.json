@@ -1,0 +1,86 @@
+{
+  "id": 5609,
+  "chapter_id": 76,
+  "verse_key": "76:18",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 20655,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_018_001.mp3",
+      "text": "عَيْنًۭا",
+      "translation": "mata air",
+      "transliteration": "ʿaynan"
+    },
+    {
+      "id": 20656,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_018_002.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya (di dalam sorga)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 20657,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_018_003.mp3",
+      "text": "تُسَمَّىٰ",
+      "translation": "dinamakan",
+      "transliteration": "tusammā"
+    },
+    {
+      "id": 20658,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_018_004.mp3",
+      "text": "سَلْسَبِيلًۭا",
+      "translation": "salsabil",
+      "transliteration": "salsabīlan"
+    },
+    {
+      "id": 20659,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yang didatangkan dari) sebuah mata air surga yang dinamakan Salsabīl.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 162450,
+    "timestamp_to": 168140,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        162415,
+        163955
+      ],
+      [
+        2,
+        163955,
+        164745
+      ],
+      [
+        3,
+        164745,
+        166145
+      ],
+      [
+        4,
+        166145,
+        168050
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6054,
+  "chapter_id": 91,
+  "verse_key": "91:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 13328,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_011_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 13329,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_011_002.mp3",
+      "text": "ثَمُودُ",
+      "translation": "Samud",
+      "transliteration": "thamūdu"
+    },
+    {
+      "id": 13330,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_011_003.mp3",
+      "text": "بِطَغْوَىٰهَآ",
+      "translation": "dan melampui batas",
+      "transliteration": "biṭaghwāhā"
+    },
+    {
+      "id": 13331,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Kaum) Ṡamūd telah mendustakan (rasulnya) karena mereka melampaui batas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41350,
+    "timestamp_to": 45400,
+    "duration": 4050,
+    "segments": [
+      [
+        1,
+        40845,
+        41895
+      ],
+      [
+        2,
+        41895,
+        42765
+      ],
+      [
+        3,
+        42765,
+        44430
+      ]
+    ]
+  }
+}

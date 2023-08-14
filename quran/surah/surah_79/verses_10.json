@@ -1,0 +1,99 @@
+{
+  "id": 5722,
+  "chapter_id": 79,
+  "verse_key": "79:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 11628,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_010_001.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka berkata",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 11629,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_010_002.mp3",
+      "text": "أَءِنَّا",
+      "translation": "apakah sesungguhnya kami",
+      "transliteration": "a-innā"
+    },
+    {
+      "id": 11630,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_010_003.mp3",
+      "text": "لَمَرْدُودُونَ",
+      "translation": "sungguh akan dikembalikan",
+      "transliteration": "lamardūdūna"
+    },
+    {
+      "id": 11631,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_010_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 11632,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_010_005.mp3",
+      "text": "ٱلْحَافِرَةِ",
+      "translation": "keadaan semula",
+      "transliteration": "l-ḥāfirati"
+    },
+    {
+      "id": 11633,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Orang-orang kafir) berkata, \"Apakah sesungguhnya kami benar-benar dikembalikan kepada kehidupan semula<sup foot_note_id=\"1552\">1</sup>?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33840,
+    "timestamp_to": 41000,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        33695,
+        35035
+      ],
+      [
+        2,
+        35035,
+        36985
+      ],
+      [
+        3,
+        36985,
+        38685
+      ],
+      [
+        4,
+        38685,
+        38925
+      ],
+      [
+        5,
+        38925,
+        40790
+      ]
+    ]
+  }
+}

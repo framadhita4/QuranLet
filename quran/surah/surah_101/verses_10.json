@@ -1,0 +1,86 @@
+{
+  "id": 6167,
+  "chapter_id": 101,
+  "verse_key": "101:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 10824,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_010_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 10825,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_010_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 10826,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_010_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 10827,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_010_004.mp3",
+      "text": "هِيَهْ",
+      "translation": "itu",
+      "transliteration": "hiyah"
+    },
+    {
+      "id": 10828,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah neraka Hāwiyah itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 43720,
+    "timestamp_to": 48210,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        43575,
+        45575
+      ],
+      [
+        2,
+        45575,
+        46635
+      ],
+      [
+        3,
+        46635,
+        47055
+      ],
+      [
+        4,
+        47055,
+        47990
+      ]
+    ]
+  }
+}

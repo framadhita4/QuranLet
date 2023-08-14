@@ -1,0 +1,112 @@
+{
+  "id": 2952,
+  "chapter_id": 26,
+  "verse_key": "26:20",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 23215,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_020_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 23216,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_020_002.mp3",
+      "text": "فَعَلْتُهَآ",
+      "translation": "saya telah melakukannya",
+      "transliteration": "faʿaltuhā"
+    },
+    {
+      "id": 23217,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_020_003.mp3",
+      "text": "إِذًۭا",
+      "translation": "tatkala",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 23218,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_020_004.mp3",
+      "text": "وَأَنَا۠",
+      "translation": "dan saya",
+      "transliteration": "wa-anā"
+    },
+    {
+      "id": 23219,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_020_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 23220,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_020_006.mp3",
+      "text": "ٱلضَّآلِّينَ",
+      "translation": "orang-orang yang sesat",
+      "transliteration": "l-ḍālīna"
+    },
+    {
+      "id": 23221,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Musa, \"Aku telah melakukannya, sedang aku pada waktu itu termasuk orang-orang yang khilaf.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 191210,
+    "timestamp_to": 203720,
+    "duration": 12510,
+    "segments": [
+      [
+        1,
+        191165,
+        191775
+      ],
+      [
+        2,
+        191775,
+        195164
+      ],
+      [
+        3,
+        195165,
+        196315
+      ],
+      [
+        4,
+        196315,
+        196945
+      ],
+      [
+        5,
+        196945,
+        197355
+      ],
+      [
+        6,
+        197355,
+        203650
+      ]
+    ]
+  }
+}

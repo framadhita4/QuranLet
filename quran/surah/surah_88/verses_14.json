@@ -1,0 +1,60 @@
+{
+  "id": 5981,
+  "chapter_id": 88,
+  "verse_key": "88:14",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 15926,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_014_001.mp3",
+      "text": "وَأَكْوَابٌۭ",
+      "translation": "dan gelas-gelas",
+      "transliteration": "wa-akwābun"
+    },
+    {
+      "id": 15927,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_014_002.mp3",
+      "text": "مَّوْضُوعَةٌۭ",
+      "translation": "terletak/tersedia",
+      "transliteration": "mawḍūʿatun"
+    },
+    {
+      "id": 15928,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gelas-gelas yang terletak (di dekatnya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 59350,
+    "timestamp_to": 63430,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        59275,
+        60615
+      ],
+      [
+        2,
+        60615,
+        63280
+      ]
+    ]
+  }
+}

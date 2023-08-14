@@ -1,0 +1,73 @@
+{
+  "id": 3963,
+  "chapter_id": 37,
+  "verse_key": "37:175",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83301,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_175_001.mp3",
+      "text": "وَأَبْصِرْهُمْ",
+      "translation": "dan lihatlah/terangkanlah mereka",
+      "transliteration": "wa-abṣir'hum"
+    },
+    {
+      "id": 83302,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_175_002.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 83303,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_175_003.mp3",
+      "text": "يُبْصِرُونَ",
+      "translation": "mereka akan melihat/mendengar",
+      "transliteration": "yub'ṣirūna"
+    },
+    {
+      "id": 83304,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧٥",
+      "translation": "(175)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan lihatlah mereka, maka kelak mereka akan melihat (azab itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1395370,
+    "timestamp_to": 1401140,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        1395305,
+        1396825
+      ],
+      [
+        2,
+        1396825,
+        1397675
+      ],
+      [
+        3,
+        1397675,
+        1401020
+      ]
+    ]
+  }
+}

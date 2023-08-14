@@ -1,0 +1,112 @@
+{
+  "id": 4864,
+  "chapter_id": 54,
+  "verse_key": "54:18",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 20403,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_018_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 20404,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_018_002.mp3",
+      "text": "عَادٌۭ",
+      "translation": "kaum 'Ad",
+      "transliteration": "ʿādun"
+    },
+    {
+      "id": 20405,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_018_003.mp3",
+      "text": "فَكَيْفَ",
+      "translation": "maka bagaimana/alangkah",
+      "transliteration": "fakayfa"
+    },
+    {
+      "id": 20406,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_018_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 20407,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_018_005.mp3",
+      "text": "عَذَابِى",
+      "translation": "azab-Ku",
+      "transliteration": "ʿadhābī"
+    },
+    {
+      "id": 20408,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_018_006.mp3",
+      "text": "وَنُذُرِ",
+      "translation": "dan peringatan/ancaman-Ku",
+      "transliteration": "wanudhuri"
+    },
+    {
+      "id": 20409,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum ʻĀd pun telah mendustakan (pula).  Maka alangkah dahsyatnya azab-Ku dan ancaman-ancaman-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 160690,
+    "timestamp_to": 167770,
+    "duration": 7080,
+    "segments": [
+      [
+        1,
+        160635,
+        161675
+      ],
+      [
+        2,
+        161675,
+        163394
+      ],
+      [
+        3,
+        163395,
+        164305
+      ],
+      [
+        4,
+        164305,
+        165035
+      ],
+      [
+        5,
+        165035,
+        166145
+      ],
+      [
+        6,
+        166145,
+        167660
+      ]
+    ]
+  }
+}

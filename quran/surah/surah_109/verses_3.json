@@ -1,0 +1,99 @@
+{
+  "id": 6210,
+  "chapter_id": 109,
+  "verse_key": "109:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3",
+  "words": [
+    {
+      "id": 2570,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_003_001.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 2571,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_003_002.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 2572,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_003_003.mp3",
+      "text": "عَـٰبِدُونَ",
+      "translation": "menyembah",
+      "transliteration": "ʿābidūna"
+    },
+    {
+      "id": 2573,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_003_004.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2574,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_003_005.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku sembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 2575,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu bukan penyembah Tuhan yang aku sembah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14960,
+    "timestamp_to": 23190,
+    "duration": 8230,
+    "segments": [
+      [
+        1,
+        14875,
+        17255
+      ],
+      [
+        2,
+        17255,
+        18635
+      ],
+      [
+        3,
+        18635,
+        19965
+      ],
+      [
+        4,
+        19965,
+        21795
+      ],
+      [
+        5,
+        21795,
+        23030
+      ]
+    ]
+  }
+}

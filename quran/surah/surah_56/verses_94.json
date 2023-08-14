@@ -1,0 +1,60 @@
+{
+  "id": 5073,
+  "chapter_id": 56,
+  "verse_key": "56:94",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "وَتَصْلِيَةُ جَحِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 69391,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_094_001.mp3",
+      "text": "وَتَصْلِيَةُ",
+      "translation": "dan dimasukkan",
+      "transliteration": "wataṣliyatu"
+    },
+    {
+      "id": 69392,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_094_002.mp3",
+      "text": "جَحِيمٍ",
+      "translation": "neraka",
+      "transliteration": "jaḥīmin"
+    },
+    {
+      "id": 69393,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dibakar di dalam neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 710080,
+    "timestamp_to": 714730,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        710005,
+        711325
+      ],
+      [
+        2,
+        711325,
+        714570
+      ]
+    ]
+  }
+}

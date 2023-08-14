@@ -1,0 +1,99 @@
+{
+  "id": 4947,
+  "chapter_id": 55,
+  "verse_key": "55:46",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 45871,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_046_001.mp3",
+      "text": "وَلِمَنْ",
+      "translation": "dan bagi orang",
+      "transliteration": "waliman"
+    },
+    {
+      "id": 45872,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_046_002.mp3",
+      "text": "خَافَ",
+      "translation": "ia takut",
+      "transliteration": "khāfa"
+    },
+    {
+      "id": 45873,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_046_003.mp3",
+      "text": "مَقَامَ",
+      "translation": "tempat berdiri/menghadap",
+      "transliteration": "maqāma"
+    },
+    {
+      "id": 45874,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_046_004.mp3",
+      "text": "رَبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 45875,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_046_005.mp3",
+      "text": "جَنَّتَانِ",
+      "translation": "dan surga",
+      "transliteration": "jannatāni"
+    },
+    {
+      "id": 45876,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bagi orang yang takut akan saat menghadap Tuhan-nya ada dua surga<sup foot_note_id=\"1447\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 396350,
+    "timestamp_to": 404470,
+    "duration": 8130,
+    "segments": [
+      [
+        1,
+        396275,
+        396985
+      ],
+      [
+        2,
+        396985,
+        397815
+      ],
+      [
+        3,
+        397815,
+        398735
+      ],
+      [
+        4,
+        398735,
+        399845
+      ],
+      [
+        5,
+        399845,
+        404340
+      ]
+    ]
+  }
+}

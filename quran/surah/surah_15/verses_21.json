@@ -1,0 +1,177 @@
+{
+  "id": 1823,
+  "chapter_id": 15,
+  "verse_key": "15:21",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 219,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 24309,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan tidak",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 24310,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 24311,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_003.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 24312,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_004.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 24313,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_005.mp3",
+      "text": "عِندَنَا",
+      "translation": "disisi Kami",
+      "transliteration": "ʿindanā"
+    },
+    {
+      "id": 24314,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_006.mp3",
+      "text": "خَزَآئِنُهُۥ",
+      "translation": "perbendaharaannya",
+      "transliteration": "khazāinuhu"
+    },
+    {
+      "id": 24315,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_007.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 24316,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_008.mp3",
+      "text": "نُنَزِّلُهُۥٓ",
+      "translation": "Kami turunkannya",
+      "transliteration": "nunazziluhu"
+    },
+    {
+      "id": 24317,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_009.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 24318,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_010.mp3",
+      "text": "بِقَدَرٍۢ",
+      "translation": "dengan ukuran",
+      "transliteration": "biqadarin"
+    },
+    {
+      "id": 24319,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_021_011.mp3",
+      "text": "مَّعْلُومٍۢ",
+      "translation": "tertentu",
+      "transliteration": "maʿlūmin"
+    },
+    {
+      "id": 24320,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidak ada sesuatu pun, melainkan pada sisi Kami-lah khazanahnya <sup foot_note_id=\"795\">1</sup> dan Kami tidak menurunkannya, melainkan dengan ukuran yang tertentu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 196250,
+    "timestamp_to": 212520,
+    "duration": 16280,
+    "segments": [
+      [
+        1,
+        196205,
+        196715
+      ],
+      [
+        2,
+        196715,
+        197825
+      ],
+      [
+        3,
+        197825,
+        199345
+      ],
+      [
+        4,
+        199345,
+        200205
+      ],
+      [
+        5,
+        200205,
+        201665
+      ],
+      [
+        6,
+        201665,
+        204505
+      ],
+      [
+        7,
+        204505,
+        205105
+      ],
+      [
+        8,
+        205105,
+        207605
+      ],
+      [
+        9,
+        207605,
+        208445
+      ],
+      [
+        10,
+        208445,
+        209225
+      ],
+      [
+        11,
+        209225,
+        212420
+      ]
+    ]
+  }
+}

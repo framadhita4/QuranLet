@@ -1,0 +1,99 @@
+{
+  "id": 3049,
+  "chapter_id": 26,
+  "verse_key": "26:117",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 75735,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_117_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Nuh)berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 75736,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_117_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 75737,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_117_003.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 75738,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_117_004.mp3",
+      "text": "قَوْمِى",
+      "translation": "kaumku",
+      "transliteration": "qawmī"
+    },
+    {
+      "id": 75739,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_117_005.mp3",
+      "text": "كَذَّبُونِ",
+      "translation": "telah mendustakan aku",
+      "transliteration": "kadhabūni"
+    },
+    {
+      "id": 75740,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١١٧",
+      "translation": "(117)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Nūḥ berkata, \"Ya Tuhan-ku, sesungguhnya kaumku telah mendustakan aku;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1052220,
+    "timestamp_to": 1058700,
+    "duration": 6480,
+    "segments": [
+      [
+        1,
+        1052175,
+        1052805
+      ],
+      [
+        2,
+        1052805,
+        1053305
+      ],
+      [
+        3,
+        1053305,
+        1054675
+      ],
+      [
+        4,
+        1054675,
+        1055535
+      ],
+      [
+        5,
+        1055535,
+        1058610
+      ]
+    ]
+  }
+}

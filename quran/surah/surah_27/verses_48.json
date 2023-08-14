@@ -1,0 +1,164 @@
+{
+  "id": 3207,
+  "chapter_id": 27,
+  "verse_key": "27:48",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 330,
+  "manzil_number": 5,
+  "page_number": 381,
+  "juz_number": 19,
+  "text_uthmani": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 47466,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_001.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 47467,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_002.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 47468,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_003.mp3",
+      "text": "ٱلْمَدِينَةِ",
+      "translation": "kota itu",
+      "transliteration": "l-madīnati"
+    },
+    {
+      "id": 47469,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_004.mp3",
+      "text": "تِسْعَةُ",
+      "translation": "sembilan",
+      "transliteration": "tis'ʿatu"
+    },
+    {
+      "id": 47470,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_005.mp3",
+      "text": "رَهْطٍۢ",
+      "translation": "kaum/orang laki-laki",
+      "transliteration": "rahṭin"
+    },
+    {
+      "id": 47471,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_006.mp3",
+      "text": "يُفْسِدُونَ",
+      "translation": "mereka membuat kerusakan",
+      "transliteration": "yuf'sidūna"
+    },
+    {
+      "id": 47472,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_007.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 47473,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_008.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "muka bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 47474,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan mereka tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 47475,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_048_010.mp3",
+      "text": "يُصْلِحُونَ",
+      "translation": "berbuat kebaikan",
+      "transliteration": "yuṣ'liḥūna"
+    },
+    {
+      "id": 47476,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan adalah di kota itu <sup foot_note_id=\"1099\">1</sup>, sembilan orang laki-laki yang membuat kerusakan di muka bumi dan mereka tidak berbuat kebaikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 869050,
+    "timestamp_to": 879660,
+    "duration": 10610,
+    "segments": [
+      [
+        1,
+        868805,
+        869695
+      ],
+      [
+        2,
+        869695,
+        869865
+      ],
+      [
+        3,
+        869865,
+        871155
+      ],
+      [
+        4,
+        871155,
+        871995
+      ],
+      [
+        5,
+        871995,
+        873275
+      ],
+      [
+        6,
+        873275,
+        874405
+      ],
+      [
+        7,
+        874405,
+        874635
+      ],
+      [
+        8,
+        874635,
+        875485
+      ],
+      [
+        9,
+        875485,
+        875985
+      ],
+      [
+        10,
+        875985,
+        879350
+      ]
+    ]
+  }
+}

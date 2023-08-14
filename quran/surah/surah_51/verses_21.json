@@ -1,0 +1,86 @@
+{
+  "id": 4696,
+  "chapter_id": 51,
+  "verse_key": "51:21",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 23684,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_021_001.mp3",
+      "text": "وَفِىٓ",
+      "translation": "dan pada",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 23685,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_021_002.mp3",
+      "text": "أَنفُسِكُمْ ۚ",
+      "translation": "diri kalian sendiri",
+      "transliteration": "anfusikum"
+    },
+    {
+      "id": 23687,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_021_004.mp3",
+      "text": "أَفَلَا",
+      "translation": "maka apakah tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 23688,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_021_005.mp3",
+      "text": "تُبْصِرُونَ",
+      "translation": "kamu memperhatikan",
+      "transliteration": "tub'ṣirūna"
+    },
+    {
+      "id": 23689,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (juga) pada dirimu sendiri.  Maka apakah kamu tidak memperhatikan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 127650,
+    "timestamp_to": 136530,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        127595,
+        130335
+      ],
+      [
+        2,
+        130335,
+        132625
+      ],
+      [
+        3,
+        132625,
+        133465
+      ],
+      [
+        4,
+        133465,
+        136410
+      ]
+    ]
+  }
+}

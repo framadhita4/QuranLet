@@ -1,0 +1,60 @@
+{
+  "id": 2378,
+  "chapter_id": 20,
+  "verse_key": "20:30",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "هَـٰرُونَ أَخِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 32871,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_030_001.mp3",
+      "text": "هَـٰرُونَ",
+      "translation": "(Yaitu) Harun",
+      "transliteration": "hārūna"
+    },
+    {
+      "id": 32872,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_030_002.mp3",
+      "text": "أَخِى",
+      "translation": "saudaraku",
+      "transliteration": "akhī"
+    },
+    {
+      "id": 32873,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) Hārūn, saudaraku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 235350,
+    "timestamp_to": 237620,
+    "duration": 2270,
+    "segments": [
+      [
+        1,
+        235325,
+        236475
+      ],
+      [
+        2,
+        236475,
+        237390
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4907,
+  "chapter_id": 55,
+  "verse_key": "55:6",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 6162,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_006_001.mp3",
+      "text": "وَٱلنَّجْمُ",
+      "translation": "dan bintang/tumbuh-tumbuhan",
+      "transliteration": "wal-najmu"
+    },
+    {
+      "id": 6163,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_006_002.mp3",
+      "text": "وَٱلشَّجَرُ",
+      "translation": "dan pohon-pohonan",
+      "transliteration": "wal-shajaru"
+    },
+    {
+      "id": 6164,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_006_003.mp3",
+      "text": "يَسْجُدَانِ",
+      "translation": "keduanya tunduk/sujud",
+      "transliteration": "yasjudāni"
+    },
+    {
+      "id": 6165,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tumbuh-tumbuhan dan pohon-pohonan, kedua-duanya tunduk kepada-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26230,
+    "timestamp_to": 32600,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        26175,
+        27885
+      ],
+      [
+        2,
+        27885,
+        28885
+      ],
+      [
+        3,
+        28885,
+        32520
+      ]
+    ]
+  }
+}

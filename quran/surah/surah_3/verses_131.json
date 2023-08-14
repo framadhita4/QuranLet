@@ -1,0 +1,99 @@
+{
+  "id": 424,
+  "chapter_id": 3,
+  "verse_key": "3:131",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "ruku_number": 55,
+  "manzil_number": 1,
+  "page_number": 66,
+  "juz_number": 4,
+  "text_uthmani": "وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 78116,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_131_001.mp3",
+      "text": "وَٱتَّقُوا۟",
+      "translation": "dan peliharalah dirimu",
+      "transliteration": "wa-ittaqū"
+    },
+    {
+      "id": 78117,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_131_002.mp3",
+      "text": "ٱلنَّارَ",
+      "translation": "api neraka",
+      "transliteration": "l-nāra"
+    },
+    {
+      "id": 78118,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_131_003.mp3",
+      "text": "ٱلَّتِىٓ",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 78119,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_131_004.mp3",
+      "text": "أُعِدَّتْ",
+      "translation": "disediakan",
+      "transliteration": "uʿiddat"
+    },
+    {
+      "id": 78120,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_131_005.mp3",
+      "text": "لِلْكَـٰفِرِينَ",
+      "translation": "untuk orang-orang kafir",
+      "transliteration": "lil'kāfirīna"
+    },
+    {
+      "id": 78121,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣١",
+      "translation": "(131)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan peliharalah dirimu dari api neraka, yang disediakan untuk orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3004960,
+    "timestamp_to": 3013480,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        3004905,
+        3005825
+      ],
+      [
+        2,
+        3005825,
+        3007315
+      ],
+      [
+        3,
+        3007315,
+        3009485
+      ],
+      [
+        4,
+        3009485,
+        3010475
+      ],
+      [
+        5,
+        3010475,
+        3013400
+      ]
+    ]
+  }
+}

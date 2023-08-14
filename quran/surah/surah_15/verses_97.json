@@ -1,0 +1,125 @@
+{
+  "id": 1899,
+  "chapter_id": 15,
+  "verse_key": "15:97",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 70391,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 70392,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_002.mp3",
+      "text": "نَعْلَمُ",
+      "translation": "Kami mengetahui",
+      "transliteration": "naʿlamu"
+    },
+    {
+      "id": 70393,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_003.mp3",
+      "text": "أَنَّكَ",
+      "translation": "bahwasanya kamu",
+      "transliteration": "annaka"
+    },
+    {
+      "id": 70394,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_004.mp3",
+      "text": "يَضِيقُ",
+      "translation": "menjadi sempit/sesak",
+      "transliteration": "yaḍīqu"
+    },
+    {
+      "id": 70395,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_005.mp3",
+      "text": "صَدْرُكَ",
+      "translation": "dadamu",
+      "transliteration": "ṣadruka"
+    },
+    {
+      "id": 70396,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_006.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/sebab",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 70397,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_097_007.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka katakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 70398,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩٧",
+      "translation": "(97)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami sungguh-sungguh mengetahui bahwa dadamu menjadi sempit disebabkan apa yang mereka ucapkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 929290,
+    "timestamp_to": 937490,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        929265,
+        930165
+      ],
+      [
+        2,
+        930165,
+        931045
+      ],
+      [
+        3,
+        931045,
+        932275
+      ],
+      [
+        4,
+        932275,
+        933175
+      ],
+      [
+        5,
+        933175,
+        934105
+      ],
+      [
+        6,
+        934105,
+        934705
+      ],
+      [
+        7,
+        934705,
+        937430
+      ]
+    ]
+  }
+}

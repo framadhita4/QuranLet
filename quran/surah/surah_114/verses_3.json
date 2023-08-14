@@ -1,0 +1,60 @@
+{
+  "id": 6233,
+  "chapter_id": 114,
+  "verse_key": "114:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "إِلَـٰهِ ٱلنَّاسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3",
+  "words": [
+    {
+      "id": 2819,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_003_001.mp3",
+      "text": "إِلَـٰهِ",
+      "translation": "Tuhannya",
+      "transliteration": "ilāhi"
+    },
+    {
+      "id": 2820,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_003_002.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 2821,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sembahan manusia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11390,
+    "timestamp_to": 16750,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        11315,
+        12155
+      ],
+      [
+        2,
+        12155,
+        16610
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 4648,
+  "chapter_id": 50,
+  "verse_key": "50:18",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 20348,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_001.mp3",
+      "text": "مَّا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 20349,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_002.mp3",
+      "text": "يَلْفِظُ",
+      "translation": "mengucap",
+      "transliteration": "yalfiẓu"
+    },
+    {
+      "id": 20350,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 20351,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_004.mp3",
+      "text": "قَوْلٍ",
+      "translation": "perkataan",
+      "transliteration": "qawlin"
+    },
+    {
+      "id": 20352,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 20353,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_006.mp3",
+      "text": "لَدَيْهِ",
+      "translation": "di sisinya",
+      "transliteration": "ladayhi"
+    },
+    {
+      "id": 20354,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_007.mp3",
+      "text": "رَقِيبٌ",
+      "translation": "penjaga/pengawas",
+      "transliteration": "raqībun"
+    },
+    {
+      "id": 20355,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_018_008.mp3",
+      "text": "عَتِيدٌۭ",
+      "translation": "yang sedia/hadir",
+      "transliteration": "ʿatīdun"
+    },
+    {
+      "id": 20356,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiada suatu ucapan pun yang diucapkannya melainkan ada di dekatnya malaikat pengawas yang selalu hadir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 220180,
+    "timestamp_to": 230050,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        220125,
+        220785
+      ],
+      [
+        2,
+        220785,
+        221555
+      ],
+      [
+        3,
+        221555,
+        223185
+      ],
+      [
+        4,
+        223185,
+        224055
+      ],
+      [
+        5,
+        224055,
+        225055
+      ],
+      [
+        6,
+        225055,
+        225925
+      ],
+      [
+        7,
+        225925,
+        226905
+      ],
+      [
+        8,
+        226905,
+        229940
+      ]
+    ]
+  }
+}

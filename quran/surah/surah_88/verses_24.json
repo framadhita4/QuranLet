@@ -1,0 +1,86 @@
+{
+  "id": 5991,
+  "chapter_id": 88,
+  "verse_key": "88:24",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 26853,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_024_001.mp3",
+      "text": "فَيُعَذِّبُهُ",
+      "translation": "maka akan menyiksanya",
+      "transliteration": "fayuʿadhibuhu"
+    },
+    {
+      "id": 26854,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_024_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 26855,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_024_003.mp3",
+      "text": "ٱلْعَذَابَ",
+      "translation": "azab/siksaan",
+      "transliteration": "l-ʿadhāba"
+    },
+    {
+      "id": 26856,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_024_004.mp3",
+      "text": "ٱلْأَكْبَرَ",
+      "translation": "besar",
+      "transliteration": "l-akbara"
+    },
+    {
+      "id": 26857,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka Allah akan mengazabnya dengan azab yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 103490,
+    "timestamp_to": 108580,
+    "duration": 5090,
+    "segments": [
+      [
+        1,
+        103395,
+        104845
+      ],
+      [
+        2,
+        104845,
+        105675
+      ],
+      [
+        3,
+        105675,
+        106745
+      ],
+      [
+        4,
+        106745,
+        108370
+      ]
+    ]
+  }
+}

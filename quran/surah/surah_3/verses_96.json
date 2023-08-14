@@ -1,0 +1,164 @@
+{
+  "id": 389,
+  "chapter_id": 3,
+  "verse_key": "3:96",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "ruku_number": 51,
+  "manzil_number": 1,
+  "page_number": 62,
+  "juz_number": 4,
+  "text_uthmani": "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 70189,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 70190,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_002.mp3",
+      "text": "أَوَّلَ",
+      "translation": "mula-mula",
+      "transliteration": "awwala"
+    },
+    {
+      "id": 70191,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_003.mp3",
+      "text": "بَيْتٍۢ",
+      "translation": "rumah",
+      "transliteration": "baytin"
+    },
+    {
+      "id": 70192,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_004.mp3",
+      "text": "وُضِعَ",
+      "translation": "diletakkan/dibangun",
+      "transliteration": "wuḍiʿa"
+    },
+    {
+      "id": 70193,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_005.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "bagi manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 70194,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_006.mp3",
+      "text": "لَلَّذِى",
+      "translation": "ialah rumah (Baitullah)",
+      "transliteration": "lalladhī"
+    },
+    {
+      "id": 70195,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_007.mp3",
+      "text": "بِبَكَّةَ",
+      "translation": "di Bakkah",
+      "transliteration": "bibakkata"
+    },
+    {
+      "id": 70196,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_008.mp3",
+      "text": "مُبَارَكًۭا",
+      "translation": "yang diberkahi",
+      "transliteration": "mubārakan"
+    },
+    {
+      "id": 70197,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_009.mp3",
+      "text": "وَهُدًۭى",
+      "translation": "dan menjadi petunjuk",
+      "transliteration": "wahudan"
+    },
+    {
+      "id": 70198,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_096_010.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi semesta alam",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 70199,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya rumah yang mula-mula dibangun untuk (tempat beribadah) manusia, ialah Baitullah<sup foot_note_id=\"215\">1</sup> yang di Bakkah (Mekah), yang diberkahi dan menjadi petunjuk bagi semua manusia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2200080,
+    "timestamp_to": 2213640,
+    "duration": 13560,
+    "segments": [
+      [
+        1,
+        2200025,
+        2201405
+      ],
+      [
+        2,
+        2201405,
+        2202295
+      ],
+      [
+        3,
+        2202295,
+        2203025
+      ],
+      [
+        4,
+        2203025,
+        2204265
+      ],
+      [
+        5,
+        2204265,
+        2205725
+      ],
+      [
+        6,
+        2205725,
+        2206775
+      ],
+      [
+        7,
+        2206775,
+        2207785
+      ],
+      [
+        8,
+        2207785,
+        2209565
+      ],
+      [
+        9,
+        2209565,
+        2210195
+      ],
+      [
+        10,
+        2210195,
+        2213560
+      ]
+    ]
+  }
+}

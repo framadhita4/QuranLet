@@ -1,0 +1,60 @@
+{
+  "id": 5787,
+  "chapter_id": 80,
+  "verse_key": "80:29",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَزَيْتُونًا وَنَخْلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 32031,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_029_001.mp3",
+      "text": "وَزَيْتُونًۭا",
+      "translation": "dan zaitun",
+      "transliteration": "wazaytūnan"
+    },
+    {
+      "id": 32032,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_029_002.mp3",
+      "text": "وَنَخْلًۭا",
+      "translation": "dan korma",
+      "transliteration": "wanakhlan"
+    },
+    {
+      "id": 32033,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "zaitun dan pohon kurma,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 127330,
+    "timestamp_to": 131540,
+    "duration": 4210,
+    "segments": [
+      [
+        1,
+        126905,
+        128475
+      ],
+      [
+        2,
+        128475,
+        131060
+      ]
+    ]
+  }
+}

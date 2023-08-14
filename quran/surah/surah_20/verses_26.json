@@ -1,0 +1,73 @@
+{
+  "id": 2374,
+  "chapter_id": 20,
+  "verse_key": "20:26",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَيَسِّرْ لِىٓ أَمْرِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 28873,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_026_001.mp3",
+      "text": "وَيَسِّرْ",
+      "translation": "dan mudahkanlah",
+      "transliteration": "wayassir"
+    },
+    {
+      "id": 28874,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_026_002.mp3",
+      "text": "لِىٓ",
+      "translation": "untukku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 28875,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_026_003.mp3",
+      "text": "أَمْرِى",
+      "translation": "urusanku",
+      "transliteration": "amrī"
+    },
+    {
+      "id": 28876,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan mudahkanlah untukku urusanku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 218940,
+    "timestamp_to": 223350,
+    "duration": 4420,
+    "segments": [
+      [
+        1,
+        218905,
+        220135
+      ],
+      [
+        2,
+        220135,
+        221955
+      ],
+      [
+        3,
+        221955,
+        223270
+      ]
+    ]
+  }
+}

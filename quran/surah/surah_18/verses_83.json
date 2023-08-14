@@ -1,0 +1,151 @@
+{
+  "id": 2223,
+  "chapter_id": 18,
+  "verse_key": "18:83",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "ruku_number": 262,
+  "manzil_number": 4,
+  "page_number": 302,
+  "juz_number": 16,
+  "text_uthmani": "وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 65294,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_001.mp3",
+      "text": "وَيَسْـَٔلُونَكَ",
+      "translation": "dan mereka akan bertanya kepadamu",
+      "transliteration": "wayasalūnaka"
+    },
+    {
+      "id": 65295,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_002.mp3",
+      "text": "عَن",
+      "translation": "dari/tentang",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 65296,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_003.mp3",
+      "text": "ذِى",
+      "translation": "Zulqarnain",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 65297,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_004.mp3",
+      "text": "ٱلْقَرْنَيْنِ ۖ",
+      "translation": "Zulqarnain",
+      "transliteration": "l-qarnayni"
+    },
+    {
+      "id": 65299,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_006.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 65300,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_007.mp3",
+      "text": "سَأَتْلُوا۟",
+      "translation": "akan aku bacakan",
+      "transliteration": "sa-atlū"
+    },
+    {
+      "id": 65301,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_008.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 65302,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_009.mp3",
+      "text": "مِّنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 65303,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_083_010.mp3",
+      "text": "ذِكْرًا",
+      "translation": "peringatan/cerita",
+      "transliteration": "dhik'ran"
+    },
+    {
+      "id": 65304,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka akan bertanya kepadamu (Muhammad) tentang  Żulqarnayn.  Katakanlah, \"Aku akan bacakan kepadamu cerita tentangnya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1585040,
+    "timestamp_to": 1594860,
+    "duration": 9820,
+    "segments": [
+      [
+        1,
+        1585015,
+        1586785
+      ],
+      [
+        2,
+        1586785,
+        1587825
+      ],
+      [
+        3,
+        1587825,
+        1587975
+      ],
+      [
+        4,
+        1587975,
+        1589305
+      ],
+      [
+        5,
+        1589305,
+        1589715
+      ],
+      [
+        6,
+        1589715,
+        1590885
+      ],
+      [
+        7,
+        1590885,
+        1591815
+      ],
+      [
+        8,
+        1591815,
+        1593455
+      ],
+      [
+        9,
+        1593455,
+        1594810
+      ]
+    ]
+  }
+}

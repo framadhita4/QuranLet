@@ -1,0 +1,73 @@
+{
+  "id": 6203,
+  "chapter_id": 107,
+  "verse_key": "107:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "words": [
+    {
+      "id": 6392,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_006_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 6393,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_006_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 6394,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_006_003.mp3",
+      "text": "يُرَآءُونَ",
+      "translation": "mereka berbuat ria",
+      "transliteration": "yurāūna"
+    },
+    {
+      "id": 6395,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "orang-orang yang berbuat ria<sup foot_note_id=\"1604\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33280,
+    "timestamp_to": 40910,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        33205,
+        34435
+      ],
+      [
+        2,
+        34435,
+        34895
+      ],
+      [
+        3,
+        34895,
+        40660
+      ]
+    ]
+  }
+}

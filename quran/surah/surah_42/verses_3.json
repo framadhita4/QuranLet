@@ -1,0 +1,164 @@
+{
+  "id": 4275,
+  "chapter_id": 42,
+  "verse_key": "42:3",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "ruku_number": 421,
+  "manzil_number": 6,
+  "page_number": 483,
+  "juz_number": 25,
+  "text_uthmani": "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3",
+  "words": [
+    {
+      "id": 2048,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 2049,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_002.mp3",
+      "text": "يُوحِىٓ",
+      "translation": "Dia mewahyukan",
+      "transliteration": "yūḥī"
+    },
+    {
+      "id": 2050,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_003.mp3",
+      "text": "إِلَيْكَ",
+      "translation": "kepadamu",
+      "transliteration": "ilayka"
+    },
+    {
+      "id": 2051,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_004.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 2052,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_005.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 2053,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_006.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 2054,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_007.mp3",
+      "text": "قَبْلِكَ",
+      "translation": "sebelum kamu",
+      "transliteration": "qablika"
+    },
+    {
+      "id": 2055,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_008.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 2056,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_009.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 2057,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_003_010.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 2058,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah, Allah Yang Maha Perkasa lagi Maha Bijaksana mewahyukan kepada kamu dan kepada orang-orang sebelum kamu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19960,
+    "timestamp_to": 32030,
+    "duration": 12070,
+    "segments": [
+      [
+        1,
+        19935,
+        21105
+      ],
+      [
+        2,
+        21105,
+        23405
+      ],
+      [
+        3,
+        23405,
+        24225
+      ],
+      [
+        4,
+        24225,
+        24725
+      ],
+      [
+        5,
+        24725,
+        25675
+      ],
+      [
+        6,
+        25675,
+        26685
+      ],
+      [
+        7,
+        26685,
+        27575
+      ],
+      [
+        8,
+        27575,
+        28395
+      ],
+      [
+        9,
+        28395,
+        29455
+      ],
+      [
+        10,
+        29455,
+        31850
+      ]
+    ]
+  }
+}

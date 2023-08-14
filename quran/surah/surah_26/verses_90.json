@@ -1,0 +1,73 @@
+{
+  "id": 3022,
+  "chapter_id": 26,
+  "verse_key": "26:90",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 68017,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_090_001.mp3",
+      "text": "وَأُزْلِفَتِ",
+      "translation": "dan didekatkan",
+      "transliteration": "wa-uz'lifati"
+    },
+    {
+      "id": 68018,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_090_002.mp3",
+      "text": "ٱلْجَنَّةُ",
+      "translation": "surga",
+      "transliteration": "l-janatu"
+    },
+    {
+      "id": 68019,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_090_003.mp3",
+      "text": "لِلْمُتَّقِينَ",
+      "translation": "kepada orang-orang yang bertakwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 68020,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩٠",
+      "translation": "(90)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (pada hari itu) didekatkanlah surga kepada orang-orang yang bertakwa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 855250,
+    "timestamp_to": 862040,
+    "duration": 6790,
+    "segments": [
+      [
+        1,
+        855195,
+        856525
+      ],
+      [
+        2,
+        856525,
+        858445
+      ],
+      [
+        3,
+        858445,
+        861930
+      ]
+    ]
+  }
+}

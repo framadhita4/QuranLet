@@ -1,0 +1,73 @@
+{
+  "id": 5718,
+  "chapter_id": 79,
+  "verse_key": "79:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 6681,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_006_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 6682,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_006_002.mp3",
+      "text": "تَرْجُفُ",
+      "translation": "bergoncang",
+      "transliteration": "tarjufu"
+    },
+    {
+      "id": 6683,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_006_003.mp3",
+      "text": "ٱلرَّاجِفَةُ",
+      "translation": "goncangan",
+      "transliteration": "l-rājifatu"
+    },
+    {
+      "id": 6684,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Sesungguhnya kamu akan dibangkitkan) pada hari ketika tiupan pertama mengguncangkan alam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 18900,
+    "timestamp_to": 22270,
+    "duration": 3370,
+    "segments": [
+      [
+        1,
+        18835,
+        19545
+      ],
+      [
+        2,
+        19545,
+        20475
+      ],
+      [
+        3,
+        20475,
+        22120
+      ]
+    ]
+  }
+}

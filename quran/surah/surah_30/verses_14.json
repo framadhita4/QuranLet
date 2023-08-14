@@ -1,0 +1,99 @@
+{
+  "id": 3423,
+  "chapter_id": 30,
+  "verse_key": "30:14",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 351,
+  "manzil_number": 5,
+  "page_number": 405,
+  "juz_number": 21,
+  "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 16571,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_014_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 16572,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_014_002.mp3",
+      "text": "تَقُومُ",
+      "translation": "berdiri/terjadi",
+      "transliteration": "taqūmu"
+    },
+    {
+      "id": 16573,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_014_003.mp3",
+      "text": "ٱلسَّاعَةُ",
+      "translation": "kiamat",
+      "transliteration": "l-sāʿatu"
+    },
+    {
+      "id": 16574,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_014_004.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 16575,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_014_005.mp3",
+      "text": "يَتَفَرَّقُونَ",
+      "translation": "mereka bercerai berai",
+      "transliteration": "yatafarraqūna"
+    },
+    {
+      "id": 16576,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan pada hari terjadinya kiamat, pada hari itu mereka (manusia) bergolong-golongan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 228710,
+    "timestamp_to": 238220,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        228655,
+        229695
+      ],
+      [
+        2,
+        229695,
+        230575
+      ],
+      [
+        3,
+        230575,
+        231665
+      ],
+      [
+        4,
+        231665,
+        233925
+      ],
+      [
+        5,
+        233925,
+        238120
+      ]
+    ]
+  }
+}

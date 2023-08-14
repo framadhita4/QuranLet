@@ -1,0 +1,138 @@
+{
+  "id": 1608,
+  "chapter_id": 12,
+  "verse_key": "12:12",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "ruku_number": 194,
+  "manzil_number": 3,
+  "page_number": 236,
+  "juz_number": 12,
+  "text_uthmani": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 14368,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_001.mp3",
+      "text": "أَرْسِلْهُ",
+      "translation": "kirimlah/biarkanlah ia",
+      "transliteration": "arsil'hu"
+    },
+    {
+      "id": 14369,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_002.mp3",
+      "text": "مَعَنَا",
+      "translation": "bersama kami",
+      "transliteration": "maʿanā"
+    },
+    {
+      "id": 14370,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_003.mp3",
+      "text": "غَدًۭا",
+      "translation": "besok pagi",
+      "transliteration": "ghadan"
+    },
+    {
+      "id": 14371,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_004.mp3",
+      "text": "يَرْتَعْ",
+      "translation": "dia bersuka ria",
+      "transliteration": "yartaʿ"
+    },
+    {
+      "id": 14372,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_005.mp3",
+      "text": "وَيَلْعَبْ",
+      "translation": "dan dia bermain",
+      "transliteration": "wayalʿab"
+    },
+    {
+      "id": 14373,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_006.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 14374,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_007.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya/kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 14375,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_012_008.mp3",
+      "text": "لَحَـٰفِظُونَ",
+      "translation": "sungguh orang-orang yang menjaga",
+      "transliteration": "laḥāfiẓūna"
+    },
+    {
+      "id": 14376,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Biarkanlah dia pergi bersama kami besok pagi agar dia (dapat) bersenang-senang dan (dapat) bermain-main dan sesungguhnya kami pasti menjaganya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 218980,
+    "timestamp_to": 230760,
+    "duration": 11780,
+    "segments": [
+      [
+        1,
+        218925,
+        220035
+      ],
+      [
+        2,
+        220035,
+        220925
+      ],
+      [
+        3,
+        220925,
+        221525
+      ],
+      [
+        4,
+        221525,
+        223305
+      ],
+      [
+        5,
+        223305,
+        224325
+      ],
+      [
+        6,
+        224325,
+        226145
+      ],
+      [
+        7,
+        226145,
+        226765
+      ],
+      [
+        8,
+        226765,
+        230640
+      ]
+    ]
+  }
+}

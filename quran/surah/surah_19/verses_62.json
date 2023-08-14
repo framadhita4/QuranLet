@@ -1,0 +1,177 @@
+{
+  "id": 2312,
+  "chapter_id": 19,
+  "verse_key": "19:62",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "page_number": 309,
+  "juz_number": 16,
+  "text_uthmani": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَـٰمًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 55616,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 55617,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_002.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 55618,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_003.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya (surga)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 55619,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_004.mp3",
+      "text": "لَغْوًا",
+      "translation": "perkataan sia-sia",
+      "transliteration": "laghwan"
+    },
+    {
+      "id": 55620,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 55621,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_006.mp3",
+      "text": "سَلَـٰمًۭا ۖ",
+      "translation": "selamat/sejahtera",
+      "transliteration": "salāman"
+    },
+    {
+      "id": 55623,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_008.mp3",
+      "text": "وَلَهُمْ",
+      "translation": "dan bagi mereka",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 55624,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_009.mp3",
+      "text": "رِزْقُهُمْ",
+      "translation": "rezki mereka",
+      "transliteration": "riz'quhum"
+    },
+    {
+      "id": 55625,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_010.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya (surga)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 55626,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_011.mp3",
+      "text": "بُكْرَةًۭ",
+      "translation": "pagi",
+      "transliteration": "buk'ratan"
+    },
+    {
+      "id": 55627,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_062_012.mp3",
+      "text": "وَعَشِيًّۭا",
+      "translation": "dan petang",
+      "transliteration": "waʿashiyyan"
+    },
+    {
+      "id": 55628,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tidak mendengar perkataan yang tak berguna di dalam surga, kecuali ucapan salam.  Bagi mereka rezekinya di surga itu tiap-tiap pagi dan petang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 862950,
+    "timestamp_to": 875720,
+    "duration": 12770,
+    "segments": [
+      [
+        1,
+        862545,
+        863055
+      ],
+      [
+        2,
+        863055,
+        864345
+      ],
+      [
+        3,
+        864345,
+        865375
+      ],
+      [
+        4,
+        865375,
+        866255
+      ],
+      [
+        5,
+        866255,
+        867115
+      ],
+      [
+        6,
+        867115,
+        868755
+      ],
+      [
+        7,
+        868755,
+        869555
+      ],
+      [
+        8,
+        869555,
+        870755
+      ],
+      [
+        9,
+        870755,
+        871615
+      ],
+      [
+        10,
+        871615,
+        872655
+      ],
+      [
+        11,
+        872655,
+        874970
+      ]
+    ]
+  }
+}

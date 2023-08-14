@@ -1,0 +1,112 @@
+{
+  "id": 4673,
+  "chapter_id": 50,
+  "verse_key": "50:43",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 43572,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 43573,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 43574,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_003.mp3",
+      "text": "نُحْىِۦ",
+      "translation": "Kami menghidupi",
+      "transliteration": "nuḥ'yī"
+    },
+    {
+      "id": 43575,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_004.mp3",
+      "text": "وَنُمِيتُ",
+      "translation": "dan Kami mematikan",
+      "transliteration": "wanumītu"
+    },
+    {
+      "id": 43576,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_005.mp3",
+      "text": "وَإِلَيْنَا",
+      "translation": "dan kepada Kami",
+      "transliteration": "wa-ilaynā"
+    },
+    {
+      "id": 43577,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_006.mp3",
+      "text": "ٱلْمَصِيرُ",
+      "translation": "tempat kembali",
+      "transliteration": "l-maṣīru"
+    },
+    {
+      "id": 43578,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menghidupkan dan mematikan dan hanya kepada Kami-lah tempat kembali (semua makhluk).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 513330,
+    "timestamp_to": 521770,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        512905,
+        514515
+      ],
+      [
+        2,
+        514515,
+        515215
+      ],
+      [
+        3,
+        515215,
+        516105
+      ],
+      [
+        4,
+        516105,
+        517375
+      ],
+      [
+        5,
+        517375,
+        518335
+      ],
+      [
+        6,
+        518335,
+        521270
+      ]
+    ]
+  }
+}

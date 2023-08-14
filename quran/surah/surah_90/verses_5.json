@@ -1,0 +1,112 @@
+{
+  "id": 6028,
+  "chapter_id": 90,
+  "verse_key": "90:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 5746,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_005_001.mp3",
+      "text": "أَيَحْسَبُ",
+      "translation": "apakah (manusia) menyangka",
+      "transliteration": "ayaḥsabu"
+    },
+    {
+      "id": 5747,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_005_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 5748,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_005_003.mp3",
+      "text": "لَّن",
+      "translation": "tidak",
+      "transliteration": "lan"
+    },
+    {
+      "id": 5749,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_005_004.mp3",
+      "text": "يَقْدِرَ",
+      "translation": "berkuasa",
+      "transliteration": "yaqdira"
+    },
+    {
+      "id": 5750,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_005_005.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 5751,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_005_006.mp3",
+      "text": "أَحَدٌۭ",
+      "translation": "seseorang/satu",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 5752,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah manusia itu menyangka bahwa sekali-kali tiada seorang pun yang berkuasa atasnya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20660,
+    "timestamp_to": 26150,
+    "duration": 5490,
+    "segments": [
+      [
+        1,
+        20525,
+        21505
+      ],
+      [
+        2,
+        21505,
+        21735
+      ],
+      [
+        3,
+        21735,
+        22865
+      ],
+      [
+        4,
+        22865,
+        24005
+      ],
+      [
+        5,
+        24005,
+        24845
+      ],
+      [
+        6,
+        24845,
+        25950
+      ]
+    ]
+  }
+}

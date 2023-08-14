@@ -1,0 +1,151 @@
+{
+  "id": 1925,
+  "chapter_id": 16,
+  "verse_key": "16:24",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 226,
+  "manzil_number": 3,
+  "page_number": 269,
+  "juz_number": 14,
+  "text_uthmani": "وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 27423,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 27424,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_002.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 27425,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_003.mp3",
+      "text": "لَهُم",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 27426,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_004.mp3",
+      "text": "مَّاذَآ",
+      "translation": "apakah",
+      "transliteration": "mādhā"
+    },
+    {
+      "id": 27427,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_005.mp3",
+      "text": "أَنزَلَ",
+      "translation": "menurunkan",
+      "transliteration": "anzala"
+    },
+    {
+      "id": 27428,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_006.mp3",
+      "text": "رَبُّكُمْ ۙ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbukum"
+    },
+    {
+      "id": 27430,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_008.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata/menjawab",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 27431,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_009.mp3",
+      "text": "أَسَـٰطِيرُ",
+      "translation": "dongeng-dongeng",
+      "transliteration": "asāṭīru"
+    },
+    {
+      "id": 27432,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_024_010.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang dahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 27433,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila dikatakan kepada mereka \"Apakah yang telah diturunkan Tuhan-mu?\" Mereka menjawab, \"Dongeng-dongengan orang-orang dahulu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 365280,
+    "timestamp_to": 379960,
+    "duration": 14680,
+    "segments": [
+      [
+        1,
+        365235,
+        366165
+      ],
+      [
+        2,
+        366165,
+        366945
+      ],
+      [
+        3,
+        366945,
+        367465
+      ],
+      [
+        4,
+        367465,
+        370235
+      ],
+      [
+        5,
+        370235,
+        371945
+      ],
+      [
+        6,
+        371945,
+        373135
+      ],
+      [
+        7,
+        373135,
+        375205
+      ],
+      [
+        8,
+        375205,
+        376525
+      ],
+      [
+        9,
+        376525,
+        379880
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 5212,
+  "chapter_id": 64,
+  "verse_key": "64:13",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 493,
+  "manzil_number": 7,
+  "page_number": 557,
+  "juz_number": 28,
+  "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3",
+  "words": [
+    {
+      "id": 15169,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_001.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "al-lahu"
+    },
+    {
+      "id": 15170,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_002.mp3",
+      "text": "لَآ",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 15171,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_003.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "Tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 15172,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 15173,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_005.mp3",
+      "text": "هُوَ ۚ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 15175,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_007.mp3",
+      "text": "وَعَلَى",
+      "translation": "dan atas/kepada",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 15176,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_008.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 15177,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_009.mp3",
+      "text": "فَلْيَتَوَكَّلِ",
+      "translation": "maka hendaklah bertawakkal",
+      "transliteration": "falyatawakkali"
+    },
+    {
+      "id": 15178,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_013_010.mp3",
+      "text": "ٱلْمُؤْمِنُونَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minūna"
+    },
+    {
+      "id": 15179,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dia-lah) Allah tidak ada Tuhan (yang berhak disembah) selain Dia.  Dan hendaklah orang-orang mukmin bertawakal kepada Allah saja.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 226090,
+    "timestamp_to": 239200,
+    "duration": 13110,
+    "segments": [
+      [
+        1,
+        226025,
+        227085
+      ],
+      [
+        2,
+        227085,
+        229225
+      ],
+      [
+        3,
+        229225,
+        229985
+      ],
+      [
+        4,
+        229985,
+        230745
+      ],
+      [
+        5,
+        230745,
+        231325
+      ],
+      [
+        6,
+        231325,
+        232375
+      ],
+      [
+        7,
+        232375,
+        233305
+      ],
+      [
+        8,
+        233305,
+        235055
+      ],
+      [
+        9,
+        235055,
+        239050
+      ]
+    ]
+  }
+}

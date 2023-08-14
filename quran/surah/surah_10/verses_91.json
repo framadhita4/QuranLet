@@ -1,0 +1,125 @@
+{
+  "id": 1455,
+  "chapter_id": 10,
+  "verse_key": "10:91",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "ruku_number": 180,
+  "manzil_number": 3,
+  "page_number": 219,
+  "juz_number": 11,
+  "text_uthmani": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 68472,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_001.mp3",
+      "text": "ءَآلْـَٔـٰنَ",
+      "translation": "apakah sekarang",
+      "transliteration": "āl'āna"
+    },
+    {
+      "id": 68473,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_002.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan/padahal sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 68474,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_003.mp3",
+      "text": "عَصَيْتَ",
+      "translation": "kamu telah durhaka",
+      "transliteration": "ʿaṣayta"
+    },
+    {
+      "id": 68475,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_004.mp3",
+      "text": "قَبْلُ",
+      "translation": "sejak dahulu",
+      "transliteration": "qablu"
+    },
+    {
+      "id": 68476,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_005.mp3",
+      "text": "وَكُنتَ",
+      "translation": "dan kamu adalah",
+      "transliteration": "wakunta"
+    },
+    {
+      "id": 68477,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 68478,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_091_007.mp3",
+      "text": "ٱلْمُفْسِدِينَ",
+      "translation": "orang-orang yang membuat kerusakan",
+      "transliteration": "l-muf'sidīna"
+    },
+    {
+      "id": 68479,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩١",
+      "translation": "(91)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah sekarang (baru kamu percaya), padahal sesungguhnya kamu telah durhaka sejak dahulu dan kamu termasuk orang-orang yang berbuat kerusakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2278440,
+    "timestamp_to": 2290800,
+    "duration": 12360,
+    "segments": [
+      [
+        1,
+        2278415,
+        2282475
+      ],
+      [
+        2,
+        2282475,
+        2283025
+      ],
+      [
+        3,
+        2283025,
+        2283995
+      ],
+      [
+        4,
+        2283995,
+        2284645
+      ],
+      [
+        5,
+        2284645,
+        2286605
+      ],
+      [
+        6,
+        2286605,
+        2286975
+      ],
+      [
+        7,
+        2286975,
+        2290750
+      ]
+    ]
+  }
+}

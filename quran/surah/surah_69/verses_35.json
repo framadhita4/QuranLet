@@ -1,0 +1,99 @@
+{
+  "id": 5358,
+  "chapter_id": 69,
+  "verse_key": "69:35",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَـٰهُنَا حَمِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 37301,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_001.mp3",
+      "text": "فَلَيْسَ",
+      "translation": "maka tidak",
+      "transliteration": "falaysa"
+    },
+    {
+      "id": 37302,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_002.mp3",
+      "text": "لَهُ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 37303,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_003.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 37304,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_004.mp3",
+      "text": "هَـٰهُنَا",
+      "translation": "di sini",
+      "transliteration": "hāhunā"
+    },
+    {
+      "id": 37305,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_005.mp3",
+      "text": "حَمِيمٌۭ",
+      "translation": "seorang teman",
+      "transliteration": "ḥamīmun"
+    },
+    {
+      "id": 37306,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tiada seorang teman pun baginya pada hari ini di sini.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 268990,
+    "timestamp_to": 276020,
+    "duration": 7030,
+    "segments": [
+      [
+        1,
+        268935,
+        269845
+      ],
+      [
+        2,
+        269845,
+        270155
+      ],
+      [
+        3,
+        270155,
+        271005
+      ],
+      [
+        4,
+        271005,
+        272125
+      ],
+      [
+        5,
+        272125,
+        275920
+      ]
+    ]
+  }
+}

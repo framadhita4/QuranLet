@@ -1,0 +1,99 @@
+{
+  "id": 4774,
+  "chapter_id": 52,
+  "verse_key": "52:39",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 40719,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_039_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 40720,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_039_002.mp3",
+      "text": "لَهُ",
+      "translation": "bagi-Nya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 40721,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_039_003.mp3",
+      "text": "ٱلْبَنَـٰتُ",
+      "translation": "anak-anak perempuan",
+      "transliteration": "l-banātu"
+    },
+    {
+      "id": 40722,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_039_004.mp3",
+      "text": "وَلَكُمُ",
+      "translation": "dan bagimu",
+      "transliteration": "walakumu"
+    },
+    {
+      "id": 40723,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_039_005.mp3",
+      "text": "ٱلْبَنُونَ",
+      "translation": "anak-anak laki-laki",
+      "transliteration": "l-banūna"
+    },
+    {
+      "id": 40724,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah untuk Allah anak-anak perempuan dan untuk kamu anak-anak laki-laki?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 368030,
+    "timestamp_to": 374270,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        367975,
+        368395
+      ],
+      [
+        2,
+        368395,
+        368855
+      ],
+      [
+        3,
+        368855,
+        370125
+      ],
+      [
+        4,
+        370125,
+        370875
+      ],
+      [
+        5,
+        370875,
+        374160
+      ]
+    ]
+  }
+}

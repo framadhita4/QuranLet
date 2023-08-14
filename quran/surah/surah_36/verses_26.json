@@ -1,0 +1,125 @@
+{
+  "id": 3731,
+  "chapter_id": 36,
+  "verse_key": "36:26",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 29381,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_001.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 29382,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_002.mp3",
+      "text": "ٱدْخُلِ",
+      "translation": "masuklah",
+      "transliteration": "ud'khuli"
+    },
+    {
+      "id": 29383,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_003.mp3",
+      "text": "ٱلْجَنَّةَ ۖ",
+      "translation": "sorga",
+      "transliteration": "l-janata"
+    },
+    {
+      "id": 29385,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_005.mp3",
+      "text": "قَالَ",
+      "translation": "ia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 29386,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_006.mp3",
+      "text": "يَـٰلَيْتَ",
+      "translation": "seandainya",
+      "transliteration": "yālayta"
+    },
+    {
+      "id": 29387,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_007.mp3",
+      "text": "قَوْمِى",
+      "translation": "kaumku",
+      "transliteration": "qawmī"
+    },
+    {
+      "id": 29388,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_026_008.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 29389,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dikatakan (kepadanya), \"Masuklah ke surga <sup foot_note_id=\"1265\">1</sup>\".  Ia berkata, \"Alangkah baiknya sekiranya kaumku mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 313730,
+    "timestamp_to": 323630,
+    "duration": 9900,
+    "segments": [
+      [
+        1,
+        313675,
+        314215
+      ],
+      [
+        2,
+        314215,
+        314945
+      ],
+      [
+        3,
+        314945,
+        316895
+      ],
+      [
+        4,
+        316895,
+        317595
+      ],
+      [
+        5,
+        317595,
+        318645
+      ],
+      [
+        6,
+        318645,
+        319525
+      ],
+      [
+        7,
+        319525,
+        323510
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 3453,
+  "chapter_id": 30,
+  "verse_key": "30:44",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "ruku_number": 354,
+  "manzil_number": 5,
+  "page_number": 409,
+  "juz_number": 21,
+  "text_uthmani": "مَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَمَنْ عَمِلَ صَـٰلِحًا فَلِأَنفُسِهِمْ يَمْهَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 44682,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_001.mp3",
+      "text": "مَن",
+      "translation": "barangsiapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 44683,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_002.mp3",
+      "text": "كَفَرَ",
+      "translation": "kafir",
+      "transliteration": "kafara"
+    },
+    {
+      "id": 44684,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_003.mp3",
+      "text": "فَعَلَيْهِ",
+      "translation": "maka atasnya",
+      "transliteration": "faʿalayhi"
+    },
+    {
+      "id": 44685,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_004.mp3",
+      "text": "كُفْرُهُۥ ۖ",
+      "translation": "kekafirannya",
+      "transliteration": "kuf'ruhu"
+    },
+    {
+      "id": 44687,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_006.mp3",
+      "text": "وَمَنْ",
+      "translation": "dan barangsiapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 44688,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_007.mp3",
+      "text": "عَمِلَ",
+      "translation": "beramal",
+      "transliteration": "ʿamila"
+    },
+    {
+      "id": 44689,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_008.mp3",
+      "text": "صَـٰلِحًۭا",
+      "translation": "kebajikan/saleh",
+      "transliteration": "ṣāliḥan"
+    },
+    {
+      "id": 44690,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_009.mp3",
+      "text": "فَلِأَنفُسِهِمْ",
+      "translation": "maka untuk diri mereka sendiri",
+      "transliteration": "fali-anfusihim"
+    },
+    {
+      "id": 44691,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_044_010.mp3",
+      "text": "يَمْهَدُونَ",
+      "translation": "mereka menyiapkan",
+      "transliteration": "yamhadūna"
+    },
+    {
+      "id": 44692,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang kafir maka dia sendirilah yang menanggung (akibat) kekafirannya itu; dan barang siapa yang beramal saleh maka untuk diri mereka sendirilah mereka menyiapkan (tempat yang menyenangkan),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 833930,
+    "timestamp_to": 846520,
+    "duration": 12590,
+    "segments": [
+      [
+        1,
+        833905,
+        835295
+      ],
+      [
+        2,
+        835295,
+        835995
+      ],
+      [
+        3,
+        835995,
+        837105
+      ],
+      [
+        4,
+        837105,
+        838175
+      ],
+      [
+        5,
+        838175,
+        838775
+      ],
+      [
+        6,
+        838775,
+        839435
+      ],
+      [
+        7,
+        839435,
+        840835
+      ],
+      [
+        8,
+        840835,
+        843525
+      ],
+      [
+        9,
+        843525,
+        846440
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5854,
+  "chapter_id": 83,
+  "verse_key": "83:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 6714,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 6715,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_002.mp3",
+      "text": "يَقُومُ",
+      "translation": "wahai kaumku",
+      "transliteration": "yaqūmu"
+    },
+    {
+      "id": 6716,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_003.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 6717,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_004.mp3",
+      "text": "لِرَبِّ",
+      "translation": "kapada Tuhan/Pemelihara",
+      "transliteration": "lirabbi"
+    },
+    {
+      "id": 6718,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_005.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 6719,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) hari (ketika) manusia berdiri menghadap Tuhan semesta alam?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 34410,
+    "timestamp_to": 42400,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        34325,
+        34945
+      ],
+      [
+        2,
+        34945,
+        35815
+      ],
+      [
+        3,
+        35815,
+        37455
+      ],
+      [
+        4,
+        37455,
+        38265
+      ],
+      [
+        5,
+        38265,
+        42230
+      ]
+    ]
+  }
+}

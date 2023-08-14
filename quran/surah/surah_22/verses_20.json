@@ -1,0 +1,112 @@
+{
+  "id": 2615,
+  "chapter_id": 22,
+  "verse_key": "22:20",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "ruku_number": 286,
+  "manzil_number": 4,
+  "page_number": 334,
+  "juz_number": 17,
+  "text_uthmani": "يُصْهَرُ بِهِۦ مَا فِى بُطُونِهِمْ وَٱلْجُلُودُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 22733,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_020_001.mp3",
+      "text": "يُصْهَرُ",
+      "translation": "dihancurluluhkan",
+      "transliteration": "yuṣ'haru"
+    },
+    {
+      "id": 22734,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_020_002.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya (air mendidih)",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 22735,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_020_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 22736,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_020_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 22737,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_020_005.mp3",
+      "text": "بُطُونِهِمْ",
+      "translation": "perut mereka",
+      "transliteration": "buṭūnihim"
+    },
+    {
+      "id": 22738,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_020_006.mp3",
+      "text": "وَٱلْجُلُودُ",
+      "translation": "dan kulit-kulit",
+      "transliteration": "wal-julūdu"
+    },
+    {
+      "id": 22739,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dengan air itu dihancurluluhkan segala apa yang ada dalam perut mereka dan juga kulit (mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 479000,
+    "timestamp_to": 486160,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        478945,
+        480015
+      ],
+      [
+        2,
+        480015,
+        480625
+      ],
+      [
+        3,
+        480625,
+        481035
+      ],
+      [
+        4,
+        481035,
+        481525
+      ],
+      [
+        5,
+        481525,
+        483035
+      ],
+      [
+        6,
+        483035,
+        486050
+      ]
+    ]
+  }
+}

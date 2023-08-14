@@ -1,0 +1,60 @@
+{
+  "id": 5400,
+  "chapter_id": 70,
+  "verse_key": "70:25",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 28043,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_025_001.mp3",
+      "text": "لِّلسَّآئِلِ",
+      "translation": "untuk orang yang meminta",
+      "transliteration": "lilssāili"
+    },
+    {
+      "id": 28044,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_025_002.mp3",
+      "text": "وَٱلْمَحْرُومِ",
+      "translation": "dan orang yang kekurangan",
+      "transliteration": "wal-maḥrūmi"
+    },
+    {
+      "id": 28045,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bagi orang (miskin) yang meminta dan orang yang tidak mempunyai apa-apa (yang tidak mau meminta),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 134130,
+    "timestamp_to": 140580,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        134045,
+        136825
+      ],
+      [
+        2,
+        136825,
+        140420
+      ]
+    ]
+  }
+}

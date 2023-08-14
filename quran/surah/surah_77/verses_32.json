@@ -1,0 +1,86 @@
+{
+  "id": 5654,
+  "chapter_id": 77,
+  "verse_key": "77:32",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 34750,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_032_001.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 34751,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_032_002.mp3",
+      "text": "تَرْمِى",
+      "translation": "melemparkan",
+      "transliteration": "tarmī"
+    },
+    {
+      "id": 34752,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_032_003.mp3",
+      "text": "بِشَرَرٍۢ",
+      "translation": "bunga api",
+      "transliteration": "bishararin"
+    },
+    {
+      "id": 34753,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_032_004.mp3",
+      "text": "كَٱلْقَصْرِ",
+      "translation": "seperti istana/gedung tinggi",
+      "transliteration": "kal-qaṣri"
+    },
+    {
+      "id": 34754,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya neraka itu melontarkan bunga api sebesar dan setinggi istana,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 153280,
+    "timestamp_to": 158610,
+    "duration": 5330,
+    "segments": [
+      [
+        1,
+        153225,
+        154925
+      ],
+      [
+        2,
+        154925,
+        155665
+      ],
+      [
+        3,
+        155665,
+        157195
+      ],
+      [
+        4,
+        157195,
+        158480
+      ]
+    ]
+  }
+}

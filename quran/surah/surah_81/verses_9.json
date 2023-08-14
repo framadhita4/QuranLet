@@ -1,0 +1,73 @@
+{
+  "id": 5809,
+  "chapter_id": 81,
+  "verse_key": "81:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 10421,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_009_001.mp3",
+      "text": "بِأَىِّ",
+      "translation": "karena",
+      "transliteration": "bi-ayyi"
+    },
+    {
+      "id": 10422,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_009_002.mp3",
+      "text": "ذَنۢبٍۢ",
+      "translation": "dosa",
+      "transliteration": "dhanbin"
+    },
+    {
+      "id": 10423,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_009_003.mp3",
+      "text": "قُتِلَتْ",
+      "translation": "ia dibunuh",
+      "transliteration": "qutilat"
+    },
+    {
+      "id": 10424,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena dosa apakah dia dibunuh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23100,
+    "timestamp_to": 27330,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        23075,
+        23935
+      ],
+      [
+        2,
+        23935,
+        25745
+      ],
+      [
+        3,
+        25745,
+        27250
+      ]
+    ]
+  }
+}

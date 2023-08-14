@@ -1,0 +1,112 @@
+{
+  "id": 3972,
+  "chapter_id": 38,
+  "verse_key": "38:2",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 393,
+  "manzil_number": 6,
+  "page_number": 453,
+  "juz_number": 23,
+  "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى عِزَّةٍ وَشِقَاقٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 2013,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_002_001.mp3",
+      "text": "بَلِ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bali"
+    },
+    {
+      "id": 2014,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_002_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 2015,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_002_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 2016,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_002_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 2017,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_002_005.mp3",
+      "text": "عِزَّةٍۢ",
+      "translation": "kesombongan",
+      "transliteration": "ʿizzatin"
+    },
+    {
+      "id": 2018,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_002_006.mp3",
+      "text": "وَشِقَاقٍۢ",
+      "translation": "dan perpecahan",
+      "transliteration": "washiqāqin"
+    },
+    {
+      "id": 2019,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya, orang-orang kafir itu (berada) dalam kesombongan dan permusuhan yang sengit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7940,
+    "timestamp_to": 15750,
+    "duration": 7810,
+    "segments": [
+      [
+        1,
+        7915,
+        8415
+      ],
+      [
+        2,
+        8415,
+        9465
+      ],
+      [
+        3,
+        9465,
+        10345
+      ],
+      [
+        4,
+        10345,
+        10825
+      ],
+      [
+        5,
+        10825,
+        12675
+      ],
+      [
+        6,
+        12675,
+        15220
+      ]
+    ]
+  }
+}

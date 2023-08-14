@@ -1,0 +1,86 @@
+{
+  "id": 4921,
+  "chapter_id": 55,
+  "verse_key": "55:20",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 22582,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_020_001.mp3",
+      "text": "بَيْنَهُمَا",
+      "translation": "diantara keduanya",
+      "transliteration": "baynahumā"
+    },
+    {
+      "id": 22583,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_020_002.mp3",
+      "text": "بَرْزَخٌۭ",
+      "translation": "batas",
+      "transliteration": "barzakhun"
+    },
+    {
+      "id": 22584,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_020_003.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 22585,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_020_004.mp3",
+      "text": "يَبْغِيَانِ",
+      "translation": "keduanya melampui",
+      "transliteration": "yabghiyāni"
+    },
+    {
+      "id": 22586,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "antara keduanya ada batas yang tidak dilampaui oleh masing-masing<sup foot_note_id=\"1444\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 139610,
+    "timestamp_to": 146110,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        139555,
+        140875
+      ],
+      [
+        2,
+        140875,
+        142035
+      ],
+      [
+        3,
+        142035,
+        142395
+      ],
+      [
+        4,
+        142395,
+        146020
+      ]
+    ]
+  }
+}

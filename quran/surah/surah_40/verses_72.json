@@ -1,0 +1,112 @@
+{
+  "id": 4205,
+  "chapter_id": 40,
+  "verse_key": "40:72",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 413,
+  "manzil_number": 6,
+  "page_number": 475,
+  "juz_number": 24,
+  "text_uthmani": "فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 60402,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_072_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 60403,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_072_002.mp3",
+      "text": "ٱلْحَمِيمِ",
+      "translation": "air yang panas",
+      "transliteration": "l-ḥamīmi"
+    },
+    {
+      "id": 60404,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_072_003.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 60405,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_072_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 60406,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_072_005.mp3",
+      "text": "ٱلنَّارِ",
+      "translation": "api",
+      "transliteration": "l-nāri"
+    },
+    {
+      "id": 60407,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_072_006.mp3",
+      "text": "يُسْجَرُونَ",
+      "translation": "mereka di bakar",
+      "transliteration": "yus'jarūna"
+    },
+    {
+      "id": 60408,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ke dalam air yang sangat panas, kemudian mereka dibakar dalam api,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1323560,
+    "timestamp_to": 1331420,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        1323535,
+        1323825
+      ],
+      [
+        2,
+        1323825,
+        1324825
+      ],
+      [
+        3,
+        1324825,
+        1326035
+      ],
+      [
+        4,
+        1326035,
+        1326255
+      ],
+      [
+        5,
+        1326255,
+        1327845
+      ],
+      [
+        6,
+        1327845,
+        1331330
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3908,
+  "chapter_id": 37,
+  "verse_key": "37:120",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 76399,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_120_001.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "keselamatan",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 76400,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_120_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 76401,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_120_003.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 76402,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_120_004.mp3",
+      "text": "وَهَـٰرُونَ",
+      "translation": "dan Harun",
+      "transliteration": "wahārūna"
+    },
+    {
+      "id": 76403,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٢٠",
+      "translation": "(120)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu), \"Kesejahteraan dilimpahkan atas Musa dan Hārūn\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 993780,
+    "timestamp_to": 1000020,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        993715,
+        994755
+      ],
+      [
+        2,
+        994755,
+        995435
+      ],
+      [
+        3,
+        995435,
+        996195
+      ],
+      [
+        4,
+        996195,
+        999890
+      ]
+    ]
+  }
+}

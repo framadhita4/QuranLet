@@ -1,0 +1,99 @@
+{
+  "id": 5273,
+  "chapter_id": 68,
+  "verse_key": "68:2",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 1475,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_002_001.mp3",
+      "text": "مَآ",
+      "translation": "tidakkah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1476,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_002_002.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 1477,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_002_003.mp3",
+      "text": "بِنِعْمَةِ",
+      "translation": "dengan ni'mat",
+      "transliteration": "biniʿ'mati"
+    },
+    {
+      "id": 1478,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_002_004.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 1479,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_002_005.mp3",
+      "text": "بِمَجْنُونٍۢ",
+      "translation": "orang gila",
+      "transliteration": "bimajnūnin"
+    },
+    {
+      "id": 1480,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "berkat nikmat Tuhan-mu kamu (Muhammad) sekali-kali bukan orang gila.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9480,
+    "timestamp_to": 17840,
+    "duration": 8360,
+    "segments": [
+      [
+        1,
+        9415,
+        11625
+      ],
+      [
+        2,
+        11625,
+        12875
+      ],
+      [
+        3,
+        12875,
+        13945
+      ],
+      [
+        4,
+        13945,
+        14685
+      ],
+      [
+        5,
+        14685,
+        17710
+      ]
+    ]
+  }
+}

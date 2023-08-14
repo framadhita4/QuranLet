@@ -1,0 +1,125 @@
+{
+  "id": 3711,
+  "chapter_id": 36,
+  "verse_key": "36:6",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "page_number": 440,
+  "juz_number": 22,
+  "text_uthmani": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 7069,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_001.mp3",
+      "text": "لِتُنذِرَ",
+      "translation": "agar kamu memberi peringatan",
+      "transliteration": "litundhira"
+    },
+    {
+      "id": 7070,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_002.mp3",
+      "text": "قَوْمًۭا",
+      "translation": "kaum",
+      "transliteration": "qawman"
+    },
+    {
+      "id": 7071,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_003.mp3",
+      "text": "مَّآ",
+      "translation": "belum",
+      "transliteration": "mā"
+    },
+    {
+      "id": 7072,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_004.mp3",
+      "text": "أُنذِرَ",
+      "translation": "diberi peringatan",
+      "transliteration": "undhira"
+    },
+    {
+      "id": 7073,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_005.mp3",
+      "text": "ءَابَآؤُهُمْ",
+      "translation": "bapak-bapak mereka",
+      "transliteration": "ābāuhum"
+    },
+    {
+      "id": 7074,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_006.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 7075,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_006_007.mp3",
+      "text": "غَـٰفِلُونَ",
+      "translation": "mereka lalai",
+      "transliteration": "ghāfilūna"
+    },
+    {
+      "id": 7076,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Agar kamu memberi peringatan kepada kaum yang bapak-bapak mereka belum pernah diberi peringatan karena itu mereka lalai.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 28130,
+    "timestamp_to": 41970,
+    "duration": 13850,
+    "segments": [
+      [
+        1,
+        28075,
+        29895
+      ],
+      [
+        2,
+        29895,
+        30565
+      ],
+      [
+        3,
+        30565,
+        33115
+      ],
+      [
+        4,
+        33115,
+        34685
+      ],
+      [
+        5,
+        34685,
+        37525
+      ],
+      [
+        6,
+        37525,
+        38145
+      ],
+      [
+        7,
+        38145,
+        41840
+      ]
+    ]
+  }
+}

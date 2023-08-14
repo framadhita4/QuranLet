@@ -1,0 +1,73 @@
+{
+  "id": 6188,
+  "chapter_id": 104,
+  "verse_key": "104:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 10159,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_009_001.mp3",
+      "text": "فِى",
+      "translation": "dalam/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 10160,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_009_002.mp3",
+      "text": "عَمَدٍۢ",
+      "translation": "tiang",
+      "transliteration": "ʿamadin"
+    },
+    {
+      "id": 10161,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_009_003.mp3",
+      "text": "مُّمَدَّدَةٍۭ",
+      "translation": "panjang",
+      "transliteration": "mumaddadatin"
+    },
+    {
+      "id": 10162,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42010,
+    "timestamp_to": 47680,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        41925,
+        42375
+      ],
+      [
+        2,
+        42375,
+        43025
+      ],
+      [
+        3,
+        43025,
+        46790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6027,
+  "chapter_id": 90,
+  "verse_key": "90:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 4229,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_004_001.mp3",
+      "text": "لَقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 4230,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_004_002.mp3",
+      "text": "خَلَقْنَا",
+      "translation": "Kami telah menciptakan",
+      "transliteration": "khalaqnā"
+    },
+    {
+      "id": 4231,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_004_003.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 4232,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_004_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 4233,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_004_005.mp3",
+      "text": "كَبَدٍ",
+      "translation": "susah payah",
+      "transliteration": "kabadin"
+    },
+    {
+      "id": 4234,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menciptakan manusia berada dalam susah payah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15250,
+    "timestamp_to": 20660,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        15165,
+        15775
+      ],
+      [
+        2,
+        15775,
+        16645
+      ],
+      [
+        3,
+        16645,
+        18845
+      ],
+      [
+        4,
+        18845,
+        19295
+      ],
+      [
+        5,
+        19295,
+        20440
+      ]
+    ]
+  }
+}

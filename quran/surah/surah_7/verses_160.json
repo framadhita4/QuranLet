@@ -1,0 +1,603 @@
+{
+  "id": 1114,
+  "chapter_id": 7,
+  "verse_key": "7:160",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 68,
+  "ruku_number": 141,
+  "manzil_number": 2,
+  "page_number": 171,
+  "juz_number": 9,
+  "text_uthmani": "وَقَطَّعْنَـٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا ۚ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَـٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۚ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 81798,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_001.mp3",
+      "text": "وَقَطَّعْنَـٰهُمُ",
+      "translation": "dan Kami bagi mereka",
+      "transliteration": "waqaṭṭaʿnāhumu"
+    },
+    {
+      "id": 81799,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_002.mp3",
+      "text": "ٱثْنَتَىْ",
+      "translation": "dua",
+      "transliteration": "ith'natay"
+    },
+    {
+      "id": 81800,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_003.mp3",
+      "text": "عَشْرَةَ",
+      "translation": "belas",
+      "transliteration": "ʿashrata"
+    },
+    {
+      "id": 81801,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_004.mp3",
+      "text": "أَسْبَاطًا",
+      "translation": "suku-suku",
+      "transliteration": "asbāṭan"
+    },
+    {
+      "id": 81802,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_005.mp3",
+      "text": "أُمَمًۭا ۚ",
+      "translation": "umat-umat",
+      "transliteration": "umaman"
+    },
+    {
+      "id": 81804,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_007.mp3",
+      "text": "وَأَوْحَيْنَآ",
+      "translation": "dan Kami wahyukan",
+      "transliteration": "wa-awḥaynā"
+    },
+    {
+      "id": 81805,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_008.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 81806,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_009.mp3",
+      "text": "مُوسَىٰٓ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 81807,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_010.mp3",
+      "text": "إِذِ",
+      "translation": "ketika",
+      "transliteration": "idhi"
+    },
+    {
+      "id": 81808,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_011.mp3",
+      "text": "ٱسْتَسْقَىٰهُ",
+      "translation": "minta air kepadanya",
+      "transliteration": "is'tasqāhu"
+    },
+    {
+      "id": 81809,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_012.mp3",
+      "text": "قَوْمُهُۥٓ",
+      "translation": "kaumnya",
+      "transliteration": "qawmuhu"
+    },
+    {
+      "id": 81810,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_013.mp3",
+      "text": "أَنِ",
+      "translation": "agar",
+      "transliteration": "ani"
+    },
+    {
+      "id": 81811,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_014.mp3",
+      "text": "ٱضْرِب",
+      "translation": "memukul",
+      "transliteration": "iḍ'rib"
+    },
+    {
+      "id": 81812,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_015.mp3",
+      "text": "بِّعَصَاكَ",
+      "translation": "dengan tongkatmu",
+      "transliteration": "biʿaṣāka"
+    },
+    {
+      "id": 81813,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_016.mp3",
+      "text": "ٱلْحَجَرَ ۖ",
+      "translation": "batu itu",
+      "transliteration": "l-ḥajara"
+    },
+    {
+      "id": 81815,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_018.mp3",
+      "text": "فَٱنۢبَجَسَتْ",
+      "translation": "maka memancar",
+      "transliteration": "fa-inbajasat"
+    },
+    {
+      "id": 81816,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_019.mp3",
+      "text": "مِنْهُ",
+      "translation": "dari padanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 81817,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_020.mp3",
+      "text": "ٱثْنَتَا",
+      "translation": "dua",
+      "transliteration": "ith'natā"
+    },
+    {
+      "id": 81818,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_021.mp3",
+      "text": "عَشْرَةَ",
+      "translation": "belas",
+      "transliteration": "ʿashrata"
+    },
+    {
+      "id": 81819,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_022.mp3",
+      "text": "عَيْنًۭا ۖ",
+      "translation": "mata air",
+      "transliteration": "ʿaynan"
+    },
+    {
+      "id": 81821,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_024.mp3",
+      "text": "قَدْ",
+      "translation": "sungguh",
+      "transliteration": "qad"
+    },
+    {
+      "id": 81822,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_025.mp3",
+      "text": "عَلِمَ",
+      "translation": "mengetahui",
+      "transliteration": "ʿalima"
+    },
+    {
+      "id": 81823,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_026.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 81824,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_027.mp3",
+      "text": "أُنَاسٍۢ",
+      "translation": "manusia",
+      "transliteration": "unāsin"
+    },
+    {
+      "id": 81825,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_028.mp3",
+      "text": "مَّشْرَبَهُمْ ۚ",
+      "translation": "tempat minum mereka",
+      "transliteration": "mashrabahum"
+    },
+    {
+      "id": 81827,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_030.mp3",
+      "text": "وَظَلَّلْنَا",
+      "translation": "dan Kami naungkan",
+      "transliteration": "waẓallalnā"
+    },
+    {
+      "id": 81828,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_031.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 81829,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_032.mp3",
+      "text": "ٱلْغَمَـٰمَ",
+      "translation": "awan",
+      "transliteration": "l-ghamāma"
+    },
+    {
+      "id": 81830,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_033.mp3",
+      "text": "وَأَنزَلْنَا",
+      "translation": "dan Kami turunkan",
+      "transliteration": "wa-anzalnā"
+    },
+    {
+      "id": 81831,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_034.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 81832,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_035.mp3",
+      "text": "ٱلْمَنَّ",
+      "translation": "manna (makanan madu sebagai madu)",
+      "transliteration": "l-mana"
+    },
+    {
+      "id": 81833,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_036.mp3",
+      "text": "وَٱلسَّلْوَىٰ ۖ",
+      "translation": "salwa (sebangsa burung puyuh)",
+      "transliteration": "wal-salwā"
+    },
+    {
+      "id": 81835,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_038.mp3",
+      "text": "كُلُوا۟",
+      "translation": "makanlah",
+      "transliteration": "kulū"
+    },
+    {
+      "id": 81836,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_039.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 81837,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_040.mp3",
+      "text": "طَيِّبَـٰتِ",
+      "translation": "yang baik-baik",
+      "transliteration": "ṭayyibāti"
+    },
+    {
+      "id": 81838,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_041.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 81839,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_042.mp3",
+      "text": "رَزَقْنَـٰكُمْ ۚ",
+      "translation": "Kami rezkikan kepadamu",
+      "transliteration": "razaqnākum"
+    },
+    {
+      "id": 81841,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_044.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 81842,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_045.mp3",
+      "text": "ظَلَمُونَا",
+      "translation": "mereka menganiaya Kami",
+      "transliteration": "ẓalamūnā"
+    },
+    {
+      "id": 81843,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_046.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 81844,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_047.mp3",
+      "text": "كَانُوٓا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 81845,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_048.mp3",
+      "text": "أَنفُسَهُمْ",
+      "translation": "diri mereka",
+      "transliteration": "anfusahum"
+    },
+    {
+      "id": 81846,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_160_049.mp3",
+      "text": "يَظْلِمُونَ",
+      "translation": "mereka menganiaya",
+      "transliteration": "yaẓlimūna"
+    },
+    {
+      "id": 81847,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٦٠",
+      "translation": "(160)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka Kami bagi menjadi dua belas suku yang masing-masingnya berjumlah besar dan Kami wahyukan kepada Musa ketika kaumnya meminta air kepadanya, \"Pukullah batu itu dengan tongkatmu!\"  Maka memancarlah darinya dua belas mata air.  Sesungguhnya tiap-tiap suku mengetahui tempat minum masing-masing.  Dan Kami naungkan awan di atas mereka dan Kami turunkan kepada mereka manna dan salwā<sup foot_note_id=\"577\">1</sup>.  (Kami berfirman), \"Makanlah yang baik-baik dari apa yang telah Kami rezekikan kepadamu\".  Mereka tidak menganiaya Kami, tetapi merekalah yang selalu menganiaya dirinya sendiri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3707710,
+    "timestamp_to": 3767690,
+    "duration": 59880,
+    "segments": [
+      [
+        1,
+        3707655,
+        3709575
+      ],
+      [
+        2,
+        3709575,
+        3710225
+      ],
+      [
+        3,
+        3710225,
+        3711285
+      ],
+      [
+        4,
+        3711285,
+        3712515
+      ],
+      [
+        5,
+        3712515,
+        3713845
+      ],
+      [
+        6,
+        3713865,
+        3717124
+      ],
+      [
+        7,
+        3717125,
+        3717705
+      ],
+      [
+        8,
+        3717705,
+        3718545
+      ],
+      [
+        31,
+        3718545,
+        3720345
+      ],
+      [
+        9,
+        3720345,
+        3720745
+      ],
+      [
+        10,
+        3720745,
+        3722055
+      ],
+      [
+        11,
+        3722055,
+        3724435
+      ],
+      [
+        12,
+        3724435,
+        3724785
+      ],
+      [
+        13,
+        3724785,
+        3725315
+      ],
+      [
+        14,
+        3725315,
+        3726565
+      ],
+      [
+        15,
+        3726565,
+        3727325
+      ],
+      [
+        16,
+        3727355,
+        3729905
+      ],
+      [
+        17,
+        3729905,
+        3730505
+      ],
+      [
+        18,
+        3730505,
+        3731435
+      ],
+      [
+        19,
+        3731435,
+        3732285
+      ],
+      [
+        20,
+        3732285,
+        3733715
+      ],
+      [
+        21,
+        3733745,
+        3734075
+      ],
+      [
+        22,
+        3734075,
+        3734795
+      ],
+      [
+        23,
+        3734795,
+        3735505
+      ],
+      [
+        24,
+        3735505,
+        3736435
+      ],
+      [
+        25,
+        3736435,
+        3739255
+      ],
+      [
+        1,
+        3739275,
+        3740325
+      ],
+      [
+        2,
+        3740325,
+        3740825
+      ],
+      [
+        27,
+        3740825,
+        3741925
+      ],
+      [
+        28,
+        3741925,
+        3743035
+      ],
+      [
+        29,
+        3743035,
+        3745335
+      ],
+      [
+        30,
+        3745335,
+        3746395
+      ],
+      [
+        31,
+        3746395,
+        3748255
+      ],
+      [
+        32,
+        3748255,
+        3749635
+      ],
+      [
+        33,
+        3749635,
+        3750685
+      ],
+      [
+        34,
+        3750685,
+        3751475
+      ],
+      [
+        35,
+        3751476,
+        3753355
+      ],
+      [
+        36,
+        3753355,
+        3753765
+      ],
+      [
+        37,
+        3753765,
+        3755655
+      ],
+      [
+        38,
+        3755675,
+        3756205
+      ],
+      [
+        39,
+        3756205,
+        3757635
+      ],
+      [
+        40,
+        3757635,
+        3759615
+      ],
+      [
+        41,
+        3759615,
+        3761955
+      ],
+      [
+        42,
+        3761955,
+        3764055
+      ],
+      [
+        43,
+        3764055,
+        3767510
+      ]
+    ]
+  }
+}

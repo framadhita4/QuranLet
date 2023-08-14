@@ -1,0 +1,99 @@
+{
+  "id": 2372,
+  "chapter_id": 20,
+  "verse_key": "20:24",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 26820,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_024_001.mp3",
+      "text": "ٱذْهَبْ",
+      "translation": "pergilah kamu",
+      "transliteration": "idh'hab"
+    },
+    {
+      "id": 26821,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_024_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada Fir'aun",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 26822,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_024_003.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 26823,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_024_004.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 26824,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_024_005.mp3",
+      "text": "طَغَىٰ",
+      "translation": "durhaka/melampaui batas",
+      "transliteration": "ṭaghā"
+    },
+    {
+      "id": 26825,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pergilah kepada Firʻawn ; sesungguhnya ia telah melampaui batas\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 209480,
+    "timestamp_to": 215100,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        209455,
+        210455
+      ],
+      [
+        2,
+        210455,
+        211005
+      ],
+      [
+        3,
+        211005,
+        212055
+      ],
+      [
+        4,
+        212055,
+        213855
+      ],
+      [
+        5,
+        213855,
+        215050
+      ]
+    ]
+  }
+}

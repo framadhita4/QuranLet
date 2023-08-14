@@ -1,0 +1,73 @@
+{
+  "id": 3882,
+  "chapter_id": 37,
+  "verse_key": "37:94",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 69660,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_094_001.mp3",
+      "text": "فَأَقْبَلُوٓا۟",
+      "translation": "maka/kemudian mereka menghadap/datang",
+      "transliteration": "fa-aqbalū"
+    },
+    {
+      "id": 69661,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_094_002.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepadanya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 69662,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_094_003.mp3",
+      "text": "يَزِفُّونَ",
+      "translation": "mereka bergegas",
+      "transliteration": "yaziffūna"
+    },
+    {
+      "id": 69663,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, kaumnya datang kepadanya dengan bergegas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 765570,
+    "timestamp_to": 772680,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        765505,
+        768285
+      ],
+      [
+        2,
+        768285,
+        769045
+      ],
+      [
+        3,
+        769045,
+        772540
+      ]
+    ]
+  }
+}

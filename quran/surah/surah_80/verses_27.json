@@ -1,0 +1,73 @@
+{
+  "id": 5785,
+  "chapter_id": 80,
+  "verse_key": "80:27",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 29994,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_027_001.mp3",
+      "text": "فَأَنۢبَتْنَا",
+      "translation": "lalu Kami tumbuhkan",
+      "transliteration": "fa-anbatnā"
+    },
+    {
+      "id": 29995,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_027_002.mp3",
+      "text": "فِيهَا",
+      "translation": "padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 29996,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_027_003.mp3",
+      "text": "حَبًّۭا",
+      "translation": "biji-bijian",
+      "transliteration": "ḥabban"
+    },
+    {
+      "id": 29997,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu Kami tumbuhkan biji-bijian di bumi itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 119130,
+    "timestamp_to": 123780,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        119105,
+        121395
+      ],
+      [
+        2,
+        121395,
+        122295
+      ],
+      [
+        3,
+        122295,
+        123350
+      ]
+    ]
+  }
+}

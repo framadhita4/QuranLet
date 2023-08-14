@@ -1,0 +1,73 @@
+{
+  "id": 3127,
+  "chapter_id": 26,
+  "verse_key": "26:195",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84961,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_195_001.mp3",
+      "text": "بِلِسَانٍ",
+      "translation": "dengan lisan/bahasa",
+      "transliteration": "bilisānin"
+    },
+    {
+      "id": 84962,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_195_002.mp3",
+      "text": "عَرَبِىٍّۢ",
+      "translation": "Arab",
+      "transliteration": "ʿarabiyyin"
+    },
+    {
+      "id": 84963,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_195_003.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 84964,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٩٥",
+      "translation": "(195)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dengan bahasa Arab yang jelas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1700500,
+    "timestamp_to": 1706930,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        1700475,
+        1701785
+      ],
+      [
+        2,
+        1701785,
+        1703105
+      ],
+      [
+        3,
+        1703105,
+        1706860
+      ]
+    ]
+  }
+}

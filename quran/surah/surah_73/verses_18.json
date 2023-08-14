@@ -1,0 +1,112 @@
+{
+  "id": 5493,
+  "chapter_id": 73,
+  "verse_key": "73:18",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 21122,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_018_001.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "al-samāu"
+    },
+    {
+      "id": 21123,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_018_002.mp3",
+      "text": "مُنفَطِرٌۢ",
+      "translation": "terbelah",
+      "transliteration": "munfaṭirun"
+    },
+    {
+      "id": 21124,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_018_003.mp3",
+      "text": "بِهِۦ ۚ",
+      "translation": "karenanya/hari itu",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 21126,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_018_005.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 21127,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_018_006.mp3",
+      "text": "وَعْدُهُۥ",
+      "translation": "janji-Nya",
+      "transliteration": "waʿduhu"
+    },
+    {
+      "id": 21128,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_018_007.mp3",
+      "text": "مَفْعُولًا",
+      "translation": "terlaksana",
+      "transliteration": "mafʿūlan"
+    },
+    {
+      "id": 21129,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Langit (pun) menjadi pecah belah pada hari itu karena Allah.  Adalah janji-Nya itu pasti terlaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 128620,
+    "timestamp_to": 138390,
+    "duration": 9770,
+    "segments": [
+      [
+        1,
+        128045,
+        130904
+      ],
+      [
+        2,
+        130905,
+        133515
+      ],
+      [
+        3,
+        133515,
+        134525
+      ],
+      [
+        4,
+        134525,
+        135135
+      ],
+      [
+        5,
+        135135,
+        136045
+      ],
+      [
+        6,
+        136045,
+        137780
+      ]
+    ]
+  }
+}

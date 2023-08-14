@@ -1,0 +1,86 @@
+{
+  "id": 2338,
+  "chapter_id": 19,
+  "verse_key": "19:88",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 67156,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_088_001.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan mereka berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 67157,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_088_002.mp3",
+      "text": "ٱتَّخَذَ",
+      "translation": "telah mengambil",
+      "transliteration": "ittakhadha"
+    },
+    {
+      "id": 67158,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_088_003.mp3",
+      "text": "ٱلرَّحْمَـٰنُ",
+      "translation": "Yang Maha Pengasih",
+      "transliteration": "l-raḥmānu"
+    },
+    {
+      "id": 67159,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_088_004.mp3",
+      "text": "وَلَدًۭا",
+      "translation": "anak",
+      "transliteration": "waladan"
+    },
+    {
+      "id": 67160,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨٨",
+      "translation": "(88)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka berkata, \"Tuhan Yang Maha Pemurah mengambil (mempunyai) anak\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1177590,
+    "timestamp_to": 1182210,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        1177545,
+        1178555
+      ],
+      [
+        2,
+        1178555,
+        1179455
+      ],
+      [
+        3,
+        1179455,
+        1180965
+      ],
+      [
+        4,
+        1180965,
+        1181940
+      ]
+    ]
+  }
+}

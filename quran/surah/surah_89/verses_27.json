@@ -1,0 +1,73 @@
+{
+  "id": 6020,
+  "chapter_id": 89,
+  "verse_key": "89:27",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 29759,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_027_001.mp3",
+      "text": "يَـٰٓأَيَّتُهَا",
+      "translation": "hai",
+      "transliteration": "yāayyatuhā"
+    },
+    {
+      "id": 29760,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_027_002.mp3",
+      "text": "ٱلنَّفْسُ",
+      "translation": "jiwa/diri",
+      "transliteration": "l-nafsu"
+    },
+    {
+      "id": 29761,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_027_003.mp3",
+      "text": "ٱلْمُطْمَئِنَّةُ",
+      "translation": "tenang",
+      "transliteration": "l-muṭ'ma-inatu"
+    },
+    {
+      "id": 29762,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai jiwa yang tenang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 171690,
+    "timestamp_to": 179790,
+    "duration": 8100,
+    "segments": [
+      [
+        1,
+        171625,
+        174675
+      ],
+      [
+        2,
+        174675,
+        176385
+      ],
+      [
+        3,
+        176385,
+        179320
+      ]
+    ]
+  }
+}

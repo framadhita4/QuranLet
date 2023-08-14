@@ -1,0 +1,99 @@
+{
+  "id": 4786,
+  "chapter_id": 53,
+  "verse_key": "53:2",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 1162,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_002_001.mp3",
+      "text": "مَا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1163,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_002_002.mp3",
+      "text": "ضَلَّ",
+      "translation": "sesat",
+      "transliteration": "ḍalla"
+    },
+    {
+      "id": 1164,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_002_003.mp3",
+      "text": "صَاحِبُكُمْ",
+      "translation": "kawanmu",
+      "transliteration": "ṣāḥibukum"
+    },
+    {
+      "id": 1165,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_002_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 1166,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_002_005.mp3",
+      "text": "غَوَىٰ",
+      "translation": "keliru/sesat",
+      "transliteration": "ghawā"
+    },
+    {
+      "id": 1167,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kawanmu (Muhammad) tidak sesat dan tidak pula keliru,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4410,
+    "timestamp_to": 9060,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        3845,
+        4265
+      ],
+      [
+        2,
+        4265,
+        5015
+      ],
+      [
+        3,
+        5015,
+        6445
+      ],
+      [
+        4,
+        6445,
+        7165
+      ],
+      [
+        5,
+        7165,
+        7970
+      ]
+    ]
+  }
+}

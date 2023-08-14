@@ -1,0 +1,73 @@
+{
+  "id": 5778,
+  "chapter_id": 80,
+  "verse_key": "80:20",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 22937,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_020_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 22938,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_020_002.mp3",
+      "text": "ٱلسَّبِيلَ",
+      "translation": "jalan",
+      "transliteration": "l-sabīla"
+    },
+    {
+      "id": 22939,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_020_003.mp3",
+      "text": "يَسَّرَهُۥ",
+      "translation": "Dia memudahkannya",
+      "transliteration": "yassarahu"
+    },
+    {
+      "id": 22940,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian Dia memudahkan jalannya<sup foot_note_id=\"1559\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80070,
+    "timestamp_to": 84220,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        80015,
+        81365
+      ],
+      [
+        2,
+        81365,
+        82545
+      ],
+      [
+        3,
+        82545,
+        84070
+      ]
+    ]
+  }
+}

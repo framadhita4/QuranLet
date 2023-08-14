@@ -1,0 +1,125 @@
+{
+  "id": 2355,
+  "chapter_id": 20,
+  "verse_key": "20:7",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "وَإِن تَجْهَرْ بِٱلْقَوْلِ فَإِنَّهُۥ يَعْلَمُ ٱلسِّرَّ وَأَخْفَى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 7450,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 7451,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_002.mp3",
+      "text": "تَجْهَرْ",
+      "translation": "kamu mengeraskan",
+      "transliteration": "tajhar"
+    },
+    {
+      "id": 7452,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_003.mp3",
+      "text": "بِٱلْقَوْلِ",
+      "translation": "dengan perkataan",
+      "transliteration": "bil-qawli"
+    },
+    {
+      "id": 7453,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_004.mp3",
+      "text": "فَإِنَّهُۥ",
+      "translation": "maka sesungguhnya Dia",
+      "transliteration": "fa-innahu"
+    },
+    {
+      "id": 7454,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_005.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 7455,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_006.mp3",
+      "text": "ٱلسِّرَّ",
+      "translation": "rahasia",
+      "transliteration": "l-sira"
+    },
+    {
+      "id": 7456,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_007_007.mp3",
+      "text": "وَأَخْفَى",
+      "translation": "dan yang tersembunyi",
+      "transliteration": "wa-akhfā"
+    },
+    {
+      "id": 7457,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika kamu mengeraskan ucapanmu, maka sesungguhnya Dia mengetahui rahasia dan yang lebih tersembunyi <sup foot_note_id=\"913\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39490,
+    "timestamp_to": 48060,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        39465,
+        40375
+      ],
+      [
+        2,
+        40375,
+        41815
+      ],
+      [
+        3,
+        41815,
+        42875
+      ],
+      [
+        4,
+        42875,
+        44605
+      ],
+      [
+        5,
+        44605,
+        45565
+      ],
+      [
+        6,
+        45565,
+        46605
+      ],
+      [
+        7,
+        46605,
+        47720
+      ]
+    ]
+  }
+}

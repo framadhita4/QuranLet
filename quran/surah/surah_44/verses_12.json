@@ -1,0 +1,112 @@
+{
+  "id": 4426,
+  "chapter_id": 44,
+  "verse_key": "44:12",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 13603,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_012_001.mp3",
+      "text": "رَّبَّنَا",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 13604,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_012_002.mp3",
+      "text": "ٱكْشِفْ",
+      "translation": "hilangkanlah",
+      "transliteration": "ik'shif"
+    },
+    {
+      "id": 13605,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_012_003.mp3",
+      "text": "عَنَّا",
+      "translation": "dari kami",
+      "transliteration": "ʿannā"
+    },
+    {
+      "id": 13606,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_012_004.mp3",
+      "text": "ٱلْعَذَابَ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhāba"
+    },
+    {
+      "id": 13607,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_012_005.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 13608,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_012_006.mp3",
+      "text": "مُؤْمِنُونَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minūna"
+    },
+    {
+      "id": 13609,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Mereka berdoa), \"Ya Tuhan kami, lenyapkanlah dari kami azab itu.  Sesungguhnya kami akan beriman.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 107220,
+    "timestamp_to": 115870,
+    "duration": 8650,
+    "segments": [
+      [
+        1,
+        107185,
+        108005
+      ],
+      [
+        2,
+        108005,
+        108675
+      ],
+      [
+        3,
+        108675,
+        109965
+      ],
+      [
+        4,
+        109965,
+        111115
+      ],
+      [
+        5,
+        111115,
+        112795
+      ],
+      [
+        6,
+        112795,
+        115780
+      ]
+    ]
+  }
+}

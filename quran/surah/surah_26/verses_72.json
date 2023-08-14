@@ -1,0 +1,99 @@
+{
+  "id": 3004,
+  "chapter_id": 26,
+  "verse_key": "26:72",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 60690,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 60691,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_002.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 60692,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_003.mp3",
+      "text": "يَسْمَعُونَكُمْ",
+      "translation": "mereka mendengarkan kamu",
+      "transliteration": "yasmaʿūnakum"
+    },
+    {
+      "id": 60693,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_004.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 60694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_005.mp3",
+      "text": "تَدْعُونَ",
+      "translation": "kamu menyeru",
+      "transliteration": "tadʿūna"
+    },
+    {
+      "id": 60695,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Ibrāhīm, \"Apakah berhala-berhala itu mendengar (doa)mu sewaktu kamu berdoa (kepadanya)?,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 715110,
+    "timestamp_to": 721330,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        715045,
+        715715
+      ],
+      [
+        2,
+        715715,
+        716135
+      ],
+      [
+        3,
+        716135,
+        717925
+      ],
+      [
+        4,
+        717925,
+        718245
+      ],
+      [
+        5,
+        718245,
+        721200
+      ]
+    ]
+  }
+}

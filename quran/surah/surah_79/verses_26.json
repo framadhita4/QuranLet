@@ -1,0 +1,122 @@
+{
+  "id": 5738,
+  "chapter_id": 79,
+  "verse_key": "79:26",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 29100,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_026_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 29101,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_026_002.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 29102,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_026_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 29103,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_026_004.mp3",
+      "text": "لَعِبْرَةًۭ",
+      "translation": "benar-benar pelajaran",
+      "transliteration": "laʿib'ratan"
+    },
+    {
+      "id": 29104,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_026_005.mp3",
+      "text": "لِّمَن",
+      "translation": "bagi orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 29105,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_026_006.mp3",
+      "text": "يَخْشَىٰٓ",
+      "translation": "takut",
+      "transliteration": "yakhshā"
+    },
+    {
+      "id": 29106,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada yang demikian itu terdapat pelajaran bagi orang yang takut (kepada Tuhan-nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 111680,
+    "timestamp_to": 118500,
+    "duration": 6820,
+    "segments": [
+      [
+        1,
+        111205,
+        112375
+      ],
+      [
+        2,
+        112375,
+        112875
+      ],
+      [
+        3,
+        112875,
+        113735
+      ],
+      [
+        4,
+        113735,
+        114775
+      ],
+      [
+        5,
+        114775,
+        115455
+      ],
+      [
+        1,
+        115455,
+        116235
+      ],
+      [
+        2,
+        116235,
+        116535
+      ],
+      [
+        6,
+        116535,
+        117520
+      ]
+    ]
+  }
+}

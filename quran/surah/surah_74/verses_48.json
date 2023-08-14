@@ -1,0 +1,86 @@
+{
+  "id": 5543,
+  "chapter_id": 74,
+  "verse_key": "74:48",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَمَا تَنفَعُهُمْ شَفَـٰعَةُ ٱلشَّـٰفِعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 47377,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_048_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 47378,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_048_002.mp3",
+      "text": "تَنفَعُهُمْ",
+      "translation": "berguna kepada mereka",
+      "transliteration": "tanfaʿuhum"
+    },
+    {
+      "id": 47379,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_048_003.mp3",
+      "text": "شَفَـٰعَةُ",
+      "translation": "pertolongan/syafaat",
+      "transliteration": "shafāʿatu"
+    },
+    {
+      "id": 47380,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_048_004.mp3",
+      "text": "ٱلشَّـٰفِعِينَ",
+      "translation": "orang-orang yang memberi pertolongan/syafaat",
+      "transliteration": "l-shāfiʿīna"
+    },
+    {
+      "id": 47381,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tidak berguna lagi bagi mereka syafaat dari orang-orang yang memberikan syafaat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 258560,
+    "timestamp_to": 265460,
+    "duration": 6900,
+    "segments": [
+      [
+        1,
+        258505,
+        259065
+      ],
+      [
+        2,
+        259065,
+        261005
+      ],
+      [
+        3,
+        261005,
+        262085
+      ],
+      [
+        4,
+        262085,
+        265330
+      ]
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": 459,
+  "chapter_id": 3,
+  "verse_key": "3:166",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "ruku_number": 58,
+  "manzil_number": 1,
+  "page_number": 72,
+  "juz_number": 4,
+  "text_uthmani": "وَمَآ أَصَـٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 82453,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 82454,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_002.mp3",
+      "text": "أَصَـٰبَكُمْ",
+      "translation": "menimpa kamu",
+      "transliteration": "aṣābakum"
+    },
+    {
+      "id": 82455,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_003.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 82456,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_004.mp3",
+      "text": "ٱلْتَقَى",
+      "translation": "bertemu",
+      "transliteration": "l-taqā"
+    },
+    {
+      "id": 82457,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_005.mp3",
+      "text": "ٱلْجَمْعَانِ",
+      "translation": "dua golongan/pasukan",
+      "transliteration": "l-jamʿāni"
+    },
+    {
+      "id": 82458,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_006.mp3",
+      "text": "فَبِإِذْنِ",
+      "translation": "maka dengan izin",
+      "transliteration": "fabi-idh'ni"
+    },
+    {
+      "id": 82459,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_007.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82460,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_008.mp3",
+      "text": "وَلِيَعْلَمَ",
+      "translation": "dan karena Dia hendak mengetahui",
+      "transliteration": "waliyaʿlama"
+    },
+    {
+      "id": 82461,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_166_009.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 82462,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٦٦",
+      "translation": "(166)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apa yang menimpa kamu pada hari bertemunya dua pasukan, maka (kekalahan) itu adalah dengan izin (takdir) Allah, dan agar Allah mengetahui siapa orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3884600,
+    "timestamp_to": 3901190,
+    "duration": 16590,
+    "segments": [
+      [
+        1,
+        3884545,
+        3886885
+      ],
+      [
+        2,
+        3886885,
+        3888255
+      ],
+      [
+        3,
+        3888255,
+        3888845
+      ],
+      [
+        4,
+        3888845,
+        3889525
+      ],
+      [
+        5,
+        3889525,
+        3890885
+      ],
+      [
+        6,
+        3890885,
+        3891955
+      ],
+      [
+        7,
+        3891955,
+        3894615
+      ],
+      [
+        6,
+        3894615,
+        3895725
+      ],
+      [
+        7,
+        3895725,
+        3896625
+      ],
+      [
+        8,
+        3896625,
+        3897855
+      ],
+      [
+        9,
+        3897855,
+        3901070
+      ]
+    ]
+  }
+}

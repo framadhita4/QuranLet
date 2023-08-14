@@ -1,0 +1,86 @@
+{
+  "id": 4723,
+  "chapter_id": 51,
+  "verse_key": "51:48",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلْأَرْضَ فَرَشْنَـٰهَا فَنِعْمَ ٱلْمَـٰهِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 47227,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_001.mp3",
+      "text": "وَٱلْأَرْضَ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 47228,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_002.mp3",
+      "text": "فَرَشْنَـٰهَا",
+      "translation": "Kami hamparkannya",
+      "transliteration": "farashnāhā"
+    },
+    {
+      "id": 47229,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_003.mp3",
+      "text": "فَنِعْمَ",
+      "translation": "maka sebaik-baik",
+      "transliteration": "faniʿ'ma"
+    },
+    {
+      "id": 47230,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_004.mp3",
+      "text": "ٱلْمَـٰهِدُونَ",
+      "translation": "yang menghamparkan",
+      "transliteration": "l-māhidūna"
+    },
+    {
+      "id": 47231,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bumi itu Kami hamparkan; maka sebaik-baik yang menghamparkan (adalah Kami).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 402800,
+    "timestamp_to": 409880,
+    "duration": 7080,
+    "segments": [
+      [
+        1,
+        402735,
+        403905
+      ],
+      [
+        2,
+        403905,
+        405465
+      ],
+      [
+        3,
+        405465,
+        406305
+      ],
+      [
+        4,
+        406305,
+        409760
+      ]
+    ]
+  }
+}

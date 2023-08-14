@@ -1,0 +1,112 @@
+{
+  "id": 1569,
+  "chapter_id": 11,
+  "verse_key": "11:96",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 232,
+  "juz_number": 12,
+  "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 70200,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_096_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 70201,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_096_002.mp3",
+      "text": "أَرْسَلْنَا",
+      "translation": "Kami telah mengutus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 70202,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_096_003.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 70203,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_096_004.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "dengan ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 70204,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_096_005.mp3",
+      "text": "وَسُلْطَـٰنٍۢ",
+      "translation": "dan kekuasaan/keterangan",
+      "transliteration": "wasul'ṭānin"
+    },
+    {
+      "id": 70205,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_096_006.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 70206,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah mengutus Musa dengan tanda-tanda (kekuasaan) Kami dan mukjizat yang nyata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2254390,
+    "timestamp_to": 2264260,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        2254365,
+        2255175
+      ],
+      [
+        2,
+        2255175,
+        2256525
+      ],
+      [
+        3,
+        2256525,
+        2257395
+      ],
+      [
+        4,
+        2257395,
+        2259115
+      ],
+      [
+        5,
+        2259115,
+        2260385
+      ],
+      [
+        6,
+        2260385,
+        2264190
+      ]
+    ]
+  }
+}

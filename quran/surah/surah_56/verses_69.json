@@ -1,0 +1,125 @@
+{
+  "id": 5048,
+  "chapter_id": 56,
+  "verse_key": "56:69",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 59031,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_001.mp3",
+      "text": "ءَأَنتُمْ",
+      "translation": "apakah kamu",
+      "transliteration": "a-antum"
+    },
+    {
+      "id": 59032,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_002.mp3",
+      "text": "أَنزَلْتُمُوهُ",
+      "translation": "kamu menurunkannya",
+      "transliteration": "anzaltumūhu"
+    },
+    {
+      "id": 59033,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 59034,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_004.mp3",
+      "text": "ٱلْمُزْنِ",
+      "translation": "mendung/awan",
+      "transliteration": "l-muz'ni"
+    },
+    {
+      "id": 59035,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_005.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 59036,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_006.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 59037,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_069_007.mp3",
+      "text": "ٱلْمُنزِلُونَ",
+      "translation": "yang menurunkan",
+      "transliteration": "l-munzilūna"
+    },
+    {
+      "id": 59038,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamukah yang menurunkannya dari awan atau Kami-kah yang menurunkannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 484740,
+    "timestamp_to": 496780,
+    "duration": 12040,
+    "segments": [
+      [
+        1,
+        484665,
+        486635
+      ],
+      [
+        2,
+        486635,
+        489295
+      ],
+      [
+        3,
+        489295,
+        489655
+      ],
+      [
+        4,
+        489655,
+        490695
+      ],
+      [
+        5,
+        490695,
+        491165
+      ],
+      [
+        6,
+        491165,
+        491815
+      ],
+      [
+        7,
+        491815,
+        496630
+      ]
+    ]
+  }
+}

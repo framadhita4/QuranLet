@@ -1,0 +1,73 @@
+{
+  "id": 5944,
+  "chapter_id": 86,
+  "verse_key": "86:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 15402,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_013_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia (Al Qur'an)",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 15403,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_013_002.mp3",
+      "text": "لَقَوْلٌۭ",
+      "translation": "perkataan/firman",
+      "transliteration": "laqawlun"
+    },
+    {
+      "id": 15404,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_013_003.mp3",
+      "text": "فَصْلٌۭ",
+      "translation": "terpisah",
+      "transliteration": "faṣlun"
+    },
+    {
+      "id": 15405,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya Al-Qur`ān itu benar-benar firman yang memisahkan antara yang hak dan yang batil,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65920,
+    "timestamp_to": 70700,
+    "duration": 4780,
+    "segments": [
+      [
+        1,
+        65865,
+        67685
+      ],
+      [
+        2,
+        67685,
+        69585
+      ],
+      [
+        3,
+        69585,
+        70520
+      ]
+    ]
+  }
+}

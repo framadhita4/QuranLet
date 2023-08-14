@@ -1,0 +1,73 @@
+{
+  "id": 4963,
+  "chapter_id": 55,
+  "verse_key": "55:62",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "وَمِن دُونِهِمَا جَنَّتَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 55719,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_062_001.mp3",
+      "text": "وَمِن",
+      "translation": "dan dari",
+      "transliteration": "wamin"
+    },
+    {
+      "id": 55720,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_062_002.mp3",
+      "text": "دُونِهِمَا",
+      "translation": "selain keduanya",
+      "transliteration": "dūnihimā"
+    },
+    {
+      "id": 55721,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_062_003.mp3",
+      "text": "جَنَّتَانِ",
+      "translation": "dua surga",
+      "transliteration": "jannatāni"
+    },
+    {
+      "id": 55722,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan selain dari dua surga itu ada dua surga lagi<sup foot_note_id=\"1448\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 543170,
+    "timestamp_to": 550120,
+    "duration": 6950,
+    "segments": [
+      [
+        1,
+        543125,
+        544505
+      ],
+      [
+        2,
+        544505,
+        545895
+      ],
+      [
+        3,
+        545895,
+        550030
+      ]
+    ]
+  }
+}

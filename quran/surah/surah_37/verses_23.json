@@ -1,0 +1,125 @@
+{
+  "id": 3811,
+  "chapter_id": 37,
+  "verse_key": "37:23",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 26403,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 26404,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_002.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 26405,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 26406,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_004.mp3",
+      "text": "فَٱهْدُوهُمْ",
+      "translation": "maka tunjukkan mereka",
+      "transliteration": "fa-ih'dūhum"
+    },
+    {
+      "id": 26407,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_005.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 26408,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_006.mp3",
+      "text": "صِرَٰطِ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭi"
+    },
+    {
+      "id": 26409,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_023_007.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "jahim/naraka",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 26410,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "selain Allah, maka tunjukkanlah kepada mereka jalan ke neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 175350,
+    "timestamp_to": 184780,
+    "duration": 9430,
+    "segments": [
+      [
+        1,
+        175285,
+        176065
+      ],
+      [
+        2,
+        176065,
+        177385
+      ],
+      [
+        3,
+        177385,
+        178215
+      ],
+      [
+        4,
+        178215,
+        179515
+      ],
+      [
+        5,
+        179515,
+        180045
+      ],
+      [
+        6,
+        180045,
+        180975
+      ],
+      [
+        7,
+        180975,
+        184630
+      ]
+    ]
+  }
+}

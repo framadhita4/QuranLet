@@ -1,0 +1,164 @@
+{
+  "id": 2518,
+  "chapter_id": 21,
+  "verse_key": "21:35",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 280,
+  "manzil_number": 4,
+  "page_number": 324,
+  "juz_number": 17,
+  "text_uthmani": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 36920,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_001.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 36921,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_002.mp3",
+      "text": "نَفْسٍۢ",
+      "translation": "jiwa",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 36922,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_003.mp3",
+      "text": "ذَآئِقَةُ",
+      "translation": "merasakan",
+      "transliteration": "dhāiqatu"
+    },
+    {
+      "id": 36923,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_004.mp3",
+      "text": "ٱلْمَوْتِ ۗ",
+      "translation": "mati",
+      "transliteration": "l-mawti"
+    },
+    {
+      "id": 36925,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_006.mp3",
+      "text": "وَنَبْلُوكُم",
+      "translation": "dan Kami menguji kamu",
+      "transliteration": "wanablūkum"
+    },
+    {
+      "id": 36926,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_007.mp3",
+      "text": "بِٱلشَّرِّ",
+      "translation": "dengan keburukan",
+      "transliteration": "bil-shari"
+    },
+    {
+      "id": 36927,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_008.mp3",
+      "text": "وَٱلْخَيْرِ",
+      "translation": "dan kebaikan",
+      "transliteration": "wal-khayri"
+    },
+    {
+      "id": 36928,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_009.mp3",
+      "text": "فِتْنَةًۭ ۖ",
+      "translation": "cobaan/fitnah",
+      "transliteration": "fit'natan"
+    },
+    {
+      "id": 36930,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_011.mp3",
+      "text": "وَإِلَيْنَا",
+      "translation": "dan kepada Kami",
+      "transliteration": "wa-ilaynā"
+    },
+    {
+      "id": 36931,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_035_012.mp3",
+      "text": "تُرْجَعُونَ",
+      "translation": "kalian dikembalikan",
+      "transliteration": "tur'jaʿūna"
+    },
+    {
+      "id": 36932,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiap-tiap yang berjiwa akan merasakan mati.  Kami akan menguji kamu dengan keburukan dan kebaikan sebagai cobaan (yang sebenar-benarnya).  Dan hanya kepada Kamilah kamu dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 454780,
+    "timestamp_to": 472830,
+    "duration": 18050,
+    "segments": [
+      [
+        1,
+        454725,
+        455415
+      ],
+      [
+        2,
+        455415,
+        456875
+      ],
+      [
+        3,
+        456875,
+        460115
+      ],
+      [
+        4,
+        460115,
+        462545
+      ],
+      [
+        5,
+        462545,
+        464485
+      ],
+      [
+        6,
+        464485,
+        465595
+      ],
+      [
+        7,
+        465595,
+        466505
+      ],
+      [
+        8,
+        466505,
+        467505
+      ],
+      [
+        9,
+        467505,
+        469425
+      ],
+      [
+        10,
+        469425,
+        472720
+      ]
+    ]
+  }
+}

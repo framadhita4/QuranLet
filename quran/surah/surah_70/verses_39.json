@@ -1,0 +1,99 @@
+{
+  "id": 5414,
+  "chapter_id": 70,
+  "verse_key": "70:39",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 505,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 40725,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_039_001.mp3",
+      "text": "كَلَّآ ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 40727,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_039_003.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 40728,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_039_004.mp3",
+      "text": "خَلَقْنَـٰهُم",
+      "translation": "Kami ciptakan mereka",
+      "transliteration": "khalaqnāhum"
+    },
+    {
+      "id": 40729,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_039_005.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 40730,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_039_006.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka ketahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 40731,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak! Sesungguhnya Kami ciptakan mereka dari apa yang mereka ketahui (air mani).<sup foot_note_id=\"1516\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 245390,
+    "timestamp_to": 255260,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        245315,
+        246285
+      ],
+      [
+        2,
+        246285,
+        248485
+      ],
+      [
+        3,
+        248485,
+        249805
+      ],
+      [
+        4,
+        249805,
+        251865
+      ],
+      [
+        5,
+        251865,
+        255100
+      ]
+    ]
+  }
+}

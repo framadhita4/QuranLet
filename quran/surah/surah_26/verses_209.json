@@ -1,0 +1,86 @@
+{
+  "id": 3141,
+  "chapter_id": 26,
+  "verse_key": "26:209",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "ذِكْرَىٰ وَمَا كُنَّا ظَـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85605,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_209_001.mp3",
+      "text": "ذِكْرَىٰ",
+      "translation": "peringatan",
+      "transliteration": "dhik'rā"
+    },
+    {
+      "id": 85606,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_209_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 85607,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_209_003.mp3",
+      "text": "كُنَّا",
+      "translation": "kami adalah",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 85608,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_209_004.mp3",
+      "text": "ظَـٰلِمِينَ",
+      "translation": "yang berbuat zalim",
+      "transliteration": "ẓālimīna"
+    },
+    {
+      "id": 85609,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٠٩",
+      "translation": "(209)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk menjadi peringatan.  Dan Kami sekali-kali tidak berlaku zalim.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1811230,
+    "timestamp_to": 1817370,
+    "duration": 6140,
+    "segments": [
+      [
+        1,
+        1811195,
+        1812125
+      ],
+      [
+        2,
+        1812125,
+        1812735
+      ],
+      [
+        3,
+        1812735,
+        1814255
+      ],
+      [
+        4,
+        1814255,
+        1817290
+      ]
+    ]
+  }
+}

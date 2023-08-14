@@ -1,0 +1,138 @@
+{
+  "id": 3734,
+  "chapter_id": 36,
+  "verse_key": "36:29",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 442,
+  "juz_number": 23,
+  "text_uthmani": "إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَـٰمِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 32334,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_001.mp3",
+      "text": "إِن",
+      "translation": "tidak",
+      "transliteration": "in"
+    },
+    {
+      "id": 32335,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_002.mp3",
+      "text": "كَانَتْ",
+      "translation": "ada",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 32336,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 32337,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_004.mp3",
+      "text": "صَيْحَةًۭ",
+      "translation": "suara keras",
+      "transliteration": "ṣayḥatan"
+    },
+    {
+      "id": 32338,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_005.mp3",
+      "text": "وَٰحِدَةًۭ",
+      "translation": "satu kali",
+      "transliteration": "wāḥidatan"
+    },
+    {
+      "id": 32339,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_006.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 32340,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_007.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 32341,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_029_008.mp3",
+      "text": "خَـٰمِدُونَ",
+      "translation": "mereka padam/mati",
+      "transliteration": "khāmidūna"
+    },
+    {
+      "id": 32342,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada siksaan atas mereka, melainkan satu teriakan suara saja, maka tiba-tiba mereka semuanya mati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 351840,
+    "timestamp_to": 363750,
+    "duration": 11910,
+    "segments": [
+      [
+        1,
+        351775,
+        352995
+      ],
+      [
+        2,
+        352995,
+        353855
+      ],
+      [
+        3,
+        353855,
+        354645
+      ],
+      [
+        4,
+        354645,
+        356585
+      ],
+      [
+        5,
+        356585,
+        358635
+      ],
+      [
+        6,
+        358635,
+        359605
+      ],
+      [
+        7,
+        359605,
+        359985
+      ],
+      [
+        8,
+        359985,
+        363610
+      ]
+    ]
+  }
+}

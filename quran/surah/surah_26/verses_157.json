@@ -1,0 +1,73 @@
+{
+  "id": 3089,
+  "chapter_id": 26,
+  "verse_key": "26:157",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "فَعَقَرُوهَا فَأَصْبَحُوا۟ نَـٰدِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 81388,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_157_001.mp3",
+      "text": "فَعَقَرُوهَا",
+      "translation": "lalu mereka melukai/membunuhnya",
+      "transliteration": "faʿaqarūhā"
+    },
+    {
+      "id": 81389,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_157_002.mp3",
+      "text": "فَأَصْبَحُوا۟",
+      "translation": "maka jadilah mereka",
+      "transliteration": "fa-aṣbaḥū"
+    },
+    {
+      "id": 81390,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_157_003.mp3",
+      "text": "نَـٰدِمِينَ",
+      "translation": "orang-orang yang menyesal",
+      "transliteration": "nādimīna"
+    },
+    {
+      "id": 81391,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥٧",
+      "translation": "(157)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, mereka membunuhnya, lalu mereka menjadi menyesal,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1371270,
+    "timestamp_to": 1377230,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        1371245,
+        1372765
+      ],
+      [
+        2,
+        1372765,
+        1374105
+      ],
+      [
+        3,
+        1374105,
+        1377180
+      ]
+    ]
+  }
+}

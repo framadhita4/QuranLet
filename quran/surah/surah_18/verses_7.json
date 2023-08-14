@@ -1,0 +1,177 @@
+{
+  "id": 2147,
+  "chapter_id": 18,
+  "verse_key": "18:7",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 252,
+  "manzil_number": 4,
+  "page_number": 294,
+  "juz_number": 15,
+  "text_uthmani": "إِنَّا جَعَلْنَا مَا عَلَى ٱلْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 7301,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 7302,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_002.mp3",
+      "text": "جَعَلْنَا",
+      "translation": "Kami telah menjadikan",
+      "transliteration": "jaʿalnā"
+    },
+    {
+      "id": 7303,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 7304,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_004.mp3",
+      "text": "عَلَى",
+      "translation": "diatas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 7305,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_005.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 7306,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_006.mp3",
+      "text": "زِينَةًۭ",
+      "translation": "perhiasan",
+      "transliteration": "zīnatan"
+    },
+    {
+      "id": 7307,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_007.mp3",
+      "text": "لَّهَا",
+      "translation": "baginya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 7308,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_008.mp3",
+      "text": "لِنَبْلُوَهُمْ",
+      "translation": "Kami hendak menguji mereka",
+      "transliteration": "linabluwahum"
+    },
+    {
+      "id": 7309,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_009.mp3",
+      "text": "أَيُّهُمْ",
+      "translation": "siapa diantara mereka",
+      "transliteration": "ayyuhum"
+    },
+    {
+      "id": 7310,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_010.mp3",
+      "text": "أَحْسَنُ",
+      "translation": "lebih baik",
+      "transliteration": "aḥsanu"
+    },
+    {
+      "id": 7311,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_007_011.mp3",
+      "text": "عَمَلًۭا",
+      "translation": "perbuatan",
+      "transliteration": "ʿamalan"
+    },
+    {
+      "id": 7312,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menjadikan apa yang ada di bumi sebagai perhiasan baginya agar Kami menguji mereka siapakah di antara mereka yang terbaik perbuatannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 70890,
+    "timestamp_to": 81210,
+    "duration": 10320,
+    "segments": [
+      [
+        1,
+        70675,
+        72155
+      ],
+      [
+        2,
+        72155,
+        73275
+      ],
+      [
+        3,
+        73275,
+        73635
+      ],
+      [
+        4,
+        73635,
+        74015
+      ],
+      [
+        5,
+        74015,
+        74895
+      ],
+      [
+        6,
+        74895,
+        75805
+      ],
+      [
+        7,
+        75805,
+        76405
+      ],
+      [
+        8,
+        76405,
+        77965
+      ],
+      [
+        9,
+        77965,
+        79005
+      ],
+      [
+        10,
+        79005,
+        79765
+      ],
+      [
+        11,
+        79765,
+        80960
+      ]
+    ]
+  }
+}

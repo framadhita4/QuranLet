@@ -1,0 +1,125 @@
+{
+  "id": 2067,
+  "chapter_id": 17,
+  "verse_key": "17:38",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "ruku_number": 243,
+  "manzil_number": 4,
+  "page_number": 285,
+  "juz_number": 15,
+  "text_uthmani": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكْرُوهًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 39532,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_001.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap/semua",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 39533,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_002.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 39534,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_003.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 39535,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_004.mp3",
+      "text": "سَيِّئُهُۥ",
+      "translation": "kejahatannya",
+      "transliteration": "sayyi-uhu"
+    },
+    {
+      "id": 39536,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_005.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 39537,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_006.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 39538,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_038_007.mp3",
+      "text": "مَكْرُوهًۭا",
+      "translation": "dibenci",
+      "transliteration": "makrūhan"
+    },
+    {
+      "id": 39539,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Semua itu <sup foot_note_id=\"854\">1</sup> kejahatannya amat dibenci di sisi Tuhan-mu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 686940,
+    "timestamp_to": 694880,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        686885,
+        687545
+      ],
+      [
+        2,
+        687545,
+        688395
+      ],
+      [
+        3,
+        688395,
+        689045
+      ],
+      [
+        4,
+        689045,
+        690355
+      ],
+      [
+        5,
+        690355,
+        691885
+      ],
+      [
+        6,
+        691885,
+        692765
+      ],
+      [
+        7,
+        692765,
+        694790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4872,
+  "chapter_id": 54,
+  "verse_key": "54:26",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 29053,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_026_001.mp3",
+      "text": "سَيَعْلَمُونَ",
+      "translation": "mereka akan mengetahui",
+      "transliteration": "sayaʿlamūna"
+    },
+    {
+      "id": 29054,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_026_002.mp3",
+      "text": "غَدًۭا",
+      "translation": "besok",
+      "transliteration": "ghadan"
+    },
+    {
+      "id": 29055,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_026_003.mp3",
+      "text": "مَّنِ",
+      "translation": "dari",
+      "transliteration": "mani"
+    },
+    {
+      "id": 29056,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_026_004.mp3",
+      "text": "ٱلْكَذَّابُ",
+      "translation": "amat pendusta",
+      "transliteration": "l-kadhābu"
+    },
+    {
+      "id": 29057,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_026_005.mp3",
+      "text": "ٱلْأَشِرُ",
+      "translation": "sombong",
+      "transliteration": "l-ashiru"
+    },
+    {
+      "id": 29058,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kelak mereka akan mengetahui siapakah yang sebenarnya amat pendusta lagi sombong.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 233950,
+    "timestamp_to": 240660,
+    "duration": 6710,
+    "segments": [
+      [
+        1,
+        233915,
+        235465
+      ],
+      [
+        2,
+        235465,
+        236165
+      ],
+      [
+        3,
+        236165,
+        237685
+      ],
+      [
+        4,
+        237685,
+        239025
+      ],
+      [
+        5,
+        239025,
+        240580
+      ]
+    ]
+  }
+}

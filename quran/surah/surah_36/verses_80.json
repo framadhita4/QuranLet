@@ -1,0 +1,177 @@
+{
+  "id": 3785,
+  "chapter_id": 36,
+  "verse_key": "36:80",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 387,
+  "manzil_number": 5,
+  "page_number": 445,
+  "juz_number": 23,
+  "text_uthmani": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 64227,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 64228,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_002.mp3",
+      "text": "جَعَلَ",
+      "translation": "menjadikan",
+      "transliteration": "jaʿala"
+    },
+    {
+      "id": 64229,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_003.mp3",
+      "text": "لَكُم",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 64230,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_004.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 64231,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_005.mp3",
+      "text": "ٱلشَّجَرِ",
+      "translation": "pohon",
+      "transliteration": "l-shajari"
+    },
+    {
+      "id": 64232,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_006.mp3",
+      "text": "ٱلْأَخْضَرِ",
+      "translation": "hijau",
+      "transliteration": "l-akhḍari"
+    },
+    {
+      "id": 64233,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_007.mp3",
+      "text": "نَارًۭا",
+      "translation": "api",
+      "transliteration": "nāran"
+    },
+    {
+      "id": 64234,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_008.mp3",
+      "text": "فَإِذَآ",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 64235,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_009.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 64236,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_010.mp3",
+      "text": "مِّنْهُ",
+      "translation": "dari padanya (kayu itu)",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 64237,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_080_011.mp3",
+      "text": "تُوقِدُونَ",
+      "translation": "kamu menyalakan",
+      "transliteration": "tūqidūna"
+    },
+    {
+      "id": 64238,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu Tuhan yang menjadikan untukmu api dari kayu yang hijau, maka tiba-tiba kamu nyalakan (api) dari kayu itu.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 993700,
+    "timestamp_to": 1008430,
+    "duration": 14730,
+    "segments": [
+      [
+        1,
+        993655,
+        994755
+      ],
+      [
+        2,
+        994755,
+        995415
+      ],
+      [
+        3,
+        995415,
+        995965
+      ],
+      [
+        4,
+        995965,
+        996765
+      ],
+      [
+        5,
+        996765,
+        997645
+      ],
+      [
+        6,
+        997645,
+        998645
+      ],
+      [
+        7,
+        998645,
+        1000055
+      ],
+      [
+        8,
+        1000055,
+        1002315
+      ],
+      [
+        9,
+        1002315,
+        1003855
+      ],
+      [
+        10,
+        1003855,
+        1005215
+      ],
+      [
+        11,
+        1005215,
+        1008320
+      ]
+    ]
+  }
+}

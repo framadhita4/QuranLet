@@ -1,0 +1,112 @@
+{
+  "id": 3370,
+  "chapter_id": 29,
+  "verse_key": "29:30",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "ruku_number": 345,
+  "manzil_number": 5,
+  "page_number": 399,
+  "juz_number": 20,
+  "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى عَلَى ٱلْقَوْمِ ٱلْمُفْسِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 33028,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_030_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Lut) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 33029,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_030_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 33030,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_030_003.mp3",
+      "text": "ٱنصُرْنِى",
+      "translation": "tolonglah aku",
+      "transliteration": "unṣur'nī"
+    },
+    {
+      "id": 33031,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_030_004.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 33032,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_030_005.mp3",
+      "text": "ٱلْقَوْمِ",
+      "translation": "kaum",
+      "transliteration": "l-qawmi"
+    },
+    {
+      "id": 33033,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_030_006.mp3",
+      "text": "ٱلْمُفْسِدِينَ",
+      "translation": "orang-orang yang berbuat kerusakan",
+      "transliteration": "l-muf'sidīna"
+    },
+    {
+      "id": 33034,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lūṭ berdoa, \"Ya Tuhan-ku, tolonglah aku (dengan menimpakan azab) atas kaum yang berbuat kerusakan itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 591600,
+    "timestamp_to": 599440,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        591545,
+        592245
+      ],
+      [
+        2,
+        592245,
+        592835
+      ],
+      [
+        3,
+        592835,
+        594595
+      ],
+      [
+        4,
+        594595,
+        595015
+      ],
+      [
+        5,
+        595015,
+        595905
+      ],
+      [
+        6,
+        595905,
+        599360
+      ]
+    ]
+  }
+}

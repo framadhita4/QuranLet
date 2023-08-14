@@ -1,0 +1,73 @@
+{
+  "id": 5779,
+  "chapter_id": 80,
+  "verse_key": "80:21",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 23983,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_021_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 23984,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_021_002.mp3",
+      "text": "أَمَاتَهُۥ",
+      "translation": "Dia mematikannya",
+      "transliteration": "amātahu"
+    },
+    {
+      "id": 23985,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_021_003.mp3",
+      "text": "فَأَقْبَرَهُۥ",
+      "translation": "lalu Dia memasukkannya dalam kubur",
+      "transliteration": "fa-aqbarahu"
+    },
+    {
+      "id": 23986,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian Dia mematikannya dan memasukkannya ke dalam kubur,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 84220,
+    "timestamp_to": 88710,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        84125,
+        85365
+      ],
+      [
+        2,
+        85365,
+        86765
+      ],
+      [
+        3,
+        86765,
+        88560
+      ]
+    ]
+  }
+}

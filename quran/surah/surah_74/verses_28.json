@@ -1,0 +1,86 @@
+{
+  "id": 5523,
+  "chapter_id": 74,
+  "verse_key": "74:28",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "لَا تُبْقِى وَلَا تَذَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 31002,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_028_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 31003,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_028_002.mp3",
+      "text": "تُبْقِى",
+      "translation": "ia meninggalkan",
+      "transliteration": "tub'qī"
+    },
+    {
+      "id": 31004,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_028_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 31005,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_028_004.mp3",
+      "text": "تَذَرُ",
+      "translation": "ia membiarkan",
+      "transliteration": "tadharu"
+    },
+    {
+      "id": 31006,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Saqar itu tidak meninggalkan dan tidak membiarkan<sup foot_note_id=\"1528\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105370,
+    "timestamp_to": 108320,
+    "duration": 2950,
+    "segments": [
+      [
+        1,
+        105325,
+        105785
+      ],
+      [
+        2,
+        105785,
+        106595
+      ],
+      [
+        3,
+        106595,
+        107145
+      ],
+      [
+        4,
+        107145,
+        108200
+      ]
+    ]
+  }
+}

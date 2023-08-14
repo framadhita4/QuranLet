@@ -1,0 +1,112 @@
+{
+  "id": 1699,
+  "chapter_id": 12,
+  "verse_key": "12:103",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "ruku_number": 203,
+  "manzil_number": 3,
+  "page_number": 247,
+  "juz_number": 13,
+  "text_uthmani": "وَمَآ أَكْثَرُ ٱلنَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 72254,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_103_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 72255,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_103_002.mp3",
+      "text": "أَكْثَرُ",
+      "translation": "kebanyakan",
+      "transliteration": "aktharu"
+    },
+    {
+      "id": 72256,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_103_003.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 72257,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_103_004.mp3",
+      "text": "وَلَوْ",
+      "translation": "walaupun",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 72258,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_103_005.mp3",
+      "text": "حَرَصْتَ",
+      "translation": "kamu sangat menginginkan",
+      "transliteration": "ḥaraṣta"
+    },
+    {
+      "id": 72259,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_103_006.mp3",
+      "text": "بِمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "bimu'minīna"
+    },
+    {
+      "id": 72260,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sebagian besar manusia tidak akan beriman, walaupun kamu sangat menginginkannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2332280,
+    "timestamp_to": 2341710,
+    "duration": 9430,
+    "segments": [
+      [
+        1,
+        2332255,
+        2334315
+      ],
+      [
+        2,
+        2334315,
+        2335185
+      ],
+      [
+        3,
+        2335185,
+        2336555
+      ],
+      [
+        4,
+        2336555,
+        2337115
+      ],
+      [
+        5,
+        2337115,
+        2338005
+      ],
+      [
+        6,
+        2338005,
+        2341650
+      ]
+    ]
+  }
+}

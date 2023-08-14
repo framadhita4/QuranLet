@@ -1,0 +1,138 @@
+{
+  "id": 4332,
+  "chapter_id": 43,
+  "verse_key": "43:7",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 426,
+  "manzil_number": 6,
+  "page_number": 489,
+  "juz_number": 25,
+  "text_uthmani": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 7292,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 7293,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_002.mp3",
+      "text": "يَأْتِيهِم",
+      "translation": "datang kepada mereka",
+      "transliteration": "yatīhim"
+    },
+    {
+      "id": 7294,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 7295,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_004.mp3",
+      "text": "نَّبِىٍّ",
+      "translation": "seorang nabi",
+      "transliteration": "nabiyyin"
+    },
+    {
+      "id": 7296,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 7297,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_006.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 7298,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_007.mp3",
+      "text": "بِهِۦ",
+      "translation": "kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 7299,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_007_008.mp3",
+      "text": "يَسْتَهْزِءُونَ",
+      "translation": "mereka memperolok-olok",
+      "transliteration": "yastahziūna"
+    },
+    {
+      "id": 7300,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tiada seorang nabi pun datang kepada mereka, melainkan mereka selalu memperolok-olokkannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 49960,
+    "timestamp_to": 60330,
+    "duration": 10370,
+    "segments": [
+      [
+        1,
+        49935,
+        50665
+      ],
+      [
+        2,
+        50665,
+        51795
+      ],
+      [
+        3,
+        51795,
+        52805
+      ],
+      [
+        4,
+        52805,
+        54425
+      ],
+      [
+        5,
+        54425,
+        55245
+      ],
+      [
+        6,
+        55245,
+        56105
+      ],
+      [
+        7,
+        56105,
+        56835
+      ],
+      [
+        8,
+        56835,
+        60280
+      ]
+    ]
+  }
+}

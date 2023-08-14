@@ -1,0 +1,151 @@
+{
+  "id": 1014,
+  "chapter_id": 7,
+  "verse_key": "7:60",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "ruku_number": 129,
+  "manzil_number": 2,
+  "page_number": 158,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ ٱلْمَلَأُ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 54223,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_001.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 54224,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_002.mp3",
+      "text": "ٱلْمَلَأُ",
+      "translation": "pemuka-pemuka",
+      "transliteration": "l-mala-u"
+    },
+    {
+      "id": 54225,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 54226,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_004.mp3",
+      "text": "قَوْمِهِۦٓ",
+      "translation": "kaumnya",
+      "transliteration": "qawmihi"
+    },
+    {
+      "id": 54227,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_005.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 54228,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_006.mp3",
+      "text": "لَنَرَىٰكَ",
+      "translation": "kami memandang kamu",
+      "transliteration": "lanarāka"
+    },
+    {
+      "id": 54229,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_007.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 54230,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_008.mp3",
+      "text": "ضَلَـٰلٍۢ",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālin"
+    },
+    {
+      "id": 54231,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_060_009.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 54232,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pemuka-pemuka dari kaumnya berkata, \"Sesungguhnya kami memandang kamu berada dalam kesesatan yang nyata\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1443950,
+    "timestamp_to": 1456200,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        1443885,
+        1444475
+      ],
+      [
+        2,
+        1444475,
+        1445355
+      ],
+      [
+        3,
+        1445355,
+        1445865
+      ],
+      [
+        4,
+        1445865,
+        1447695
+      ],
+      [
+        5,
+        1447695,
+        1450445
+      ],
+      [
+        6,
+        1450445,
+        1451405
+      ],
+      [
+        7,
+        1451405,
+        1451795
+      ],
+      [
+        8,
+        1451795,
+        1452685
+      ],
+      [
+        9,
+        1452685,
+        1456110
+      ]
+    ]
+  }
+}

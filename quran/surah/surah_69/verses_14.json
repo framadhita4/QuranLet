@@ -1,0 +1,112 @@
+{
+  "id": 5337,
+  "chapter_id": 69,
+  "verse_key": "69:14",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 16249,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_014_001.mp3",
+      "text": "وَحُمِلَتِ",
+      "translation": "dan diangkat",
+      "transliteration": "waḥumilati"
+    },
+    {
+      "id": 16250,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_014_002.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 16251,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_014_003.mp3",
+      "text": "وَٱلْجِبَالُ",
+      "translation": "dan gunung-gunung",
+      "transliteration": "wal-jibālu"
+    },
+    {
+      "id": 16252,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_014_004.mp3",
+      "text": "فَدُكَّتَا",
+      "translation": "lalu dihancurkan keduanya",
+      "transliteration": "fadukkatā"
+    },
+    {
+      "id": 16253,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_014_005.mp3",
+      "text": "دَكَّةًۭ",
+      "translation": "kehancuran",
+      "transliteration": "dakkatan"
+    },
+    {
+      "id": 16254,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_014_006.mp3",
+      "text": "وَٰحِدَةًۭ",
+      "translation": "satu/sekali",
+      "transliteration": "wāḥidatan"
+    },
+    {
+      "id": 16255,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan diangkatlah bumi dan gunung-gunung, lalu dibenturkan keduanya sekali bentur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 111750,
+    "timestamp_to": 120320,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        111685,
+        112875
+      ],
+      [
+        2,
+        112875,
+        113795
+      ],
+      [
+        3,
+        113795,
+        115025
+      ],
+      [
+        4,
+        115025,
+        116395
+      ],
+      [
+        5,
+        116395,
+        117445
+      ],
+      [
+        6,
+        117445,
+        120170
+      ]
+    ]
+  }
+}

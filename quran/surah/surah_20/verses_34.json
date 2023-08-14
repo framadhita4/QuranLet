@@ -1,0 +1,60 @@
+{
+  "id": 2382,
+  "chapter_id": 20,
+  "verse_key": "20:34",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَنَذْكُرَكَ كَثِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 36346,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_034_001.mp3",
+      "text": "وَنَذْكُرَكَ",
+      "translation": "dan kami banyak mengingat Engkau",
+      "transliteration": "wanadhkuraka"
+    },
+    {
+      "id": 36347,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_034_002.mp3",
+      "text": "كَثِيرًا",
+      "translation": "banyak",
+      "transliteration": "kathīran"
+    },
+    {
+      "id": 36348,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan banyak mengingat Engkau.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 249600,
+    "timestamp_to": 252550,
+    "duration": 2950,
+    "segments": [
+      [
+        1,
+        249575,
+        250975
+      ],
+      [
+        2,
+        250975,
+        252500
+      ]
+    ]
+  }
+}

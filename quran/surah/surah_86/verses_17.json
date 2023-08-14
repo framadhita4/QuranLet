@@ -1,0 +1,86 @@
+{
+  "id": 5948,
+  "chapter_id": 86,
+  "verse_key": "86:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 19707,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_017_001.mp3",
+      "text": "فَمَهِّلِ",
+      "translation": "maka beri tangguhlah",
+      "transliteration": "famahhili"
+    },
+    {
+      "id": 19708,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_017_002.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 19709,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_017_003.mp3",
+      "text": "أَمْهِلْهُمْ",
+      "translation": "beritangguhlah mereka",
+      "transliteration": "amhil'hum"
+    },
+    {
+      "id": 19710,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_017_004.mp3",
+      "text": "رُوَيْدًۢا",
+      "translation": "sedikit/sebentar",
+      "transliteration": "ruwaydan"
+    },
+    {
+      "id": 19711,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena itu beri tangguhlah orang-orang kafir itu, yaitu beri tangguhlah mereka itu barang sebentar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80780,
+    "timestamp_to": 88020,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        80245,
+        81315
+      ],
+      [
+        2,
+        81315,
+        82965
+      ],
+      [
+        3,
+        82965,
+        84455
+      ],
+      [
+        4,
+        84455,
+        87120
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3762,
+  "chapter_id": 36,
+  "verse_key": "36:57",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "لَهُمْ فِيهَا فَـٰكِهَةٌ وَلَهُم مَّا يَدَّعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 53032,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_057_001.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka/memperoleh",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 53033,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_057_002.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya (sorga)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 53034,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_057_003.mp3",
+      "text": "فَـٰكِهَةٌۭ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatun"
+    },
+    {
+      "id": 53035,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_057_004.mp3",
+      "text": "وَلَهُم",
+      "translation": "dan bagi mereka/memperoleh",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 53036,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_057_005.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 53037,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_057_006.mp3",
+      "text": "يَدَّعُونَ",
+      "translation": "yang mereka minta",
+      "transliteration": "yaddaʿūna"
+    },
+    {
+      "id": 53038,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di surga itu, mereka memperoleh buah-buahan dan memperoleh apa yang mereka minta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 717570,
+    "timestamp_to": 727840,
+    "duration": 10270,
+    "segments": [
+      [
+        1,
+        717495,
+        718125
+      ],
+      [
+        2,
+        718125,
+        719065
+      ],
+      [
+        3,
+        719065,
+        721515
+      ],
+      [
+        4,
+        721515,
+        722375
+      ],
+      [
+        5,
+        722375,
+        723575
+      ],
+      [
+        6,
+        723575,
+        727690
+      ]
+    ]
+  }
+}

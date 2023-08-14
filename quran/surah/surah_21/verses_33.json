@@ -1,0 +1,177 @@
+{
+  "id": 2516,
+  "chapter_id": 21,
+  "verse_key": "21:33",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 280,
+  "manzil_number": 4,
+  "page_number": 324,
+  "juz_number": 17,
+  "text_uthmani": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 35374,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 35375,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 35376,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_003.mp3",
+      "text": "خَلَقَ",
+      "translation": "telah menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 35377,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_004.mp3",
+      "text": "ٱلَّيْلَ",
+      "translation": "malam",
+      "transliteration": "al-layla"
+    },
+    {
+      "id": 35378,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_005.mp3",
+      "text": "وَٱلنَّهَارَ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāra"
+    },
+    {
+      "id": 35379,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_006.mp3",
+      "text": "وَٱلشَّمْسَ",
+      "translation": "dan matahari",
+      "transliteration": "wal-shamsa"
+    },
+    {
+      "id": 35380,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_007.mp3",
+      "text": "وَٱلْقَمَرَ ۖ",
+      "translation": "dan bulan",
+      "transliteration": "wal-qamara"
+    },
+    {
+      "id": 35382,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_009.mp3",
+      "text": "كُلٌّۭ",
+      "translation": "tiap-tiap/masing-masing",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 35383,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_010.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 35384,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_011.mp3",
+      "text": "فَلَكٍۢ",
+      "translation": "garis edar",
+      "transliteration": "falakin"
+    },
+    {
+      "id": 35385,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_033_012.mp3",
+      "text": "يَسْبَحُونَ",
+      "translation": "mereka beredar",
+      "transliteration": "yasbaḥūna"
+    },
+    {
+      "id": 35386,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah yang telah menciptakan malam dan siang, matahari dan bulan.  Masing-masing dari keduanya itu beredar di dalam garis edarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 430720,
+    "timestamp_to": 443420,
+    "duration": 12700,
+    "segments": [
+      [
+        1,
+        430695,
+        431165
+      ],
+      [
+        2,
+        431165,
+        432095
+      ],
+      [
+        3,
+        432095,
+        432685
+      ],
+      [
+        4,
+        432685,
+        433515
+      ],
+      [
+        5,
+        433515,
+        435475
+      ],
+      [
+        6,
+        435475,
+        436425
+      ],
+      [
+        7,
+        436425,
+        437485
+      ],
+      [
+        8,
+        437485,
+        438665
+      ],
+      [
+        9,
+        438665,
+        439105
+      ],
+      [
+        10,
+        439105,
+        440555
+      ],
+      [
+        11,
+        440555,
+        443370
+      ]
+    ]
+  }
+}

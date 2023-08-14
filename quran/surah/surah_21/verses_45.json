@@ -1,0 +1,177 @@
+{
+  "id": 2528,
+  "chapter_id": 21,
+  "verse_key": "21:45",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 281,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 45436,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 45437,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_002.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 45438,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_003.mp3",
+      "text": "أُنذِرُكُم",
+      "translation": "aku memberi peringatan kepadamu",
+      "transliteration": "undhirukum"
+    },
+    {
+      "id": 45439,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_004.mp3",
+      "text": "بِٱلْوَحْىِ ۚ",
+      "translation": "dengan wahyu",
+      "transliteration": "bil-waḥyi"
+    },
+    {
+      "id": 45441,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_006.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 45442,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_007.mp3",
+      "text": "يَسْمَعُ",
+      "translation": "mendengar",
+      "transliteration": "yasmaʿu"
+    },
+    {
+      "id": 45443,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_008.mp3",
+      "text": "ٱلصُّمُّ",
+      "translation": "orang yang tuli",
+      "transliteration": "l-ṣumu"
+    },
+    {
+      "id": 45444,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_009.mp3",
+      "text": "ٱلدُّعَآءَ",
+      "translation": "du'a/seruan",
+      "transliteration": "l-duʿāa"
+    },
+    {
+      "id": 45445,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_010.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 45446,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_011.mp3",
+      "text": "مَا",
+      "translation": "apa-apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 45447,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_045_012.mp3",
+      "text": "يُنذَرُونَ",
+      "translation": "mereka diberi peringatan",
+      "transliteration": "yundharūna"
+    },
+    {
+      "id": 45448,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah (hai Muhammad), \"Sesungguhnya aku hanya memberi peringatan kepada kamu sekalian dengan wahyu dan tiadalah orang-orang yang tuli mendengar seruan, apabila mereka diberi peringatan\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 632000,
+    "timestamp_to": 649370,
+    "duration": 17370,
+    "segments": [
+      [
+        1,
+        631945,
+        632255
+      ],
+      [
+        2,
+        632255,
+        635115
+      ],
+      [
+        3,
+        635115,
+        637605
+      ],
+      [
+        4,
+        637605,
+        638285
+      ],
+      [
+        5,
+        638285,
+        639645
+      ],
+      [
+        6,
+        639645,
+        640475
+      ],
+      [
+        7,
+        640475,
+        642055
+      ],
+      [
+        8,
+        642055,
+        644485
+      ],
+      [
+        9,
+        644485,
+        645065
+      ],
+      [
+        10,
+        645065,
+        645555
+      ],
+      [
+        11,
+        645555,
+        649270
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2138,
+  "chapter_id": 17,
+  "verse_key": "17:109",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 251,
+  "manzil_number": 4,
+  "page_number": 293,
+  "juz_number": 15,
+  "text_uthmani": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 73941,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_109_001.mp3",
+      "text": "وَيَخِرُّونَ",
+      "translation": "dan mereka tersungkur",
+      "transliteration": "wayakhirrūna"
+    },
+    {
+      "id": 73942,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_109_002.mp3",
+      "text": "لِلْأَذْقَانِ",
+      "translation": "bagi/atas/dagu/muka",
+      "transliteration": "lil'adhqāni"
+    },
+    {
+      "id": 73943,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_109_003.mp3",
+      "text": "يَبْكُونَ",
+      "translation": "mereka menangis",
+      "transliteration": "yabkūna"
+    },
+    {
+      "id": 73944,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_109_004.mp3",
+      "text": "وَيَزِيدُهُمْ",
+      "translation": "dan menambah mereka",
+      "transliteration": "wayazīduhum"
+    },
+    {
+      "id": 73945,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_109_005.mp3",
+      "text": "خُشُوعًۭا ۩",
+      "translation": "khusyu",
+      "transliteration": "khushūʿan"
+    },
+    {
+      "id": 73947,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٠٩",
+      "translation": "(109)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka menyungkur atas muka mereka sambil menangis dan mereka bertambah khusyuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1932080,
+    "timestamp_to": 1940100,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1932005,
+        1933435
+      ],
+      [
+        2,
+        1933435,
+        1935035
+      ],
+      [
+        3,
+        1935035,
+        1936245
+      ],
+      [
+        4,
+        1936245,
+        1937845
+      ],
+      [
+        5,
+        1937845,
+        1939950
+      ]
+    ]
+  }
+}

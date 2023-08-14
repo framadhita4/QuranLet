@@ -1,0 +1,177 @@
+{
+  "id": 768,
+  "chapter_id": 5,
+  "verse_key": "5:99",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "ruku_number": 98,
+  "manzil_number": 2,
+  "page_number": 124,
+  "juz_number": 7,
+  "text_uthmani": "مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 71010,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_001.mp3",
+      "text": "مَّا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 71011,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_002.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 71012,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_003.mp3",
+      "text": "ٱلرَّسُولِ",
+      "translation": "Rasul",
+      "transliteration": "l-rasūli"
+    },
+    {
+      "id": 71013,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 71014,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_005.mp3",
+      "text": "ٱلْبَلَـٰغُ ۗ",
+      "translation": "penyampaian",
+      "transliteration": "l-balāghu"
+    },
+    {
+      "id": 71016,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_007.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 71017,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_008.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 71018,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_009.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 71019,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_010.mp3",
+      "text": "تُبْدُونَ",
+      "translation": "kamu lahirkan",
+      "transliteration": "tub'dūna"
+    },
+    {
+      "id": 71020,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_011.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 71021,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_099_012.mp3",
+      "text": "تَكْتُمُونَ",
+      "translation": "kamu sembunyikan",
+      "transliteration": "taktumūna"
+    },
+    {
+      "id": 71022,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kewajiban rasul tidak lain hanyalah menyampaikan, dan Allah mengetahui apa yang kamu lahirkan dan apa yang kamu sembunyikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3096810,
+    "timestamp_to": 3109510,
+    "duration": 12700,
+    "segments": [
+      [
+        1,
+        3096785,
+        3097395
+      ],
+      [
+        2,
+        3097395,
+        3097825
+      ],
+      [
+        3,
+        3097825,
+        3098815
+      ],
+      [
+        4,
+        3098815,
+        3099595
+      ],
+      [
+        5,
+        3099595,
+        3102595
+      ],
+      [
+        6,
+        3102595,
+        3103595
+      ],
+      [
+        7,
+        3103595,
+        3104545
+      ],
+      [
+        8,
+        3104545,
+        3104935
+      ],
+      [
+        9,
+        3104935,
+        3106075
+      ],
+      [
+        10,
+        3106075,
+        3106645
+      ],
+      [
+        11,
+        3106645,
+        3109430
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5966,
+  "chapter_id": 87,
+  "verse_key": "87:18",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 20793,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_018_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sungguh",
+      "transliteration": "inna"
+    },
+    {
+      "id": 20794,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_018_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 20795,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_018_003.mp3",
+      "text": "لَفِى",
+      "translation": "benar-benar dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 20796,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_018_004.mp3",
+      "text": "ٱلصُّحُفِ",
+      "translation": "kitab-kitab",
+      "transliteration": "l-ṣuḥufi"
+    },
+    {
+      "id": 20797,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_018_005.mp3",
+      "text": "ٱلْأُولَىٰ",
+      "translation": "terdahulu",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 20798,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ini benar-benar terdapat dalam kitab-kitab yang dahulu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 84590,
+    "timestamp_to": 89840,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        84505,
+        85965
+      ],
+      [
+        2,
+        85965,
+        86865
+      ],
+      [
+        3,
+        86865,
+        87245
+      ],
+      [
+        4,
+        87245,
+        88205
+      ],
+      [
+        5,
+        88205,
+        89370
+      ]
+    ]
+  }
+}

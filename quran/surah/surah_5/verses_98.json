@@ -1,0 +1,151 @@
+{
+  "id": 767,
+  "chapter_id": 5,
+  "verse_key": "5:98",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "ruku_number": 98,
+  "manzil_number": 2,
+  "page_number": 124,
+  "juz_number": 7,
+  "text_uthmani": "ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ وَأَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 70743,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_001.mp3",
+      "text": "ٱعْلَمُوٓا۟",
+      "translation": "ketahuilah",
+      "transliteration": "iʿ'lamū"
+    },
+    {
+      "id": 70744,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_002.mp3",
+      "text": "أَنَّ",
+      "translation": "bahwasanya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 70745,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 70746,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_004.mp3",
+      "text": "شَدِيدُ",
+      "translation": "sangat keras",
+      "transliteration": "shadīdu"
+    },
+    {
+      "id": 70747,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_005.mp3",
+      "text": "ٱلْعِقَابِ",
+      "translation": "siksa",
+      "transliteration": "l-ʿiqābi"
+    },
+    {
+      "id": 70748,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_006.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan bahwa sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 70749,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_007.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 70750,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_008.mp3",
+      "text": "غَفُورٌۭ",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūrun"
+    },
+    {
+      "id": 70751,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_098_009.mp3",
+      "text": "رَّحِيمٌۭ",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīmun"
+    },
+    {
+      "id": 70752,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketahuilah bahwa sesungguhnya Allah amat berat siksa-Nya dan bahwa sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3084770,
+    "timestamp_to": 3096810,
+    "duration": 12040,
+    "segments": [
+      [
+        1,
+        3084745,
+        3087335
+      ],
+      [
+        2,
+        3087335,
+        3088315
+      ],
+      [
+        3,
+        3088315,
+        3089225
+      ],
+      [
+        4,
+        3089225,
+        3090095
+      ],
+      [
+        5,
+        3090095,
+        3091225
+      ],
+      [
+        6,
+        3091225,
+        3092445
+      ],
+      [
+        7,
+        3092445,
+        3093405
+      ],
+      [
+        8,
+        3093405,
+        3094465
+      ],
+      [
+        9,
+        3094465,
+        3096760
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5906,
+  "chapter_id": 84,
+  "verse_key": "84:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 25018,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_022_001.mp3",
+      "text": "بَلِ",
+      "translation": "tetapi/bahkan",
+      "transliteration": "bali"
+    },
+    {
+      "id": 25019,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_022_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 25020,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_022_003.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 25021,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_022_004.mp3",
+      "text": "يُكَذِّبُونَ",
+      "translation": "mereka mendustakan",
+      "transliteration": "yukadhibūna"
+    },
+    {
+      "id": 25022,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bahkan orang-orang kafir itu mendustakan(nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 115530,
+    "timestamp_to": 121620,
+    "duration": 6090,
+    "segments": [
+      [
+        1,
+        115505,
+        115955
+      ],
+      [
+        2,
+        115955,
+        116925
+      ],
+      [
+        3,
+        116925,
+        117755
+      ],
+      [
+        4,
+        117755,
+        121530
+      ]
+    ]
+  }
+}

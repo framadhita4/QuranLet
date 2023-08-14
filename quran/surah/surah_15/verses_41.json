@@ -1,0 +1,99 @@
+{
+  "id": 1843,
+  "chapter_id": 15,
+  "verse_key": "15:41",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "قَالَ هَـٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 42129,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_041_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 42130,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_041_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 42131,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_041_003.mp3",
+      "text": "صِرَٰطٌ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭun"
+    },
+    {
+      "id": 42132,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_041_004.mp3",
+      "text": "عَلَىَّ",
+      "translation": "atasKu/kepadaKu",
+      "transliteration": "ʿalayya"
+    },
+    {
+      "id": 42133,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_041_005.mp3",
+      "text": "مُسْتَقِيمٌ",
+      "translation": "yang lurus",
+      "transliteration": "mus'taqīmun"
+    },
+    {
+      "id": 42134,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Ini adalah jalan yang lurus; kewajiban Aku-lah (menjaganya) <sup foot_note_id=\"800\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 407170,
+    "timestamp_to": 413600,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        407115,
+        407755
+      ],
+      [
+        2,
+        407755,
+        408515
+      ],
+      [
+        3,
+        408515,
+        409615
+      ],
+      [
+        4,
+        409615,
+        410545
+      ],
+      [
+        5,
+        410545,
+        413520
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5684,
+  "chapter_id": 78,
+  "verse_key": "78:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 14242,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_012_001.mp3",
+      "text": "وَبَنَيْنَا",
+      "translation": "dan Kami bina",
+      "transliteration": "wabanaynā"
+    },
+    {
+      "id": 14243,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_012_002.mp3",
+      "text": "فَوْقَكُمْ",
+      "translation": "di atas kamu",
+      "transliteration": "fawqakum"
+    },
+    {
+      "id": 14244,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_012_003.mp3",
+      "text": "سَبْعًۭا",
+      "translation": "tujuh",
+      "transliteration": "sabʿan"
+    },
+    {
+      "id": 14245,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_012_004.mp3",
+      "text": "شِدَادًۭا",
+      "translation": "kuat/kokoh",
+      "transliteration": "shidādan"
+    },
+    {
+      "id": 14246,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami bina di atas kamu tujuh buah (langit) yang kukuh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 53530,
+    "timestamp_to": 59880,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        53435,
+        54595
+      ],
+      [
+        2,
+        54595,
+        56065
+      ],
+      [
+        3,
+        56065,
+        57105
+      ],
+      [
+        4,
+        57105,
+        59710
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4088,
+  "chapter_id": 39,
+  "verse_key": "39:30",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 400,
+  "manzil_number": 6,
+  "page_number": 461,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 32425,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_030_001.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 32426,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_030_002.mp3",
+      "text": "مَيِّتٌۭ",
+      "translation": "mereka akan mati",
+      "transliteration": "mayyitun"
+    },
+    {
+      "id": 32427,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_030_003.mp3",
+      "text": "وَإِنَّهُم",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-innahum"
+    },
+    {
+      "id": 32428,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_030_004.mp3",
+      "text": "مَّيِّتُونَ",
+      "translation": "mereka akan mati",
+      "transliteration": "mayyitūna"
+    },
+    {
+      "id": 32429,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu akan mati dan sesungguhnya mereka akan mati (pula).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 675180,
+    "timestamp_to": 685860,
+    "duration": 10690,
+    "segments": [
+      [
+        1,
+        675155,
+        676965
+      ],
+      [
+        2,
+        676965,
+        678955
+      ],
+      [
+        3,
+        678955,
+        681345
+      ],
+      [
+        4,
+        681345,
+        685780
+      ]
+    ]
+  }
+}

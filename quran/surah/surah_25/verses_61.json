@@ -1,0 +1,177 @@
+{
+  "id": 2916,
+  "chapter_id": 25,
+  "verse_key": "25:61",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 315,
+  "manzil_number": 4,
+  "page_number": 365,
+  "juz_number": 19,
+  "text_uthmani": "تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 55308,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_001.mp3",
+      "text": "تَبَارَكَ",
+      "translation": "Maha Suci",
+      "transliteration": "tabāraka"
+    },
+    {
+      "id": 55309,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 55310,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_003.mp3",
+      "text": "جَعَلَ",
+      "translation": "telah menjadikan",
+      "transliteration": "jaʿala"
+    },
+    {
+      "id": 55311,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 55312,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_005.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 55313,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_006.mp3",
+      "text": "بُرُوجًۭا",
+      "translation": "gugusan bintang",
+      "transliteration": "burūjan"
+    },
+    {
+      "id": 55314,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_007.mp3",
+      "text": "وَجَعَلَ",
+      "translation": "Dan dia menjadikan",
+      "transliteration": "wajaʿala"
+    },
+    {
+      "id": 55315,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_008.mp3",
+      "text": "فِيهَا",
+      "translation": "padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 55316,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_009.mp3",
+      "text": "سِرَٰجًۭا",
+      "translation": "pelita (matahari)",
+      "transliteration": "sirājan"
+    },
+    {
+      "id": 55317,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_010.mp3",
+      "text": "وَقَمَرًۭا",
+      "translation": "dan bulan",
+      "transliteration": "waqamaran"
+    },
+    {
+      "id": 55318,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_061_011.mp3",
+      "text": "مُّنِيرًۭا",
+      "translation": "bercahaya",
+      "transliteration": "munīran"
+    },
+    {
+      "id": 55319,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Suci Allah yang menjadikan di langit gugusan-gugusan bintang dan Dia menjadikan juga padanya matahari dan bulan yang bercahaya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 946650,
+    "timestamp_to": 960180,
+    "duration": 13530,
+    "segments": [
+      [
+        1,
+        946585,
+        947715
+      ],
+      [
+        2,
+        947715,
+        948575
+      ],
+      [
+        3,
+        948575,
+        949305
+      ],
+      [
+        4,
+        949305,
+        949425
+      ],
+      [
+        5,
+        949425,
+        951725
+      ],
+      [
+        6,
+        951725,
+        952835
+      ],
+      [
+        7,
+        952835,
+        954385
+      ],
+      [
+        8,
+        954385,
+        955165
+      ],
+      [
+        9,
+        955165,
+        956195
+      ],
+      [
+        10,
+        956195,
+        957555
+      ],
+      [
+        11,
+        957555,
+        960070
+      ]
+    ]
+  }
+}

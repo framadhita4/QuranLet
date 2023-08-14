@@ -1,0 +1,151 @@
+{
+  "id": 2582,
+  "chapter_id": 21,
+  "verse_key": "21:99",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 330,
+  "juz_number": 17,
+  "text_uthmani": "لَوْ كَانَ هَـٰٓؤُلَآءِ ءَالِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَـٰلِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 71047,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_001.mp3",
+      "text": "لَوْ",
+      "translation": "sekiranya",
+      "transliteration": "law"
+    },
+    {
+      "id": 71048,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 71049,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_003.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 71050,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_004.mp3",
+      "text": "ءَالِهَةًۭ",
+      "translation": "Tuhan",
+      "transliteration": "ālihatan"
+    },
+    {
+      "id": 71051,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_005.mp3",
+      "text": "مَّا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 71052,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_006.mp3",
+      "text": "وَرَدُوهَا ۖ",
+      "translation": "datang/memasukinya",
+      "transliteration": "waradūhā"
+    },
+    {
+      "id": 71054,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_008.mp3",
+      "text": "وَكُلٌّۭ",
+      "translation": "dan tiap-tiap/semuanya",
+      "transliteration": "wakullun"
+    },
+    {
+      "id": 71055,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_009.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 71056,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_099_010.mp3",
+      "text": "خَـٰلِدُونَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidūna"
+    },
+    {
+      "id": 71057,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Andaikata berhala-berhala itu Tuhan, tentulah mereka tidak masuk neraka.  Dan semuanya akan kekal di dalamnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1394460,
+    "timestamp_to": 1408300,
+    "duration": 13850,
+    "segments": [
+      [
+        1,
+        1394405,
+        1394965
+      ],
+      [
+        2,
+        1394965,
+        1395665
+      ],
+      [
+        3,
+        1395665,
+        1399235
+      ],
+      [
+        4,
+        1399235,
+        1400265
+      ],
+      [
+        5,
+        1400265,
+        1401575
+      ],
+      [
+        6,
+        1401575,
+        1402785
+      ],
+      [
+        7,
+        1402785,
+        1404305
+      ],
+      [
+        8,
+        1404305,
+        1405725
+      ],
+      [
+        9,
+        1405725,
+        1408230
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1578,
+  "chapter_id": 11,
+  "verse_key": "11:105",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِۦ ۚ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 72714,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 72715,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_002.mp3",
+      "text": "يَأْتِ",
+      "translation": "datang",
+      "transliteration": "yati"
+    },
+    {
+      "id": 72716,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 72717,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_004.mp3",
+      "text": "تَكَلَّمُ",
+      "translation": "berbicara",
+      "transliteration": "takallamu"
+    },
+    {
+      "id": 72718,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_005.mp3",
+      "text": "نَفْسٌ",
+      "translation": "seseorang",
+      "transliteration": "nafsun"
+    },
+    {
+      "id": 72719,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_006.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 72720,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_007.mp3",
+      "text": "بِإِذْنِهِۦ ۚ",
+      "translation": "dengan izinNya",
+      "transliteration": "bi-idh'nihi"
+    },
+    {
+      "id": 72722,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_009.mp3",
+      "text": "فَمِنْهُمْ",
+      "translation": "maka diantara mereka",
+      "transliteration": "famin'hum"
+    },
+    {
+      "id": 72723,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_010.mp3",
+      "text": "شَقِىٌّۭ",
+      "translation": "celaka",
+      "transliteration": "shaqiyyun"
+    },
+    {
+      "id": 72724,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_105_011.mp3",
+      "text": "وَسَعِيدٌۭ",
+      "translation": "dan berbahagia",
+      "transliteration": "wasaʿīdun"
+    },
+    {
+      "id": 72725,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٠٥",
+      "translation": "(105)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di kala datang hari itu, tidak ada seorang pun yang berbicara, melainkan dengan izin-Nya; maka di antara mereka ada yang celaka dan ada yang berbahagia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2407640,
+    "timestamp_to": 2420200,
+    "duration": 12570,
+    "segments": [
+      [
+        1,
+        2407605,
+        2408195
+      ],
+      [
+        2,
+        2408195,
+        2409015
+      ],
+      [
+        3,
+        2409015,
+        2409355
+      ],
+      [
+        4,
+        2409355,
+        2410485
+      ],
+      [
+        5,
+        2410485,
+        2411335
+      ],
+      [
+        6,
+        2411335,
+        2412275
+      ],
+      [
+        7,
+        2412275,
+        2413455
+      ],
+      [
+        8,
+        2413455,
+        2414755
+      ],
+      [
+        9,
+        2414755,
+        2416205
+      ],
+      [
+        10,
+        2416205,
+        2420140
+      ]
+    ]
+  }
+}

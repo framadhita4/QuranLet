@@ -1,0 +1,86 @@
+{
+  "id": 6213,
+  "chapter_id": 109,
+  "verse_key": "109:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3",
+  "words": [
+    {
+      "id": 6550,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_006_001.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 6551,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_006_002.mp3",
+      "text": "دِينُكُمْ",
+      "translation": "agamamu",
+      "transliteration": "dīnukum"
+    },
+    {
+      "id": 6552,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_006_003.mp3",
+      "text": "وَلِىَ",
+      "translation": "bagiku",
+      "transliteration": "waliya"
+    },
+    {
+      "id": 6553,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_006_004.mp3",
+      "text": "دِينِ",
+      "translation": "agamaku",
+      "transliteration": "dīni"
+    },
+    {
+      "id": 6554,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Untukmulah agamamu dan untukkulah agamaku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 38290,
+    "timestamp_to": 44530,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        38215,
+        38805
+      ],
+      [
+        2,
+        38805,
+        39935
+      ],
+      [
+        3,
+        39935,
+        40725
+      ],
+      [
+        4,
+        40725,
+        43680
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 3843,
+  "chapter_id": 37,
+  "verse_key": "37:55",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 51994,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_055_001.mp3",
+      "text": "فَٱطَّلَعَ",
+      "translation": "maka ia melihat/menjenguk",
+      "transliteration": "fa-iṭṭalaʿa"
+    },
+    {
+      "id": 51995,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_055_002.mp3",
+      "text": "فَرَءَاهُ",
+      "translation": "lalu ia melihatnya",
+      "transliteration": "faraāhu"
+    },
+    {
+      "id": 51996,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_055_003.mp3",
+      "text": "فِى",
+      "translation": "di/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 51997,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_055_004.mp3",
+      "text": "سَوَآءِ",
+      "translation": "tengah",
+      "transliteration": "sawāi"
+    },
+    {
+      "id": 51998,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_055_005.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka yang menyala-nyala",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 51999,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka ia meninjaunya, lalu dia melihat temannya itu di tengah-tengah neraka menyala-nyala.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 465690,
+    "timestamp_to": 473870,
+    "duration": 8180,
+    "segments": [
+      [
+        1,
+        465625,
+        466685
+      ],
+      [
+        2,
+        466685,
+        467765
+      ],
+      [
+        3,
+        467765,
+        468135
+      ],
+      [
+        4,
+        468135,
+        470475
+      ],
+      [
+        5,
+        470475,
+        473730
+      ]
+    ]
+  }
+}

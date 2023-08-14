@@ -1,0 +1,73 @@
+{
+  "id": 3033,
+  "chapter_id": 26,
+  "verse_key": "26:101",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَلَا صَدِيقٍ حَمِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 71469,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_101_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak ada",
+      "transliteration": "walā"
+    },
+    {
+      "id": 71470,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_101_002.mp3",
+      "text": "صَدِيقٍ",
+      "translation": "sahabat",
+      "transliteration": "ṣadīqin"
+    },
+    {
+      "id": 71471,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_101_003.mp3",
+      "text": "حَمِيمٍۢ",
+      "translation": "setia/akrab",
+      "transliteration": "ḥamīmin"
+    },
+    {
+      "id": 71472,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠١",
+      "translation": "(101)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tidak pula mempunyai teman yang akrab,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 933510,
+    "timestamp_to": 938260,
+    "duration": 4760,
+    "segments": [
+      [
+        1,
+        933475,
+        934035
+      ],
+      [
+        2,
+        934035,
+        935145
+      ],
+      [
+        3,
+        935145,
+        938180
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 170,
+  "chapter_id": 2,
+  "verse_key": "2:163",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "ruku_number": 20,
+  "manzil_number": 1,
+  "page_number": 24,
+  "juz_number": 2,
+  "text_uthmani": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 82156,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_001.mp3",
+      "text": "وَإِلَـٰهُكُمْ",
+      "translation": "dan Tuhanmu",
+      "transliteration": "wa-ilāhukum"
+    },
+    {
+      "id": 82157,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_002.mp3",
+      "text": "إِلَـٰهٌۭ",
+      "translation": "Tuhan",
+      "transliteration": "ilāhun"
+    },
+    {
+      "id": 82158,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_003.mp3",
+      "text": "وَٰحِدٌۭ ۖ",
+      "translation": "satu/esa",
+      "transliteration": "wāḥidun"
+    },
+    {
+      "id": 82160,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_005.mp3",
+      "text": "لَّآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 82161,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_006.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "Tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 82162,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_007.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 82163,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_008.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 82164,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_009.mp3",
+      "text": "ٱلرَّحْمَـٰنُ",
+      "translation": "Maha Pengasih",
+      "transliteration": "l-raḥmānu"
+    },
+    {
+      "id": 82165,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_163_010.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 82166,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٦٣",
+      "translation": "(163)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Tuhan-mu adalah Tuhan Yang Maha Esa; tidak ada Tuhan (yang berhak disembah) melainkan Dia, Yang Maha Pemurah lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3552930,
+    "timestamp_to": 3564760,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        3552845,
+        3554265
+      ],
+      [
+        2,
+        3554265,
+        3555825
+      ],
+      [
+        3,
+        3555825,
+        3556955
+      ],
+      [
+        4,
+        3556955,
+        3558625
+      ],
+      [
+        5,
+        3558625,
+        3559365
+      ],
+      [
+        6,
+        3559365,
+        3560165
+      ],
+      [
+        7,
+        3560165,
+        3560555
+      ],
+      [
+        8,
+        3560555,
+        3561825
+      ],
+      [
+        9,
+        3561825,
+        3564620
+      ]
+    ]
+  }
+}

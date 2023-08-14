@@ -1,0 +1,60 @@
+{
+  "id": 5623,
+  "chapter_id": 77,
+  "verse_key": "77:1",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 673,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_001_001.mp3",
+      "text": "وَٱلْمُرْسَلَـٰتِ",
+      "translation": "demi yang dikirim",
+      "transliteration": "wal-mur'salāti"
+    },
+    {
+      "id": 674,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_001_002.mp3",
+      "text": "عُرْفًۭا",
+      "translation": "kebaikan",
+      "transliteration": "ʿur'fan"
+    },
+    {
+      "id": 675,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi malaikat-malaikat yang diutus untuk membawa kebaikan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3060,
+    "duration": 3060,
+    "segments": [
+      [
+        1,
+        0,
+        1590
+      ],
+      [
+        2,
+        1590,
+        2565
+      ]
+    ]
+  }
+}

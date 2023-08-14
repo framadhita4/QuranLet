@@ -1,0 +1,73 @@
+{
+  "id": 5815,
+  "chapter_id": 81,
+  "verse_key": "81:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 17581,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_015_001.mp3",
+      "text": "فَلَآ",
+      "translation": "maka sungguh",
+      "transliteration": "falā"
+    },
+    {
+      "id": 17582,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_015_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "Aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 17583,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_015_003.mp3",
+      "text": "بِٱلْخُنَّسِ",
+      "translation": "dengan bintang-bintang",
+      "transliteration": "bil-khunasi"
+    },
+    {
+      "id": 17584,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sungguh, Aku bersumpah dengan bintang-bintang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 44930,
+    "timestamp_to": 50780,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        44905,
+        46085
+      ],
+      [
+        2,
+        46085,
+        48255
+      ],
+      [
+        3,
+        48255,
+        50680
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4842,
+  "chapter_id": 53,
+  "verse_key": "53:58",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 53252,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_058_001.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 53253,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_058_002.mp3",
+      "text": "لَهَا",
+      "translation": "padanya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 53254,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_058_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 53255,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_058_004.mp3",
+      "text": "دُونِ",
+      "translation": "sisi",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 53256,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_058_005.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 53257,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_058_006.mp3",
+      "text": "كَاشِفَةٌ",
+      "translation": "menyatakan",
+      "transliteration": "kāshifatun"
+    },
+    {
+      "id": 53258,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada yang akan menyatakan terjadinya hari itu selain Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 437240,
+    "timestamp_to": 443200,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        437215,
+        437985
+      ],
+      [
+        2,
+        437985,
+        438625
+      ],
+      [
+        3,
+        438625,
+        439655
+      ],
+      [
+        4,
+        439655,
+        440655
+      ],
+      [
+        5,
+        440655,
+        441595
+      ],
+      [
+        6,
+        441595,
+        443120
+      ]
+    ]
+  }
+}

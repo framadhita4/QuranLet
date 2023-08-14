@@ -1,0 +1,112 @@
+{
+  "id": 4762,
+  "chapter_id": 52,
+  "verse_key": "52:27",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 30275,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_001.mp3",
+      "text": "فَمَنَّ",
+      "translation": "maka memberi karunia",
+      "transliteration": "famanna"
+    },
+    {
+      "id": 30276,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 30277,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_003.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 30278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_004.mp3",
+      "text": "وَوَقَىٰنَا",
+      "translation": "dan Dia memelihara kami",
+      "transliteration": "wawaqānā"
+    },
+    {
+      "id": 30279,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_005.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 30280,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_006.mp3",
+      "text": "ٱلسَّمُومِ",
+      "translation": "sangat panas",
+      "transliteration": "l-samūmi"
+    },
+    {
+      "id": 30281,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Allah memberikan karunia kepada kami dan memelihara kami dari azab neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 238460,
+    "timestamp_to": 248390,
+    "duration": 9930,
+    "segments": [
+      [
+        1,
+        238385,
+        239885
+      ],
+      [
+        2,
+        239885,
+        240945
+      ],
+      [
+        3,
+        240945,
+        241995
+      ],
+      [
+        4,
+        241995,
+        243445
+      ],
+      [
+        5,
+        243445,
+        244325
+      ],
+      [
+        6,
+        244325,
+        248230
+      ]
+    ]
+  }
+}

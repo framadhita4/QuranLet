@@ -1,0 +1,73 @@
+{
+  "id": 5768,
+  "chapter_id": 80,
+  "verse_key": "80:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 11634,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_010_001.mp3",
+      "text": "فَأَنتَ",
+      "translation": "maka kamu",
+      "transliteration": "fa-anta"
+    },
+    {
+      "id": 11635,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_010_002.mp3",
+      "text": "عَنْهُ",
+      "translation": "dari padanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 11636,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_010_003.mp3",
+      "text": "تَلَهَّىٰ",
+      "translation": "kamu mengabaikannya",
+      "transliteration": "talahhā"
+    },
+    {
+      "id": 11637,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka kamu mengabaikannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39030,
+    "timestamp_to": 42560,
+    "duration": 3530,
+    "segments": [
+      [
+        1,
+        38605,
+        39915
+      ],
+      [
+        2,
+        39915,
+        40545
+      ],
+      [
+        3,
+        40545,
+        41740
+      ]
+    ]
+  }
+}

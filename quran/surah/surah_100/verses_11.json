@@ -1,0 +1,99 @@
+{
+  "id": 6157,
+  "chapter_id": 100,
+  "verse_key": "100:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 12259,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_011_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 12260,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_011_002.mp3",
+      "text": "رَبَّهُم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbahum"
+    },
+    {
+      "id": 12261,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_011_003.mp3",
+      "text": "بِهِمْ",
+      "translation": "pada mereka",
+      "transliteration": "bihim"
+    },
+    {
+      "id": 12262,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_011_004.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 12263,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_011_005.mp3",
+      "text": "لَّخَبِيرٌۢ",
+      "translation": "benar-benar Maha Mengetahui",
+      "transliteration": "lakhabīrun"
+    },
+    {
+      "id": 12264,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui keadaan mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 49590,
+    "timestamp_to": 60140,
+    "duration": 10550,
+    "segments": [
+      [
+        1,
+        49515,
+        50825
+      ],
+      [
+        2,
+        50825,
+        52815
+      ],
+      [
+        3,
+        52815,
+        53415
+      ],
+      [
+        4,
+        53415,
+        54615
+      ],
+      [
+        5,
+        54615,
+        58230
+      ]
+    ]
+  }
+}

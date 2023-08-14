@@ -1,0 +1,99 @@
+{
+  "id": 3078,
+  "chapter_id": 26,
+  "verse_key": "26:146",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "أَتُتْرَكُونَ فِى مَا هَـٰهُنَآ ءَامِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 79919,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_146_001.mp3",
+      "text": "أَتُتْرَكُونَ",
+      "translation": "apakah kamu akan dibiarkan",
+      "transliteration": "atut'rakūna"
+    },
+    {
+      "id": 79920,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_146_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 79921,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_146_003.mp3",
+      "text": "مَا",
+      "translation": "apa (disini)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 79922,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_146_004.mp3",
+      "text": "هَـٰهُنَآ",
+      "translation": "dengan aman",
+      "transliteration": "hāhunā"
+    },
+    {
+      "id": 79923,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_146_005.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "orang-orang yang aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 79924,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٤٦",
+      "translation": "(146)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adakah kamu akan dibiarkan tinggal di sini (di negeri kamu ini) dengan aman,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1276620,
+    "timestamp_to": 1284560,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        1276595,
+        1278035
+      ],
+      [
+        2,
+        1278035,
+        1278535
+      ],
+      [
+        3,
+        1278535,
+        1278915
+      ],
+      [
+        4,
+        1278915,
+        1281545
+      ],
+      [
+        5,
+        1281545,
+        1284490
+      ]
+    ]
+  }
+}

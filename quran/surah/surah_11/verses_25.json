@@ -1,0 +1,151 @@
+{
+  "id": 1498,
+  "chapter_id": 11,
+  "verse_key": "11:25",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "ruku_number": 185,
+  "manzil_number": 3,
+  "page_number": 224,
+  "juz_number": 12,
+  "text_uthmani": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 28185,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 28186,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_002.mp3",
+      "text": "أَرْسَلْنَا",
+      "translation": "Kami telah mengutus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 28187,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_003.mp3",
+      "text": "نُوحًا",
+      "translation": "Nuh",
+      "transliteration": "nūḥan"
+    },
+    {
+      "id": 28188,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 28189,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_005.mp3",
+      "text": "قَوْمِهِۦٓ",
+      "translation": "kaumnya",
+      "transliteration": "qawmihi"
+    },
+    {
+      "id": 28190,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_006.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 28191,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_007.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 28192,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_008.mp3",
+      "text": "نَذِيرٌۭ",
+      "translation": "pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 28193,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_025_009.mp3",
+      "text": "مُّبِينٌ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 28194,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah mengutus Nūḥ kepada kaumnya, (dia berkata), \"Sesungguhnya aku adalah pemberi peringatan yang nyata bagi kamu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 595330,
+    "timestamp_to": 608130,
+    "duration": 12800,
+    "segments": [
+      [
+        1,
+        595265,
+        596095
+      ],
+      [
+        2,
+        596095,
+        597355
+      ],
+      [
+        3,
+        597355,
+        598105
+      ],
+      [
+        4,
+        598105,
+        598665
+      ],
+      [
+        5,
+        598665,
+        600985
+      ],
+      [
+        6,
+        600985,
+        602665
+      ],
+      [
+        7,
+        602665,
+        603325
+      ],
+      [
+        8,
+        603325,
+        604165
+      ],
+      [
+        9,
+        604165,
+        608030
+      ]
+    ]
+  }
+}

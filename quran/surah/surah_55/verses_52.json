@@ -1,0 +1,99 @@
+{
+  "id": 4953,
+  "chapter_id": 55,
+  "verse_key": "55:52",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 49884,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_052_001.mp3",
+      "text": "فِيهِمَا",
+      "translation": "di dalam keduanya",
+      "transliteration": "fīhimā"
+    },
+    {
+      "id": 49885,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_052_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 49886,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_052_003.mp3",
+      "text": "كُلِّ",
+      "translation": "setiap/segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 49887,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_052_004.mp3",
+      "text": "فَـٰكِهَةٍۢ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatin"
+    },
+    {
+      "id": 49888,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_052_005.mp3",
+      "text": "زَوْجَانِ",
+      "translation": "berpasangan",
+      "transliteration": "zawjāni"
+    },
+    {
+      "id": 49889,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalam kedua surga itu terdapat segala macam buah-buahan yang berpasangan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 443310,
+    "timestamp_to": 451900,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        443275,
+        444435
+      ],
+      [
+        2,
+        444435,
+        445725
+      ],
+      [
+        3,
+        445725,
+        446355
+      ],
+      [
+        4,
+        446355,
+        448545
+      ],
+      [
+        5,
+        448545,
+        451810
+      ]
+    ]
+  }
+}

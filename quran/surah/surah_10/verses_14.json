@@ -1,0 +1,164 @@
+{
+  "id": 1378,
+  "chapter_id": 10,
+  "verse_key": "10:14",
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "ruku_number": 173,
+  "manzil_number": 3,
+  "page_number": 209,
+  "juz_number": 11,
+  "text_uthmani": "ثُمَّ جَعَلْنَـٰكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 16342,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 16343,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_002.mp3",
+      "text": "جَعَلْنَـٰكُمْ",
+      "translation": "Kami jadikan kamu",
+      "transliteration": "jaʿalnākum"
+    },
+    {
+      "id": 16344,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_003.mp3",
+      "text": "خَلَـٰٓئِفَ",
+      "translation": "khalifah/pengganti-pengganti",
+      "transliteration": "khalāifa"
+    },
+    {
+      "id": 16345,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 16346,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_005.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 16347,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_006.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 16348,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_007.mp3",
+      "text": "بَعْدِهِمْ",
+      "translation": "sesudah mereka",
+      "transliteration": "baʿdihim"
+    },
+    {
+      "id": 16349,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_008.mp3",
+      "text": "لِنَنظُرَ",
+      "translation": "supaya Kami memperhatikan",
+      "transliteration": "linanẓura"
+    },
+    {
+      "id": 16350,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_009.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 16351,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_014_010.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu berbuat",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 16352,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami jadikan kamu pengganti-pengganti (mereka) di muka bumi sesudah mereka supaya Kami memperhatikan bagaimana kamu berbuat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 347420,
+    "timestamp_to": 362940,
+    "duration": 15520,
+    "segments": [
+      [
+        1,
+        347395,
+        348755
+      ],
+      [
+        2,
+        348755,
+        350285
+      ],
+      [
+        3,
+        350285,
+        352915
+      ],
+      [
+        4,
+        352915,
+        353155
+      ],
+      [
+        5,
+        353155,
+        354025
+      ],
+      [
+        6,
+        354025,
+        355375
+      ],
+      [
+        7,
+        355375,
+        356415
+      ],
+      [
+        8,
+        356415,
+        358415
+      ],
+      [
+        9,
+        358415,
+        359125
+      ],
+      [
+        10,
+        359125,
+        362860
+      ]
+    ]
+  }
+}

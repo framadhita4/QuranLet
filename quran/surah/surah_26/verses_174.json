@@ -1,0 +1,138 @@
+{
+  "id": 3106,
+  "chapter_id": 26,
+  "verse_key": "26:174",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83286,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 83287,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 83288,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 83289,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_004.mp3",
+      "text": "لَـَٔايَةًۭ ۖ",
+      "translation": "benar-benar bukti",
+      "transliteration": "laāyatan"
+    },
+    {
+      "id": 83291,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 83292,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_007.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 83293,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_008.mp3",
+      "text": "أَكْثَرُهُم",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharuhum"
+    },
+    {
+      "id": 83294,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_174_009.mp3",
+      "text": "مُّؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minīna"
+    },
+    {
+      "id": 83295,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٧٤",
+      "translation": "(174)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesunguhnya pada yang demikian itu benar-benar terdapat bukti-bukti yang nyata.  Dan adalah kebanyakan mereka tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1514980,
+    "timestamp_to": 1525320,
+    "duration": 10350,
+    "segments": [
+      [
+        1,
+        1514955,
+        1516515
+      ],
+      [
+        2,
+        1516515,
+        1516995
+      ],
+      [
+        3,
+        1516995,
+        1517865
+      ],
+      [
+        4,
+        1517865,
+        1519335
+      ],
+      [
+        5,
+        1519335,
+        1519955
+      ],
+      [
+        6,
+        1519955,
+        1520615
+      ],
+      [
+        7,
+        1520615,
+        1522375
+      ],
+      [
+        8,
+        1522375,
+        1525240
+      ]
+    ]
+  }
+}

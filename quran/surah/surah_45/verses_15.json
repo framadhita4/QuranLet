@@ -1,0 +1,177 @@
+{
+  "id": 4488,
+  "chapter_id": 45,
+  "verse_key": "45:15",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "ruku_number": 437,
+  "manzil_number": 6,
+  "page_number": 500,
+  "juz_number": 25,
+  "text_uthmani": "مَنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 17008,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_001.mp3",
+      "text": "مَنْ",
+      "translation": "barang siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 17009,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_002.mp3",
+      "text": "عَمِلَ",
+      "translation": "berbuat",
+      "transliteration": "ʿamila"
+    },
+    {
+      "id": 17010,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_003.mp3",
+      "text": "صَـٰلِحًۭا",
+      "translation": "kebaikan",
+      "transliteration": "ṣāliḥan"
+    },
+    {
+      "id": 17011,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_004.mp3",
+      "text": "فَلِنَفْسِهِۦ ۖ",
+      "translation": "maka untuk dirinya sendiri",
+      "transliteration": "falinafsihi"
+    },
+    {
+      "id": 17013,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_006.mp3",
+      "text": "وَمَنْ",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 17014,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_007.mp3",
+      "text": "أَسَآءَ",
+      "translation": "berbuat kejahatan",
+      "transliteration": "asāa"
+    },
+    {
+      "id": 17015,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_008.mp3",
+      "text": "فَعَلَيْهَا ۖ",
+      "translation": "maka atasnya",
+      "transliteration": "faʿalayhā"
+    },
+    {
+      "id": 17017,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_010.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 17018,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_011.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 17019,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_012.mp3",
+      "text": "رَبِّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbikum"
+    },
+    {
+      "id": 17020,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_015_013.mp3",
+      "text": "تُرْجَعُونَ",
+      "translation": "kalian dikembalikan",
+      "transliteration": "tur'jaʿūna"
+    },
+    {
+      "id": 17021,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang mengerjakan amal saleh, maka itu adalah untuk dirinya sendiri dan barang siapa yang mengerjakan kejahatan, maka itu akan menimpa dirinya sendiri, kemudian kepada Tuhan-mulah kamu dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 196280,
+    "timestamp_to": 211740,
+    "duration": 15470,
+    "segments": [
+      [
+        1,
+        196245,
+        196635
+      ],
+      [
+        2,
+        196635,
+        197315
+      ],
+      [
+        3,
+        197315,
+        198845
+      ],
+      [
+        4,
+        198845,
+        200485
+      ],
+      [
+        5,
+        200485,
+        201045
+      ],
+      [
+        6,
+        201045,
+        203465
+      ],
+      [
+        7,
+        203465,
+        204815
+      ],
+      [
+        8,
+        204815,
+        206425
+      ],
+      [
+        9,
+        206425,
+        207025
+      ],
+      [
+        10,
+        207025,
+        208315
+      ],
+      [
+        11,
+        208315,
+        211670
+      ]
+    ]
+  }
+}

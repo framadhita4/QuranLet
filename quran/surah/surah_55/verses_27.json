@@ -1,0 +1,112 @@
+{
+  "id": 4928,
+  "chapter_id": 55,
+  "verse_key": "55:27",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 29677,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_027_001.mp3",
+      "text": "وَيَبْقَىٰ",
+      "translation": "dan tetap/kekal",
+      "transliteration": "wayabqā"
+    },
+    {
+      "id": 29678,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_027_002.mp3",
+      "text": "وَجْهُ",
+      "translation": "wajah/zat",
+      "transliteration": "wajhu"
+    },
+    {
+      "id": 29679,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_027_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 29680,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_027_004.mp3",
+      "text": "ذُو",
+      "translation": "mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 29681,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_027_005.mp3",
+      "text": "ٱلْجَلَـٰلِ",
+      "translation": "kebesaran",
+      "transliteration": "l-jalāli"
+    },
+    {
+      "id": 29682,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_027_006.mp3",
+      "text": "وَٱلْإِكْرَامِ",
+      "translation": "dan kemuliaan",
+      "transliteration": "wal-ik'rāmi"
+    },
+    {
+      "id": 29683,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tetap kekal Wajah Tuhan-mu yang mempunyai kebesaran dan kemuliaan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 194900,
+    "timestamp_to": 203310,
+    "duration": 8410,
+    "segments": [
+      [
+        1,
+        194855,
+        195905
+      ],
+      [
+        2,
+        195905,
+        196555
+      ],
+      [
+        3,
+        196555,
+        197395
+      ],
+      [
+        4,
+        197395,
+        197605
+      ],
+      [
+        5,
+        197605,
+        198705
+      ],
+      [
+        6,
+        198705,
+        203180
+      ]
+    ]
+  }
+}

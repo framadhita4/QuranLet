@@ -1,0 +1,86 @@
+{
+  "id": 3144,
+  "chapter_id": 26,
+  "verse_key": "26:212",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85662,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_212_001.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 85663,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_212_002.mp3",
+      "text": "عَنِ",
+      "translation": "daripada",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 85664,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_212_003.mp3",
+      "text": "ٱلسَّمْعِ",
+      "translation": "mendengar",
+      "transliteration": "l-samʿi"
+    },
+    {
+      "id": 85665,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_212_004.mp3",
+      "text": "لَمَعْزُولُونَ",
+      "translation": "benar-benar mereka dijauhkan",
+      "transliteration": "lamaʿzūlūna"
+    },
+    {
+      "id": 85666,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢١٢",
+      "translation": "(212)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya, mereka benar-benar dijauhkan daripada mendengar Al-Qur`ān itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1830040,
+    "timestamp_to": 1836410,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        1829995,
+        1831505
+      ],
+      [
+        2,
+        1831505,
+        1831935
+      ],
+      [
+        3,
+        1831935,
+        1832855
+      ],
+      [
+        4,
+        1832855,
+        1836340
+      ]
+    ]
+  }
+}

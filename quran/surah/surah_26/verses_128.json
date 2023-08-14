@@ -1,0 +1,99 @@
+{
+  "id": 3060,
+  "chapter_id": 26,
+  "verse_key": "26:128",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 77683,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_001.mp3",
+      "text": "أَتَبْنُونَ",
+      "translation": "mengapa kamu membangun",
+      "transliteration": "atabnūna"
+    },
+    {
+      "id": 77684,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_002.mp3",
+      "text": "بِكُلِّ",
+      "translation": "pada tiap-tiap",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 77685,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_003.mp3",
+      "text": "رِيعٍ",
+      "translation": "tempat yang tinggi",
+      "transliteration": "rīʿin"
+    },
+    {
+      "id": 77686,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_004.mp3",
+      "text": "ءَايَةًۭ",
+      "translation": "suatu tanda",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 77687,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_005.mp3",
+      "text": "تَعْبَثُونَ",
+      "translation": "kamu berlaku sia-sia",
+      "transliteration": "taʿbathūna"
+    },
+    {
+      "id": 77688,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٢٨",
+      "translation": "(128)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kamu mendirikan pada tiap-tiap tanah tinggi bangunan untuk bermain-main <sup foot_note_id=\"1087\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1138090,
+    "timestamp_to": 1146270,
+    "duration": 8180,
+    "segments": [
+      [
+        1,
+        1138045,
+        1139315
+      ],
+      [
+        2,
+        1139315,
+        1140165
+      ],
+      [
+        3,
+        1140165,
+        1140935
+      ],
+      [
+        4,
+        1140935,
+        1142905
+      ],
+      [
+        5,
+        1142905,
+        1146170
+      ]
+    ]
+  }
+}

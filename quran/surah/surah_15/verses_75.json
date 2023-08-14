@@ -1,0 +1,99 @@
+{
+  "id": 1877,
+  "chapter_id": 15,
+  "verse_key": "15:75",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْمُتَوَسِّمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 62016,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_075_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62017,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_075_002.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 62018,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_075_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 62019,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_075_004.mp3",
+      "text": "لَـَٔايَـٰتٍۢ",
+      "translation": "sungguh tanda-tanda",
+      "transliteration": "laāyātin"
+    },
+    {
+      "id": 62020,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_075_005.mp3",
+      "text": "لِّلْمُتَوَسِّمِينَ",
+      "translation": "bagi orang-orang yang berfikir",
+      "transliteration": "lil'mutawassimīna"
+    },
+    {
+      "id": 62021,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Kami) bagi orang-orang yang memperhatikan tanda-tanda.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 732710,
+    "timestamp_to": 740360,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        732665,
+        733935
+      ],
+      [
+        2,
+        733935,
+        734405
+      ],
+      [
+        3,
+        734405,
+        735275
+      ],
+      [
+        4,
+        735275,
+        736565
+      ],
+      [
+        5,
+        736565,
+        740290
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 2738,
+  "chapter_id": 23,
+  "verse_key": "23:65",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 346,
+  "juz_number": 18,
+  "text_uthmani": "لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 57210,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_001.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 57211,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_002.mp3",
+      "text": "تَجْـَٔرُوا۟",
+      "translation": "kamu memekik",
+      "transliteration": "tajarū"
+    },
+    {
+      "id": 57212,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_003.mp3",
+      "text": "ٱلْيَوْمَ ۖ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 57214,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_005.mp3",
+      "text": "إِنَّكُم",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 57215,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_006.mp3",
+      "text": "مِّنَّا",
+      "translation": "dari Kami",
+      "transliteration": "minnā"
+    },
+    {
+      "id": 57216,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_007.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 57217,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_065_008.mp3",
+      "text": "تُنصَرُونَ",
+      "translation": "kamu ditolong",
+      "transliteration": "tunṣarūna"
+    },
+    {
+      "id": 57218,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦٥",
+      "translation": "(65)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Janganlah kamu memekik minta tolong pada hari ini.   Sesungguhnya kamu tiada akan mendapat pertolongan dari Kami.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 832420,
+    "timestamp_to": 844670,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        832365,
+        832895
+      ],
+      [
+        2,
+        832895,
+        836185
+      ],
+      [
+        3,
+        836185,
+        836355
+      ],
+      [
+        4,
+        836355,
+        838255
+      ],
+      [
+        5,
+        838255,
+        840395
+      ],
+      [
+        6,
+        840395,
+        840785
+      ],
+      [
+        7,
+        840785,
+        844570
+      ]
+    ]
+  }
+}

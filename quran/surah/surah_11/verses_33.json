@@ -1,0 +1,164 @@
+{
+  "id": 1506,
+  "chapter_id": 11,
+  "verse_key": "11:33",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "ruku_number": 185,
+  "manzil_number": 3,
+  "page_number": 225,
+  "juz_number": 12,
+  "text_uthmani": "قَالَ إِنَّمَا يَأْتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعْجِزِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 35615,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Nuh) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 35616,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_002.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 35617,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_003.mp3",
+      "text": "يَأْتِيكُم",
+      "translation": "akan mendatangkan kepadamu",
+      "transliteration": "yatīkum"
+    },
+    {
+      "id": 35618,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_004.mp3",
+      "text": "بِهِ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 35619,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_005.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 35620,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_006.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 35621,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_007.mp3",
+      "text": "شَآءَ",
+      "translation": "Dia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 35622,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_008.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 35623,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_009.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 35624,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_033_010.mp3",
+      "text": "بِمُعْجِزِينَ",
+      "translation": "dengan melepaskan diri",
+      "transliteration": "bimuʿ'jizīna"
+    },
+    {
+      "id": 35625,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Nūḥ menjawab, \"Hanyalah Allah yang akan mendatangkan azab itu kepadamu jika Dia menghendaki dan kamu sekali-kali tidak dapat melepaskan diri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 804070,
+    "timestamp_to": 821830,
+    "duration": 17760,
+    "segments": [
+      [
+        1,
+        804045,
+        804685
+      ],
+      [
+        2,
+        804685,
+        806565
+      ],
+      [
+        3,
+        806565,
+        808785
+      ],
+      [
+        4,
+        808785,
+        809175
+      ],
+      [
+        5,
+        809175,
+        810065
+      ],
+      [
+        6,
+        810065,
+        811215
+      ],
+      [
+        7,
+        811215,
+        813725
+      ],
+      [
+        8,
+        813725,
+        815865
+      ],
+      [
+        9,
+        815865,
+        818395
+      ],
+      [
+        10,
+        818395,
+        821750
+      ]
+    ]
+  }
+}

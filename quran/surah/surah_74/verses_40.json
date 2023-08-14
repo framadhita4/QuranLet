@@ -1,0 +1,73 @@
+{
+  "id": 5535,
+  "chapter_id": 74,
+  "verse_key": "74:40",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "فِى جَنَّـٰتٍ يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 41465,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_040_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 41466,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_040_002.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "sorga",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 41467,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_040_003.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka saling bertanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 41468,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "berada di dalam surga, mereka tanya menanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 213610,
+    "timestamp_to": 221450,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        213555,
+        214015
+      ],
+      [
+        2,
+        214015,
+        216745
+      ],
+      [
+        3,
+        216745,
+        221310
+      ]
+    ]
+  }
+}

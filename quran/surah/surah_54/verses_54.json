@@ -1,0 +1,99 @@
+{
+  "id": 4900,
+  "chapter_id": 54,
+  "verse_key": "54:54",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 51283,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_054_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 51284,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_054_002.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 51285,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_054_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 51286,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_054_004.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "surga/kebun-kebun",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 51287,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_054_005.mp3",
+      "text": "وَنَهَرٍۢ",
+      "translation": "dan sungai-sungai",
+      "transliteration": "wanaharin"
+    },
+    {
+      "id": 51288,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa itu di dalam taman-taman dan sungai-sungai,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 471860,
+    "timestamp_to": 479720,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        471805,
+        473095
+      ],
+      [
+        2,
+        473095,
+        474655
+      ],
+      [
+        3,
+        474655,
+        475215
+      ],
+      [
+        4,
+        475215,
+        478255
+      ],
+      [
+        5,
+        478255,
+        479610
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 5593,
+  "chapter_id": 76,
+  "verse_key": "76:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 1621,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 1622,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_002.mp3",
+      "text": "خَلَقْنَا",
+      "translation": "Kami telah menciptakan",
+      "transliteration": "khalaqnā"
+    },
+    {
+      "id": 1623,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_003.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 1624,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 1625,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_005.mp3",
+      "text": "نُّطْفَةٍ",
+      "translation": "setetes mani",
+      "transliteration": "nuṭ'fatin"
+    },
+    {
+      "id": 1626,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_006.mp3",
+      "text": "أَمْشَاجٍۢ",
+      "translation": "bercampur",
+      "transliteration": "amshājin"
+    },
+    {
+      "id": 1627,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_007.mp3",
+      "text": "نَّبْتَلِيهِ",
+      "translation": "Kami mengujinya",
+      "transliteration": "nabtalīhi"
+    },
+    {
+      "id": 1628,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_008.mp3",
+      "text": "فَجَعَلْنَـٰهُ",
+      "translation": "maka Kami jadikan ia",
+      "transliteration": "fajaʿalnāhu"
+    },
+    {
+      "id": 1629,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_009.mp3",
+      "text": "سَمِيعًۢا",
+      "translation": "mendengar",
+      "transliteration": "samīʿan"
+    },
+    {
+      "id": 1630,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_002_010.mp3",
+      "text": "بَصِيرًا",
+      "translation": "melihat",
+      "transliteration": "baṣīran"
+    },
+    {
+      "id": 1631,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menciptakan manusia dari setetes mani yang bercampur<sup foot_note_id=\"1536\">1</sup> yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10500,
+    "timestamp_to": 24160,
+    "duration": 13660,
+    "segments": [
+      [
+        1,
+        10475,
+        11975
+      ],
+      [
+        2,
+        11975,
+        12795
+      ],
+      [
+        3,
+        12795,
+        14585
+      ],
+      [
+        4,
+        14585,
+        14915
+      ],
+      [
+        5,
+        14915,
+        16425
+      ],
+      [
+        6,
+        16425,
+        17425
+      ],
+      [
+        7,
+        17425,
+        19355
+      ],
+      [
+        8,
+        19355,
+        20705
+      ],
+      [
+        9,
+        20705,
+        22305
+      ],
+      [
+        10,
+        22305,
+        24110
+      ]
+    ]
+  }
+}

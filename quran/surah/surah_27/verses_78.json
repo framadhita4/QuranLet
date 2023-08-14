@@ -1,0 +1,138 @@
+{
+  "id": 3237,
+  "chapter_id": 27,
+  "verse_key": "27:78",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 384,
+  "juz_number": 20,
+  "text_uthmani": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 63578,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 63579,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 63580,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_003.mp3",
+      "text": "يَقْضِى",
+      "translation": "akan memutuskan",
+      "transliteration": "yaqḍī"
+    },
+    {
+      "id": 63581,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_004.mp3",
+      "text": "بَيْنَهُم",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 63582,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_005.mp3",
+      "text": "بِحُكْمِهِۦ ۚ",
+      "translation": "dengan hukum-Nya",
+      "transliteration": "biḥuk'mihi"
+    },
+    {
+      "id": 63584,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_007.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 63585,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_008.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 63586,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_078_009.mp3",
+      "text": "ٱلْعَلِيمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-ʿalīmu"
+    },
+    {
+      "id": 63587,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu akan menyelesaikan perkara antara mereka dengan keputusan-Nya; dan Dia Maha Perkasa lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1383210,
+    "timestamp_to": 1394100,
+    "duration": 10890,
+    "segments": [
+      [
+        1,
+        1383155,
+        1384275
+      ],
+      [
+        2,
+        1384275,
+        1385175
+      ],
+      [
+        3,
+        1385175,
+        1386065
+      ],
+      [
+        4,
+        1386065,
+        1387815
+      ],
+      [
+        5,
+        1387815,
+        1389345
+      ],
+      [
+        6,
+        1389345,
+        1389985
+      ],
+      [
+        7,
+        1389985,
+        1391105
+      ],
+      [
+        8,
+        1391105,
+        1394020
+      ]
+    ]
+  }
+}

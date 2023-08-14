@@ -1,0 +1,99 @@
+{
+  "id": 5565,
+  "chapter_id": 75,
+  "verse_key": "75:14",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 16283,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_014_001.mp3",
+      "text": "بَلِ",
+      "translation": "bahkan",
+      "transliteration": "bali"
+    },
+    {
+      "id": 16284,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_014_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 16285,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_014_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 16286,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_014_004.mp3",
+      "text": "نَفْسِهِۦ",
+      "translation": "dirinya",
+      "transliteration": "nafsihi"
+    },
+    {
+      "id": 16287,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_014_005.mp3",
+      "text": "بَصِيرَةٌۭ",
+      "translation": "melihat terang (menjadi saksi)",
+      "transliteration": "baṣīratun"
+    },
+    {
+      "id": 16288,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan manusia itu menjadi saksi atas dirinya sendiri<sup foot_note_id=\"1532\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 68230,
+    "timestamp_to": 73610,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        68155,
+        68595
+      ],
+      [
+        2,
+        68595,
+        70475
+      ],
+      [
+        3,
+        70475,
+        71095
+      ],
+      [
+        4,
+        71095,
+        72065
+      ],
+      [
+        5,
+        72065,
+        73460
+      ]
+    ]
+  }
+}

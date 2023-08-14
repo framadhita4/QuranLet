@@ -1,0 +1,125 @@
+{
+  "id": 3375,
+  "chapter_id": 29,
+  "verse_key": "29:35",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "ruku_number": 346,
+  "manzil_number": 5,
+  "page_number": 400,
+  "juz_number": 20,
+  "text_uthmani": "وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 37508,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_001.mp3",
+      "text": "وَلَقَد",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 37509,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_002.mp3",
+      "text": "تَّرَكْنَا",
+      "translation": "Kami tinggalkan",
+      "transliteration": "taraknā"
+    },
+    {
+      "id": 37510,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_003.mp3",
+      "text": "مِنْهَآ",
+      "translation": "dari padanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 37511,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_004.mp3",
+      "text": "ءَايَةًۢ",
+      "translation": "suatu ayat/bukti",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 37512,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_005.mp3",
+      "text": "بَيِّنَةًۭ",
+      "translation": "yang nyata",
+      "transliteration": "bayyinatan"
+    },
+    {
+      "id": 37513,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_006.mp3",
+      "text": "لِّقَوْمٍۢ",
+      "translation": "bagi kaum",
+      "transliteration": "liqawmin"
+    },
+    {
+      "id": 37514,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_035_007.mp3",
+      "text": "يَعْقِلُونَ",
+      "translation": "mereka berakal",
+      "transliteration": "yaʿqilūna"
+    },
+    {
+      "id": 37515,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami tinggalkan darinya satu tanda yang nyata <sup foot_note_id=\"1152\">1</sup> bagi orang-orang yang berakal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 691280,
+    "timestamp_to": 704810,
+    "duration": 13530,
+    "segments": [
+      [
+        1,
+        691245,
+        692025
+      ],
+      [
+        2,
+        692025,
+        693305
+      ],
+      [
+        3,
+        693305,
+        695345
+      ],
+      [
+        4,
+        695345,
+        697245
+      ],
+      [
+        5,
+        697245,
+        698465
+      ],
+      [
+        6,
+        698465,
+        700525
+      ],
+      [
+        7,
+        700525,
+        704730
+      ]
+    ]
+  }
+}

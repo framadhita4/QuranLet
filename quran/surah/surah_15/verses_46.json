@@ -1,0 +1,73 @@
+{
+  "id": 1848,
+  "chapter_id": 15,
+  "verse_key": "15:46",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "ٱدْخُلُوهَا بِسَلَـٰمٍ ءَامِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 46242,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_046_001.mp3",
+      "text": "ٱدْخُلُوهَا",
+      "translation": "masuklah kedalamnya",
+      "transliteration": "ud'khulūhā"
+    },
+    {
+      "id": 46243,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_046_002.mp3",
+      "text": "بِسَلَـٰمٍ",
+      "translation": "dengan sejahtera",
+      "transliteration": "bisalāmin"
+    },
+    {
+      "id": 46244,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_046_003.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 46245,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka), \"Masuklah ke dalamnya dengan sejahtera lagi aman <sup foot_note_id=\"801\">1</sup>\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 453390,
+    "timestamp_to": 459500,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        453325,
+        454815
+      ],
+      [
+        2,
+        454815,
+        456125
+      ],
+      [
+        3,
+        456125,
+        459410
+      ]
+    ]
+  }
+}

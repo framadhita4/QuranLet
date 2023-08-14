@@ -1,0 +1,125 @@
+{
+  "id": 3531,
+  "chapter_id": 32,
+  "verse_key": "32:28",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "ruku_number": 362,
+  "manzil_number": 5,
+  "page_number": 417,
+  "juz_number": 21,
+  "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 31274,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_001.mp3",
+      "text": "وَيَقُولُونَ",
+      "translation": "maka mereka berkata",
+      "transliteration": "wayaqūlūna"
+    },
+    {
+      "id": 31275,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_002.mp3",
+      "text": "مَتَىٰ",
+      "translation": "kapan",
+      "transliteration": "matā"
+    },
+    {
+      "id": 31276,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 31277,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_004.mp3",
+      "text": "ٱلْفَتْحُ",
+      "translation": "kemenangan",
+      "transliteration": "l-fatḥu"
+    },
+    {
+      "id": 31278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_005.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 31279,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 31280,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_028_007.mp3",
+      "text": "صَـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "ṣādiqīna"
+    },
+    {
+      "id": 31281,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka bertanya, \"Bilakah kemenangan itu (datang) jika kamu memang orang-orang yang benar?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 445760,
+    "timestamp_to": 454350,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        445705,
+        447065
+      ],
+      [
+        2,
+        447065,
+        447635
+      ],
+      [
+        3,
+        447635,
+        448105
+      ],
+      [
+        4,
+        448105,
+        448865
+      ],
+      [
+        5,
+        448865,
+        449895
+      ],
+      [
+        6,
+        449895,
+        451225
+      ],
+      [
+        7,
+        451225,
+        454260
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 52,
+  "chapter_id": 2,
+  "verse_key": "2:45",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 6,
+  "manzil_number": 1,
+  "page_number": 7,
+  "juz_number": 1,
+  "text_uthmani": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 45413,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_001.mp3",
+      "text": "وَٱسْتَعِينُوا۟",
+      "translation": "dan mohonlah pertolongan",
+      "transliteration": "wa-is'taʿīnū"
+    },
+    {
+      "id": 45414,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_002.mp3",
+      "text": "بِٱلصَّبْرِ",
+      "translation": "dengan sabar",
+      "transliteration": "bil-ṣabri"
+    },
+    {
+      "id": 45415,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_003.mp3",
+      "text": "وَٱلصَّلَوٰةِ ۚ",
+      "translation": "dan sholat",
+      "transliteration": "wal-ṣalati"
+    },
+    {
+      "id": 45417,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_005.mp3",
+      "text": "وَإِنَّهَا",
+      "translation": "dan sesungguhnya ia",
+      "transliteration": "wa-innahā"
+    },
+    {
+      "id": 45418,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_006.mp3",
+      "text": "لَكَبِيرَةٌ",
+      "translation": "sungguh berat",
+      "transliteration": "lakabīratun"
+    },
+    {
+      "id": 45419,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_007.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 45420,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_008.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 45421,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_045_009.mp3",
+      "text": "ٱلْخَـٰشِعِينَ",
+      "translation": "orang-orang yang khusyu'",
+      "transliteration": "l-khāshiʿīna"
+    },
+    {
+      "id": 45422,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mintalah pertolongan (kepada Allah) dengan sabar dan salat.  Dan sesungguhnya yang demikian itu sungguh berat, kecuali bagi orang-orang yang khusyuk,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 816800,
+    "timestamp_to": 829160,
+    "duration": 12360,
+    "segments": [
+      [
+        1,
+        816695,
+        818045
+      ],
+      [
+        2,
+        818045,
+        818975
+      ],
+      [
+        3,
+        818975,
+        821945
+      ],
+      [
+        4,
+        821945,
+        823645
+      ],
+      [
+        5,
+        823645,
+        824885
+      ],
+      [
+        6,
+        824885,
+        825685
+      ],
+      [
+        7,
+        825685,
+        826055
+      ],
+      [
+        8,
+        826055,
+        828990
+      ]
+    ]
+  }
+}

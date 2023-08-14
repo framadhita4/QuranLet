@@ -1,0 +1,73 @@
+{
+  "id": 5674,
+  "chapter_id": 78,
+  "verse_key": "78:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 1691,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_002_001.mp3",
+      "text": "عَنِ",
+      "translation": "dari/tentang",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 1692,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_002_002.mp3",
+      "text": "ٱلنَّبَإِ",
+      "translation": "berita",
+      "transliteration": "l-naba-i"
+    },
+    {
+      "id": 1693,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_002_003.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "besar",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 1694,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tentang berita yang besar<sup foot_note_id=\"1545\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6430,
+    "timestamp_to": 11550,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        6345,
+        6835
+      ],
+      [
+        2,
+        6835,
+        8265
+      ],
+      [
+        3,
+        8265,
+        11390
+      ]
+    ]
+  }
+}

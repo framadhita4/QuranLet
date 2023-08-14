@@ -1,0 +1,86 @@
+{
+  "id": 6199,
+  "chapter_id": 107,
+  "verse_key": "107:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "words": [
+    {
+      "id": 1007,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_002_001.mp3",
+      "text": "فَذَٰلِكَ",
+      "translation": "maka itulah",
+      "transliteration": "fadhālika"
+    },
+    {
+      "id": 1008,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_002_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 1009,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_002_003.mp3",
+      "text": "يَدُعُّ",
+      "translation": "dia menghardik",
+      "transliteration": "yaduʿʿu"
+    },
+    {
+      "id": 1010,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_002_004.mp3",
+      "text": "ٱلْيَتِيمَ",
+      "translation": "anak yatim",
+      "transliteration": "l-yatīma"
+    },
+    {
+      "id": 1011,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah orang yang menghardik anak yatim,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6270,
+    "timestamp_to": 12800,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        6185,
+        7335
+      ],
+      [
+        2,
+        7335,
+        8185
+      ],
+      [
+        3,
+        8185,
+        8955
+      ],
+      [
+        4,
+        8955,
+        12620
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 4085,
+  "chapter_id": 39,
+  "verse_key": "39:27",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 400,
+  "manzil_number": 6,
+  "page_number": 461,
+  "juz_number": 23,
+  "text_uthmani": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 29471,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 29472,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_002.mp3",
+      "text": "ضَرَبْنَا",
+      "translation": "telah Kami buat",
+      "transliteration": "ḍarabnā"
+    },
+    {
+      "id": 29473,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_003.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "bagi manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 29474,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 29475,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_005.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 29476,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_006.mp3",
+      "text": "ٱلْقُرْءَانِ",
+      "translation": "Al Qur'an",
+      "transliteration": "l-qur'āni"
+    },
+    {
+      "id": 29477,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_007.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 29478,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_008.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 29479,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_009.mp3",
+      "text": "مَثَلٍۢ",
+      "translation": "perumpamaan",
+      "transliteration": "mathalin"
+    },
+    {
+      "id": 29480,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_010.mp3",
+      "text": "لَّعَلَّهُمْ",
+      "translation": "agar mereka",
+      "transliteration": "laʿallahum"
+    },
+    {
+      "id": 29481,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_027_011.mp3",
+      "text": "يَتَذَكَّرُونَ",
+      "translation": "mereka mengambil pelajaran",
+      "transliteration": "yatadhakkarūna"
+    },
+    {
+      "id": 29482,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya telah Kami buatkan bagi manusia dalam Al-Qur`ān ini setiap macam perumpamaan supaya mereka dapat pelajaran.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 626800,
+    "timestamp_to": 640280,
+    "duration": 13480,
+    "segments": [
+      [
+        1,
+        626775,
+        627535
+      ],
+      [
+        2,
+        627535,
+        628645
+      ],
+      [
+        3,
+        628645,
+        630365
+      ],
+      [
+        4,
+        630365,
+        630785
+      ],
+      [
+        5,
+        630785,
+        631395
+      ],
+      [
+        6,
+        631395,
+        632655
+      ],
+      [
+        7,
+        632655,
+        633595
+      ],
+      [
+        8,
+        633595,
+        634195
+      ],
+      [
+        9,
+        634195,
+        634945
+      ],
+      [
+        10,
+        634945,
+        636245
+      ],
+      [
+        11,
+        636245,
+        640210
+      ]
+    ]
+  }
+}

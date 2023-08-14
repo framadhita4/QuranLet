@@ -1,0 +1,138 @@
+{
+  "id": 53,
+  "chapter_id": 2,
+  "verse_key": "2:46",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 6,
+  "manzil_number": 1,
+  "page_number": 7,
+  "juz_number": 1,
+  "text_uthmani": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 46131,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 46132,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_002.mp3",
+      "text": "يَظُنُّونَ",
+      "translation": "mereka menyangka",
+      "transliteration": "yaẓunnūna"
+    },
+    {
+      "id": 46133,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_003.mp3",
+      "text": "أَنَّهُم",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 46134,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_004.mp3",
+      "text": "مُّلَـٰقُوا۟",
+      "translation": "mereka menemui",
+      "transliteration": "mulāqū"
+    },
+    {
+      "id": 46135,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_005.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 46136,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_006.mp3",
+      "text": "وَأَنَّهُمْ",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-annahum"
+    },
+    {
+      "id": 46137,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_007.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepadaNya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 46138,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_046_008.mp3",
+      "text": "رَٰجِعُونَ",
+      "translation": "mereka kembali",
+      "transliteration": "rājiʿūna"
+    },
+    {
+      "id": 46139,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang meyakini bahwa mereka akan menemui Tuhan-nya, dan bahwa mereka akan kembali kepada-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 829160,
+    "timestamp_to": 841990,
+    "duration": 12830,
+    "segments": [
+      [
+        1,
+        829095,
+        830175
+      ],
+      [
+        2,
+        830175,
+        831835
+      ],
+      [
+        3,
+        831835,
+        833345
+      ],
+      [
+        4,
+        833345,
+        834995
+      ],
+      [
+        5,
+        834995,
+        835985
+      ],
+      [
+        6,
+        835985,
+        837795
+      ],
+      [
+        7,
+        837795,
+        838525
+      ],
+      [
+        8,
+        838525,
+        841830
+      ]
+    ]
+  }
+}

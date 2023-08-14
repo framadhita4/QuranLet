@@ -1,0 +1,112 @@
+{
+  "id": 4653,
+  "chapter_id": 50,
+  "verse_key": "50:23",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "وَقَالَ قَرِينُهُۥ هَـٰذَا مَا لَدَىَّ عَتِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 26342,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_023_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 26343,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_023_002.mp3",
+      "text": "قَرِينُهُۥ",
+      "translation": "temannya",
+      "transliteration": "qarīnuhu"
+    },
+    {
+      "id": 26344,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_023_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 26345,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_023_004.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 26346,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_023_005.mp3",
+      "text": "لَدَىَّ",
+      "translation": "di sisiku",
+      "transliteration": "ladayya"
+    },
+    {
+      "id": 26347,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_023_006.mp3",
+      "text": "عَتِيدٌ",
+      "translation": "tersedia",
+      "transliteration": "ʿatīdun"
+    },
+    {
+      "id": 26348,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan yang menyertai dia berkata, \"Inilah (catatan amalnya) yang tersedia pada sisiku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 283310,
+    "timestamp_to": 291300,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        283245,
+        284315
+      ],
+      [
+        2,
+        284315,
+        285765
+      ],
+      [
+        3,
+        285765,
+        286695
+      ],
+      [
+        4,
+        286695,
+        287215
+      ],
+      [
+        5,
+        287215,
+        288155
+      ],
+      [
+        6,
+        288155,
+        291190
+      ]
+    ]
+  }
+}

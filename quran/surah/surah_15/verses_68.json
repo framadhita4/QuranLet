@@ -1,0 +1,112 @@
+{
+  "id": 1870,
+  "chapter_id": 15,
+  "verse_key": "15:68",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "قَالَ إِنَّ هَـٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 58825,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_068_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Luth) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 58826,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_068_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 58827,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_068_003.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 58828,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_068_004.mp3",
+      "text": "ضَيْفِى",
+      "translation": "tamuku",
+      "transliteration": "ḍayfī"
+    },
+    {
+      "id": 58829,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_068_005.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 58830,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_068_006.mp3",
+      "text": "تَفْضَحُونِ",
+      "translation": "kamu memalukan aku",
+      "transliteration": "tafḍaḥūni"
+    },
+    {
+      "id": 58831,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lūṭ berkata, \"Sesungguhnya mereka adalah tamuku, maka janganlah kamu memberi malu (kepadaku),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 668600,
+    "timestamp_to": 678660,
+    "duration": 10060,
+    "segments": [
+      [
+        1,
+        668575,
+        669225
+      ],
+      [
+        2,
+        669225,
+        670315
+      ],
+      [
+        3,
+        670315,
+        674085
+      ],
+      [
+        4,
+        674085,
+        674955
+      ],
+      [
+        5,
+        674955,
+        675595
+      ],
+      [
+        6,
+        675595,
+        678600
+      ]
+    ]
+  }
+}

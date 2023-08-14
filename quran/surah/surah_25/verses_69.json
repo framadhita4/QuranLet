@@ -1,0 +1,138 @@
+{
+  "id": 2924,
+  "chapter_id": 25,
+  "verse_key": "25:69",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 315,
+  "manzil_number": 4,
+  "page_number": 366,
+  "juz_number": 19,
+  "text_uthmani": "يُضَـٰعَفْ لَهُ ٱلْعَذَابُ يَوْمَ ٱلْقِيَـٰمَةِ وَيَخْلُدْ فِيهِۦ مُهَانًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 59339,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_001.mp3",
+      "text": "يُضَـٰعَفْ",
+      "translation": "akan dilipatgandakan",
+      "transliteration": "yuḍāʿaf"
+    },
+    {
+      "id": 59340,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_002.mp3",
+      "text": "لَهُ",
+      "translation": "untuknya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 59341,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_003.mp3",
+      "text": "ٱلْعَذَابُ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābu"
+    },
+    {
+      "id": 59342,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_004.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 59343,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_005.mp3",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation": "kiamat",
+      "transliteration": "l-qiyāmati"
+    },
+    {
+      "id": 59344,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_006.mp3",
+      "text": "وَيَخْلُدْ",
+      "translation": "dan dia kekal",
+      "transliteration": "wayakhlud"
+    },
+    {
+      "id": 59345,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_007.mp3",
+      "text": "فِيهِۦ",
+      "translation": "didalamnya/dalam azab",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 59346,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_069_008.mp3",
+      "text": "مُهَانًا",
+      "translation": "terhina",
+      "transliteration": "muhānan"
+    },
+    {
+      "id": 59347,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yakni) akan dilipatgandakan azab untuknya pada hari kiamat dan dia akan kekal dalam azab itu dalam keadaan terhina,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1053210,
+    "timestamp_to": 1061750,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        1053185,
+        1054345
+      ],
+      [
+        2,
+        1054345,
+        1054795
+      ],
+      [
+        3,
+        1054795,
+        1055925
+      ],
+      [
+        4,
+        1055925,
+        1056555
+      ],
+      [
+        5,
+        1056555,
+        1057985
+      ],
+      [
+        6,
+        1057985,
+        1059075
+      ],
+      [
+        7,
+        1059075,
+        1060075
+      ],
+      [
+        8,
+        1060075,
+        1061690
+      ]
+    ]
+  }
+}

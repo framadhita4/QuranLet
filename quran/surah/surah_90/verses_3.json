@@ -1,0 +1,73 @@
+{
+  "id": 6026,
+  "chapter_id": 90,
+  "verse_key": "90:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 2893,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_003_001.mp3",
+      "text": "وَوَالِدٍۢ",
+      "translation": "demi bapak",
+      "transliteration": "wawālidin"
+    },
+    {
+      "id": 2894,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_003_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2895,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_003_003.mp3",
+      "text": "وَلَدَ",
+      "translation": "ia lahirkan (anak)",
+      "transliteration": "walada"
+    },
+    {
+      "id": 2896,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan demi bapak dan anaknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11440,
+    "timestamp_to": 15250,
+    "duration": 3810,
+    "segments": [
+      [
+        1,
+        11375,
+        13365
+      ],
+      [
+        2,
+        13365,
+        13925
+      ],
+      [
+        3,
+        13925,
+        15100
+      ]
+    ]
+  }
+}

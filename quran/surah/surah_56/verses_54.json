@@ -1,0 +1,86 @@
+{
+  "id": 5033,
+  "chapter_id": 56,
+  "verse_key": "56:54",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 51340,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_054_001.mp3",
+      "text": "فَشَـٰرِبُونَ",
+      "translation": "maka akan meminum",
+      "transliteration": "fashāribūna"
+    },
+    {
+      "id": 51341,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_054_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 51342,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_054_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 51343,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_054_004.mp3",
+      "text": "ٱلْحَمِيمِ",
+      "translation": "air panas yang mendidih",
+      "transliteration": "l-ḥamīmi"
+    },
+    {
+      "id": 51344,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesudah itu kamu akan meminum air yang sangat panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 361250,
+    "timestamp_to": 367990,
+    "duration": 6740,
+    "segments": [
+      [
+        1,
+        361165,
+        362735
+      ],
+      [
+        2,
+        362735,
+        363725
+      ],
+      [
+        3,
+        363725,
+        364105
+      ],
+      [
+        4,
+        364105,
+        367820
+      ]
+    ]
+  }
+}

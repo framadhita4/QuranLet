@@ -1,0 +1,112 @@
+{
+  "id": 5421,
+  "chapter_id": 71,
+  "verse_key": "71:2",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 1557,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_002_001.mp3",
+      "text": "قَالَ",
+      "translation": "dia (Nuh) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 1558,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_002_002.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 1559,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_002_003.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 1560,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_002_004.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 1561,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_002_005.mp3",
+      "text": "نَذِيرٌۭ",
+      "translation": "pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 1562,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_002_006.mp3",
+      "text": "مُّبِينٌ",
+      "translation": "jelas/menjelaskan",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 1563,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Nūḥ berkata, \"Hai kaumku, sesungguhnya aku adalah pemberi peringatan yang menjelaskan kepada kamu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16950,
+    "timestamp_to": 24600,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        16835,
+        17475
+      ],
+      [
+        2,
+        17475,
+        18265
+      ],
+      [
+        3,
+        18265,
+        19705
+      ],
+      [
+        4,
+        19705,
+        20275
+      ],
+      [
+        5,
+        20275,
+        21105
+      ],
+      [
+        6,
+        21105,
+        24410
+      ]
+    ]
+  }
+}

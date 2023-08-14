@@ -1,0 +1,138 @@
+{
+  "id": 2040,
+  "chapter_id": 17,
+  "verse_key": "17:11",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "ruku_number": 241,
+  "manzil_number": 4,
+  "page_number": 283,
+  "juz_number": 15,
+  "text_uthmani": "وَيَدْعُ ٱلْإِنسَـٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ ۖ وَكَانَ ٱلْإِنسَـٰنُ عَجُولًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 12081,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_001.mp3",
+      "text": "وَيَدْعُ",
+      "translation": "dan mendo'a",
+      "transliteration": "wayadʿu"
+    },
+    {
+      "id": 12082,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 12083,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_003.mp3",
+      "text": "بِٱلشَّرِّ",
+      "translation": "dengan/untuk kejahatan",
+      "transliteration": "bil-shari"
+    },
+    {
+      "id": 12084,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_004.mp3",
+      "text": "دُعَآءَهُۥ",
+      "translation": "do'anya",
+      "transliteration": "duʿāahu"
+    },
+    {
+      "id": 12085,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_005.mp3",
+      "text": "بِٱلْخَيْرِ ۖ",
+      "translation": "dengan/untuk kebaikan",
+      "transliteration": "bil-khayri"
+    },
+    {
+      "id": 12087,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_007.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 12088,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_008.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 12089,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_011_009.mp3",
+      "text": "عَجُولًۭا",
+      "translation": "tergesa-gesa",
+      "transliteration": "ʿajūlan"
+    },
+    {
+      "id": 12090,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan manusia mendoa untuk kejahatan sebagaimana ia mendoa untuk kebaikan.  Dan adalah manusia bersifat tergesa-gesa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 210650,
+    "timestamp_to": 223690,
+    "duration": 13040,
+    "segments": [
+      [
+        1,
+        210555,
+        211445
+      ],
+      [
+        2,
+        211445,
+        213485
+      ],
+      [
+        3,
+        213485,
+        214545
+      ],
+      [
+        4,
+        214545,
+        216925
+      ],
+      [
+        5,
+        216925,
+        219185
+      ],
+      [
+        6,
+        219185,
+        219935
+      ],
+      [
+        7,
+        219935,
+        222055
+      ],
+      [
+        8,
+        222055,
+        223270
+      ]
+    ]
+  }
+}

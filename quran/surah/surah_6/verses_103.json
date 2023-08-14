@@ -1,0 +1,151 @@
+{
+  "id": 892,
+  "chapter_id": 6,
+  "verse_key": "6:103",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 56,
+  "ruku_number": 114,
+  "manzil_number": 2,
+  "page_number": 141,
+  "juz_number": 7,
+  "text_uthmani": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 72166,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 72167,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_002.mp3",
+      "text": "تُدْرِكُهُ",
+      "translation": "dapat dicapaiNya",
+      "transliteration": "tud'rikuhu"
+    },
+    {
+      "id": 72168,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_003.mp3",
+      "text": "ٱلْأَبْصَـٰرُ",
+      "translation": "penglihatan (mata)",
+      "transliteration": "l-abṣāru"
+    },
+    {
+      "id": 72169,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_004.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 72170,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_005.mp3",
+      "text": "يُدْرِكُ",
+      "translation": "dapat mencapai/melihat",
+      "transliteration": "yud'riku"
+    },
+    {
+      "id": 72171,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_006.mp3",
+      "text": "ٱلْأَبْصَـٰرَ ۖ",
+      "translation": "penglihatan/yang kelihatan",
+      "transliteration": "l-abṣāra"
+    },
+    {
+      "id": 72173,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_008.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 72174,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_009.mp3",
+      "text": "ٱللَّطِيفُ",
+      "translation": "Maha Halus",
+      "transliteration": "l-laṭīfu"
+    },
+    {
+      "id": 72175,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_103_010.mp3",
+      "text": "ٱلْخَبِيرُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-khabīru"
+    },
+    {
+      "id": 72176,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia tidak dapat dicapai oleh penglihatan mata, sedang Dia dapat melihat segala yang kelihatan; dan Dia-lah Yang Maha Halus lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2533060,
+    "timestamp_to": 2543560,
+    "duration": 10500,
+    "segments": [
+      [
+        1,
+        2532995,
+        2533475
+      ],
+      [
+        2,
+        2533475,
+        2534475
+      ],
+      [
+        3,
+        2534475,
+        2535825
+      ],
+      [
+        4,
+        2535825,
+        2536265
+      ],
+      [
+        5,
+        2536265,
+        2537175
+      ],
+      [
+        6,
+        2537175,
+        2538515
+      ],
+      [
+        7,
+        2538515,
+        2538975
+      ],
+      [
+        8,
+        2538975,
+        2540085
+      ],
+      [
+        9,
+        2540085,
+        2543440
+      ]
+    ]
+  }
+}

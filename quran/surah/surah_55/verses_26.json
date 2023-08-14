@@ -1,0 +1,86 @@
+{
+  "id": 4927,
+  "chapter_id": 55,
+  "verse_key": "55:26",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 28868,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_026_001.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap/segala",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 28869,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_026_002.mp3",
+      "text": "مَنْ",
+      "translation": "siapa/apa",
+      "transliteration": "man"
+    },
+    {
+      "id": 28870,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_026_003.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 28871,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_026_004.mp3",
+      "text": "فَانٍۢ",
+      "translation": "binasa",
+      "transliteration": "fānin"
+    },
+    {
+      "id": 28872,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Semua yang ada di bumi itu akan binasa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 189470,
+    "timestamp_to": 194900,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        189405,
+        190025
+      ],
+      [
+        2,
+        190025,
+        190375
+      ],
+      [
+        3,
+        190375,
+        191505
+      ],
+      [
+        4,
+        191505,
+        194790
+      ]
+    ]
+  }
+}

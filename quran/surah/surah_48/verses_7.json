@@ -1,0 +1,138 @@
+{
+  "id": 4590,
+  "chapter_id": 48,
+  "verse_key": "48:7",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "ruku_number": 448,
+  "manzil_number": 6,
+  "page_number": 511,
+  "juz_number": 26,
+  "text_uthmani": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3",
+  "words": [
+    {
+      "id": 7383,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_001.mp3",
+      "text": "وَلِلَّهِ",
+      "translation": "dan kepunyaan Allah",
+      "transliteration": "walillahi"
+    },
+    {
+      "id": 7384,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_002.mp3",
+      "text": "جُنُودُ",
+      "translation": "bala tentara",
+      "transliteration": "junūdu"
+    },
+    {
+      "id": 7385,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 7386,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_004.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 7388,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_006.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 7389,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_007.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 7390,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_008.mp3",
+      "text": "عَزِيزًا",
+      "translation": "Maha Perkasa",
+      "transliteration": "ʿazīzan"
+    },
+    {
+      "id": 7391,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_007_009.mp3",
+      "text": "حَكِيمًا",
+      "translation": "Maha Bijaksana",
+      "transliteration": "ḥakīman"
+    },
+    {
+      "id": 7392,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kepunyaan Allah-lah tentara langit dan bumi<sup foot_note_id=\"1396\">1</sup>.  Dan adalah Allah Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 116060,
+    "timestamp_to": 125520,
+    "duration": 9460,
+    "segments": [
+      [
+        1,
+        116035,
+        117315
+      ],
+      [
+        2,
+        117315,
+        118125
+      ],
+      [
+        3,
+        118125,
+        119605
+      ],
+      [
+        4,
+        119605,
+        120975
+      ],
+      [
+        5,
+        120975,
+        121695
+      ],
+      [
+        6,
+        121695,
+        122625
+      ],
+      [
+        7,
+        122625,
+        123645
+      ],
+      [
+        8,
+        123645,
+        124860
+      ]
+    ]
+  }
+}

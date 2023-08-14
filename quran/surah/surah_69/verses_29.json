@@ -1,0 +1,73 @@
+{
+  "id": 5352,
+  "chapter_id": 69,
+  "verse_key": "69:29",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "هَلَكَ عَنِّى سُلْطَـٰنِيَهْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 31929,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_029_001.mp3",
+      "text": "هَلَكَ",
+      "translation": "telah binasa/lenyap",
+      "transliteration": "halaka"
+    },
+    {
+      "id": 31930,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_029_002.mp3",
+      "text": "عَنِّى",
+      "translation": "daripadaku",
+      "transliteration": "ʿannī"
+    },
+    {
+      "id": 31931,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_029_003.mp3",
+      "text": "سُلْطَـٰنِيَهْ",
+      "translation": "kekuasaanku",
+      "transliteration": "sul'ṭāniyah"
+    },
+    {
+      "id": 31932,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Telah hilang kekuasaanku dariku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 227750,
+    "timestamp_to": 232140,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        227685,
+        228375
+      ],
+      [
+        2,
+        228375,
+        229895
+      ],
+      [
+        3,
+        229895,
+        232030
+      ]
+    ]
+  }
+}

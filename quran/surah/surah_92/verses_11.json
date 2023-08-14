@@ -1,0 +1,112 @@
+{
+  "id": 6069,
+  "chapter_id": 92,
+  "verse_key": "92:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 12446,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_011_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 12447,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_011_002.mp3",
+      "text": "يُغْنِى",
+      "translation": "mencukupi/berguna",
+      "transliteration": "yugh'nī"
+    },
+    {
+      "id": 12448,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_011_003.mp3",
+      "text": "عَنْهُ",
+      "translation": "dari padanya/baginya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 12449,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_011_004.mp3",
+      "text": "مَالُهُۥٓ",
+      "translation": "hartanya",
+      "transliteration": "māluhu"
+    },
+    {
+      "id": 12450,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_011_005.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 12451,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_011_006.mp3",
+      "text": "تَرَدَّىٰٓ",
+      "translation": "ia telah binasa",
+      "transliteration": "taraddā"
+    },
+    {
+      "id": 12452,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan hartanya tidak bermanfaat baginya apabila ia telah binasa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39980,
+    "timestamp_to": 46950,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        39925,
+        40555
+      ],
+      [
+        2,
+        40555,
+        41465
+      ],
+      [
+        3,
+        41465,
+        42055
+      ],
+      [
+        4,
+        42055,
+        44595
+      ],
+      [
+        5,
+        44595,
+        45205
+      ],
+      [
+        6,
+        45205,
+        46520
+      ]
+    ]
+  }
+}

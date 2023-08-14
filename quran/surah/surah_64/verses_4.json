@@ -1,0 +1,216 @@
+{
+  "id": 5203,
+  "chapter_id": 64,
+  "verse_key": "64:4",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 492,
+  "manzil_number": 7,
+  "page_number": 556,
+  "juz_number": 28,
+  "text_uthmani": "يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3",
+  "words": [
+    {
+      "id": 3851,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_001.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 3852,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_002.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 3853,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 3854,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 3855,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_005.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 3856,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_006.mp3",
+      "text": "وَيَعْلَمُ",
+      "translation": "dan Dia mengetahui",
+      "transliteration": "wayaʿlamu"
+    },
+    {
+      "id": 3857,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_007.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 3858,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_008.mp3",
+      "text": "تُسِرُّونَ",
+      "translation": "kamu rahasiakan",
+      "transliteration": "tusirrūna"
+    },
+    {
+      "id": 3859,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_009.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 3860,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_010.mp3",
+      "text": "تُعْلِنُونَ ۚ",
+      "translation": "kamu nyatakan",
+      "transliteration": "tuʿ'linūna"
+    },
+    {
+      "id": 3862,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_012.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 3863,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_013.mp3",
+      "text": "عَلِيمٌۢ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 3864,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_014.mp3",
+      "text": "بِذَاتِ",
+      "translation": "dengan yang ada",
+      "transliteration": "bidhāti"
+    },
+    {
+      "id": 3865,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_004_015.mp3",
+      "text": "ٱلصُّدُورِ",
+      "translation": "dada",
+      "transliteration": "l-ṣudūri"
+    },
+    {
+      "id": 3866,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia mengetahui apa yang ada di langit dan di bumi, dan mengetahui apa yang kamu rahasiakan dan yang kamu nyatakan.  Dan Allah Maha Mengetahui segala isi hati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 40930,
+    "timestamp_to": 57410,
+    "duration": 16480,
+    "segments": [
+      [
+        1,
+        40865,
+        41835
+      ],
+      [
+        2,
+        41835,
+        42175
+      ],
+      [
+        3,
+        42175,
+        42385
+      ],
+      [
+        4,
+        42385,
+        43815
+      ],
+      [
+        5,
+        43815,
+        44885
+      ],
+      [
+        6,
+        44885,
+        45815
+      ],
+      [
+        7,
+        45815,
+        46215
+      ],
+      [
+        8,
+        46215,
+        47525
+      ],
+      [
+        9,
+        47525,
+        48025
+      ],
+      [
+        10,
+        48025,
+        51015
+      ],
+      [
+        11,
+        51015,
+        52005
+      ],
+      [
+        12,
+        52005,
+        53665
+      ],
+      [
+        13,
+        53665,
+        54525
+      ],
+      [
+        14,
+        54525,
+        57260
+      ]
+    ]
+  }
+}

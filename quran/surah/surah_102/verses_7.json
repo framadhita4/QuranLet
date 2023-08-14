@@ -1,0 +1,86 @@
+{
+  "id": 6175,
+  "chapter_id": 102,
+  "verse_key": "102:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 546,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3",
+  "words": [
+    {
+      "id": 7440,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_007_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 7441,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_007_002.mp3",
+      "text": "لَتَرَوُنَّهَا",
+      "translation": "sungguh kamu akan melihatnya",
+      "transliteration": "latarawunnahā"
+    },
+    {
+      "id": 7442,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_007_003.mp3",
+      "text": "عَيْنَ",
+      "translation": "mata/penglihatan",
+      "transliteration": "ʿayna"
+    },
+    {
+      "id": 7443,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_007_004.mp3",
+      "text": "ٱلْيَقِينِ",
+      "translation": "pasti/yakin",
+      "transliteration": "l-yaqīni"
+    },
+    {
+      "id": 7444,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kamu benar-benar akan melihatnya dengan ainul yakin<sup foot_note_id=\"1600\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32230,
+    "timestamp_to": 40280,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        32135,
+        33235
+      ],
+      [
+        2,
+        33235,
+        36005
+      ],
+      [
+        3,
+        36005,
+        36585
+      ],
+      [
+        4,
+        36585,
+        40130
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6198,
+  "chapter_id": 107,
+  "verse_key": "107:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "words": [
+    {
+      "id": 256,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_001_001.mp3",
+      "text": "أَرَءَيْتَ",
+      "translation": "tahukah kamu",
+      "transliteration": "ara-ayta"
+    },
+    {
+      "id": 257,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_001_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 258,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_001_003.mp3",
+      "text": "يُكَذِّبُ",
+      "translation": "dia mendustakan",
+      "transliteration": "yukadhibu"
+    },
+    {
+      "id": 259,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_001_004.mp3",
+      "text": "بِٱلدِّينِ",
+      "translation": "dengan agama",
+      "transliteration": "bil-dīni"
+    },
+    {
+      "id": 260,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu (orang) yang mendustakan agama?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6270,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        0,
+        1010
+      ],
+      [
+        2,
+        1010,
+        1670
+      ],
+      [
+        3,
+        1670,
+        2990
+      ],
+      [
+        4,
+        2990,
+        6185
+      ]
+    ]
+  }
+}

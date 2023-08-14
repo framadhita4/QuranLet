@@ -1,0 +1,60 @@
+{
+  "id": 5789,
+  "chapter_id": 80,
+  "verse_key": "80:31",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَفَـٰكِهَةً وَأَبًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 33784,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_031_001.mp3",
+      "text": "وَفَـٰكِهَةًۭ",
+      "translation": "dan buah-buahan",
+      "transliteration": "wafākihatan"
+    },
+    {
+      "id": 33785,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_031_002.mp3",
+      "text": "وَأَبًّۭا",
+      "translation": "dan ruput-rumputan",
+      "transliteration": "wa-abban"
+    },
+    {
+      "id": 33786,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan buah-buahan serta rumput-rumputan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 135540,
+    "timestamp_to": 139300,
+    "duration": 3760,
+    "segments": [
+      [
+        1,
+        135205,
+        136775
+      ],
+      [
+        2,
+        136775,
+        138550
+      ]
+    ]
+  }
+}

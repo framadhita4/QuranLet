@@ -1,0 +1,458 @@
+{
+  "id": 588,
+  "chapter_id": 4,
+  "verse_key": "4:95",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "ruku_number": 74,
+  "manzil_number": 1,
+  "page_number": 94,
+  "juz_number": 5,
+  "text_uthmani": "لَّا يَسْتَوِى ٱلْقَـٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَـٰعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ عَلَى ٱلْقَـٰعِدِينَ أَجْرًا عَظِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 69746,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_001.mp3",
+      "text": "لَّا",
+      "translation": "tidaklah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 69747,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_002.mp3",
+      "text": "يَسْتَوِى",
+      "translation": "sama",
+      "transliteration": "yastawī"
+    },
+    {
+      "id": 69748,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_003.mp3",
+      "text": "ٱلْقَـٰعِدُونَ",
+      "translation": "orang-orang yang duduk",
+      "transliteration": "l-qāʿidūna"
+    },
+    {
+      "id": 69749,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari/diantara",
+      "transliteration": "mina"
+    },
+    {
+      "id": 69750,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_005.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang mukmin",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 69751,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_006.mp3",
+      "text": "غَيْرُ",
+      "translation": "tidak/bukan",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 69752,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_007.mp3",
+      "text": "أُو۟لِى",
+      "translation": "mempunyai",
+      "transliteration": "ulī"
+    },
+    {
+      "id": 69753,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_008.mp3",
+      "text": "ٱلضَّرَرِ",
+      "translation": "uzur",
+      "transliteration": "l-ḍarari"
+    },
+    {
+      "id": 69754,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_009.mp3",
+      "text": "وَٱلْمُجَـٰهِدُونَ",
+      "translation": "dan orang-orang yang berjihad",
+      "transliteration": "wal-mujāhidūna"
+    },
+    {
+      "id": 69755,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_010.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 69756,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_011.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 69757,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_012.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 69758,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_013.mp3",
+      "text": "بِأَمْوَٰلِهِمْ",
+      "translation": "dengan harta benda mereka",
+      "transliteration": "bi-amwālihim"
+    },
+    {
+      "id": 69759,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_014.mp3",
+      "text": "وَأَنفُسِهِمْ ۚ",
+      "translation": "dan jiwa mereka",
+      "transliteration": "wa-anfusihim"
+    },
+    {
+      "id": 69761,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_016.mp3",
+      "text": "فَضَّلَ",
+      "translation": "melebihkan",
+      "transliteration": "faḍḍala"
+    },
+    {
+      "id": 69762,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_017.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 69763,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_018.mp3",
+      "text": "ٱلْمُجَـٰهِدِينَ",
+      "translation": "orang-orang yang berjihad",
+      "transliteration": "l-mujāhidīna"
+    },
+    {
+      "id": 69764,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_019.mp3",
+      "text": "بِأَمْوَٰلِهِمْ",
+      "translation": "dengan harta benda mereka",
+      "transliteration": "bi-amwālihim"
+    },
+    {
+      "id": 69765,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_020.mp3",
+      "text": "وَأَنفُسِهِمْ",
+      "translation": "dan jiwa mereka",
+      "transliteration": "wa-anfusihim"
+    },
+    {
+      "id": 69766,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_021.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 69767,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_022.mp3",
+      "text": "ٱلْقَـٰعِدِينَ",
+      "translation": "orang-orang yang duduk",
+      "transliteration": "l-qāʿidīna"
+    },
+    {
+      "id": 69768,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_023.mp3",
+      "text": "دَرَجَةًۭ ۚ",
+      "translation": "satu derajat",
+      "transliteration": "darajatan"
+    },
+    {
+      "id": 69770,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_025.mp3",
+      "text": "وَكُلًّۭا",
+      "translation": "dan makanlah",
+      "transliteration": "wakullan"
+    },
+    {
+      "id": 69771,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_026.mp3",
+      "text": "وَعَدَ",
+      "translation": "menjanjikan",
+      "transliteration": "waʿada"
+    },
+    {
+      "id": 69772,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_027.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 69773,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_028.mp3",
+      "text": "ٱلْحُسْنَىٰ ۚ",
+      "translation": "kebaikan",
+      "transliteration": "l-ḥus'nā"
+    },
+    {
+      "id": 69775,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_030.mp3",
+      "text": "وَفَضَّلَ",
+      "translation": "dan melebihkan",
+      "transliteration": "wafaḍḍala"
+    },
+    {
+      "id": 69776,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_031.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 69777,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_032.mp3",
+      "text": "ٱلْمُجَـٰهِدِينَ",
+      "translation": "orang-orang yang berjihad",
+      "transliteration": "l-mujāhidīna"
+    },
+    {
+      "id": 69778,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_033.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 69779,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_034.mp3",
+      "text": "ٱلْقَـٰعِدِينَ",
+      "translation": "orang-orang yang duduk",
+      "transliteration": "l-qāʿidīna"
+    },
+    {
+      "id": 69780,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_035.mp3",
+      "text": "أَجْرًا",
+      "translation": "pahala",
+      "transliteration": "ajran"
+    },
+    {
+      "id": 69781,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_095_036.mp3",
+      "text": "عَظِيمًۭا",
+      "translation": "besar",
+      "transliteration": "ʿaẓīman"
+    },
+    {
+      "id": 69782,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidaklah sama antara mukmin yang duduk (yang tidak turut berperang) yang tidak mempunyai uzur dengan orang-orang yang berjihad di jalan Allah dengan harta mereka dan jiwanya.  Allah melebihkan orang-orang yang berjihad dengan harta dan jiwanya atas orang-orang yang duduk<sup foot_note_id=\"340\">1</sup> satu derajat.  Kepada masing-masing mereka Allah menjanjikan pahala yang baik (surga), dan Allah melebihkan orang-orang yang berjihad atas orang yang duduk<sup foot_note_id=\"341\">2</sup> dengan pahala yang besar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2797450,
+    "timestamp_to": 2832720,
+    "duration": 35270,
+    "segments": [
+      [
+        1,
+        2797425,
+        2797905
+      ],
+      [
+        2,
+        2797905,
+        2798765
+      ],
+      [
+        3,
+        2798765,
+        2800145
+      ],
+      [
+        4,
+        2800145,
+        2800445
+      ],
+      [
+        5,
+        2800445,
+        2801935
+      ],
+      [
+        6,
+        2801935,
+        2802505
+      ],
+      [
+        7,
+        2802505,
+        2802825
+      ],
+      [
+        8,
+        2802825,
+        2803655
+      ],
+      [
+        9,
+        2803655,
+        2805425
+      ],
+      [
+        10,
+        2805425,
+        2805755
+      ],
+      [
+        11,
+        2805755,
+        2806855
+      ],
+      [
+        12,
+        2806855,
+        2807405
+      ],
+      [
+        13,
+        2807405,
+        2809005
+      ],
+      [
+        14,
+        2809005,
+        2810745
+      ],
+      [
+        16,
+        2810775,
+        2812865
+      ],
+      [
+        17,
+        2812865,
+        2814455
+      ],
+      [
+        18,
+        2814455,
+        2816115
+      ],
+      [
+        19,
+        2816115,
+        2817965
+      ],
+      [
+        20,
+        2817965,
+        2818345
+      ],
+      [
+        21,
+        2818345,
+        2819795
+      ],
+      [
+        22,
+        2819795,
+        2820895
+      ],
+      [
+        23,
+        2820895,
+        2822305
+      ],
+      [
+        24,
+        2822305,
+        2823085
+      ],
+      [
+        25,
+        2823085,
+        2823915
+      ],
+      [
+        26,
+        2823915,
+        2824945
+      ],
+      [
+        27,
+        2824945,
+        2826185
+      ],
+      [
+        28,
+        2826185,
+        2826985
+      ],
+      [
+        29,
+        2826985,
+        2828515
+      ],
+      [
+        30,
+        2828515,
+        2828975
+      ],
+      [
+        31,
+        2828975,
+        2830375
+      ],
+      [
+        32,
+        2830375,
+        2831235
+      ],
+      [
+        33,
+        2831235,
+        2832640
+      ]
+    ]
+  }
+}

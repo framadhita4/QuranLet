@@ -1,0 +1,60 @@
+{
+  "id": 5705,
+  "chapter_id": 78,
+  "verse_key": "78:33",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "وَكَوَاعِبَ أَتْرَابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 36038,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_033_001.mp3",
+      "text": "وَكَوَاعِبَ",
+      "translation": "dan gadis-gadis",
+      "transliteration": "wakawāʿiba"
+    },
+    {
+      "id": 36039,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_033_002.mp3",
+      "text": "أَتْرَابًۭا",
+      "translation": "sebaya",
+      "transliteration": "atrāban"
+    },
+    {
+      "id": 36040,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gadis-gadis remaja yang sebaya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 176580,
+    "timestamp_to": 179770,
+    "duration": 3190,
+    "segments": [
+      [
+        1,
+        176505,
+        177375
+      ],
+      [
+        2,
+        177375,
+        179600
+      ]
+    ]
+  }
+}

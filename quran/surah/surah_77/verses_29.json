@@ -1,0 +1,112 @@
+{
+  "id": 5651,
+  "chapter_id": 77,
+  "verse_key": "77:29",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 31975,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_029_001.mp3",
+      "text": "ٱنطَلِقُوٓا۟",
+      "translation": "pergilah kamu",
+      "transliteration": "inṭaliqū"
+    },
+    {
+      "id": 31976,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_029_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 31977,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_029_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 31978,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_029_004.mp3",
+      "text": "كُنتُم",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 31979,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_029_005.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 31980,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_029_006.mp3",
+      "text": "تُكَذِّبُونَ",
+      "translation": "kamu mendustakan",
+      "transliteration": "tukadhibūna"
+    },
+    {
+      "id": 31981,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka pada hari kiamat), \"Pergilah kamu mendapatkan azab yang dahulunya kamu mendustakannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 128700,
+    "timestamp_to": 139910,
+    "duration": 11210,
+    "segments": [
+      [
+        1,
+        128525,
+        132305
+      ],
+      [
+        2,
+        132305,
+        132875
+      ],
+      [
+        3,
+        132875,
+        133205
+      ],
+      [
+        4,
+        133205,
+        135595
+      ],
+      [
+        5,
+        135595,
+        136115
+      ],
+      [
+        6,
+        136115,
+        139640
+      ]
+    ]
+  }
+}

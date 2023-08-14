@@ -1,0 +1,60 @@
+{
+  "id": 4416,
+  "chapter_id": 44,
+  "verse_key": "44:2",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 966,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_002_001.mp3",
+      "text": "وَٱلْكِتَـٰبِ",
+      "translation": "demi kitab",
+      "transliteration": "wal-kitābi"
+    },
+    {
+      "id": 967,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_002_002.mp3",
+      "text": "ٱلْمُبِينِ",
+      "translation": "yang jelas",
+      "transliteration": "l-mubīni"
+    },
+    {
+      "id": 968,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi Kitab (Al-Qur`ān) yang menjelaskan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4730,
+    "timestamp_to": 9300,
+    "duration": 4570,
+    "segments": [
+      [
+        1,
+        4705,
+        6005
+      ],
+      [
+        2,
+        6005,
+        9220
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6142,
+  "chapter_id": 99,
+  "verse_key": "99:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 4356,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_004_001.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 4357,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_004_002.mp3",
+      "text": "تُحَدِّثُ",
+      "translation": "ia menceritakan",
+      "transliteration": "tuḥaddithu"
+    },
+    {
+      "id": 4358,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_004_003.mp3",
+      "text": "أَخْبَارَهَا",
+      "translation": "beritanya",
+      "transliteration": "akhbārahā"
+    },
+    {
+      "id": 4359,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada hari itu bumi menceritakan beritanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14340,
+    "timestamp_to": 19750,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        13765,
+        15945
+      ],
+      [
+        2,
+        15945,
+        16985
+      ],
+      [
+        3,
+        16985,
+        18640
+      ]
+    ]
+  }
+}

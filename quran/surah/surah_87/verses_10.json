@@ -1,0 +1,73 @@
+{
+  "id": 5958,
+  "chapter_id": 87,
+  "verse_key": "87:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 11671,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_010_001.mp3",
+      "text": "سَيَذَّكَّرُ",
+      "translation": "akan menerima peringatan",
+      "transliteration": "sayadhakkaru"
+    },
+    {
+      "id": 11672,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_010_002.mp3",
+      "text": "مَن",
+      "translation": "orang yang",
+      "transliteration": "man"
+    },
+    {
+      "id": 11673,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_010_003.mp3",
+      "text": "يَخْشَىٰ",
+      "translation": "ia takut",
+      "transliteration": "yakhshā"
+    },
+    {
+      "id": 11674,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "orang yang takut (kepada Allah) akan mendapat pelajaran,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 46180,
+    "timestamp_to": 50830,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        46155,
+        47815
+      ],
+      [
+        2,
+        47815,
+        48055
+      ],
+      [
+        3,
+        48055,
+        50250
+      ]
+    ]
+  }
+}

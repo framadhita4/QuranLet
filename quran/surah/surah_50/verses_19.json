@@ -1,0 +1,151 @@
+{
+  "id": 4649,
+  "chapter_id": 50,
+  "verse_key": "50:19",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 21427,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_001.mp3",
+      "text": "وَجَآءَتْ",
+      "translation": "dan datang",
+      "transliteration": "wajāat"
+    },
+    {
+      "id": 21428,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_002.mp3",
+      "text": "سَكْرَةُ",
+      "translation": "kepayahan/sekarat",
+      "transliteration": "sakratu"
+    },
+    {
+      "id": 21429,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_003.mp3",
+      "text": "ٱلْمَوْتِ",
+      "translation": "mati/maut",
+      "transliteration": "l-mawti"
+    },
+    {
+      "id": 21430,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_004.mp3",
+      "text": "بِٱلْحَقِّ ۖ",
+      "translation": "dengan sebenarnya",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 21432,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_006.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 21433,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_007.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 21434,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_008.mp3",
+      "text": "كُنتَ",
+      "translation": "kamu adalah",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 21435,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_009.mp3",
+      "text": "مِنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 21436,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_019_010.mp3",
+      "text": "تَحِيدُ",
+      "translation": "kamu lari",
+      "transliteration": "taḥīdu"
+    },
+    {
+      "id": 21437,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan datanglah sakratulmaut dengan sebenar-benarnya.  Itulah yang kamu selalu lari darinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 230050,
+    "timestamp_to": 243320,
+    "duration": 13270,
+    "segments": [
+      [
+        1,
+        229985,
+        233204
+      ],
+      [
+        2,
+        233205,
+        234145
+      ],
+      [
+        3,
+        234145,
+        235105
+      ],
+      [
+        4,
+        235105,
+        236905
+      ],
+      [
+        5,
+        236905,
+        237995
+      ],
+      [
+        6,
+        237995,
+        238415
+      ],
+      [
+        7,
+        238415,
+        239865
+      ],
+      [
+        8,
+        239865,
+        240615
+      ],
+      [
+        9,
+        240615,
+        243220
+      ]
+    ]
+  }
+}

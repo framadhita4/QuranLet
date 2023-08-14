@@ -1,0 +1,73 @@
+{
+  "id": 5749,
+  "chapter_id": 79,
+  "verse_key": "79:37",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَأَمَّا مَن طَغَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 39040,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_037_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 39041,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_037_002.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 39042,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_037_003.mp3",
+      "text": "طَغَىٰ",
+      "translation": "melampui batas",
+      "transliteration": "ṭaghā"
+    },
+    {
+      "id": 39043,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang yang melampaui batas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 173490,
+    "timestamp_to": 177200,
+    "duration": 3710,
+    "segments": [
+      [
+        1,
+        173425,
+        175005
+      ],
+      [
+        2,
+        175005,
+        176045
+      ],
+      [
+        3,
+        176045,
+        177070
+      ]
+    ]
+  }
+}

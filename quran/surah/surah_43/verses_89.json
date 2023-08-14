@@ -1,0 +1,112 @@
+{
+  "id": 4414,
+  "chapter_id": 43,
+  "verse_key": "43:89",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَـٰمٌ ۚ فَسَوْفَ يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 67852,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_089_001.mp3",
+      "text": "فَٱصْفَحْ",
+      "translation": "maka maafkanlah",
+      "transliteration": "fa-iṣ'faḥ"
+    },
+    {
+      "id": 67853,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_089_002.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 67854,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_089_003.mp3",
+      "text": "وَقُلْ",
+      "translation": "dan katakanlah",
+      "transliteration": "waqul"
+    },
+    {
+      "id": 67855,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_089_004.mp3",
+      "text": "سَلَـٰمٌۭ ۚ",
+      "translation": "selamat/sejahtera",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 67857,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_089_006.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 67858,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_089_007.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka akan mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 67859,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka berpalinglah (hai Muhammad) dari mereka dan katakanlah, \"Salam (selamat tinggal).\"  Kelak, mereka akan mengetahui (nasib mereka yang buruk).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1213840,
+    "timestamp_to": 1225780,
+    "duration": 11940,
+    "segments": [
+      [
+        1,
+        1213815,
+        1214785
+      ],
+      [
+        2,
+        1214785,
+        1215555
+      ],
+      [
+        3,
+        1215555,
+        1216125
+      ],
+      [
+        4,
+        1216125,
+        1219355
+      ],
+      [
+        5,
+        1219355,
+        1220615
+      ],
+      [
+        6,
+        1220615,
+        1225700
+      ]
+    ]
+  }
+}

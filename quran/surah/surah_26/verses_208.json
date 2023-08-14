@@ -1,0 +1,125 @@
+{
+  "id": 3140,
+  "chapter_id": 26,
+  "verse_key": "26:208",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85584,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan Kami tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 85585,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_002.mp3",
+      "text": "أَهْلَكْنَا",
+      "translation": "membinasakan",
+      "transliteration": "ahlaknā"
+    },
+    {
+      "id": 85586,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 85587,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_004.mp3",
+      "text": "قَرْيَةٍ",
+      "translation": "suatu negeri",
+      "transliteration": "qaryatin"
+    },
+    {
+      "id": 85588,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 85589,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_006.mp3",
+      "text": "لَهَا",
+      "translation": "baginya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 85590,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_208_007.mp3",
+      "text": "مُنذِرُونَ",
+      "translation": "orang-orang yang memberi peringatan",
+      "transliteration": "mundhirūna"
+    },
+    {
+      "id": 85591,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٠٨",
+      "translation": "(208)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tidak membinasakan sesuatu negeri pun, melainkan sesudah ada baginya orang-orang yang memberi peringatan;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1800780,
+    "timestamp_to": 1811230,
+    "duration": 10450,
+    "segments": [
+      [
+        1,
+        1800725,
+        1802855
+      ],
+      [
+        2,
+        1802855,
+        1804105
+      ],
+      [
+        3,
+        1804105,
+        1805055
+      ],
+      [
+        4,
+        1805055,
+        1806095
+      ],
+      [
+        5,
+        1806095,
+        1806945
+      ],
+      [
+        6,
+        1806945,
+        1807535
+      ],
+      [
+        7,
+        1807535,
+        1811140
+      ]
+    ]
+  }
+}

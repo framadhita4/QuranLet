@@ -1,0 +1,73 @@
+{
+  "id": 1875,
+  "chapter_id": 15,
+  "verse_key": "15:73",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 61109,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_073_001.mp3",
+      "text": "فَأَخَذَتْهُمُ",
+      "translation": "maka menimpa/membinasakan mereka",
+      "transliteration": "fa-akhadhathumu"
+    },
+    {
+      "id": 61110,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_073_002.mp3",
+      "text": "ٱلصَّيْحَةُ",
+      "translation": "suara keras",
+      "transliteration": "l-ṣayḥatu"
+    },
+    {
+      "id": 61111,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_073_003.mp3",
+      "text": "مُشْرِقِينَ",
+      "translation": "pada waktu matahari terbit",
+      "transliteration": "mush'riqīna"
+    },
+    {
+      "id": 61112,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka dibinasakan oleh suara keras yang mengguntur ketika matahari akan terbit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 710680,
+    "timestamp_to": 716170,
+    "duration": 5490,
+    "segments": [
+      [
+        1,
+        710575,
+        711985
+      ],
+      [
+        2,
+        711985,
+        713115
+      ],
+      [
+        3,
+        713115,
+        716040
+      ]
+    ]
+  }
+}

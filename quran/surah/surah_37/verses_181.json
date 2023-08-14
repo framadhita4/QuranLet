@@ -1,0 +1,73 @@
+{
+  "id": 3969,
+  "chapter_id": 37,
+  "verse_key": "37:181",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83921,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_181_001.mp3",
+      "text": "وَسَلَـٰمٌ",
+      "translation": "dan kesejahteraan",
+      "transliteration": "wasalāmun"
+    },
+    {
+      "id": 83922,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_181_002.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 83923,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_181_003.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 83924,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٨١",
+      "translation": "(181)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kesejahteraan dilimpahkan atas para rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1436950,
+    "timestamp_to": 1442330,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        1436885,
+        1438115
+      ],
+      [
+        2,
+        1438115,
+        1438625
+      ],
+      [
+        3,
+        1438625,
+        1442200
+      ]
+    ]
+  }
+}

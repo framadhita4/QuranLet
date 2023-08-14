@@ -1,0 +1,86 @@
+{
+  "id": 5062,
+  "chapter_id": 56,
+  "verse_key": "56:83",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 65403,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_083_001.mp3",
+      "text": "فَلَوْلَآ",
+      "translation": "mengapa tidak",
+      "transliteration": "falawlā"
+    },
+    {
+      "id": 65404,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_083_002.mp3",
+      "text": "إِذَا",
+      "translation": "tatkala",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 65405,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_083_003.mp3",
+      "text": "بَلَغَتِ",
+      "translation": "telah sampai",
+      "transliteration": "balaghati"
+    },
+    {
+      "id": 65406,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_083_004.mp3",
+      "text": "ٱلْحُلْقُومَ",
+      "translation": "kerongkongan",
+      "transliteration": "l-ḥul'qūma"
+    },
+    {
+      "id": 65407,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mengapa ketika nyawa sampai di kerongkongan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 608210,
+    "timestamp_to": 615790,
+    "duration": 7580,
+    "segments": [
+      [
+        1,
+        608085,
+        610655
+      ],
+      [
+        2,
+        610655,
+        611325
+      ],
+      [
+        3,
+        611325,
+        612275
+      ],
+      [
+        4,
+        612275,
+        615560
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 425,
+  "chapter_id": 3,
+  "verse_key": "3:132",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "ruku_number": 55,
+  "manzil_number": 1,
+  "page_number": 66,
+  "juz_number": 4,
+  "text_uthmani": "وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 78158,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_132_001.mp3",
+      "text": "وَأَطِيعُوا۟",
+      "translation": "dan taatlah kamu",
+      "transliteration": "wa-aṭīʿū"
+    },
+    {
+      "id": 78159,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_132_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 78160,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_132_003.mp3",
+      "text": "وَٱلرَّسُولَ",
+      "translation": "dan Rasul",
+      "transliteration": "wal-rasūla"
+    },
+    {
+      "id": 78161,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_132_004.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 78162,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_132_005.mp3",
+      "text": "تُرْحَمُونَ",
+      "translation": "(kamu) diberi rahmat",
+      "transliteration": "tur'ḥamūna"
+    },
+    {
+      "id": 78163,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣٢",
+      "translation": "(132)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan taatilah Allah dan rasul supaya kamu diberi rahmat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3013480,
+    "timestamp_to": 3020720,
+    "duration": 7240,
+    "segments": [
+      [
+        1,
+        3013455,
+        3014785
+      ],
+      [
+        2,
+        3014785,
+        3015435
+      ],
+      [
+        3,
+        3015435,
+        3016635
+      ],
+      [
+        4,
+        3016635,
+        3017855
+      ],
+      [
+        5,
+        3017855,
+        3020650
+      ]
+    ]
+  }
+}

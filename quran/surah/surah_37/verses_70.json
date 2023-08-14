@@ -1,0 +1,86 @@
+{
+  "id": 3858,
+  "chapter_id": 37,
+  "verse_key": "37:70",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ يُهْرَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 59768,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_070_001.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 59769,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_070_002.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 59770,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_070_003.mp3",
+      "text": "ءَاثَـٰرِهِمْ",
+      "translation": "jejak mereka",
+      "transliteration": "āthārihim"
+    },
+    {
+      "id": 59771,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_070_004.mp3",
+      "text": "يُهْرَعُونَ",
+      "translation": "mereka sangat bersegera",
+      "transliteration": "yuh'raʿūna"
+    },
+    {
+      "id": 59772,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, mereka sangat tergesa-gesa mengikuti jejak orang-orang tua mereka itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 592170,
+    "timestamp_to": 600320,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        592095,
+        592675
+      ],
+      [
+        2,
+        592675,
+        594785
+      ],
+      [
+        3,
+        594785,
+        596305
+      ],
+      [
+        4,
+        596305,
+        600170
+      ]
+    ]
+  }
+}

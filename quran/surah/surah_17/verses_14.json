@@ -1,0 +1,125 @@
+{
+  "id": 2043,
+  "chapter_id": 17,
+  "verse_key": "17:14",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "ruku_number": 241,
+  "manzil_number": 4,
+  "page_number": 283,
+  "juz_number": 15,
+  "text_uthmani": "ٱقْرَأْ كِتَـٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 15752,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_001.mp3",
+      "text": "ٱقْرَأْ",
+      "translation": "bacalah",
+      "transliteration": "iq'ra"
+    },
+    {
+      "id": 15753,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_002.mp3",
+      "text": "كِتَـٰبَكَ",
+      "translation": "kitabmu",
+      "transliteration": "kitābaka"
+    },
+    {
+      "id": 15754,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_003.mp3",
+      "text": "كَفَىٰ",
+      "translation": "cukuplah",
+      "transliteration": "kafā"
+    },
+    {
+      "id": 15755,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_004.mp3",
+      "text": "بِنَفْسِكَ",
+      "translation": "dengan dirimu sendiri",
+      "transliteration": "binafsika"
+    },
+    {
+      "id": 15756,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_005.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 15757,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_006.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 15758,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_014_007.mp3",
+      "text": "حَسِيبًۭا",
+      "translation": "perhitungan",
+      "transliteration": "ḥasīban"
+    },
+    {
+      "id": 15759,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Bacalah kitabmu, cukuplah dirimu sendiri pada waktu ini sebagai penghisab terhadapmu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 276460,
+    "timestamp_to": 283670,
+    "duration": 7210,
+    "segments": [
+      [
+        1,
+        276395,
+        277145
+      ],
+      [
+        2,
+        277145,
+        278295
+      ],
+      [
+        3,
+        278295,
+        279005
+      ],
+      [
+        4,
+        279005,
+        280125
+      ],
+      [
+        5,
+        280125,
+        280975
+      ],
+      [
+        6,
+        280975,
+        281895
+      ],
+      [
+        7,
+        281895,
+        283100
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5872,
+  "chapter_id": 83,
+  "verse_key": "83:24",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 27146,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_024_001.mp3",
+      "text": "تَعْرِفُ",
+      "translation": "kamu mengenal/melihat",
+      "transliteration": "taʿrifu"
+    },
+    {
+      "id": 27147,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_024_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 27148,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_024_003.mp3",
+      "text": "وُجُوهِهِمْ",
+      "translation": "wajah mereka",
+      "transliteration": "wujūhihim"
+    },
+    {
+      "id": 27149,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_024_004.mp3",
+      "text": "نَضْرَةَ",
+      "translation": "bersinar/bercahaya",
+      "transliteration": "naḍrata"
+    },
+    {
+      "id": 27150,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_024_005.mp3",
+      "text": "ٱلنَّعِيمِ",
+      "translation": "kesenangan/kenikmatan",
+      "transliteration": "l-naʿīmi"
+    },
+    {
+      "id": 27151,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup mereka yang penuh kenikmatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 175770,
+    "timestamp_to": 182900,
+    "duration": 7130,
+    "segments": [
+      [
+        1,
+        175655,
+        176575
+      ],
+      [
+        2,
+        176575,
+        176985
+      ],
+      [
+        3,
+        176985,
+        178335
+      ],
+      [
+        4,
+        178335,
+        179135
+      ],
+      [
+        5,
+        179135,
+        182720
+      ]
+    ]
+  }
+}

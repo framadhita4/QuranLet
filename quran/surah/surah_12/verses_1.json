@@ -1,0 +1,99 @@
+{
+  "id": 1597,
+  "chapter_id": 12,
+  "verse_key": "12:1",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "ruku_number": 193,
+  "manzil_number": 3,
+  "page_number": 235,
+  "juz_number": 12,
+  "text_uthmani": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 752,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_001_001.mp3",
+      "text": "الٓر ۚ",
+      "translation": "Alif Lam Ra",
+      "transliteration": "alif-lam-ra"
+    },
+    {
+      "id": 754,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_001_003.mp3",
+      "text": "تِلْكَ",
+      "translation": "itu",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 755,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_001_004.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 756,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_001_005.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 757,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_001_006.mp3",
+      "text": "ٱلْمُبِينِ",
+      "translation": "yang nyata",
+      "transliteration": "l-mubīni"
+    },
+    {
+      "id": 758,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Rā <sup foot_note_id=\"741\">1</sup>.  Ini adalah ayat-ayat Kitab (Al-Qur`ān) yang nyata (dari Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 11650,
+    "duration": 11650,
+    "segments": [
+      [
+        1,
+        0,
+        5370
+      ],
+      [
+        2,
+        5370,
+        5990
+      ],
+      [
+        3,
+        5990,
+        7130
+      ],
+      [
+        4,
+        7130,
+        8270
+      ],
+      [
+        5,
+        8270,
+        11595
+      ]
+    ]
+  }
+}

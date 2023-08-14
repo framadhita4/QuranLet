@@ -1,0 +1,164 @@
+{
+  "id": 3342,
+  "chapter_id": 29,
+  "verse_key": "29:2",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "ruku_number": 343,
+  "manzil_number": 5,
+  "page_number": 396,
+  "juz_number": 20,
+  "text_uthmani": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 1828,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_001.mp3",
+      "text": "أَحَسِبَ",
+      "translation": "apakah mengira",
+      "transliteration": "aḥasiba"
+    },
+    {
+      "id": 1829,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_002.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 1830,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_003.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 1831,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_004.mp3",
+      "text": "يُتْرَكُوٓا۟",
+      "translation": "mereka ditinggalkan/dibiarkan",
+      "transliteration": "yut'rakū"
+    },
+    {
+      "id": 1832,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 1833,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_006.mp3",
+      "text": "يَقُولُوٓا۟",
+      "translation": "mereka mengatakan",
+      "transliteration": "yaqūlū"
+    },
+    {
+      "id": 1834,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_007.mp3",
+      "text": "ءَامَنَّا",
+      "translation": "kami telah beriman",
+      "transliteration": "āmannā"
+    },
+    {
+      "id": 1835,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_008.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 1836,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_009.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 1837,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_002_010.mp3",
+      "text": "يُفْتَنُونَ",
+      "translation": "mereka akan diuji",
+      "transliteration": "yuf'tanūna"
+    },
+    {
+      "id": 1838,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah manusia itu mengira bahwa mereka dibiarkan (saja) mengatakan, \"Kami telah beriman\", sedang mereka tidak diuji lagi?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10420,
+    "timestamp_to": 26040,
+    "duration": 15620,
+    "segments": [
+      [
+        1,
+        10365,
+        11205
+      ],
+      [
+        2,
+        11205,
+        12954
+      ],
+      [
+        3,
+        12955,
+        13195
+      ],
+      [
+        4,
+        13195,
+        16395
+      ],
+      [
+        5,
+        16395,
+        16725
+      ],
+      [
+        6,
+        16725,
+        19435
+      ],
+      [
+        7,
+        19435,
+        21335
+      ],
+      [
+        8,
+        21335,
+        21955
+      ],
+      [
+        9,
+        21955,
+        22435
+      ],
+      [
+        10,
+        22435,
+        25960
+      ]
+    ]
+  }
+}

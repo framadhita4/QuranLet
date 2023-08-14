@@ -1,0 +1,73 @@
+{
+  "id": 3575,
+  "chapter_id": 33,
+  "verse_key": "33:42",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "ruku_number": 368,
+  "manzil_number": 5,
+  "page_number": 423,
+  "juz_number": 22,
+  "text_uthmani": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 43253,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_042_001.mp3",
+      "text": "وَسَبِّحُوهُ",
+      "translation": "dan bertashbihlah",
+      "transliteration": "wasabbiḥūhu"
+    },
+    {
+      "id": 43254,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_042_002.mp3",
+      "text": "بُكْرَةًۭ",
+      "translation": "diwaktu pagi",
+      "transliteration": "buk'ratan"
+    },
+    {
+      "id": 43255,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_042_003.mp3",
+      "text": "وَأَصِيلًا",
+      "translation": "dan petang",
+      "transliteration": "wa-aṣīlan"
+    },
+    {
+      "id": 43256,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bertasbihlah kepada-Nya pada waktu pagi dan petang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 906160,
+    "timestamp_to": 910810,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        906135,
+        907495
+      ],
+      [
+        2,
+        907495,
+        908575
+      ],
+      [
+        3,
+        908575,
+        910400
+      ]
+    ]
+  }
+}

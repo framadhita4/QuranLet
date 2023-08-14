@@ -1,0 +1,86 @@
+{
+  "id": 5753,
+  "chapter_id": 79,
+  "verse_key": "79:41",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 42280,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_041_001.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 42281,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_041_002.mp3",
+      "text": "ٱلْجَنَّةَ",
+      "translation": "sorga",
+      "transliteration": "l-janata"
+    },
+    {
+      "id": 42282,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_041_003.mp3",
+      "text": "هِىَ",
+      "translation": "ia",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 42283,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_041_004.mp3",
+      "text": "ٱلْمَأْوَىٰ",
+      "translation": "tempat tinggal",
+      "transliteration": "l-mawā"
+    },
+    {
+      "id": 42284,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka sesungguhnya surgalah tempat tinggal(nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 194910,
+    "timestamp_to": 200160,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        194485,
+        195755
+      ],
+      [
+        2,
+        195755,
+        197515
+      ],
+      [
+        3,
+        197515,
+        197915
+      ],
+      [
+        4,
+        197915,
+        199240
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6074,
+  "chapter_id": 92,
+  "verse_key": "92:16",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 18215,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_016_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 18216,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_016_002.mp3",
+      "text": "كَذَّبَ",
+      "translation": "mendustakan",
+      "transliteration": "kadhaba"
+    },
+    {
+      "id": 18217,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_016_003.mp3",
+      "text": "وَتَوَلَّىٰ",
+      "translation": "dan berpaling",
+      "transliteration": "watawallā"
+    },
+    {
+      "id": 18218,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mendustakan (kebenaran) dan berpaling (dari iman).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 67790,
+    "timestamp_to": 71840,
+    "duration": 4050,
+    "segments": [
+      [
+        1,
+        67725,
+        68775
+      ],
+      [
+        2,
+        68775,
+        69725
+      ],
+      [
+        3,
+        69725,
+        71130
+      ]
+    ]
+  }
+}

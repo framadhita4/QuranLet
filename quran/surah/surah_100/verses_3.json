@@ -1,0 +1,60 @@
+{
+  "id": 6149,
+  "chapter_id": 100,
+  "verse_key": "100:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 3166,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_003_001.mp3",
+      "text": "فَٱلْمُغِيرَٰتِ",
+      "translation": "lalu yang menyerang",
+      "transliteration": "fal-mughīrāti"
+    },
+    {
+      "id": 3167,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_003_002.mp3",
+      "text": "صُبْحًۭا",
+      "translation": "diwaktu subuh/pagi",
+      "transliteration": "ṣub'ḥan"
+    },
+    {
+      "id": 3168,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kuda yang menyerang dengan tiba-tiba di waktu pagi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6560,
+    "timestamp_to": 9640,
+    "duration": 3080,
+    "segments": [
+      [
+        1,
+        6075,
+        7755
+      ],
+      [
+        2,
+        7755,
+        8790
+      ]
+    ]
+  }
+}

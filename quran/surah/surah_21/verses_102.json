@@ -1,0 +1,151 @@
+{
+  "id": 2585,
+  "chapter_id": 21,
+  "verse_key": "21:102",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 331,
+  "juz_number": 17,
+  "text_uthmani": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَـٰلِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 72093,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 72094,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_002.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 72095,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_003.mp3",
+      "text": "حَسِيسَهَا ۖ",
+      "translation": "suara/desirnya (api neraka)",
+      "transliteration": "ḥasīsahā"
+    },
+    {
+      "id": 72097,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_005.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 72098,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_006.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 72099,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_007.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 72100,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_008.mp3",
+      "text": "ٱشْتَهَتْ",
+      "translation": "menginginkan",
+      "transliteration": "ish'tahat"
+    },
+    {
+      "id": 72101,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_009.mp3",
+      "text": "أَنفُسُهُمْ",
+      "translation": "diri/jiwa mereka",
+      "transliteration": "anfusuhum"
+    },
+    {
+      "id": 72102,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_102_010.mp3",
+      "text": "خَـٰلِدُونَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidūna"
+    },
+    {
+      "id": 72103,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠٢",
+      "translation": "(102)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka tidak mendengar sedikit pun suara api neraka dan mereka kekal dalam menikmati apa yang diingini oleh mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1429950,
+    "timestamp_to": 1439330,
+    "duration": 9380,
+    "segments": [
+      [
+        1,
+        1429905,
+        1430395
+      ],
+      [
+        2,
+        1430395,
+        1431515
+      ],
+      [
+        3,
+        1431515,
+        1432955
+      ],
+      [
+        4,
+        1432955,
+        1433395
+      ],
+      [
+        5,
+        1433395,
+        1433925
+      ],
+      [
+        6,
+        1433925,
+        1434075
+      ],
+      [
+        7,
+        1434075,
+        1434905
+      ],
+      [
+        8,
+        1434905,
+        1436685
+      ],
+      [
+        9,
+        1436685,
+        1439260
+      ]
+    ]
+  }
+}

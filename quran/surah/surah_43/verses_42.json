@@ -1,0 +1,125 @@
+{
+  "id": 4367,
+  "chapter_id": 43,
+  "verse_key": "43:42",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "أَوْ نُرِيَنَّكَ ٱلَّذِى وَعَدْنَـٰهُمْ فَإِنَّا عَلَيْهِم مُّقْتَدِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 43026,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 43027,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_002.mp3",
+      "text": "نُرِيَنَّكَ",
+      "translation": "Kami perlihatkan kepadamu",
+      "transliteration": "nuriyannaka"
+    },
+    {
+      "id": 43028,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_003.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang(azab)",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 43029,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_004.mp3",
+      "text": "وَعَدْنَـٰهُمْ",
+      "translation": "Kami ancamkan kepada kamu",
+      "transliteration": "waʿadnāhum"
+    },
+    {
+      "id": 43030,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_005.mp3",
+      "text": "فَإِنَّا",
+      "translation": "maka sesungguhnya Kami",
+      "transliteration": "fa-innā"
+    },
+    {
+      "id": 43031,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_006.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 43032,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_042_007.mp3",
+      "text": "مُّقْتَدِرُونَ",
+      "translation": "berkuasa",
+      "transliteration": "muq'tadirūna"
+    },
+    {
+      "id": 43033,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau Kami memperlihatkan kepadamu (azab) yang telah Kami (Allah) ancamkan kepada mereka <sup foot_note_id=\"1359\">1</sup>.  Maka sesungguhnya, Kami berkuasa atas mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 603390,
+    "timestamp_to": 615070,
+    "duration": 11680,
+    "segments": [
+      [
+        1,
+        603365,
+        603855
+      ],
+      [
+        2,
+        603855,
+        605755
+      ],
+      [
+        3,
+        605755,
+        606565
+      ],
+      [
+        4,
+        606565,
+        608025
+      ],
+      [
+        5,
+        608025,
+        609815
+      ],
+      [
+        6,
+        609815,
+        610745
+      ],
+      [
+        7,
+        610745,
+        615020
+      ]
+    ]
+  }
+}

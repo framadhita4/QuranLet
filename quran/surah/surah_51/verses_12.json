@@ -1,0 +1,86 @@
+{
+  "id": 4687,
+  "chapter_id": 51,
+  "verse_key": "51:12",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 13752,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_012_001.mp3",
+      "text": "يَسْـَٔلُونَ",
+      "translation": "mereka bertanya",
+      "transliteration": "yasalūna"
+    },
+    {
+      "id": 13753,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_012_002.mp3",
+      "text": "أَيَّانَ",
+      "translation": "kapankah",
+      "transliteration": "ayyāna"
+    },
+    {
+      "id": 13754,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_012_003.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 13755,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_012_004.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 13756,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka bertanya, \"Bilakah hari pembalasan itu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 49420,
+    "timestamp_to": 55980,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        49355,
+        50695
+      ],
+      [
+        2,
+        50695,
+        51825
+      ],
+      [
+        3,
+        51825,
+        52485
+      ],
+      [
+        4,
+        52485,
+        55850
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5333,
+  "chapter_id": 69,
+  "verse_key": "69:10",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 11519,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_010_001.mp3",
+      "text": "فَعَصَوْا۟",
+      "translation": "maka mereka mendurhakai",
+      "transliteration": "faʿaṣaw"
+    },
+    {
+      "id": 11520,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_010_002.mp3",
+      "text": "رَسُولَ",
+      "translation": "rasul",
+      "transliteration": "rasūla"
+    },
+    {
+      "id": 11521,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_010_003.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 11522,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_010_004.mp3",
+      "text": "فَأَخَذَهُمْ",
+      "translation": "maka Dia menyiksa mereka",
+      "transliteration": "fa-akhadhahum"
+    },
+    {
+      "id": 11523,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_010_005.mp3",
+      "text": "أَخْذَةًۭ",
+      "translation": "siksaan",
+      "transliteration": "akhdhatan"
+    },
+    {
+      "id": 11524,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_010_006.mp3",
+      "text": "رَّابِيَةً",
+      "translation": "sangat keras",
+      "transliteration": "rābiyatan"
+    },
+    {
+      "id": 11525,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka (masing-masing) mereka mendurhakai rasul Tuhan mereka, lalu Allah menyiksa mereka dengan siksaan yang sangat keras.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 77080,
+    "timestamp_to": 84370,
+    "duration": 7290,
+    "segments": [
+      [
+        1,
+        76995,
+        77955
+      ],
+      [
+        2,
+        77955,
+        78925
+      ],
+      [
+        3,
+        78925,
+        79955
+      ],
+      [
+        4,
+        79955,
+        81225
+      ],
+      [
+        5,
+        81225,
+        82205
+      ],
+      [
+        6,
+        82205,
+        84230
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 4694,
+  "chapter_id": 51,
+  "verse_key": "51:19",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 21438,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_019_001.mp3",
+      "text": "وَفِىٓ",
+      "translation": "dan dalam",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 21439,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_019_002.mp3",
+      "text": "أَمْوَٰلِهِمْ",
+      "translation": "harta mereka",
+      "transliteration": "amwālihim"
+    },
+    {
+      "id": 21440,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_019_003.mp3",
+      "text": "حَقٌّۭ",
+      "translation": "hak",
+      "transliteration": "ḥaqqun"
+    },
+    {
+      "id": 21441,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_019_004.mp3",
+      "text": "لِّلسَّآئِلِ",
+      "translation": "untuk orang yang meminta",
+      "transliteration": "lilssāili"
+    },
+    {
+      "id": 21442,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_019_005.mp3",
+      "text": "وَٱلْمَحْرُومِ",
+      "translation": "dan orang yang tidak meminta",
+      "transliteration": "wal-maḥrūmi"
+    },
+    {
+      "id": 21443,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan pada harta-harta mereka ada hak untuk orang miskin yang meminta dan orang miskin yang tidak mendapat bagian<sup foot_note_id=\"1418\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 110650,
+    "timestamp_to": 121490,
+    "duration": 10840,
+    "segments": [
+      [
+        1,
+        110585,
+        113015
+      ],
+      [
+        2,
+        113015,
+        114475
+      ],
+      [
+        3,
+        114475,
+        115205
+      ],
+      [
+        4,
+        115205,
+        118105
+      ],
+      [
+        5,
+        118105,
+        121370
+      ]
+    ]
+  }
+}

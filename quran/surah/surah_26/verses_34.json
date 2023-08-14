@@ -1,0 +1,125 @@
+{
+  "id": 2966,
+  "chapter_id": 26,
+  "verse_key": "26:34",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 36526,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 36527,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_002.mp3",
+      "text": "لِلْمَلَإِ",
+      "translation": "kepada pembesar-pembesar",
+      "transliteration": "lil'mala-i"
+    },
+    {
+      "id": 36528,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_003.mp3",
+      "text": "حَوْلَهُۥٓ",
+      "translation": "di sekelilingnya",
+      "transliteration": "ḥawlahu"
+    },
+    {
+      "id": 36529,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_004.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 36530,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_005.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 36531,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_006.mp3",
+      "text": "لَسَـٰحِرٌ",
+      "translation": "benar-benar ahli sihir",
+      "transliteration": "lasāḥirun"
+    },
+    {
+      "id": 36532,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_034_007.mp3",
+      "text": "عَلِيمٌۭ",
+      "translation": "yang pandai",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 36533,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  berkata kepada pembesar-pembesar yang berada sekelilingnya, \"Sesungguhnya Musa ini benar-benar seorang ahli sihir yang pandai,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 335770,
+    "timestamp_to": 345490,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        335745,
+        336475
+      ],
+      [
+        2,
+        336475,
+        337395
+      ],
+      [
+        3,
+        337395,
+        339605
+      ],
+      [
+        4,
+        339605,
+        340735
+      ],
+      [
+        5,
+        340735,
+        341715
+      ],
+      [
+        6,
+        341715,
+        342935
+      ],
+      [
+        7,
+        342935,
+        345440
+      ]
+    ]
+  }
+}

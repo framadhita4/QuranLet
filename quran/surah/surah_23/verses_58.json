@@ -1,0 +1,99 @@
+{
+  "id": 2731,
+  "chapter_id": 23,
+  "verse_key": "23:58",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 53416,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_058_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 53417,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_058_002.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 53418,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_058_003.mp3",
+      "text": "بِـَٔايَـٰتِ",
+      "translation": "dengan/kepada ayat-ayat",
+      "transliteration": "biāyāti"
+    },
+    {
+      "id": 53419,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_058_004.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 53420,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_058_005.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 53421,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang beriman dengan ayat-ayat Tuhan mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 754420,
+    "timestamp_to": 761580,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        754365,
+        755675
+      ],
+      [
+        2,
+        755675,
+        756395
+      ],
+      [
+        3,
+        756395,
+        757785
+      ],
+      [
+        4,
+        757785,
+        758815
+      ],
+      [
+        5,
+        758815,
+        761470
+      ]
+    ]
+  }
+}

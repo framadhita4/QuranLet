@@ -1,0 +1,99 @@
+{
+  "id": 5331,
+  "chapter_id": 69,
+  "verse_key": "69:8",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 9071,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_008_001.mp3",
+      "text": "فَهَلْ",
+      "translation": "maka adakah",
+      "transliteration": "fahal"
+    },
+    {
+      "id": 9072,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_008_002.mp3",
+      "text": "تَرَىٰ",
+      "translation": "kamu melihat",
+      "transliteration": "tarā"
+    },
+    {
+      "id": 9073,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_008_003.mp3",
+      "text": "لَهُم",
+      "translation": "diantara mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 9074,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_008_004.mp3",
+      "text": "مِّنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 9075,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_008_005.mp3",
+      "text": "بَاقِيَةٍۢ",
+      "translation": "yang tertinggal/tersisa",
+      "transliteration": "bāqiyatin"
+    },
+    {
+      "id": 9076,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kamu tidak melihat seorang pun yang tinggal di antara mereka<sup foot_note_id=\"1505\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 61010,
+    "timestamp_to": 66680,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        60925,
+        61575
+      ],
+      [
+        2,
+        61575,
+        62315
+      ],
+      [
+        3,
+        62315,
+        62945
+      ],
+      [
+        4,
+        62945,
+        64725
+      ],
+      [
+        5,
+        64725,
+        66520
+      ]
+    ]
+  }
+}

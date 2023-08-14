@@ -1,0 +1,125 @@
+{
+  "id": 2552,
+  "chapter_id": 21,
+  "verse_key": "21:69",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 327,
+  "juz_number": 17,
+  "text_uthmani": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 58989,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_001.mp3",
+      "text": "قُلْنَا",
+      "translation": "Kami berfirman",
+      "transliteration": "qul'nā"
+    },
+    {
+      "id": 58990,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_002.mp3",
+      "text": "يَـٰنَارُ",
+      "translation": "hai api",
+      "transliteration": "yānāru"
+    },
+    {
+      "id": 58991,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_003.mp3",
+      "text": "كُونِى",
+      "translation": "jadilah kau",
+      "transliteration": "kūnī"
+    },
+    {
+      "id": 58992,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_004.mp3",
+      "text": "بَرْدًۭا",
+      "translation": "dingin",
+      "transliteration": "bardan"
+    },
+    {
+      "id": 58993,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_005.mp3",
+      "text": "وَسَلَـٰمًا",
+      "translation": "dan selamat",
+      "transliteration": "wasalāman"
+    },
+    {
+      "id": 58994,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_006.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 58995,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_069_007.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 58996,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami berfirman, \"Hai api menjadi dinginlah dan menjadi keselamatanlah bagi  Ibrāhīm\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 934360,
+    "timestamp_to": 945380,
+    "duration": 11020,
+    "segments": [
+      [
+        1,
+        934335,
+        935315
+      ],
+      [
+        2,
+        935315,
+        936535
+      ],
+      [
+        3,
+        936535,
+        937355
+      ],
+      [
+        4,
+        937355,
+        938395
+      ],
+      [
+        5,
+        938395,
+        940185
+      ],
+      [
+        6,
+        940185,
+        942515
+      ],
+      [
+        7,
+        942515,
+        945310
+      ]
+    ]
+  }
+}

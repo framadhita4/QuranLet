@@ -1,0 +1,73 @@
+{
+  "id": 3895,
+  "chapter_id": 37,
+  "verse_key": "37:107",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 73420,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_107_001.mp3",
+      "text": "وَفَدَيْنَـٰهُ",
+      "translation": "dan Kami tebus/ganti dia",
+      "transliteration": "wafadaynāhu"
+    },
+    {
+      "id": 73421,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_107_002.mp3",
+      "text": "بِذِبْحٍ",
+      "translation": "dengan sembelihan",
+      "transliteration": "bidhib'ḥin"
+    },
+    {
+      "id": 73422,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_107_003.mp3",
+      "text": "عَظِيمٍۢ",
+      "translation": "yang besar",
+      "transliteration": "ʿaẓīmin"
+    },
+    {
+      "id": 73423,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٧",
+      "translation": "(107)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tebus anak itu dengan seekor sembelihan yang besar <sup foot_note_id=\"1285\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 894160,
+    "timestamp_to": 899910,
+    "duration": 5750,
+    "segments": [
+      [
+        1,
+        894095,
+        895575
+      ],
+      [
+        2,
+        895575,
+        896565
+      ],
+      [
+        3,
+        896565,
+        899780
+      ]
+    ]
+  }
+}

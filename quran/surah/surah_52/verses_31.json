@@ -1,0 +1,112 @@
+{
+  "id": 4766,
+  "chapter_id": 52,
+  "verse_key": "52:31",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 33502,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_031_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 33503,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_031_002.mp3",
+      "text": "تَرَبَّصُوا۟",
+      "translation": "tunggulah",
+      "transliteration": "tarabbaṣū"
+    },
+    {
+      "id": 33504,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_031_003.mp3",
+      "text": "فَإِنِّى",
+      "translation": "maka sesungguhnya aku",
+      "transliteration": "fa-innī"
+    },
+    {
+      "id": 33505,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_031_004.mp3",
+      "text": "مَعَكُم",
+      "translation": "bersamamu",
+      "transliteration": "maʿakum"
+    },
+    {
+      "id": 33506,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_031_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 33507,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_031_006.mp3",
+      "text": "ٱلْمُتَرَبِّصِينَ",
+      "translation": "orang-orang yanng menunggu",
+      "transliteration": "l-mutarabiṣīna"
+    },
+    {
+      "id": 33508,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Tunggulah, maka sesungguhnya aku pun termasuk orang yang menunggu (pula) bersama kamu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 284930,
+    "timestamp_to": 294990,
+    "duration": 10060,
+    "segments": [
+      [
+        1,
+        284855,
+        285395
+      ],
+      [
+        2,
+        285395,
+        286765
+      ],
+      [
+        3,
+        286765,
+        288715
+      ],
+      [
+        4,
+        288715,
+        289665
+      ],
+      [
+        5,
+        289665,
+        290805
+      ],
+      [
+        6,
+        290805,
+        294830
+      ]
+    ]
+  }
+}

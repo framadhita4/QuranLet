@@ -1,0 +1,86 @@
+{
+  "id": 5762,
+  "chapter_id": 80,
+  "verse_key": "80:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 4187,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_004_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 4188,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_004_002.mp3",
+      "text": "يَذَّكَّرُ",
+      "translation": "ia mendapatkan pengajaran",
+      "transliteration": "yadhakkaru"
+    },
+    {
+      "id": 4189,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_004_003.mp3",
+      "text": "فَتَنفَعَهُ",
+      "translation": "lalu memberi manfaat kepadanya",
+      "transliteration": "fatanfaʿahu"
+    },
+    {
+      "id": 4190,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_004_004.mp3",
+      "text": "ٱلذِّكْرَىٰٓ",
+      "translation": "pengajaran",
+      "transliteration": "l-dhik'rā"
+    },
+    {
+      "id": 4191,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau dia (ingin) mendapatkan pengajaran, lalu pengajaran itu memberi manfaat kepadanya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13350,
+    "timestamp_to": 18680,
+    "duration": 5330,
+    "segments": [
+      [
+        1,
+        12775,
+        13195
+      ],
+      [
+        2,
+        13195,
+        14445
+      ],
+      [
+        3,
+        14445,
+        16365
+      ],
+      [
+        4,
+        16365,
+        18040
+      ]
+    ]
+  }
+}

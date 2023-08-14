@@ -1,0 +1,86 @@
+{
+  "id": 4586,
+  "chapter_id": 48,
+  "verse_key": "48:3",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "ruku_number": 448,
+  "manzil_number": 6,
+  "page_number": 511,
+  "juz_number": 26,
+  "text_uthmani": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3",
+  "words": [
+    {
+      "id": 2152,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_001.mp3",
+      "text": "وَيَنصُرَكَ",
+      "translation": "dan akan menolong kamu",
+      "transliteration": "wayanṣuraka"
+    },
+    {
+      "id": 2153,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 2154,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_003.mp3",
+      "text": "نَصْرًا",
+      "translation": "pertolongan",
+      "transliteration": "naṣran"
+    },
+    {
+      "id": 2155,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_004.mp3",
+      "text": "عَزِيزًا",
+      "translation": "kuat",
+      "transliteration": "ʿazīzan"
+    },
+    {
+      "id": 2156,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan supaya Allah menolongmu dengan pertolongan yang kuat (banyak).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23040,
+    "timestamp_to": 28400,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        22995,
+        24935
+      ],
+      [
+        2,
+        24935,
+        25745
+      ],
+      [
+        3,
+        25745,
+        26545
+      ],
+      [
+        4,
+        26545,
+        28300
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3137,
+  "chapter_id": 26,
+  "verse_key": "26:205",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ سِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85475,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_205_001.mp3",
+      "text": "أَفَرَءَيْتَ",
+      "translation": "apakah maka pendapatmu",
+      "transliteration": "afara-ayta"
+    },
+    {
+      "id": 85476,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_205_002.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 85477,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_205_003.mp3",
+      "text": "مَّتَّعْنَـٰهُمْ",
+      "translation": "Kami beri kesenangan mereka",
+      "transliteration": "mattaʿnāhum"
+    },
+    {
+      "id": 85478,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_205_004.mp3",
+      "text": "سِنِينَ",
+      "translation": "bertahun-tahun",
+      "transliteration": "sinīna"
+    },
+    {
+      "id": 85479,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٠٥",
+      "translation": "(205)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bagaimana pendapatmu jika Kami berikan kepada mereka kenikmatan hidup bertahun-tahun,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1776220,
+    "timestamp_to": 1782750,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        1776195,
+        1777485
+      ],
+      [
+        2,
+        1777485,
+        1777795
+      ],
+      [
+        3,
+        1777795,
+        1780155
+      ],
+      [
+        4,
+        1780155,
+        1782620
+      ]
+    ]
+  }
+}

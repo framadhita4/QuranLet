@@ -1,0 +1,73 @@
+{
+  "id": 5354,
+  "chapter_id": 69,
+  "verse_key": "69:31",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 33634,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_031_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 33635,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_031_002.mp3",
+      "text": "ٱلْجَحِيمَ",
+      "translation": "neraka jahim",
+      "transliteration": "l-jaḥīma"
+    },
+    {
+      "id": 33636,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_031_003.mp3",
+      "text": "صَلُّوهُ",
+      "translation": "masukkanlah ia",
+      "transliteration": "ṣallūhu"
+    },
+    {
+      "id": 33637,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian masukkanlah dia ke dalam api neraka yang menyala-nyala.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 236970,
+    "timestamp_to": 242900,
+    "duration": 5930,
+    "segments": [
+      [
+        1,
+        236865,
+        238435
+      ],
+      [
+        2,
+        238435,
+        239595
+      ],
+      [
+        3,
+        239595,
+        242740
+      ]
+    ]
+  }
+}

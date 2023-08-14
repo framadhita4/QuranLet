@@ -1,0 +1,99 @@
+{
+  "id": 5587,
+  "chapter_id": 75,
+  "verse_key": "75:36",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 37868,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_036_001.mp3",
+      "text": "أَيَحْسَبُ",
+      "translation": "apakah mengira",
+      "transliteration": "ayaḥsabu"
+    },
+    {
+      "id": 37869,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_036_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 37870,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_036_003.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 37871,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_036_004.mp3",
+      "text": "يُتْرَكَ",
+      "translation": "ia ditinggalkan",
+      "transliteration": "yut'raka"
+    },
+    {
+      "id": 37872,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_036_005.mp3",
+      "text": "سُدًى",
+      "translation": "begitu saja",
+      "transliteration": "sudan"
+    },
+    {
+      "id": 37873,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah manusia mengira, bahwa ia akan dibiarkan begitu saja (tanpa pertanggungjawaban)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 171840,
+    "timestamp_to": 178210,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        171415,
+        172395
+      ],
+      [
+        2,
+        172395,
+        174645
+      ],
+      [
+        3,
+        174645,
+        175015
+      ],
+      [
+        4,
+        175015,
+        176525
+      ],
+      [
+        5,
+        176525,
+        177380
+      ]
+    ]
+  }
+}

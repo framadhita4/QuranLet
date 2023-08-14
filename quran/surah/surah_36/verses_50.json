@@ -1,0 +1,125 @@
+{
+  "id": 3755,
+  "chapter_id": 36,
+  "verse_key": "36:50",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 443,
+  "juz_number": 23,
+  "text_uthmani": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ أَهْلِهِمْ يَرْجِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 48989,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 48990,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_002.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka kuasa (membuat)",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 48991,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_003.mp3",
+      "text": "تَوْصِيَةًۭ",
+      "translation": "satu wasiat",
+      "transliteration": "tawṣiyatan"
+    },
+    {
+      "id": 48992,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_004.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 48993,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_005.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kecuali",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 48994,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_006.mp3",
+      "text": "أَهْلِهِمْ",
+      "translation": "keluarga mereka",
+      "transliteration": "ahlihim"
+    },
+    {
+      "id": 48995,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_050_007.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "mereka kembali",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 48996,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu mereka tidak kuasa membuat suatu wasiat pun dan tidak (pula) dapat kembali kepada keluarganya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 625110,
+    "timestamp_to": 637490,
+    "duration": 12380,
+    "segments": [
+      [
+        1,
+        625045,
+        625645
+      ],
+      [
+        2,
+        625645,
+        627305
+      ],
+      [
+        3,
+        627305,
+        628505
+      ],
+      [
+        4,
+        628505,
+        630975
+      ],
+      [
+        5,
+        630975,
+        633105
+      ],
+      [
+        6,
+        633105,
+        634135
+      ],
+      [
+        7,
+        634135,
+        637350
+      ]
+    ]
+  }
+}

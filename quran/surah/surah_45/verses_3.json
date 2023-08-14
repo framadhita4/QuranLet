@@ -1,0 +1,112 @@
+{
+  "id": 4476,
+  "chapter_id": 45,
+  "verse_key": "45:3",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 436,
+  "manzil_number": 6,
+  "page_number": 499,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 2097,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_003_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 2098,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_003_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 2099,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_003_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 2100,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_003_004.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 2101,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_003_005.mp3",
+      "text": "لَـَٔايَـٰتٍۢ",
+      "translation": "benar-benar terdapat tanda-tanda",
+      "transliteration": "laāyātin"
+    },
+    {
+      "id": 2102,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_003_006.mp3",
+      "text": "لِّلْمُؤْمِنِينَ",
+      "translation": "bagi orang-orang yang beriman",
+      "transliteration": "lil'mu'minīna"
+    },
+    {
+      "id": 2103,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada langit dan bumi benar-benar terdapat tanda-tanda (kekuasaan Allah) untuk orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12040,
+    "timestamp_to": 20290,
+    "duration": 8260,
+    "segments": [
+      [
+        1,
+        12015,
+        13225
+      ],
+      [
+        2,
+        13225,
+        13415
+      ],
+      [
+        3,
+        13415,
+        14795
+      ],
+      [
+        4,
+        14795,
+        15745
+      ],
+      [
+        5,
+        15745,
+        16955
+      ],
+      [
+        6,
+        16955,
+        20230
+      ]
+    ]
+  }
+}

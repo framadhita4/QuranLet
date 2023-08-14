@@ -1,0 +1,151 @@
+{
+  "id": 1433,
+  "chapter_id": 10,
+  "verse_key": "10:69",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "ruku_number": 178,
+  "manzil_number": 3,
+  "page_number": 216,
+  "juz_number": 11,
+  "text_uthmani": "قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 59044,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 59045,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 59046,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 59047,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_004.mp3",
+      "text": "يَفْتَرُونَ",
+      "translation": "(mereka) mengada-adakan",
+      "transliteration": "yaftarūna"
+    },
+    {
+      "id": 59048,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_005.mp3",
+      "text": "عَلَى",
+      "translation": "atas/terhadap",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 59049,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 59050,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_007.mp3",
+      "text": "ٱلْكَذِبَ",
+      "translation": "kedustaan",
+      "transliteration": "l-kadhiba"
+    },
+    {
+      "id": 59051,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_008.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 59052,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_069_009.mp3",
+      "text": "يُفْلِحُونَ",
+      "translation": "mereka beruntung",
+      "transliteration": "yuf'liḥūna"
+    },
+    {
+      "id": 59053,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Sesungguhnya orang-orang yang mengada-adakan kebohongan terhadap Allah tidak beruntung\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1788940,
+    "timestamp_to": 1800090,
+    "duration": 11160,
+    "segments": [
+      [
+        1,
+        1788875,
+        1789305
+      ],
+      [
+        2,
+        1789305,
+        1790975
+      ],
+      [
+        3,
+        1790975,
+        1792155
+      ],
+      [
+        4,
+        1792155,
+        1793405
+      ],
+      [
+        5,
+        1793405,
+        1793905
+      ],
+      [
+        6,
+        1793905,
+        1794815
+      ],
+      [
+        7,
+        1794815,
+        1795765
+      ],
+      [
+        8,
+        1795765,
+        1796205
+      ],
+      [
+        9,
+        1796205,
+        1799970
+      ]
+    ]
+  }
+}

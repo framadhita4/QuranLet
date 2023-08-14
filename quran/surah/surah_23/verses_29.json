@@ -1,0 +1,138 @@
+{
+  "id": 2702,
+  "chapter_id": 23,
+  "verse_key": "23:29",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 296,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 31847,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_001.mp3",
+      "text": "وَقُل",
+      "translation": "dan katakanlah/berdo'alah",
+      "transliteration": "waqul"
+    },
+    {
+      "id": 31848,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_002.mp3",
+      "text": "رَّبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 31849,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_003.mp3",
+      "text": "أَنزِلْنِى",
+      "translation": "turunkanlah aku",
+      "transliteration": "anzil'nī"
+    },
+    {
+      "id": 31850,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_004.mp3",
+      "text": "مُنزَلًۭا",
+      "translation": "tempat turun",
+      "transliteration": "munzalan"
+    },
+    {
+      "id": 31851,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_005.mp3",
+      "text": "مُّبَارَكًۭا",
+      "translation": "yang diberkati",
+      "transliteration": "mubārakan"
+    },
+    {
+      "id": 31852,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_006.mp3",
+      "text": "وَأَنتَ",
+      "translation": "dan Engkau",
+      "transliteration": "wa-anta"
+    },
+    {
+      "id": 31853,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_007.mp3",
+      "text": "خَيْرُ",
+      "translation": "sebaik-baik",
+      "transliteration": "khayru"
+    },
+    {
+      "id": 31854,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_029_008.mp3",
+      "text": "ٱلْمُنزِلِينَ",
+      "translation": "pemberi tempat turun",
+      "transliteration": "l-munzilīna"
+    },
+    {
+      "id": 31855,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan berdoalah, \"Ya Tuhan-ku, tempatkanlah aku pada tempat yang diberkati dan Engkau adalah sebaik-baik Yang memberi tempat.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 399420,
+    "timestamp_to": 412610,
+    "duration": 13190,
+    "segments": [
+      [
+        1,
+        399365,
+        399865
+      ],
+      [
+        2,
+        399865,
+        400705
+      ],
+      [
+        3,
+        400705,
+        402725
+      ],
+      [
+        4,
+        402725,
+        404485
+      ],
+      [
+        5,
+        404485,
+        407045
+      ],
+      [
+        6,
+        407045,
+        408475
+      ],
+      [
+        7,
+        408475,
+        409065
+      ],
+      [
+        8,
+        409065,
+        412510
+      ]
+    ]
+  }
+}

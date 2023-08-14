@@ -1,0 +1,112 @@
+{
+  "id": 2467,
+  "chapter_id": 20,
+  "verse_key": "20:119",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 276,
+  "manzil_number": 4,
+  "page_number": 320,
+  "juz_number": 16,
+  "text_uthmani": "وَأَنَّكَ لَا تَظْمَؤُا۟ فِيهَا وَلَا تَضْحَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 76107,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_119_001.mp3",
+      "text": "وَأَنَّكَ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-annaka"
+    },
+    {
+      "id": 76108,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_119_002.mp3",
+      "text": "لَا",
+      "translation": "kamu tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 76109,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_119_003.mp3",
+      "text": "تَظْمَؤُا۟",
+      "translation": "merasa dahaga",
+      "transliteration": "taẓma-u"
+    },
+    {
+      "id": 76110,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_119_004.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 76111,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_119_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan kamu tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 76112,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_119_006.mp3",
+      "text": "تَضْحَىٰ",
+      "translation": "kena panas matahari",
+      "transliteration": "taḍḥā"
+    },
+    {
+      "id": 76113,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kamu tidak akan merasa dahaga dan tidak (pula) akan ditimpa panas matahari di dalamnya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1373860,
+    "timestamp_to": 1379580,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        1373835,
+        1375315
+      ],
+      [
+        2,
+        1375315,
+        1375695
+      ],
+      [
+        3,
+        1375695,
+        1376585
+      ],
+      [
+        4,
+        1376585,
+        1377425
+      ],
+      [
+        5,
+        1377425,
+        1378095
+      ],
+      [
+        6,
+        1378095,
+        1379130
+      ]
+    ]
+  }
+}

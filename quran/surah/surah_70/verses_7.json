@@ -1,0 +1,60 @@
+{
+  "id": 5382,
+  "chapter_id": 70,
+  "verse_key": "70:7",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَنَرَىٰهُ قَرِيبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 7904,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_007_001.mp3",
+      "text": "وَنَرَىٰهُ",
+      "translation": "dan Kami memandangnya (azab)",
+      "transliteration": "wanarāhu"
+    },
+    {
+      "id": 7905,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_007_002.mp3",
+      "text": "قَرِيبًۭا",
+      "translation": "dekat",
+      "transliteration": "qarīban"
+    },
+    {
+      "id": 7906,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sedangkan Kami memandangnya dekat (pasti terjadi).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 36700,
+    "timestamp_to": 39470,
+    "duration": 2770,
+    "segments": [
+      [
+        1,
+        36315,
+        37435
+      ],
+      [
+        2,
+        37435,
+        39020
+      ]
+    ]
+  }
+}

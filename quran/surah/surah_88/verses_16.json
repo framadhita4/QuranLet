@@ -1,0 +1,60 @@
+{
+  "id": 5983,
+  "chapter_id": 88,
+  "verse_key": "88:16",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 18237,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_016_001.mp3",
+      "text": "وَزَرَابِىُّ",
+      "translation": "dan permadani",
+      "transliteration": "wazarābiyyu"
+    },
+    {
+      "id": 18238,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_016_002.mp3",
+      "text": "مَبْثُوثَةٌ",
+      "translation": "terhampar",
+      "transliteration": "mabthūthatun"
+    },
+    {
+      "id": 18239,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan permadani-permadani yang terhampar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 66510,
+    "timestamp_to": 70060,
+    "duration": 3550,
+    "segments": [
+      [
+        1,
+        66435,
+        67965
+      ],
+      [
+        2,
+        67965,
+        69910
+      ]
+    ]
+  }
+}

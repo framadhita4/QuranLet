@@ -1,0 +1,99 @@
+{
+  "id": 4423,
+  "chapter_id": 44,
+  "verse_key": "44:9",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 9796,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_009_001.mp3",
+      "text": "بَلْ",
+      "translation": "tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 9797,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_009_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 9798,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_009_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 9799,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_009_004.mp3",
+      "text": "شَكٍّۢ",
+      "translation": "keragu-raguan",
+      "transliteration": "shakkin"
+    },
+    {
+      "id": 9800,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_009_005.mp3",
+      "text": "يَلْعَبُونَ",
+      "translation": "mereka bermain-main",
+      "transliteration": "yalʿabūna"
+    },
+    {
+      "id": 9801,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi mereka bermain-main dalam keragu-raguan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81520,
+    "timestamp_to": 87840,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        81465,
+        81975
+      ],
+      [
+        2,
+        81975,
+        82375
+      ],
+      [
+        3,
+        82375,
+        82825
+      ],
+      [
+        4,
+        82825,
+        84415
+      ],
+      [
+        5,
+        84415,
+        87730
+      ]
+    ]
+  }
+}

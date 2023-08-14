@@ -1,0 +1,86 @@
+{
+  "id": 3944,
+  "chapter_id": 37,
+  "verse_key": "37:156",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "أَمْ لَكُمْ سُلْطَـٰنٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 81214,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_156_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 81215,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_156_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 81216,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_156_003.mp3",
+      "text": "سُلْطَـٰنٌۭ",
+      "translation": "kekuasaan/bukti",
+      "transliteration": "sul'ṭānun"
+    },
+    {
+      "id": 81217,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_156_004.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 81218,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٥٦",
+      "translation": "(156)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau apakah kamu mempunyai bukti yang nyata?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1252280,
+    "timestamp_to": 1258370,
+    "duration": 6090,
+    "segments": [
+      [
+        1,
+        1252235,
+        1252655
+      ],
+      [
+        2,
+        1252655,
+        1253215
+      ],
+      [
+        3,
+        1253215,
+        1254515
+      ],
+      [
+        4,
+        1254515,
+        1258250
+      ]
+    ]
+  }
+}

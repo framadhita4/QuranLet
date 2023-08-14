@@ -1,0 +1,125 @@
+{
+  "id": 1922,
+  "chapter_id": 16,
+  "verse_key": "16:21",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 225,
+  "manzil_number": 3,
+  "page_number": 269,
+  "juz_number": 14,
+  "text_uthmani": "أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 24337,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_001.mp3",
+      "text": "أَمْوَٰتٌ",
+      "translation": "mati",
+      "transliteration": "amwātun"
+    },
+    {
+      "id": 24338,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_002.mp3",
+      "text": "غَيْرُ",
+      "translation": "tidak",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 24339,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_003.mp3",
+      "text": "أَحْيَآءٍۢ ۖ",
+      "translation": "hidup",
+      "transliteration": "aḥyāin"
+    },
+    {
+      "id": 24341,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 24342,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_006.mp3",
+      "text": "يَشْعُرُونَ",
+      "translation": "mereka merasa/mengerti",
+      "transliteration": "yashʿurūna"
+    },
+    {
+      "id": 24343,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_007.mp3",
+      "text": "أَيَّانَ",
+      "translation": "kapan",
+      "transliteration": "ayyāna"
+    },
+    {
+      "id": 24344,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_021_008.mp3",
+      "text": "يُبْعَثُونَ",
+      "translation": "mereka dibangkitkan",
+      "transliteration": "yub'ʿathūna"
+    },
+    {
+      "id": 24345,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Berhala-berhala itu) benda mati tidak hidup dan berhala-berhala itu tidak mengetahui bilakah penyembah-penyembahnya akan dibangkitkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 319230,
+    "timestamp_to": 330540,
+    "duration": 11310,
+    "segments": [
+      [
+        1,
+        319175,
+        320475
+      ],
+      [
+        2,
+        320475,
+        321225
+      ],
+      [
+        3,
+        321225,
+        324155
+      ],
+      [
+        4,
+        324155,
+        324805
+      ],
+      [
+        5,
+        324805,
+        326095
+      ],
+      [
+        6,
+        326095,
+        327245
+      ],
+      [
+        7,
+        327245,
+        330460
+      ]
+    ]
+  }
+}

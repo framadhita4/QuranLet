@@ -1,0 +1,112 @@
+{
+  "id": 1799,
+  "chapter_id": 14,
+  "verse_key": "14:49",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 217,
+  "manzil_number": 3,
+  "page_number": 261,
+  "juz_number": 13,
+  "text_uthmani": "وَتَرَى ٱلْمُجْرِمِينَ يَوْمَئِذٍ مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 48290,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_001.mp3",
+      "text": "وَتَرَى",
+      "translation": "dan kamu akan melihat",
+      "transliteration": "watarā"
+    },
+    {
+      "id": 48291,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_002.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 48292,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_003.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 48293,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_004.mp3",
+      "text": "مُّقَرَّنِينَ",
+      "translation": "mereka bersama-sama",
+      "transliteration": "muqarranīna"
+    },
+    {
+      "id": 48294,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_005.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 48295,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_006.mp3",
+      "text": "ٱلْأَصْفَادِ",
+      "translation": "belenggu",
+      "transliteration": "l-aṣfādi"
+    },
+    {
+      "id": 48296,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu akan melihat orang-orang yang berdosa pada hari itu diikat bersama-sama dengan belenggu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1145947,
+    "timestamp_to": 1155728,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        1145817,
+        1147278
+      ],
+      [
+        2,
+        1147278,
+        1148204
+      ],
+      [
+        3,
+        1148204,
+        1150359
+      ],
+      [
+        4,
+        1150359,
+        1151917
+      ],
+      [
+        5,
+        1151917,
+        1152938
+      ],
+      [
+        6,
+        1152938,
+        1155722
+      ]
+    ]
+  }
+}

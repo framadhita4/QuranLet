@@ -1,0 +1,86 @@
+{
+  "id": 6071,
+  "chapter_id": 92,
+  "verse_key": "92:13",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 14913,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_013_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 14914,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_013_002.mp3",
+      "text": "لَنَا",
+      "translation": "milik Kamilah",
+      "transliteration": "lanā"
+    },
+    {
+      "id": 14915,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_013_003.mp3",
+      "text": "لَلْـَٔاخِرَةَ",
+      "translation": "akhirat",
+      "transliteration": "lalākhirata"
+    },
+    {
+      "id": 14916,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_013_004.mp3",
+      "text": "وَٱلْأُولَىٰ",
+      "translation": "dan dunia itu",
+      "transliteration": "wal-ūlā"
+    },
+    {
+      "id": 14917,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kepunyaan Kami-lah akhirat dan dunia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50740,
+    "timestamp_to": 56430,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        50385,
+        51745
+      ],
+      [
+        2,
+        51745,
+        52495
+      ],
+      [
+        3,
+        52495,
+        53935
+      ],
+      [
+        4,
+        53935,
+        55410
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3030,
+  "chapter_id": 26,
+  "verse_key": "26:98",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 70720,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_001.mp3",
+      "text": "إِذْ",
+      "translation": "apabila",
+      "transliteration": "idh"
+    },
+    {
+      "id": 70721,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_002.mp3",
+      "text": "نُسَوِّيكُم",
+      "translation": "kita mempersamakan kamu",
+      "transliteration": "nusawwīkum"
+    },
+    {
+      "id": 70722,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_003.mp3",
+      "text": "بِرَبِّ",
+      "translation": "dengan Tuhan",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 70723,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 70724,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena kita mempersamakan kamu dengan Tuhan semesta alam\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 912030,
+    "timestamp_to": 919140,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        912005,
+        912415
+      ],
+      [
+        2,
+        912415,
+        914745
+      ],
+      [
+        3,
+        914745,
+        915525
+      ],
+      [
+        4,
+        915525,
+        919050
+      ]
+    ]
+  }
+}

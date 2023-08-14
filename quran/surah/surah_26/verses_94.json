@@ -1,0 +1,86 @@
+{
+  "id": 3026,
+  "chapter_id": 26,
+  "verse_key": "26:94",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 69617,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_001.mp3",
+      "text": "فَكُبْكِبُوا۟",
+      "translation": "maka dijungkirkan",
+      "transliteration": "fakub'kibū"
+    },
+    {
+      "id": 69618,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_002.mp3",
+      "text": "فِيهَا",
+      "translation": "kedalamnya (dalam neraka)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 69619,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_003.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 69620,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_004.mp3",
+      "text": "وَٱلْغَاوُۥنَ",
+      "translation": "dan/bersama orang-orang yang sesat",
+      "transliteration": "wal-ghāwūna"
+    },
+    {
+      "id": 69621,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka (sembahan-sembahan itu) dijungkirkan ke dalam neraka bersama-sama orang-orang yang sesat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 885990,
+    "timestamp_to": 891840,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        885965,
+        887245
+      ],
+      [
+        2,
+        887245,
+        888125
+      ],
+      [
+        3,
+        888125,
+        888655
+      ],
+      [
+        4,
+        888655,
+        891760
+      ]
+    ]
+  }
+}

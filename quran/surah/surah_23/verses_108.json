@@ -1,0 +1,99 @@
+{
+  "id": 2781,
+  "chapter_id": 23,
+  "verse_key": "23:108",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 349,
+  "juz_number": 18,
+  "text_uthmani": "قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 73700,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_108_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 73701,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_108_002.mp3",
+      "text": "ٱخْسَـُٔوا۟",
+      "translation": "tinggallah dengan hina",
+      "transliteration": "ikh'saū"
+    },
+    {
+      "id": 73702,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_108_003.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 73703,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_108_004.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 73704,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_108_005.mp3",
+      "text": "تُكَلِّمُونِ",
+      "translation": "kamu berbicara dengan-Ku",
+      "transliteration": "tukallimūni"
+    },
+    {
+      "id": 73705,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠٨",
+      "translation": "(108)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Tinggallah dengan hina di dalamnya dan janganlah kamu berbicara dengan Aku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1337600,
+    "timestamp_to": 1344000,
+    "duration": 6400,
+    "segments": [
+      [
+        1,
+        1337575,
+        1338225
+      ],
+      [
+        2,
+        1338225,
+        1339005
+      ],
+      [
+        3,
+        1339005,
+        1339915
+      ],
+      [
+        4,
+        1339915,
+        1340435
+      ],
+      [
+        5,
+        1340435,
+        1343940
+      ]
+    ]
+  }
+}

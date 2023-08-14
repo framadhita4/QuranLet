@@ -1,0 +1,60 @@
+{
+  "id": 3707,
+  "chapter_id": 36,
+  "verse_key": "36:2",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "page_number": 440,
+  "juz_number": 22,
+  "text_uthmani": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 1974,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_002_001.mp3",
+      "text": "وَٱلْقُرْءَانِ",
+      "translation": "demi Al Qur'an",
+      "transliteration": "wal-qur'āni"
+    },
+    {
+      "id": 1975,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_002_002.mp3",
+      "text": "ٱلْحَكِيمِ",
+      "translation": "penuh hikmat",
+      "transliteration": "l-ḥakīmi"
+    },
+    {
+      "id": 1976,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi Al-Qur`ān yang penuh hikmah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4620,
+    "timestamp_to": 9450,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        4465,
+        5755
+      ],
+      [
+        2,
+        5755,
+        9240
+      ]
+    ]
+  }
+}

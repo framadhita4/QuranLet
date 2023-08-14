@@ -1,0 +1,60 @@
+{
+  "id": 4845,
+  "chapter_id": 53,
+  "verse_key": "53:61",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنتُمْ سَـٰمِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 55410,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_061_001.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 55411,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_061_002.mp3",
+      "text": "سَـٰمِدُونَ",
+      "translation": "melengahkan",
+      "transliteration": "sāmidūna"
+    },
+    {
+      "id": 55412,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sedang kamu melengahkan(nya)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 454920,
+    "timestamp_to": 460950,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        454845,
+        456935
+      ],
+      [
+        2,
+        456935,
+        460820
+      ]
+    ]
+  }
+}

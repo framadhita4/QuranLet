@@ -1,0 +1,112 @@
+{
+  "id": 6102,
+  "chapter_id": 95,
+  "verse_key": "95:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3",
+  "words": [
+    {
+      "id": 4019,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_004_001.mp3",
+      "text": "لَقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 4020,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_004_002.mp3",
+      "text": "خَلَقْنَا",
+      "translation": "Kami telah menciptakan",
+      "transliteration": "khalaqnā"
+    },
+    {
+      "id": 4021,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_004_003.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 4022,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_004_004.mp3",
+      "text": "فِىٓ",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 4023,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_004_005.mp3",
+      "text": "أَحْسَنِ",
+      "translation": "sebaik-baik",
+      "transliteration": "aḥsani"
+    },
+    {
+      "id": 4024,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_004_006.mp3",
+      "text": "تَقْوِيمٍۢ",
+      "translation": "bentuk",
+      "transliteration": "taqwīmin"
+    },
+    {
+      "id": 4025,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13770,
+    "timestamp_to": 22490,
+    "duration": 8730,
+    "segments": [
+      [
+        1,
+        13705,
+        14305
+      ],
+      [
+        2,
+        14305,
+        15075
+      ],
+      [
+        3,
+        15075,
+        17045
+      ],
+      [
+        4,
+        17045,
+        18735
+      ],
+      [
+        5,
+        18735,
+        19515
+      ],
+      [
+        6,
+        19515,
+        22370
+      ]
+    ]
+  }
+}

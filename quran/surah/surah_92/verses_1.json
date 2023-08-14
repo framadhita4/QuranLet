@@ -1,0 +1,73 @@
+{
+  "id": 6059,
+  "chapter_id": 92,
+  "verse_key": "92:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 222,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_001_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "demi malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 223,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_001_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 224,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_001_003.mp3",
+      "text": "يَغْشَىٰ",
+      "translation": "ia menutup",
+      "transliteration": "yaghshā"
+    },
+    {
+      "id": 225,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi malam apabila menutupi (cahaya siang),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3320,
+    "duration": 3320,
+    "segments": [
+      [
+        1,
+        0,
+        980
+      ],
+      [
+        2,
+        980,
+        1640
+      ],
+      [
+        3,
+        1640,
+        2775
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2305,
+  "chapter_id": 19,
+  "verse_key": "19:55",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "page_number": 309,
+  "juz_number": 16,
+  "text_uthmani": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 51971,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_001.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah dia",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 51972,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_002.mp3",
+      "text": "يَأْمُرُ",
+      "translation": "dia menyuruh",
+      "transliteration": "yamuru"
+    },
+    {
+      "id": 51973,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_003.mp3",
+      "text": "أَهْلَهُۥ",
+      "translation": "keluarganya",
+      "transliteration": "ahlahu"
+    },
+    {
+      "id": 51974,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_004.mp3",
+      "text": "بِٱلصَّلَوٰةِ",
+      "translation": "dengan/untuk sholat",
+      "transliteration": "bil-ṣalati"
+    },
+    {
+      "id": 51975,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_005.mp3",
+      "text": "وَٱلزَّكَوٰةِ",
+      "translation": "dan zakat",
+      "transliteration": "wal-zakati"
+    },
+    {
+      "id": 51976,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_006.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah dia",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 51977,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_007.mp3",
+      "text": "عِندَ",
+      "translation": "disisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 51978,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_008.mp3",
+      "text": "رَبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 51979,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_055_009.mp3",
+      "text": "مَرْضِيًّۭا",
+      "translation": "seorang yang diridhai",
+      "transliteration": "marḍiyyan"
+    },
+    {
+      "id": 51980,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ia menyuruh ahlinya <sup foot_note_id=\"905\">1</sup> untuk bersembahyang dan menunaikan zakat dan ia adalah seorang yang diridai di sisi Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 747650,
+    "timestamp_to": 759090,
+    "duration": 11440,
+    "segments": [
+      [
+        1,
+        747625,
+        748515
+      ],
+      [
+        2,
+        748515,
+        749545
+      ],
+      [
+        3,
+        749545,
+        750695
+      ],
+      [
+        4,
+        750695,
+        752175
+      ],
+      [
+        5,
+        752175,
+        753565
+      ],
+      [
+        6,
+        753565,
+        754495
+      ],
+      [
+        7,
+        754495,
+        755985
+      ],
+      [
+        8,
+        755985,
+        757205
+      ],
+      [
+        9,
+        757205,
+        758720
+      ]
+    ]
+  }
+}

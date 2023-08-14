@@ -1,0 +1,73 @@
+{
+  "id": 3906,
+  "chapter_id": 37,
+  "verse_key": "37:118",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 76103,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_118_001.mp3",
+      "text": "وَهَدَيْنَـٰهُمَا",
+      "translation": "dan Kami beri petunjuk keduanya",
+      "transliteration": "wahadaynāhumā"
+    },
+    {
+      "id": 76104,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_118_002.mp3",
+      "text": "ٱلصِّرَٰطَ",
+      "translation": "jalan",
+      "transliteration": "l-ṣirāṭa"
+    },
+    {
+      "id": 76105,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_118_003.mp3",
+      "text": "ٱلْمُسْتَقِيمَ",
+      "translation": "yang lurus",
+      "transliteration": "l-mus'taqīma"
+    },
+    {
+      "id": 76106,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١٨",
+      "translation": "(118)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tunjuki keduanya ke jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 981300,
+    "timestamp_to": 987410,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        981245,
+        982845
+      ],
+      [
+        2,
+        982845,
+        983855
+      ],
+      [
+        3,
+        983855,
+        987300
+      ]
+    ]
+  }
+}

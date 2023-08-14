@@ -1,0 +1,86 @@
+{
+  "id": 5731,
+  "chapter_id": 79,
+  "verse_key": "79:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 21721,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_019_001.mp3",
+      "text": "وَأَهْدِيَكَ",
+      "translation": "dan aku tunjukkan/pimpin kamu",
+      "transliteration": "wa-ahdiyaka"
+    },
+    {
+      "id": 21722,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_019_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 21723,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_019_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 21724,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_019_004.mp3",
+      "text": "فَتَخْشَىٰ",
+      "translation": "maka (supaya) kamu takut",
+      "transliteration": "fatakhshā"
+    },
+    {
+      "id": 21725,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu akan kupimpin ke jalan Tuhan-mu agar supaya kamu takut kepada-Nya?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 85280,
+    "timestamp_to": 89770,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        84835,
+        86095
+      ],
+      [
+        2,
+        86095,
+        86615
+      ],
+      [
+        3,
+        86615,
+        87605
+      ],
+      [
+        4,
+        87605,
+        88860
+      ]
+    ]
+  }
+}

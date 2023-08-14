@@ -1,0 +1,125 @@
+{
+  "id": 1603,
+  "chapter_id": 12,
+  "verse_key": "12:7",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "ruku_number": 194,
+  "manzil_number": 3,
+  "page_number": 236,
+  "juz_number": 12,
+  "text_uthmani": "۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَـٰتٌ لِّلسَّآئِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 8149,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_002.mp3",
+      "text": "۞ لَّقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 8150,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_003.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 8151,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_004.mp3",
+      "text": "فِى",
+      "translation": "didalam/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 8152,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_005.mp3",
+      "text": "يُوسُفَ",
+      "translation": "Yusuf",
+      "transliteration": "yūsufa"
+    },
+    {
+      "id": 8153,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_006.mp3",
+      "text": "وَإِخْوَتِهِۦٓ",
+      "translation": "dan saudara-saudaranya",
+      "transliteration": "wa-ikh'watihi"
+    },
+    {
+      "id": 8154,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_007.mp3",
+      "text": "ءَايَـٰتٌۭ",
+      "translation": "ayat-ayat/tanda-tanda",
+      "transliteration": "āyātun"
+    },
+    {
+      "id": 8155,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_007_008.mp3",
+      "text": "لِّلسَّآئِلِينَ",
+      "translation": "bagi orang-orang yang bertanya",
+      "transliteration": "lilssāilīna"
+    },
+    {
+      "id": 8156,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ada beberapa tanda-tanda kekuasaan Allah pada (kisah) Yūsuf dan saudara-saudaranya bagi orang-orang yang bertanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 125910,
+    "timestamp_to": 139360,
+    "duration": 13450,
+    "segments": [
+      [
+        1,
+        125885,
+        126655
+      ],
+      [
+        2,
+        126655,
+        127335
+      ],
+      [
+        3,
+        127335,
+        127785
+      ],
+      [
+        4,
+        127785,
+        128795
+      ],
+      [
+        5,
+        128795,
+        131755
+      ],
+      [
+        6,
+        131755,
+        132965
+      ],
+      [
+        7,
+        132965,
+        139280
+      ]
+    ]
+  }
+}

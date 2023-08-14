@@ -1,0 +1,151 @@
+{
+  "id": 2116,
+  "chapter_id": 17,
+  "verse_key": "17:87",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "ruku_number": 249,
+  "manzil_number": 4,
+  "page_number": 291,
+  "juz_number": 15,
+  "text_uthmani": "إِلَّا رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 66728,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 66729,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_002.mp3",
+      "text": "رَحْمَةًۭ",
+      "translation": "rahmat",
+      "transliteration": "raḥmatan"
+    },
+    {
+      "id": 66730,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 66731,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_004.mp3",
+      "text": "رَّبِّكَ ۚ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 66733,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_006.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 66734,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_007.mp3",
+      "text": "فَضْلَهُۥ",
+      "translation": "karunia-Nya",
+      "transliteration": "faḍlahu"
+    },
+    {
+      "id": 66735,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_008.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 66736,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_009.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 66737,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_087_010.mp3",
+      "text": "كَبِيرًۭا",
+      "translation": "besar",
+      "transliteration": "kabīran"
+    },
+    {
+      "id": 66738,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٨٧",
+      "translation": "(87)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali karena rahmat dari Tuhan-mu.  Sesungguhnya karunia-Nya atasmu adalah besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1510790,
+    "timestamp_to": 1522390,
+    "duration": 11600,
+    "segments": [
+      [
+        1,
+        1510695,
+        1511615
+      ],
+      [
+        2,
+        1511615,
+        1512795
+      ],
+      [
+        3,
+        1512795,
+        1513885
+      ],
+      [
+        4,
+        1513885,
+        1515335
+      ],
+      [
+        5,
+        1515335,
+        1516775
+      ],
+      [
+        6,
+        1516775,
+        1518145
+      ],
+      [
+        7,
+        1518145,
+        1518945
+      ],
+      [
+        8,
+        1518945,
+        1519995
+      ],
+      [
+        9,
+        1519995,
+        1522270
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4311,
+  "chapter_id": 42,
+  "verse_key": "42:39",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "ruku_number": 424,
+  "manzil_number": 6,
+  "page_number": 487,
+  "juz_number": 25,
+  "text_uthmani": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3",
+  "words": [
+    {
+      "id": 40364,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_039_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 40365,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_039_002.mp3",
+      "text": "إِذَآ",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 40366,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_039_003.mp3",
+      "text": "أَصَابَهُمُ",
+      "translation": "menimpa mereka",
+      "transliteration": "aṣābahumu"
+    },
+    {
+      "id": 40367,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_039_004.mp3",
+      "text": "ٱلْبَغْىُ",
+      "translation": "kezaliman",
+      "transliteration": "l-baghyu"
+    },
+    {
+      "id": 40368,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_039_005.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 40369,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_039_006.mp3",
+      "text": "يَنتَصِرُونَ",
+      "translation": "mereka membela diri",
+      "transliteration": "yantaṣirūna"
+    },
+    {
+      "id": 40370,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ( bagi) orang-orang yang apabila mereka diperlakukan dengan zalim mereka membela diri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 813010,
+    "timestamp_to": 823300,
+    "duration": 10290,
+    "segments": [
+      [
+        1,
+        812985,
+        814395
+      ],
+      [
+        2,
+        814395,
+        816705
+      ],
+      [
+        3,
+        816705,
+        817945
+      ],
+      [
+        4,
+        817945,
+        818805
+      ],
+      [
+        5,
+        818805,
+        819265
+      ],
+      [
+        6,
+        819265,
+        823220
+      ]
+    ]
+  }
+}

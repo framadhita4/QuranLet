@@ -1,0 +1,86 @@
+{
+  "id": 6053,
+  "chapter_id": 91,
+  "verse_key": "91:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 12039,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_010_001.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 12040,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_010_002.mp3",
+      "text": "خَابَ",
+      "translation": "celaka/rugi",
+      "transliteration": "khāba"
+    },
+    {
+      "id": 12041,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_010_003.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 12042,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_010_004.mp3",
+      "text": "دَسَّىٰهَا",
+      "translation": "mengotorinya",
+      "transliteration": "dassāhā"
+    },
+    {
+      "id": 12043,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya merugilah orang yang mengotorinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37010,
+    "timestamp_to": 41350,
+    "duration": 4340,
+    "segments": [
+      [
+        1,
+        36585,
+        37125
+      ],
+      [
+        2,
+        37125,
+        37875
+      ],
+      [
+        3,
+        37875,
+        38915
+      ],
+      [
+        4,
+        38915,
+        40420
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 5452,
+  "chapter_id": 72,
+  "verse_key": "72:5",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 508,
+  "manzil_number": 7,
+  "page_number": 572,
+  "juz_number": 29,
+  "text_uthmani": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3",
+  "words": [
+    {
+      "id": 5314,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_001.mp3",
+      "text": "وَأَنَّا",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-annā"
+    },
+    {
+      "id": 5315,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_002.mp3",
+      "text": "ظَنَنَّآ",
+      "translation": "kami mengira",
+      "transliteration": "ẓanannā"
+    },
+    {
+      "id": 5316,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_003.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 5317,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_004.mp3",
+      "text": "لَّن",
+      "translation": "tidak akan",
+      "transliteration": "lan"
+    },
+    {
+      "id": 5318,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_005.mp3",
+      "text": "تَقُولَ",
+      "translation": "mengatakan",
+      "transliteration": "taqūla"
+    },
+    {
+      "id": 5319,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_006.mp3",
+      "text": "ٱلْإِنسُ",
+      "translation": "manusia",
+      "transliteration": "l-insu"
+    },
+    {
+      "id": 5320,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_007.mp3",
+      "text": "وَٱلْجِنُّ",
+      "translation": "dan jin",
+      "transliteration": "wal-jinu"
+    },
+    {
+      "id": 5321,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_008.mp3",
+      "text": "عَلَى",
+      "translation": "terhadap",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 5322,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_009.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 5323,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_005_010.mp3",
+      "text": "كَذِبًۭا",
+      "translation": "dusta",
+      "transliteration": "kadhiban"
+    },
+    {
+      "id": 5324,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kami mengira bahwa manusia dan jin sekali-kali tidak akan mengatakan perkataan yang dusta terhadap Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41760,
+    "timestamp_to": 53850,
+    "duration": 12100,
+    "segments": [
+      [
+        1,
+        41665,
+        43135
+      ],
+      [
+        2,
+        43135,
+        46365
+      ],
+      [
+        3,
+        46365,
+        46595
+      ],
+      [
+        4,
+        46595,
+        47485
+      ],
+      [
+        5,
+        47485,
+        48195
+      ],
+      [
+        6,
+        48195,
+        49705
+      ],
+      [
+        7,
+        49705,
+        51025
+      ],
+      [
+        8,
+        51025,
+        51375
+      ],
+      [
+        9,
+        51375,
+        52245
+      ],
+      [
+        10,
+        52245,
+        53680
+      ]
+    ]
+  }
+}

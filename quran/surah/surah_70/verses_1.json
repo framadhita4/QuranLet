@@ -1,0 +1,86 @@
+{
+  "id": 5376,
+  "chapter_id": 70,
+  "verse_key": "70:1",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": " سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 594,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_001_001.mp3",
+      "text": "سَأَلَ",
+      "translation": "bertanya",
+      "transliteration": "sa-ala"
+    },
+    {
+      "id": 595,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_001_002.mp3",
+      "text": "سَآئِلٌۢ",
+      "translation": "seorang penanya",
+      "transliteration": "sāilun"
+    },
+    {
+      "id": 596,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_001_003.mp3",
+      "text": "بِعَذَابٍۢ",
+      "translation": "dengan/tentang azab",
+      "transliteration": "biʿadhābin"
+    },
+    {
+      "id": 597,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_001_004.mp3",
+      "text": "وَاقِعٍۢ",
+      "translation": "jatuh/terjadi",
+      "transliteration": "wāqiʿin"
+    },
+    {
+      "id": 598,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Seseorang peminta telah meminta kedatangan azab yang bakal terjadi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 7310,
+    "duration": 7320,
+    "segments": [
+      [
+        1,
+        0,
+        720
+      ],
+      [
+        2,
+        720,
+        3789
+      ],
+      [
+        3,
+        3790,
+        6090
+      ],
+      [
+        4,
+        6090,
+        7265
+      ]
+    ]
+  }
+}

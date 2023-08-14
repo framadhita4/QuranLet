@@ -1,0 +1,99 @@
+{
+  "id": 5437,
+  "chapter_id": 71,
+  "verse_key": "71:18",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 20603,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_018_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 20604,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_018_002.mp3",
+      "text": "يُعِيدُكُمْ",
+      "translation": "Dia mengembalikan kamu",
+      "transliteration": "yuʿīdukum"
+    },
+    {
+      "id": 20605,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_018_003.mp3",
+      "text": "فِيهَا",
+      "translation": "kedalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 20606,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_018_004.mp3",
+      "text": "وَيُخْرِجُكُمْ",
+      "translation": "dan Dia mengeluarkan kamu",
+      "transliteration": "wayukh'rijukum"
+    },
+    {
+      "id": 20607,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_018_005.mp3",
+      "text": "إِخْرَاجًۭا",
+      "translation": "pengeluaran",
+      "transliteration": "ikh'rājan"
+    },
+    {
+      "id": 20608,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian Dia mengembalikan kamu ke dalam tanah dan mengeluarkan kamu (darinya pada hari kiamat) dengan sebenar-benarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 164750,
+    "timestamp_to": 171070,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        164395,
+        165445
+      ],
+      [
+        2,
+        165445,
+        166605
+      ],
+      [
+        3,
+        166605,
+        167425
+      ],
+      [
+        4,
+        167425,
+        168775
+      ],
+      [
+        5,
+        168775,
+        170180
+      ]
+    ]
+  }
+}

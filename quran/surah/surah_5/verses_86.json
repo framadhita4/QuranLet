@@ -1,0 +1,125 @@
+{
+  "id": 755,
+  "chapter_id": 5,
+  "verse_key": "5:86",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "ruku_number": 96,
+  "manzil_number": 2,
+  "page_number": 122,
+  "juz_number": 7,
+  "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 66565,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 66566,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_002.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 66567,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_003.mp3",
+      "text": "وَكَذَّبُوا۟",
+      "translation": "dan mereka mendustakan",
+      "transliteration": "wakadhabū"
+    },
+    {
+      "id": 66568,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_004.mp3",
+      "text": "بِـَٔايَـٰتِنَآ",
+      "translation": "dengan ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 66569,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_005.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 66570,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_006.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penghuni",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 66571,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_086_007.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 66572,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang kafir serta mendustakan ayat-ayat Kami, mereka itulah penghuni neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2740080,
+    "timestamp_to": 2752850,
+    "duration": 12770,
+    "segments": [
+      [
+        1,
+        2740025,
+        2741255
+      ],
+      [
+        2,
+        2741255,
+        2742175
+      ],
+      [
+        3,
+        2742175,
+        2743355
+      ],
+      [
+        4,
+        2743355,
+        2746045
+      ],
+      [
+        5,
+        2746045,
+        2748255
+      ],
+      [
+        6,
+        2748255,
+        2749495
+      ],
+      [
+        7,
+        2749495,
+        2752740
+      ]
+    ]
+  }
+}

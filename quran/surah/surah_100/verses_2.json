@@ -1,0 +1,60 @@
+{
+  "id": 6148,
+  "chapter_id": 100,
+  "verse_key": "100:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 1941,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_002_001.mp3",
+      "text": "فَٱلْمُورِيَـٰتِ",
+      "translation": "lalu yang memercikkan/terbitkan",
+      "transliteration": "fal-mūriyāti"
+    },
+    {
+      "id": 1942,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_002_002.mp3",
+      "text": "قَدْحًۭا",
+      "translation": "api",
+      "transliteration": "qadḥan"
+    },
+    {
+      "id": 1943,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kuda yang mencetuskan api dengan pukulan (kuku kakinya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3290,
+    "timestamp_to": 6560,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        2865,
+        4675
+      ],
+      [
+        2,
+        4675,
+        5650
+      ]
+    ]
+  }
+}

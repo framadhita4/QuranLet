@@ -1,0 +1,86 @@
+{
+  "id": 4684,
+  "chapter_id": 51,
+  "verse_key": "51:9",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 9925,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_009_001.mp3",
+      "text": "يُؤْفَكُ",
+      "translation": "dipalingkan",
+      "transliteration": "yu'faku"
+    },
+    {
+      "id": 9926,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_009_002.mp3",
+      "text": "عَنْهُ",
+      "translation": "darinya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 9927,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_009_003.mp3",
+      "text": "مَنْ",
+      "translation": "orang yang",
+      "transliteration": "man"
+    },
+    {
+      "id": 9928,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_009_004.mp3",
+      "text": "أُفِكَ",
+      "translation": "dipalingkan",
+      "transliteration": "ufika"
+    },
+    {
+      "id": 9929,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dipalingkan darinya (rasul dan Al-Qur`ān) orang yang dipalingkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33580,
+    "timestamp_to": 36850,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        33165,
+        34065
+      ],
+      [
+        2,
+        34065,
+        34835
+      ],
+      [
+        3,
+        34835,
+        35275
+      ],
+      [
+        4,
+        35275,
+        36370
+      ]
+    ]
+  }
+}

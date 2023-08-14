@@ -1,0 +1,99 @@
+{
+  "id": 2350,
+  "chapter_id": 20,
+  "verse_key": "20:2",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 1156,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_002_001.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1157,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_002_002.mp3",
+      "text": "أَنزَلْنَا",
+      "translation": "Kami menurunkan",
+      "transliteration": "anzalnā"
+    },
+    {
+      "id": 1158,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_002_003.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 1159,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_002_004.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al-Qur'an",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 1160,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_002_005.mp3",
+      "text": "لِتَشْقَىٰٓ",
+      "translation": "supaya kamu celaka",
+      "transliteration": "litashqā"
+    },
+    {
+      "id": 1161,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami tidak menurunkan Al-Qur`ān ini kepadamu agar kamu menjadi susah;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1720,
+    "timestamp_to": 10600,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        1185,
+        3695
+      ],
+      [
+        2,
+        3695,
+        5965
+      ],
+      [
+        3,
+        5965,
+        6855
+      ],
+      [
+        4,
+        6855,
+        8145
+      ],
+      [
+        5,
+        8145,
+        10040
+      ]
+    ]
+  }
+}

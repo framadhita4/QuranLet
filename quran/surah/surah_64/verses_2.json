@@ -1,0 +1,177 @@
+{
+  "id": 5201,
+  "chapter_id": 64,
+  "verse_key": "64:2",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 492,
+  "manzil_number": 7,
+  "page_number": 556,
+  "juz_number": 28,
+  "text_uthmani": "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3",
+  "words": [
+    {
+      "id": 1379,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_001.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 1380,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 1381,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_003.mp3",
+      "text": "خَلَقَكُمْ",
+      "translation": "menciptakan kalian",
+      "transliteration": "khalaqakum"
+    },
+    {
+      "id": 1382,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_004.mp3",
+      "text": "فَمِنكُمْ",
+      "translation": "maka diantara kamu",
+      "transliteration": "faminkum"
+    },
+    {
+      "id": 1383,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_005.mp3",
+      "text": "كَافِرٌۭ",
+      "translation": "kafir",
+      "transliteration": "kāfirun"
+    },
+    {
+      "id": 1384,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_006.mp3",
+      "text": "وَمِنكُم",
+      "translation": "dan antara kamu",
+      "transliteration": "waminkum"
+    },
+    {
+      "id": 1385,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_007.mp3",
+      "text": "مُّؤْمِنٌۭ ۚ",
+      "translation": "orang yang beriman",
+      "transliteration": "mu'minun"
+    },
+    {
+      "id": 1387,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_009.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 1388,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_010.mp3",
+      "text": "بِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 1389,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_011.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 1390,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_002_012.mp3",
+      "text": "بَصِيرٌ",
+      "translation": "Maha Melihat",
+      "transliteration": "baṣīrun"
+    },
+    {
+      "id": 1391,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah yang menciptakan kamu, maka di antara kamu ada yang kafir dan di antaramu ada yang beriman.  Dan Allah Maha Melihat apa yang kamu kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14860,
+    "timestamp_to": 29720,
+    "duration": 14860,
+    "segments": [
+      [
+        1,
+        14815,
+        15125
+      ],
+      [
+        2,
+        15125,
+        15985
+      ],
+      [
+        3,
+        15985,
+        17025
+      ],
+      [
+        4,
+        17025,
+        18965
+      ],
+      [
+        5,
+        18965,
+        20525
+      ],
+      [
+        6,
+        20525,
+        22105
+      ],
+      [
+        7,
+        22105,
+        24375
+      ],
+      [
+        8,
+        24375,
+        25435
+      ],
+      [
+        9,
+        25435,
+        25985
+      ],
+      [
+        10,
+        25985,
+        27335
+      ],
+      [
+        11,
+        27335,
+        29640
+      ]
+    ]
+  }
+}

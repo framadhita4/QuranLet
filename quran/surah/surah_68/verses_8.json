@@ -1,0 +1,73 @@
+{
+  "id": 5279,
+  "chapter_id": 68,
+  "verse_key": "68:8",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 9067,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_008_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 9068,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_008_002.mp3",
+      "text": "تُطِعِ",
+      "translation": "kamu taati",
+      "transliteration": "tuṭiʿi"
+    },
+    {
+      "id": 9069,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_008_003.mp3",
+      "text": "ٱلْمُكَذِّبِينَ",
+      "translation": "orang-orang yang mendustakan",
+      "transliteration": "l-mukadhibīna"
+    },
+    {
+      "id": 9070,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka janganlah kamu ikuti orang-orang yang mendustakan (ayat-ayat Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 52270,
+    "timestamp_to": 56920,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        52195,
+        52795
+      ],
+      [
+        2,
+        52795,
+        53225
+      ],
+      [
+        3,
+        53225,
+        56810
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 336,
+  "chapter_id": 3,
+  "verse_key": "3:43",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "ruku_number": 46,
+  "manzil_number": 1,
+  "page_number": 55,
+  "juz_number": 3,
+  "text_uthmani": "يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 44091,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_001.mp3",
+      "text": "يَـٰمَرْيَمُ",
+      "translation": "Wahai Maryam!",
+      "transliteration": "yāmaryamu"
+    },
+    {
+      "id": 44092,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_002.mp3",
+      "text": "ٱقْنُتِى",
+      "translation": "taatlah",
+      "transliteration": "uq'nutī"
+    },
+    {
+      "id": 44093,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_003.mp3",
+      "text": "لِرَبِّكِ",
+      "translation": "kepada Tuhanmu",
+      "transliteration": "lirabbiki"
+    },
+    {
+      "id": 44094,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_004.mp3",
+      "text": "وَٱسْجُدِى",
+      "translation": "dan sujudlah",
+      "transliteration": "wa-us'judī"
+    },
+    {
+      "id": 44095,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_005.mp3",
+      "text": "وَٱرْكَعِى",
+      "translation": "dan ruku'lah",
+      "transliteration": "wa-ir'kaʿī"
+    },
+    {
+      "id": 44096,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_006.mp3",
+      "text": "مَعَ",
+      "translation": "bersama",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 44097,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_043_007.mp3",
+      "text": "ٱلرَّٰكِعِينَ",
+      "translation": "orang-orang yang ruku'",
+      "transliteration": "l-rākiʿīna"
+    },
+    {
+      "id": 44098,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai Maryam, taatlah kepada Tuhan-mu, sujud dan rukuklah bersama orang-orang yang rukuk<sup foot_note_id=\"195\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1009320,
+    "timestamp_to": 1017840,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        1009295,
+        1010615
+      ],
+      [
+        2,
+        1010615,
+        1011515
+      ],
+      [
+        3,
+        1011515,
+        1012485
+      ],
+      [
+        4,
+        1012485,
+        1013475
+      ],
+      [
+        5,
+        1013475,
+        1014495
+      ],
+      [
+        6,
+        1014495,
+        1014915
+      ],
+      [
+        7,
+        1014915,
+        1017790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 955,
+  "chapter_id": 7,
+  "verse_key": "7:1",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 122,
+  "manzil_number": 2,
+  "page_number": 151,
+  "juz_number": 8,
+  "text_uthmani": " الٓمٓصٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 813,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_001_001.mp3",
+      "text": "الٓمٓصٓ",
+      "translation": "Alif Lam Mim Shad",
+      "transliteration": "alif-lam-meem-sad"
+    },
+    {
+      "id": 814,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Mīm Ṣād<sup foot_note_id=\"528\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 13790,
+    "duration": 13790,
+    "segments": [
+      [
+        1,
+        0,
+        13765
+      ]
+    ]
+  }
+}

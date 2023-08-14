@@ -1,0 +1,99 @@
+{
+  "id": 5398,
+  "chapter_id": 70,
+  "verse_key": "70:23",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 26118,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_023_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 26119,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_023_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 26120,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_023_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 26121,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_023_004.mp3",
+      "text": "صَلَاتِهِمْ",
+      "translation": "sholat mereka",
+      "transliteration": "ṣalātihim"
+    },
+    {
+      "id": 26122,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_023_005.mp3",
+      "text": "دَآئِمُونَ",
+      "translation": "orang-orang yang menetapi",
+      "transliteration": "dāimūna"
+    },
+    {
+      "id": 26123,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mereka itu tetap mengerjakan salatnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 117590,
+    "timestamp_to": 125560,
+    "duration": 7970,
+    "segments": [
+      [
+        1,
+        117545,
+        118765
+      ],
+      [
+        2,
+        118765,
+        119105
+      ],
+      [
+        3,
+        119105,
+        119595
+      ],
+      [
+        4,
+        119595,
+        120975
+      ],
+      [
+        5,
+        120975,
+        125440
+      ]
+    ]
+  }
+}

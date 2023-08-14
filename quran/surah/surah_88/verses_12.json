@@ -1,0 +1,73 @@
+{
+  "id": 5979,
+  "chapter_id": 88,
+  "verse_key": "88:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "فِيهَا عَيْنٌ جَارِيَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 13384,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_012_001.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 13385,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_012_002.mp3",
+      "text": "عَيْنٌۭ",
+      "translation": "mata air",
+      "transliteration": "ʿaynun"
+    },
+    {
+      "id": 13386,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_012_003.mp3",
+      "text": "جَارِيَةٌۭ",
+      "translation": "mengalir",
+      "transliteration": "jāriyatun"
+    },
+    {
+      "id": 13387,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya ada mata air yang mengalir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50730,
+    "timestamp_to": 54960,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        50655,
+        51465
+      ],
+      [
+        2,
+        51465,
+        53055
+      ],
+      [
+        3,
+        53056,
+        54830
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6186,
+  "chapter_id": 104,
+  "verse_key": "104:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 7378,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_007_001.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 7379,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_007_002.mp3",
+      "text": "تَطَّلِعُ",
+      "translation": "naik",
+      "transliteration": "taṭṭaliʿu"
+    },
+    {
+      "id": 7380,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_007_003.mp3",
+      "text": "عَلَى",
+      "translation": "ke atas/sampai",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 7381,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_007_004.mp3",
+      "text": "ٱلْأَفْـِٔدَةِ",
+      "translation": "hati",
+      "transliteration": "l-afidati"
+    },
+    {
+      "id": 7382,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang (membakar) sampai ke hati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 31900,
+    "timestamp_to": 36340,
+    "duration": 4440,
+    "segments": [
+      [
+        1,
+        31825,
+        32925
+      ],
+      [
+        2,
+        32925,
+        34035
+      ],
+      [
+        3,
+        34035,
+        34375
+      ],
+      [
+        4,
+        34375,
+        36140
+      ]
+    ]
+  }
+}

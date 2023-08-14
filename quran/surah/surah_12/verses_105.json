@@ -1,0 +1,177 @@
+{
+  "id": 1701,
+  "chapter_id": 12,
+  "verse_key": "12:105",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "ruku_number": 204,
+  "manzil_number": 3,
+  "page_number": 248,
+  "juz_number": 13,
+  "text_uthmani": "وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 72800,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_001.mp3",
+      "text": "وَكَأَيِّن",
+      "translation": "dan banyak sekali",
+      "transliteration": "waka-ayyin"
+    },
+    {
+      "id": 72801,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_002.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 72802,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_003.mp3",
+      "text": "ءَايَةٍۢ",
+      "translation": "tanda-tanda",
+      "transliteration": "āyatin"
+    },
+    {
+      "id": 72803,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 72804,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_005.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 72805,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_006.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 72806,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_007.mp3",
+      "text": "يَمُرُّونَ",
+      "translation": "mereka melalui",
+      "transliteration": "yamurrūna"
+    },
+    {
+      "id": 72807,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_008.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 72808,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_009.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 72809,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_010.mp3",
+      "text": "عَنْهَا",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhā"
+    },
+    {
+      "id": 72810,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_105_011.mp3",
+      "text": "مُعْرِضُونَ",
+      "translation": "mereka berpaling",
+      "transliteration": "muʿ'riḍūna"
+    },
+    {
+      "id": 72811,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٥",
+      "translation": "(105)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan banyak sekali tanda-tanda (kekuasaan Allah) di langit dan di bumi yang mereka melaluinya, sedang mereka berpaling dari padanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2352050,
+    "timestamp_to": 2366570,
+    "duration": 14530,
+    "segments": [
+      [
+        1,
+        2351995,
+        2353115
+      ],
+      [
+        2,
+        2353115,
+        2354205
+      ],
+      [
+        3,
+        2354205,
+        2355905
+      ],
+      [
+        4,
+        2355905,
+        2356405
+      ],
+      [
+        5,
+        2356405,
+        2358015
+      ],
+      [
+        6,
+        2358015,
+        2359175
+      ],
+      [
+        7,
+        2359175,
+        2360405
+      ],
+      [
+        8,
+        2360405,
+        2361535
+      ],
+      [
+        9,
+        2361535,
+        2362195
+      ],
+      [
+        10,
+        2362195,
+        2363155
+      ],
+      [
+        11,
+        2363155,
+        2366460
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3897,
+  "chapter_id": 37,
+  "verse_key": "37:109",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 73984,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_109_001.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "kesejahteraan",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 73985,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_109_002.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 73986,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_109_003.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 73987,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠٩",
+      "translation": "(109)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu), \"Kesejahteraan dilimpahkan atas Ibrāhīm\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 906070,
+    "timestamp_to": 913250,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        905995,
+        907125
+      ],
+      [
+        2,
+        907125,
+        909445
+      ],
+      [
+        3,
+        909445,
+        913110
+      ]
+    ]
+  }
+}

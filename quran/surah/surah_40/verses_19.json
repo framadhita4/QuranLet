@@ -1,0 +1,112 @@
+{
+  "id": 4152,
+  "chapter_id": 40,
+  "verse_key": "40:19",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "ruku_number": 407,
+  "manzil_number": 6,
+  "page_number": 469,
+  "juz_number": 24,
+  "text_uthmani": "يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ وَمَا تُخْفِى ٱلصُّدُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 21189,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_019_001.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 21190,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_019_002.mp3",
+      "text": "خَآئِنَةَ",
+      "translation": "khianat",
+      "transliteration": "khāinata"
+    },
+    {
+      "id": 21191,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_019_003.mp3",
+      "text": "ٱلْأَعْيُنِ",
+      "translation": "mata",
+      "transliteration": "l-aʿyuni"
+    },
+    {
+      "id": 21192,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_019_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 21193,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_019_005.mp3",
+      "text": "تُخْفِى",
+      "translation": "disembunyikan",
+      "transliteration": "tukh'fī"
+    },
+    {
+      "id": 21194,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_019_006.mp3",
+      "text": "ٱلصُّدُورُ",
+      "translation": "dada(hati)",
+      "transliteration": "l-ṣudūru"
+    },
+    {
+      "id": 21195,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia mengetahui (pandangan) mata yang khianat <sup foot_note_id=\"1319\">1</sup> dan apa yang disembunyikan oleh hati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 306540,
+    "timestamp_to": 315420,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        306125,
+        307105
+      ],
+      [
+        2,
+        307105,
+        309495
+      ],
+      [
+        3,
+        309495,
+        310525
+      ],
+      [
+        4,
+        310525,
+        311075
+      ],
+      [
+        5,
+        311075,
+        311715
+      ],
+      [
+        6,
+        311715,
+        314970
+      ]
+    ]
+  }
+}

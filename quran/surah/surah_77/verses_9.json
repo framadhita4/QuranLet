@@ -1,0 +1,73 @@
+{
+  "id": 5631,
+  "chapter_id": 77,
+  "verse_key": "77:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 10371,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_009_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 10372,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_009_002.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 10373,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_009_003.mp3",
+      "text": "فُرِجَتْ",
+      "translation": "dibelah",
+      "transliteration": "furijat"
+    },
+    {
+      "id": 10374,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila langit telah dibelah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 25340,
+    "timestamp_to": 29280,
+    "duration": 3950,
+    "segments": [
+      [
+        1,
+        25255,
+        25825
+      ],
+      [
+        2,
+        25825,
+        28015
+      ],
+      [
+        3,
+        28015,
+        28900
+      ]
+    ]
+  }
+}

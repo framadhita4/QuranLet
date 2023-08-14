@@ -1,0 +1,151 @@
+{
+  "id": 1573,
+  "chapter_id": 11,
+  "verse_key": "11:100",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْقُرَىٰ نَقُصُّهُۥ عَلَيْكَ ۖ مِنْهَا قَآئِمٌ وَحَصِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 71301,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 71302,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 71303,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_003.mp3",
+      "text": "أَنۢبَآءِ",
+      "translation": "sebagian berita",
+      "transliteration": "anbāi"
+    },
+    {
+      "id": 71304,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_004.mp3",
+      "text": "ٱلْقُرَىٰ",
+      "translation": "negeri",
+      "transliteration": "l-qurā"
+    },
+    {
+      "id": 71305,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_005.mp3",
+      "text": "نَقُصُّهُۥ",
+      "translation": "Kami ceritakannya",
+      "transliteration": "naquṣṣuhu"
+    },
+    {
+      "id": 71306,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_006.mp3",
+      "text": "عَلَيْكَ ۖ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 71308,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_008.mp3",
+      "text": "مِنْهَا",
+      "translation": "daripadanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 71309,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_009.mp3",
+      "text": "قَآئِمٌۭ",
+      "translation": "berdiri/tegak",
+      "transliteration": "qāimun"
+    },
+    {
+      "id": 71310,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_100_010.mp3",
+      "text": "وَحَصِيدٌۭ",
+      "translation": "dan musnah",
+      "transliteration": "waḥaṣīdun"
+    },
+    {
+      "id": 71311,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠٠",
+      "translation": "(100)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itu adalah sebagian dan berita-berita negeri (yang telah dibinasakan) yang Kami ceritakan kepadamu (Muhammad); di antara negeri-negeri itu ada yang masih kedapatan bekas-bekasnya dan ada (pula) yang telah musnah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2308350,
+    "timestamp_to": 2324960,
+    "duration": 16610,
+    "segments": [
+      [
+        1,
+        2308285,
+        2309225
+      ],
+      [
+        2,
+        2309225,
+        2309625
+      ],
+      [
+        3,
+        2309625,
+        2313645
+      ],
+      [
+        4,
+        2313645,
+        2314515
+      ],
+      [
+        5,
+        2314515,
+        2315775
+      ],
+      [
+        6,
+        2315775,
+        2316645
+      ],
+      [
+        7,
+        2316645,
+        2317445
+      ],
+      [
+        8,
+        2317445,
+        2320395
+      ],
+      [
+        9,
+        2320395,
+        2324870
+      ]
+    ]
+  }
+}

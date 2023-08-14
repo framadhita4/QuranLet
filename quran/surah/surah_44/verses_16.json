@@ -1,0 +1,112 @@
+{
+  "id": 4430,
+  "chapter_id": 44,
+  "verse_key": "44:16",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 18106,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_016_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 18107,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_016_002.mp3",
+      "text": "نَبْطِشُ",
+      "translation": "Kami menghantam/menyerang",
+      "transliteration": "nabṭishu"
+    },
+    {
+      "id": 18108,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_016_003.mp3",
+      "text": "ٱلْبَطْشَةَ",
+      "translation": "hantaman/serangan",
+      "transliteration": "l-baṭshata"
+    },
+    {
+      "id": 18109,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_016_004.mp3",
+      "text": "ٱلْكُبْرَىٰٓ",
+      "translation": "yang keras",
+      "transliteration": "l-kub'rā"
+    },
+    {
+      "id": 18110,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_016_005.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 18111,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_016_006.mp3",
+      "text": "مُنتَقِمُونَ",
+      "translation": "pemberi siksaan",
+      "transliteration": "muntaqimūna"
+    },
+    {
+      "id": 18112,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ingatlah) hari (ketika) Kami menghantam mereka dengan hantaman yang keras <sup foot_note_id=\"1374\">1</sup>.  Sesungguhnya Kami adalah Pemberi balasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 148100,
+    "timestamp_to": 159520,
+    "duration": 11420,
+    "segments": [
+      [
+        1,
+        148055,
+        148685
+      ],
+      [
+        2,
+        148685,
+        149585
+      ],
+      [
+        3,
+        149585,
+        150665
+      ],
+      [
+        4,
+        150665,
+        153095
+      ],
+      [
+        5,
+        153095,
+        154595
+      ],
+      [
+        6,
+        154595,
+        159420
+      ]
+    ]
+  }
+}

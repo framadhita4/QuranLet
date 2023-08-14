@@ -1,0 +1,86 @@
+{
+  "id": 5985,
+  "chapter_id": 88,
+  "verse_key": "88:18",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 20361,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_018_001.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 20362,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_018_002.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 20363,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_018_003.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 20364,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_018_004.mp3",
+      "text": "رُفِعَتْ",
+      "translation": "ia ditinggikan",
+      "transliteration": "rufiʿat"
+    },
+    {
+      "id": 20365,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan langit, bagaimana ia ditinggikan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 76090,
+    "timestamp_to": 81340,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        76045,
+        76615
+      ],
+      [
+        2,
+        76615,
+        79285
+      ],
+      [
+        3,
+        79285,
+        79855
+      ],
+      [
+        4,
+        79855,
+        81220
+      ]
+    ]
+  }
+}

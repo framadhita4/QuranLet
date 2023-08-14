@@ -1,0 +1,125 @@
+{
+  "id": 1811,
+  "chapter_id": 15,
+  "verse_key": "15:9",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 10575,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 10576,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 10577,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_003.mp3",
+      "text": "نَزَّلْنَا",
+      "translation": "Kami menurunkan",
+      "transliteration": "nazzalnā"
+    },
+    {
+      "id": 10578,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_004.mp3",
+      "text": "ٱلذِّكْرَ",
+      "translation": "peringatan",
+      "transliteration": "l-dhik'ra"
+    },
+    {
+      "id": 10579,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_005.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya Kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 10580,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_006.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya/kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 10581,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_009_007.mp3",
+      "text": "لَحَـٰفِظُونَ",
+      "translation": "penjaga/pemelihara",
+      "transliteration": "laḥāfiẓūna"
+    },
+    {
+      "id": 10582,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami-lah yang menurunkan Al-Qur`ān dan sesungguhnya Kami benar-benar memeliharanya <sup foot_note_id=\"793\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80630,
+    "timestamp_to": 89670,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        80605,
+        82055
+      ],
+      [
+        2,
+        82055,
+        82595
+      ],
+      [
+        3,
+        82595,
+        83635
+      ],
+      [
+        4,
+        83635,
+        84535
+      ],
+      [
+        5,
+        84535,
+        85875
+      ],
+      [
+        6,
+        85875,
+        86495
+      ],
+      [
+        7,
+        86495,
+        89620
+      ]
+    ]
+  }
+}

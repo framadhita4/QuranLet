@@ -1,0 +1,164 @@
+{
+  "id": 4056,
+  "chapter_id": 38,
+  "verse_key": "38:86",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 458,
+  "juz_number": 23,
+  "text_uthmani": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 66711,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 66712,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_002.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 66713,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_003.mp3",
+      "text": "أَسْـَٔلُكُمْ",
+      "translation": "aku meminta kepadamu",
+      "transliteration": "asalukum"
+    },
+    {
+      "id": 66714,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_004.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 66715,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_005.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 66716,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_006.mp3",
+      "text": "أَجْرٍۢ",
+      "translation": "upah",
+      "transliteration": "ajrin"
+    },
+    {
+      "id": 66717,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_007.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidaklah/bukanlah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 66718,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_008.mp3",
+      "text": "أَنَا۠",
+      "translation": "aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 66719,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_009.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 66720,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_086_010.mp3",
+      "text": "ٱلْمُتَكَلِّفِينَ",
+      "translation": "orang-orang yang memaksa/mengada-adakan",
+      "transliteration": "l-mutakalifīna"
+    },
+    {
+      "id": 66721,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah (hai Muhammad), \"Aku tidak meminta upah sedikit pun padamu atas dakwahku dan bukanlah aku termasuk orang-orang yang mengada-adakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1030640,
+    "timestamp_to": 1043810,
+    "duration": 13170,
+    "segments": [
+      [
+        1,
+        1030575,
+        1030985
+      ],
+      [
+        2,
+        1030985,
+        1032745
+      ],
+      [
+        3,
+        1032745,
+        1033965
+      ],
+      [
+        4,
+        1033965,
+        1034865
+      ],
+      [
+        5,
+        1034865,
+        1035235
+      ],
+      [
+        6,
+        1035235,
+        1036725
+      ],
+      [
+        7,
+        1036725,
+        1038775
+      ],
+      [
+        8,
+        1038775,
+        1039225
+      ],
+      [
+        9,
+        1039225,
+        1039535
+      ],
+      [
+        10,
+        1039535,
+        1043700
+      ]
+    ]
+  }
+}

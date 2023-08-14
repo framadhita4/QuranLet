@@ -1,0 +1,86 @@
+{
+  "id": 4037,
+  "chapter_id": 38,
+  "verse_key": "38:67",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 58398,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_067_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 58399,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_067_002.mp3",
+      "text": "هُوَ",
+      "translation": "ia/itu",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 58400,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_067_003.mp3",
+      "text": "نَبَؤٌا۟",
+      "translation": "berita",
+      "transliteration": "naba-on"
+    },
+    {
+      "id": 58401,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_067_004.mp3",
+      "text": "عَظِيمٌ",
+      "translation": "besar",
+      "transliteration": "ʿaẓīmun"
+    },
+    {
+      "id": 58402,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Berita itu adalah berita yang besar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 855330,
+    "timestamp_to": 860060,
+    "duration": 4730,
+    "segments": [
+      [
+        1,
+        855305,
+        855705
+      ],
+      [
+        2,
+        855705,
+        856055
+      ],
+      [
+        3,
+        856055,
+        856875
+      ],
+      [
+        4,
+        856875,
+        859990
+      ]
+    ]
+  }
+}

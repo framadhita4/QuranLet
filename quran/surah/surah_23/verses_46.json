@@ -1,0 +1,125 @@
+{
+  "id": 2719,
+  "chapter_id": 23,
+  "verse_key": "23:46",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 46221,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 46222,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_002.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 46223,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_003.mp3",
+      "text": "وَمَلَإِي۟هِۦ",
+      "translation": "dan pemuka-pemukanya",
+      "transliteration": "wamala-ihi"
+    },
+    {
+      "id": 46224,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_004.mp3",
+      "text": "فَٱسْتَكْبَرُوا۟",
+      "translation": "maka/tetapi mereka takabur",
+      "transliteration": "fa-is'takbarū"
+    },
+    {
+      "id": 46225,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_005.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 46226,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_006.mp3",
+      "text": "قَوْمًا",
+      "translation": "kaum",
+      "transliteration": "qawman"
+    },
+    {
+      "id": 46227,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_046_007.mp3",
+      "text": "عَالِينَ",
+      "translation": "tinggi/sombong",
+      "transliteration": "ʿālīna"
+    },
+    {
+      "id": 46228,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kepada Firʻawn  dan pembesar-pembesar kaumnya, maka mereka ini takabur dan mereka adalah orang-orang yang sombong.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 623630,
+    "timestamp_to": 632350,
+    "duration": 8730,
+    "segments": [
+      [
+        1,
+        623605,
+        624255
+      ],
+      [
+        2,
+        624255,
+        625315
+      ],
+      [
+        3,
+        625315,
+        626415
+      ],
+      [
+        4,
+        626415,
+        627865
+      ],
+      [
+        5,
+        627865,
+        628845
+      ],
+      [
+        6,
+        628845,
+        629605
+      ],
+      [
+        7,
+        629605,
+        632270
+      ]
+    ]
+  }
+}

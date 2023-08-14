@@ -1,0 +1,99 @@
+{
+  "id": 3007,
+  "chapter_id": 26,
+  "verse_key": "26:75",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ أَفَرَءَيْتُم مَّا كُنتُمْ تَعْبُدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 62192,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_075_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 62193,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_075_002.mp3",
+      "text": "أَفَرَءَيْتُم",
+      "translation": "apakah maka kamu telah memperhatikan",
+      "transliteration": "afara-aytum"
+    },
+    {
+      "id": 62194,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_075_003.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 62195,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_075_004.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 62196,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_075_005.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu sembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 62197,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ibrāhīm berkata, \"Maka apakah kamu telah memperhatikan apa yang selalu kamu sembah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 737860,
+    "timestamp_to": 745640,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        737835,
+        738515
+      ],
+      [
+        2,
+        738515,
+        739855
+      ],
+      [
+        3,
+        739855,
+        740875
+      ],
+      [
+        4,
+        740875,
+        742635
+      ],
+      [
+        5,
+        742635,
+        745320
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 2906,
+  "chapter_id": 25,
+  "verse_key": "25:51",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 314,
+  "manzil_number": 4,
+  "page_number": 364,
+  "juz_number": 19,
+  "text_uthmani": "وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 49206,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_001.mp3",
+      "text": "وَلَوْ",
+      "translation": "dan jika",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 49207,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_002.mp3",
+      "text": "شِئْنَا",
+      "translation": "Kami menghendaki",
+      "transliteration": "shi'nā"
+    },
+    {
+      "id": 49208,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_003.mp3",
+      "text": "لَبَعَثْنَا",
+      "translation": "niscaya Kami utus",
+      "transliteration": "labaʿathnā"
+    },
+    {
+      "id": 49209,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_004.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 49210,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_005.mp3",
+      "text": "كُلِّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 49211,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_006.mp3",
+      "text": "قَرْيَةٍۢ",
+      "translation": "negeri",
+      "transliteration": "qaryatin"
+    },
+    {
+      "id": 49212,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_051_007.mp3",
+      "text": "نَّذِيرًۭا",
+      "translation": "seorang pemberi peringatan",
+      "transliteration": "nadhīran"
+    },
+    {
+      "id": 49213,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan andaikata Kami menghendaki benar-benarlah Kami utus pada tiap-tiap negeri seorang yang memberi peringatan (rasul).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 808860,
+    "timestamp_to": 816330,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        808815,
+        809445
+      ],
+      [
+        2,
+        809445,
+        810405
+      ],
+      [
+        3,
+        810405,
+        811645
+      ],
+      [
+        4,
+        811645,
+        812105
+      ],
+      [
+        5,
+        812105,
+        812745
+      ],
+      [
+        6,
+        812745,
+        813755
+      ],
+      [
+        7,
+        813755,
+        816240
+      ]
+    ]
+  }
+}

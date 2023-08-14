@@ -1,0 +1,73 @@
+{
+  "id": 4682,
+  "chapter_id": 51,
+  "verse_key": "51:7",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 7436,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_007_001.mp3",
+      "text": "وَٱلسَّمَآءِ",
+      "translation": "demi langit",
+      "transliteration": "wal-samāi"
+    },
+    {
+      "id": 7437,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_007_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "mempunyai",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 7438,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_007_003.mp3",
+      "text": "ٱلْحُبُكِ",
+      "translation": "jalan-jalan",
+      "transliteration": "l-ḥubuki"
+    },
+    {
+      "id": 7439,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi langit yang mempunyai jalan-jalan<sup foot_note_id=\"1416\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 22840,
+    "timestamp_to": 27650,
+    "duration": 4810,
+    "segments": [
+      [
+        1,
+        22795,
+        25555
+      ],
+      [
+        2,
+        25555,
+        26265
+      ],
+      [
+        3,
+        26265,
+        27540
+      ]
+    ]
+  }
+}

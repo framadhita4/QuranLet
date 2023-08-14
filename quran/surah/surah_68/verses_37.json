@@ -1,0 +1,99 @@
+{
+  "id": 5308,
+  "chapter_id": 68,
+  "verse_key": "68:37",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "أَمْ لَكُمْ كِتَـٰبٌ فِيهِ تَدْرُسُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 39219,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_037_001.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 39220,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_037_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 39221,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_037_003.mp3",
+      "text": "كِتَـٰبٌۭ",
+      "translation": "kitab",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 39222,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_037_004.mp3",
+      "text": "فِيهِ",
+      "translation": "di dalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 39223,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_037_005.mp3",
+      "text": "تَدْرُسُونَ",
+      "translation": "kamu mempelajari",
+      "transliteration": "tadrusūna"
+    },
+    {
+      "id": 39224,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau adakah kamu mempunyai sebuah kitab (yang diturunkan Allah) yang kamu membacanya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 289990,
+    "timestamp_to": 296050,
+    "duration": 6060,
+    "segments": [
+      [
+        1,
+        289935,
+        290285
+      ],
+      [
+        2,
+        290285,
+        290845
+      ],
+      [
+        3,
+        290845,
+        291645
+      ],
+      [
+        4,
+        291645,
+        293065
+      ],
+      [
+        5,
+        293065,
+        295920
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5349,
+  "chapter_id": 69,
+  "verse_key": "69:26",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 28990,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_026_001.mp3",
+      "text": "وَلَمْ",
+      "translation": "dan tidak",
+      "transliteration": "walam"
+    },
+    {
+      "id": 28991,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_026_002.mp3",
+      "text": "أَدْرِ",
+      "translation": "aku mengetahui",
+      "transliteration": "adri"
+    },
+    {
+      "id": 28992,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_026_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 28993,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_026_004.mp3",
+      "text": "حِسَابِيَهْ",
+      "translation": "perhitungan",
+      "transliteration": "ḥisābiyah"
+    },
+    {
+      "id": 28994,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan aku tidak mengetahui apa hisab terhadap diriku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 213410,
+    "timestamp_to": 217070,
+    "duration": 3660,
+    "segments": [
+      [
+        1,
+        213355,
+        214025
+      ],
+      [
+        2,
+        214025,
+        214745
+      ],
+      [
+        3,
+        214745,
+        215125
+      ],
+      [
+        4,
+        215125,
+        216960
+      ]
+    ]
+  }
+}

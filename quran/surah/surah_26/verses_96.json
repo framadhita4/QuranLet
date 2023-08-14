@@ -1,0 +1,86 @@
+{
+  "id": 3028,
+  "chapter_id": 26,
+  "verse_key": "26:96",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 70054,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_096_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 70055,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_096_002.mp3",
+      "text": "وَهُمْ",
+      "translation": "sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 70056,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_096_003.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya (neraka)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 70057,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_096_004.mp3",
+      "text": "يَخْتَصِمُونَ",
+      "translation": "mereka bertengkar",
+      "transliteration": "yakhtaṣimūna"
+    },
+    {
+      "id": 70058,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, sedang mereka bertengkar di dalam neraka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 897430,
+    "timestamp_to": 902970,
+    "duration": 5540,
+    "segments": [
+      [
+        1,
+        897365,
+        898285
+      ],
+      [
+        2,
+        898285,
+        898875
+      ],
+      [
+        3,
+        898875,
+        899775
+      ],
+      [
+        4,
+        899775,
+        902850
+      ]
+    ]
+  }
+}

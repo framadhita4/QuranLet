@@ -1,0 +1,125 @@
+{
+  "id": 2728,
+  "chapter_id": 23,
+  "verse_key": "23:55",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 51774,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_001.mp3",
+      "text": "أَيَحْسَبُونَ",
+      "translation": "apakah mereka mengira",
+      "transliteration": "ayaḥsabūna"
+    },
+    {
+      "id": 51775,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_002.mp3",
+      "text": "أَنَّمَا",
+      "translation": "bahwasanya hanyalah",
+      "transliteration": "annamā"
+    },
+    {
+      "id": 51776,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_003.mp3",
+      "text": "نُمِدُّهُم",
+      "translation": "Kami memanjangkan/memberikan mereka",
+      "transliteration": "numidduhum"
+    },
+    {
+      "id": 51777,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_004.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 51778,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 51779,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_006.mp3",
+      "text": "مَّالٍۢ",
+      "translation": "harta",
+      "transliteration": "mālin"
+    },
+    {
+      "id": 51780,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_055_007.mp3",
+      "text": "وَبَنِينَ",
+      "translation": "dan anak-anak",
+      "transliteration": "wabanīna"
+    },
+    {
+      "id": 51781,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah mereka mengira bahwa harta dan anak-anak yang Kami berikan kepada mereka itu (berarti bahwa),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 726050,
+    "timestamp_to": 736160,
+    "duration": 10110,
+    "segments": [
+      [
+        1,
+        726015,
+        727375
+      ],
+      [
+        2,
+        727375,
+        728935
+      ],
+      [
+        3,
+        728935,
+        730585
+      ],
+      [
+        4,
+        730585,
+        731095
+      ],
+      [
+        5,
+        731095,
+        731345
+      ],
+      [
+        6,
+        731345,
+        733405
+      ],
+      [
+        7,
+        733405,
+        736070
+      ]
+    ]
+  }
+}

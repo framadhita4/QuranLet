@@ -1,0 +1,86 @@
+{
+  "id": 5678,
+  "chapter_id": 78,
+  "verse_key": "78:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 6671,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_006_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidaklah/bukanlah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 6672,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_006_002.mp3",
+      "text": "نَجْعَلِ",
+      "translation": "Kami telah menjadikan",
+      "transliteration": "najʿali"
+    },
+    {
+      "id": 6673,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_006_003.mp3",
+      "text": "ٱلْأَرْضَ",
+      "translation": "bumi",
+      "transliteration": "l-arḍa"
+    },
+    {
+      "id": 6674,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_006_004.mp3",
+      "text": "مِهَـٰدًۭا",
+      "translation": "hamparan",
+      "transliteration": "mihādan"
+    },
+    {
+      "id": 6675,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Kami telah menjadikan bumi itu sebagai hamparan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27800,
+    "timestamp_to": 31950,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        27725,
+        28455
+      ],
+      [
+        2,
+        28455,
+        28945
+      ],
+      [
+        3,
+        28945,
+        30325
+      ],
+      [
+        4,
+        30325,
+        31640
+      ]
+    ]
+  }
+}

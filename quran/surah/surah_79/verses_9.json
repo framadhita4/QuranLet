@@ -1,0 +1,60 @@
+{
+  "id": 5721,
+  "chapter_id": 79,
+  "verse_key": "79:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "أَبْصَـٰرُهَا خَـٰشِعَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 10401,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_009_001.mp3",
+      "text": "أَبْصَـٰرُهَا",
+      "translation": "pandangannya",
+      "transliteration": "abṣāruhā"
+    },
+    {
+      "id": 10402,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_009_002.mp3",
+      "text": "خَـٰشِعَةٌۭ",
+      "translation": "takut/tertunduk",
+      "transliteration": "khāshiʿatun"
+    },
+    {
+      "id": 10403,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pandangannya tunduk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30760,
+    "timestamp_to": 33840,
+    "duration": 3080,
+    "segments": [
+      [
+        1,
+        30695,
+        32185
+      ],
+      [
+        2,
+        32185,
+        33630
+      ]
+    ]
+  }
+}

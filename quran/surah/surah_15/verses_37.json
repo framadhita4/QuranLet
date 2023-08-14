@@ -1,0 +1,86 @@
+{
+  "id": 1839,
+  "chapter_id": 15,
+  "verse_key": "15:37",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 39378,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_037_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 39379,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_037_002.mp3",
+      "text": "فَإِنَّكَ",
+      "translation": "maka sesungguhnya kamu",
+      "transliteration": "fa-innaka"
+    },
+    {
+      "id": 39380,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_037_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 39381,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_037_004.mp3",
+      "text": "ٱلْمُنظَرِينَ",
+      "translation": "orang-orang yang diberi tangguh",
+      "transliteration": "l-munẓarīna"
+    },
+    {
+      "id": 39382,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"(Kalau begitu) maka sesungguhnya kamu termasuk orang-orang yang diberi tangguh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 375960,
+    "timestamp_to": 382330,
+    "duration": 6370,
+    "segments": [
+      [
+        1,
+        375935,
+        376595
+      ],
+      [
+        2,
+        376595,
+        378175
+      ],
+      [
+        3,
+        378175,
+        378525
+      ],
+      [
+        4,
+        378525,
+        382280
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 2523,
+  "chapter_id": 21,
+  "verse_key": "21:40",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 280,
+  "manzil_number": 4,
+  "page_number": 325,
+  "juz_number": 17,
+  "text_uthmani": "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 41273,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 41274,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_002.mp3",
+      "text": "تَأْتِيهِم",
+      "translation": "ia akan datang kepada mereka",
+      "transliteration": "tatīhim"
+    },
+    {
+      "id": 41275,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_003.mp3",
+      "text": "بَغْتَةًۭ",
+      "translation": "dengan tiba-tiba",
+      "transliteration": "baghtatan"
+    },
+    {
+      "id": 41276,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_004.mp3",
+      "text": "فَتَبْهَتُهُمْ",
+      "translation": "lalu ia membingungkan mereka",
+      "transliteration": "fatabhatuhum"
+    },
+    {
+      "id": 41277,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_005.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 41278,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_006.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka kuasa/mampu",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 41279,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_007.mp3",
+      "text": "رَدَّهَا",
+      "translation": "menolaknya",
+      "transliteration": "raddahā"
+    },
+    {
+      "id": 41280,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_008.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 41281,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_009.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 41282,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_040_010.mp3",
+      "text": "يُنظَرُونَ",
+      "translation": "mereka diberi tangguh",
+      "transliteration": "yunẓarūna"
+    },
+    {
+      "id": 41283,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya (azab) itu akan datang kepada mereka dengan sekonyong-konyong, lalu membuat mereka menjadi panik, maka mereka tidak sanggup menolaknya dan tidak (pula) mereka diberi tangguh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 542140,
+    "timestamp_to": 556190,
+    "duration": 14050,
+    "segments": [
+      [
+        1,
+        542105,
+        542715
+      ],
+      [
+        2,
+        542715,
+        544185
+      ],
+      [
+        3,
+        544185,
+        546145
+      ],
+      [
+        4,
+        546145,
+        547605
+      ],
+      [
+        5,
+        547605,
+        548315
+      ],
+      [
+        6,
+        548315,
+        549855
+      ],
+      [
+        7,
+        549855,
+        550965
+      ],
+      [
+        8,
+        550965,
+        551585
+      ],
+      [
+        9,
+        551585,
+        552015
+      ],
+      [
+        10,
+        552015,
+        556110
+      ]
+    ]
+  }
+}

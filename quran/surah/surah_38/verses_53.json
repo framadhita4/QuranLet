@@ -1,0 +1,99 @@
+{
+  "id": 4023,
+  "chapter_id": 38,
+  "verse_key": "38:53",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "هَـٰذَا مَا تُوعَدُونَ لِيَوْمِ ٱلْحِسَابِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 50922,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_053_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 50923,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_053_002.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 50924,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_053_003.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "yang kamu dijanjikan",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 50925,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_053_004.mp3",
+      "text": "لِيَوْمِ",
+      "translation": "pada hari",
+      "transliteration": "liyawmi"
+    },
+    {
+      "id": 50926,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_053_005.mp3",
+      "text": "ٱلْحِسَابِ",
+      "translation": "perhitungan",
+      "transliteration": "l-ḥisābi"
+    },
+    {
+      "id": 50927,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Inilah apa yang dijanjikan kepadamu pada hari berhisab.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 705930,
+    "timestamp_to": 713010,
+    "duration": 7080,
+    "segments": [
+      [
+        1,
+        705875,
+        706825
+      ],
+      [
+        2,
+        706825,
+        707285
+      ],
+      [
+        3,
+        707285,
+        708525
+      ],
+      [
+        4,
+        708525,
+        709435
+      ],
+      [
+        5,
+        709435,
+        712590
+      ]
+    ]
+  }
+}

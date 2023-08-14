@@ -1,0 +1,99 @@
+{
+  "id": 5409,
+  "chapter_id": 70,
+  "verse_key": "70:34",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 36462,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_034_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 36463,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_034_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 36464,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_034_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 36465,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_034_004.mp3",
+      "text": "صَلَاتِهِمْ",
+      "translation": "sholat mereka",
+      "transliteration": "ṣalātihim"
+    },
+    {
+      "id": 36466,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_034_005.mp3",
+      "text": "يُحَافِظُونَ",
+      "translation": "mereka memelihara/menjaga",
+      "transliteration": "yuḥāfiẓūna"
+    },
+    {
+      "id": 36467,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang memelihara salatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 207230,
+    "timestamp_to": 214360,
+    "duration": 7130,
+    "segments": [
+      [
+        1,
+        207145,
+        208375
+      ],
+      [
+        2,
+        208375,
+        208745
+      ],
+      [
+        3,
+        208745,
+        209325
+      ],
+      [
+        4,
+        209325,
+        210495
+      ],
+      [
+        5,
+        210495,
+        214210
+      ]
+    ]
+  }
+}

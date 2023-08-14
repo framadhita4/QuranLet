@@ -1,0 +1,99 @@
+{
+  "id": 2758,
+  "chapter_id": 23,
+  "verse_key": "23:85",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 65993,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_085_001.mp3",
+      "text": "سَيَقُولُونَ",
+      "translation": "mereka akan mengatakan",
+      "transliteration": "sayaqūlūna"
+    },
+    {
+      "id": 65994,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_085_002.mp3",
+      "text": "لِلَّهِ ۚ",
+      "translation": "kepunyaan Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 65996,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_085_004.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 65997,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_085_005.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 65998,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_085_006.mp3",
+      "text": "تَذَكَّرُونَ",
+      "translation": "kamu ingat",
+      "transliteration": "tadhakkarūna"
+    },
+    {
+      "id": 65999,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka akan menjawab, \"Kepunyaan Allah.\" Katakanlah, \"Maka apakah kamu tidak ingat?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1077560,
+    "timestamp_to": 1086390,
+    "duration": 8830,
+    "segments": [
+      [
+        1,
+        1077505,
+        1078945
+      ],
+      [
+        2,
+        1078945,
+        1081915
+      ],
+      [
+        3,
+        1081915,
+        1082255
+      ],
+      [
+        4,
+        1082255,
+        1083045
+      ],
+      [
+        5,
+        1083045,
+        1086270
+      ]
+    ]
+  }
+}

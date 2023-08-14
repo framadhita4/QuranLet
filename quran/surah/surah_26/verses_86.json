@@ -1,0 +1,112 @@
+{
+  "id": 3018,
+  "chapter_id": 26,
+  "verse_key": "26:86",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 66657,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_086_001.mp3",
+      "text": "وَٱغْفِرْ",
+      "translation": "dan ampunilah",
+      "transliteration": "wa-igh'fir"
+    },
+    {
+      "id": 66658,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_086_002.mp3",
+      "text": "لِأَبِىٓ",
+      "translation": "bagi bapakku",
+      "transliteration": "li-abī"
+    },
+    {
+      "id": 66659,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_086_003.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 66660,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_086_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 66661,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_086_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 66662,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_086_006.mp3",
+      "text": "ٱلضَّآلِّينَ",
+      "translation": "orang-orang yang sesat",
+      "transliteration": "l-ḍālīna"
+    },
+    {
+      "id": 66663,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan ampunilah bapakku karena sesungguhnya ia adalah termasuk golongan orang-orang yang sesat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 822160,
+    "timestamp_to": 834460,
+    "duration": 12300,
+    "segments": [
+      [
+        1,
+        822135,
+        823105
+      ],
+      [
+        2,
+        823105,
+        824835
+      ],
+      [
+        3,
+        824835,
+        827275
+      ],
+      [
+        4,
+        827275,
+        827965
+      ],
+      [
+        5,
+        827965,
+        828335
+      ],
+      [
+        6,
+        828335,
+        834410
+      ]
+    ]
+  }
+}

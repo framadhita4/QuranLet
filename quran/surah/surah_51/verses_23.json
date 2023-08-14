@@ -1,0 +1,151 @@
+{
+  "id": 4698,
+  "chapter_id": 51,
+  "verse_key": "51:23",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 25973,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_001.mp3",
+      "text": "فَوَرَبِّ",
+      "translation": "demi Tuhan",
+      "transliteration": "fawarabbi"
+    },
+    {
+      "id": 25974,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_002.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 25975,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_003.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 25976,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_004.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 25977,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_005.mp3",
+      "text": "لَحَقٌّۭ",
+      "translation": "sungguh benar",
+      "transliteration": "laḥaqqun"
+    },
+    {
+      "id": 25978,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_006.mp3",
+      "text": "مِّثْلَ",
+      "translation": "seperti",
+      "transliteration": "mith'la"
+    },
+    {
+      "id": 25979,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_007.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 25980,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_008.mp3",
+      "text": "أَنَّكُمْ",
+      "translation": "bahwasanya kamu",
+      "transliteration": "annakum"
+    },
+    {
+      "id": 25981,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_023_009.mp3",
+      "text": "تَنطِقُونَ",
+      "translation": "kamu ucapkan",
+      "transliteration": "tanṭiqūna"
+    },
+    {
+      "id": 25982,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka demi Tuhan langit dan bumi, sesungguhnya yang dijanjikan itu adalah benar-benar (akan terjadi), seperti perkataan yang kamu ucapkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 144680,
+    "timestamp_to": 161690,
+    "duration": 17010,
+    "segments": [
+      [
+        1,
+        144595,
+        145745
+      ],
+      [
+        2,
+        145745,
+        148235
+      ],
+      [
+        3,
+        148235,
+        149285
+      ],
+      [
+        4,
+        149285,
+        150925
+      ],
+      [
+        5,
+        150925,
+        151915
+      ],
+      [
+        6,
+        151915,
+        153265
+      ],
+      [
+        7,
+        153265,
+        155025
+      ],
+      [
+        8,
+        155025,
+        156745
+      ],
+      [
+        9,
+        156745,
+        161500
+      ]
+    ]
+  }
+}

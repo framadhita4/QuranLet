@@ -1,0 +1,177 @@
+{
+  "id": 3783,
+  "chapter_id": 36,
+  "verse_key": "36:78",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 387,
+  "manzil_number": 5,
+  "page_number": 445,
+  "juz_number": 23,
+  "text_uthmani": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 63505,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_001.mp3",
+      "text": "وَضَرَبَ",
+      "translation": "dan dia membuat",
+      "transliteration": "waḍaraba"
+    },
+    {
+      "id": 63506,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_002.mp3",
+      "text": "لَنَا",
+      "translation": "bagi Kami",
+      "transliteration": "lanā"
+    },
+    {
+      "id": 63507,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_003.mp3",
+      "text": "مَثَلًۭا",
+      "translation": "perumpamaan",
+      "transliteration": "mathalan"
+    },
+    {
+      "id": 63508,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_004.mp3",
+      "text": "وَنَسِىَ",
+      "translation": "dan dia lupa",
+      "transliteration": "wanasiya"
+    },
+    {
+      "id": 63509,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_005.mp3",
+      "text": "خَلْقَهُۥ ۖ",
+      "translation": "kejadiannya",
+      "transliteration": "khalqahu"
+    },
+    {
+      "id": 63511,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_007.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 63512,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_008.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 63513,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_009.mp3",
+      "text": "يُحْىِ",
+      "translation": "menghidupkan",
+      "transliteration": "yuḥ'yī"
+    },
+    {
+      "id": 63514,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_010.mp3",
+      "text": "ٱلْعِظَـٰمَ",
+      "translation": "tulang-tulang",
+      "transliteration": "l-ʿiẓāma"
+    },
+    {
+      "id": 63515,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_011.mp3",
+      "text": "وَهِىَ",
+      "translation": "padahal ia",
+      "transliteration": "wahiya"
+    },
+    {
+      "id": 63516,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_078_012.mp3",
+      "text": "رَمِيمٌۭ",
+      "translation": "sudah hancur",
+      "transliteration": "ramīmun"
+    },
+    {
+      "id": 63517,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ia membuat perumpamaan bagi Kami dan dia lupa kepada kejadiannya; ia berkata, \"Siapakah yang dapat menghidupkan tulang belulang yang telah hancur luluh?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 967190,
+    "timestamp_to": 979620,
+    "duration": 12440,
+    "segments": [
+      [
+        1,
+        967145,
+        968065
+      ],
+      [
+        2,
+        968065,
+        968655
+      ],
+      [
+        3,
+        968655,
+        970325
+      ],
+      [
+        4,
+        970325,
+        971095
+      ],
+      [
+        5,
+        971095,
+        972465
+      ],
+      [
+        6,
+        972465,
+        973105
+      ],
+      [
+        7,
+        973105,
+        973405
+      ],
+      [
+        8,
+        973405,
+        974615
+      ],
+      [
+        9,
+        974615,
+        975655
+      ],
+      [
+        10,
+        975655,
+        976415
+      ],
+      [
+        11,
+        976415,
+        979510
+      ]
+    ]
+  }
+}

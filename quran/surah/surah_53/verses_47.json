@@ -1,0 +1,86 @@
+{
+  "id": 4831,
+  "chapter_id": 53,
+  "verse_key": "53:47",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 46700,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_047_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 46701,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_047_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 46702,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_047_003.mp3",
+      "text": "ٱلنَّشْأَةَ",
+      "translation": "kejadian",
+      "transliteration": "l-nashata"
+    },
+    {
+      "id": 46703,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_047_004.mp3",
+      "text": "ٱلْأُخْرَىٰ",
+      "translation": "yang lain",
+      "transliteration": "l-ukh'rā"
+    },
+    {
+      "id": 46704,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bahwasanya Dia-lah yang menetapkan kejadian yang lain (kebangkitan sesudah mati),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 378170,
+    "timestamp_to": 383840,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        377755,
+        379115
+      ],
+      [
+        2,
+        379115,
+        380025
+      ],
+      [
+        3,
+        380025,
+        381785
+      ],
+      [
+        4,
+        381785,
+        383400
+      ]
+    ]
+  }
+}

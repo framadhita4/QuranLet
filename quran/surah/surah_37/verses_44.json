@@ -1,0 +1,73 @@
+{
+  "id": 3832,
+  "chapter_id": 37,
+  "verse_key": "37:44",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "عَلَىٰ سُرُرٍ مُّتَقَـٰبِلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 44474,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_044_001.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 44475,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_044_002.mp3",
+      "text": "سُرُرٍۢ",
+      "translation": "dipan/singgasana",
+      "transliteration": "sururin"
+    },
+    {
+      "id": 44476,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_044_003.mp3",
+      "text": "مُّتَقَـٰبِلِينَ",
+      "translation": "mereka berhadap-hadapan",
+      "transliteration": "mutaqābilīna"
+    },
+    {
+      "id": 44477,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di atas takhta-takhta kebesaran berhadap-hadapan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 370920,
+    "timestamp_to": 377190,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        370865,
+        371605
+      ],
+      [
+        2,
+        371605,
+        372255
+      ],
+      [
+        3,
+        372255,
+        377070
+      ]
+    ]
+  }
+}

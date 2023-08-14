@@ -1,0 +1,112 @@
+{
+  "id": 1886,
+  "chapter_id": 15,
+  "verse_key": "15:84",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 65649,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_084_001.mp3",
+      "text": "فَمَآ",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 65650,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_084_002.mp3",
+      "text": "أَغْنَىٰ",
+      "translation": "mencukupi/berguna",
+      "transliteration": "aghnā"
+    },
+    {
+      "id": 65651,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_084_003.mp3",
+      "text": "عَنْهُم",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 65652,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_084_004.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 65653,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_084_005.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 65654,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_084_006.mp3",
+      "text": "يَكْسِبُونَ",
+      "translation": "mereka usahakan",
+      "transliteration": "yaksibūna"
+    },
+    {
+      "id": 65655,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka tak dapat menolong mereka, apa yang telah mereka usahakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 801250,
+    "timestamp_to": 810370,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        801205,
+        803665
+      ],
+      [
+        2,
+        803665,
+        804635
+      ],
+      [
+        3,
+        804635,
+        805475
+      ],
+      [
+        4,
+        805475,
+        806475
+      ],
+      [
+        5,
+        806475,
+        807485
+      ],
+      [
+        6,
+        807485,
+        810280
+      ]
+    ]
+  }
+}

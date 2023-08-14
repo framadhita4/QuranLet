@@ -1,0 +1,177 @@
+{
+  "id": 3587,
+  "chapter_id": 33,
+  "verse_key": "33:54",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "ruku_number": 369,
+  "manzil_number": 5,
+  "page_number": 425,
+  "juz_number": 22,
+  "text_uthmani": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 51408,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_001.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 51409,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_002.mp3",
+      "text": "تُبْدُوا۟",
+      "translation": "kamu melahirkan",
+      "transliteration": "tub'dū"
+    },
+    {
+      "id": 51410,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_003.mp3",
+      "text": "شَيْـًٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 51411,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_004.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 51412,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_005.mp3",
+      "text": "تُخْفُوهُ",
+      "translation": "kamu menyembunyikannya",
+      "transliteration": "tukh'fūhu"
+    },
+    {
+      "id": 51413,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_006.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 51414,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_007.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 51415,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_008.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 51416,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_009.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan segala/tiap-tiap",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 51417,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_010.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 51418,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_054_011.mp3",
+      "text": "عَلِيمًۭا",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīman"
+    },
+    {
+      "id": 51419,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika kamu melahirkan sesuatu atau menyembunyikannya, maka sesungguhnya Allah adalah Maha Mengetahui segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1250100,
+    "timestamp_to": 1259820,
+    "duration": 9720,
+    "segments": [
+      [
+        1,
+        1249535,
+        1250525
+      ],
+      [
+        2,
+        1250525,
+        1251355
+      ],
+      [
+        3,
+        1251355,
+        1252145
+      ],
+      [
+        4,
+        1252145,
+        1252435
+      ],
+      [
+        5,
+        1252435,
+        1253435
+      ],
+      [
+        6,
+        1253435,
+        1254615
+      ],
+      [
+        7,
+        1254615,
+        1255265
+      ],
+      [
+        8,
+        1255265,
+        1255955
+      ],
+      [
+        9,
+        1255955,
+        1256745
+      ],
+      [
+        10,
+        1256745,
+        1257445
+      ],
+      [
+        11,
+        1257445,
+        1258540
+      ]
+    ]
+  }
+}

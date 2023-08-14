@@ -1,0 +1,60 @@
+{
+  "id": 5496,
+  "chapter_id": 74,
+  "verse_key": "74:1",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": " يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 631,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_001_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 632,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_001_002.mp3",
+      "text": "ٱلْمُدَّثِّرُ",
+      "translation": "orang yang berkemul",
+      "transliteration": "l-mudathiru"
+    },
+    {
+      "id": 633,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang yang berkemul (berselimut),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4810,
+    "duration": 4810,
+    "segments": [
+      [
+        1,
+        0,
+        2960
+      ],
+      [
+        2,
+        2960,
+        4745
+      ]
+    ]
+  }
+}

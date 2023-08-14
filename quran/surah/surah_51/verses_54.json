@@ -1,0 +1,99 @@
+{
+  "id": 4729,
+  "chapter_id": 51,
+  "verse_key": "51:54",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 51119,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_054_001.mp3",
+      "text": "فَتَوَلَّ",
+      "translation": "maka berpalinglah kamu",
+      "transliteration": "fatawalla"
+    },
+    {
+      "id": 51120,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_054_002.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 51121,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_054_003.mp3",
+      "text": "فَمَآ",
+      "translation": "maka tidaklah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 51122,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_054_004.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 51123,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_054_005.mp3",
+      "text": "بِمَلُومٍۢ",
+      "translation": "orang-orang yang tercela",
+      "transliteration": "bimalūmin"
+    },
+    {
+      "id": 51124,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka berpalinglah kamu dari mereka, dan kamu sekali-kali tidak tercela.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 473350,
+    "timestamp_to": 482520,
+    "duration": 9170,
+    "segments": [
+      [
+        1,
+        473295,
+        474295
+      ],
+      [
+        2,
+        474295,
+        475315
+      ],
+      [
+        3,
+        475315,
+        477415
+      ],
+      [
+        4,
+        477415,
+        478765
+      ],
+      [
+        5,
+        478765,
+        482400
+      ]
+    ]
+  }
+}

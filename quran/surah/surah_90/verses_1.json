@@ -1,0 +1,86 @@
+{
+  "id": 6024,
+  "chapter_id": 90,
+  "verse_key": "90:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 731,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_001_001.mp3",
+      "text": "لَآ",
+      "translation": "sungguh",
+      "transliteration": "lā"
+    },
+    {
+      "id": 732,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_001_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "Aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 733,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_001_003.mp3",
+      "text": "بِهَـٰذَا",
+      "translation": "dengan ini",
+      "transliteration": "bihādhā"
+    },
+    {
+      "id": 734,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_001_004.mp3",
+      "text": "ٱلْبَلَدِ",
+      "translation": "negeri",
+      "transliteration": "l-baladi"
+    },
+    {
+      "id": 735,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Aku benar-benar bersumpah dengan kota ini (Mekah),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 5750,
+    "duration": 5750,
+    "segments": [
+      [
+        1,
+        0,
+        2640
+      ],
+      [
+        2,
+        2640,
+        3510
+      ],
+      [
+        3,
+        3510,
+        4350
+      ],
+      [
+        4,
+        4350,
+        5685
+      ]
+    ]
+  }
+}

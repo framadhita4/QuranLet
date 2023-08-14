@@ -1,0 +1,99 @@
+{
+  "id": 1716,
+  "chapter_id": 13,
+  "verse_key": "13:9",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "ruku_number": 206,
+  "manzil_number": 3,
+  "page_number": 250,
+  "juz_number": 13,
+  "text_uthmani": "عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْكَبِيرُ ٱلْمُتَعَالِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3",
+  "words": [
+    {
+      "id": 10594,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_009_001.mp3",
+      "text": "عَـٰلِمُ",
+      "translation": "yang mengetahui",
+      "transliteration": "ʿālimu"
+    },
+    {
+      "id": 10595,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_009_002.mp3",
+      "text": "ٱلْغَيْبِ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghaybi"
+    },
+    {
+      "id": 10596,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_009_003.mp3",
+      "text": "وَٱلشَّهَـٰدَةِ",
+      "translation": "dan yang nampak",
+      "transliteration": "wal-shahādati"
+    },
+    {
+      "id": 10597,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_009_004.mp3",
+      "text": "ٱلْكَبِيرُ",
+      "translation": "Maha Besar",
+      "transliteration": "l-kabīru"
+    },
+    {
+      "id": 10598,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_009_005.mp3",
+      "text": "ٱلْمُتَعَالِ",
+      "translation": "Maha Tinggi",
+      "transliteration": "l-mutaʿāli"
+    },
+    {
+      "id": 10599,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang mengetahui semua yang gaib dan yang tampak; Yang Maha Besar lagi Maha Tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 261950,
+    "timestamp_to": 270150,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        261925,
+        262935
+      ],
+      [
+        2,
+        262935,
+        263995
+      ],
+      [
+        3,
+        263995,
+        265745
+      ],
+      [
+        4,
+        265745,
+        266895
+      ],
+      [
+        5,
+        266895,
+        269820
+      ]
+    ]
+  }
+}

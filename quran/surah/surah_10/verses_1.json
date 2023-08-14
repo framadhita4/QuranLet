@@ -1,0 +1,99 @@
+{
+  "id": 1365,
+  "chapter_id": 10,
+  "verse_key": "10:1",
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "ruku_number": 172,
+  "manzil_number": 3,
+  "page_number": 208,
+  "juz_number": 11,
+  "text_uthmani": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 340,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_001_001.mp3",
+      "text": "الٓر ۚ",
+      "translation": "Alif Lam Ra",
+      "transliteration": "alif-lam-ra"
+    },
+    {
+      "id": 342,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_001_003.mp3",
+      "text": "تِلْكَ",
+      "translation": "ini",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 343,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_001_004.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 344,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_001_005.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 345,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_001_006.mp3",
+      "text": "ٱلْحَكِيمِ",
+      "translation": "hikmah",
+      "transliteration": "l-ḥakīmi"
+    },
+    {
+      "id": 346,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Rā<sup foot_note_id=\"668\">1</sup>. Inilah ayat-ayat Al-Qur`ān yang mengandung hikmah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 12410,
+    "duration": 12410,
+    "segments": [
+      [
+        1,
+        0,
+        5670
+      ],
+      [
+        2,
+        5670,
+        6240
+      ],
+      [
+        3,
+        6240,
+        7510
+      ],
+      [
+        4,
+        7510,
+        8710
+      ],
+      [
+        5,
+        8710,
+        12065
+      ]
+    ]
+  }
+}

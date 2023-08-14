@@ -1,0 +1,99 @@
+{
+  "id": 5668,
+  "chapter_id": 77,
+  "verse_key": "77:46",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 45883,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_046_001.mp3",
+      "text": "كُلُوا۟",
+      "translation": "makanlah",
+      "transliteration": "kulū"
+    },
+    {
+      "id": 45884,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_046_002.mp3",
+      "text": "وَتَمَتَّعُوا۟",
+      "translation": "dan bersenang-senanglah kamu",
+      "transliteration": "watamattaʿū"
+    },
+    {
+      "id": 45885,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_046_003.mp3",
+      "text": "قَلِيلًا",
+      "translation": "sedikit/sebentar",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 45886,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_046_004.mp3",
+      "text": "إِنَّكُم",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 45887,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_046_005.mp3",
+      "text": "مُّجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "muj'rimūna"
+    },
+    {
+      "id": 45888,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada orang-orang kafir), \"Makanlah dan bersenang-senanglah kamu (di dunia dalam waktu) yang pendek; sesungguhnya kamu adalah orang-orang yang berdosa\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 245220,
+    "timestamp_to": 253270,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        245125,
+        245725
+      ],
+      [
+        2,
+        245725,
+        247015
+      ],
+      [
+        3,
+        247015,
+        247935
+      ],
+      [
+        4,
+        247935,
+        249545
+      ],
+      [
+        5,
+        249545,
+        253110
+      ]
+    ]
+  }
+}

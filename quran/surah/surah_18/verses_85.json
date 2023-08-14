@@ -1,0 +1,60 @@
+{
+  "id": 2225,
+  "chapter_id": 18,
+  "verse_key": "18:85",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "ruku_number": 262,
+  "manzil_number": 4,
+  "page_number": 303,
+  "juz_number": 16,
+  "text_uthmani": "فَأَتْبَعَ سَبَبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 65990,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_085_001.mp3",
+      "text": "فَأَتْبَعَ",
+      "translation": "maka dia mengikuti/menempuh",
+      "transliteration": "fa-atbaʿa"
+    },
+    {
+      "id": 65991,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_085_002.mp3",
+      "text": "سَبَبًا",
+      "translation": "jalan",
+      "transliteration": "sababan"
+    },
+    {
+      "id": 65992,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dia pun menempuh suatu jalan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1606220,
+    "timestamp_to": 1608620,
+    "duration": 2400,
+    "segments": [
+      [
+        1,
+        1605895,
+        1606935
+      ],
+      [
+        2,
+        1606935,
+        1607930
+      ]
+    ]
+  }
+}

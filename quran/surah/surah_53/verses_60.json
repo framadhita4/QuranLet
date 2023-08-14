@@ -1,0 +1,73 @@
+{
+  "id": 4844,
+  "chapter_id": 53,
+  "verse_key": "53:60",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 54420,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_060_001.mp3",
+      "text": "وَتَضْحَكُونَ",
+      "translation": "dan kamu mentertawakan",
+      "transliteration": "wataḍḥakūna"
+    },
+    {
+      "id": 54421,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_060_002.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 54422,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_060_003.mp3",
+      "text": "تَبْكُونَ",
+      "translation": "menangis",
+      "transliteration": "tabkūna"
+    },
+    {
+      "id": 54423,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu mentertawakan dan tidak menangis?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 449230,
+    "timestamp_to": 454920,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        449155,
+        450825
+      ],
+      [
+        2,
+        450825,
+        451405
+      ],
+      [
+        3,
+        451405,
+        454780
+      ]
+    ]
+  }
+}

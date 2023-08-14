@@ -1,0 +1,86 @@
+{
+  "id": 5507,
+  "chapter_id": 74,
+  "verse_key": "74:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 14136,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_001.mp3",
+      "text": "وَجَعَلْتُ",
+      "translation": "dan Aku jadikan",
+      "transliteration": "wajaʿaltu"
+    },
+    {
+      "id": 14137,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 14138,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_003.mp3",
+      "text": "مَالًۭا",
+      "translation": "harta",
+      "transliteration": "mālan"
+    },
+    {
+      "id": 14139,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_004.mp3",
+      "text": "مَّمْدُودًۭا",
+      "translation": "panjang/banyak",
+      "transliteration": "mamdūdan"
+    },
+    {
+      "id": 14140,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Aku jadikan baginya harta benda yang banyak,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 43110,
+    "timestamp_to": 47600,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        42625,
+        43595
+      ],
+      [
+        2,
+        43595,
+        44145
+      ],
+      [
+        3,
+        44145,
+        44805
+      ],
+      [
+        4,
+        44805,
+        46770
+      ]
+    ]
+  }
+}

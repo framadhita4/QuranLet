@@ -1,0 +1,86 @@
+{
+  "id": 5888,
+  "chapter_id": 84,
+  "verse_key": "84:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 4224,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_004_001.mp3",
+      "text": "وَأَلْقَتْ",
+      "translation": "dan ia melemparkan",
+      "transliteration": "wa-alqat"
+    },
+    {
+      "id": 4225,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_004_002.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 4226,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_004_003.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 4227,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_004_004.mp3",
+      "text": "وَتَخَلَّتْ",
+      "translation": "dan ia menjadi sunyi/kosong",
+      "transliteration": "watakhallat"
+    },
+    {
+      "id": 4228,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12010,
+    "timestamp_to": 16030,
+    "duration": 4020,
+    "segments": [
+      [
+        1,
+        11985,
+        13055
+      ],
+      [
+        2,
+        13055,
+        13415
+      ],
+      [
+        3,
+        13415,
+        14245
+      ],
+      [
+        4,
+        14245,
+        15950
+      ]
+    ]
+  }
+}

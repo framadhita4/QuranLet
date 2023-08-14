@@ -1,0 +1,99 @@
+{
+  "id": 2377,
+  "chapter_id": 20,
+  "verse_key": "20:29",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 31804,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_001.mp3",
+      "text": "وَٱجْعَل",
+      "translation": "dan jadikanlah",
+      "transliteration": "wa-ij'ʿal"
+    },
+    {
+      "id": 31805,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_002.mp3",
+      "text": "لِّى",
+      "translation": "untukku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 31806,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_003.mp3",
+      "text": "وَزِيرًۭا",
+      "translation": "seorang pembantu",
+      "transliteration": "wazīran"
+    },
+    {
+      "id": 31807,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 31808,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_005.mp3",
+      "text": "أَهْلِى",
+      "translation": "keluargaku",
+      "transliteration": "ahlī"
+    },
+    {
+      "id": 31809,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jadikanlah untukku seorang pembantu dari keluargaku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 230620,
+    "timestamp_to": 235350,
+    "duration": 4730,
+    "segments": [
+      [
+        1,
+        230555,
+        231365
+      ],
+      [
+        2,
+        231365,
+        231815
+      ],
+      [
+        3,
+        231815,
+        232765
+      ],
+      [
+        4,
+        232765,
+        233975
+      ],
+      [
+        5,
+        233975,
+        235260
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 970,
+  "chapter_id": 7,
+  "verse_key": "7:16",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 123,
+  "manzil_number": 2,
+  "page_number": 152,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 18951,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_001.mp3",
+      "text": "قَالَ",
+      "translation": "(iblis) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 18952,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_002.mp3",
+      "text": "فَبِمَآ",
+      "translation": "maka dengan apa",
+      "transliteration": "fabimā"
+    },
+    {
+      "id": 18953,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_003.mp3",
+      "text": "أَغْوَيْتَنِى",
+      "translation": "Engkau menghukum saya tersesat",
+      "transliteration": "aghwaytanī"
+    },
+    {
+      "id": 18954,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_004.mp3",
+      "text": "لَأَقْعُدَنَّ",
+      "translation": "sungguh saya akan duduk",
+      "transliteration": "la-aqʿudanna"
+    },
+    {
+      "id": 18955,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_005.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 18956,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_006.mp3",
+      "text": "صِرَٰطَكَ",
+      "translation": "jalan Engkau",
+      "transliteration": "ṣirāṭaka"
+    },
+    {
+      "id": 18957,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_016_007.mp3",
+      "text": "ٱلْمُسْتَقِيمَ",
+      "translation": "yang lurus",
+      "transliteration": "l-mus'taqīma"
+    },
+    {
+      "id": 18958,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Iblis menjawab, \"Karena Engkau telah menghukum saya tersesat, saya benar-benar akan (menghalang-halangi) mereka dari jalan Engkau yang lurus,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 243680,
+    "timestamp_to": 255700,
+    "duration": 12020,
+    "segments": [
+      [
+        1,
+        243645,
+        244515
+      ],
+      [
+        2,
+        244515,
+        246675
+      ],
+      [
+        3,
+        246675,
+        248185
+      ],
+      [
+        4,
+        248185,
+        250245
+      ],
+      [
+        5,
+        250245,
+        250795
+      ],
+      [
+        6,
+        250795,
+        251955
+      ],
+      [
+        7,
+        251955,
+        255600
+      ]
+    ]
+  }
+}

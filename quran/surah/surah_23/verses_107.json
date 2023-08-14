@@ -1,0 +1,125 @@
+{
+  "id": 2780,
+  "chapter_id": 23,
+  "verse_key": "23:107",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 349,
+  "juz_number": 18,
+  "text_uthmani": "رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَـٰلِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 73187,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_001.mp3",
+      "text": "رَبَّنَآ",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 73188,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_002.mp3",
+      "text": "أَخْرِجْنَا",
+      "translation": "keluarkanlah kami",
+      "transliteration": "akhrij'nā"
+    },
+    {
+      "id": 73189,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_003.mp3",
+      "text": "مِنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 73190,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_004.mp3",
+      "text": "فَإِنْ",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 73191,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_005.mp3",
+      "text": "عُدْنَا",
+      "translation": "kami kembali",
+      "transliteration": "ʿud'nā"
+    },
+    {
+      "id": 73192,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_006.mp3",
+      "text": "فَإِنَّا",
+      "translation": "maka sesungguhnya kami",
+      "transliteration": "fa-innā"
+    },
+    {
+      "id": 73193,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_107_007.mp3",
+      "text": "ظَـٰلِمُونَ",
+      "translation": "orang-orang yang zalim",
+      "transliteration": "ẓālimūna"
+    },
+    {
+      "id": 73194,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٧",
+      "translation": "(107)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ya Tuhan kami, keluarkanlah kami darinya (dan kembalikanlah kami ke dunia), maka jika kami kembali (juga kepada kekafiran); sesungguhnya kami adalah orang-orang yang zalim.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1326860,
+    "timestamp_to": 1337600,
+    "duration": 10740,
+    "segments": [
+      [
+        1,
+        1326805,
+        1329525
+      ],
+      [
+        2,
+        1329525,
+        1330745
+      ],
+      [
+        3,
+        1330745,
+        1331545
+      ],
+      [
+        4,
+        1331545,
+        1332125
+      ],
+      [
+        5,
+        1332125,
+        1332885
+      ],
+      [
+        6,
+        1332885,
+        1334365
+      ],
+      [
+        7,
+        1334365,
+        1337520
+      ]
+    ]
+  }
+}

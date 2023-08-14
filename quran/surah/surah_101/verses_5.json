@@ -1,0 +1,86 @@
+{
+  "id": 6162,
+  "chapter_id": 101,
+  "verse_key": "101:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 4791,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_005_001.mp3",
+      "text": "وَتَكُونُ",
+      "translation": "dan adalah",
+      "transliteration": "watakūnu"
+    },
+    {
+      "id": 4792,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_005_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 4793,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_005_003.mp3",
+      "text": "كَٱلْعِهْنِ",
+      "translation": "seperti bulu",
+      "transliteration": "kal-ʿih'ni"
+    },
+    {
+      "id": 4794,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_005_004.mp3",
+      "text": "ٱلْمَنفُوشِ",
+      "translation": "dihambur-hamburkan",
+      "transliteration": "l-manfūshi"
+    },
+    {
+      "id": 4795,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 17990,
+    "timestamp_to": 25590,
+    "duration": 7600,
+    "segments": [
+      [
+        1,
+        17555,
+        18675
+      ],
+      [
+        2,
+        18675,
+        19825
+      ],
+      [
+        3,
+        19825,
+        20915
+      ],
+      [
+        4,
+        20915,
+        25090
+      ]
+    ]
+  }
+}

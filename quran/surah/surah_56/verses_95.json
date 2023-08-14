@@ -1,0 +1,99 @@
+{
+  "id": 5074,
+  "chapter_id": 56,
+  "verse_key": "56:95",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 69740,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_095_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya ia",
+      "transliteration": "inna"
+    },
+    {
+      "id": 69741,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_095_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 69742,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_095_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "sungguh ia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 69743,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_095_004.mp3",
+      "text": "حَقُّ",
+      "translation": "hak/benar",
+      "transliteration": "ḥaqqu"
+    },
+    {
+      "id": 69744,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_095_005.mp3",
+      "text": "ٱلْيَقِينِ",
+      "translation": "keyakinan",
+      "transliteration": "l-yaqīni"
+    },
+    {
+      "id": 69745,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya (yang disebutkan ini) adalah suatu keyakinan yang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 714730,
+    "timestamp_to": 721780,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        714645,
+        716095
+      ],
+      [
+        2,
+        716095,
+        717015
+      ],
+      [
+        3,
+        717015,
+        717625
+      ],
+      [
+        4,
+        717625,
+        718355
+      ],
+      [
+        5,
+        718355,
+        721630
+      ]
+    ]
+  }
+}

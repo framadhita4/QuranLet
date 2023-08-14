@@ -1,0 +1,99 @@
+{
+  "id": 2253,
+  "chapter_id": 19,
+  "verse_key": "19:3",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "page_number": 305,
+  "juz_number": 16,
+  "text_uthmani": "إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 2146,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_003_001.mp3",
+      "text": "إِذْ",
+      "translation": "tatkala",
+      "transliteration": "idh"
+    },
+    {
+      "id": 2147,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_003_002.mp3",
+      "text": "نَادَىٰ",
+      "translation": "dia berseru/berdoa",
+      "transliteration": "nādā"
+    },
+    {
+      "id": 2148,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_003_003.mp3",
+      "text": "رَبَّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbahu"
+    },
+    {
+      "id": 2149,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_003_004.mp3",
+      "text": "نِدَآءً",
+      "translation": "seruan/suara",
+      "transliteration": "nidāan"
+    },
+    {
+      "id": 2150,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_003_005.mp3",
+      "text": "خَفِيًّۭا",
+      "translation": "lembut",
+      "transliteration": "khafiyyan"
+    },
+    {
+      "id": 2151,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu tatkala ia berdoa kepada Tuhan-nya dengan suara yang lembut.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19540,
+    "timestamp_to": 26590,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        18825,
+        19225
+      ],
+      [
+        2,
+        19225,
+        20175
+      ],
+      [
+        3,
+        20175,
+        21275
+      ],
+      [
+        4,
+        21275,
+        23975
+      ],
+      [
+        5,
+        23975,
+        25830
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 2877,
+  "chapter_id": 25,
+  "verse_key": "25:22",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 362,
+  "juz_number": 19,
+  "text_uthmani": "يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَّحْجُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 25007,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 25008,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_002.mp3",
+      "text": "يَرَوْنَ",
+      "translation": "mereka melihat",
+      "transliteration": "yarawna"
+    },
+    {
+      "id": 25009,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_003.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةَ",
+      "translation": "malaikat",
+      "transliteration": "l-malāikata"
+    },
+    {
+      "id": 25010,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_004.mp3",
+      "text": "لَا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 25011,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_005.mp3",
+      "text": "بُشْرَىٰ",
+      "translation": "kabar gembira",
+      "transliteration": "bush'rā"
+    },
+    {
+      "id": 25012,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_006.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 25013,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_007.mp3",
+      "text": "لِّلْمُجْرِمِينَ",
+      "translation": "bagi orang-orang yang berdosa",
+      "transliteration": "lil'muj'rimīna"
+    },
+    {
+      "id": 25014,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_008.mp3",
+      "text": "وَيَقُولُونَ",
+      "translation": "dan mereka berkata",
+      "transliteration": "wayaqūlūna"
+    },
+    {
+      "id": 25015,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_009.mp3",
+      "text": "حِجْرًۭا",
+      "translation": "larangan/halangan",
+      "transliteration": "ḥij'ran"
+    },
+    {
+      "id": 25016,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_022_010.mp3",
+      "text": "مَّحْجُورًۭا",
+      "translation": "terhalang",
+      "transliteration": "maḥjūran"
+    },
+    {
+      "id": 25017,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari mereka melihat malaikat <sup foot_note_id=\"1060\">1</sup> pada hari itu tidak ada kabar gembira bagi orang-orang yang berdosa dan mereka berkata, \"Ḥijrān maḥjūrā <sup foot_note_id=\"1061\">2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 419940,
+    "timestamp_to": 433550,
+    "duration": 13610,
+    "segments": [
+      [
+        1,
+        419915,
+        420625
+      ],
+      [
+        2,
+        420625,
+        421385
+      ],
+      [
+        3,
+        421385,
+        424415
+      ],
+      [
+        4,
+        424415,
+        424765
+      ],
+      [
+        5,
+        424765,
+        425595
+      ],
+      [
+        6,
+        425595,
+        426715
+      ],
+      [
+        7,
+        426715,
+        428515
+      ],
+      [
+        8,
+        428515,
+        430015
+      ],
+      [
+        9,
+        430015,
+        430755
+      ],
+      [
+        10,
+        430755,
+        433500
+      ]
+    ]
+  }
+}

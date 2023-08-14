@@ -1,0 +1,99 @@
+{
+  "id": 5343,
+  "chapter_id": 69,
+  "verse_key": "69:20",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 22740,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_001.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 22741,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_002.mp3",
+      "text": "ظَنَنتُ",
+      "translation": "aku sangka/yakin",
+      "transliteration": "ẓanantu"
+    },
+    {
+      "id": 22742,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_003.mp3",
+      "text": "أَنِّى",
+      "translation": "bahwasanya aku",
+      "transliteration": "annī"
+    },
+    {
+      "id": 22743,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_004.mp3",
+      "text": "مُلَـٰقٍ",
+      "translation": "menemui",
+      "transliteration": "mulāqin"
+    },
+    {
+      "id": 22744,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_005.mp3",
+      "text": "حِسَابِيَهْ",
+      "translation": "perhitungan",
+      "transliteration": "ḥisābiyah"
+    },
+    {
+      "id": 22745,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya aku yakin bahwa sesungguhnya aku akan menemui hisab terhadap diriku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 170810,
+    "timestamp_to": 178650,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        170755,
+        172305
+      ],
+      [
+        2,
+        172305,
+        173995
+      ],
+      [
+        3,
+        173995,
+        175485
+      ],
+      [
+        4,
+        175485,
+        176585
+      ],
+      [
+        5,
+        176585,
+        178510
+      ]
+    ]
+  }
+}

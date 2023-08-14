@@ -1,0 +1,60 @@
+{
+  "id": 5911,
+  "chapter_id": 85,
+  "verse_key": "85:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 1746,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_002_001.mp3",
+      "text": "وَٱلْيَوْمِ",
+      "translation": "dan hari",
+      "transliteration": "wal-yawmi"
+    },
+    {
+      "id": 1747,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_002_002.mp3",
+      "text": "ٱلْمَوْعُودِ",
+      "translation": "dijanjikan",
+      "transliteration": "l-mawʿūdi"
+    },
+    {
+      "id": 1748,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan hari yang dijanjikan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8390,
+    "timestamp_to": 13670,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        8325,
+        9445
+      ],
+      [
+        2,
+        9445,
+        13570
+      ]
+    ]
+  }
+}

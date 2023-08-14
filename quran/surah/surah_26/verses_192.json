@@ -1,0 +1,86 @@
+{
+  "id": 3124,
+  "chapter_id": 26,
+  "verse_key": "26:192",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84732,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_192_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 84733,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_192_002.mp3",
+      "text": "لَتَنزِيلُ",
+      "translation": "benar-benar diturunkan",
+      "transliteration": "latanzīlu"
+    },
+    {
+      "id": 84734,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_192_003.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 84735,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_192_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 84736,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٩٢",
+      "translation": "(192)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Al-Qur`ān ini benar-benar diturunkan oleh Tuhan semesta alam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1680100,
+    "timestamp_to": 1688120,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1680045,
+        1681855
+      ],
+      [
+        2,
+        1681855,
+        1684235
+      ],
+      [
+        3,
+        1684235,
+        1684805
+      ],
+      [
+        4,
+        1684805,
+        1688010
+      ]
+    ]
+  }
+}

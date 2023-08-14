@@ -1,0 +1,99 @@
+{
+  "id": 4047,
+  "chapter_id": 38,
+  "verse_key": "38:77",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 63157,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_077_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 63158,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_077_002.mp3",
+      "text": "فَٱخْرُجْ",
+      "translation": "maka keluarlah kamu",
+      "transliteration": "fa-ukh'ruj"
+    },
+    {
+      "id": 63159,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_077_003.mp3",
+      "text": "مِنْهَا",
+      "translation": "dari padanya (sorga)",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 63160,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_077_004.mp3",
+      "text": "فَإِنَّكَ",
+      "translation": "maka sesungguhnya kamu",
+      "transliteration": "fa-innaka"
+    },
+    {
+      "id": 63161,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_077_005.mp3",
+      "text": "رَجِيمٌۭ",
+      "translation": "terkutuk",
+      "transliteration": "rajīmun"
+    },
+    {
+      "id": 63162,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Maka keluarlah kamu dari surga; sesungguhnya kamu adalah orang yang terkutuk,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 958800,
+    "timestamp_to": 965800,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        958775,
+        959465
+      ],
+      [
+        2,
+        959465,
+        960325
+      ],
+      [
+        3,
+        960325,
+        961125
+      ],
+      [
+        4,
+        961125,
+        962995
+      ],
+      [
+        5,
+        962995,
+        965750
+      ]
+    ]
+  }
+}

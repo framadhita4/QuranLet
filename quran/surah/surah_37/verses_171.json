@@ -1,0 +1,99 @@
+{
+  "id": 3959,
+  "chapter_id": 37,
+  "verse_key": "37:171",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82986,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_171_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 82987,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_171_002.mp3",
+      "text": "سَبَقَتْ",
+      "translation": "telah berlaku",
+      "transliteration": "sabaqat"
+    },
+    {
+      "id": 82988,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_171_003.mp3",
+      "text": "كَلِمَتُنَا",
+      "translation": "kalimat/ketetapan Kami",
+      "transliteration": "kalimatunā"
+    },
+    {
+      "id": 82989,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_171_004.mp3",
+      "text": "لِعِبَادِنَا",
+      "translation": "bagi hamba-hamba Kami",
+      "transliteration": "liʿibādinā"
+    },
+    {
+      "id": 82990,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_171_005.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 82991,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٧١",
+      "translation": "(171)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah tetap janji Kami kepada hamba-hamba Kami yang menjadi rasul,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1368100,
+    "timestamp_to": 1375470,
+    "duration": 7370,
+    "segments": [
+      [
+        1,
+        1368045,
+        1368865
+      ],
+      [
+        2,
+        1368865,
+        1369695
+      ],
+      [
+        3,
+        1369695,
+        1370905
+      ],
+      [
+        4,
+        1370905,
+        1372085
+      ],
+      [
+        5,
+        1372085,
+        1375360
+      ]
+    ]
+  }
+}

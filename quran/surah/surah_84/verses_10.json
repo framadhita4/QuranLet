@@ -1,0 +1,112 @@
+{
+  "id": 5894,
+  "chapter_id": 84,
+  "verse_key": "84:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 11397,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_010_001.mp3",
+      "text": "وَأَمَّا",
+      "translation": "dan adapun",
+      "transliteration": "wa-ammā"
+    },
+    {
+      "id": 11398,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_010_002.mp3",
+      "text": "مَنْ",
+      "translation": "siapa/orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 11399,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_010_003.mp3",
+      "text": "أُوتِىَ",
+      "translation": "diberikan",
+      "transliteration": "ūtiya"
+    },
+    {
+      "id": 11400,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_010_004.mp3",
+      "text": "كِتَـٰبَهُۥ",
+      "translation": "kitabnya",
+      "transliteration": "kitābahu"
+    },
+    {
+      "id": 11401,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_010_005.mp3",
+      "text": "وَرَآءَ",
+      "translation": "belakang",
+      "transliteration": "warāa"
+    },
+    {
+      "id": 11402,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_010_006.mp3",
+      "text": "ظَهْرِهِۦ",
+      "translation": "punggungnya",
+      "transliteration": "ẓahrihi"
+    },
+    {
+      "id": 11403,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang-orang yang diberikan kitabnya dari belakang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 51790,
+    "timestamp_to": 59940,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        51765,
+        53675
+      ],
+      [
+        2,
+        53675,
+        54065
+      ],
+      [
+        3,
+        54065,
+        54855
+      ],
+      [
+        4,
+        54855,
+        56215
+      ],
+      [
+        5,
+        56215,
+        58545
+      ],
+      [
+        6,
+        58545,
+        59870
+      ]
+    ]
+  }
+}

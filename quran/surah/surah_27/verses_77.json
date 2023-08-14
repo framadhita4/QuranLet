@@ -1,0 +1,86 @@
+{
+  "id": 3236,
+  "chapter_id": 27,
+  "verse_key": "27:77",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 384,
+  "juz_number": 20,
+  "text_uthmani": "وَإِنَّهُۥ لَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 63122,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_077_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 63123,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_077_002.mp3",
+      "text": "لَهُدًۭى",
+      "translation": "benar-benar petunjuk",
+      "transliteration": "lahudan"
+    },
+    {
+      "id": 63124,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_077_003.mp3",
+      "text": "وَرَحْمَةٌۭ",
+      "translation": "dan rahmat",
+      "transliteration": "waraḥmatun"
+    },
+    {
+      "id": 63125,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_077_004.mp3",
+      "text": "لِّلْمُؤْمِنِينَ",
+      "translation": "bagi orang-orang yang beriman",
+      "transliteration": "lil'mu'minīna"
+    },
+    {
+      "id": 63126,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Al-Qur`ān itu benar-benar menjadi petunjuk dan rahmat bagi orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1374490,
+    "timestamp_to": 1383210,
+    "duration": 8730,
+    "segments": [
+      [
+        1,
+        1374465,
+        1376575
+      ],
+      [
+        2,
+        1376575,
+        1378155
+      ],
+      [
+        3,
+        1378155,
+        1379165
+      ],
+      [
+        4,
+        1379165,
+        1383140
+      ]
+    ]
+  }
+}

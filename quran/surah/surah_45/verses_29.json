@@ -1,0 +1,177 @@
+{
+  "id": 4502,
+  "chapter_id": 45,
+  "verse_key": "45:29",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "ruku_number": 439,
+  "manzil_number": 6,
+  "page_number": 501,
+  "juz_number": 25,
+  "text_uthmani": "هَـٰذَا كِتَـٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 31645,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 31646,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_002.mp3",
+      "text": "كِتَـٰبُنَا",
+      "translation": "kitab/catatan kami",
+      "transliteration": "kitābunā"
+    },
+    {
+      "id": 31647,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_003.mp3",
+      "text": "يَنطِقُ",
+      "translation": "ia menuturkan",
+      "transliteration": "yanṭiqu"
+    },
+    {
+      "id": 31648,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_004.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 31649,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_005.mp3",
+      "text": "بِٱلْحَقِّ ۚ",
+      "translation": "dengan benar",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 31651,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_007.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 31652,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_008.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah Kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 31653,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_009.mp3",
+      "text": "نَسْتَنسِخُ",
+      "translation": "Kami menyuruh mencatat",
+      "transliteration": "nastansikhu"
+    },
+    {
+      "id": 31654,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_010.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 31655,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_011.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 31656,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_029_012.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 31657,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Inilah kitab (catatan) Kami yang menuturkan terhadapmu dengan benar. Sesungguhnya Kami telah menyuruh mencatat apa yang telah kamu kerjakan.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 481560,
+    "timestamp_to": 498040,
+    "duration": 16480,
+    "segments": [
+      [
+        1,
+        481525,
+        482375
+      ],
+      [
+        2,
+        482375,
+        483645
+      ],
+      [
+        3,
+        483645,
+        485025
+      ],
+      [
+        4,
+        485025,
+        486665
+      ],
+      [
+        5,
+        486665,
+        488205
+      ],
+      [
+        6,
+        488205,
+        489535
+      ],
+      [
+        7,
+        489535,
+        491075
+      ],
+      [
+        8,
+        491075,
+        492835
+      ],
+      [
+        9,
+        492835,
+        493185
+      ],
+      [
+        10,
+        493185,
+        494595
+      ],
+      [
+        11,
+        494595,
+        497960
+      ]
+    ]
+  }
+}

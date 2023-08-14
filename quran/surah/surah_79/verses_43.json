@@ -1,0 +1,86 @@
+{
+  "id": 5755,
+  "chapter_id": 79,
+  "verse_key": "79:43",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 43729,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_043_001.mp3",
+      "text": "فِيمَ",
+      "translation": "dalam apa/mengapa",
+      "transliteration": "fīma"
+    },
+    {
+      "id": 43730,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_043_002.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 43731,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_043_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43732,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_043_004.mp3",
+      "text": "ذِكْرَىٰهَآ",
+      "translation": "mengingat/menyebut",
+      "transliteration": "dhik'rāhā"
+    },
+    {
+      "id": 43733,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Siapakah kamu (sehingga) dapat menyebutkan (waktunya)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 206220,
+    "timestamp_to": 211210,
+    "duration": 4990,
+    "segments": [
+      [
+        1,
+        205815,
+        206435
+      ],
+      [
+        2,
+        206435,
+        207665
+      ],
+      [
+        3,
+        207665,
+        208955
+      ],
+      [
+        4,
+        208955,
+        210430
+      ]
+    ]
+  }
+}

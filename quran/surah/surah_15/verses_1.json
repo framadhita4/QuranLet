@@ -1,0 +1,112 @@
+{
+  "id": 1803,
+  "chapter_id": 15,
+  "verse_key": "15:1",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ وَقُرْءَانٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 833,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_001_001.mp3",
+      "text": "الٓر ۚ",
+      "translation": "Alif Laam Raa",
+      "transliteration": "alif-lam-ra"
+    },
+    {
+      "id": 835,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_001_003.mp3",
+      "text": "تِلْكَ",
+      "translation": "itu",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 836,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_001_004.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 837,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_001_005.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Al Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 838,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_001_006.mp3",
+      "text": "وَقُرْءَانٍۢ",
+      "translation": "dan Al Qur'an",
+      "transliteration": "waqur'ānin"
+    },
+    {
+      "id": 839,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_001_007.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 840,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Rā.  (surah) ini adalah (sebagian dari) ayat-ayat Alkitab (yang sempurna), yaitu (ayat-ayat) Al-Qur`ān yang memberi penjelasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 12280,
+    "duration": 12280,
+    "segments": [
+      [
+        1,
+        0,
+        5440
+      ],
+      [
+        2,
+        5440,
+        5990
+      ],
+      [
+        3,
+        5990,
+        6960
+      ],
+      [
+        4,
+        6960,
+        7910
+      ],
+      [
+        5,
+        7910,
+        9050
+      ],
+      [
+        6,
+        9050,
+        12255
+      ]
+    ]
+  }
+}

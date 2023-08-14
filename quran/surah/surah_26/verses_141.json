@@ -1,0 +1,73 @@
+{
+  "id": 3073,
+  "chapter_id": 26,
+  "verse_key": "26:141",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 79189,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_141_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 79190,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_141_002.mp3",
+      "text": "ثَمُودُ",
+      "translation": "kamu Samud",
+      "transliteration": "thamūdu"
+    },
+    {
+      "id": 79191,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_141_003.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 79192,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٤١",
+      "translation": "(141)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum Ṡamūd telah mendustakan rasul-rasul.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1240680,
+    "timestamp_to": 1245850,
+    "duration": 5170,
+    "segments": [
+      [
+        1,
+        1240655,
+        1241785
+      ],
+      [
+        2,
+        1241785,
+        1242565
+      ],
+      [
+        3,
+        1242565,
+        1245770
+      ]
+    ]
+  }
+}

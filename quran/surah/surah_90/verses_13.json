@@ -1,0 +1,60 @@
+{
+  "id": 6036,
+  "chapter_id": 90,
+  "verse_key": "90:13",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "فَكُّ رَقَبَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 15459,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_013_001.mp3",
+      "text": "فَكُّ",
+      "translation": "memerdekakan",
+      "transliteration": "fakku"
+    },
+    {
+      "id": 15460,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_013_002.mp3",
+      "text": "رَقَبَةٍ",
+      "translation": "budak",
+      "transliteration": "raqabatin"
+    },
+    {
+      "id": 15461,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) melepaskan budak dari perbudakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 61010,
+    "timestamp_to": 63000,
+    "duration": 1990,
+    "segments": [
+      [
+        1,
+        60925,
+        61555
+      ],
+      [
+        2,
+        61555,
+        62840
+      ]
+    ]
+  }
+}

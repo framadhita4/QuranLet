@@ -1,0 +1,112 @@
+{
+  "id": 2207,
+  "chapter_id": 18,
+  "verse_key": "18:67",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "ruku_number": 260,
+  "manzil_number": 4,
+  "page_number": 301,
+  "juz_number": 15,
+  "text_uthmani": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 57969,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_067_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Khaidir) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 57970,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_067_002.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 57971,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_067_003.mp3",
+      "text": "لَن",
+      "translation": "tidak akan",
+      "transliteration": "lan"
+    },
+    {
+      "id": 57972,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_067_004.mp3",
+      "text": "تَسْتَطِيعَ",
+      "translation": "kamu sanggup",
+      "transliteration": "tastaṭīʿa"
+    },
+    {
+      "id": 57973,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_067_005.mp3",
+      "text": "مَعِىَ",
+      "translation": "bersama aku",
+      "transliteration": "maʿiya"
+    },
+    {
+      "id": 57974,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_067_006.mp3",
+      "text": "صَبْرًۭا",
+      "translation": "sabar",
+      "transliteration": "ṣabran"
+    },
+    {
+      "id": 57975,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia menjawab, \"Sesungguhnya kamu sekali-kali tidak akan sanggup sabar bersama aku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1309850,
+    "timestamp_to": 1316560,
+    "duration": 6710,
+    "segments": [
+      [
+        1,
+        1309475,
+        1310245
+      ],
+      [
+        2,
+        1310245,
+        1311585
+      ],
+      [
+        3,
+        1311585,
+        1312645
+      ],
+      [
+        4,
+        1312645,
+        1314055
+      ],
+      [
+        5,
+        1314055,
+        1314685
+      ],
+      [
+        6,
+        1314685,
+        1316160
+      ]
+    ]
+  }
+}

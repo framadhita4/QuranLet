@@ -1,0 +1,73 @@
+{
+  "id": 4869,
+  "chapter_id": 54,
+  "verse_key": "54:23",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 26023,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_023_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 26024,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_023_002.mp3",
+      "text": "ثَمُودُ",
+      "translation": "kaum Samud",
+      "transliteration": "thamūdu"
+    },
+    {
+      "id": 26025,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_023_003.mp3",
+      "text": "بِٱلنُّذُرِ",
+      "translation": "dengan peringatan/ancaman",
+      "transliteration": "bil-nudhuri"
+    },
+    {
+      "id": 26026,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum Ṡamūd pun telah mendustakan ancaman-ancaman (itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 203650,
+    "timestamp_to": 208010,
+    "duration": 4360,
+    "segments": [
+      [
+        1,
+        203565,
+        204715
+      ],
+      [
+        2,
+        204715,
+        205575
+      ],
+      [
+        3,
+        205575,
+        207800
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 546,
+  "chapter_id": 4,
+  "verse_key": "4:53",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "ruku_number": 69,
+  "manzil_number": 1,
+  "page_number": 87,
+  "juz_number": 5,
+  "text_uthmani": "أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ فَإِذًا لَّا يُؤْتُونَ ٱلنَّاسَ نَقِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 50427,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_001.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 50428,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 50429,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_003.mp3",
+      "text": "نَصِيبٌۭ",
+      "translation": "bagian",
+      "transliteration": "naṣībun"
+    },
+    {
+      "id": 50430,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_004.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 50431,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_005.mp3",
+      "text": "ٱلْمُلْكِ",
+      "translation": "kekuasaan",
+      "transliteration": "l-mul'ki"
+    },
+    {
+      "id": 50432,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_006.mp3",
+      "text": "فَإِذًۭا",
+      "translation": "maka jika demikian/kendatipun ada",
+      "transliteration": "fa-idhan"
+    },
+    {
+      "id": 50433,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_007.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 50434,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_008.mp3",
+      "text": "يُؤْتُونَ",
+      "translation": "mereka akan mendatangkan",
+      "transliteration": "yu'tūna"
+    },
+    {
+      "id": 50435,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_009.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 50436,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_053_010.mp3",
+      "text": "نَقِيرًا",
+      "translation": "sedikitpun",
+      "transliteration": "naqīran"
+    },
+    {
+      "id": 50437,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah ada bagi mereka bagian dari kerajaan (kekuasaan)? Kendatipun ada, mereka tidak akan memberikan sedikit pun (kebajikan) kepada manusia<sup foot_note_id=\"310\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1637610,
+    "timestamp_to": 1646410,
+    "duration": 8800,
+    "segments": [
+      [
+        1,
+        1637565,
+        1637925
+      ],
+      [
+        2,
+        1637925,
+        1638655
+      ],
+      [
+        3,
+        1638655,
+        1639465
+      ],
+      [
+        4,
+        1639465,
+        1640305
+      ],
+      [
+        5,
+        1640305,
+        1641175
+      ],
+      [
+        6,
+        1641175,
+        1641745
+      ],
+      [
+        7,
+        1641745,
+        1642365
+      ],
+      [
+        8,
+        1642365,
+        1643385
+      ],
+      [
+        9,
+        1643385,
+        1644785
+      ],
+      [
+        10,
+        1644785,
+        1646340
+      ]
+    ]
+  }
+}

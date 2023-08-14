@@ -1,0 +1,117 @@
+{
+  "id": 5795,
+  "chapter_id": 80,
+  "verse_key": "80:37",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 39058,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_037_001.mp3",
+      "text": "لِكُلِّ",
+      "translation": "bagi setiap",
+      "transliteration": "likulli"
+    },
+    {
+      "id": 39059,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_037_002.mp3",
+      "text": "ٱمْرِئٍۢ",
+      "translation": "seseorang",
+      "transliteration": "im'ri-in"
+    },
+    {
+      "id": 39060,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_037_003.mp3",
+      "text": "مِّنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 39061,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_037_004.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 39062,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_037_005.mp3",
+      "text": "شَأْنٌۭ",
+      "translation": "urusan",
+      "transliteration": "shanun"
+    },
+    {
+      "id": 39063,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_037_006.mp3",
+      "text": "يُغْنِيهِ",
+      "translation": "menyibukkan",
+      "transliteration": "yugh'nīhi"
+    },
+    {
+      "id": 39064,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Setiap orang dari mereka pada hari itu mempunyai urusan yang cukup menyibukkannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 166780,
+    "timestamp_to": 177360,
+    "duration": 10580,
+    "segments": [
+      [
+        1,
+        166675,
+        167625
+      ],
+      [
+        2,
+        167625,
+        168295
+      ],
+      [
+        3,
+        168295,
+        170495
+      ],
+      [
+        4,
+        170495,
+        171425
+      ],
+      [
+        4,
+        171425,
+        172495
+      ],
+      [
+        5,
+        172495,
+        173165
+      ],
+      [
+        6,
+        173165,
+        177180
+      ]
+    ]
+  }
+}

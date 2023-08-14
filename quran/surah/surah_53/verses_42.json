@@ -1,0 +1,86 @@
+{
+  "id": 4826,
+  "chapter_id": 53,
+  "verse_key": "53:42",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 42860,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_042_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 42861,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_042_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 42862,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_042_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 42863,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_042_004.mp3",
+      "text": "ٱلْمُنتَهَىٰ",
+      "translation": "akhir tujuan",
+      "transliteration": "l-muntahā"
+    },
+    {
+      "id": 42864,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya kepada Tuhan-mulah kesudahan (segala sesuatu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 350960,
+    "timestamp_to": 356730,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        350545,
+        351995
+      ],
+      [
+        2,
+        351995,
+        352655
+      ],
+      [
+        3,
+        352655,
+        353605
+      ],
+      [
+        4,
+        353605,
+        355920
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 2343,
+  "chapter_id": 19,
+  "verse_key": "19:93",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "إِن كُلُّ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَـٰنِ عَبْدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 69070,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_001.mp3",
+      "text": "إِن",
+      "translation": "tidak",
+      "transliteration": "in"
+    },
+    {
+      "id": 69071,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_002.mp3",
+      "text": "كُلُّ",
+      "translation": "setiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 69072,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_003.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 69073,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 69074,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_005.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 69075,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_006.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 69076,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_007.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 69077,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_008.mp3",
+      "text": "ءَاتِى",
+      "translation": "dia datang",
+      "transliteration": "ātī"
+    },
+    {
+      "id": 69078,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_009.mp3",
+      "text": "ٱلرَّحْمَـٰنِ",
+      "translation": "Yang Maha Pengasih",
+      "transliteration": "l-raḥmāni"
+    },
+    {
+      "id": 69079,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_093_010.mp3",
+      "text": "عَبْدًۭا",
+      "translation": "mengabdi",
+      "transliteration": "ʿabdan"
+    },
+    {
+      "id": 69080,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada seorang pun di langit dan di bumi, kecuali akan datang kepada Tuhan Yang Maha Pemurah selaku seorang hamba.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1210500,
+    "timestamp_to": 1222260,
+    "duration": 11760,
+    "segments": [
+      [
+        1,
+        1210475,
+        1212075
+      ],
+      [
+        2,
+        1212075,
+        1212665
+      ],
+      [
+        3,
+        1212665,
+        1213645
+      ],
+      [
+        4,
+        1213645,
+        1213915
+      ],
+      [
+        5,
+        1213915,
+        1215525
+      ],
+      [
+        6,
+        1215525,
+        1216695
+      ],
+      [
+        7,
+        1216695,
+        1217405
+      ],
+      [
+        8,
+        1217405,
+        1219535
+      ],
+      [
+        9,
+        1219535,
+        1220905
+      ],
+      [
+        10,
+        1220905,
+        1221940
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5554,
+  "chapter_id": 75,
+  "verse_key": "75:3",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 2639,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_003_001.mp3",
+      "text": "أَيَحْسَبُ",
+      "translation": "apakah mengira",
+      "transliteration": "ayaḥsabu"
+    },
+    {
+      "id": 2640,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_003_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 2641,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_003_003.mp3",
+      "text": "أَلَّن",
+      "translation": "bahwa tidak",
+      "transliteration": "allan"
+    },
+    {
+      "id": 2642,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_003_004.mp3",
+      "text": "نَّجْمَعَ",
+      "translation": "Kami mengumpulkan",
+      "transliteration": "najmaʿa"
+    },
+    {
+      "id": 2643,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_003_005.mp3",
+      "text": "عِظَامَهُۥ",
+      "translation": "tulang-belulangnya",
+      "transliteration": "ʿiẓāmahu"
+    },
+    {
+      "id": 2644,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah manusia mengira, bahwa Kami tidak akan mengumpulkan (kembali) tulang belulangnya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13580,
+    "timestamp_to": 20790,
+    "duration": 7210,
+    "segments": [
+      [
+        1,
+        13525,
+        14595
+      ],
+      [
+        2,
+        14595,
+        16695
+      ],
+      [
+        3,
+        16695,
+        17375
+      ],
+      [
+        4,
+        17375,
+        19035
+      ],
+      [
+        5,
+        19035,
+        20680
+      ]
+    ]
+  }
+}

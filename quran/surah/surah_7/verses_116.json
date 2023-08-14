@@ -1,0 +1,177 @@
+{
+  "id": 1070,
+  "chapter_id": 7,
+  "verse_key": "7:116",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 75464,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_001.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 75465,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_002.mp3",
+      "text": "أَلْقُوا۟ ۖ",
+      "translation": "lemparkanlah",
+      "transliteration": "alqū"
+    },
+    {
+      "id": 75467,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_004.mp3",
+      "text": "فَلَمَّآ",
+      "translation": "maka setelah",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 75468,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_005.mp3",
+      "text": "أَلْقَوْا۟",
+      "translation": "mereka melemparkan",
+      "transliteration": "alqaw"
+    },
+    {
+      "id": 75469,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_006.mp3",
+      "text": "سَحَرُوٓا۟",
+      "translation": "mereka menyihir",
+      "transliteration": "saḥarū"
+    },
+    {
+      "id": 75470,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_007.mp3",
+      "text": "أَعْيُنَ",
+      "translation": "mata",
+      "transliteration": "aʿyuna"
+    },
+    {
+      "id": 75471,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_008.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 75472,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_009.mp3",
+      "text": "وَٱسْتَرْهَبُوهُمْ",
+      "translation": "dan menjadikan takut kepada mereka",
+      "transliteration": "wa-is'tarhabūhum"
+    },
+    {
+      "id": 75473,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_010.mp3",
+      "text": "وَجَآءُو",
+      "translation": "dan mereka mendatangkan",
+      "transliteration": "wajāū"
+    },
+    {
+      "id": 75474,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_011.mp3",
+      "text": "بِسِحْرٍ",
+      "translation": "dengan sihir",
+      "transliteration": "bisiḥ'rin"
+    },
+    {
+      "id": 75475,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_116_012.mp3",
+      "text": "عَظِيمٍۢ",
+      "translation": "yang besar",
+      "transliteration": "ʿaẓīmin"
+    },
+    {
+      "id": 75476,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١٦",
+      "translation": "(116)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Musa menjawab, \"Lemparkanlah (lebih dahulu)!\" Maka tatkala mereka melemparkan, mereka menyulap mata orang dan menjadikan orang banyak itu takut, serta mereka mendatangkan sihir yang besar (menakjubkan).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2592440,
+    "timestamp_to": 2612400,
+    "duration": 19960,
+    "segments": [
+      [
+        1,
+        2592415,
+        2593305
+      ],
+      [
+        2,
+        2593305,
+        2594295
+      ],
+      [
+        3,
+        2594295,
+        2597815
+      ],
+      [
+        4,
+        2597815,
+        2598605
+      ],
+      [
+        5,
+        2598605,
+        2601285
+      ],
+      [
+        6,
+        2601285,
+        2602065
+      ],
+      [
+        7,
+        2602065,
+        2603835
+      ],
+      [
+        8,
+        2603835,
+        2605665
+      ],
+      [
+        9,
+        2605665,
+        2608475
+      ],
+      [
+        10,
+        2608475,
+        2609325
+      ],
+      [
+        11,
+        2609325,
+        2612340
+      ]
+    ]
+  }
+}

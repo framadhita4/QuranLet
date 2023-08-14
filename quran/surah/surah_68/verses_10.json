@@ -1,0 +1,99 @@
+{
+  "id": 5281,
+  "chapter_id": 68,
+  "verse_key": "68:10",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 11458,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_010_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 11459,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_010_002.mp3",
+      "text": "تُطِعْ",
+      "translation": "kamu taati",
+      "transliteration": "tuṭiʿ"
+    },
+    {
+      "id": 11460,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_010_003.mp3",
+      "text": "كُلَّ",
+      "translation": "setiap",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 11461,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_010_004.mp3",
+      "text": "حَلَّافٍۢ",
+      "translation": "banyak bersumpah",
+      "transliteration": "ḥallāfin"
+    },
+    {
+      "id": 11462,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_010_005.mp3",
+      "text": "مَّهِينٍ",
+      "translation": "yang hina",
+      "transliteration": "mahīnin"
+    },
+    {
+      "id": 11463,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan janganlah kamu ikuti setiap orang yang banyak bersumpah lagi hina,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 62300,
+    "timestamp_to": 68940,
+    "duration": 6640,
+    "segments": [
+      [
+        1,
+        62225,
+        62795
+      ],
+      [
+        2,
+        62795,
+        63405
+      ],
+      [
+        3,
+        63405,
+        64045
+      ],
+      [
+        4,
+        64045,
+        65265
+      ],
+      [
+        5,
+        65265,
+        68810
+      ]
+    ]
+  }
+}

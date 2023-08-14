@@ -1,0 +1,73 @@
+{
+  "id": 2454,
+  "chapter_id": 20,
+  "verse_key": "20:106",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "page_number": 319,
+  "juz_number": 16,
+  "text_uthmani": "فَيَذَرُهَا قَاعًا صَفْصَفًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 73035,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_106_001.mp3",
+      "text": "فَيَذَرُهَا",
+      "translation": "Maka Dia biarkan",
+      "transliteration": "fayadharuhā"
+    },
+    {
+      "id": 73036,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_106_002.mp3",
+      "text": "قَاعًۭا",
+      "translation": "kosong",
+      "transliteration": "qāʿan"
+    },
+    {
+      "id": 73037,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_106_003.mp3",
+      "text": "صَفْصَفًۭا",
+      "translation": "tanah datar",
+      "transliteration": "ṣafṣafan"
+    },
+    {
+      "id": 73038,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka Dia akan menjadikan (bekas) gunung-gunung itu datar sama sekali,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1214280,
+    "timestamp_to": 1218770,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        1213865,
+        1215115
+      ],
+      [
+        2,
+        1215115,
+        1216625
+      ],
+      [
+        3,
+        1216625,
+        1218320
+      ]
+    ]
+  }
+}

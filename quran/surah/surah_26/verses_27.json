@@ -1,0 +1,125 @@
+{
+  "id": 2959,
+  "chapter_id": 26,
+  "verse_key": "26:27",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِىٓ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 30022,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 30023,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 30024,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_003.mp3",
+      "text": "رَسُولَكُمُ",
+      "translation": "kerasulanmu",
+      "transliteration": "rasūlakumu"
+    },
+    {
+      "id": 30025,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_004.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 30026,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_005.mp3",
+      "text": "أُرْسِلَ",
+      "translation": "diutus",
+      "transliteration": "ur'sila"
+    },
+    {
+      "id": 30027,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_006.mp3",
+      "text": "إِلَيْكُمْ",
+      "translation": "kepada kamu",
+      "transliteration": "ilaykum"
+    },
+    {
+      "id": 30028,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_027_007.mp3",
+      "text": "لَمَجْنُونٌۭ",
+      "translation": "benar-benar orang gila",
+      "transliteration": "lamajnūnun"
+    },
+    {
+      "id": 30029,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  berkata, \"Sesungguhnya rasulmu yang diutus kepada kamu sekalian benar-benar orang gila\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 268140,
+    "timestamp_to": 278300,
+    "duration": 10160,
+    "segments": [
+      [
+        1,
+        268115,
+        268755
+      ],
+      [
+        2,
+        268755,
+        270005
+      ],
+      [
+        3,
+        270005,
+        271245
+      ],
+      [
+        4,
+        271245,
+        273494
+      ],
+      [
+        5,
+        273495,
+        274295
+      ],
+      [
+        6,
+        274295,
+        275355
+      ],
+      [
+        7,
+        275355,
+        277750
+      ]
+    ]
+  }
+}

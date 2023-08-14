@@ -1,0 +1,86 @@
+{
+  "id": 5275,
+  "chapter_id": 68,
+  "verse_key": "68:4",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 3965,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_004_001.mp3",
+      "text": "وَإِنَّكَ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innaka"
+    },
+    {
+      "id": 3966,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_004_002.mp3",
+      "text": "لَعَلَىٰ",
+      "translation": "benar-benar di atas",
+      "transliteration": "laʿalā"
+    },
+    {
+      "id": 3967,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_004_003.mp3",
+      "text": "خُلُقٍ",
+      "translation": "budi pekerti",
+      "transliteration": "khuluqin"
+    },
+    {
+      "id": 3968,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_004_004.mp3",
+      "text": "عَظِيمٍۢ",
+      "translation": "luhur/agung",
+      "transliteration": "ʿaẓīmin"
+    },
+    {
+      "id": 3969,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya kamu benar-benar berbudi pekerti yang agung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24450,
+    "timestamp_to": 30950,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        24385,
+        26135
+      ],
+      [
+        2,
+        26135,
+        26915
+      ],
+      [
+        3,
+        26915,
+        27725
+      ],
+      [
+        4,
+        27725,
+        30820
+      ]
+    ]
+  }
+}

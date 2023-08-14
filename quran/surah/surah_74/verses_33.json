@@ -1,0 +1,73 @@
+{
+  "id": 5528,
+  "chapter_id": 74,
+  "verse_key": "74:33",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 35572,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_033_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "dan malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 35573,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_033_002.mp3",
+      "text": "إِذْ",
+      "translation": "tatkala",
+      "transliteration": "idh"
+    },
+    {
+      "id": 35574,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_033_003.mp3",
+      "text": "أَدْبَرَ",
+      "translation": "mundur/berlalu",
+      "transliteration": "adbara"
+    },
+    {
+      "id": 35575,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan malam ketika telah berlalu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 181480,
+    "timestamp_to": 184120,
+    "duration": 2640,
+    "segments": [
+      [
+        1,
+        181415,
+        182325
+      ],
+      [
+        2,
+        182325,
+        182805
+      ],
+      [
+        3,
+        182805,
+        184000
+      ]
+    ]
+  }
+}

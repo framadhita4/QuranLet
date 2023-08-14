@@ -1,0 +1,112 @@
+{
+  "id": 1851,
+  "chapter_id": 15,
+  "verse_key": "15:49",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 48307,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_049_002.mp3",
+      "text": "۞ نَبِّئْ",
+      "translation": "beritakanlah",
+      "transliteration": "nabbi"
+    },
+    {
+      "id": 48308,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_049_003.mp3",
+      "text": "عِبَادِىٓ",
+      "translation": "hamba-hambaKu",
+      "transliteration": "ʿibādī"
+    },
+    {
+      "id": 48309,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_049_004.mp3",
+      "text": "أَنِّىٓ",
+      "translation": "bahwasanya Aku",
+      "transliteration": "annī"
+    },
+    {
+      "id": 48310,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_049_005.mp3",
+      "text": "أَنَا",
+      "translation": "Aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 48311,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_049_006.mp3",
+      "text": "ٱلْغَفُورُ",
+      "translation": "Maha Pengampun",
+      "transliteration": "l-ghafūru"
+    },
+    {
+      "id": 48312,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_049_007.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 48313,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kabarkanlah kepada hamba-hamba-Ku bahwa sesungguhnya Aku-lah Yang Maha Pengampun lagi Maha Penyayang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 481080,
+    "timestamp_to": 492680,
+    "duration": 11600,
+    "segments": [
+      [
+        1,
+        481015,
+        481705
+      ],
+      [
+        2,
+        481705,
+        484585
+      ],
+      [
+        3,
+        484585,
+        487365
+      ],
+      [
+        4,
+        487365,
+        487755
+      ],
+      [
+        5,
+        487755,
+        488455
+      ],
+      [
+        6,
+        488455,
+        492560
+      ]
+    ]
+  }
+}

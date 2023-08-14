@@ -1,0 +1,190 @@
+{
+  "id": 2711,
+  "chapter_id": 23,
+  "verse_key": "23:38",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 39826,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 39827,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_002.mp3",
+      "text": "هُوَ",
+      "translation": "ia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 39828,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_003.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 39829,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_004.mp3",
+      "text": "رَجُلٌ",
+      "translation": "seorang laki-laki",
+      "transliteration": "rajulun"
+    },
+    {
+      "id": 39830,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_005.mp3",
+      "text": "ٱفْتَرَىٰ",
+      "translation": "ia mengada-adakan",
+      "transliteration": "if'tarā"
+    },
+    {
+      "id": 39831,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_006.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 39832,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_007.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 39833,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_008.mp3",
+      "text": "كَذِبًۭا",
+      "translation": "kebohongan",
+      "transliteration": "kadhiban"
+    },
+    {
+      "id": 39834,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_009.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 39835,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_010.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 39836,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_011.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 39837,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_038_012.mp3",
+      "text": "بِمُؤْمِنِينَ",
+      "translation": "dengan orang-orang yang beriman",
+      "transliteration": "bimu'minīna"
+    },
+    {
+      "id": 39838,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ia tidak lain hanyalah seorang yang mengada-adakan kebohongan terhadap Allah, dan kami sekali-kali tidak akan beriman kepadanya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 527150,
+    "timestamp_to": 537860,
+    "duration": 10710,
+    "segments": [
+      [
+        1,
+        527125,
+        527605
+      ],
+      [
+        2,
+        527605,
+        527905
+      ],
+      [
+        3,
+        527905,
+        528735
+      ],
+      [
+        4,
+        528735,
+        529405
+      ],
+      [
+        5,
+        529405,
+        530335
+      ],
+      [
+        6,
+        530335,
+        530695
+      ],
+      [
+        7,
+        530695,
+        531505
+      ],
+      [
+        8,
+        531505,
+        533005
+      ],
+      [
+        9,
+        533005,
+        533545
+      ],
+      [
+        10,
+        533545,
+        534125
+      ],
+      [
+        11,
+        534125,
+        534705
+      ],
+      [
+        12,
+        534705,
+        537810
+      ]
+    ]
+  }
+}

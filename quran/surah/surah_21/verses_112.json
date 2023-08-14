@@ -1,0 +1,164 @@
+{
+  "id": 2595,
+  "chapter_id": 21,
+  "verse_key": "21:112",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 331,
+  "juz_number": 17,
+  "text_uthmani": "قَـٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَـٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 74704,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_001.mp3",
+      "text": "قَـٰلَ",
+      "translation": "(Muhammad) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 74705,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 74706,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_003.mp3",
+      "text": "ٱحْكُم",
+      "translation": "berilah keputusan",
+      "transliteration": "uḥ'kum"
+    },
+    {
+      "id": 74707,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_004.mp3",
+      "text": "بِٱلْحَقِّ ۗ",
+      "translation": "dengan benar",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 74709,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_006.mp3",
+      "text": "وَرَبُّنَا",
+      "translation": "dan Tuhan kami",
+      "transliteration": "warabbunā"
+    },
+    {
+      "id": 74710,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_007.mp3",
+      "text": "ٱلرَّحْمَـٰنُ",
+      "translation": "Maha Pengasih",
+      "transliteration": "l-raḥmānu"
+    },
+    {
+      "id": 74711,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_008.mp3",
+      "text": "ٱلْمُسْتَعَانُ",
+      "translation": "tempat dimintai pertolongan",
+      "transliteration": "l-mus'taʿānu"
+    },
+    {
+      "id": 74712,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_009.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 74713,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_010.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 74714,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_112_011.mp3",
+      "text": "تَصِفُونَ",
+      "translation": "kamu sifatkan/katakan",
+      "transliteration": "taṣifūna"
+    },
+    {
+      "id": 74715,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١٢",
+      "translation": "(112)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Muhammad) berkata, \"Ya Tuhan-ku, berilah keputusan dengan adil <sup foot_note_id=\"975\">1</sup>. Dan Tuhan kami ialah Tuhan Yang Maha Pemurah lagi Yang dimohon pertolongan-Nya terhadap apa yang kamu katakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1557020,
+    "timestamp_to": 1569320,
+    "duration": 12300,
+    "segments": [
+      [
+        1,
+        1556955,
+        1557605
+      ],
+      [
+        2,
+        1557605,
+        1558185
+      ],
+      [
+        3,
+        1558185,
+        1559595
+      ],
+      [
+        4,
+        1559595,
+        1560985
+      ],
+      [
+        5,
+        1560985,
+        1561915
+      ],
+      [
+        6,
+        1561915,
+        1563205
+      ],
+      [
+        7,
+        1563205,
+        1564745
+      ],
+      [
+        8,
+        1564745,
+        1565565
+      ],
+      [
+        9,
+        1565565,
+        1566015
+      ],
+      [
+        10,
+        1566015,
+        1569230
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6143,
+  "chapter_id": 99,
+  "verse_key": "99:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 5612,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_005_001.mp3",
+      "text": "بِأَنَّ",
+      "translation": "karena sesungguhnya",
+      "transliteration": "bi-anna"
+    },
+    {
+      "id": 5613,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_005_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 5614,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_005_003.mp3",
+      "text": "أَوْحَىٰ",
+      "translation": "talah mewahyukan/memerintahkan",
+      "transliteration": "awḥā"
+    },
+    {
+      "id": 5615,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_005_004.mp3",
+      "text": "لَهَا",
+      "translation": "padanya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 5616,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena sesungguhnya Tuhan-mu telah memerintahkan (yang sedemikian itu) kepadanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19750,
+    "timestamp_to": 24610,
+    "duration": 4860,
+    "segments": [
+      [
+        1,
+        19215,
+        20965
+      ],
+      [
+        2,
+        20965,
+        21905
+      ],
+      [
+        3,
+        21905,
+        22775
+      ],
+      [
+        4,
+        22775,
+        23430
+      ]
+    ]
+  }
+}

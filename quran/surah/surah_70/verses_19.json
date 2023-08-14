@@ -1,0 +1,86 @@
+{
+  "id": 5394,
+  "chapter_id": 70,
+  "verse_key": "70:19",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 22124,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_019_002.mp3",
+      "text": "۞ إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 22125,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_019_003.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 22126,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_019_004.mp3",
+      "text": "خُلِقَ",
+      "translation": "diciptakan",
+      "transliteration": "khuliqa"
+    },
+    {
+      "id": 22127,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_019_005.mp3",
+      "text": "هَلُوعًا",
+      "translation": "keluh-kesah/loba-kikir",
+      "transliteration": "halūʿan"
+    },
+    {
+      "id": 22128,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya manusia diciptakan bersifat keluh kesah lagi kikir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 100380,
+    "timestamp_to": 106000,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        99995,
+        101295
+      ],
+      [
+        2,
+        101295,
+        103255
+      ],
+      [
+        3,
+        103255,
+        103955
+      ],
+      [
+        4,
+        103955,
+        105590
+      ]
+    ]
+  }
+}

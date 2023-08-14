@@ -1,0 +1,69 @@
+{
+  "id": 3,
+  "chapter_id": 1,
+  "verse_key": "1:3",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+  "words": [
+    {
+      "id": 2953,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_003_001.mp3",
+      "text": "ٱلرَّحْمَـٰنِ",
+      "translation": "Maha Pengasih",
+      "transliteration": "al-raḥmāni"
+    },
+    {
+      "id": 2954,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_003_002.mp3",
+      "text": "ٱلرَّحِيمِ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmi"
+    },
+    {
+      "id": 2955,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Pemurah lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11680,
+    "timestamp_to": 16300,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        11615,
+        12855
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        12855,
+        16180
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ]
+  }
+}

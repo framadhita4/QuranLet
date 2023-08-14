@@ -1,0 +1,86 @@
+{
+  "id": 5540,
+  "chapter_id": 74,
+  "verse_key": "74:45",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 45271,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_045_001.mp3",
+      "text": "وَكُنَّا",
+      "translation": "dan kami adalah",
+      "transliteration": "wakunnā"
+    },
+    {
+      "id": 45272,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_045_002.mp3",
+      "text": "نَخُوضُ",
+      "translation": "kami mencela/memperolok-olok",
+      "transliteration": "nakhūḍu"
+    },
+    {
+      "id": 45273,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_045_003.mp3",
+      "text": "مَعَ",
+      "translation": "bersama",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 45274,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_045_004.mp3",
+      "text": "ٱلْخَآئِضِينَ",
+      "translation": "orang-orang yang mencela/memperolok-olok",
+      "transliteration": "l-khāiḍīna"
+    },
+    {
+      "id": 45275,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan adalah kami membicarakan yang batil, bersama dengan orang-orang yang membicarakannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 239020,
+    "timestamp_to": 246390,
+    "duration": 7370,
+    "segments": [
+      [
+        1,
+        238945,
+        240585
+      ],
+      [
+        2,
+        240585,
+        241365
+      ],
+      [
+        3,
+        241365,
+        241695
+      ],
+      [
+        4,
+        241695,
+        246250
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5824,
+  "chapter_id": 81,
+  "verse_key": "81:24",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 27140,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_024_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 27141,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_024_002.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 27142,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_024_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 27143,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_024_004.mp3",
+      "text": "ٱلْغَيْبِ",
+      "translation": "gaib",
+      "transliteration": "l-ghaybi"
+    },
+    {
+      "id": 27144,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_024_005.mp3",
+      "text": "بِضَنِينٍۢ",
+      "translation": "dengan kikir",
+      "transliteration": "biḍanīnin"
+    },
+    {
+      "id": 27145,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dia (Muhammad) bukanlah seorang yang bakhil untuk menerangkan yang gaib.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87460,
+    "timestamp_to": 92610,
+    "duration": 5150,
+    "segments": [
+      [
+        1,
+        87415,
+        88025
+      ],
+      [
+        2,
+        88025,
+        88355
+      ],
+      [
+        3,
+        88355,
+        88835
+      ],
+      [
+        4,
+        88835,
+        89745
+      ],
+      [
+        5,
+        89745,
+        92500
+      ]
+    ]
+  }
+}

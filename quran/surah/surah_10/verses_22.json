@@ -1,0 +1,627 @@
+{
+  "id": 1386,
+  "chapter_id": 10,
+  "verse_key": "10:22",
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "ruku_number": 174,
+  "manzil_number": 3,
+  "page_number": 211,
+  "juz_number": 11,
+  "text_uthmani": "هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 24702,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_001.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 24703,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 24704,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_003.mp3",
+      "text": "يُسَيِّرُكُمْ",
+      "translation": "menjadikan kamu dapat berjalan",
+      "transliteration": "yusayyirukum"
+    },
+    {
+      "id": 24705,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 24706,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_005.mp3",
+      "text": "ٱلْبَرِّ",
+      "translation": "daratan",
+      "transliteration": "l-bari"
+    },
+    {
+      "id": 24707,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_006.mp3",
+      "text": "وَٱلْبَحْرِ ۖ",
+      "translation": "dan lautan",
+      "transliteration": "wal-baḥri"
+    },
+    {
+      "id": 24709,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_008.mp3",
+      "text": "حَتَّىٰٓ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 24710,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_009.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 24711,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_010.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 24712,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_011.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 24713,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_012.mp3",
+      "text": "ٱلْفُلْكِ",
+      "translation": "bahtera",
+      "transliteration": "l-ful'ki"
+    },
+    {
+      "id": 24714,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_013.mp3",
+      "text": "وَجَرَيْنَ",
+      "translation": "dan meluncur/berlayarlah ia",
+      "transliteration": "wajarayna"
+    },
+    {
+      "id": 24715,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_014.mp3",
+      "text": "بِهِم",
+      "translation": "dengan mereka",
+      "transliteration": "bihim"
+    },
+    {
+      "id": 24716,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_015.mp3",
+      "text": "بِرِيحٍۢ",
+      "translation": "dengan angin",
+      "transliteration": "birīḥin"
+    },
+    {
+      "id": 24717,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_016.mp3",
+      "text": "طَيِّبَةٍۢ",
+      "translation": "yang baik",
+      "transliteration": "ṭayyibatin"
+    },
+    {
+      "id": 24718,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_017.mp3",
+      "text": "وَفَرِحُوا۟",
+      "translation": "dan mereka bergembira",
+      "transliteration": "wafariḥū"
+    },
+    {
+      "id": 24719,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_018.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya/karenanya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 24720,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_019.mp3",
+      "text": "جَآءَتْهَا",
+      "translation": "datang kepadanya",
+      "transliteration": "jāathā"
+    },
+    {
+      "id": 24721,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_020.mp3",
+      "text": "رِيحٌ",
+      "translation": "angin",
+      "transliteration": "rīḥun"
+    },
+    {
+      "id": 24722,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_021.mp3",
+      "text": "عَاصِفٌۭ",
+      "translation": "badai",
+      "transliteration": "ʿāṣifun"
+    },
+    {
+      "id": 24723,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_022.mp3",
+      "text": "وَجَآءَهُمُ",
+      "translation": "dan datang/menimpa mereka",
+      "transliteration": "wajāahumu"
+    },
+    {
+      "id": 24724,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_023.mp3",
+      "text": "ٱلْمَوْجُ",
+      "translation": "gelombang",
+      "transliteration": "l-mawju"
+    },
+    {
+      "id": 24725,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_024.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 24726,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_025.mp3",
+      "text": "كُلِّ",
+      "translation": "tiap-tiap/segenap",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 24727,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_026.mp3",
+      "text": "مَكَانٍۢ",
+      "translation": "tempat/penjuru",
+      "transliteration": "makānin"
+    },
+    {
+      "id": 24728,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_027.mp3",
+      "text": "وَظَنُّوٓا۟",
+      "translation": "dan mereka mengira",
+      "transliteration": "waẓannū"
+    },
+    {
+      "id": 24729,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_028.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "bahwasanya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 24730,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_029.mp3",
+      "text": "أُحِيطَ",
+      "translation": "diliputi/terkepung",
+      "transliteration": "uḥīṭa"
+    },
+    {
+      "id": 24731,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_030.mp3",
+      "text": "بِهِمْ ۙ",
+      "translation": "dengan mereka",
+      "transliteration": "bihim"
+    },
+    {
+      "id": 24733,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_032.mp3",
+      "text": "دَعَوُا۟",
+      "translation": "mereka berdoa",
+      "transliteration": "daʿawū"
+    },
+    {
+      "id": 24734,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_033.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 24735,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_034.mp3",
+      "text": "مُخْلِصِينَ",
+      "translation": "mengikhlaskan",
+      "transliteration": "mukh'liṣīna"
+    },
+    {
+      "id": 24736,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_035.mp3",
+      "text": "لَهُ",
+      "translation": "kepadaNya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 24737,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_036.mp3",
+      "text": "ٱلدِّينَ",
+      "translation": "ketaatan/agama",
+      "transliteration": "l-dīna"
+    },
+    {
+      "id": 24738,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_037.mp3",
+      "text": "لَئِنْ",
+      "translation": "sesungguhnya jika",
+      "transliteration": "la-in"
+    },
+    {
+      "id": 24739,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_038.mp3",
+      "text": "أَنجَيْتَنَا",
+      "translation": "Engkau menyelamatkan kami",
+      "transliteration": "anjaytanā"
+    },
+    {
+      "id": 24740,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_039.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 24741,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_040.mp3",
+      "text": "هَـٰذِهِۦ",
+      "translation": "ini",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 24742,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_041.mp3",
+      "text": "لَنَكُونَنَّ",
+      "translation": "pastilah kami berada/menjadi",
+      "transliteration": "lanakūnanna"
+    },
+    {
+      "id": 24743,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_042.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 24744,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_022_043.mp3",
+      "text": "ٱلشَّـٰكِرِينَ",
+      "translation": "orang-orang yang bersyukur",
+      "transliteration": "l-shākirīna"
+    },
+    {
+      "id": 24745,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah Tuhan yang menjadikan kamu dapat berjalan di daratan, (berlayar) di lautan.  Sehingga apabila kamu berada di dalam bahtera, dan meluncurlah bahtera itu membawa orang-orang yang ada di dalamnya dengan tiupan angin yang baik, dan mereka bergembira karenanya, datanglah angin badai, dan (apabila) gelombang dari segenap penjuru menimpanya, dan mereka yakin bahwa mereka telah terkepung (bahaya), maka mereka berdoa kepada Allah dengan mengikhlaskan ketaatan kepada-Nya semata-mata.  (Mereka berkata), \"Sesungguhnya jika Engkau menyelamatkan kami dari bahaya ini, pastilah kami akan termasuk orang-orang yang bersyukur\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 585860,
+    "timestamp_to": 660390,
+    "duration": 74470,
+    "segments": [
+      [
+        1,
+        585815,
+        586235
+      ],
+      [
+        2,
+        586235,
+        587235
+      ],
+      [
+        3,
+        587235,
+        588795
+      ],
+      [
+        4,
+        588795,
+        589065
+      ],
+      [
+        5,
+        589065,
+        589935
+      ],
+      [
+        6,
+        589935,
+        590875
+      ],
+      [
+        7,
+        590895,
+        592205
+      ],
+      [
+        18,
+        592205,
+        594384
+      ],
+      [
+        9,
+        594385,
+        595975
+      ],
+      [
+        10,
+        595975,
+        596245
+      ],
+      [
+        11,
+        596245,
+        597125
+      ],
+      [
+        12,
+        597125,
+        598225
+      ],
+      [
+        13,
+        598225,
+        599585
+      ],
+      [
+        12,
+        599585,
+        600595
+      ],
+      [
+        13,
+        600595,
+        602125
+      ],
+      [
+        14,
+        602125,
+        603965
+      ],
+      [
+        15,
+        603965,
+        606115
+      ],
+      [
+        16,
+        606115,
+        607135
+      ],
+      [
+        17,
+        607135,
+        607855
+      ],
+      [
+        18,
+        607855,
+        610785
+      ],
+      [
+        19,
+        610785,
+        611505
+      ],
+      [
+        20,
+        611505,
+        612745
+      ],
+      [
+        18,
+        612765,
+        616995
+      ],
+      [
+        19,
+        616995,
+        617835
+      ],
+      [
+        20,
+        617835,
+        619745
+      ],
+      [
+        21,
+        619745,
+        622775
+      ],
+      [
+        22,
+        622775,
+        623735
+      ],
+      [
+        23,
+        623735,
+        624695
+      ],
+      [
+        24,
+        624695,
+        625335
+      ],
+      [
+        25,
+        625335,
+        626485
+      ],
+      [
+        26,
+        626485,
+        629215
+      ],
+      [
+        26,
+        629245,
+        630585
+      ],
+      [
+        27,
+        630585,
+        633535
+      ],
+      [
+        27,
+        633535,
+        635435
+      ],
+      [
+        28,
+        635435,
+        636405
+      ],
+      [
+        29,
+        636405,
+        637055
+      ],
+      [
+        30,
+        637055,
+        637625
+      ],
+      [
+        31,
+        637625,
+        638645
+      ],
+      [
+        32,
+        638645,
+        639905
+      ],
+      [
+        33,
+        639905,
+        640395
+      ],
+      [
+        34,
+        640395,
+        644305
+      ],
+      [
+        30,
+        644335,
+        645095
+      ],
+      [
+        31,
+        645095,
+        646055
+      ],
+      [
+        32,
+        646055,
+        647455
+      ],
+      [
+        33,
+        647455,
+        647815
+      ],
+      [
+        34,
+        647815,
+        648825
+      ],
+      [
+        35,
+        648825,
+        649485
+      ],
+      [
+        36,
+        649485,
+        652135
+      ],
+      [
+        37,
+        652135,
+        652575
+      ],
+      [
+        38,
+        652575,
+        653725
+      ],
+      [
+        39,
+        653725,
+        656095
+      ],
+      [
+        40,
+        656095,
+        656445
+      ],
+      [
+        41,
+        656445,
+        660260
+      ]
+    ]
+  }
+}

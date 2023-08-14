@@ -1,0 +1,73 @@
+{
+  "id": 5384,
+  "chapter_id": 70,
+  "verse_key": "70:9",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 10295,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_009_001.mp3",
+      "text": "وَتَكُونُ",
+      "translation": "dan adalah",
+      "transliteration": "watakūnu"
+    },
+    {
+      "id": 10296,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_009_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 10297,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_009_003.mp3",
+      "text": "كَٱلْعِهْنِ",
+      "translation": "seperti bulu",
+      "transliteration": "kal-ʿih'ni"
+    },
+    {
+      "id": 10298,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan gunung-gunung menjadi seperti bulu (yang berterbangan).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 44830,
+    "timestamp_to": 48410,
+    "duration": 3580,
+    "segments": [
+      [
+        1,
+        44745,
+        45765
+      ],
+      [
+        2,
+        45765,
+        46895
+      ],
+      [
+        3,
+        46895,
+        48270
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5385,
+  "chapter_id": 70,
+  "verse_key": "70:10",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 11526,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_010_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 11527,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_010_002.mp3",
+      "text": "يَسْـَٔلُ",
+      "translation": "menanyakan",
+      "transliteration": "yasalu"
+    },
+    {
+      "id": 11528,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_010_003.mp3",
+      "text": "حَمِيمٌ",
+      "translation": "teman akrab",
+      "transliteration": "ḥamīmun"
+    },
+    {
+      "id": 11529,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_010_004.mp3",
+      "text": "حَمِيمًۭا",
+      "translation": "teman akrab",
+      "transliteration": "ḥamīman"
+    },
+    {
+      "id": 11530,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidak ada seorang teman akrab pun menanyakan temannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48410,
+    "timestamp_to": 52560,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        48355,
+        49005
+      ],
+      [
+        2,
+        49005,
+        49785
+      ],
+      [
+        3,
+        49785,
+        50815
+      ],
+      [
+        4,
+        50815,
+        52450
+      ]
+    ]
+  }
+}

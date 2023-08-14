@@ -1,0 +1,130 @@
+{
+  "id": 5865,
+  "chapter_id": 83,
+  "verse_key": "83:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 19687,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 19688,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_002.mp3",
+      "text": "يُقَالُ",
+      "translation": "dikatakan",
+      "transliteration": "yuqālu"
+    },
+    {
+      "id": 19689,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 19690,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_004.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang (azab)",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 19691,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_005.mp3",
+      "text": "كُنتُم",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 19692,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_006.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 19693,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_017_007.mp3",
+      "text": "تُكَذِّبُونَ",
+      "translation": "kamu mendustakan",
+      "transliteration": "tukadhibūna"
+    },
+    {
+      "id": 19694,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian dikatakan (kepada mereka), \"Inilah azab yang dahulu selalu kamu dustakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 124970,
+    "timestamp_to": 135470,
+    "duration": 10500,
+    "segments": [
+      [
+        1,
+        124885,
+        126045
+      ],
+      [
+        2,
+        126045,
+        127005
+      ],
+      [
+        3,
+        127005,
+        127595
+      ],
+      [
+        4,
+        127595,
+        128495
+      ],
+      [
+        5,
+        128495,
+        129975
+      ],
+      [
+        5,
+        129975,
+        131225
+      ],
+      [
+        6,
+        131225,
+        131805
+      ],
+      [
+        7,
+        131805,
+        135310
+      ]
+    ]
+  }
+}

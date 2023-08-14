@@ -1,0 +1,86 @@
+{
+  "id": 5658,
+  "chapter_id": 77,
+  "verse_key": "77:36",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 38121,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_036_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 38122,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_036_002.mp3",
+      "text": "يُؤْذَنُ",
+      "translation": "diizinkan",
+      "transliteration": "yu'dhanu"
+    },
+    {
+      "id": 38123,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_036_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 38124,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_036_004.mp3",
+      "text": "فَيَعْتَذِرُونَ",
+      "translation": "maka/sehingga mereka minta uzur",
+      "transliteration": "fayaʿtadhirūna"
+    },
+    {
+      "id": 38125,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tidak diizinkan kepada mereka minta uzur sehingga mereka (dapat) minta uzur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 175900,
+    "timestamp_to": 181460,
+    "duration": 5570,
+    "segments": [
+      [
+        1,
+        175795,
+        176415
+      ],
+      [
+        2,
+        176415,
+        177205
+      ],
+      [
+        3,
+        177205,
+        177765
+      ],
+      [
+        4,
+        177765,
+        181280
+      ]
+    ]
+  }
+}

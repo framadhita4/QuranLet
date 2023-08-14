@@ -1,0 +1,99 @@
+{
+  "id": 1847,
+  "chapter_id": 15,
+  "verse_key": "15:45",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 45550,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_045_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 45551,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_045_002.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 45552,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_045_003.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 45553,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_045_004.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "surga",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 45554,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_045_005.mp3",
+      "text": "وَعُيُونٍ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 45555,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa itu berada dalam surga (taman-taman) dan (di dekat) mata air-mata air (yang mengalir).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 444870,
+    "timestamp_to": 453390,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        444365,
+        445455
+      ],
+      [
+        2,
+        445455,
+        447095
+      ],
+      [
+        3,
+        447095,
+        447575
+      ],
+      [
+        4,
+        447575,
+        450065
+      ],
+      [
+        5,
+        450065,
+        452820
+      ]
+    ]
+  }
+}

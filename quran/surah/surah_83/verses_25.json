@@ -1,0 +1,86 @@
+{
+  "id": 5873,
+  "chapter_id": 83,
+  "verse_key": "83:25",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 28159,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_025_001.mp3",
+      "text": "يُسْقَوْنَ",
+      "translation": "mereka diberi minuman",
+      "transliteration": "yus'qawna"
+    },
+    {
+      "id": 28160,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_025_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 28161,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_025_003.mp3",
+      "text": "رَّحِيقٍۢ",
+      "translation": "minuman yang terpilih",
+      "transliteration": "raḥīqin"
+    },
+    {
+      "id": 28162,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_025_004.mp3",
+      "text": "مَّخْتُومٍ",
+      "translation": "dicap/dilak",
+      "transliteration": "makhtūmin"
+    },
+    {
+      "id": 28163,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka diberi minum dari khamar murni yang dilak (tempatnya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 182900,
+    "timestamp_to": 189460,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        182835,
+        184065
+      ],
+      [
+        2,
+        184065,
+        184295
+      ],
+      [
+        3,
+        184295,
+        185355
+      ],
+      [
+        4,
+        185355,
+        189230
+      ]
+    ]
+  }
+}

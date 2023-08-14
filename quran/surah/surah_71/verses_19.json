@@ -1,0 +1,99 @@
+{
+  "id": 5438,
+  "chapter_id": 71,
+  "verse_key": "71:19",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 21665,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_019_001.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 21666,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_019_002.mp3",
+      "text": "جَعَلَ",
+      "translation": "menjadikan",
+      "transliteration": "jaʿala"
+    },
+    {
+      "id": 21667,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_019_003.mp3",
+      "text": "لَكُمُ",
+      "translation": "bagi kalian",
+      "transliteration": "lakumu"
+    },
+    {
+      "id": 21668,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_019_004.mp3",
+      "text": "ٱلْأَرْضَ",
+      "translation": "bumi",
+      "transliteration": "l-arḍa"
+    },
+    {
+      "id": 21669,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_019_005.mp3",
+      "text": "بِسَاطًۭا",
+      "translation": "hamparan",
+      "transliteration": "bisāṭan"
+    },
+    {
+      "id": 21670,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah menjadikan bumi untukmu sebagai hamparan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 171070,
+    "timestamp_to": 175620,
+    "duration": 4550,
+    "segments": [
+      [
+        1,
+        170535,
+        171485
+      ],
+      [
+        2,
+        171485,
+        172125
+      ],
+      [
+        3,
+        172125,
+        172715
+      ],
+      [
+        4,
+        172715,
+        173515
+      ],
+      [
+        5,
+        173515,
+        175020
+      ]
+    ]
+  }
+}

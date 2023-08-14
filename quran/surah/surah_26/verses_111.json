@@ -1,0 +1,99 @@
+{
+  "id": 3043,
+  "chapter_id": 26,
+  "verse_key": "26:111",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 74386,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_111_002.mp3",
+      "text": "۞ قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 74387,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_111_003.mp3",
+      "text": "أَنُؤْمِنُ",
+      "translation": "apakah kami akan beriman",
+      "transliteration": "anu'minu"
+    },
+    {
+      "id": 74388,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_111_004.mp3",
+      "text": "لَكَ",
+      "translation": "kepadamu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 74389,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_111_005.mp3",
+      "text": "وَٱتَّبَعَكَ",
+      "translation": "dan mengikuti kamu",
+      "transliteration": "wa-ittabaʿaka"
+    },
+    {
+      "id": 74390,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_111_006.mp3",
+      "text": "ٱلْأَرْذَلُونَ",
+      "translation": "orang-orang yang hina",
+      "transliteration": "l-ardhalūna"
+    },
+    {
+      "id": 74391,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١١",
+      "translation": "(111)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Apakah kami akan beriman kepadamu, padahal yang mengikuti kamu ialah orang-orang yang hina?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1007670,
+    "timestamp_to": 1015510,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        1007615,
+        1009485
+      ],
+      [
+        2,
+        1009485,
+        1010465
+      ],
+      [
+        3,
+        1010465,
+        1010955
+      ],
+      [
+        4,
+        1010955,
+        1012165
+      ],
+      [
+        5,
+        1012165,
+        1015390
+      ]
+    ]
+  }
+}

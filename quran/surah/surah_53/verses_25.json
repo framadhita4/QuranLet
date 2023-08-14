@@ -1,0 +1,73 @@
+{
+  "id": 4809,
+  "chapter_id": 53,
+  "verse_key": "53:25",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 27869,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_025_001.mp3",
+      "text": "فَلِلَّهِ",
+      "translation": "maka kepunyaan Allah",
+      "transliteration": "falillahi"
+    },
+    {
+      "id": 27870,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_025_002.mp3",
+      "text": "ٱلْـَٔاخِرَةُ",
+      "translation": "kehidupan akhirat",
+      "transliteration": "l-ākhiratu"
+    },
+    {
+      "id": 27871,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_025_003.mp3",
+      "text": "وَٱلْأُولَىٰ",
+      "translation": "dan kehidupan dunia",
+      "transliteration": "wal-ūlā"
+    },
+    {
+      "id": 27872,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Tidak), maka hanya bagi Allah kehidupan akhirat dan kehidupan dunia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 157210,
+    "timestamp_to": 161730,
+    "duration": 4520,
+    "segments": [
+      [
+        1,
+        156775,
+        158105
+      ],
+      [
+        2,
+        158105,
+        159565
+      ],
+      [
+        3,
+        159565,
+        160920
+      ]
+    ]
+  }
+}

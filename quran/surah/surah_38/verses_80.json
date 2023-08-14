@@ -1,0 +1,86 @@
+{
+  "id": 4050,
+  "chapter_id": 38,
+  "verse_key": "38:80",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 64450,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_080_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 64451,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_080_002.mp3",
+      "text": "فَإِنَّكَ",
+      "translation": "maka sesungguhnya kamu",
+      "transliteration": "fa-innaka"
+    },
+    {
+      "id": 64452,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_080_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 64453,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_080_004.mp3",
+      "text": "ٱلْمُنظَرِينَ",
+      "translation": "orang-orang yang diberi tangguh",
+      "transliteration": "l-munẓarīna"
+    },
+    {
+      "id": 64454,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Sesungguhnya kamu termasuk orang-orang yang diberi tangguh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 984610,
+    "timestamp_to": 991560,
+    "duration": 6950,
+    "segments": [
+      [
+        1,
+        984565,
+        985255
+      ],
+      [
+        2,
+        985255,
+        986695
+      ],
+      [
+        3,
+        986695,
+        987015
+      ],
+      [
+        4,
+        987015,
+        991490
+      ]
+    ]
+  }
+}

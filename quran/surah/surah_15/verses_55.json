@@ -1,0 +1,125 @@
+{
+  "id": 1857,
+  "chapter_id": 15,
+  "verse_key": "15:55",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "قَالُوا۟ بَشَّرْنَـٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَـٰنِطِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 51782,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "(mereka) berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 51783,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_002.mp3",
+      "text": "بَشَّرْنَـٰكَ",
+      "translation": "kami membei kabar gembira kepadamu",
+      "transliteration": "basharnāka"
+    },
+    {
+      "id": 51784,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan benar",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 51785,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_004.mp3",
+      "text": "فَلَا",
+      "translation": "maka janganlah",
+      "transliteration": "falā"
+    },
+    {
+      "id": 51786,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_005.mp3",
+      "text": "تَكُن",
+      "translation": "adalah kamu",
+      "transliteration": "takun"
+    },
+    {
+      "id": 51787,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_006.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 51788,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_055_007.mp3",
+      "text": "ٱلْقَـٰنِطِينَ",
+      "translation": "orang-orang yang berputus asa",
+      "transliteration": "l-qāniṭīna"
+    },
+    {
+      "id": 51789,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Kami menyampaikan kabar gembira kepadamu dengan benar, maka janganlah kamu termasuk orang-orang yang berputus asa\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 538280,
+    "timestamp_to": 547160,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        538255,
+        539135
+      ],
+      [
+        2,
+        539135,
+        540665
+      ],
+      [
+        3,
+        540665,
+        541735
+      ],
+      [
+        4,
+        541735,
+        542345
+      ],
+      [
+        5,
+        542345,
+        542825
+      ],
+      [
+        6,
+        542825,
+        544155
+      ],
+      [
+        7,
+        544155,
+        547070
+      ]
+    ]
+  }
+}

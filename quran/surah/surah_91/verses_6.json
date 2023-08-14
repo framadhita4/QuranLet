@@ -1,0 +1,73 @@
+{
+  "id": 6049,
+  "chapter_id": 91,
+  "verse_key": "91:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 7077,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_006_001.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 7078,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_006_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 7079,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_006_003.mp3",
+      "text": "طَحَىٰهَا",
+      "translation": "penghamparannya",
+      "transliteration": "ṭaḥāhā"
+    },
+    {
+      "id": 7080,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bumi serta penghamparannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 20030,
+    "timestamp_to": 23370,
+    "duration": 3340,
+    "segments": [
+      [
+        1,
+        19615,
+        20695
+      ],
+      [
+        2,
+        20695,
+        21265
+      ],
+      [
+        3,
+        21265,
+        22550
+      ]
+    ]
+  }
+}

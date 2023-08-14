@@ -1,0 +1,151 @@
+{
+  "id": 4635,
+  "chapter_id": 50,
+  "verse_key": "50:5",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 4854,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 4855,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_002.mp3",
+      "text": "كَذَّبُوا۟",
+      "translation": "mereka telah mendustakan",
+      "transliteration": "kadhabū"
+    },
+    {
+      "id": 4856,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 4857,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_004.mp3",
+      "text": "لَمَّا",
+      "translation": "tatkala",
+      "transliteration": "lammā"
+    },
+    {
+      "id": 4858,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_005.mp3",
+      "text": "جَآءَهُمْ",
+      "translation": "datang kepada mereka",
+      "transliteration": "jāahum"
+    },
+    {
+      "id": 4859,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_006.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 4860,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_007.mp3",
+      "text": "فِىٓ",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 4861,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_008.mp3",
+      "text": "أَمْرٍۢ",
+      "translation": "perkara",
+      "transliteration": "amrin"
+    },
+    {
+      "id": 4862,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_005_009.mp3",
+      "text": "مَّرِيجٍ",
+      "translation": "bingung",
+      "transliteration": "marījin"
+    },
+    {
+      "id": 4863,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya, mereka telah mendustakan kebenaran tatkala kebenaran itu datang kepada mereka, maka mereka berada dalam keadaan kacau balau.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 52090,
+    "timestamp_to": 65990,
+    "duration": 13900,
+    "segments": [
+      [
+        1,
+        52005,
+        52515
+      ],
+      [
+        2,
+        52515,
+        53675
+      ],
+      [
+        3,
+        53675,
+        54835
+      ],
+      [
+        4,
+        54835,
+        56275
+      ],
+      [
+        5,
+        56275,
+        58635
+      ],
+      [
+        6,
+        58635,
+        59335
+      ],
+      [
+        7,
+        59335,
+        61094
+      ],
+      [
+        8,
+        61095,
+        61805
+      ],
+      [
+        9,
+        61805,
+        65710
+      ]
+    ]
+  }
+}

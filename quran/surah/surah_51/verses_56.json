@@ -1,0 +1,112 @@
+{
+  "id": 4731,
+  "chapter_id": 51,
+  "verse_key": "51:56",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 52169,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_056_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 52170,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_056_002.mp3",
+      "text": "خَلَقْتُ",
+      "translation": "Aku menciptakan",
+      "transliteration": "khalaqtu"
+    },
+    {
+      "id": 52171,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_056_003.mp3",
+      "text": "ٱلْجِنَّ",
+      "translation": "jin",
+      "transliteration": "l-jina"
+    },
+    {
+      "id": 52172,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_056_004.mp3",
+      "text": "وَٱلْإِنسَ",
+      "translation": "dan manusia",
+      "transliteration": "wal-insa"
+    },
+    {
+      "id": 52173,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_056_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 52174,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_056_006.mp3",
+      "text": "لِيَعْبُدُونِ",
+      "translation": "supaya mereka menyembah-Ku",
+      "transliteration": "liyaʿbudūni"
+    },
+    {
+      "id": 52175,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan aku tidak menciptakan jin dan manusia melainkan supaya mereka menyembah-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 492260,
+    "timestamp_to": 502210,
+    "duration": 9950,
+    "segments": [
+      [
+        1,
+        492205,
+        492845
+      ],
+      [
+        2,
+        492845,
+        493765
+      ],
+      [
+        3,
+        493765,
+        495715
+      ],
+      [
+        4,
+        495715,
+        497675
+      ],
+      [
+        5,
+        497675,
+        498595
+      ],
+      [
+        6,
+        498595,
+        502090
+      ]
+    ]
+  }
+}

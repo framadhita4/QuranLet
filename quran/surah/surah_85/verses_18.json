@@ -1,0 +1,60 @@
+{
+  "id": 5927,
+  "chapter_id": 85,
+  "verse_key": "85:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "فِرْعَوْنَ وَثَمُودَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 20099,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_018_001.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 20100,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_018_002.mp3",
+      "text": "وَثَمُودَ",
+      "translation": "dan Samud",
+      "transliteration": "wathamūda"
+    },
+    {
+      "id": 20101,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu kaum) Firʻawn dan (kaum) Ṡamūd?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 147320,
+    "timestamp_to": 152100,
+    "duration": 4780,
+    "segments": [
+      [
+        1,
+        147255,
+        148255
+      ],
+      [
+        2,
+        148255,
+        151950
+      ]
+    ]
+  }
+}

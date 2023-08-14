@@ -1,0 +1,73 @@
+{
+  "id": 5943,
+  "chapter_id": 86,
+  "verse_key": "86:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 14495,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_012_001.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 14496,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_012_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "mempunyai",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 14497,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_012_003.mp3",
+      "text": "ٱلصَّدْعِ",
+      "translation": "tumbuh-tumbuhan",
+      "transliteration": "l-ṣadʿi"
+    },
+    {
+      "id": 14498,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bumi yang mempunyai tumbuh-tumbuhan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 62790,
+    "timestamp_to": 65920,
+    "duration": 3140,
+    "segments": [
+      [
+        1,
+        62705,
+        63835
+      ],
+      [
+        2,
+        63835,
+        64435
+      ],
+      [
+        3,
+        64435,
+        65790
+      ]
+    ]
+  }
+}

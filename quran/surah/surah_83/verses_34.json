@@ -1,0 +1,112 @@
+{
+  "id": 5882,
+  "chapter_id": 83,
+  "verse_key": "83:34",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 36431,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_001.mp3",
+      "text": "فَٱلْيَوْمَ",
+      "translation": "maka pada hari",
+      "transliteration": "fal-yawma"
+    },
+    {
+      "id": 36432,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 36433,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 36434,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 36435,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_005.mp3",
+      "text": "ٱلْكُفَّارِ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kufāri"
+    },
+    {
+      "id": 36436,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_006.mp3",
+      "text": "يَضْحَكُونَ",
+      "translation": "menertawakan mereka",
+      "transliteration": "yaḍḥakūna"
+    },
+    {
+      "id": 36437,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka pada hari ini, orang-orang yang beriman menertawakan orang-orang kafir,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 262060,
+    "timestamp_to": 270650,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        262025,
+        263065
+      ],
+      [
+        2,
+        263065,
+        264135
+      ],
+      [
+        3,
+        264135,
+        265245
+      ],
+      [
+        4,
+        265245,
+        265585
+      ],
+      [
+        5,
+        265585,
+        266795
+      ],
+      [
+        6,
+        266795,
+        270510
+      ]
+    ]
+  }
+}

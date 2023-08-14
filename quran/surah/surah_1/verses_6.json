@@ -1,0 +1,73 @@
+{
+  "id": 6,
+  "chapter_id": 1,
+  "verse_key": "1:6",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+  "words": [
+    {
+      "id": 6844,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_006_001.mp3",
+      "text": "ٱهْدِنَا",
+      "translation": "tunjukkan kami",
+      "transliteration": "ih'dinā"
+    },
+    {
+      "id": 6845,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_006_002.mp3",
+      "text": "ٱلصِّرَٰطَ",
+      "translation": "jalan",
+      "transliteration": "l-ṣirāṭa"
+    },
+    {
+      "id": 6846,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_006_003.mp3",
+      "text": "ٱلْمُسْتَقِيمَ",
+      "translation": "lurus",
+      "transliteration": "l-mus'taqīma"
+    },
+    {
+      "id": 6847,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tunjukilah kami<sup foot_note_id=\"8\">1</sup> jalan yang lurus,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27660,
+    "timestamp_to": 33250,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        27585,
+        28325
+      ],
+      [
+        2,
+        28325,
+        29225
+      ],
+      [
+        3,
+        29225,
+        33110
+      ]
+    ]
+  }
+}

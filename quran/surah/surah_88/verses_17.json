@@ -1,0 +1,112 @@
+{
+  "id": 5984,
+  "chapter_id": 88,
+  "verse_key": "88:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 19310,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_017_001.mp3",
+      "text": "أَفَلَا",
+      "translation": "maka apakah tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 19311,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_017_002.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "mereka memperhatikan",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 19312,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_017_003.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 19313,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_017_004.mp3",
+      "text": "ٱلْإِبِلِ",
+      "translation": "unta",
+      "transliteration": "l-ibili"
+    },
+    {
+      "id": 19314,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_017_005.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 19315,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_017_006.mp3",
+      "text": "خُلِقَتْ",
+      "translation": "ia diciptakan",
+      "transliteration": "khuliqat"
+    },
+    {
+      "id": 19316,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah mereka tidak memperhatikan unta, bagaimana dia diciptakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 70060,
+    "timestamp_to": 76090,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        69985,
+        70825
+      ],
+      [
+        2,
+        70825,
+        72725
+      ],
+      [
+        3,
+        72725,
+        73115
+      ],
+      [
+        4,
+        73115,
+        74035
+      ],
+      [
+        5,
+        74035,
+        74655
+      ],
+      [
+        6,
+        74655,
+        75980
+      ]
+    ]
+  }
+}

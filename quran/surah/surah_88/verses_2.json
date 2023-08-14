@@ -1,0 +1,73 @@
+{
+  "id": 5969,
+  "chapter_id": 88,
+  "verse_key": "88:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 1774,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_002_001.mp3",
+      "text": "وُجُوهٌۭ",
+      "translation": "wajah",
+      "transliteration": "wujūhun"
+    },
+    {
+      "id": 1775,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_002_002.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 1776,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_002_003.mp3",
+      "text": "خَـٰشِعَةٌ",
+      "translation": "tertunduk",
+      "transliteration": "khāshiʿatun"
+    },
+    {
+      "id": 1777,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Banyak muka pada hari itu tunduk terhina,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4020,
+    "timestamp_to": 9040,
+    "duration": 5020,
+    "segments": [
+      [
+        1,
+        3925,
+        4785
+      ],
+      [
+        2,
+        4785,
+        7085
+      ],
+      [
+        3,
+        7085,
+        8890
+      ]
+    ]
+  }
+}

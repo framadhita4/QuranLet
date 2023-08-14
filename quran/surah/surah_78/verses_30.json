@@ -1,0 +1,99 @@
+{
+  "id": 5702,
+  "chapter_id": 78,
+  "verse_key": "78:30",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 32887,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_030_001.mp3",
+      "text": "فَذُوقُوا۟",
+      "translation": "maka rasakanlah",
+      "transliteration": "fadhūqū"
+    },
+    {
+      "id": 32888,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_030_002.mp3",
+      "text": "فَلَن",
+      "translation": "maka tidak",
+      "transliteration": "falan"
+    },
+    {
+      "id": 32889,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_030_003.mp3",
+      "text": "نَّزِيدَكُمْ",
+      "translation": "Kami menambah kamu",
+      "transliteration": "nazīdakum"
+    },
+    {
+      "id": 32890,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_030_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/selain",
+      "transliteration": "illā"
+    },
+    {
+      "id": 32891,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_030_005.mp3",
+      "text": "عَذَابًا",
+      "translation": "azab",
+      "transliteration": "ʿadhāban"
+    },
+    {
+      "id": 32892,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena itu rasakanlah. Dan Kami sekali-kali tidak akan menambah kepada kamu selain dari azab.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 159880,
+    "timestamp_to": 167720,
+    "duration": 7840,
+    "segments": [
+      [
+        1,
+        159855,
+        161725
+      ],
+      [
+        2,
+        161725,
+        162365
+      ],
+      [
+        3,
+        162365,
+        164555
+      ],
+      [
+        4,
+        164555,
+        165575
+      ],
+      [
+        5,
+        165575,
+        167630
+      ]
+    ]
+  }
+}

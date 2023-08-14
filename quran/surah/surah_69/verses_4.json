@@ -1,0 +1,86 @@
+{
+  "id": 5327,
+  "chapter_id": 69,
+  "verse_key": "69:4",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 3970,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_004_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 3971,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_004_002.mp3",
+      "text": "ثَمُودُ",
+      "translation": "kaum Tsamud",
+      "transliteration": "thamūdu"
+    },
+    {
+      "id": 3972,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_004_003.mp3",
+      "text": "وَعَادٌۢ",
+      "translation": "dan kaum 'Ad",
+      "transliteration": "waʿādun"
+    },
+    {
+      "id": 3973,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_004_004.mp3",
+      "text": "بِٱلْقَارِعَةِ",
+      "translation": "dengan yang mengejutkan/hari kiamat",
+      "transliteration": "bil-qāriʿati"
+    },
+    {
+      "id": 3974,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum Ṡamūd dan ʻĀd telah mendustakan hari kiamat<sup foot_note_id=\"1503\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19180,
+    "timestamp_to": 25530,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        19095,
+        20225
+      ],
+      [
+        2,
+        20225,
+        21125
+      ],
+      [
+        3,
+        21125,
+        23134
+      ],
+      [
+        4,
+        23135,
+        25380
+      ]
+    ]
+  }
+}

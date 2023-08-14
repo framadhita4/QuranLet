@@ -1,0 +1,86 @@
+{
+  "id": 6234,
+  "chapter_id": 114,
+  "verse_key": "114:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3",
+  "words": [
+    {
+      "id": 4131,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_004_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 4132,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_004_002.mp3",
+      "text": "شَرِّ",
+      "translation": "kejahatan",
+      "transliteration": "sharri"
+    },
+    {
+      "id": 4133,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_004_003.mp3",
+      "text": "ٱلْوَسْوَاسِ",
+      "translation": "bisikkan",
+      "transliteration": "l-waswāsi"
+    },
+    {
+      "id": 4134,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_004_004.mp3",
+      "text": "ٱلْخَنَّاسِ",
+      "translation": "menunggu-nunggu/bersembunyi",
+      "transliteration": "l-khanāsi"
+    },
+    {
+      "id": 4135,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dari kejahatan (bisikan) setan yang biasa bersembunyi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16750,
+    "timestamp_to": 24740,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        16685,
+        17085
+      ],
+      [
+        2,
+        17086,
+        18805
+      ],
+      [
+        3,
+        18805,
+        20075
+      ],
+      [
+        4,
+        20075,
+        24600
+      ]
+    ]
+  }
+}

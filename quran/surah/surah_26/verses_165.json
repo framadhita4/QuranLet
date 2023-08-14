@@ -1,0 +1,86 @@
+{
+  "id": 3097,
+  "chapter_id": 26,
+  "verse_key": "26:165",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 82328,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_165_001.mp3",
+      "text": "أَتَأْتُونَ",
+      "translation": "mengapa kamu mendatangi",
+      "transliteration": "atatūna"
+    },
+    {
+      "id": 82329,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_165_002.mp3",
+      "text": "ٱلذُّكْرَانَ",
+      "translation": "jenis lelaki",
+      "transliteration": "l-dhuk'rāna"
+    },
+    {
+      "id": 82330,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_165_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari/diantara",
+      "transliteration": "mina"
+    },
+    {
+      "id": 82331,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_165_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam (manusia)",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 82332,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٦٥",
+      "translation": "(165)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mengapa kamu mendatangi jenis lelaki di antara manusia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1438800,
+    "timestamp_to": 1445070,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        1438735,
+        1439895
+      ],
+      [
+        2,
+        1439895,
+        1441285
+      ],
+      [
+        3,
+        1441285,
+        1441605
+      ],
+      [
+        4,
+        1441605,
+        1444950
+      ]
+    ]
+  }
+}

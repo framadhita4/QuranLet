@@ -1,0 +1,99 @@
+{
+  "id": 3421,
+  "chapter_id": 30,
+  "verse_key": "30:12",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 351,
+  "manzil_number": 5,
+  "page_number": 405,
+  "juz_number": 21,
+  "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 14427,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_012_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 14428,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_012_002.mp3",
+      "text": "تَقُومُ",
+      "translation": "berdiri/terjadi",
+      "transliteration": "taqūmu"
+    },
+    {
+      "id": 14429,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_012_003.mp3",
+      "text": "ٱلسَّاعَةُ",
+      "translation": "kiamat",
+      "transliteration": "l-sāʿatu"
+    },
+    {
+      "id": 14430,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_012_004.mp3",
+      "text": "يُبْلِسُ",
+      "translation": "berputus asa",
+      "transliteration": "yub'lisu"
+    },
+    {
+      "id": 14431,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_012_005.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 14432,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan pada hari terjadinya kiamat, orang-orang yang berdosa terdiam berputus asa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 204210,
+    "timestamp_to": 211680,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        204175,
+        205195
+      ],
+      [
+        2,
+        205195,
+        206065
+      ],
+      [
+        3,
+        206065,
+        207205
+      ],
+      [
+        4,
+        207205,
+        208055
+      ],
+      [
+        5,
+        208055,
+        211620
+      ]
+    ]
+  }
+}

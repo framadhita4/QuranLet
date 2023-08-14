@@ -1,0 +1,73 @@
+{
+  "id": 5501,
+  "chapter_id": 74,
+  "verse_key": "74:6",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 6546,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_006_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 6547,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_006_002.mp3",
+      "text": "تَمْنُن",
+      "translation": "kamu memberi/anugerah",
+      "transliteration": "tamnun"
+    },
+    {
+      "id": 6548,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_006_003.mp3",
+      "text": "تَسْتَكْثِرُ",
+      "translation": "kamu mengharap lebih banyak",
+      "transliteration": "tastakthiru"
+    },
+    {
+      "id": 6549,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan janganlah kamu memberi (dengan maksud) memperoleh (balasan) yang lebih banyak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14890,
+    "timestamp_to": 18630,
+    "duration": 3740,
+    "segments": [
+      [
+        1,
+        14785,
+        15405
+      ],
+      [
+        2,
+        15405,
+        16525
+      ],
+      [
+        3,
+        16525,
+        18440
+      ]
+    ]
+  }
+}

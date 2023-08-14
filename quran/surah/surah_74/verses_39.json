@@ -1,0 +1,73 @@
+{
+  "id": 5534,
+  "chapter_id": 74,
+  "verse_key": "74:39",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 40621,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_039_001.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 40622,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_039_002.mp3",
+      "text": "أَصْحَـٰبَ",
+      "translation": "kaum/golongan",
+      "transliteration": "aṣḥāba"
+    },
+    {
+      "id": 40623,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_039_003.mp3",
+      "text": "ٱلْيَمِينِ",
+      "translation": "kanan",
+      "transliteration": "l-yamīni"
+    },
+    {
+      "id": 40624,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali golongan kanan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 207710,
+    "timestamp_to": 213610,
+    "duration": 5900,
+    "segments": [
+      [
+        1,
+        207655,
+        209715
+      ],
+      [
+        2,
+        209715,
+        210605
+      ],
+      [
+        3,
+        210605,
+        213500
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 4397,
+  "chapter_id": 43,
+  "verse_key": "43:72",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 494,
+  "juz_number": 25,
+  "text_uthmani": "وَتِلْكَ ٱلْجَنَّةُ ٱلَّتِىٓ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 60433,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_001.mp3",
+      "text": "وَتِلْكَ",
+      "translation": "dan itulah",
+      "transliteration": "watil'ka"
+    },
+    {
+      "id": 60434,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_002.mp3",
+      "text": "ٱلْجَنَّةُ",
+      "translation": "surga",
+      "transliteration": "l-janatu"
+    },
+    {
+      "id": 60435,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_003.mp3",
+      "text": "ٱلَّتِىٓ",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 60436,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_004.mp3",
+      "text": "أُورِثْتُمُوهَا",
+      "translation": "diwariskan kepadanya",
+      "transliteration": "ūrith'tumūhā"
+    },
+    {
+      "id": 60437,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_005.mp3",
+      "text": "بِمَا",
+      "translation": "sebab",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 60438,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 60439,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_072_007.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 60440,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan itulah surga yang diwariskan kepada kamu disebabkan amal-amal yang dahulu kamu kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1012820,
+    "timestamp_to": 1025330,
+    "duration": 12510,
+    "segments": [
+      [
+        1,
+        1012765,
+        1013705
+      ],
+      [
+        2,
+        1013705,
+        1015465
+      ],
+      [
+        3,
+        1015465,
+        1017785
+      ],
+      [
+        4,
+        1017785,
+        1019585
+      ],
+      [
+        5,
+        1019585,
+        1020205
+      ],
+      [
+        6,
+        1020205,
+        1021895
+      ],
+      [
+        7,
+        1021895,
+        1025250
+      ]
+    ]
+  }
+}

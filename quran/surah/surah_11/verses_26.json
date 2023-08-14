@@ -1,0 +1,177 @@
+{
+  "id": 1499,
+  "chapter_id": 11,
+  "verse_key": "11:26",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "ruku_number": 185,
+  "manzil_number": 3,
+  "page_number": 224,
+  "juz_number": 12,
+  "text_uthmani": "أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 29149,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_001.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 29150,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_002.mp3",
+      "text": "لَّا",
+      "translation": "janganlah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 29151,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_003.mp3",
+      "text": "تَعْبُدُوٓا۟",
+      "translation": "kamu menyembah",
+      "transliteration": "taʿbudū"
+    },
+    {
+      "id": 29152,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_004.mp3",
+      "text": "إِلَّا",
+      "translation": "selain",
+      "transliteration": "illā"
+    },
+    {
+      "id": 29153,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_005.mp3",
+      "text": "ٱللَّهَ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 29155,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_007.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 29156,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_008.mp3",
+      "text": "أَخَافُ",
+      "translation": "aku takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 29157,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_009.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 29158,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_010.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 29159,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_011.mp3",
+      "text": "يَوْمٍ",
+      "translation": "pada hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 29160,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_026_012.mp3",
+      "text": "أَلِيمٍۢ",
+      "translation": "menyedihkan",
+      "transliteration": "alīmin"
+    },
+    {
+      "id": 29161,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "agar kamu tidak menyembah selain Allah.  Sesungguhnya aku khawatir kamu akan ditimpa azab (pada) hari yang sangat menyedihkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 608130,
+    "timestamp_to": 624430,
+    "duration": 16300,
+    "segments": [
+      [
+        1,
+        608095,
+        608295
+      ],
+      [
+        2,
+        608295,
+        608895
+      ],
+      [
+        3,
+        608895,
+        611365
+      ],
+      [
+        4,
+        611365,
+        611975
+      ],
+      [
+        5,
+        611975,
+        614925
+      ],
+      [
+        6,
+        614925,
+        617975
+      ],
+      [
+        7,
+        617975,
+        618765
+      ],
+      [
+        8,
+        618765,
+        619805
+      ],
+      [
+        9,
+        619805,
+        620755
+      ],
+      [
+        10,
+        620755,
+        621525
+      ],
+      [
+        11,
+        621525,
+        624340
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5292,
+  "chapter_id": 68,
+  "verse_key": "68:21",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 24346,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_021_001.mp3",
+      "text": "فَتَنَادَوْا۟",
+      "translation": "maka mereka panggil memanggil",
+      "transliteration": "fatanādaw"
+    },
+    {
+      "id": 24347,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_021_002.mp3",
+      "text": "مُصْبِحِينَ",
+      "translation": "di pagi hari",
+      "transliteration": "muṣ'biḥīna"
+    },
+    {
+      "id": 24348,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu mereka panggil memanggil di pagi hari,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 150390,
+    "timestamp_to": 154700,
+    "duration": 4310,
+    "segments": [
+      [
+        1,
+        150355,
+        151575
+      ],
+      [
+        2,
+        151575,
+        154600
+      ]
+    ]
+  }
+}

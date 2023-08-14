@@ -1,0 +1,86 @@
+{
+  "id": 6156,
+  "chapter_id": 100,
+  "verse_key": "100:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 11729,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_010_001.mp3",
+      "text": "وَحُصِّلَ",
+      "translation": "dan dilahirkan",
+      "transliteration": "waḥuṣṣila"
+    },
+    {
+      "id": 11730,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_010_002.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 11731,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_010_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 11732,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_010_004.mp3",
+      "text": "ٱلصُّدُورِ",
+      "translation": "dada",
+      "transliteration": "l-ṣudūri"
+    },
+    {
+      "id": 11733,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dilahirkan apa yang ada di dalam dada,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 44710,
+    "timestamp_to": 49590,
+    "duration": 4890,
+    "segments": [
+      [
+        1,
+        44665,
+        45785
+      ],
+      [
+        2,
+        45785,
+        46195
+      ],
+      [
+        3,
+        46195,
+        46395
+      ],
+      [
+        4,
+        46395,
+        49480
+      ]
+    ]
+  }
+}

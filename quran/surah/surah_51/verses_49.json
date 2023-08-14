@@ -1,0 +1,125 @@
+{
+  "id": 4724,
+  "chapter_id": 51,
+  "verse_key": "51:49",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 47837,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_001.mp3",
+      "text": "وَمِن",
+      "translation": "dan dari",
+      "transliteration": "wamin"
+    },
+    {
+      "id": 47838,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_002.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 47839,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_003.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 47840,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_004.mp3",
+      "text": "خَلَقْنَا",
+      "translation": "Kami ciptakan",
+      "transliteration": "khalaqnā"
+    },
+    {
+      "id": 47841,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_005.mp3",
+      "text": "زَوْجَيْنِ",
+      "translation": "berpasang-pasangan",
+      "transliteration": "zawjayni"
+    },
+    {
+      "id": 47842,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_006.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 47843,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_049_007.mp3",
+      "text": "تَذَكَّرُونَ",
+      "translation": "kamu ingat",
+      "transliteration": "tadhakkarūna"
+    },
+    {
+      "id": 47844,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan segala sesuatu Kami ciptakan berpasang-pasangan supaya kamu mengingat akan kebesaran Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 409880,
+    "timestamp_to": 420280,
+    "duration": 10400,
+    "segments": [
+      [
+        1,
+        409825,
+        411205
+      ],
+      [
+        2,
+        411205,
+        411855
+      ],
+      [
+        3,
+        411855,
+        412795
+      ],
+      [
+        4,
+        412795,
+        413955
+      ],
+      [
+        5,
+        413955,
+        415165
+      ],
+      [
+        6,
+        415165,
+        416475
+      ],
+      [
+        7,
+        416475,
+        420130
+      ]
+    ]
+  }
+}

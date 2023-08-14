@@ -1,0 +1,60 @@
+{
+  "id": 5679,
+  "chapter_id": 78,
+  "verse_key": "78:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْجِبَالَ أَوْتَادًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 8023,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_007_001.mp3",
+      "text": "وَٱلْجِبَالَ",
+      "translation": "dan gunung-gunung",
+      "transliteration": "wal-jibāla"
+    },
+    {
+      "id": 8024,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_007_002.mp3",
+      "text": "أَوْتَادًۭا",
+      "translation": "pancang/pasak",
+      "transliteration": "awtādan"
+    },
+    {
+      "id": 8025,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gunung-gunung sebagai pasak?,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 31950,
+    "timestamp_to": 35820,
+    "duration": 3870,
+    "segments": [
+      [
+        1,
+        31715,
+        33145
+      ],
+      [
+        2,
+        33145,
+        35490
+      ]
+    ]
+  }
+}

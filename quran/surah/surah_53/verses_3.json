@@ -1,0 +1,86 @@
+{
+  "id": 4787,
+  "chapter_id": 53,
+  "verse_key": "53:3",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 2208,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_003_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2209,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_003_002.mp3",
+      "text": "يَنطِقُ",
+      "translation": "dia mengucap/berkata",
+      "transliteration": "yanṭiqu"
+    },
+    {
+      "id": 2210,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_003_003.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 2211,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_003_004.mp3",
+      "text": "ٱلْهَوَىٰٓ",
+      "translation": "hawa nafsu",
+      "transliteration": "l-hawā"
+    },
+    {
+      "id": 2212,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tiadalah yang diucapkannya itu (Al-Qur`ān) menurut kemauan hawa nafsunya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9060,
+    "timestamp_to": 13630,
+    "duration": 4570,
+    "segments": [
+      [
+        1,
+        8535,
+        9255
+      ],
+      [
+        2,
+        9255,
+        11095
+      ],
+      [
+        3,
+        11095,
+        11465
+      ],
+      [
+        4,
+        11465,
+        12560
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2360,
+  "chapter_id": 20,
+  "verse_key": "20:12",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "إِنِّىٓ أَنَا۠ رَبُّكَ فَٱخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 13761,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_001.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya Aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 13762,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_002.mp3",
+      "text": "أَنَا۠",
+      "translation": "Aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 13763,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_003.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 13764,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_004.mp3",
+      "text": "فَٱخْلَعْ",
+      "translation": "maka lepaskan/tanggalkan",
+      "transliteration": "fa-ikh'laʿ"
+    },
+    {
+      "id": 13765,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_005.mp3",
+      "text": "نَعْلَيْكَ ۖ",
+      "translation": "kedua terompahmu",
+      "transliteration": "naʿlayka"
+    },
+    {
+      "id": 13767,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_007.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 13768,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_008.mp3",
+      "text": "بِٱلْوَادِ",
+      "translation": "di lembah",
+      "transliteration": "bil-wādi"
+    },
+    {
+      "id": 13769,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_009.mp3",
+      "text": "ٱلْمُقَدَّسِ",
+      "translation": "yang suci",
+      "transliteration": "l-muqadasi"
+    },
+    {
+      "id": 13770,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_012_010.mp3",
+      "text": "طُوًۭى",
+      "translation": "Tuwa",
+      "transliteration": "ṭuwan"
+    },
+    {
+      "id": 13771,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Aku inilah Tuhan-mu, maka tanggalkanlah kedua terompahmu; sesungguhnya kamu berada di lembah yang suci, Ṭuwā.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 99730,
+    "timestamp_to": 113080,
+    "duration": 13350,
+    "segments": [
+      [
+        1,
+        99275,
+        102105
+      ],
+      [
+        2,
+        102105,
+        102485
+      ],
+      [
+        3,
+        102485,
+        103455
+      ],
+      [
+        4,
+        103455,
+        104355
+      ],
+      [
+        5,
+        104355,
+        107195
+      ],
+      [
+        6,
+        107195,
+        108905
+      ],
+      [
+        7,
+        108905,
+        110045
+      ],
+      [
+        8,
+        110045,
+        111405
+      ],
+      [
+        9,
+        111405,
+        112230
+      ]
+    ]
+  }
+}

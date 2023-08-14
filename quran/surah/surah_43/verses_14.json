@@ -1,0 +1,86 @@
+{
+  "id": 4339,
+  "chapter_id": 43,
+  "verse_key": "43:14",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 426,
+  "manzil_number": 6,
+  "page_number": 490,
+  "juz_number": 25,
+  "text_uthmani": "وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 15849,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_014_001.mp3",
+      "text": "وَإِنَّآ",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 15850,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_014_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 15851,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_014_003.mp3",
+      "text": "رَبِّنَا",
+      "translation": "Tuhan kami",
+      "transliteration": "rabbinā"
+    },
+    {
+      "id": 15852,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_014_004.mp3",
+      "text": "لَمُنقَلِبُونَ",
+      "translation": "benar-benar orang yang kembali",
+      "transliteration": "lamunqalibūna"
+    },
+    {
+      "id": 15853,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kami akan kembali kepada Tuhan kami.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 154760,
+    "timestamp_to": 164350,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        154705,
+        158185
+      ],
+      [
+        2,
+        158185,
+        158695
+      ],
+      [
+        3,
+        158695,
+        159605
+      ],
+      [
+        4,
+        159605,
+        164270
+      ]
+    ]
+  }
+}

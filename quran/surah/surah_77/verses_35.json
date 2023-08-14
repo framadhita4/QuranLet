@@ -1,0 +1,86 @@
+{
+  "id": 5657,
+  "chapter_id": 77,
+  "verse_key": "77:35",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 37271,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 37272,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_002.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 37273,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 37274,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_004.mp3",
+      "text": "يَنطِقُونَ",
+      "translation": "mereka dapat bicara",
+      "transliteration": "yanṭiqūna"
+    },
+    {
+      "id": 37275,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah hari, yang mereka tidak dapat berbicara (pada hari itu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 170180,
+    "timestamp_to": 175900,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        170005,
+        170815
+      ],
+      [
+        2,
+        170815,
+        171445
+      ],
+      [
+        3,
+        171445,
+        172005
+      ],
+      [
+        4,
+        172005,
+        175620
+      ]
+    ]
+  }
+}

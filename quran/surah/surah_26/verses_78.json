@@ -1,0 +1,86 @@
+{
+  "id": 3010,
+  "chapter_id": 26,
+  "verse_key": "26:78",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْدِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 63482,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_078_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 63483,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_078_002.mp3",
+      "text": "خَلَقَنِى",
+      "translation": "telah menciptakan aku",
+      "transliteration": "khalaqanī"
+    },
+    {
+      "id": 63484,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_078_003.mp3",
+      "text": "فَهُوَ",
+      "translation": "maka Dia",
+      "transliteration": "fahuwa"
+    },
+    {
+      "id": 63485,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_078_004.mp3",
+      "text": "يَهْدِينِ",
+      "translation": "memberi petunjuk kepadaku",
+      "transliteration": "yahdīni"
+    },
+    {
+      "id": 63486,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu Tuhan) Yang telah menciptakan aku, maka Dia-lah yang menunjuki aku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 763010,
+    "timestamp_to": 768860,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        762975,
+        764085
+      ],
+      [
+        2,
+        764085,
+        765155
+      ],
+      [
+        3,
+        765155,
+        765745
+      ],
+      [
+        4,
+        765745,
+        768770
+      ]
+    ]
+  }
+}

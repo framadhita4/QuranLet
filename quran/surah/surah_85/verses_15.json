@@ -1,0 +1,73 @@
+{
+  "id": 5924,
+  "chapter_id": 85,
+  "verse_key": "85:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 17596,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_015_001.mp3",
+      "text": "ذُو",
+      "translation": "memiliki/mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 17597,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_015_002.mp3",
+      "text": "ٱلْعَرْشِ",
+      "translation": "'Arsy",
+      "transliteration": "l-ʿarshi"
+    },
+    {
+      "id": 17598,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_015_003.mp3",
+      "text": "ٱلْمَجِيدُ",
+      "translation": "maha Terpuji/Mulia",
+      "transliteration": "l-majīdu"
+    },
+    {
+      "id": 17599,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mempunyai arasy, lagi Maha Mulia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 132280,
+    "timestamp_to": 137010,
+    "duration": 4730,
+    "segments": [
+      [
+        1,
+        132185,
+        132415
+      ],
+      [
+        2,
+        132415,
+        133305
+      ],
+      [
+        3,
+        133305,
+        136850
+      ]
+    ]
+  }
+}

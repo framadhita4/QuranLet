@@ -1,0 +1,125 @@
+{
+  "id": 1588,
+  "chapter_id": 11,
+  "verse_key": "11:115",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "ruku_number": 192,
+  "manzil_number": 3,
+  "page_number": 234,
+  "juz_number": 12,
+  "text_uthmani": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 75287,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_001.mp3",
+      "text": "وَٱصْبِرْ",
+      "translation": "dan bersabarlah",
+      "transliteration": "wa-iṣ'bir"
+    },
+    {
+      "id": 75288,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_002.mp3",
+      "text": "فَإِنَّ",
+      "translation": "karena sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 75289,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 75290,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 75291,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_005.mp3",
+      "text": "يُضِيعُ",
+      "translation": "menyia-nyiakan",
+      "transliteration": "yuḍīʿu"
+    },
+    {
+      "id": 75292,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_006.mp3",
+      "text": "أَجْرَ",
+      "translation": "pahala",
+      "transliteration": "ajra"
+    },
+    {
+      "id": 75293,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_115_007.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 75294,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١٥",
+      "translation": "(115)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bersabarlah karena sesungguhnya Allah tiada menyia-nyiakan pahala orang-orang yang berbuat kebaikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2618220,
+    "timestamp_to": 2626870,
+    "duration": 8650,
+    "segments": [
+      [
+        1,
+        2618175,
+        2618935
+      ],
+      [
+        2,
+        2618935,
+        2620595
+      ],
+      [
+        3,
+        2620595,
+        2621575
+      ],
+      [
+        4,
+        2621575,
+        2621935
+      ],
+      [
+        5,
+        2621935,
+        2622825
+      ],
+      [
+        6,
+        2622825,
+        2623455
+      ],
+      [
+        7,
+        2623455,
+        2626750
+      ]
+    ]
+  }
+}

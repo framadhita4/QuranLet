@@ -1,0 +1,112 @@
+{
+  "id": 3084,
+  "chapter_id": 26,
+  "verse_key": "26:152",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "ٱلَّذِينَ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 80632,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_152_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 80633,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_152_002.mp3",
+      "text": "يُفْسِدُونَ",
+      "translation": "(mereka) membuat kerusakan",
+      "transliteration": "yuf'sidūna"
+    },
+    {
+      "id": 80634,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_152_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 80635,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_152_004.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "muka bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 80636,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_152_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan mereka tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 80637,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_152_006.mp3",
+      "text": "يُصْلِحُونَ",
+      "translation": "mengadakan perbaikan",
+      "transliteration": "yuṣ'liḥūna"
+    },
+    {
+      "id": 80638,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥٢",
+      "translation": "(152)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang membuat kerusakan di muka bumi dan tidak mengadakan perbaikan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1318170,
+    "timestamp_to": 1325350,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        1318105,
+        1319465
+      ],
+      [
+        2,
+        1319465,
+        1320695
+      ],
+      [
+        3,
+        1320695,
+        1320975
+      ],
+      [
+        4,
+        1320975,
+        1321895
+      ],
+      [
+        5,
+        1321895,
+        1322475
+      ],
+      [
+        6,
+        1322475,
+        1325260
+      ]
+    ]
+  }
+}

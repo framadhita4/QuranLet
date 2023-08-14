@@ -1,0 +1,138 @@
+{
+  "id": 4510,
+  "chapter_id": 45,
+  "verse_key": "45:37",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "ruku_number": 439,
+  "manzil_number": 6,
+  "page_number": 502,
+  "juz_number": 25,
+  "text_uthmani": "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 38727,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_001.mp3",
+      "text": "وَلَهُ",
+      "translation": "dan bagi-Nya",
+      "transliteration": "walahu"
+    },
+    {
+      "id": 38728,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_002.mp3",
+      "text": "ٱلْكِبْرِيَآءُ",
+      "translation": "kebesaran",
+      "transliteration": "l-kib'riyāu"
+    },
+    {
+      "id": 38729,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 38730,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 38731,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_005.mp3",
+      "text": "وَٱلْأَرْضِ ۖ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 38733,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_007.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 38734,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_008.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 38735,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_037_009.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 38736,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bagi-Nya-lah keagungan di langit dan bumi, Dia-lah Yang Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 624610,
+    "timestamp_to": 637850,
+    "duration": 13250,
+    "segments": [
+      [
+        1,
+        624555,
+        625195
+      ],
+      [
+        2,
+        625195,
+        628494
+      ],
+      [
+        3,
+        628495,
+        628685
+      ],
+      [
+        4,
+        628685,
+        630235
+      ],
+      [
+        5,
+        630235,
+        631265
+      ],
+      [
+        6,
+        631265,
+        631905
+      ],
+      [
+        7,
+        631905,
+        633185
+      ],
+      [
+        8,
+        633185,
+        637760
+      ]
+    ]
+  }
+}

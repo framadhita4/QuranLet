@@ -1,0 +1,99 @@
+{
+  "id": 4404,
+  "chapter_id": 43,
+  "verse_key": "43:79",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "أَمْ أَبْرَمُوٓا۟ أَمْرًا فَإِنَّا مُبْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 63707,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_001.mp3",
+      "text": "أَمْ",
+      "translation": "bahkan",
+      "transliteration": "am"
+    },
+    {
+      "id": 63708,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_002.mp3",
+      "text": "أَبْرَمُوٓا۟",
+      "translation": "mereka menetapkan",
+      "transliteration": "abramū"
+    },
+    {
+      "id": 63709,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_003.mp3",
+      "text": "أَمْرًۭا",
+      "translation": "suatu perkara",
+      "transliteration": "amran"
+    },
+    {
+      "id": 63710,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_004.mp3",
+      "text": "فَإِنَّا",
+      "translation": "maka sesungguhnya Kami",
+      "transliteration": "fa-innā"
+    },
+    {
+      "id": 63711,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_005.mp3",
+      "text": "مُبْرِمُونَ",
+      "translation": "menetapkan",
+      "transliteration": "mub'rimūna"
+    },
+    {
+      "id": 63712,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan mereka telah menetapkan satu tipu daya (jahat), maka sesungguhnya Kami akan membalas tipu daya mereka <sup foot_note_id=\"1367\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1083440,
+    "timestamp_to": 1093390,
+    "duration": 9950,
+    "segments": [
+      [
+        1,
+        1083385,
+        1083805
+      ],
+      [
+        2,
+        1083805,
+        1086375
+      ],
+      [
+        3,
+        1086375,
+        1087875
+      ],
+      [
+        4,
+        1087875,
+        1089764
+      ],
+      [
+        5,
+        1089765,
+        1093300
+      ]
+    ]
+  }
+}

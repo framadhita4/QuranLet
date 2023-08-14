@@ -1,0 +1,86 @@
+{
+  "id": 5986,
+  "chapter_id": 88,
+  "verse_key": "88:19",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 21422,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_019_001.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 21423,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_019_002.mp3",
+      "text": "ٱلْجِبَالِ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibāli"
+    },
+    {
+      "id": 21424,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_019_003.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 21425,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_019_004.mp3",
+      "text": "نُصِبَتْ",
+      "translation": "ia ditegakkan",
+      "transliteration": "nuṣibat"
+    },
+    {
+      "id": 21426,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan gunung-gunung, bagaimana ia ditegakkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 81340,
+    "timestamp_to": 84970,
+    "duration": 3630,
+    "segments": [
+      [
+        1,
+        81265,
+        81885
+      ],
+      [
+        2,
+        81885,
+        82985
+      ],
+      [
+        3,
+        82985,
+        83595
+      ],
+      [
+        4,
+        83595,
+        84850
+      ]
+    ]
+  }
+}

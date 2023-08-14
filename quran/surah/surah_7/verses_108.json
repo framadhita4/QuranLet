@@ -1,0 +1,112 @@
+{
+  "id": 1062,
+  "chapter_id": 7,
+  "verse_key": "7:108",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 134,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 73693,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_108_001.mp3",
+      "text": "وَنَزَعَ",
+      "translation": "dan ia menarik",
+      "transliteration": "wanazaʿa"
+    },
+    {
+      "id": 73694,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_108_002.mp3",
+      "text": "يَدَهُۥ",
+      "translation": "tangannya",
+      "transliteration": "yadahu"
+    },
+    {
+      "id": 73695,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_108_003.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 73696,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_108_004.mp3",
+      "text": "هِىَ",
+      "translation": "ia (tongkat)",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 73697,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_108_005.mp3",
+      "text": "بَيْضَآءُ",
+      "translation": "putih (bercahaya)",
+      "transliteration": "bayḍāu"
+    },
+    {
+      "id": 73698,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_108_006.mp3",
+      "text": "لِلنَّـٰظِرِينَ",
+      "translation": "bagi orang-orang yang melihat",
+      "transliteration": "lilnnāẓirīna"
+    },
+    {
+      "id": 73699,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٠٨",
+      "translation": "(108)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ia mengeluarkan tangannya, maka ketika itu juga tangan itu menjadi putih bercahaya (kelihatan) oleh orang-orang yang melihatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2498610,
+    "timestamp_to": 2508510,
+    "duration": 9900,
+    "segments": [
+      [
+        1,
+        2498555,
+        2499465
+      ],
+      [
+        2,
+        2499465,
+        2500335
+      ],
+      [
+        3,
+        2500335,
+        2501235
+      ],
+      [
+        4,
+        2501235,
+        2501665
+      ],
+      [
+        5,
+        2501665,
+        2504525
+      ],
+      [
+        6,
+        2504525,
+        2508430
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 3321,
+  "chapter_id": 28,
+  "verse_key": "28:69",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "ruku_number": 340,
+  "manzil_number": 5,
+  "page_number": 393,
+  "juz_number": 20,
+  "text_uthmani": "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 59111,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_001.mp3",
+      "text": "وَرَبُّكَ",
+      "translation": "dan Tuhanmu",
+      "transliteration": "warabbuka"
+    },
+    {
+      "id": 59112,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_002.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 59113,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 59114,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_004.mp3",
+      "text": "تُكِنُّ",
+      "translation": "yang menyembunyikan",
+      "transliteration": "tukinnu"
+    },
+    {
+      "id": 59115,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_005.mp3",
+      "text": "صُدُورُهُمْ",
+      "translation": "dada mereka",
+      "transliteration": "ṣudūruhum"
+    },
+    {
+      "id": 59116,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 59117,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_069_007.mp3",
+      "text": "يُعْلِنُونَ",
+      "translation": "mereka lahirkan",
+      "transliteration": "yuʿ'linūna"
+    },
+    {
+      "id": 59118,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Tuhan-mu mengetahui apa yang disembunyikan (dalam) dada mereka dan apa yang mereka nyatakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1569710,
+    "timestamp_to": 1579010,
+    "duration": 9300,
+    "segments": [
+      [
+        1,
+        1569645,
+        1570765
+      ],
+      [
+        2,
+        1570765,
+        1571515
+      ],
+      [
+        3,
+        1571515,
+        1571985
+      ],
+      [
+        4,
+        1571985,
+        1573775
+      ],
+      [
+        5,
+        1573775,
+        1575115
+      ],
+      [
+        6,
+        1575115,
+        1575785
+      ],
+      [
+        7,
+        1575785,
+        1578900
+      ]
+    ]
+  }
+}

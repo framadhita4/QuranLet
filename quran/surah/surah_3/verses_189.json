@@ -1,0 +1,151 @@
+{
+  "id": 482,
+  "chapter_id": 3,
+  "verse_key": "3:189",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "ruku_number": 60,
+  "manzil_number": 1,
+  "page_number": 75,
+  "juz_number": 4,
+  "text_uthmani": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 84539,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_001.mp3",
+      "text": "وَلِلَّهِ",
+      "translation": "dan milik Allah",
+      "transliteration": "walillahi"
+    },
+    {
+      "id": 84540,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_002.mp3",
+      "text": "مُلْكُ",
+      "translation": "kerajaan",
+      "transliteration": "mul'ku"
+    },
+    {
+      "id": 84541,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 84542,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_004.mp3",
+      "text": "وَٱلْأَرْضِ ۗ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 84544,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_006.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 84545,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_007.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 84546,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_008.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 84547,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_009.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 84548,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_189_010.mp3",
+      "text": "قَدِيرٌ",
+      "translation": "Maha Kuasa",
+      "transliteration": "qadīrun"
+    },
+    {
+      "id": 84549,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٨٩",
+      "translation": "(189)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kepunyaan Allah-lah kerajaan langit dan bumi, dan Allah Maha Perkasa atas segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4479200,
+    "timestamp_to": 4491950,
+    "duration": 12750,
+    "segments": [
+      [
+        1,
+        4479145,
+        4480505
+      ],
+      [
+        2,
+        4480505,
+        4481145
+      ],
+      [
+        3,
+        4481145,
+        4482805
+      ],
+      [
+        4,
+        4482805,
+        4484185
+      ],
+      [
+        5,
+        4484185,
+        4485265
+      ],
+      [
+        6,
+        4485265,
+        4486005
+      ],
+      [
+        7,
+        4486005,
+        4486745
+      ],
+      [
+        8,
+        4486745,
+        4488715
+      ],
+      [
+        9,
+        4488715,
+        4491830
+      ]
+    ]
+  }
+}

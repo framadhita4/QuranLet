@@ -1,0 +1,125 @@
+{
+  "id": 1820,
+  "chapter_id": 15,
+  "verse_key": "15:18",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 219,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "إِلَّا مَنِ ٱسْتَرَقَ ٱلسَّمْعَ فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 21100,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_001.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 21101,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_002.mp3",
+      "text": "مَنِ",
+      "translation": "orang/siapa",
+      "transliteration": "mani"
+    },
+    {
+      "id": 21102,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_003.mp3",
+      "text": "ٱسْتَرَقَ",
+      "translation": "mencuri",
+      "transliteration": "is'taraqa"
+    },
+    {
+      "id": 21103,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_004.mp3",
+      "text": "ٱلسَّمْعَ",
+      "translation": "pendengaran",
+      "transliteration": "l-samʿa"
+    },
+    {
+      "id": 21104,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_005.mp3",
+      "text": "فَأَتْبَعَهُۥ",
+      "translation": "lalu mengikuti/mengejarnya",
+      "transliteration": "fa-atbaʿahu"
+    },
+    {
+      "id": 21105,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_006.mp3",
+      "text": "شِهَابٌۭ",
+      "translation": "nyala api",
+      "transliteration": "shihābun"
+    },
+    {
+      "id": 21106,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_018_007.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 21107,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali setan yang mencuri-curi (berita) yang dapat didengar (dari malaikat), lalu dia dikejar oleh semburan api yang terang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 161790,
+    "timestamp_to": 170180,
+    "duration": 8390,
+    "segments": [
+      [
+        1,
+        161735,
+        162605
+      ],
+      [
+        2,
+        162605,
+        162975
+      ],
+      [
+        3,
+        162975,
+        163805
+      ],
+      [
+        4,
+        163805,
+        164685
+      ],
+      [
+        5,
+        164685,
+        165985
+      ],
+      [
+        6,
+        165985,
+        167205
+      ],
+      [
+        7,
+        167205,
+        170060
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1408,
+  "chapter_id": 10,
+  "verse_key": "10:44",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "ruku_number": 176,
+  "manzil_number": 3,
+  "page_number": 214,
+  "juz_number": 11,
+  "text_uthmani": "إِنَّ ٱللَّهَ لَا يَظْلِمُ ٱلنَّاسَ شَيْـًٔا وَلَـٰكِنَّ ٱلنَّاسَ أَنفُسَهُمْ يَظْلِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 44498,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 44499,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 44500,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 44501,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_004.mp3",
+      "text": "يَظْلِمُ",
+      "translation": "menganiaya",
+      "transliteration": "yaẓlimu"
+    },
+    {
+      "id": 44502,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_005.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 44503,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_006.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sesuatu/sedikitpun",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 44504,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_007.mp3",
+      "text": "وَلَـٰكِنَّ",
+      "translation": "akan tetapi",
+      "transliteration": "walākinna"
+    },
+    {
+      "id": 44505,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_008.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 44506,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_009.mp3",
+      "text": "أَنفُسَهُمْ",
+      "translation": "diri mereka sendiri",
+      "transliteration": "anfusahum"
+    },
+    {
+      "id": 44507,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_044_010.mp3",
+      "text": "يَظْلِمُونَ",
+      "translation": "mereka menganiaya",
+      "transliteration": "yaẓlimūna"
+    },
+    {
+      "id": 44508,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah tidak berbuat zalim kepada manusia sedikit pun,  tetapi manusia itulah yang berbuat zalim kepada diri mereka sendiri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1240830,
+    "timestamp_to": 1257160,
+    "duration": 16330,
+    "segments": [
+      [
+        1,
+        1240795,
+        1242415
+      ],
+      [
+        2,
+        1242415,
+        1243355
+      ],
+      [
+        3,
+        1243355,
+        1243875
+      ],
+      [
+        4,
+        1243875,
+        1244745
+      ],
+      [
+        5,
+        1244745,
+        1246465
+      ],
+      [
+        6,
+        1246465,
+        1247905
+      ],
+      [
+        7,
+        1247905,
+        1249885
+      ],
+      [
+        8,
+        1249885,
+        1251495
+      ],
+      [
+        9,
+        1251495,
+        1253635
+      ],
+      [
+        10,
+        1253635,
+        1257100
+      ]
+    ]
+  }
+}

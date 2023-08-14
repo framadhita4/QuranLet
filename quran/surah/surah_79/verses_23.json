@@ -1,0 +1,60 @@
+{
+  "id": 5735,
+  "chapter_id": 79,
+  "verse_key": "79:23",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَحَشَرَ فَنَادَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 26093,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_023_001.mp3",
+      "text": "فَحَشَرَ",
+      "translation": "maka dia mengumpulkan",
+      "transliteration": "faḥashara"
+    },
+    {
+      "id": 26094,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_023_002.mp3",
+      "text": "فَنَادَىٰ",
+      "translation": "lalu dia berseru",
+      "transliteration": "fanādā"
+    },
+    {
+      "id": 26095,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka dia mengumpulkan (pembesar-pembesarnya) lalu berseru memanggil kaumnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 99330,
+    "timestamp_to": 101810,
+    "duration": 2480,
+    "segments": [
+      [
+        1,
+        98985,
+        99825
+      ],
+      [
+        2,
+        99825,
+        100990
+      ]
+    ]
+  }
+}

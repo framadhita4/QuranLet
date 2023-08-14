@@ -1,0 +1,151 @@
+{
+  "id": 2856,
+  "chapter_id": 25,
+  "verse_key": "25:1",
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "ruku_number": 310,
+  "manzil_number": 4,
+  "page_number": 359,
+  "juz_number": 18,
+  "text_uthmani": " تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 682,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_001.mp3",
+      "text": "تَبَارَكَ",
+      "translation": "Maha Berkah/Suci",
+      "transliteration": "tabāraka"
+    },
+    {
+      "id": 683,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "(Allah) yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 684,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_003.mp3",
+      "text": "نَزَّلَ",
+      "translation": "telah menurunkan",
+      "transliteration": "nazzala"
+    },
+    {
+      "id": 685,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_004.mp3",
+      "text": "ٱلْفُرْقَانَ",
+      "translation": "Al Furqan",
+      "transliteration": "l-fur'qāna"
+    },
+    {
+      "id": 686,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_005.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 687,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_006.mp3",
+      "text": "عَبْدِهِۦ",
+      "translation": "hamba-Nya",
+      "transliteration": "ʿabdihi"
+    },
+    {
+      "id": 688,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_007.mp3",
+      "text": "لِيَكُونَ",
+      "translation": "agar dia menjadi",
+      "transliteration": "liyakūna"
+    },
+    {
+      "id": 689,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_008.mp3",
+      "text": "لِلْعَـٰلَمِينَ",
+      "translation": "bagi seluruh alam",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 690,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_001_009.mp3",
+      "text": "نَذِيرًا",
+      "translation": "pemberi peringatan",
+      "transliteration": "nadhīran"
+    },
+    {
+      "id": 691,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha suci Allah yang telah menurunkan Al-Furqān (Al-Qur`ān) kepada hamba-Nya agar dia menjadi pemberi peringatan kepada seluruh alam <sup foot_note_id=\"1052\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 11080,
+    "duration": 11080,
+    "segments": [
+      [
+        1,
+        0,
+        1090
+      ],
+      [
+        2,
+        1090,
+        2160
+      ],
+      [
+        3,
+        2160,
+        2990
+      ],
+      [
+        4,
+        2990,
+        4370
+      ],
+      [
+        5,
+        4370,
+        5020
+      ],
+      [
+        6,
+        5020,
+        6440
+      ],
+      [
+        7,
+        6440,
+        7370
+      ],
+      [
+        8,
+        7370,
+        9270
+      ],
+      [
+        9,
+        9270,
+        11025
+      ]
+    ]
+  }
+}

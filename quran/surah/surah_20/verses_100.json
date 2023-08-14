@@ -1,0 +1,138 @@
+{
+  "id": 2448,
+  "chapter_id": 20,
+  "verse_key": "20:100",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "page_number": 319,
+  "juz_number": 16,
+  "text_uthmani": "مَّنْ أَعْرَضَ عَنْهُ فَإِنَّهُۥ يَحْمِلُ يَوْمَ ٱلْقِيَـٰمَةِ وِزْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 71430,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_001.mp3",
+      "text": "مَّنْ",
+      "translation": "barangsiapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 71431,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_002.mp3",
+      "text": "أَعْرَضَ",
+      "translation": "berpaling",
+      "transliteration": "aʿraḍa"
+    },
+    {
+      "id": 71432,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_003.mp3",
+      "text": "عَنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 71433,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_004.mp3",
+      "text": "فَإِنَّهُۥ",
+      "translation": "maka sesungguhnya ia",
+      "transliteration": "fa-innahu"
+    },
+    {
+      "id": 71434,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_005.mp3",
+      "text": "يَحْمِلُ",
+      "translation": "ia membawa/memikul",
+      "transliteration": "yaḥmilu"
+    },
+    {
+      "id": 71435,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_006.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 71436,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_007.mp3",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation": "kiamat",
+      "transliteration": "l-qiyāmati"
+    },
+    {
+      "id": 71437,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_100_008.mp3",
+      "text": "وِزْرًا",
+      "translation": "beban/dosa",
+      "transliteration": "wiz'ran"
+    },
+    {
+      "id": 71438,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٠",
+      "translation": "(100)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa berpaling dari pada Al-Qur`ān , maka sesungguhnya ia akan memikul dosa yang besar di hari kiamat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1161060,
+    "timestamp_to": 1169310,
+    "duration": 8260,
+    "segments": [
+      [
+        1,
+        1161035,
+        1161525
+      ],
+      [
+        2,
+        1161525,
+        1162375
+      ],
+      [
+        3,
+        1162375,
+        1163025
+      ],
+      [
+        4,
+        1163025,
+        1164905
+      ],
+      [
+        5,
+        1164905,
+        1165875
+      ],
+      [
+        6,
+        1165875,
+        1166445
+      ],
+      [
+        7,
+        1166445,
+        1167915
+      ],
+      [
+        8,
+        1167915,
+        1169220
+      ]
+    ]
+  }
+}

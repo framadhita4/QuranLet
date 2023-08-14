@@ -1,0 +1,73 @@
+{
+  "id": 5381,
+  "chapter_id": 70,
+  "verse_key": "70:6",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 6494,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_006_001.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 6495,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_006_002.mp3",
+      "text": "يَرَوْنَهُۥ",
+      "translation": "mereka mamandangnya (azab)",
+      "transliteration": "yarawnahu"
+    },
+    {
+      "id": 6496,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_006_003.mp3",
+      "text": "بَعِيدًۭا",
+      "translation": "jauh",
+      "transliteration": "baʿīdan"
+    },
+    {
+      "id": 6497,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya mereka memandang siksaaan itu jauh (mustahil).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32150,
+    "timestamp_to": 36700,
+    "duration": 4550,
+    "segments": [
+      [
+        1,
+        32095,
+        33775
+      ],
+      [
+        2,
+        33775,
+        35005
+      ],
+      [
+        3,
+        35005,
+        36260
+      ]
+    ]
+  }
+}

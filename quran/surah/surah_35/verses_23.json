@@ -1,0 +1,86 @@
+{
+  "id": 3683,
+  "chapter_id": 35,
+  "verse_key": "35:23",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 437,
+  "juz_number": 22,
+  "text_uthmani": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 26375,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_023_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 26376,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_023_002.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 26377,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_023_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/hanyalah",
+      "transliteration": "illā"
+    },
+    {
+      "id": 26378,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_023_004.mp3",
+      "text": "نَذِيرٌ",
+      "translation": "seorang pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 26379,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamu tidak lain hanyalah seorang pemberi peringatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 454420,
+    "timestamp_to": 459670,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        454365,
+        454765
+      ],
+      [
+        2,
+        454765,
+        456255
+      ],
+      [
+        3,
+        456255,
+        456945
+      ],
+      [
+        4,
+        456945,
+        459560
+      ]
+    ]
+  }
+}

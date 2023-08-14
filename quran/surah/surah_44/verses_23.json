@@ -1,0 +1,99 @@
+{
+  "id": 4437,
+  "chapter_id": 44,
+  "verse_key": "44:23",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 25639,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_001.mp3",
+      "text": "فَأَسْرِ",
+      "translation": "maka berjalanlah kamu",
+      "transliteration": "fa-asri"
+    },
+    {
+      "id": 25640,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_002.mp3",
+      "text": "بِعِبَادِى",
+      "translation": "dengan hamba-hamba-Ku",
+      "transliteration": "biʿibādī"
+    },
+    {
+      "id": 25641,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_003.mp3",
+      "text": "لَيْلًا",
+      "translation": "pada malam hari",
+      "transliteration": "laylan"
+    },
+    {
+      "id": 25642,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_004.mp3",
+      "text": "إِنَّكُم",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 25643,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_005.mp3",
+      "text": "مُّتَّبَعُونَ",
+      "translation": "orang-orang yang diikuti/di kejar",
+      "transliteration": "muttabaʿūna"
+    },
+    {
+      "id": 25644,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Maka berjalanlah kamu dengan membawa hamba-hamba-Ku pada malam hari, sesungguhnya kamu akan dikejar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 233280,
+    "timestamp_to": 241770,
+    "duration": 8490,
+    "segments": [
+      [
+        1,
+        233255,
+        234205
+      ],
+      [
+        2,
+        234205,
+        235525
+      ],
+      [
+        3,
+        235525,
+        236375
+      ],
+      [
+        4,
+        236375,
+        238005
+      ],
+      [
+        5,
+        238005,
+        241720
+      ]
+    ]
+  }
+}

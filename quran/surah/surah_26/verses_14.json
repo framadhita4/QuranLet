@@ -1,0 +1,112 @@
+{
+  "id": 2946,
+  "chapter_id": 26,
+  "verse_key": "26:14",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 16456,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_014_001.mp3",
+      "text": "وَلَهُمْ",
+      "translation": "dan terhadap mereka",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 16457,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_014_002.mp3",
+      "text": "عَلَىَّ",
+      "translation": "atasku",
+      "transliteration": "ʿalayya"
+    },
+    {
+      "id": 16458,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_014_003.mp3",
+      "text": "ذَنۢبٌۭ",
+      "translation": "berdosa",
+      "transliteration": "dhanbun"
+    },
+    {
+      "id": 16459,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_014_004.mp3",
+      "text": "فَأَخَافُ",
+      "translation": "maka aku takut",
+      "transliteration": "fa-akhāfu"
+    },
+    {
+      "id": 16460,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_014_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 16461,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_014_006.mp3",
+      "text": "يَقْتُلُونِ",
+      "translation": "mereka membunuhku",
+      "transliteration": "yaqtulūni"
+    },
+    {
+      "id": 16462,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan aku berdosa terhadap mereka <sup foot_note_id=\"1077\">1</sup>, maka aku takut mereka akan membunuhku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 128730,
+    "timestamp_to": 138060,
+    "duration": 9330,
+    "segments": [
+      [
+        1,
+        128685,
+        129545
+      ],
+      [
+        2,
+        129545,
+        130405
+      ],
+      [
+        3,
+        130405,
+        132325
+      ],
+      [
+        4,
+        132325,
+        134315
+      ],
+      [
+        5,
+        134315,
+        135115
+      ],
+      [
+        6,
+        135115,
+        137940
+      ]
+    ]
+  }
+}

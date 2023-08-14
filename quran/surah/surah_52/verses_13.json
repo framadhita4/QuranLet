@@ -1,0 +1,112 @@
+{
+  "id": 4748,
+  "chapter_id": 52,
+  "verse_key": "52:13",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 14918,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_013_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 14919,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_013_002.mp3",
+      "text": "يُدَعُّونَ",
+      "translation": "mereka di dorong",
+      "transliteration": "yudaʿʿūna"
+    },
+    {
+      "id": 14920,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_013_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 14921,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_013_004.mp3",
+      "text": "نَارِ",
+      "translation": "api neraka",
+      "transliteration": "nāri"
+    },
+    {
+      "id": 14922,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_013_005.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 14923,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_013_006.mp3",
+      "text": "دَعًّا",
+      "translation": "sungguh-sungguh di dorong",
+      "transliteration": "daʿʿan"
+    },
+    {
+      "id": 14924,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada hari mereka didorong ke neraka Jahanam dengan sekuat-kuatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 62210,
+    "timestamp_to": 69260,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        62135,
+        62795
+      ],
+      [
+        2,
+        62795,
+        64215
+      ],
+      [
+        3,
+        64215,
+        64895
+      ],
+      [
+        4,
+        64895,
+        65605
+      ],
+      [
+        5,
+        65605,
+        67665
+      ],
+      [
+        6,
+        67665,
+        68730
+      ]
+    ]
+  }
+}

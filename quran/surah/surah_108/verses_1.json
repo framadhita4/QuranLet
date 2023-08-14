@@ -1,0 +1,73 @@
+{
+  "id": 6205,
+  "chapter_id": 108,
+  "verse_key": "108:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 552,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/108.mp3",
+  "words": [
+    {
+      "id": 276,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_001_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 277,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_001_002.mp3",
+      "text": "أَعْطَيْنَـٰكَ",
+      "translation": "Aku telah memberikan",
+      "transliteration": "aʿṭaynāka"
+    },
+    {
+      "id": 278,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_001_003.mp3",
+      "text": "ٱلْكَوْثَرَ",
+      "translation": "nikmat yang banyak",
+      "transliteration": "l-kawthara"
+    },
+    {
+      "id": 279,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah memberikan kepadamu sebuah sungai di surga.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6710,
+    "duration": 6710,
+    "segments": [
+      [
+        1,
+        0,
+        3510
+      ],
+      [
+        2,
+        3510,
+        5010
+      ],
+      [
+        3,
+        5010,
+        6245
+      ]
+    ]
+  }
+}

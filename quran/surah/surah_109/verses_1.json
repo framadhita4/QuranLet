@@ -1,0 +1,73 @@
+{
+  "id": 6208,
+  "chapter_id": 109,
+  "verse_key": "109:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3",
+  "words": [
+    {
+      "id": 158,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_001_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 159,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_001_002.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 160,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_001_003.mp3",
+      "text": "ٱلْكَـٰفِرُونَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirūna"
+    },
+    {
+      "id": 161,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Hai orang-orang kafir,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 7520,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        0,
+        400
+      ],
+      [
+        2,
+        400,
+        3370
+      ],
+      [
+        3,
+        3370,
+        7425
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5630,
+  "chapter_id": 77,
+  "verse_key": "77:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 9169,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_008_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 9170,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_008_002.mp3",
+      "text": "ٱلنُّجُومُ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-nujūmu"
+    },
+    {
+      "id": 9171,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_008_003.mp3",
+      "text": "طُمِسَتْ",
+      "translation": "dihapuskan",
+      "transliteration": "ṭumisat"
+    },
+    {
+      "id": 9172,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila bintang-bintang telah dihapuskan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 22070,
+    "timestamp_to": 25340,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        21955,
+        22495
+      ],
+      [
+        2,
+        22495,
+        24005
+      ],
+      [
+        3,
+        24005,
+        25140
+      ]
+    ]
+  }
+}

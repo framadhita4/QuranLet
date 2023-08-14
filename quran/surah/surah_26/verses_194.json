@@ -1,0 +1,99 @@
+{
+  "id": 3126,
+  "chapter_id": 26,
+  "verse_key": "26:194",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84803,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_194_001.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas/kedalam",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 84804,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_194_002.mp3",
+      "text": "قَلْبِكَ",
+      "translation": "hatimu",
+      "transliteration": "qalbika"
+    },
+    {
+      "id": 84805,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_194_003.mp3",
+      "text": "لِتَكُونَ",
+      "translation": "agar kamu ada/menjadi",
+      "transliteration": "litakūna"
+    },
+    {
+      "id": 84806,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_194_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari/diantara",
+      "transliteration": "mina"
+    },
+    {
+      "id": 84807,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_194_005.mp3",
+      "text": "ٱلْمُنذِرِينَ",
+      "translation": "orang-orang yang memberi peringatan",
+      "transliteration": "l-mundhirīna"
+    },
+    {
+      "id": 84808,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٩٤",
+      "translation": "(194)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ke dalam hatimu (Muhammad) agar kamu menjadi salah seorang di antara orang-orang yang memberi peringatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1693500,
+    "timestamp_to": 1700500,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        1693475,
+        1694125
+      ],
+      [
+        2,
+        1694125,
+        1694995
+      ],
+      [
+        3,
+        1694995,
+        1696075
+      ],
+      [
+        4,
+        1696075,
+        1696395
+      ],
+      [
+        5,
+        1696395,
+        1700450
+      ]
+    ]
+  }
+}

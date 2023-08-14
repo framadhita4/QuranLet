@@ -1,0 +1,112 @@
+{
+  "id": 4331,
+  "chapter_id": 43,
+  "verse_key": "43:6",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 426,
+  "manzil_number": 6,
+  "page_number": 489,
+  "juz_number": 25,
+  "text_uthmani": "وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّ فِى ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 5980,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_006_001.mp3",
+      "text": "وَكَمْ",
+      "translation": "dan berapa banyak",
+      "transliteration": "wakam"
+    },
+    {
+      "id": 5981,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_006_002.mp3",
+      "text": "أَرْسَلْنَا",
+      "translation": "telah Kami turunkan",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 5982,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_006_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 5983,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_006_004.mp3",
+      "text": "نَّبِىٍّۢ",
+      "translation": "nabi-nabi",
+      "transliteration": "nabiyyin"
+    },
+    {
+      "id": 5984,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_006_005.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 5985,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_006_006.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "ummat-ummat terdahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 5986,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berapa banyaknya nabi-nabi yang telah Kami utus kepada umat-umat yang terdahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41910,
+    "timestamp_to": 49960,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        41855,
+        42515
+      ],
+      [
+        2,
+        42515,
+        43835
+      ],
+      [
+        3,
+        43835,
+        44045
+      ],
+      [
+        4,
+        44045,
+        46474
+      ],
+      [
+        5,
+        46475,
+        46765
+      ],
+      [
+        6,
+        46765,
+        49880
+      ]
+    ]
+  }
+}

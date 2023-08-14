@@ -1,0 +1,73 @@
+{
+  "id": 5545,
+  "chapter_id": 74,
+  "verse_key": "74:50",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 48675,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_050_001.mp3",
+      "text": "كَأَنَّهُمْ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahum"
+    },
+    {
+      "id": 48676,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_050_002.mp3",
+      "text": "حُمُرٌۭ",
+      "translation": "keledai",
+      "transliteration": "ḥumurun"
+    },
+    {
+      "id": 48677,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_050_003.mp3",
+      "text": "مُّسْتَنفِرَةٌۭ",
+      "translation": "yang terkejut",
+      "transliteration": "mus'tanfiratun"
+    },
+    {
+      "id": 48678,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "seakan-akan mereka itu keledai liar yang lari terkejut,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 271440,
+    "timestamp_to": 277000,
+    "duration": 5570,
+    "segments": [
+      [
+        1,
+        271365,
+        272865
+      ],
+      [
+        2,
+        272865,
+        273545
+      ],
+      [
+        3,
+        273545,
+        276840
+      ]
+    ]
+  }
+}

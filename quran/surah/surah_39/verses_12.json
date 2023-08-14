@@ -1,0 +1,99 @@
+{
+  "id": 4070,
+  "chapter_id": 39,
+  "verse_key": "39:12",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 399,
+  "manzil_number": 6,
+  "page_number": 460,
+  "juz_number": 23,
+  "text_uthmani": "وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 14657,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_012_001.mp3",
+      "text": "وَأُمِرْتُ",
+      "translation": "dan aku diperintahkan",
+      "transliteration": "wa-umir'tu"
+    },
+    {
+      "id": 14658,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_012_002.mp3",
+      "text": "لِأَنْ",
+      "translation": "agar",
+      "transliteration": "li-an"
+    },
+    {
+      "id": 14659,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_012_003.mp3",
+      "text": "أَكُونَ",
+      "translation": "aku menjadi",
+      "transliteration": "akūna"
+    },
+    {
+      "id": 14660,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_012_004.mp3",
+      "text": "أَوَّلَ",
+      "translation": "pertama-tama",
+      "transliteration": "awwala"
+    },
+    {
+      "id": 14661,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_012_005.mp3",
+      "text": "ٱلْمُسْلِمِينَ",
+      "translation": "orang-orang yang berserah diri",
+      "transliteration": "l-mus'limīna"
+    },
+    {
+      "id": 14662,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan aku diperintahkan supaya menjadi orang yang pertama-tama berserah diri\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 332450,
+    "timestamp_to": 339290,
+    "duration": 6850,
+    "segments": [
+      [
+        1,
+        332395,
+        333495
+      ],
+      [
+        2,
+        333495,
+        334055
+      ],
+      [
+        3,
+        334055,
+        334795
+      ],
+      [
+        4,
+        334795,
+        335625
+      ],
+      [
+        5,
+        335625,
+        339200
+      ]
+    ]
+  }
+}

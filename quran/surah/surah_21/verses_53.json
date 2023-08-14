@@ -1,0 +1,99 @@
+{
+  "id": 2536,
+  "chapter_id": 21,
+  "verse_key": "21:53",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَـٰبِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 50587,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_053_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 50588,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_053_002.mp3",
+      "text": "وَجَدْنَآ",
+      "translation": "kami dapati",
+      "transliteration": "wajadnā"
+    },
+    {
+      "id": 50589,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_053_003.mp3",
+      "text": "ءَابَآءَنَا",
+      "translation": "bapak-bapak kami",
+      "transliteration": "ābāanā"
+    },
+    {
+      "id": 50590,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_053_004.mp3",
+      "text": "لَهَا",
+      "translation": "kepadanya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 50591,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_053_005.mp3",
+      "text": "عَـٰبِدِينَ",
+      "translation": "orang-orang yang menyembah",
+      "transliteration": "ʿābidīna"
+    },
+    {
+      "id": 50592,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Kami mendapati bapak-bapak kami menyembahnya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 755890,
+    "timestamp_to": 764560,
+    "duration": 8670,
+    "segments": [
+      [
+        1,
+        755825,
+        756715
+      ],
+      [
+        2,
+        756715,
+        757405
+      ],
+      [
+        3,
+        757405,
+        761254
+      ],
+      [
+        4,
+        761255,
+        761865
+      ],
+      [
+        5,
+        761865,
+        764440
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4631,
+  "chapter_id": 50,
+  "verse_key": "50:1",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": " قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 261,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_001_001.mp3",
+      "text": "قٓ ۚ",
+      "translation": "Qâf",
+      "transliteration": "qaf"
+    },
+    {
+      "id": 263,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_001_003.mp3",
+      "text": "وَٱلْقُرْءَانِ",
+      "translation": "demi Al Qur'an",
+      "transliteration": "wal-qur'āni"
+    },
+    {
+      "id": 264,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_001_004.mp3",
+      "text": "ٱلْمَجِيدِ",
+      "translation": "yang mulia",
+      "transliteration": "l-majīdi"
+    },
+    {
+      "id": 265,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Qāf<sup foot_note_id=\"1412\">1</sup>.  Demi Al-Qur`ān yang sangat mulia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 10580,
+    "duration": 10580,
+    "segments": [
+      [
+        1,
+        0,
+        5029
+      ],
+      [
+        2,
+        5030,
+        7090
+      ],
+      [
+        3,
+        7090,
+        10525
+      ]
+    ]
+  }
+}

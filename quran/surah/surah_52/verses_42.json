@@ -1,0 +1,125 @@
+{
+  "id": 4777,
+  "chapter_id": 52,
+  "verse_key": "52:42",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 42835,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 42836,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_002.mp3",
+      "text": "يُرِيدُونَ",
+      "translation": "mereka hendak",
+      "transliteration": "yurīdūna"
+    },
+    {
+      "id": 42837,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_003.mp3",
+      "text": "كَيْدًۭا ۖ",
+      "translation": "tipu-daya",
+      "transliteration": "kaydan"
+    },
+    {
+      "id": 42839,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_005.mp3",
+      "text": "فَٱلَّذِينَ",
+      "translation": "maka orang-orang yang",
+      "transliteration": "fa-alladhīna"
+    },
+    {
+      "id": 42840,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_006.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 42841,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_007.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 42842,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_042_008.mp3",
+      "text": "ٱلْمَكِيدُونَ",
+      "translation": "orang-orang yang kena tipu daya",
+      "transliteration": "l-makīdūna"
+    },
+    {
+      "id": 42843,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah mereka hendak melakukan tipu daya? Maka orang-orang yang kafir itu, merekalah yang kena tipu daya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 393240,
+    "timestamp_to": 403190,
+    "duration": 9950,
+    "segments": [
+      [
+        1,
+        393185,
+        393595
+      ],
+      [
+        2,
+        393595,
+        394795
+      ],
+      [
+        3,
+        394795,
+        395955
+      ],
+      [
+        4,
+        395955,
+        397665
+      ],
+      [
+        5,
+        397665,
+        398565
+      ],
+      [
+        6,
+        398565,
+        398995
+      ],
+      [
+        7,
+        398995,
+        403060
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2721,
+  "chapter_id": 23,
+  "verse_key": "23:48",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 47372,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_048_001.mp3",
+      "text": "فَكَذَّبُوهُمَا",
+      "translation": "maka mereka mendustakan keduanya",
+      "transliteration": "fakadhabūhumā"
+    },
+    {
+      "id": 47373,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_048_002.mp3",
+      "text": "فَكَانُوا۟",
+      "translation": "maka adalah mereka",
+      "transliteration": "fakānū"
+    },
+    {
+      "id": 47374,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_048_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 47375,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_048_004.mp3",
+      "text": "ٱلْمُهْلَكِينَ",
+      "translation": "orang-orang yang binasa",
+      "transliteration": "l-muh'lakīna"
+    },
+    {
+      "id": 47376,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka (tetaplah) mereka mendustakan keduanya sebab itu mereka adalah termasuk orang-orang yang dibinasakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 642900,
+    "timestamp_to": 649250,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        642845,
+        644685
+      ],
+      [
+        2,
+        644685,
+        645705
+      ],
+      [
+        3,
+        645705,
+        646015
+      ],
+      [
+        4,
+        646015,
+        649130
+      ]
+    ]
+  }
+}

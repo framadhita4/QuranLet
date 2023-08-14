@@ -1,0 +1,99 @@
+{
+  "id": 4670,
+  "chapter_id": 50,
+  "verse_key": "50:40",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 41157,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_040_001.mp3",
+      "text": "وَمِنَ",
+      "translation": "dan dari",
+      "transliteration": "wamina"
+    },
+    {
+      "id": 41158,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_040_002.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 41159,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_040_003.mp3",
+      "text": "فَسَبِّحْهُ",
+      "translation": "maka bertasbihlah kepada-Nya",
+      "transliteration": "fasabbiḥ'hu"
+    },
+    {
+      "id": 41160,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_040_004.mp3",
+      "text": "وَأَدْبَـٰرَ",
+      "translation": "dan di belakang(sesudah)",
+      "transliteration": "wa-adbāra"
+    },
+    {
+      "id": 41161,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_040_005.mp3",
+      "text": "ٱلسُّجُودِ",
+      "translation": "sujud",
+      "transliteration": "l-sujūdi"
+    },
+    {
+      "id": 41162,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bertasbihlah kamu kepada-Nya di malam hari dan setiap selesai salat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 484280,
+    "timestamp_to": 492090,
+    "duration": 7810,
+    "segments": [
+      [
+        1,
+        483935,
+        484635
+      ],
+      [
+        2,
+        484635,
+        485655
+      ],
+      [
+        3,
+        485655,
+        487175
+      ],
+      [
+        4,
+        487175,
+        488395
+      ],
+      [
+        5,
+        488395,
+        491680
+      ]
+    ]
+  }
+}

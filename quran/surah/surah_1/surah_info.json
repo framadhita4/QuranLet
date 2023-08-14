@@ -1,0 +1,18 @@
+{
+  "surah_number": 1,
+  "name": "Al-Fatihah",
+  "translation": {
+    "en": "The Opener",
+    "ar": "الفاتحة",
+    "id": "Pembukaan"
+  },
+  "ayahs": 7,
+  "type": "Makkiyah",
+  "audio_file": {
+    "id": 911,
+    "chapter": 1,
+    "file_size": 839808,
+    "format": "mp3",
+    "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3"
+  }
+}

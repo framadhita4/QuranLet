@@ -1,0 +1,73 @@
+{
+  "id": 6116,
+  "chapter_id": 96,
+  "verse_key": "96:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "عَبْدًا إِذَا صَلَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 11656,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_010_001.mp3",
+      "text": "عَبْدًا",
+      "translation": "hamba",
+      "transliteration": "ʿabdan"
+    },
+    {
+      "id": 11657,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_010_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 11658,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_010_003.mp3",
+      "text": "صَلَّىٰٓ",
+      "translation": "sholat",
+      "transliteration": "ṣallā"
+    },
+    {
+      "id": 11659,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "seorang hamba ketika mengerjakan salat<sup foot_note_id=\"1591\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 38350,
+    "timestamp_to": 41380,
+    "duration": 3030,
+    "segments": [
+      [
+        1,
+        38025,
+        38865
+      ],
+      [
+        2,
+        38865,
+        39525
+      ],
+      [
+        3,
+        39525,
+        40570
+      ]
+    ]
+  }
+}

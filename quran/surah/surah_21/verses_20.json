@@ -1,0 +1,99 @@
+{
+  "id": 2503,
+  "chapter_id": 21,
+  "verse_key": "21:20",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 279,
+  "manzil_number": 4,
+  "page_number": 323,
+  "juz_number": 17,
+  "text_uthmani": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 22597,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_020_001.mp3",
+      "text": "يُسَبِّحُونَ",
+      "translation": "mereka bertasbih",
+      "transliteration": "yusabbiḥūna"
+    },
+    {
+      "id": 22598,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_020_002.mp3",
+      "text": "ٱلَّيْلَ",
+      "translation": "malam",
+      "transliteration": "al-layla"
+    },
+    {
+      "id": 22599,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_020_003.mp3",
+      "text": "وَٱلنَّهَارَ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāra"
+    },
+    {
+      "id": 22600,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_020_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 22601,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_020_005.mp3",
+      "text": "يَفْتُرُونَ",
+      "translation": "mereka diam/henti-hentinya",
+      "transliteration": "yafturūna"
+    },
+    {
+      "id": 22602,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka selalu bertasbih malam dan siang tiada henti-hentinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 250530,
+    "timestamp_to": 257640,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        250455,
+        251835
+      ],
+      [
+        2,
+        251835,
+        252675
+      ],
+      [
+        3,
+        252675,
+        254505
+      ],
+      [
+        4,
+        254505,
+        254895
+      ],
+      [
+        5,
+        254895,
+        257540
+      ]
+    ]
+  }
+}

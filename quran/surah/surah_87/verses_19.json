@@ -1,0 +1,73 @@
+{
+  "id": 5967,
+  "chapter_id": 87,
+  "verse_key": "87:19",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 21185,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_019_001.mp3",
+      "text": "صُحُفِ",
+      "translation": "kitab",
+      "transliteration": "ṣuḥufi"
+    },
+    {
+      "id": 21186,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_019_002.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 21187,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_019_003.mp3",
+      "text": "وَمُوسَىٰ",
+      "translation": "dan Musa",
+      "transliteration": "wamūsā"
+    },
+    {
+      "id": 21188,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) Kitab-kitab Ibrāhīm dan Musa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 89840,
+    "timestamp_to": 95690,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        89455,
+        90285
+      ],
+      [
+        2,
+        90285,
+        91815
+      ],
+      [
+        3,
+        91815,
+        93480
+      ]
+    ]
+  }
+}

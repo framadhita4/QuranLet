@@ -1,0 +1,86 @@
+{
+  "id": 4655,
+  "chapter_id": 50,
+  "verse_key": "50:25",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 27847,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_001.mp3",
+      "text": "مَّنَّاعٍۢ",
+      "translation": "yang sangat menghalangi",
+      "transliteration": "mannāʿin"
+    },
+    {
+      "id": 27848,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_002.mp3",
+      "text": "لِّلْخَيْرِ",
+      "translation": "pada kebaikan",
+      "transliteration": "lil'khayri"
+    },
+    {
+      "id": 27849,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_003.mp3",
+      "text": "مُعْتَدٍۢ",
+      "translation": "melampaui batas",
+      "transliteration": "muʿ'tadin"
+    },
+    {
+      "id": 27850,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_004.mp3",
+      "text": "مُّرِيبٍ",
+      "translation": "ragu-ragu",
+      "transliteration": "murībin"
+    },
+    {
+      "id": 27851,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang sangat menghalangi kebajikan, melanggar batas lagi ragu-ragu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 300440,
+    "timestamp_to": 309190,
+    "duration": 8750,
+    "segments": [
+      [
+        1,
+        300385,
+        302435
+      ],
+      [
+        2,
+        302435,
+        303845
+      ],
+      [
+        3,
+        303845,
+        305555
+      ],
+      [
+        4,
+        305555,
+        309060
+      ]
+    ]
+  }
+}

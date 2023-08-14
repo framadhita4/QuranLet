@@ -1,0 +1,112 @@
+{
+  "id": 3443,
+  "chapter_id": 30,
+  "verse_key": "30:34",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "ruku_number": 353,
+  "manzil_number": 5,
+  "page_number": 408,
+  "juz_number": 21,
+  "text_uthmani": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 36655,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_034_001.mp3",
+      "text": "لِيَكْفُرُوا۟",
+      "translation": "karena mereka mengingkari",
+      "transliteration": "liyakfurū"
+    },
+    {
+      "id": 36656,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_034_002.mp3",
+      "text": "بِمَآ",
+      "translation": "dengan apa (rahmat)",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 36657,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_034_003.mp3",
+      "text": "ءَاتَيْنَـٰهُمْ ۚ",
+      "translation": "Kami telah berikan kepada mereka",
+      "transliteration": "ātaynāhum"
+    },
+    {
+      "id": 36659,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_034_005.mp3",
+      "text": "فَتَمَتَّعُوا۟",
+      "translation": "maka bersenang-senanglah",
+      "transliteration": "fatamattaʿū"
+    },
+    {
+      "id": 36660,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_034_006.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 36661,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_034_007.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 36662,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sehingga mereka mengingkari akan rahmat yang telah Kami berikan kepada mereka.  Maka bersenang-senanglah kamu sekalian, kelak kamu akan mengetahui (akibat perbuatanmu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 623530,
+    "timestamp_to": 634760,
+    "duration": 11230,
+    "segments": [
+      [
+        1,
+        623505,
+        625025
+      ],
+      [
+        2,
+        625025,
+        625435
+      ],
+      [
+        3,
+        625435,
+        629285
+      ],
+      [
+        4,
+        629285,
+        630705
+      ],
+      [
+        5,
+        630705,
+        631595
+      ],
+      [
+        6,
+        631595,
+        634690
+      ]
+    ]
+  }
+}

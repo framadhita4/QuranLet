@@ -1,0 +1,138 @@
+{
+  "id": 4091,
+  "chapter_id": 39,
+  "verse_key": "39:33",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "ruku_number": 401,
+  "manzil_number": 6,
+  "page_number": 462,
+  "juz_number": 24,
+  "text_uthmani": "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِۦٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 35180,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_001.mp3",
+      "text": "وَٱلَّذِى",
+      "translation": "dan yang/orang",
+      "transliteration": "wa-alladhī"
+    },
+    {
+      "id": 35181,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_002.mp3",
+      "text": "جَآءَ",
+      "translation": "datang/membawa",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 35182,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_003.mp3",
+      "text": "بِٱلصِّدْقِ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ṣid'qi"
+    },
+    {
+      "id": 35183,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_004.mp3",
+      "text": "وَصَدَّقَ",
+      "translation": "dan dia membenarkan",
+      "transliteration": "waṣaddaqa"
+    },
+    {
+      "id": 35184,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_005.mp3",
+      "text": "بِهِۦٓ ۙ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 35186,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_007.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 35187,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_008.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 35188,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_033_009.mp3",
+      "text": "ٱلْمُتَّقُونَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqūna"
+    },
+    {
+      "id": 35189,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang yang membawa kebenaran (Muhammad) dan membenarkannya, mereka itulah orang-orang yang bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 716420,
+    "timestamp_to": 730000,
+    "duration": 13580,
+    "segments": [
+      [
+        1,
+        716385,
+        717505
+      ],
+      [
+        2,
+        717505,
+        719505
+      ],
+      [
+        3,
+        719505,
+        720455
+      ],
+      [
+        4,
+        720455,
+        721535
+      ],
+      [
+        5,
+        721535,
+        723275
+      ],
+      [
+        6,
+        723275,
+        725985
+      ],
+      [
+        7,
+        725985,
+        726375
+      ],
+      [
+        8,
+        726375,
+        729910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6171,
+  "chapter_id": 102,
+  "verse_key": "102:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 546,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا سَوْفَ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3",
+  "words": [
+    {
+      "id": 2157,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_003_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 2158,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_003_002.mp3",
+      "text": "سَوْفَ",
+      "translation": "kelak",
+      "transliteration": "sawfa"
+    },
+    {
+      "id": 2159,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/102_003_003.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 2160,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Janganlah begitu, kelak kamu akan mengetahui (akibat perbuatanmu itu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7440,
+    "timestamp_to": 12820,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        7375,
+        8215
+      ],
+      [
+        2,
+        8215,
+        8945
+      ],
+      [
+        3,
+        8945,
+        12650
+      ]
+    ]
+  }
+}

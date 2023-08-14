@@ -1,0 +1,60 @@
+{
+  "id": 4460,
+  "chapter_id": 44,
+  "verse_key": "44:46",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "كَغَلْىِ ٱلْحَمِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 45763,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_046_001.mp3",
+      "text": "كَغَلْىِ",
+      "translation": "seperti mendidihnya",
+      "transliteration": "kaghalyi"
+    },
+    {
+      "id": 45764,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_046_002.mp3",
+      "text": "ٱلْحَمِيمِ",
+      "translation": "air yang sangat panas",
+      "transliteration": "l-ḥamīmi"
+    },
+    {
+      "id": 45765,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "seperti mendidihnya air yang sangat panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 455390,
+    "timestamp_to": 460090,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        455365,
+        456235
+      ],
+      [
+        2,
+        456235,
+        460040
+      ]
+    ]
+  }
+}

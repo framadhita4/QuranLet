@@ -1,0 +1,73 @@
+{
+  "id": 5734,
+  "chapter_id": 79,
+  "verse_key": "79:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 24994,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_022_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 24995,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_022_002.mp3",
+      "text": "أَدْبَرَ",
+      "translation": "dia berpaling",
+      "transliteration": "adbara"
+    },
+    {
+      "id": 24996,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_022_003.mp3",
+      "text": "يَسْعَىٰ",
+      "translation": "dia berusaha/berjalan",
+      "transliteration": "yasʿā"
+    },
+    {
+      "id": 24997,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian dia berpaling seraya berusaha menantang (Musa).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 95830,
+    "timestamp_to": 99330,
+    "duration": 3500,
+    "segments": [
+      [
+        1,
+        95595,
+        96945
+      ],
+      [
+        2,
+        96945,
+        97835
+      ],
+      [
+        3,
+        97835,
+        98750
+      ]
+    ]
+  }
+}

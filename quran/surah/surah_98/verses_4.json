@@ -1,0 +1,177 @@
+{
+  "id": 6134,
+  "chapter_id": 98,
+  "verse_key": "98:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 542,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/98.mp3",
+  "words": [
+    {
+      "id": 3300,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 3301,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_002.mp3",
+      "text": "تَفَرَّقَ",
+      "translation": "berpecah-belah",
+      "transliteration": "tafarraqa"
+    },
+    {
+      "id": 3302,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 3303,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_004.mp3",
+      "text": "أُوتُوا۟",
+      "translation": "mereka diberi",
+      "transliteration": "ūtū"
+    },
+    {
+      "id": 3304,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_005.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "Al Kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 3305,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_006.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 3306,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_007.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 3307,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_008.mp3",
+      "text": "بَعْدِ",
+      "translation": "setelah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 3308,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_009.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 3309,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_010.mp3",
+      "text": "جَآءَتْهُمُ",
+      "translation": "datang kepada mereka",
+      "transliteration": "jāathumu"
+    },
+    {
+      "id": 3310,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/098_004_011.mp3",
+      "text": "ٱلْبَيِّنَةُ",
+      "translation": "bukti nyata",
+      "transliteration": "l-bayinatu"
+    },
+    {
+      "id": 3311,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah berpecah belah orang-orang yang didatangkan Alkitab (kepada mereka) melainkan sesudah datang kepada mereka bukti yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23850,
+    "timestamp_to": 35660,
+    "duration": 11810,
+    "segments": [
+      [
+        1,
+        23765,
+        24495
+      ],
+      [
+        2,
+        24495,
+        25535
+      ],
+      [
+        3,
+        25535,
+        26585
+      ],
+      [
+        4,
+        26585,
+        27115
+      ],
+      [
+        5,
+        27115,
+        28155
+      ],
+      [
+        6,
+        28155,
+        28935
+      ],
+      [
+        7,
+        28935,
+        29985
+      ],
+      [
+        8,
+        29985,
+        30645
+      ],
+      [
+        9,
+        30645,
+        30995
+      ],
+      [
+        10,
+        30995,
+        33705
+      ],
+      [
+        11,
+        33705,
+        35490
+      ]
+    ]
+  }
+}

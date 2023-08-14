@@ -1,0 +1,73 @@
+{
+  "id": 5971,
+  "chapter_id": 88,
+  "verse_key": "88:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "تَصْلَىٰ نَارًا حَامِيَةً",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 3332,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_004_001.mp3",
+      "text": "تَصْلَىٰ",
+      "translation": "ia memasuki",
+      "transliteration": "taṣlā"
+    },
+    {
+      "id": 3333,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_004_002.mp3",
+      "text": "نَارًا",
+      "translation": "api/neraka",
+      "transliteration": "nāran"
+    },
+    {
+      "id": 3334,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_004_003.mp3",
+      "text": "حَامِيَةًۭ",
+      "translation": "sangat panas",
+      "transliteration": "ḥāmiyatan"
+    },
+    {
+      "id": 3335,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "memasuki api yang sangat panas (neraka),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13090,
+    "timestamp_to": 16510,
+    "duration": 3420,
+    "segments": [
+      [
+        1,
+        13025,
+        13815
+      ],
+      [
+        2,
+        13815,
+        14655
+      ],
+      [
+        3,
+        14655,
+        16380
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 59,
+  "chapter_id": 2,
+  "verse_key": "2:52",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 7,
+  "manzil_number": 1,
+  "page_number": 8,
+  "juz_number": 1,
+  "text_uthmani": "ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 50252,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 50253,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_002.mp3",
+      "text": "عَفَوْنَا",
+      "translation": "Kami maafkan",
+      "transliteration": "ʿafawnā"
+    },
+    {
+      "id": 50254,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_003.mp3",
+      "text": "عَنكُم",
+      "translation": "dari kalian",
+      "transliteration": "ʿankum"
+    },
+    {
+      "id": 50255,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_004.mp3",
+      "text": "مِّنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50256,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_005.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 50257,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_006.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 50258,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_007.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 50259,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_052_008.mp3",
+      "text": "تَشْكُرُونَ",
+      "translation": "kalian bersyukur",
+      "transliteration": "tashkurūna"
+    },
+    {
+      "id": 50260,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian sesudah itu, Kami maafkan kesalahanmu agar kamu bersyukur.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 938960,
+    "timestamp_to": 949410,
+    "duration": 10450,
+    "segments": [
+      [
+        1,
+        938865,
+        940185
+      ],
+      [
+        2,
+        940185,
+        941215
+      ],
+      [
+        3,
+        941215,
+        942525
+      ],
+      [
+        4,
+        942525,
+        943915
+      ],
+      [
+        5,
+        943915,
+        944565
+      ],
+      [
+        6,
+        944565,
+        945315
+      ],
+      [
+        7,
+        945315,
+        946495
+      ],
+      [
+        8,
+        946495,
+        949250
+      ]
+    ]
+  }
+}

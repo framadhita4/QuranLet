@@ -1,0 +1,86 @@
+{
+  "id": 3910,
+  "chapter_id": 37,
+  "verse_key": "37:122",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 76757,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_122_001.mp3",
+      "text": "إِنَّهُمَا",
+      "translation": "sesungguhnya keduanya",
+      "transliteration": "innahumā"
+    },
+    {
+      "id": 76758,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_122_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 76759,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_122_003.mp3",
+      "text": "عِبَادِنَا",
+      "translation": "hamba-hamba Kami",
+      "transliteration": "ʿibādinā"
+    },
+    {
+      "id": 76760,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_122_004.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 76761,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢٢",
+      "translation": "(122)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya keduanya termasuk hamba-hamba Kami yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1007330,
+    "timestamp_to": 1015400,
+    "duration": 8070,
+    "segments": [
+      [
+        1,
+        1007255,
+        1009245
+      ],
+      [
+        2,
+        1009245,
+        1009605
+      ],
+      [
+        3,
+        1009605,
+        1010735
+      ],
+      [
+        4,
+        1010735,
+        1015270
+      ]
+    ]
+  }
+}

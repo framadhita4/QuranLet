@@ -1,0 +1,151 @@
+{
+  "id": 2584,
+  "chapter_id": 21,
+  "verse_key": "21:101",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "page_number": 330,
+  "juz_number": 17,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ سَبَقَتْ لَهُم مِّنَّا ٱلْحُسْنَىٰٓ أُو۟لَـٰٓئِكَ عَنْهَا مُبْعَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 71459,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 71460,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 71461,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_003.mp3",
+      "text": "سَبَقَتْ",
+      "translation": "telah/lebih dahulu",
+      "transliteration": "sabaqat"
+    },
+    {
+      "id": 71462,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_004.mp3",
+      "text": "لَهُم",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 71463,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_005.mp3",
+      "text": "مِّنَّا",
+      "translation": "dari Kami",
+      "transliteration": "minnā"
+    },
+    {
+      "id": 71464,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_006.mp3",
+      "text": "ٱلْحُسْنَىٰٓ",
+      "translation": "kebaikan",
+      "transliteration": "l-ḥus'nā"
+    },
+    {
+      "id": 71465,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_007.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 71466,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_008.mp3",
+      "text": "عَنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "ʿanhā"
+    },
+    {
+      "id": 71467,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_101_009.mp3",
+      "text": "مُبْعَدُونَ",
+      "translation": "mereka dijauhkan",
+      "transliteration": "mub'ʿadūna"
+    },
+    {
+      "id": 71468,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠١",
+      "translation": "(101)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahwasanya orang-orang yang telah ada untuk mereka ketetapan yang baik dari Kami, mereka itu dijauhkan dari neraka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1415900,
+    "timestamp_to": 1429950,
+    "duration": 14050,
+    "segments": [
+      [
+        1,
+        1415875,
+        1416975
+      ],
+      [
+        2,
+        1416975,
+        1417955
+      ],
+      [
+        3,
+        1417955,
+        1418865
+      ],
+      [
+        4,
+        1418865,
+        1419885
+      ],
+      [
+        5,
+        1419885,
+        1421345
+      ],
+      [
+        6,
+        1421345,
+        1422145
+      ],
+      [
+        7,
+        1422145,
+        1426514
+      ],
+      [
+        8,
+        1426515,
+        1427345
+      ],
+      [
+        9,
+        1427345,
+        1429880
+      ]
+    ]
+  }
+}

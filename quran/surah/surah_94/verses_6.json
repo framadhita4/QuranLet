@@ -1,0 +1,86 @@
+{
+  "id": 6096,
+  "chapter_id": 94,
+  "verse_key": "94:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3",
+  "words": [
+    {
+      "id": 6456,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_006_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 6457,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_006_002.mp3",
+      "text": "مَعَ",
+      "translation": "beserta",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 6458,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_006_003.mp3",
+      "text": "ٱلْعُسْرِ",
+      "translation": "kesulitan",
+      "transliteration": "l-ʿus'ri"
+    },
+    {
+      "id": 6459,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_006_004.mp3",
+      "text": "يُسْرًۭا",
+      "translation": "kemudahan",
+      "transliteration": "yus'ran"
+    },
+    {
+      "id": 6460,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya sesudah kesulitan itu ada kemudahan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21530,
+    "timestamp_to": 25680,
+    "duration": 4150,
+    "segments": [
+      [
+        1,
+        21505,
+        22905
+      ],
+      [
+        2,
+        22905,
+        23285
+      ],
+      [
+        3,
+        23285,
+        24155
+      ],
+      [
+        4,
+        24155,
+        25630
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1440,
+  "chapter_id": 10,
+  "verse_key": "10:76",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "ruku_number": 179,
+  "manzil_number": 3,
+  "page_number": 217,
+  "juz_number": 11,
+  "text_uthmani": "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَـٰذَا لَسِحْرٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 62359,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 62360,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_002.mp3",
+      "text": "جَآءَهُمُ",
+      "translation": "datang kepada mereka",
+      "transliteration": "jāahumu"
+    },
+    {
+      "id": 62361,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_003.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "kebenaran",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 62362,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_004.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 62363,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_005.mp3",
+      "text": "عِندِنَا",
+      "translation": "sisi Kami",
+      "transliteration": "ʿindinā"
+    },
+    {
+      "id": 62364,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_006.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 62365,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_007.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62366,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_008.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 62367,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_009.mp3",
+      "text": "لَسِحْرٌۭ",
+      "translation": "adalah sihir",
+      "transliteration": "lasiḥ'run"
+    },
+    {
+      "id": 62368,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_076_010.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 62369,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tatkala telah datang kepada mereka kebenaran <sup foot_note_id=\"701\">1</sup> dari sisi Kami, mereka berkata, \"Sesungguhnya ini adalah sihir yang nyata\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1957060,
+    "timestamp_to": 1973780,
+    "duration": 16720,
+    "segments": [
+      [
+        1,
+        1957005,
+        1958845
+      ],
+      [
+        2,
+        1958845,
+        1961245
+      ],
+      [
+        3,
+        1961245,
+        1962175
+      ],
+      [
+        4,
+        1962175,
+        1962505
+      ],
+      [
+        5,
+        1962505,
+        1964115
+      ],
+      [
+        6,
+        1964115,
+        1966295
+      ],
+      [
+        7,
+        1966295,
+        1967645
+      ],
+      [
+        8,
+        1967645,
+        1968495
+      ],
+      [
+        9,
+        1968495,
+        1969325
+      ],
+      [
+        10,
+        1969325,
+        1973660
+      ]
+    ]
+  }
+}

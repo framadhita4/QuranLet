@@ -1,0 +1,99 @@
+{
+  "id": 3817,
+  "chapter_id": 37,
+  "verse_key": "37:29",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 32343,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_029_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata/menjawab",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 32344,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_029_002.mp3",
+      "text": "بَل",
+      "translation": "bahkan/sebenarnya",
+      "transliteration": "bal"
+    },
+    {
+      "id": 32345,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_029_003.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 32346,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_029_004.mp3",
+      "text": "تَكُونُوا۟",
+      "translation": "kalian menjadi",
+      "transliteration": "takūnū"
+    },
+    {
+      "id": 32347,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_029_005.mp3",
+      "text": "مُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minīna"
+    },
+    {
+      "id": 32348,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pemimpin-pemimpin mereka menjawab, \"Sebenarnya, kamulah yang tidak beriman\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 226890,
+    "timestamp_to": 233370,
+    "duration": 6480,
+    "segments": [
+      [
+        1,
+        226805,
+        227715
+      ],
+      [
+        2,
+        227715,
+        227985
+      ],
+      [
+        3,
+        227985,
+        228455
+      ],
+      [
+        4,
+        228455,
+        229625
+      ],
+      [
+        5,
+        229625,
+        233210
+      ]
+    ]
+  }
+}

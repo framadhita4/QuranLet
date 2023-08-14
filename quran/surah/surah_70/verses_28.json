@@ -1,0 +1,99 @@
+{
+  "id": 5403,
+  "chapter_id": 70,
+  "verse_key": "70:28",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 30935,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_028_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 30936,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_028_002.mp3",
+      "text": "عَذَابَ",
+      "translation": "siksaan/azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 30937,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_028_003.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 30938,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_028_004.mp3",
+      "text": "غَيْرُ",
+      "translation": "lain/tidak",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 30939,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_028_005.mp3",
+      "text": "مَأْمُونٍۢ",
+      "translation": "orang yang merasa aman",
+      "transliteration": "mamūnin"
+    },
+    {
+      "id": 30940,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena sesungguhnya azab Tuhan mereka tidak dapat orang merasa aman (dari kedatangannya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 155360,
+    "timestamp_to": 161940,
+    "duration": 6580,
+    "segments": [
+      [
+        1,
+        155305,
+        156365
+      ],
+      [
+        2,
+        156365,
+        157195
+      ],
+      [
+        3,
+        157195,
+        158125
+      ],
+      [
+        4,
+        158125,
+        158775
+      ],
+      [
+        5,
+        158775,
+        161810
+      ]
+    ]
+  }
+}

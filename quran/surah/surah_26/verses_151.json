@@ -1,0 +1,86 @@
+{
+  "id": 3083,
+  "chapter_id": 26,
+  "verse_key": "26:151",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 80627,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_151_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 80628,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_151_002.mp3",
+      "text": "تُطِيعُوٓا۟",
+      "translation": "kamu mentaati",
+      "transliteration": "tuṭīʿū"
+    },
+    {
+      "id": 80629,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_151_003.mp3",
+      "text": "أَمْرَ",
+      "translation": "perintah",
+      "transliteration": "amra"
+    },
+    {
+      "id": 80630,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_151_004.mp3",
+      "text": "ٱلْمُسْرِفِينَ",
+      "translation": "orang-orang yang melewati batas",
+      "transliteration": "l-mus'rifīna"
+    },
+    {
+      "id": 80631,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٥١",
+      "translation": "(151)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan janganlah kamu menaati perintah orang-orang yang melewati batas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1311330,
+    "timestamp_to": 1318170,
+    "duration": 6850,
+    "segments": [
+      [
+        1,
+        1311305,
+        1311995
+      ],
+      [
+        2,
+        1311995,
+        1314305
+      ],
+      [
+        3,
+        1314305,
+        1314935
+      ],
+      [
+        4,
+        1314935,
+        1318090
+      ]
+    ]
+  }
+}

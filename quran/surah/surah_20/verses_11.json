@@ -1,0 +1,86 @@
+{
+  "id": 2359,
+  "chapter_id": 20,
+  "verse_key": "20:11",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "فَلَمَّآ أَتَىٰهَا نُودِىَ يَـٰمُوسَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 12453,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_011_001.mp3",
+      "text": "فَلَمَّآ",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 12454,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_011_002.mp3",
+      "text": "أَتَىٰهَا",
+      "translation": "dia mendatanginya",
+      "transliteration": "atāhā"
+    },
+    {
+      "id": 12455,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_011_003.mp3",
+      "text": "نُودِىَ",
+      "translation": "dia dipanggil",
+      "transliteration": "nūdiya"
+    },
+    {
+      "id": 12456,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_011_004.mp3",
+      "text": "يَـٰمُوسَىٰٓ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 12457,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka ketika ia datang ke tempat api itu, ia dipanggil, \"Hai Musa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 92420,
+    "timestamp_to": 99730,
+    "duration": 7320,
+    "segments": [
+      [
+        1,
+        92395,
+        95665
+      ],
+      [
+        2,
+        95665,
+        96825
+      ],
+      [
+        3,
+        96825,
+        97755
+      ],
+      [
+        4,
+        97755,
+        99260
+      ]
+    ]
+  }
+}

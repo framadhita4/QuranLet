@@ -1,0 +1,73 @@
+{
+  "id": 5371,
+  "chapter_id": 69,
+  "verse_key": "69:48",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 47088,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_048_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 47089,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_048_002.mp3",
+      "text": "لَتَذْكِرَةٌۭ",
+      "translation": "benar-benar peringatan",
+      "transliteration": "latadhkiratun"
+    },
+    {
+      "id": 47090,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_048_003.mp3",
+      "text": "لِّلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang bertakwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 47091,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Al-Qur`ān itu benar-benar suatu pelajaran bagi orang-orang yang bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 362520,
+    "timestamp_to": 369910,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        362445,
+        364325
+      ],
+      [
+        2,
+        364325,
+        365655
+      ],
+      [
+        3,
+        365655,
+        369770
+      ]
+    ]
+  }
+}

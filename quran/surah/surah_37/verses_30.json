@@ -1,0 +1,164 @@
+{
+  "id": 3818,
+  "chapter_id": 37,
+  "verse_key": "37:30",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَـٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًا طَـٰغِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 33203,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 33204,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_002.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 33205,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_003.mp3",
+      "text": "لَنَا",
+      "translation": "bagi kami",
+      "transliteration": "lanā"
+    },
+    {
+      "id": 33206,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_004.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 33207,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_005.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 33208,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_006.mp3",
+      "text": "سُلْطَـٰنٍۭ ۖ",
+      "translation": "kekuasaan",
+      "transliteration": "sul'ṭānin"
+    },
+    {
+      "id": 33210,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_008.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 33211,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_009.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 33212,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_010.mp3",
+      "text": "قَوْمًۭا",
+      "translation": "kaum",
+      "transliteration": "qawman"
+    },
+    {
+      "id": 33213,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_030_011.mp3",
+      "text": "طَـٰغِينَ",
+      "translation": "durhaka",
+      "transliteration": "ṭāghīna"
+    },
+    {
+      "id": 33214,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sekali-kali, kami tidak berkuasa terhadapmu, bahkan kamulah kaum yang melampaui batas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 233370,
+    "timestamp_to": 249880,
+    "duration": 16510,
+    "segments": [
+      [
+        1,
+        233295,
+        233965
+      ],
+      [
+        2,
+        233965,
+        234585
+      ],
+      [
+        3,
+        234585,
+        235235
+      ],
+      [
+        4,
+        235235,
+        236225
+      ],
+      [
+        5,
+        236225,
+        238255
+      ],
+      [
+        6,
+        238255,
+        242265
+      ],
+      [
+        7,
+        242265,
+        242635
+      ],
+      [
+        8,
+        242635,
+        244555
+      ],
+      [
+        9,
+        244555,
+        246135
+      ],
+      [
+        10,
+        246135,
+        249700
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 3815,
+  "chapter_id": 37,
+  "verse_key": "37:27",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 30383,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_027_001.mp3",
+      "text": "وَأَقْبَلَ",
+      "translation": "dan menghadap",
+      "transliteration": "wa-aqbala"
+    },
+    {
+      "id": 30384,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_027_002.mp3",
+      "text": "بَعْضُهُمْ",
+      "translation": "sebagian mereka",
+      "transliteration": "baʿḍuhum"
+    },
+    {
+      "id": 30385,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_027_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 30386,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_027_004.mp3",
+      "text": "بَعْضٍۢ",
+      "translation": "sebagian yang lain",
+      "transliteration": "baʿḍin"
+    },
+    {
+      "id": 30387,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_027_005.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka bertanya-tanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 30388,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebagian dan mereka menghadap kepada sebagian yang lain berbantah-bantahan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 205750,
+    "timestamp_to": 216280,
+    "duration": 10530,
+    "segments": [
+      [
+        1,
+        205675,
+        206895
+      ],
+      [
+        2,
+        206895,
+        207865
+      ],
+      [
+        3,
+        207865,
+        208495
+      ],
+      [
+        4,
+        208495,
+        210065
+      ],
+      [
+        5,
+        210065,
+        216130
+      ]
+    ]
+  }
+}

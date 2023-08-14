@@ -1,0 +1,86 @@
+{
+  "id": 3927,
+  "chapter_id": 37,
+  "verse_key": "37:139",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79018,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_139_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 79019,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_139_002.mp3",
+      "text": "يُونُسَ",
+      "translation": "Yunus",
+      "transliteration": "yūnusa"
+    },
+    {
+      "id": 79020,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_139_003.mp3",
+      "text": "لَمِنَ",
+      "translation": "benar-benar termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 79021,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_139_004.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 79022,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٣٩",
+      "translation": "(139)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Yūnus benar-benar salah seorang rasul,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1128870,
+    "timestamp_to": 1135140,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        1128805,
+        1130215
+      ],
+      [
+        2,
+        1130215,
+        1131195
+      ],
+      [
+        3,
+        1131195,
+        1131665
+      ],
+      [
+        4,
+        1131665,
+        1135020
+      ]
+    ]
+  }
+}

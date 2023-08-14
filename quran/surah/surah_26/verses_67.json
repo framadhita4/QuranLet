@@ -1,0 +1,138 @@
+{
+  "id": 2999,
+  "chapter_id": 26,
+  "verse_key": "26:67",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 58252,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 58253,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 58254,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 58255,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_004.mp3",
+      "text": "لَـَٔايَةًۭ ۖ",
+      "translation": "benar-benar suatu tanda",
+      "transliteration": "laāyatan"
+    },
+    {
+      "id": 58257,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 58258,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_007.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 58259,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_008.mp3",
+      "text": "أَكْثَرُهُم",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharuhum"
+    },
+    {
+      "id": 58260,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_067_009.mp3",
+      "text": "مُّؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minīna"
+    },
+    {
+      "id": 58261,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada yang demikian itu benar-benar merupakan suatu tanda yang besar (mukjizat) dan tetapi adalah kebanyakan mereka tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 675610,
+    "timestamp_to": 686610,
+    "duration": 11000,
+    "segments": [
+      [
+        1,
+        675555,
+        677035
+      ],
+      [
+        2,
+        677035,
+        677535
+      ],
+      [
+        3,
+        677535,
+        678475
+      ],
+      [
+        4,
+        678475,
+        679975
+      ],
+      [
+        5,
+        679975,
+        680615
+      ],
+      [
+        6,
+        680615,
+        681275
+      ],
+      [
+        7,
+        681275,
+        682475
+      ],
+      [
+        8,
+        682475,
+        686520
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5508,
+  "chapter_id": 74,
+  "verse_key": "74:13",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَبَنِينَ شُهُودًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 15267,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_013_001.mp3",
+      "text": "وَبَنِينَ",
+      "translation": "dan anak-anak",
+      "transliteration": "wabanīna"
+    },
+    {
+      "id": 15268,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_013_002.mp3",
+      "text": "شُهُودًۭا",
+      "translation": "saksi-saksi/hadir",
+      "transliteration": "shuhūdan"
+    },
+    {
+      "id": 15269,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan anak-anak yang selalu bersama dia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 47600,
+    "timestamp_to": 50110,
+    "duration": 2510,
+    "segments": [
+      [
+        1,
+        47255,
+        48205
+      ],
+      [
+        2,
+        48205,
+        49510
+      ]
+    ]
+  }
+}

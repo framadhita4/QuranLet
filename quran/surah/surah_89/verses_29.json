@@ -1,0 +1,73 @@
+{
+  "id": 6022,
+  "chapter_id": 89,
+  "verse_key": "89:29",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "فَٱدْخُلِى فِى عِبَـٰدِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 32080,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_029_001.mp3",
+      "text": "فَٱدْخُلِى",
+      "translation": "maka masuklah",
+      "transliteration": "fa-ud'khulī"
+    },
+    {
+      "id": 32081,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_029_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 32082,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_029_003.mp3",
+      "text": "عِبَـٰدِى",
+      "translation": "hamba-Ku",
+      "transliteration": "ʿibādī"
+    },
+    {
+      "id": 32083,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka masuklah ke dalam jemaah hamba-hamba-Ku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 187420,
+    "timestamp_to": 190630,
+    "duration": 3210,
+    "segments": [
+      [
+        1,
+        187335,
+        188375
+      ],
+      [
+        2,
+        188375,
+        188855
+      ],
+      [
+        3,
+        188855,
+        190030
+      ]
+    ]
+  }
+}

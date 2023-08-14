@@ -1,0 +1,125 @@
+{
+  "id": 3165,
+  "chapter_id": 27,
+  "verse_key": "27:6",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "ruku_number": 327,
+  "manzil_number": 5,
+  "page_number": 377,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 6789,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_001.mp3",
+      "text": "وَإِنَّكَ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innaka"
+    },
+    {
+      "id": 6790,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_002.mp3",
+      "text": "لَتُلَقَّى",
+      "translation": "sungguh kamu menerima/diberi",
+      "transliteration": "latulaqqā"
+    },
+    {
+      "id": 6791,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_003.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al-Qur'an",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 6792,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 6793,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_005.mp3",
+      "text": "لَّدُنْ",
+      "translation": "sisi",
+      "transliteration": "ladun"
+    },
+    {
+      "id": 6794,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_006.mp3",
+      "text": "حَكِيمٍ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "ḥakīmin"
+    },
+    {
+      "id": 6795,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_006_007.mp3",
+      "text": "عَلِيمٍ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmin"
+    },
+    {
+      "id": 6796,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya kamu benar-benar diberi Al-Qur`ān dari sisi (Allah) Yang Maha Bijaksana lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 54880,
+    "timestamp_to": 63740,
+    "duration": 8860,
+    "segments": [
+      [
+        1,
+        54825,
+        56495
+      ],
+      [
+        2,
+        56495,
+        57485
+      ],
+      [
+        3,
+        57485,
+        58895
+      ],
+      [
+        4,
+        58895,
+        59145
+      ],
+      [
+        5,
+        59145,
+        59885
+      ],
+      [
+        6,
+        59885,
+        60985
+      ],
+      [
+        7,
+        60985,
+        63620
+      ]
+    ]
+  }
+}

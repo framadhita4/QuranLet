@@ -1,0 +1,125 @@
+{
+  "id": 2730,
+  "chapter_id": 23,
+  "verse_key": "23:57",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 52846,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 52847,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 52848,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_003.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 52849,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari/karena",
+      "transliteration": "min"
+    },
+    {
+      "id": 52850,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_005.mp3",
+      "text": "خَشْيَةِ",
+      "translation": "takut",
+      "transliteration": "khashyati"
+    },
+    {
+      "id": 52851,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_006.mp3",
+      "text": "رَبِّهِم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 52852,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_057_007.mp3",
+      "text": "مُّشْفِقُونَ",
+      "translation": "mereka berhati-hati/menjaga diri",
+      "transliteration": "mush'fiqūna"
+    },
+    {
+      "id": 52853,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya, orang-orang yang berhati-hati karena takut akan (azab) Tuhan mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 745220,
+    "timestamp_to": 754420,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        745155,
+        746685
+      ],
+      [
+        2,
+        746685,
+        747765
+      ],
+      [
+        3,
+        747765,
+        748275
+      ],
+      [
+        4,
+        748275,
+        749055
+      ],
+      [
+        5,
+        749055,
+        749915
+      ],
+      [
+        6,
+        749915,
+        751165
+      ],
+      [
+        7,
+        751165,
+        754300
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1145,
+  "chapter_id": 7,
+  "verse_key": "7:191",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "page_number": 175,
+  "juz_number": 9,
+  "text_uthmani": "أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 84704,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_001.mp3",
+      "text": "أَيُشْرِكُونَ",
+      "translation": "apakah mereka mempersekutukan",
+      "transliteration": "ayush'rikūna"
+    },
+    {
+      "id": 84705,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_002.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 84706,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 84707,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_004.mp3",
+      "text": "يَخْلُقُ",
+      "translation": "menciptakan",
+      "transliteration": "yakhluqu"
+    },
+    {
+      "id": 84708,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_005.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 84709,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_006.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 84710,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_191_007.mp3",
+      "text": "يُخْلَقُونَ",
+      "translation": "mereka diciptakan",
+      "transliteration": "yukh'laqūna"
+    },
+    {
+      "id": 84711,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٩١",
+      "translation": "(191)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah mereka mempersekutukan (Allah dengan) berhala-berhala yang tak dapat menciptakan sesuatu pun? Sedangkan berhala-berhala itu sendiri buatan orang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4516300,
+    "timestamp_to": 4524890,
+    "duration": 8600,
+    "segments": [
+      [
+        1,
+        4516255,
+        4517765
+      ],
+      [
+        2,
+        4517765,
+        4518265
+      ],
+      [
+        3,
+        4518265,
+        4518775
+      ],
+      [
+        4,
+        4518775,
+        4519595
+      ],
+      [
+        5,
+        4519595,
+        4521315
+      ],
+      [
+        6,
+        4521315,
+        4521905
+      ],
+      [
+        7,
+        4521905,
+        4524800
+      ]
+    ]
+  }
+}

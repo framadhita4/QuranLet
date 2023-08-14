@@ -1,0 +1,73 @@
+{
+  "id": 5740,
+  "chapter_id": 79,
+  "verse_key": "79:28",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 31058,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_028_001.mp3",
+      "text": "رَفَعَ",
+      "translation": "Dia meninggikan",
+      "transliteration": "rafaʿa"
+    },
+    {
+      "id": 31059,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_028_002.mp3",
+      "text": "سَمْكَهَا",
+      "translation": "bangunannya",
+      "transliteration": "samkahā"
+    },
+    {
+      "id": 31060,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_028_003.mp3",
+      "text": "فَسَوَّىٰهَا",
+      "translation": "lalu Dia sempurnakannya",
+      "transliteration": "fasawwāhā"
+    },
+    {
+      "id": 31061,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia meninggikan bangunannya lalu menyempurnakannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 127200,
+    "timestamp_to": 131120,
+    "duration": 3920,
+    "segments": [
+      [
+        1,
+        126735,
+        127405
+      ],
+      [
+        2,
+        127405,
+        128525
+      ],
+      [
+        3,
+        128525,
+        130220
+      ]
+    ]
+  }
+}

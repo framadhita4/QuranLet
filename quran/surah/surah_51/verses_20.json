@@ -1,0 +1,86 @@
+{
+  "id": 4695,
+  "chapter_id": 51,
+  "verse_key": "51:20",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَفِى ٱلْأَرْضِ ءَايَـٰتٌ لِّلْمُوقِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 22534,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_001.mp3",
+      "text": "وَفِى",
+      "translation": "dan di",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 22535,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_002.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi itu",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 22536,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_003.mp3",
+      "text": "ءَايَـٰتٌۭ",
+      "translation": "tanda-tanda",
+      "transliteration": "āyātun"
+    },
+    {
+      "id": 22537,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_004.mp3",
+      "text": "لِّلْمُوقِنِينَ",
+      "translation": "bagi orang-orang yang yakin",
+      "transliteration": "lil'mūqinīna"
+    },
+    {
+      "id": 22538,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di bumi itu terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang yakin,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 121490,
+    "timestamp_to": 127650,
+    "duration": 6170,
+    "segments": [
+      [
+        1,
+        121435,
+        121905
+      ],
+      [
+        2,
+        121905,
+        122775
+      ],
+      [
+        3,
+        122775,
+        123935
+      ],
+      [
+        4,
+        123935,
+        127550
+      ]
+    ]
+  }
+}

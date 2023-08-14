@@ -1,0 +1,86 @@
+{
+  "id": 6019,
+  "chapter_id": 89,
+  "verse_key": "89:26",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 29112,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_026_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 29113,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_026_002.mp3",
+      "text": "يُوثِقُ",
+      "translation": "mengikat",
+      "transliteration": "yūthiqu"
+    },
+    {
+      "id": 29114,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_026_003.mp3",
+      "text": "وَثَاقَهُۥٓ",
+      "translation": "ikatan-Nya",
+      "transliteration": "wathāqahu"
+    },
+    {
+      "id": 29115,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_026_004.mp3",
+      "text": "أَحَدٌۭ",
+      "translation": "seorang/satu",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 29116,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tiada seorang pun yang mengikat seperti ikatan-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 166410,
+    "timestamp_to": 171690,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        166325,
+        166975
+      ],
+      [
+        2,
+        166975,
+        167905
+      ],
+      [
+        3,
+        167905,
+        170535
+      ],
+      [
+        4,
+        170535,
+        171540
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6018,
+  "chapter_id": 89,
+  "verse_key": "89:25",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 27903,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_025_001.mp3",
+      "text": "فَيَوْمَئِذٍۢ",
+      "translation": "maka pada hari itu",
+      "transliteration": "fayawma-idhin"
+    },
+    {
+      "id": 27904,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_025_002.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 27905,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_025_003.mp3",
+      "text": "يُعَذِّبُ",
+      "translation": "menyiksa",
+      "transliteration": "yuʿadhibu"
+    },
+    {
+      "id": 27906,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_025_004.mp3",
+      "text": "عَذَابَهُۥٓ",
+      "translation": "siksa-Nya",
+      "transliteration": "ʿadhābahu"
+    },
+    {
+      "id": 27907,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_025_005.mp3",
+      "text": "أَحَدٌۭ",
+      "translation": "seorang/satu",
+      "transliteration": "aḥadun"
+    },
+    {
+      "id": 27908,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka pada hari itu, tiada seorang pun yang menyiksa seperti siksa-Nya<sup foot_note_id=\"1578\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 159490,
+    "timestamp_to": 166410,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        159415,
+        160735
+      ],
+      [
+        2,
+        160735,
+        161325
+      ],
+      [
+        3,
+        161325,
+        162365
+      ],
+      [
+        4,
+        162365,
+        165295
+      ],
+      [
+        5,
+        165295,
+        166250
+      ]
+    ]
+  }
+}

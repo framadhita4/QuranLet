@@ -1,0 +1,99 @@
+{
+  "id": 3212,
+  "chapter_id": 27,
+  "verse_key": "27:53",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 330,
+  "manzil_number": 5,
+  "page_number": 381,
+  "juz_number": 19,
+  "text_uthmani": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 50677,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_053_001.mp3",
+      "text": "وَأَنجَيْنَا",
+      "translation": "dan Kami selamatkan",
+      "transliteration": "wa-anjaynā"
+    },
+    {
+      "id": 50678,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_053_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 50679,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_053_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 50680,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_053_004.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 50681,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_053_005.mp3",
+      "text": "يَتَّقُونَ",
+      "translation": "mereka bertakwa",
+      "transliteration": "yattaqūna"
+    },
+    {
+      "id": 50682,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan telah Kami selamatkan orang-orang yang beriman <sup foot_note_id=\"1100\">1</sup> dan mereka itu selalu bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 942330,
+    "timestamp_to": 952230,
+    "duration": 9900,
+    "segments": [
+      [
+        1,
+        942275,
+        944095
+      ],
+      [
+        2,
+        944095,
+        945105
+      ],
+      [
+        3,
+        945105,
+        946395
+      ],
+      [
+        4,
+        946395,
+        947675
+      ],
+      [
+        5,
+        947675,
+        952130
+      ]
+    ]
+  }
+}

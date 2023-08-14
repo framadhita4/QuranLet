@@ -1,0 +1,60 @@
+{
+  "id": 4989,
+  "chapter_id": 56,
+  "verse_key": "56:10",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 11171,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_010_001.mp3",
+      "text": "وَٱلسَّـٰبِقُونَ",
+      "translation": "dan orang-orang terdahulu",
+      "transliteration": "wal-sābiqūna"
+    },
+    {
+      "id": 11172,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_010_002.mp3",
+      "text": "ٱلسَّـٰبِقُونَ",
+      "translation": "orang-orang terdahulu",
+      "transliteration": "l-sābiqūna"
+    },
+    {
+      "id": 11173,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang paling dahulu beriman, merekalah yang paling dulu (masuk surga).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48030,
+    "timestamp_to": 54040,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        47635,
+        49465
+      ],
+      [
+        2,
+        49465,
+        53570
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 5290,
+  "chapter_id": 68,
+  "verse_key": "68:19",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 22185,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_001.mp3",
+      "text": "فَطَافَ",
+      "translation": "maka mengepung",
+      "transliteration": "faṭāfa"
+    },
+    {
+      "id": 22186,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_002.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya (kebun itu)",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 22187,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_003.mp3",
+      "text": "طَآئِفٌۭ",
+      "translation": "kepungan (malapetaka)",
+      "transliteration": "ṭāifun"
+    },
+    {
+      "id": 22188,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22189,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_005.mp3",
+      "text": "رَّبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 22190,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_006.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 22191,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_019_007.mp3",
+      "text": "نَآئِمُونَ",
+      "translation": "orang-orang yang tidur",
+      "transliteration": "nāimūna"
+    },
+    {
+      "id": 22192,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu kebun itu diliputi malapetaka (yang datang) dari Tuhan-mu ketika mereka sedang tidur,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 134690,
+    "timestamp_to": 146030,
+    "duration": 11340,
+    "segments": [
+      [
+        1,
+        134645,
+        135395
+      ],
+      [
+        2,
+        135395,
+        136395
+      ],
+      [
+        3,
+        136395,
+        138915
+      ],
+      [
+        4,
+        138915,
+        139685
+      ],
+      [
+        5,
+        139685,
+        140765
+      ],
+      [
+        6,
+        140765,
+        141375
+      ],
+      [
+        7,
+        141375,
+        145900
+      ]
+    ]
+  }
+}

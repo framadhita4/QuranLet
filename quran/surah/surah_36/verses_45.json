@@ -1,0 +1,177 @@
+{
+  "id": 3750,
+  "chapter_id": 36,
+  "verse_key": "36:45",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 443,
+  "juz_number": 23,
+  "text_uthmani": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 45556,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 45557,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_002.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 45558,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_003.mp3",
+      "text": "لَهُمُ",
+      "translation": "kepada mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 45559,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_004.mp3",
+      "text": "ٱتَّقُوا۟",
+      "translation": "takutlah kamu",
+      "transliteration": "ittaqū"
+    },
+    {
+      "id": 45560,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_005.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 45561,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_006.mp3",
+      "text": "بَيْنَ",
+      "translation": "yang diantara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 45562,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_007.mp3",
+      "text": "أَيْدِيكُمْ",
+      "translation": "tanganmu/hadapanmu",
+      "transliteration": "aydīkum"
+    },
+    {
+      "id": 45563,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_008.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 45564,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_009.mp3",
+      "text": "خَلْفَكُمْ",
+      "translation": "di belakangmu",
+      "transliteration": "khalfakum"
+    },
+    {
+      "id": 45565,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_010.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 45566,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_045_011.mp3",
+      "text": "تُرْحَمُونَ",
+      "translation": "kamu diberi rahmat",
+      "transliteration": "tur'ḥamūna"
+    },
+    {
+      "id": 45567,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila dikatakan kepada mereka, \"Takutlah kamu akan siksa yang di hadapanmu dan siksa yang akan datang supaya kamu mendapat rahmat\", (niscaya mereka berpaling).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 547690,
+    "timestamp_to": 559500,
+    "duration": 11810,
+    "segments": [
+      [
+        1,
+        547625,
+        548475
+      ],
+      [
+        2,
+        548475,
+        549135
+      ],
+      [
+        3,
+        549135,
+        549635
+      ],
+      [
+        4,
+        549635,
+        550495
+      ],
+      [
+        5,
+        550495,
+        550915
+      ],
+      [
+        6,
+        550915,
+        551455
+      ],
+      [
+        7,
+        551455,
+        552755
+      ],
+      [
+        8,
+        552755,
+        553265
+      ],
+      [
+        9,
+        553265,
+        554355
+      ],
+      [
+        10,
+        554355,
+        555645
+      ],
+      [
+        11,
+        555645,
+        559350
+      ]
+    ]
+  }
+}

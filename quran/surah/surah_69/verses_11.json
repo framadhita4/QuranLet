@@ -1,0 +1,125 @@
+{
+  "id": 5334,
+  "chapter_id": 69,
+  "verse_key": "69:11",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 12835,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 12836,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_002.mp3",
+      "text": "لَمَّا",
+      "translation": "tatkala",
+      "transliteration": "lammā"
+    },
+    {
+      "id": 12837,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_003.mp3",
+      "text": "طَغَا",
+      "translation": "naik/pasang",
+      "transliteration": "ṭaghā"
+    },
+    {
+      "id": 12838,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_004.mp3",
+      "text": "ٱلْمَآءُ",
+      "translation": "air",
+      "transliteration": "l-māu"
+    },
+    {
+      "id": 12839,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_005.mp3",
+      "text": "حَمَلْنَـٰكُمْ",
+      "translation": "kami bawa kamu",
+      "transliteration": "ḥamalnākum"
+    },
+    {
+      "id": 12840,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_006.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12841,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_011_007.mp3",
+      "text": "ٱلْجَارِيَةِ",
+      "translation": "kapal",
+      "transliteration": "l-jāriyati"
+    },
+    {
+      "id": 12842,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami, tatkala air telah naik (sampai ke gunung) Kami bawa (nenek moyang) kamu ke dalam bahtera<sup foot_note_id=\"1507\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 84370,
+    "timestamp_to": 93960,
+    "duration": 9590,
+    "segments": [
+      [
+        1,
+        84315,
+        85945
+      ],
+      [
+        2,
+        85945,
+        87385
+      ],
+      [
+        3,
+        87385,
+        87845
+      ],
+      [
+        4,
+        87845,
+        90244
+      ],
+      [
+        5,
+        90245,
+        91825
+      ],
+      [
+        6,
+        91825,
+        92045
+      ],
+      [
+        7,
+        92045,
+        93850
+      ]
+    ]
+  }
+}

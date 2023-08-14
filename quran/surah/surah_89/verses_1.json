@@ -1,0 +1,47 @@
+{
+  "id": 5994,
+  "chapter_id": 89,
+  "verse_key": "89:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلْفَجْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 729,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_001_001.mp3",
+      "text": "وَٱلْفَجْرِ",
+      "translation": "demi fajar",
+      "transliteration": "wal-fajri"
+    },
+    {
+      "id": 730,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi fajar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 1440,
+    "duration": 1440,
+    "segments": [
+      [
+        1,
+        0,
+        895
+      ]
+    ]
+  }
+}

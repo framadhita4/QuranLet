@@ -1,0 +1,125 @@
+{
+  "id": 50,
+  "chapter_id": 2,
+  "verse_key": "2:43",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "ruku_number": 6,
+  "manzil_number": 1,
+  "page_number": 7,
+  "juz_number": 1,
+  "text_uthmani": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 43890,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_001.mp3",
+      "text": "وَأَقِيمُوا۟",
+      "translation": "dan dirikanlah",
+      "transliteration": "wa-aqīmū"
+    },
+    {
+      "id": 43891,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_002.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 43892,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_003.mp3",
+      "text": "وَءَاتُوا۟",
+      "translation": "dan tunaikan",
+      "transliteration": "waātū"
+    },
+    {
+      "id": 43893,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_004.mp3",
+      "text": "ٱلزَّكَوٰةَ",
+      "translation": "zakat",
+      "transliteration": "l-zakata"
+    },
+    {
+      "id": 43894,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_005.mp3",
+      "text": "وَٱرْكَعُوا۟",
+      "translation": "dan ruku'lah kamu",
+      "transliteration": "wa-ir'kaʿū"
+    },
+    {
+      "id": 43895,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_006.mp3",
+      "text": "مَعَ",
+      "translation": "beserta",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 43896,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_043_007.mp3",
+      "text": "ٱلرَّٰكِعِينَ",
+      "translation": "orang-orang yang ruku'",
+      "transliteration": "l-rākiʿīna"
+    },
+    {
+      "id": 43897,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dirikanlah salat, tunaikanlah zakat, dan rukuklah beserta orang-orang yang rukuk<sup foot_note_id=\"44\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 792480,
+    "timestamp_to": 800450,
+    "duration": 7970,
+    "segments": [
+      [
+        1,
+        792365,
+        793395
+      ],
+      [
+        2,
+        793395,
+        794425
+      ],
+      [
+        3,
+        794425,
+        795135
+      ],
+      [
+        4,
+        795135,
+        796165
+      ],
+      [
+        5,
+        796165,
+        797075
+      ],
+      [
+        6,
+        797075,
+        797445
+      ],
+      [
+        7,
+        797445,
+        800280
+      ]
+    ]
+  }
+}

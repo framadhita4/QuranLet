@@ -1,0 +1,99 @@
+{
+  "id": 4884,
+  "chapter_id": 54,
+  "verse_key": "54:38",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 39775,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 39776,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_002.mp3",
+      "text": "صَبَّحَهُم",
+      "translation": "mengenai/menimpa mereka",
+      "transliteration": "ṣabbaḥahum"
+    },
+    {
+      "id": 39777,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_003.mp3",
+      "text": "بُكْرَةً",
+      "translation": "pagi hari",
+      "transliteration": "buk'ratan"
+    },
+    {
+      "id": 39778,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_004.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 39779,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_005.mp3",
+      "text": "مُّسْتَقِرٌّۭ",
+      "translation": "tetap",
+      "transliteration": "mus'taqirrun"
+    },
+    {
+      "id": 39780,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya pada esok harinya mereka ditimpa azab yang kekal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 347520,
+    "timestamp_to": 355380,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        347455,
+        348295
+      ],
+      [
+        2,
+        348295,
+        350615
+      ],
+      [
+        3,
+        350615,
+        351575
+      ],
+      [
+        4,
+        351575,
+        352885
+      ],
+      [
+        5,
+        352885,
+        355270
+      ]
+    ]
+  }
+}

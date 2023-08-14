@@ -1,0 +1,86 @@
+{
+  "id": 969,
+  "chapter_id": 7,
+  "verse_key": "7:15",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 123,
+  "manzil_number": 2,
+  "page_number": 152,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 17942,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_015_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 17943,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_015_002.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 17944,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_015_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 17945,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_015_004.mp3",
+      "text": "ٱلْمُنظَرِينَ",
+      "translation": "orang-orang yang diberi tangguh",
+      "transliteration": "l-munẓarīna"
+    },
+    {
+      "id": 17946,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Sesungguhnya kamu termasuk mereka yang diberi tangguh\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 235970,
+    "timestamp_to": 243680,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        235935,
+        236685
+      ],
+      [
+        2,
+        236685,
+        238435
+      ],
+      [
+        3,
+        238435,
+        238785
+      ],
+      [
+        4,
+        238785,
+        243610
+      ]
+    ]
+  }
+}

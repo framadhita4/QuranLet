@@ -1,0 +1,125 @@
+{
+  "id": 4086,
+  "chapter_id": 39,
+  "verse_key": "39:28",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 400,
+  "manzil_number": 6,
+  "page_number": 461,
+  "juz_number": 23,
+  "text_uthmani": "قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى عِوَجٍ لَّعَلَّهُمْ يَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 30476,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_001.mp3",
+      "text": "قُرْءَانًا",
+      "translation": "Al Qur'an",
+      "transliteration": "qur'ānan"
+    },
+    {
+      "id": 30477,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_002.mp3",
+      "text": "عَرَبِيًّا",
+      "translation": "bahasa Arab",
+      "transliteration": "ʿarabiyyan"
+    },
+    {
+      "id": 30478,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_003.mp3",
+      "text": "غَيْرَ",
+      "translation": "tidak/bukan",
+      "transliteration": "ghayra"
+    },
+    {
+      "id": 30479,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_004.mp3",
+      "text": "ذِى",
+      "translation": "mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 30480,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_005.mp3",
+      "text": "عِوَجٍۢ",
+      "translation": "kebengkokan",
+      "transliteration": "ʿiwajin"
+    },
+    {
+      "id": 30481,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_006.mp3",
+      "text": "لَّعَلَّهُمْ",
+      "translation": "agar mereka",
+      "transliteration": "laʿallahum"
+    },
+    {
+      "id": 30482,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_028_007.mp3",
+      "text": "يَتَّقُونَ",
+      "translation": "mereka bertakwa",
+      "transliteration": "yattaqūna"
+    },
+    {
+      "id": 30483,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ialah) Al-Qur`ān dalam bahasa Arab yang tidak ada kebengkokan (di dalamnya) supaya mereka bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 640280,
+    "timestamp_to": 649420,
+    "duration": 9140,
+    "segments": [
+      [
+        1,
+        640235,
+        641445
+      ],
+      [
+        2,
+        641445,
+        642715
+      ],
+      [
+        3,
+        642715,
+        643305
+      ],
+      [
+        4,
+        643305,
+        643715
+      ],
+      [
+        5,
+        643715,
+        644415
+      ],
+      [
+        6,
+        644415,
+        645785
+      ],
+      [
+        7,
+        645785,
+        649340
+      ]
+    ]
+  }
+}

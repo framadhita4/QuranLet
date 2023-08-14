@@ -1,0 +1,86 @@
+{
+  "id": 3797,
+  "chapter_id": 37,
+  "verse_key": "37:9",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 10754,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_009_001.mp3",
+      "text": "دُحُورًۭا ۖ",
+      "translation": "terusir",
+      "transliteration": "duḥūran"
+    },
+    {
+      "id": 10756,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_009_003.mp3",
+      "text": "وَلَهُمْ",
+      "translation": "dan bagi mereka",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 10757,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_009_004.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "siksaan",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 10758,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_009_005.mp3",
+      "text": "وَاصِبٌ",
+      "translation": "tetap/kekal",
+      "transliteration": "wāṣibun"
+    },
+    {
+      "id": 10759,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Untuk mengusir mereka dan bagi mereka siksaan yang kekal,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 52940,
+    "timestamp_to": 58930,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        52855,
+        54595
+      ],
+      [
+        2,
+        54595,
+        55375
+      ],
+      [
+        3,
+        55375,
+        57555
+      ],
+      [
+        4,
+        57555,
+        58800
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1881,
+  "chapter_id": 15,
+  "verse_key": "15:79",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 63852,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_001.mp3",
+      "text": "فَٱنتَقَمْنَا",
+      "translation": "maka Kami siksa/binasakan",
+      "transliteration": "fa-intaqamnā"
+    },
+    {
+      "id": 63853,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_002.mp3",
+      "text": "مِنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 63854,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_003.mp3",
+      "text": "وَإِنَّهُمَا",
+      "translation": "dan sesungguhnya keduanya (kota)",
+      "transliteration": "wa-innahumā"
+    },
+    {
+      "id": 63855,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_004.mp3",
+      "text": "لَبِإِمَامٍۢ",
+      "translation": "sungguh dijalan",
+      "transliteration": "labi-imāmin"
+    },
+    {
+      "id": 63856,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_005.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 63857,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka Kami membinasakan mereka.  Dan sesungguhnya kedua kota <sup foot_note_id=\"810\">1</sup> itu benar-benar terletak di jalan umum yang terang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 762270,
+    "timestamp_to": 773010,
+    "duration": 10740,
+    "segments": [
+      [
+        1,
+        762215,
+        764405
+      ],
+      [
+        2,
+        764405,
+        765265
+      ],
+      [
+        3,
+        765265,
+        767505
+      ],
+      [
+        4,
+        767505,
+        769085
+      ],
+      [
+        5,
+        769085,
+        772910
+      ]
+    ]
+  }
+}

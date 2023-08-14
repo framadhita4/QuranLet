@@ -1,0 +1,86 @@
+{
+  "id": 3881,
+  "chapter_id": 37,
+  "verse_key": "37:93",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 68938,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_093_001.mp3",
+      "text": "فَرَاغَ",
+      "translation": "maka dia pergi",
+      "transliteration": "farāgha"
+    },
+    {
+      "id": 68939,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_093_002.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 68940,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_093_003.mp3",
+      "text": "ضَرْبًۢا",
+      "translation": "dengan pukulan/memukul",
+      "transliteration": "ḍarban"
+    },
+    {
+      "id": 68941,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_093_004.mp3",
+      "text": "بِٱلْيَمِينِ",
+      "translation": "dengan tangan kanan",
+      "transliteration": "bil-yamīni"
+    },
+    {
+      "id": 68942,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, dihadapinya berhala-berhala itu sambil memukulnya dengan tangan kanannya (dengan kuat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 758670,
+    "timestamp_to": 765570,
+    "duration": 6900,
+    "segments": [
+      [
+        1,
+        758615,
+        759525
+      ],
+      [
+        2,
+        759525,
+        760455
+      ],
+      [
+        3,
+        760455,
+        762205
+      ],
+      [
+        4,
+        762205,
+        765450
+      ]
+    ]
+  }
+}

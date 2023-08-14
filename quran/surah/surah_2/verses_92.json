@@ -1,0 +1,177 @@
+{
+  "id": 99,
+  "chapter_id": 2,
+  "verse_key": "2:92",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "ruku_number": 12,
+  "manzil_number": 1,
+  "page_number": 14,
+  "juz_number": 1,
+  "text_uthmani": "۞ وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 68696,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_002.mp3",
+      "text": "۞ وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 68697,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_003.mp3",
+      "text": "جَآءَكُم",
+      "translation": "datang kepadamu",
+      "transliteration": "jāakum"
+    },
+    {
+      "id": 68698,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_004.mp3",
+      "text": "مُّوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 68699,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_005.mp3",
+      "text": "بِٱلْبَيِّنَـٰتِ",
+      "translation": "dengan bukti-bukti",
+      "transliteration": "bil-bayināti"
+    },
+    {
+      "id": 68700,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_006.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 68701,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_007.mp3",
+      "text": "ٱتَّخَذْتُمُ",
+      "translation": "kalian menjadikan",
+      "transliteration": "ittakhadhtumu"
+    },
+    {
+      "id": 68702,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_008.mp3",
+      "text": "ٱلْعِجْلَ",
+      "translation": "anak sapi",
+      "transliteration": "l-ʿij'la"
+    },
+    {
+      "id": 68703,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_009.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 68704,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_010.mp3",
+      "text": "بَعْدِهِۦ",
+      "translation": "sesudahnya",
+      "transliteration": "baʿdihi"
+    },
+    {
+      "id": 68705,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_011.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 68706,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_092_012.mp3",
+      "text": "ظَـٰلِمُونَ",
+      "translation": "orang-orang yang dzalim",
+      "transliteration": "ẓālimūna"
+    },
+    {
+      "id": 68707,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Musa telah datang kepadamu membawa bukti-bukti kebenaran (mukjizat), kemudian kamu jadikan anak sapi (sebagai sembahan) sesudah (kepergian)nya<sup foot_note_id=\"73\">1</sup>, dan sebenarnya kamu adalah orang-orang yang zalim.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1889060,
+    "timestamp_to": 1905490,
+    "duration": 16430,
+    "segments": [
+      [
+        1,
+        1889005,
+        1889955
+      ],
+      [
+        2,
+        1889955,
+        1892335
+      ],
+      [
+        3,
+        1892335,
+        1893935
+      ],
+      [
+        4,
+        1893935,
+        1895445
+      ],
+      [
+        5,
+        1895445,
+        1896655
+      ],
+      [
+        6,
+        1896655,
+        1897865
+      ],
+      [
+        7,
+        1897865,
+        1898675
+      ],
+      [
+        8,
+        1898675,
+        1899505
+      ],
+      [
+        9,
+        1899505,
+        1900445
+      ],
+      [
+        10,
+        1900445,
+        1902305
+      ],
+      [
+        11,
+        1902305,
+        1905360
+      ]
+    ]
+  }
+}

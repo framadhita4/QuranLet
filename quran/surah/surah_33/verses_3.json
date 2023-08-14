@@ -1,0 +1,112 @@
+{
+  "id": 3536,
+  "chapter_id": 33,
+  "verse_key": "33:3",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "ruku_number": 363,
+  "manzil_number": 5,
+  "page_number": 418,
+  "juz_number": 21,
+  "text_uthmani": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 3071,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_003_001.mp3",
+      "text": "وَتَوَكَّلْ",
+      "translation": "dan bertawakallah",
+      "transliteration": "watawakkal"
+    },
+    {
+      "id": 3072,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_003_002.mp3",
+      "text": "عَلَى",
+      "translation": "kepada",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 3073,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_003_003.mp3",
+      "text": "ٱللَّهِ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 3075,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_003_005.mp3",
+      "text": "وَكَفَىٰ",
+      "translation": "dan cukuplah",
+      "transliteration": "wakafā"
+    },
+    {
+      "id": 3076,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_003_006.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "dengan Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 3077,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_003_007.mp3",
+      "text": "وَكِيلًۭا",
+      "translation": "tempat mempercayakan diri/pemelihara",
+      "transliteration": "wakīlan"
+    },
+    {
+      "id": 3078,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bertawakallah kepada Allah.  Dan cukuplah Allah sebagai Pemelihara.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27740,
+    "timestamp_to": 35130,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        27715,
+        28885
+      ],
+      [
+        2,
+        28885,
+        29275
+      ],
+      [
+        3,
+        29275,
+        31785
+      ],
+      [
+        4,
+        31785,
+        32515
+      ],
+      [
+        5,
+        32515,
+        33545
+      ],
+      [
+        6,
+        33545,
+        35080
+      ]
+    ]
+  }
+}

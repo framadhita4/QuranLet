@@ -1,0 +1,125 @@
+{
+  "id": 4122,
+  "chapter_id": 39,
+  "verse_key": "39:64",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "ruku_number": 404,
+  "manzil_number": 6,
+  "page_number": 465,
+  "juz_number": 24,
+  "text_uthmani": "قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَـٰهِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 56895,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 56896,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_002.mp3",
+      "text": "أَفَغَيْرَ",
+      "translation": "apakah maka selain",
+      "transliteration": "afaghayra"
+    },
+    {
+      "id": 56897,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 56898,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_004.mp3",
+      "text": "تَأْمُرُوٓنِّىٓ",
+      "translation": "kamu menyuruh aku",
+      "transliteration": "tamurūnnī"
+    },
+    {
+      "id": 56899,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_005.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku menyembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 56900,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_006.mp3",
+      "text": "أَيُّهَا",
+      "translation": "hai",
+      "transliteration": "ayyuhā"
+    },
+    {
+      "id": 56901,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_064_007.mp3",
+      "text": "ٱلْجَـٰهِلُونَ",
+      "translation": "orang-orang yang bodoh",
+      "transliteration": "l-jāhilūna"
+    },
+    {
+      "id": 56902,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Maka apakah kamu menyuruh aku menyembah selain Allah, hai orang-orang yang tidak berpengetahuan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1347070,
+    "timestamp_to": 1362850,
+    "duration": 15780,
+    "segments": [
+      [
+        1,
+        1347045,
+        1347605
+      ],
+      [
+        2,
+        1347605,
+        1348735
+      ],
+      [
+        3,
+        1348735,
+        1349795
+      ],
+      [
+        4,
+        1349795,
+        1357375
+      ],
+      [
+        5,
+        1357375,
+        1358205
+      ],
+      [
+        6,
+        1358205,
+        1359135
+      ],
+      [
+        7,
+        1359135,
+        1362780
+      ]
+    ]
+  }
+}

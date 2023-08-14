@@ -1,0 +1,99 @@
+{
+  "id": 4998,
+  "chapter_id": 56,
+  "verse_key": "56:19",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 21518,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_019_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 21519,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_019_002.mp3",
+      "text": "يُصَدَّعُونَ",
+      "translation": "mereka sakit kepala/pening",
+      "transliteration": "yuṣaddaʿūna"
+    },
+    {
+      "id": 21520,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_019_003.mp3",
+      "text": "عَنْهَا",
+      "translation": "dari padanya/karenanya",
+      "transliteration": "ʿanhā"
+    },
+    {
+      "id": 21521,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_019_004.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 21522,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_019_005.mp3",
+      "text": "يُنزِفُونَ",
+      "translation": "mereka mabuk",
+      "transliteration": "yunzifūna"
+    },
+    {
+      "id": 21523,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka tidak pening karenanya dan tidak pula mabuk,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 110250,
+    "timestamp_to": 118530,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        110145,
+        110655
+      ],
+      [
+        2,
+        110655,
+        112285
+      ],
+      [
+        3,
+        112285,
+        113175
+      ],
+      [
+        4,
+        113175,
+        113885
+      ],
+      [
+        5,
+        113885,
+        118360
+      ]
+    ]
+  }
+}

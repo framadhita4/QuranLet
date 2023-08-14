@@ -1,0 +1,60 @@
+{
+  "id": 5497,
+  "chapter_id": 74,
+  "verse_key": "74:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "قُمْ فَأَنذِرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 1613,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_002_001.mp3",
+      "text": "قُمْ",
+      "translation": "bangunlah",
+      "transliteration": "qum"
+    },
+    {
+      "id": 1614,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_002_002.mp3",
+      "text": "فَأَنذِرْ",
+      "translation": "lalu berilah peringatan",
+      "transliteration": "fa-andhir"
+    },
+    {
+      "id": 1615,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bangunlah, lalu berilah peringatan!",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4810,
+    "timestamp_to": 7630,
+    "duration": 2820,
+    "segments": [
+      [
+        1,
+        4745,
+        5145
+      ],
+      [
+        2,
+        5145,
+        7510
+      ]
+    ]
+  }
+}

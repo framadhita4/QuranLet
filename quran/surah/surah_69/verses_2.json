@@ -1,0 +1,60 @@
+{
+  "id": 5325,
+  "chapter_id": 69,
+  "verse_key": "69:2",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "مَا ٱلْحَآقَّةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 1484,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_002_001.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1485,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_002_002.mp3",
+      "text": "ٱلْحَآقَّةُ",
+      "translation": "keadaan yang sebenarnya",
+      "transliteration": "l-ḥāqatu"
+    },
+    {
+      "id": 1486,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "apakah hari kiamat itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5200,
+    "timestamp_to": 10790,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        5125,
+        5405
+      ],
+      [
+        2,
+        5405,
+        10640
+      ]
+    ]
+  }
+}

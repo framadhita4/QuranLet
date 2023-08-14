@@ -1,0 +1,86 @@
+{
+  "id": 3062,
+  "chapter_id": 26,
+  "verse_key": "26:130",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 78024,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 78025,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_002.mp3",
+      "text": "بَطَشْتُم",
+      "translation": "kamu menampar/menyiksa",
+      "transliteration": "baṭashtum"
+    },
+    {
+      "id": 78026,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_003.mp3",
+      "text": "بَطَشْتُمْ",
+      "translation": "kamu menampar/menyiksa",
+      "transliteration": "baṭashtum"
+    },
+    {
+      "id": 78027,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_004.mp3",
+      "text": "جَبَّارِينَ",
+      "translation": "orang-orang yang kejam/bengis",
+      "transliteration": "jabbārīna"
+    },
+    {
+      "id": 78028,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٣٠",
+      "translation": "(130)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila kamu menyiksa, maka kamu menyiksa sebagai orang-orang kejam dan bengis.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1153190,
+    "timestamp_to": 1159690,
+    "duration": 6510,
+    "segments": [
+      [
+        1,
+        1153165,
+        1153955
+      ],
+      [
+        2,
+        1153955,
+        1155715
+      ],
+      [
+        3,
+        1155715,
+        1156735
+      ],
+      [
+        4,
+        1156735,
+        1159610
+      ]
+    ]
+  }
+}

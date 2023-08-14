@@ -1,0 +1,73 @@
+{
+  "id": 6187,
+  "chapter_id": 104,
+  "verse_key": "104:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 8482,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_008_001.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia (api)",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 8483,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_008_002.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 8484,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_008_003.mp3",
+      "text": "مُّؤْصَدَةٌۭ",
+      "translation": "terikat/ditutup rapat",
+      "transliteration": "mu'ṣadatun"
+    },
+    {
+      "id": 8485,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya api itu ditutup rapat atas mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 36340,
+    "timestamp_to": 42010,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        36215,
+        38065
+      ],
+      [
+        2,
+        38065,
+        39505
+      ],
+      [
+        3,
+        39505,
+        41800
+      ]
+    ]
+  }
+}

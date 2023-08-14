@@ -1,0 +1,73 @@
+{
+  "id": 6058,
+  "chapter_id": 91,
+  "verse_key": "91:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَلَا يَخَافُ عُقْبَـٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 16868,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_015_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 16869,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_015_002.mp3",
+      "text": "يَخَافُ",
+      "translation": "takut",
+      "transliteration": "yakhāfu"
+    },
+    {
+      "id": 16870,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_015_003.mp3",
+      "text": "عُقْبَـٰهَا",
+      "translation": "akibatnya",
+      "transliteration": "ʿuq'bāhā"
+    },
+    {
+      "id": 16871,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Allah tidak takut terhadap akibat tindakan-Nya itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 67450,
+    "timestamp_to": 73090,
+    "duration": 5640,
+    "segments": [
+      [
+        1,
+        67055,
+        67575
+      ],
+      [
+        2,
+        67575,
+        68795
+      ],
+      [
+        3,
+        68795,
+        72420
+      ]
+    ]
+  }
+}

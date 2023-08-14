@@ -1,0 +1,112 @@
+{
+  "id": 4553,
+  "chapter_id": 47,
+  "verse_key": "47:8",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَـٰلَهُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3",
+  "words": [
+    {
+      "id": 8645,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_008_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 8646,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_008_002.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 8647,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_008_003.mp3",
+      "text": "فَتَعْسًۭا",
+      "translation": "maka kesengsaraan",
+      "transliteration": "fataʿsan"
+    },
+    {
+      "id": 8648,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_008_004.mp3",
+      "text": "لَّهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 8649,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_008_005.mp3",
+      "text": "وَأَضَلَّ",
+      "translation": "dan Dia menyesatkan",
+      "transliteration": "wa-aḍalla"
+    },
+    {
+      "id": 8650,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_008_006.mp3",
+      "text": "أَعْمَـٰلَهُمْ",
+      "translation": "perbuatan mereka",
+      "transliteration": "aʿmālahum"
+    },
+    {
+      "id": 8651,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang kafir, maka kecelakaanlah bagi mereka dan Allah menghapus amal-amal mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 123300,
+    "timestamp_to": 130330,
+    "duration": 7030,
+    "segments": [
+      [
+        1,
+        123245,
+        124505
+      ],
+      [
+        2,
+        124505,
+        125325
+      ],
+      [
+        3,
+        125325,
+        126315
+      ],
+      [
+        4,
+        126315,
+        127175
+      ],
+      [
+        5,
+        127175,
+        128255
+      ],
+      [
+        6,
+        128255,
+        130230
+      ]
+    ]
+  }
+}

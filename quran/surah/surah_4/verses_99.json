@@ -1,0 +1,164 @@
+{
+  "id": 592,
+  "chapter_id": 4,
+  "verse_key": "4:99",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "ruku_number": 75,
+  "manzil_number": 1,
+  "page_number": 94,
+  "juz_number": 5,
+  "text_uthmani": "فَأُو۟لَـٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 71023,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_001.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itu",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 71024,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_002.mp3",
+      "text": "عَسَى",
+      "translation": "mudah-mudahan",
+      "transliteration": "ʿasā"
+    },
+    {
+      "id": 71025,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 71026,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_004.mp3",
+      "text": "أَن",
+      "translation": "akan",
+      "transliteration": "an"
+    },
+    {
+      "id": 71027,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_005.mp3",
+      "text": "يَعْفُوَ",
+      "translation": "memaafkan",
+      "transliteration": "yaʿfuwa"
+    },
+    {
+      "id": 71028,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_006.mp3",
+      "text": "عَنْهُمْ ۚ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 71030,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_008.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 71031,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_009.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 71032,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_010.mp3",
+      "text": "عَفُوًّا",
+      "translation": "Maha Pemaaf",
+      "transliteration": "ʿafuwwan"
+    },
+    {
+      "id": 71033,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_099_011.mp3",
+      "text": "غَفُورًۭا",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūran"
+    },
+    {
+      "id": 71034,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka itu, mudah-mudahan Allah memaafkannya.  Dan adalah Allah Maha Pemaaf lagi Maha Pengampun.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2897690,
+    "timestamp_to": 2910100,
+    "duration": 12410,
+    "segments": [
+      [
+        1,
+        2897635,
+        2900085
+      ],
+      [
+        2,
+        2900085,
+        2900545
+      ],
+      [
+        3,
+        2900545,
+        2901375
+      ],
+      [
+        4,
+        2901375,
+        2901655
+      ],
+      [
+        5,
+        2901655,
+        2903015
+      ],
+      [
+        6,
+        2903015,
+        2904105
+      ],
+      [
+        7,
+        2904105,
+        2904805
+      ],
+      [
+        8,
+        2904805,
+        2905635
+      ],
+      [
+        9,
+        2905635,
+        2906755
+      ],
+      [
+        10,
+        2906755,
+        2910000
+      ]
+    ]
+  }
+}

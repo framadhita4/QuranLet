@@ -1,0 +1,104 @@
+{
+  "id": 3989,
+  "chapter_id": 38,
+  "verse_key": "38:19",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 394,
+  "manzil_number": 6,
+  "page_number": 454,
+  "juz_number": 23,
+  "text_uthmani": "وَٱلطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُۥٓ أَوَّابٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 22275,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_019_001.mp3",
+      "text": "وَٱلطَّيْرَ",
+      "translation": "dan burung-burung",
+      "transliteration": "wal-ṭayra"
+    },
+    {
+      "id": 22276,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_019_002.mp3",
+      "text": "مَحْشُورَةًۭ ۖ",
+      "translation": "keadaan berkumpul",
+      "transliteration": "maḥshūratan"
+    },
+    {
+      "id": 22278,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_019_004.mp3",
+      "text": "كُلٌّۭ",
+      "translation": "masing-masing/semuanya",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 22279,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_019_005.mp3",
+      "text": "لَّهُۥٓ",
+      "translation": "kepada-Nya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 22280,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_019_006.mp3",
+      "text": "أَوَّابٌۭ",
+      "translation": "kembali/bertaubat",
+      "transliteration": "awwābun"
+    },
+    {
+      "id": 22281,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (Kami tundukkan pula), burung-burung dalam keadaan terkumpul.  Masing-masingnya amat taat kepada Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 216630,
+    "timestamp_to": 225930,
+    "duration": 9300,
+    "segments": [
+      [
+        1,
+        216135,
+        217225
+      ],
+      [
+        2,
+        217225,
+        218695
+      ],
+      [
+        3,
+        218695,
+        219725
+      ],
+      [
+        3,
+        219725,
+        220445
+      ],
+      [
+        4,
+        220445,
+        222455
+      ],
+      [
+        5,
+        222455,
+        225380
+      ]
+    ]
+  }
+}

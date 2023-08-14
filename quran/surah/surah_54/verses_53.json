@@ -1,0 +1,86 @@
+{
+  "id": 4899,
+  "chapter_id": 54,
+  "verse_key": "54:53",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 50529,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_053_001.mp3",
+      "text": "وَكُلُّ",
+      "translation": "dan setiap",
+      "transliteration": "wakullu"
+    },
+    {
+      "id": 50530,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_053_002.mp3",
+      "text": "صَغِيرٍۢ",
+      "translation": "yang kecil",
+      "transliteration": "ṣaghīrin"
+    },
+    {
+      "id": 50531,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_053_003.mp3",
+      "text": "وَكَبِيرٍۢ",
+      "translation": "dan yang besar",
+      "transliteration": "wakabīrin"
+    },
+    {
+      "id": 50532,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_053_004.mp3",
+      "text": "مُّسْتَطَرٌ",
+      "translation": "tertulis",
+      "transliteration": "mus'taṭarun"
+    },
+    {
+      "id": 50533,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan segala (urusan) yang kecil maupun yang besar adalah tertulis.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 465200,
+    "timestamp_to": 471860,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        465125,
+        466015
+      ],
+      [
+        2,
+        466015,
+        467785
+      ],
+      [
+        3,
+        467785,
+        469725
+      ],
+      [
+        4,
+        469725,
+        471730
+      ]
+    ]
+  }
+}

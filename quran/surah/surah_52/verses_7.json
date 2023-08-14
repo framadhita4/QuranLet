@@ -1,0 +1,86 @@
+{
+  "id": 4742,
+  "chapter_id": 52,
+  "verse_key": "52:7",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 7445,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_007_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 7446,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_007_002.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 7447,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_007_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 7448,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_007_004.mp3",
+      "text": "لَوَٰقِعٌۭ",
+      "translation": "pasti terjadi",
+      "transliteration": "lawāqiʿun"
+    },
+    {
+      "id": 7449,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya azab Tuhan-mu pasti terjadi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 29220,
+    "timestamp_to": 33920,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        29145,
+        30405
+      ],
+      [
+        2,
+        30405,
+        31285
+      ],
+      [
+        3,
+        31285,
+        32215
+      ],
+      [
+        4,
+        32215,
+        33790
+      ]
+    ]
+  }
+}

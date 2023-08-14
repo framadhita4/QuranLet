@@ -1,0 +1,151 @@
+{
+  "id": 1719,
+  "chapter_id": 13,
+  "verse_key": "13:12",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "ruku_number": 206,
+  "manzil_number": 3,
+  "page_number": 250,
+  "juz_number": 13,
+  "text_uthmani": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3",
+  "words": [
+    {
+      "id": 14454,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_001.mp3",
+      "text": "هُوَ",
+      "translation": "Dia-lah",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 14455,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 14456,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_003.mp3",
+      "text": "يُرِيكُمُ",
+      "translation": "memperlihatkan kepadamu",
+      "transliteration": "yurīkumu"
+    },
+    {
+      "id": 14457,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_004.mp3",
+      "text": "ٱلْبَرْقَ",
+      "translation": "kilat",
+      "transliteration": "l-barqa"
+    },
+    {
+      "id": 14458,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_005.mp3",
+      "text": "خَوْفًۭا",
+      "translation": "ketakutan",
+      "transliteration": "khawfan"
+    },
+    {
+      "id": 14459,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_006.mp3",
+      "text": "وَطَمَعًۭا",
+      "translation": "dan harapan",
+      "transliteration": "waṭamaʿan"
+    },
+    {
+      "id": 14460,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_007.mp3",
+      "text": "وَيُنشِئُ",
+      "translation": "dan Dia mengadakan",
+      "transliteration": "wayunshi-u"
+    },
+    {
+      "id": 14461,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_008.mp3",
+      "text": "ٱلسَّحَابَ",
+      "translation": "awan",
+      "transliteration": "l-saḥāba"
+    },
+    {
+      "id": 14462,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_012_009.mp3",
+      "text": "ٱلثِّقَالَ",
+      "translation": "tebal/mendung",
+      "transliteration": "l-thiqāla"
+    },
+    {
+      "id": 14463,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah Tuhan yang memperlihatkan kilat kepadamu untuk menimbulkan ketakutan dan harapan dan Dia mengadakan awan mendung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 340160,
+    "timestamp_to": 353480,
+    "duration": 13320,
+    "segments": [
+      [
+        1,
+        339575,
+        339925
+      ],
+      [
+        2,
+        339925,
+        341105
+      ],
+      [
+        3,
+        341105,
+        342265
+      ],
+      [
+        4,
+        342265,
+        343275
+      ],
+      [
+        5,
+        343275,
+        344515
+      ],
+      [
+        6,
+        344515,
+        346725
+      ],
+      [
+        7,
+        346725,
+        348265
+      ],
+      [
+        8,
+        348265,
+        349455
+      ],
+      [
+        9,
+        349455,
+        352440
+      ]
+    ]
+  }
+}

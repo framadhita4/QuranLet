@@ -1,0 +1,99 @@
+{
+  "id": 3913,
+  "chapter_id": 37,
+  "verse_key": "37:125",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 77121,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_125_001.mp3",
+      "text": "أَتَدْعُونَ",
+      "translation": "apakah kamu menyeru/menyembah",
+      "transliteration": "atadʿūna"
+    },
+    {
+      "id": 77122,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_125_002.mp3",
+      "text": "بَعْلًۭا",
+      "translation": "Ba'l",
+      "transliteration": "baʿlan"
+    },
+    {
+      "id": 77123,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_125_003.mp3",
+      "text": "وَتَذَرُونَ",
+      "translation": "dan kamu tinggalkan",
+      "transliteration": "watadharūna"
+    },
+    {
+      "id": 77124,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_125_004.mp3",
+      "text": "أَحْسَنَ",
+      "translation": "sebaik-baik",
+      "transliteration": "aḥsana"
+    },
+    {
+      "id": 77125,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_125_005.mp3",
+      "text": "ٱلْخَـٰلِقِينَ",
+      "translation": "Pencipta",
+      "transliteration": "l-khāliqīna"
+    },
+    {
+      "id": 77126,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٢٥",
+      "translation": "(125)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Patutkah kamu menyembah Baʻlan <sup foot_note_id=\"1286\">1</sup> dan kamu tinggalkan sebaik-baik Pencipta,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1029430,
+    "timestamp_to": 1037610,
+    "duration": 8180,
+    "segments": [
+      [
+        1,
+        1029355,
+        1030595
+      ],
+      [
+        2,
+        1030595,
+        1032135
+      ],
+      [
+        3,
+        1032135,
+        1033265
+      ],
+      [
+        4,
+        1033265,
+        1034065
+      ],
+      [
+        5,
+        1034065,
+        1037460
+      ]
+    ]
+  }
+}

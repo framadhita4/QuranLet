@@ -1,0 +1,86 @@
+{
+  "id": 4053,
+  "chapter_id": 38,
+  "verse_key": "38:83",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 65589,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 65590,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_002.mp3",
+      "text": "عِبَادَكَ",
+      "translation": "hamba-hamba-Mu",
+      "transliteration": "ʿibādaka"
+    },
+    {
+      "id": 65591,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_003.mp3",
+      "text": "مِنْهُمُ",
+      "translation": "diantara mereka",
+      "transliteration": "min'humu"
+    },
+    {
+      "id": 65592,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "orang-orang yang mukhlis/disucikan",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 65593,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali hamba-hamba-Mu yang mukhlis di antara mereka <sup foot_note_id=\"1305\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1005560,
+    "timestamp_to": 1012040,
+    "duration": 6480,
+    "segments": [
+      [
+        1,
+        1005535,
+        1006285
+      ],
+      [
+        2,
+        1006285,
+        1007425
+      ],
+      [
+        3,
+        1007425,
+        1008165
+      ],
+      [
+        4,
+        1008165,
+        1011980
+      ]
+    ]
+  }
+}

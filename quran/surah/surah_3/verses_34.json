@@ -1,0 +1,125 @@
+{
+  "id": 327,
+  "chapter_id": 3,
+  "verse_key": "3:34",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "ruku_number": 45,
+  "manzil_number": 1,
+  "page_number": 54,
+  "juz_number": 3,
+  "text_uthmani": "ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 36361,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_001.mp3",
+      "text": "ذُرِّيَّةًۢ",
+      "translation": "suatu keturunan",
+      "transliteration": "dhurriyyatan"
+    },
+    {
+      "id": 36362,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_002.mp3",
+      "text": "بَعْضُهَا",
+      "translation": "sebagiannya",
+      "transliteration": "baʿḍuhā"
+    },
+    {
+      "id": 36363,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_003.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 36364,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_004.mp3",
+      "text": "بَعْضٍۢ ۗ",
+      "translation": "sebagian yang lain",
+      "transliteration": "baʿḍin"
+    },
+    {
+      "id": 36366,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_006.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 36367,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_007.mp3",
+      "text": "سَمِيعٌ",
+      "translation": "Maha Mendengar",
+      "transliteration": "samīʿun"
+    },
+    {
+      "id": 36368,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_034_008.mp3",
+      "text": "عَلِيمٌ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 36369,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(sebagai) satu keturunan yang sebagiannya (keturunan) dari yang lain.  Dan Allah Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 762310,
+    "timestamp_to": 773020,
+    "duration": 10710,
+    "segments": [
+      [
+        1,
+        762255,
+        764515
+      ],
+      [
+        2,
+        764515,
+        765715
+      ],
+      [
+        3,
+        765715,
+        767175
+      ],
+      [
+        4,
+        767175,
+        768075
+      ],
+      [
+        5,
+        768075,
+        769145
+      ],
+      [
+        6,
+        769145,
+        770265
+      ],
+      [
+        7,
+        770265,
+        772910
+      ]
+    ]
+  }
+}

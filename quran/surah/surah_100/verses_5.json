@@ -1,0 +1,73 @@
+{
+  "id": 6151,
+  "chapter_id": 100,
+  "verse_key": "100:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 5794,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_005_001.mp3",
+      "text": "فَوَسَطْنَ",
+      "translation": "maka ia menyerbu ketengah",
+      "transliteration": "fawasaṭna"
+    },
+    {
+      "id": 5795,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_005_002.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 5796,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_005_003.mp3",
+      "text": "جَمْعًا",
+      "translation": "kumpulan",
+      "transliteration": "jamʿan"
+    },
+    {
+      "id": 5797,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan menyerbu ke tengah-tengah kumpulan musuh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12720,
+    "timestamp_to": 16040,
+    "duration": 3320,
+    "segments": [
+      [
+        1,
+        12335,
+        13395
+      ],
+      [
+        2,
+        13395,
+        14075
+      ],
+      [
+        3,
+        14075,
+        15580
+      ]
+    ]
+  }
+}

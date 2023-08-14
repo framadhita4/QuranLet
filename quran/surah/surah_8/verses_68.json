@@ -1,0 +1,164 @@
+{
+  "id": 1228,
+  "chapter_id": 8,
+  "verse_key": "8:68",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "ruku_number": 154,
+  "manzil_number": 2,
+  "page_number": 185,
+  "juz_number": 10,
+  "text_uthmani": "لَّوْلَا كِتَـٰبٌ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَآ أَخَذْتُمْ عَذَابٌ عَظِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 58796,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_001.mp3",
+      "text": "لَّوْلَا",
+      "translation": "kalau sekiranya tidak ada",
+      "transliteration": "lawlā"
+    },
+    {
+      "id": 58797,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_002.mp3",
+      "text": "كِتَـٰبٌۭ",
+      "translation": "ketetapan",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 58798,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_003.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 58799,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 58800,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_005.mp3",
+      "text": "سَبَقَ",
+      "translation": "terdahulu",
+      "transliteration": "sabaqa"
+    },
+    {
+      "id": 58801,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_006.mp3",
+      "text": "لَمَسَّكُمْ",
+      "translation": "niscaya menimpa kamu",
+      "transliteration": "lamassakum"
+    },
+    {
+      "id": 58802,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_007.mp3",
+      "text": "فِيمَآ",
+      "translation": "dalam/disebabkan apa",
+      "transliteration": "fīmā"
+    },
+    {
+      "id": 58803,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_008.mp3",
+      "text": "أَخَذْتُمْ",
+      "translation": "kamu telah mengambil",
+      "transliteration": "akhadhtum"
+    },
+    {
+      "id": 58804,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_009.mp3",
+      "text": "عَذَابٌ",
+      "translation": "siksaan",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 58805,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_068_010.mp3",
+      "text": "عَظِيمٌۭ",
+      "translation": "besar",
+      "transliteration": "ʿaẓīmun"
+    },
+    {
+      "id": 58806,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kalau sekiranya tidak ada ketetapan yang telah terdahulu dari Allah, niscaya kamu ditimpa siksaan yang besar karena tebusan yang kamu ambil.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1588130,
+    "timestamp_to": 1601060,
+    "duration": 12930,
+    "segments": [
+      [
+        1,
+        1588085,
+        1589075
+      ],
+      [
+        2,
+        1589075,
+        1590185
+      ],
+      [
+        3,
+        1590185,
+        1591115
+      ],
+      [
+        4,
+        1591115,
+        1592095
+      ],
+      [
+        5,
+        1592095,
+        1592775
+      ],
+      [
+        6,
+        1592775,
+        1593995
+      ],
+      [
+        7,
+        1593995,
+        1596135
+      ],
+      [
+        8,
+        1596135,
+        1597185
+      ],
+      [
+        9,
+        1597185,
+        1598155
+      ],
+      [
+        10,
+        1598155,
+        1600990
+      ]
+    ]
+  }
+}

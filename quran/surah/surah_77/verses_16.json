@@ -1,0 +1,73 @@
+{
+  "id": 5638,
+  "chapter_id": 77,
+  "verse_key": "77:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 18562,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_016_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidaklah/bukanlah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 18563,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_016_002.mp3",
+      "text": "نُهْلِكِ",
+      "translation": "Kami telah membinasakan",
+      "transliteration": "nuh'liki"
+    },
+    {
+      "id": 18564,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_016_003.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang yang dahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 18565,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Kami telah membinasakan orang-orang yang dahulu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 50530,
+    "timestamp_to": 55150,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        50405,
+        50955
+      ],
+      [
+        2,
+        50955,
+        51775
+      ],
+      [
+        3,
+        51775,
+        54930
+      ]
+    ]
+  }
+}

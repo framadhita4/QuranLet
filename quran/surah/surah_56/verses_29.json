@@ -1,0 +1,60 @@
+{
+  "id": 5008,
+  "chapter_id": 56,
+  "verse_key": "56:29",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَطَلْحٍ مَّنضُودٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 31856,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_029_001.mp3",
+      "text": "وَطَلْحٍۢ",
+      "translation": "dan pohon pisang",
+      "transliteration": "waṭalḥin"
+    },
+    {
+      "id": 31857,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_029_002.mp3",
+      "text": "مَّنضُودٍۢ",
+      "translation": "bersusun-susun",
+      "transliteration": "manḍūdin"
+    },
+    {
+      "id": 31858,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pohon pisang yang bersusun-susun (buahnya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 183320,
+    "timestamp_to": 189040,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        183255,
+        184145
+      ],
+      [
+        2,
+        184145,
+        188910
+      ]
+    ]
+  }
+}

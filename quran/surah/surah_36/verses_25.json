@@ -1,0 +1,86 @@
+{
+  "id": 3730,
+  "chapter_id": 36,
+  "verse_key": "36:25",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 28473,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_025_001.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 28474,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_025_002.mp3",
+      "text": "ءَامَنتُ",
+      "translation": "aku telah beriman",
+      "transliteration": "āmantu"
+    },
+    {
+      "id": 28475,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_025_003.mp3",
+      "text": "بِرَبِّكُمْ",
+      "translation": "dengan/kepada Tuhanmu",
+      "transliteration": "birabbikum"
+    },
+    {
+      "id": 28476,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_025_004.mp3",
+      "text": "فَٱسْمَعُونِ",
+      "translation": "maka dengarkanlah aku",
+      "transliteration": "fa-is'maʿūni"
+    },
+    {
+      "id": 28477,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya, aku telah beriman kepada Tuhan-mu, maka dengarkanlah (pengakuan keimanan)ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 303620,
+    "timestamp_to": 313730,
+    "duration": 10110,
+    "segments": [
+      [
+        1,
+        303555,
+        306485
+      ],
+      [
+        2,
+        306485,
+        308125
+      ],
+      [
+        3,
+        308125,
+        309285
+      ],
+      [
+        4,
+        309285,
+        313610
+      ]
+    ]
+  }
+}

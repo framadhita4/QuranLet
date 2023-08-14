@@ -1,0 +1,177 @@
+{
+  "id": 2261,
+  "chapter_id": 19,
+  "verse_key": "19:11",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "page_number": 305,
+  "juz_number": 16,
+  "text_uthmani": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 12318,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_001.mp3",
+      "text": "فَخَرَجَ",
+      "translation": "maka dia keluar",
+      "transliteration": "fakharaja"
+    },
+    {
+      "id": 12319,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas/kepada",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 12320,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_003.mp3",
+      "text": "قَوْمِهِۦ",
+      "translation": "kaumnya",
+      "transliteration": "qawmihi"
+    },
+    {
+      "id": 12321,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 12322,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_005.mp3",
+      "text": "ٱلْمِحْرَابِ",
+      "translation": "mihrab",
+      "transliteration": "l-miḥ'rābi"
+    },
+    {
+      "id": 12323,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_006.mp3",
+      "text": "فَأَوْحَىٰٓ",
+      "translation": "lalu dia memberi isyarat",
+      "transliteration": "fa-awḥā"
+    },
+    {
+      "id": 12324,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_007.mp3",
+      "text": "إِلَيْهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "ilayhim"
+    },
+    {
+      "id": 12325,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_008.mp3",
+      "text": "أَن",
+      "translation": "supaya",
+      "transliteration": "an"
+    },
+    {
+      "id": 12326,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_009.mp3",
+      "text": "سَبِّحُوا۟",
+      "translation": "mereka bertasbih",
+      "transliteration": "sabbiḥū"
+    },
+    {
+      "id": 12327,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_010.mp3",
+      "text": "بُكْرَةًۭ",
+      "translation": "diwaktu pagi",
+      "transliteration": "buk'ratan"
+    },
+    {
+      "id": 12328,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_011_011.mp3",
+      "text": "وَعَشِيًّۭا",
+      "translation": "dan petang",
+      "transliteration": "waʿashiyyan"
+    },
+    {
+      "id": 12329,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka ia keluar dari mihrab menuju kaumnya, lalu ia memberi isyarat kepada mereka; hendaklah kamu bertasbih di waktu pagi dan petang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 124090,
+    "timestamp_to": 138380,
+    "duration": 14290,
+    "segments": [
+      [
+        1,
+        123545,
+        124415
+      ],
+      [
+        2,
+        124415,
+        125085
+      ],
+      [
+        3,
+        125085,
+        126205
+      ],
+      [
+        4,
+        126205,
+        126615
+      ],
+      [
+        5,
+        126615,
+        128005
+      ],
+      [
+        6,
+        128005,
+        130415
+      ],
+      [
+        7,
+        130415,
+        131465
+      ],
+      [
+        8,
+        131465,
+        132725
+      ],
+      [
+        9,
+        132725,
+        133815
+      ],
+      [
+        10,
+        133815,
+        134905
+      ],
+      [
+        11,
+        134905,
+        137770
+      ]
+    ]
+  }
+}

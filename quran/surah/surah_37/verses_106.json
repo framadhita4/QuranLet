@@ -1,0 +1,99 @@
+{
+  "id": 3894,
+  "chapter_id": 37,
+  "verse_key": "37:106",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 73174,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_106_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 73175,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_106_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 73176,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_106_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "benar-benar ia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 73177,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_106_004.mp3",
+      "text": "ٱلْبَلَـٰٓؤُا۟",
+      "translation": "suatu ujian",
+      "transliteration": "l-balāu"
+    },
+    {
+      "id": 73178,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_106_005.mp3",
+      "text": "ٱلْمُبِينُ",
+      "translation": "yang nyata",
+      "transliteration": "l-mubīnu"
+    },
+    {
+      "id": 73179,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ini benar-benar suatu ujian yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 885460,
+    "timestamp_to": 894160,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        885395,
+        886595
+      ],
+      [
+        2,
+        886595,
+        887445
+      ],
+      [
+        3,
+        887445,
+        888025
+      ],
+      [
+        4,
+        888025,
+        890535
+      ],
+      [
+        5,
+        890535,
+        894030
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1372,
+  "chapter_id": 10,
+  "verse_key": "10:8",
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "ruku_number": 172,
+  "manzil_number": 3,
+  "page_number": 209,
+  "juz_number": 11,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ مَأْوَىٰهُمُ ٱلنَّارُ بِمَا كَانُوا۟ يَكْسِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 9162,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_008_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 9163,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_008_002.mp3",
+      "text": "مَأْوَىٰهُمُ",
+      "translation": "tempat mereka",
+      "transliteration": "mawāhumu"
+    },
+    {
+      "id": 9164,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_008_003.mp3",
+      "text": "ٱلنَّارُ",
+      "translation": "neraka",
+      "transliteration": "l-nāru"
+    },
+    {
+      "id": 9165,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_008_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa/disebabkan",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 9166,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_008_005.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 9167,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_008_006.mp3",
+      "text": "يَكْسِبُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yaksibūna"
+    },
+    {
+      "id": 9168,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka itu tempatnya ialah neraka disebabkan apa yang selalu mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 202680,
+    "timestamp_to": 213830,
+    "duration": 11160,
+    "segments": [
+      [
+        1,
+        202645,
+        205445
+      ],
+      [
+        2,
+        205445,
+        206695
+      ],
+      [
+        3,
+        206695,
+        208525
+      ],
+      [
+        4,
+        208525,
+        209095
+      ],
+      [
+        5,
+        209095,
+        210095
+      ],
+      [
+        6,
+        210095,
+        213750
+      ]
+    ]
+  }
+}

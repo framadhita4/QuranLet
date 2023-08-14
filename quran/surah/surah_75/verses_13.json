@@ -1,0 +1,112 @@
+{
+  "id": 5564,
+  "chapter_id": 75,
+  "verse_key": "75:13",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 15260,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_013_001.mp3",
+      "text": "يُنَبَّؤُا۟",
+      "translation": "diberitahukan",
+      "transliteration": "yunabba-u"
+    },
+    {
+      "id": 15261,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_013_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 15262,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_013_003.mp3",
+      "text": "يَوْمَئِذٍۭ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 15263,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_013_004.mp3",
+      "text": "بِمَا",
+      "translation": "tentang apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 15264,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_013_005.mp3",
+      "text": "قَدَّمَ",
+      "translation": "dia kerjakan/dahulukan",
+      "transliteration": "qaddama"
+    },
+    {
+      "id": 15265,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_013_006.mp3",
+      "text": "وَأَخَّرَ",
+      "translation": "dia akhirkan/lalaikan",
+      "transliteration": "wa-akhara"
+    },
+    {
+      "id": 15266,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60240,
+    "timestamp_to": 68230,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        60185,
+        61175
+      ],
+      [
+        2,
+        61175,
+        63175
+      ],
+      [
+        3,
+        63175,
+        64735
+      ],
+      [
+        4,
+        64735,
+        65675
+      ],
+      [
+        5,
+        65675,
+        66545
+      ],
+      [
+        6,
+        66545,
+        68100
+      ]
+    ]
+  }
+}

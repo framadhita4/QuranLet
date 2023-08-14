@@ -1,0 +1,177 @@
+{
+  "id": 2241,
+  "chapter_id": 18,
+  "verse_key": "18:101",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 262,
+  "manzil_number": 4,
+  "page_number": 304,
+  "juz_number": 16,
+  "text_uthmani": "ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ فِى غِطَآءٍ عَن ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 71543,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 71544,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_002.mp3",
+      "text": "كَانَتْ",
+      "translation": "adalah",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 71545,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_003.mp3",
+      "text": "أَعْيُنُهُمْ",
+      "translation": "mata mereka",
+      "transliteration": "aʿyunuhum"
+    },
+    {
+      "id": 71546,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 71547,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_005.mp3",
+      "text": "غِطَآءٍ",
+      "translation": "tertutup",
+      "transliteration": "ghiṭāin"
+    },
+    {
+      "id": 71548,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_006.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 71549,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_007.mp3",
+      "text": "ذِكْرِى",
+      "translation": "peringatan-Ku",
+      "transliteration": "dhik'rī"
+    },
+    {
+      "id": 71550,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_008.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 71551,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_009.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 71552,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_010.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka dapat/sanggup",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 71553,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_101_011.mp3",
+      "text": "سَمْعًا",
+      "translation": "mendengar",
+      "transliteration": "samʿan"
+    },
+    {
+      "id": 71554,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٠١",
+      "translation": "(101)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu orang-orang yang matanya dalam keadaan tertutup dari memperhatikan tanda-tanda kebesaran-Ku dan adalah mereka tidak sanggup mendengar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1817030,
+    "timestamp_to": 1830400,
+    "duration": 13380,
+    "segments": [
+      [
+        1,
+        1817005,
+        1818245
+      ],
+      [
+        2,
+        1818245,
+        1819245
+      ],
+      [
+        3,
+        1819245,
+        1820565
+      ],
+      [
+        4,
+        1820565,
+        1820935
+      ],
+      [
+        5,
+        1820935,
+        1823705
+      ],
+      [
+        6,
+        1823705,
+        1824675
+      ],
+      [
+        7,
+        1824675,
+        1825525
+      ],
+      [
+        8,
+        1825525,
+        1826755
+      ],
+      [
+        9,
+        1826755,
+        1827165
+      ],
+      [
+        10,
+        1827165,
+        1828895
+      ],
+      [
+        11,
+        1828895,
+        1829960
+      ]
+    ]
+  }
+}

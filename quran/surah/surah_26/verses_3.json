@@ -1,0 +1,112 @@
+{
+  "id": 2935,
+  "chapter_id": 26,
+  "verse_key": "26:3",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 316,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 2807,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_003_001.mp3",
+      "text": "لَعَلَّكَ",
+      "translation": "boleh jadi kamu",
+      "transliteration": "laʿallaka"
+    },
+    {
+      "id": 2808,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_003_002.mp3",
+      "text": "بَـٰخِعٌۭ",
+      "translation": "membinasakan",
+      "transliteration": "bākhiʿun"
+    },
+    {
+      "id": 2809,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_003_003.mp3",
+      "text": "نَّفْسَكَ",
+      "translation": "dirimu",
+      "transliteration": "nafsaka"
+    },
+    {
+      "id": 2810,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_003_004.mp3",
+      "text": "أَلَّا",
+      "translation": "karena",
+      "transliteration": "allā"
+    },
+    {
+      "id": 2811,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_003_005.mp3",
+      "text": "يَكُونُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "yakūnū"
+    },
+    {
+      "id": 2812,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_003_006.mp3",
+      "text": "مُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minīna"
+    },
+    {
+      "id": 2813,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Boleh jadi kamu (Muhammad) akan membinasakan dirimu karena mereka <sup foot_note_id=\"1074\">1</sup> tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13970,
+    "timestamp_to": 22070,
+    "duration": 8100,
+    "segments": [
+      [
+        1,
+        13945,
+        15085
+      ],
+      [
+        2,
+        15085,
+        16035
+      ],
+      [
+        3,
+        16035,
+        17605
+      ],
+      [
+        4,
+        17605,
+        18365
+      ],
+      [
+        5,
+        18365,
+        19495
+      ],
+      [
+        6,
+        19495,
+        22020
+      ]
+    ]
+  }
+}

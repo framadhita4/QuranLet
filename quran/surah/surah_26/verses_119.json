@@ -1,0 +1,112 @@
+{
+  "id": 3051,
+  "chapter_id": 26,
+  "verse_key": "26:119",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 76220,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_119_001.mp3",
+      "text": "فَأَنجَيْنَـٰهُ",
+      "translation": "maka Kami selamatkan dia",
+      "transliteration": "fa-anjaynāhu"
+    },
+    {
+      "id": 76221,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_119_002.mp3",
+      "text": "وَمَن",
+      "translation": "dan orang",
+      "transliteration": "waman"
+    },
+    {
+      "id": 76222,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_119_003.mp3",
+      "text": "مَّعَهُۥ",
+      "translation": "besertanya",
+      "transliteration": "maʿahu"
+    },
+    {
+      "id": 76223,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_119_004.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 76224,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_119_005.mp3",
+      "text": "ٱلْفُلْكِ",
+      "translation": "perahu",
+      "transliteration": "l-ful'ki"
+    },
+    {
+      "id": 76225,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_119_006.mp3",
+      "text": "ٱلْمَشْحُونِ",
+      "translation": "penuh muatan",
+      "transliteration": "l-mashḥūni"
+    },
+    {
+      "id": 76226,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka, Kami selamatkan Nūḥ dan orang-orang yang besertanya di dalam kapal yang penuh muatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1069590,
+    "timestamp_to": 1078550,
+    "duration": 8960,
+    "segments": [
+      [
+        1,
+        1069565,
+        1072285
+      ],
+      [
+        2,
+        1072285,
+        1072635
+      ],
+      [
+        3,
+        1072635,
+        1074335
+      ],
+      [
+        4,
+        1074335,
+        1074595
+      ],
+      [
+        5,
+        1074595,
+        1075425
+      ],
+      [
+        6,
+        1075425,
+        1078450
+      ]
+    ]
+  }
+}

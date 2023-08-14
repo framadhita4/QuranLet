@@ -1,0 +1,73 @@
+{
+  "id": 3955,
+  "chapter_id": 37,
+  "verse_key": "37:167",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَإِن كَانُوا۟ لَيَقُولُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82543,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_167_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 82544,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_167_002.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 82545,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_167_003.mp3",
+      "text": "لَيَقُولُونَ",
+      "translation": "pasti mereka akan berkata",
+      "transliteration": "layaqūlūna"
+    },
+    {
+      "id": 82546,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦٧",
+      "translation": "(167)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya mereka benar-benar akan berkata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1340150,
+    "timestamp_to": 1346260,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        1340085,
+        1341685
+      ],
+      [
+        2,
+        1341685,
+        1342515
+      ],
+      [
+        3,
+        1342515,
+        1346130
+      ]
+    ]
+  }
+}

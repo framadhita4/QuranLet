@@ -1,0 +1,86 @@
+{
+  "id": 5870,
+  "chapter_id": 83,
+  "verse_key": "83:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 24934,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_022_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 24935,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_022_002.mp3",
+      "text": "ٱلْأَبْرَارَ",
+      "translation": "orang-orang yang baik",
+      "transliteration": "l-abrāra"
+    },
+    {
+      "id": 24936,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_022_003.mp3",
+      "text": "لَفِى",
+      "translation": "benar-benar dalam",
+      "transliteration": "lafī"
+    },
+    {
+      "id": 24937,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_022_004.mp3",
+      "text": "نَعِيمٍ",
+      "translation": "kenikmatan/kesenangan",
+      "transliteration": "naʿīmin"
+    },
+    {
+      "id": 24938,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang yang berbakti itu benar-benar berada dalam kenikmatan yang besar (surga),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 162060,
+    "timestamp_to": 168380,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        161975,
+        163505
+      ],
+      [
+        2,
+        163505,
+        164805
+      ],
+      [
+        3,
+        164805,
+        165385
+      ],
+      [
+        4,
+        165385,
+        168240
+      ]
+    ]
+  }
+}

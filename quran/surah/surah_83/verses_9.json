@@ -1,0 +1,60 @@
+{
+  "id": 5857,
+  "chapter_id": 83,
+  "verse_key": "83:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 10430,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_009_001.mp3",
+      "text": "كِتَـٰبٌۭ",
+      "translation": "kitab/catatan",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 10431,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_009_002.mp3",
+      "text": "مَّرْقُومٌۭ",
+      "translation": "tertulis",
+      "transliteration": "marqūmun"
+    },
+    {
+      "id": 10432,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ialah) kitab yang bertulis.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60130,
+    "timestamp_to": 65490,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        60055,
+        60965
+      ],
+      [
+        2,
+        60965,
+        65190
+      ]
+    ]
+  }
+}

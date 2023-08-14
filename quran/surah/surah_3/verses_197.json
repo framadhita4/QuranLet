@@ -1,0 +1,125 @@
+{
+  "id": 490,
+  "chapter_id": 3,
+  "verse_key": "3:197",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "ruku_number": 61,
+  "manzil_number": 1,
+  "page_number": 76,
+  "juz_number": 4,
+  "text_uthmani": "مَتَـٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 85126,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_001.mp3",
+      "text": "مَتَـٰعٌۭ",
+      "translation": "kesenangan",
+      "transliteration": "matāʿun"
+    },
+    {
+      "id": 85127,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_002.mp3",
+      "text": "قَلِيلٌۭ",
+      "translation": "sedikit",
+      "transliteration": "qalīlun"
+    },
+    {
+      "id": 85128,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_003.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 85129,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_004.mp3",
+      "text": "مَأْوَىٰهُمْ",
+      "translation": "tempat tinggal mereka",
+      "transliteration": "mawāhum"
+    },
+    {
+      "id": 85130,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_005.mp3",
+      "text": "جَهَنَّمُ ۚ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannamu"
+    },
+    {
+      "id": 85132,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_007.mp3",
+      "text": "وَبِئْسَ",
+      "translation": "dan seburuk-buruk",
+      "transliteration": "wabi'sa"
+    },
+    {
+      "id": 85133,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_197_008.mp3",
+      "text": "ٱلْمِهَادُ",
+      "translation": "tempat tinggal",
+      "transliteration": "l-mihādu"
+    },
+    {
+      "id": 85134,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٩٧",
+      "translation": "(197)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itu hanyalah kesenangan sementara, kemudian tempat tinggal mereka ialah Jahanam; dan Jahanam itu adalah tempat yang seburuk-buruknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4689730,
+    "timestamp_to": 4701380,
+    "duration": 11650,
+    "segments": [
+      [
+        1,
+        4689675,
+        4691315
+      ],
+      [
+        2,
+        4691315,
+        4693145
+      ],
+      [
+        3,
+        4693145,
+        4694645
+      ],
+      [
+        4,
+        4694645,
+        4695845
+      ],
+      [
+        5,
+        4695845,
+        4697695
+      ],
+      [
+        6,
+        4697695,
+        4698415
+      ],
+      [
+        7,
+        4698415,
+        4701300
+      ]
+    ]
+  }
+}

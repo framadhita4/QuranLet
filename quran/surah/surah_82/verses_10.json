@@ -1,0 +1,73 @@
+{
+  "id": 5839,
+  "chapter_id": 82,
+  "verse_key": "82:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 11831,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_010_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 11832,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_010_002.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 11833,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_010_003.mp3",
+      "text": "لَحَـٰفِظِينَ",
+      "translation": "sungguh ada penjaga",
+      "transliteration": "laḥāfiẓīna"
+    },
+    {
+      "id": 11834,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Padahal sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48460,
+    "timestamp_to": 53950,
+    "duration": 5490,
+    "segments": [
+      [
+        1,
+        48395,
+        49715
+      ],
+      [
+        2,
+        49715,
+        50725
+      ],
+      [
+        3,
+        50725,
+        53790
+      ]
+    ]
+  }
+}

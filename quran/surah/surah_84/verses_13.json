@@ -1,0 +1,99 @@
+{
+  "id": 5897,
+  "chapter_id": 84,
+  "verse_key": "84:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 15391,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_013_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 15392,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_013_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 15393,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_013_003.mp3",
+      "text": "فِىٓ",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 15394,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_013_004.mp3",
+      "text": "أَهْلِهِۦ",
+      "translation": "keluarganya",
+      "transliteration": "ahlihi"
+    },
+    {
+      "id": 15395,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_013_005.mp3",
+      "text": "مَسْرُورًا",
+      "translation": "bergembira",
+      "transliteration": "masrūran"
+    },
+    {
+      "id": 15396,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia dahulu (di dunia) bergembira di kalangan kaumnya (yang sama-sama kafir).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65930,
+    "timestamp_to": 72900,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        65905,
+        67595
+      ],
+      [
+        2,
+        67595,
+        68305
+      ],
+      [
+        3,
+        68305,
+        69895
+      ],
+      [
+        4,
+        69895,
+        70925
+      ],
+      [
+        5,
+        70925,
+        72830
+      ]
+    ]
+  }
+}

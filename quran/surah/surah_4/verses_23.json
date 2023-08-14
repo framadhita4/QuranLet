@@ -1,0 +1,796 @@
+{
+  "id": 516,
+  "chapter_id": 4,
+  "verse_key": "4:23",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 32,
+  "ruku_number": 65,
+  "manzil_number": 1,
+  "page_number": 81,
+  "juz_number": 4,
+  "text_uthmani": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَـٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّـٰتُكُمْ وَخَـٰلَـٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَـٰتُكُمُ ٱلَّـٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَـٰعَةِ وَأُمَّهَـٰتُ نِسَآئِكُمْ وَرَبَـٰٓئِبُكُمُ ٱلَّـٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّـٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَـٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَـٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 25516,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_001.mp3",
+      "text": "حُرِّمَتْ",
+      "translation": "diharamkan",
+      "transliteration": "ḥurrimat"
+    },
+    {
+      "id": 25517,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_002.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 25518,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_003.mp3",
+      "text": "أُمَّهَـٰتُكُمْ",
+      "translation": "ibu-ibumu",
+      "transliteration": "ummahātukum"
+    },
+    {
+      "id": 25519,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_004.mp3",
+      "text": "وَبَنَاتُكُمْ",
+      "translation": "dan anak-anak perempuanmu",
+      "transliteration": "wabanātukum"
+    },
+    {
+      "id": 25520,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_005.mp3",
+      "text": "وَأَخَوَٰتُكُمْ",
+      "translation": "dan saudara-saudara perempuanmu",
+      "transliteration": "wa-akhawātukum"
+    },
+    {
+      "id": 25521,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_006.mp3",
+      "text": "وَعَمَّـٰتُكُمْ",
+      "translation": "dan saudara-saudara perempuan bapakmu",
+      "transliteration": "waʿammātukum"
+    },
+    {
+      "id": 25522,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_007.mp3",
+      "text": "وَخَـٰلَـٰتُكُمْ",
+      "translation": "dan saudara-saudara perempuan ibumu",
+      "transliteration": "wakhālātukum"
+    },
+    {
+      "id": 25523,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_008.mp3",
+      "text": "وَبَنَاتُ",
+      "translation": "dan anak-anak perempuan",
+      "transliteration": "wabanātu"
+    },
+    {
+      "id": 25524,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_009.mp3",
+      "text": "ٱلْأَخِ",
+      "translation": "saudaramu laki-laki",
+      "transliteration": "l-akhi"
+    },
+    {
+      "id": 25525,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_010.mp3",
+      "text": "وَبَنَاتُ",
+      "translation": "dan anak-anak perempuan",
+      "transliteration": "wabanātu"
+    },
+    {
+      "id": 25526,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_011.mp3",
+      "text": "ٱلْأُخْتِ",
+      "translation": "saudaramu perempuan",
+      "transliteration": "l-ukh'ti"
+    },
+    {
+      "id": 25527,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_012.mp3",
+      "text": "وَأُمَّهَـٰتُكُمُ",
+      "translation": "dan ibu-ibumu",
+      "transliteration": "wa-ummahātukumu"
+    },
+    {
+      "id": 25528,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_013.mp3",
+      "text": "ٱلَّـٰتِىٓ",
+      "translation": "yang",
+      "transliteration": "allātī"
+    },
+    {
+      "id": 25529,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_014.mp3",
+      "text": "أَرْضَعْنَكُمْ",
+      "translation": "menyusui kamu",
+      "transliteration": "arḍaʿnakum"
+    },
+    {
+      "id": 25530,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_015.mp3",
+      "text": "وَأَخَوَٰتُكُم",
+      "translation": "dan saudara-saudara perempuanmu",
+      "transliteration": "wa-akhawātukum"
+    },
+    {
+      "id": 25531,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_016.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 25532,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_017.mp3",
+      "text": "ٱلرَّضَـٰعَةِ",
+      "translation": "sepersusuan",
+      "transliteration": "l-raḍāʿati"
+    },
+    {
+      "id": 25533,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_018.mp3",
+      "text": "وَأُمَّهَـٰتُ",
+      "translation": "dan ibu-ibu",
+      "transliteration": "wa-ummahātu"
+    },
+    {
+      "id": 25534,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_019.mp3",
+      "text": "نِسَآئِكُمْ",
+      "translation": "isterimu",
+      "transliteration": "nisāikum"
+    },
+    {
+      "id": 25535,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_020.mp3",
+      "text": "وَرَبَـٰٓئِبُكُمُ",
+      "translation": "dan anak-anak isterimu",
+      "transliteration": "warabāibukumu"
+    },
+    {
+      "id": 25536,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_021.mp3",
+      "text": "ٱلَّـٰتِى",
+      "translation": "yang",
+      "transliteration": "allātī"
+    },
+    {
+      "id": 25537,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_022.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 25538,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_023.mp3",
+      "text": "حُجُورِكُم",
+      "translation": "pemeliharaanmu",
+      "transliteration": "ḥujūrikum"
+    },
+    {
+      "id": 25539,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_024.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 25540,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_025.mp3",
+      "text": "نِّسَآئِكُمُ",
+      "translation": "isteri-isteri kamu",
+      "transliteration": "nisāikumu"
+    },
+    {
+      "id": 25541,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_026.mp3",
+      "text": "ٱلَّـٰتِى",
+      "translation": "yang",
+      "transliteration": "allātī"
+    },
+    {
+      "id": 25542,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_027.mp3",
+      "text": "دَخَلْتُم",
+      "translation": "kamu masuki/campuri",
+      "transliteration": "dakhaltum"
+    },
+    {
+      "id": 25543,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_028.mp3",
+      "text": "بِهِنَّ",
+      "translation": "dengan mereka",
+      "transliteration": "bihinna"
+    },
+    {
+      "id": 25544,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_029.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 25545,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_030.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 25546,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_031.mp3",
+      "text": "تَكُونُوا۟",
+      "translation": "kalian menjadi",
+      "transliteration": "takūnū"
+    },
+    {
+      "id": 25547,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_032.mp3",
+      "text": "دَخَلْتُم",
+      "translation": "kamu masuki/campuri",
+      "transliteration": "dakhaltum"
+    },
+    {
+      "id": 25548,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_033.mp3",
+      "text": "بِهِنَّ",
+      "translation": "dengan mereka",
+      "transliteration": "bihinna"
+    },
+    {
+      "id": 25549,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_034.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 25550,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_035.mp3",
+      "text": "جُنَاحَ",
+      "translation": "berdosa",
+      "transliteration": "junāḥa"
+    },
+    {
+      "id": 25551,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_036.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 25552,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_037.mp3",
+      "text": "وَحَلَـٰٓئِلُ",
+      "translation": "dan isteri-isteri",
+      "transliteration": "waḥalāilu"
+    },
+    {
+      "id": 25553,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_038.mp3",
+      "text": "أَبْنَآئِكُمُ",
+      "translation": "anak-anakmu",
+      "transliteration": "abnāikumu"
+    },
+    {
+      "id": 25554,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_039.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 25555,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_040.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 25556,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_041.mp3",
+      "text": "أَصْلَـٰبِكُمْ",
+      "translation": "tulang rusukmu/anak kandungmu",
+      "transliteration": "aṣlābikum"
+    },
+    {
+      "id": 25557,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_042.mp3",
+      "text": "وَأَن",
+      "translation": "dan bahwa",
+      "transliteration": "wa-an"
+    },
+    {
+      "id": 25558,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_043.mp3",
+      "text": "تَجْمَعُوا۟",
+      "translation": "kamu menghimpun",
+      "transliteration": "tajmaʿū"
+    },
+    {
+      "id": 25559,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_044.mp3",
+      "text": "بَيْنَ",
+      "translation": "antara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 25560,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_045.mp3",
+      "text": "ٱلْأُخْتَيْنِ",
+      "translation": "dua perempuan bersaudara",
+      "transliteration": "l-ukh'tayni"
+    },
+    {
+      "id": 25561,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_046.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 25562,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_047.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 25563,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_048.mp3",
+      "text": "قَدْ",
+      "translation": "sungguh",
+      "transliteration": "qad"
+    },
+    {
+      "id": 25564,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_049.mp3",
+      "text": "سَلَفَ ۗ",
+      "translation": "yang lalu/lampau",
+      "transliteration": "salafa"
+    },
+    {
+      "id": 25566,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_051.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 25567,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_052.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 25568,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_053.mp3",
+      "text": "كَانَ",
+      "translation": "adalah Dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 25569,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_054.mp3",
+      "text": "غَفُورًۭا",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūran"
+    },
+    {
+      "id": 25570,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_023_055.mp3",
+      "text": "رَّحِيمًۭا",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīman"
+    },
+    {
+      "id": 25571,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Diharamkan atas kamu (mengawini) ibu-ibumu; anak-anakmu yang perempuan; saudara-saudaramu yang perempuan; saudara-saudara bapakmu yang perempuan; saudara-saudara ibumu yang perempuan; anak-anak perempuan dari saudara-saudaramu yang laki-laki; anak-anak perempuan dari saudara-saudaramu yang perempuan; ibu-ibumu yang menyusui kamu; saudara perempuan sepersusuan; ibu-ibu istrimu (mertua); anak-anak istrimu yang dalam pemeliharaanmu<sup foot_note_id=\"282\">1</sup> dari istri yang telah kamu campuri, tetapi jika kamu belum campur dengan istrimu itu (dan sudah kamu ceraikan), maka tidak berdosa kamu mengawininya; (dan diharamkan bagimu) istri-istri anak kandungmu (menantu); dan menghimpunkan (dalam perkawinan) dua perempuan yang bersaudara, kecuali yang telah terjadi pada masa lampau; sesungguhnya Allah Maha Pengampun lagi Maha Penyayang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 761230,
+    "timestamp_to": 842890,
+    "duration": 81510,
+    "segments": [
+      [
+        1,
+        761165,
+        762105
+      ],
+      [
+        2,
+        762105,
+        763065
+      ],
+      [
+        3,
+        763065,
+        764885
+      ],
+      [
+        4,
+        764885,
+        766145
+      ],
+      [
+        5,
+        766145,
+        767635
+      ],
+      [
+        6,
+        767635,
+        769465
+      ],
+      [
+        7,
+        769465,
+        770895
+      ],
+      [
+        8,
+        770895,
+        771885
+      ],
+      [
+        9,
+        771885,
+        772505
+      ],
+      [
+        10,
+        772505,
+        773405
+      ],
+      [
+        11,
+        773405,
+        774205
+      ],
+      [
+        12,
+        774205,
+        776105
+      ],
+      [
+        13,
+        776105,
+        778145
+      ],
+      [
+        14,
+        778145,
+        779525
+      ],
+      [
+        15,
+        779525,
+        780865
+      ],
+      [
+        16,
+        780865,
+        781805
+      ],
+      [
+        17,
+        781805,
+        783315
+      ],
+      [
+        15,
+        783345,
+        784895
+      ],
+      [
+        16,
+        784895,
+        785745
+      ],
+      [
+        17,
+        785745,
+        786985
+      ],
+      [
+        18,
+        786985,
+        788615
+      ],
+      [
+        19,
+        788615,
+        790995
+      ],
+      [
+        20,
+        790995,
+        793725
+      ],
+      [
+        21,
+        793725,
+        794675
+      ],
+      [
+        22,
+        794675,
+        795035
+      ],
+      [
+        23,
+        795035,
+        796615
+      ],
+      [
+        20,
+        796635,
+        799535
+      ],
+      [
+        21,
+        799535,
+        800535
+      ],
+      [
+        22,
+        800535,
+        800885
+      ],
+      [
+        23,
+        800885,
+        802055
+      ],
+      [
+        24,
+        802055,
+        802805
+      ],
+      [
+        25,
+        802805,
+        805855
+      ],
+      [
+        26,
+        805855,
+        806925
+      ],
+      [
+        27,
+        806925,
+        808285
+      ],
+      [
+        28,
+        808285,
+        809615
+      ],
+      [
+        29,
+        809615,
+        810195
+      ],
+      [
+        30,
+        810195,
+        810575
+      ],
+      [
+        31,
+        810575,
+        811595
+      ],
+      [
+        32,
+        811595,
+        813245
+      ],
+      [
+        33,
+        813245,
+        814565
+      ],
+      [
+        29,
+        814595,
+        815395
+      ],
+      [
+        30,
+        815395,
+        815995
+      ],
+      [
+        31,
+        815995,
+        816985
+      ],
+      [
+        32,
+        816985,
+        818535
+      ],
+      [
+        33,
+        818535,
+        819905
+      ],
+      [
+        34,
+        819905,
+        820505
+      ],
+      [
+        35,
+        820505,
+        821415
+      ],
+      [
+        36,
+        821415,
+        822455
+      ],
+      [
+        37,
+        822455,
+        825005
+      ],
+      [
+        38,
+        825005,
+        827645
+      ],
+      [
+        39,
+        827645,
+        828685
+      ],
+      [
+        40,
+        828685,
+        829185
+      ],
+      [
+        41,
+        829185,
+        830645
+      ],
+      [
+        42,
+        830645,
+        831685
+      ],
+      [
+        43,
+        831685,
+        832775
+      ],
+      [
+        44,
+        832775,
+        833385
+      ],
+      [
+        45,
+        833385,
+        834705
+      ],
+      [
+        46,
+        834705,
+        835545
+      ],
+      [
+        47,
+        835545,
+        835895
+      ],
+      [
+        48,
+        835895,
+        836345
+      ],
+      [
+        49,
+        836345,
+        837075
+      ],
+      [
+        50,
+        837105,
+        838545
+      ],
+      [
+        51,
+        838545,
+        839375
+      ],
+      [
+        52,
+        839375,
+        840135
+      ],
+      [
+        53,
+        840135,
+        840945
+      ],
+      [
+        54,
+        840945,
+        842630
+      ]
+    ]
+  }
+}

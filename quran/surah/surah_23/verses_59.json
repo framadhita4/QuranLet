@@ -1,0 +1,99 @@
+{
+  "id": 2732,
+  "chapter_id": 23,
+  "verse_key": "23:59",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 345,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 53944,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_059_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 53945,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_059_002.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 53946,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_059_003.mp3",
+      "text": "بِرَبِّهِمْ",
+      "translation": "dengan Tuhan mereka",
+      "transliteration": "birabbihim"
+    },
+    {
+      "id": 53947,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_059_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 53948,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_059_005.mp3",
+      "text": "يُشْرِكُونَ",
+      "translation": "mereka mempersekutukan",
+      "transliteration": "yush'rikūna"
+    },
+    {
+      "id": 53949,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang tidak mempersekutukan dengan Tuhan mereka (sesuatu apa pun),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 761580,
+    "timestamp_to": 768630,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        761525,
+        762775
+      ],
+      [
+        2,
+        762775,
+        763955
+      ],
+      [
+        3,
+        763955,
+        765165
+      ],
+      [
+        4,
+        765165,
+        765545
+      ],
+      [
+        5,
+        765545,
+        768540
+      ]
+    ]
+  }
+}

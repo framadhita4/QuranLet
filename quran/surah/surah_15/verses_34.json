@@ -1,0 +1,99 @@
+{
+  "id": 1836,
+  "chapter_id": 15,
+  "verse_key": "15:34",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 36836,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_034_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 36837,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_034_002.mp3",
+      "text": "فَٱخْرُجْ",
+      "translation": "maka keluarlah kamu",
+      "transliteration": "fa-ukh'ruj"
+    },
+    {
+      "id": 36838,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_034_003.mp3",
+      "text": "مِنْهَا",
+      "translation": "daripadanya/surga",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 36839,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_034_004.mp3",
+      "text": "فَإِنَّكَ",
+      "translation": "maka sesungguhnya kamu",
+      "transliteration": "fa-innaka"
+    },
+    {
+      "id": 36840,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_034_005.mp3",
+      "text": "رَجِيمٌۭ",
+      "translation": "terkutuk",
+      "transliteration": "rajīmun"
+    },
+    {
+      "id": 36841,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Keluarlah dari surga karena sesungguhnya kamu terkutuk,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 352450,
+    "timestamp_to": 359140,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        352395,
+        352995
+      ],
+      [
+        2,
+        352995,
+        353875
+      ],
+      [
+        3,
+        353875,
+        354595
+      ],
+      [
+        4,
+        354595,
+        356275
+      ],
+      [
+        5,
+        356275,
+        359060
+      ]
+    ]
+  }
+}

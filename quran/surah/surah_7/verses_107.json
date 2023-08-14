@@ -1,0 +1,112 @@
+{
+  "id": 1061,
+  "chapter_id": 7,
+  "verse_key": "7:107",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 134,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 73180,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_107_001.mp3",
+      "text": "فَأَلْقَىٰ",
+      "translation": "maka ia menjatuhkan",
+      "transliteration": "fa-alqā"
+    },
+    {
+      "id": 73181,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_107_002.mp3",
+      "text": "عَصَاهُ",
+      "translation": "tongkatnya",
+      "transliteration": "ʿaṣāhu"
+    },
+    {
+      "id": 73182,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_107_003.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 73183,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_107_004.mp3",
+      "text": "هِىَ",
+      "translation": "ia (tongkat)",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 73184,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_107_005.mp3",
+      "text": "ثُعْبَانٌۭ",
+      "translation": "ular",
+      "transliteration": "thuʿ'bānun"
+    },
+    {
+      "id": 73185,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_107_006.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 73186,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٠٧",
+      "translation": "(107)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Musa menjatuhkan tongkat-nya, lalu seketika itu juga tongkat itu menjadi ular yang sebenarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2490560,
+    "timestamp_to": 2498610,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        2490525,
+        2491655
+      ],
+      [
+        2,
+        2491655,
+        2492625
+      ],
+      [
+        3,
+        2492625,
+        2493525
+      ],
+      [
+        4,
+        2493525,
+        2493885
+      ],
+      [
+        5,
+        2493885,
+        2495025
+      ],
+      [
+        6,
+        2495025,
+        2498520
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2545,
+  "chapter_id": 21,
+  "verse_key": "21:62",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 327,
+  "juz_number": 17,
+  "text_uthmani": "قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَـٰذَا بِـَٔالِهَتِنَا يَـٰٓإِبْرَٰهِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 55648,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_062_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 55649,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_062_002.mp3",
+      "text": "ءَأَنتَ",
+      "translation": "apakah kamu",
+      "transliteration": "a-anta"
+    },
+    {
+      "id": 55650,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_062_003.mp3",
+      "text": "فَعَلْتَ",
+      "translation": "kamu melakukan",
+      "transliteration": "faʿalta"
+    },
+    {
+      "id": 55651,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_062_004.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 55652,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_062_005.mp3",
+      "text": "بِـَٔالِهَتِنَا",
+      "translation": "dengan/terhadap tuhan-tuhan Kami",
+      "transliteration": "biālihatinā"
+    },
+    {
+      "id": 55653,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_062_006.mp3",
+      "text": "يَـٰٓإِبْرَٰهِيمُ",
+      "translation": "Hai Ibrahim",
+      "transliteration": "yāib'rāhīmu"
+    },
+    {
+      "id": 55654,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka bertanya, \"Apakah kamu yang melakukan perbuatan ini terhadap tuhan-tuhan kami, hai Ibrāhīm?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 850730,
+    "timestamp_to": 861990,
+    "duration": 11260,
+    "segments": [
+      [
+        1,
+        850705,
+        852715
+      ],
+      [
+        2,
+        852715,
+        854235
+      ],
+      [
+        3,
+        854235,
+        855105
+      ],
+      [
+        4,
+        855105,
+        855895
+      ],
+      [
+        5,
+        855895,
+        857485
+      ],
+      [
+        6,
+        857485,
+        861910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 4350,
+  "chapter_id": 43,
+  "verse_key": "43:25",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 427,
+  "manzil_number": 6,
+  "page_number": 491,
+  "juz_number": 25,
+  "text_uthmani": "فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 27692,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_001.mp3",
+      "text": "فَٱنتَقَمْنَا",
+      "translation": "maka Kami siksa",
+      "transliteration": "fa-intaqamnā"
+    },
+    {
+      "id": 27693,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_002.mp3",
+      "text": "مِنْهُمْ ۖ",
+      "translation": "diantara mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 27695,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_004.mp3",
+      "text": "فَٱنظُرْ",
+      "translation": "maka perhatikanlah",
+      "transliteration": "fa-unẓur"
+    },
+    {
+      "id": 27696,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_005.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 27697,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_006.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 27698,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_007.mp3",
+      "text": "عَـٰقِبَةُ",
+      "translation": "akibat",
+      "transliteration": "ʿāqibatu"
+    },
+    {
+      "id": 27699,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_025_008.mp3",
+      "text": "ٱلْمُكَذِّبِينَ",
+      "translation": "orang-orang yang mendustakan",
+      "transliteration": "l-mukadhibīna"
+    },
+    {
+      "id": 27700,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami binasakan mereka, maka perhatikanlah bagaimana kesudahan orang-orang yang mendustakan itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 349300,
+    "timestamp_to": 361630,
+    "duration": 12330,
+    "segments": [
+      [
+        1,
+        349245,
+        351605
+      ],
+      [
+        2,
+        351605,
+        352515
+      ],
+      [
+        3,
+        352515,
+        354635
+      ],
+      [
+        4,
+        354635,
+        355385
+      ],
+      [
+        5,
+        355385,
+        356035
+      ],
+      [
+        6,
+        356035,
+        357365
+      ],
+      [
+        7,
+        357365,
+        361530
+      ]
+    ]
+  }
+}

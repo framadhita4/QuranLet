@@ -1,0 +1,99 @@
+{
+  "id": 1891,
+  "chapter_id": 15,
+  "verse_key": "15:89",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 67846,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_089_001.mp3",
+      "text": "وَقُلْ",
+      "translation": "dan katakan",
+      "transliteration": "waqul"
+    },
+    {
+      "id": 67847,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_089_002.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya",
+      "transliteration": "innī"
+    },
+    {
+      "id": 67848,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_089_003.mp3",
+      "text": "أَنَا",
+      "translation": "aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 67849,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_089_004.mp3",
+      "text": "ٱلنَّذِيرُ",
+      "translation": "pemberi peringatan",
+      "transliteration": "l-nadhīru"
+    },
+    {
+      "id": 67850,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_089_005.mp3",
+      "text": "ٱلْمُبِينُ",
+      "translation": "nyata",
+      "transliteration": "l-mubīnu"
+    },
+    {
+      "id": 67851,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan katakanlah, \"Sesungguhnya aku adalah pemberi peringatan yang menjelaskan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 868610,
+    "timestamp_to": 877650,
+    "duration": 9040,
+    "segments": [
+      [
+        1,
+        868585,
+        869195
+      ],
+      [
+        2,
+        869195,
+        872215
+      ],
+      [
+        3,
+        872215,
+        872655
+      ],
+      [
+        4,
+        872655,
+        874215
+      ],
+      [
+        5,
+        874215,
+        877580
+      ]
+    ]
+  }
+}

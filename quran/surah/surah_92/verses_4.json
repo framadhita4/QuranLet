@@ -1,0 +1,73 @@
+{
+  "id": 6062,
+  "chapter_id": 92,
+  "verse_key": "92:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 3404,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_004_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 3405,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_004_002.mp3",
+      "text": "سَعْيَكُمْ",
+      "translation": "usahamu",
+      "transliteration": "saʿyakum"
+    },
+    {
+      "id": 3406,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_004_003.mp3",
+      "text": "لَشَتَّىٰ",
+      "translation": "sungguh berbeda-beda",
+      "transliteration": "lashattā"
+    },
+    {
+      "id": 3407,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya usaha kamu memang berbeda-beda.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12750,
+    "timestamp_to": 17030,
+    "duration": 4290,
+    "segments": [
+      [
+        1,
+        12145,
+        13435
+      ],
+      [
+        2,
+        13435,
+        14475
+      ],
+      [
+        3,
+        14475,
+        15800
+      ]
+    ]
+  }
+}

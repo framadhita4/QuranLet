@@ -1,0 +1,112 @@
+{
+  "id": 1884,
+  "chapter_id": 15,
+  "verse_key": "15:82",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 65222,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_001.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 65223,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_002.mp3",
+      "text": "يَنْحِتُونَ",
+      "translation": "mereka memahat",
+      "transliteration": "yanḥitūna"
+    },
+    {
+      "id": 65224,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 65225,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_004.mp3",
+      "text": "ٱلْجِبَالِ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibāli"
+    },
+    {
+      "id": 65226,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_005.mp3",
+      "text": "بُيُوتًا",
+      "translation": "rumah-rumah",
+      "transliteration": "buyūtan"
+    },
+    {
+      "id": 65227,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_006.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 65228,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan mereka memahat rumah-rumah dari gunung-gunung batu (yang didiami) dengan aman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 788030,
+    "timestamp_to": 795970,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        788005,
+        789175
+      ],
+      [
+        2,
+        789175,
+        790445
+      ],
+      [
+        3,
+        790445,
+        790885
+      ],
+      [
+        4,
+        790885,
+        792085
+      ],
+      [
+        5,
+        792085,
+        793185
+      ],
+      [
+        6,
+        793185,
+        795900
+      ]
+    ]
+  }
+}

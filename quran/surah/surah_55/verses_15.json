@@ -1,0 +1,112 @@
+{
+  "id": 4916,
+  "chapter_id": 55,
+  "verse_key": "55:15",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 17285,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_015_001.mp3",
+      "text": "وَخَلَقَ",
+      "translation": "dan Dia menciptakan",
+      "transliteration": "wakhalaqa"
+    },
+    {
+      "id": 17286,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_015_002.mp3",
+      "text": "ٱلْجَآنَّ",
+      "translation": "jin",
+      "transliteration": "l-jāna"
+    },
+    {
+      "id": 17287,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_015_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17288,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_015_004.mp3",
+      "text": "مَّارِجٍۢ",
+      "translation": "nyala api",
+      "transliteration": "mārijin"
+    },
+    {
+      "id": 17289,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_015_005.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17290,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_015_006.mp3",
+      "text": "نَّارٍۢ",
+      "translation": "api",
+      "transliteration": "nārin"
+    },
+    {
+      "id": 17291,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Dia menciptakan jin dari nyala api.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 98230,
+    "timestamp_to": 110220,
+    "duration": 11990,
+    "segments": [
+      [
+        1,
+        98165,
+        99055
+      ],
+      [
+        2,
+        99055,
+        103105
+      ],
+      [
+        3,
+        103105,
+        103365
+      ],
+      [
+        4,
+        103365,
+        105185
+      ],
+      [
+        5,
+        105185,
+        106465
+      ],
+      [
+        6,
+        106465,
+        110040
+      ]
+    ]
+  }
+}

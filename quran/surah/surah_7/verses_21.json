@@ -1,0 +1,99 @@
+{
+  "id": 975,
+  "chapter_id": 7,
+  "verse_key": "7:21",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 123,
+  "manzil_number": 2,
+  "page_number": 152,
+  "juz_number": 8,
+  "text_uthmani": "وَقَاسَمَهُمَآ إِنِّى لَكُمَا لَمِنَ ٱلنَّـٰصِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 24349,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_021_001.mp3",
+      "text": "وَقَاسَمَهُمَآ",
+      "translation": "dan dia bersumpah kepada keduanya",
+      "transliteration": "waqāsamahumā"
+    },
+    {
+      "id": 24350,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_021_002.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya saya",
+      "transliteration": "innī"
+    },
+    {
+      "id": 24351,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_021_003.mp3",
+      "text": "لَكُمَا",
+      "translation": "kepada kamu berdua",
+      "transliteration": "lakumā"
+    },
+    {
+      "id": 24352,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_021_004.mp3",
+      "text": "لَمِنَ",
+      "translation": "sungguh dari/termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 24353,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_021_005.mp3",
+      "text": "ٱلنَّـٰصِحِينَ",
+      "translation": "orang-orang yang memberi nasehat",
+      "transliteration": "l-nāṣiḥīna"
+    },
+    {
+      "id": 24354,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dia (setan) bersumpah kepada keduanya, \"Sesungguhnya saya adalah termasuk orang yang memberi nasihat kepada kamu berdua\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 344660,
+    "timestamp_to": 355530,
+    "duration": 10870,
+    "segments": [
+      [
+        1,
+        344635,
+        348085
+      ],
+      [
+        2,
+        348085,
+        349875
+      ],
+      [
+        3,
+        349875,
+        350835
+      ],
+      [
+        4,
+        350835,
+        351375
+      ],
+      [
+        5,
+        351375,
+        355450
+      ]
+    ]
+  }
+}

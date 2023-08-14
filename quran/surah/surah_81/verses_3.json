@@ -1,0 +1,73 @@
+{
+  "id": 5803,
+  "chapter_id": 81,
+  "verse_key": "81:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 2845,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_003_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 2846,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_003_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 2847,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_003_003.mp3",
+      "text": "سُيِّرَتْ",
+      "translation": "dijalankan/dihancurkan",
+      "transliteration": "suyyirat"
+    },
+    {
+      "id": 2848,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila gunung-gunung dihancurkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6090,
+    "timestamp_to": 8830,
+    "duration": 2740,
+    "segments": [
+      [
+        1,
+        6045,
+        6695
+      ],
+      [
+        2,
+        6695,
+        7715
+      ],
+      [
+        3,
+        7715,
+        8750
+      ]
+    ]
+  }
+}

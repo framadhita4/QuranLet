@@ -1,0 +1,125 @@
+{
+  "id": 1653,
+  "chapter_id": 12,
+  "verse_key": "12:57",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 199,
+  "manzil_number": 3,
+  "page_number": 242,
+  "juz_number": 13,
+  "text_uthmani": "وَلَأَجْرُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 52945,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_001.mp3",
+      "text": "وَلَأَجْرُ",
+      "translation": "dan sesungguhnya pahala",
+      "transliteration": "wala-ajru"
+    },
+    {
+      "id": 52946,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_002.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 52947,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_003.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 52948,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_004.mp3",
+      "text": "لِّلَّذِينَ",
+      "translation": "bagi orang-orang yang",
+      "transliteration": "lilladhīna"
+    },
+    {
+      "id": 52949,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_005.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 52950,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_006.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 52951,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_057_007.mp3",
+      "text": "يَتَّقُونَ",
+      "translation": "mereka bertakwa",
+      "transliteration": "yattaqūna"
+    },
+    {
+      "id": 52952,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya pahala di akhirat itu lebih baik, bagi orang-orang yang beriman dan selalu bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1327640,
+    "timestamp_to": 1337330,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        1327575,
+        1328615
+      ],
+      [
+        2,
+        1328615,
+        1329865
+      ],
+      [
+        3,
+        1329865,
+        1330665
+      ],
+      [
+        4,
+        1330665,
+        1331885
+      ],
+      [
+        5,
+        1331885,
+        1332975
+      ],
+      [
+        6,
+        1332975,
+        1333925
+      ],
+      [
+        7,
+        1333925,
+        1337220
+      ]
+    ]
+  }
+}

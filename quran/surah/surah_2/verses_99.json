@@ -1,0 +1,164 @@
+{
+  "id": 106,
+  "chapter_id": 2,
+  "verse_key": "2:99",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "ruku_number": 13,
+  "manzil_number": 1,
+  "page_number": 15,
+  "juz_number": 1,
+  "text_uthmani": "وَلَقَدْ أَنزَلْنَآ إِلَيْكَ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۖ وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَـٰسِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 70998,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 70999,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_002.mp3",
+      "text": "أَنزَلْنَآ",
+      "translation": "Kami telah menurunkan",
+      "transliteration": "anzalnā"
+    },
+    {
+      "id": 71000,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_003.mp3",
+      "text": "إِلَيْكَ",
+      "translation": "kepadamu",
+      "transliteration": "ilayka"
+    },
+    {
+      "id": 71001,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_004.mp3",
+      "text": "ءَايَـٰتٍۭ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātin"
+    },
+    {
+      "id": 71002,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_005.mp3",
+      "text": "بَيِّنَـٰتٍۢ ۖ",
+      "translation": "jelas",
+      "transliteration": "bayyinātin"
+    },
+    {
+      "id": 71004,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_007.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 71005,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_008.mp3",
+      "text": "يَكْفُرُ",
+      "translation": "mengingkari",
+      "transliteration": "yakfuru"
+    },
+    {
+      "id": 71006,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_009.mp3",
+      "text": "بِهَآ",
+      "translation": "dengannya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 71007,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_010.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 71008,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_099_011.mp3",
+      "text": "ٱلْفَـٰسِقُونَ",
+      "translation": "orang-orang yang fasik",
+      "transliteration": "l-fāsiqūna"
+    },
+    {
+      "id": 71009,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah menurunkan kepadamu ayat-ayat yang jelas; dan tak ada yang ingkar kepadanya, melainkan orang-orang yang fasik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2047670,
+    "timestamp_to": 2064910,
+    "duration": 17240,
+    "segments": [
+      [
+        1,
+        2047575,
+        2048435
+      ],
+      [
+        2,
+        2048435,
+        2051835
+      ],
+      [
+        3,
+        2051835,
+        2052615
+      ],
+      [
+        4,
+        2052615,
+        2054585
+      ],
+      [
+        5,
+        2054585,
+        2057585
+      ],
+      [
+        6,
+        2057585,
+        2058165
+      ],
+      [
+        7,
+        2058165,
+        2058925
+      ],
+      [
+        8,
+        2058925,
+        2060955
+      ],
+      [
+        9,
+        2060955,
+        2061515
+      ],
+      [
+        10,
+        2061515,
+        2064760
+      ]
+    ]
+  }
+}

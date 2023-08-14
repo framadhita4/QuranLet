@@ -1,0 +1,86 @@
+{
+  "id": 3254,
+  "chapter_id": 28,
+  "verse_key": "28:2",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "ruku_number": 334,
+  "manzil_number": 5,
+  "page_number": 385,
+  "juz_number": 20,
+  "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 1823,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "ini",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 1824,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_002.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 1825,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_003.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 1826,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_004.mp3",
+      "text": "ٱلْمُبِينِ",
+      "translation": "yang nyata",
+      "transliteration": "l-mubīni"
+    },
+    {
+      "id": 1827,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah ayat-ayat Kitab (Al-Qur`ān) yang nyata (dari Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9980,
+    "timestamp_to": 15960,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        9815,
+        10405
+      ],
+      [
+        2,
+        10405,
+        11535
+      ],
+      [
+        3,
+        11535,
+        12705
+      ],
+      [
+        4,
+        12705,
+        15750
+      ]
+    ]
+  }
+}

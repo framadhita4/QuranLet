@@ -1,0 +1,86 @@
+{
+  "id": 5859,
+  "chapter_id": 83,
+  "verse_key": "83:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 13009,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 13010,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_002.mp3",
+      "text": "يُكَذِّبُونَ",
+      "translation": "(mereka) mendustakan",
+      "transliteration": "yukadhibūna"
+    },
+    {
+      "id": 13011,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_003.mp3",
+      "text": "بِيَوْمِ",
+      "translation": "dengan hari",
+      "transliteration": "biyawmi"
+    },
+    {
+      "id": 13012,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_004.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 13013,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang mendustakan hari pembalasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72070,
+    "timestamp_to": 78370,
+    "duration": 6300,
+    "segments": [
+      [
+        1,
+        71965,
+        73225
+      ],
+      [
+        2,
+        73225,
+        74685
+      ],
+      [
+        3,
+        74685,
+        75505
+      ],
+      [
+        4,
+        75505,
+        78180
+      ]
+    ]
+  }
+}

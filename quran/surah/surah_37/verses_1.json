@@ -1,0 +1,60 @@
+{
+  "id": 3789,
+  "chapter_id": 37,
+  "verse_key": "37:1",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": " وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 889,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_001_001.mp3",
+      "text": "وَٱلصَّـٰٓفَّـٰتِ",
+      "translation": "demi yang berbaris",
+      "transliteration": "wal-ṣāfāti"
+    },
+    {
+      "id": 890,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_001_002.mp3",
+      "text": "صَفًّۭا",
+      "translation": "barisan teratur",
+      "transliteration": "ṣaffan"
+    },
+    {
+      "id": 891,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi (rombongan) yang bersaf-saf dengan sebenar-benarnya <sup foot_note_id=\"1272\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6920,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        0,
+        5099
+      ],
+      [
+        2,
+        5100,
+        6855
+      ]
+    ]
+  }
+}

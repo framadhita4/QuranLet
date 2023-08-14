@@ -1,0 +1,151 @@
+{
+  "id": 259,
+  "chapter_id": 2,
+  "verse_key": "2:252",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "ruku_number": 34,
+  "manzil_number": 1,
+  "page_number": 41,
+  "juz_number": 2,
+  "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 87055,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "itulah",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 87056,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_002.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 87057,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 87058,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_004.mp3",
+      "text": "نَتْلُوهَا",
+      "translation": "Kami bacakannya",
+      "transliteration": "natlūhā"
+    },
+    {
+      "id": 87059,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_005.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 87060,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_006.mp3",
+      "text": "بِٱلْحَقِّ ۚ",
+      "translation": "dengan benar",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 87062,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_008.mp3",
+      "text": "وَإِنَّكَ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innaka"
+    },
+    {
+      "id": 87063,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_009.mp3",
+      "text": "لَمِنَ",
+      "translation": "sungguh dari/salah seorang dari",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 87064,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_252_010.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "orang-orang yang diutus",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 87065,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٥٢",
+      "translation": "(252)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itu adalah ayat-ayat dari Allah, Kami bacakan kepadamu dengan hak (benar) dan sesungguhnya kamu benar-benar salah seorang di antara nabi-nabi yang diutus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6061770,
+    "timestamp_to": 6074260,
+    "duration": 12490,
+    "segments": [
+      [
+        1,
+        6061695,
+        6062295
+      ],
+      [
+        2,
+        6062295,
+        6063305
+      ],
+      [
+        3,
+        6063305,
+        6064005
+      ],
+      [
+        4,
+        6064005,
+        6065035
+      ],
+      [
+        5,
+        6065035,
+        6065915
+      ],
+      [
+        6,
+        6065915,
+        6067245
+      ],
+      [
+        7,
+        6067245,
+        6068715
+      ],
+      [
+        8,
+        6068715,
+        6069205
+      ],
+      [
+        9,
+        6069205,
+        6073420
+      ]
+    ]
+  }
+}

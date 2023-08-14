@@ -1,0 +1,169 @@
+{
+  "id": 1245,
+  "chapter_id": 9,
+  "verse_key": "9:10",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "ruku_number": 157,
+  "manzil_number": 2,
+  "page_number": 188,
+  "juz_number": 10,
+  "text_uthmani": "لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3",
+  "words": [
+    {
+      "id": 11202,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 11203,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_002.mp3",
+      "text": "يَرْقُبُونَ",
+      "translation": "mereka memelihara",
+      "transliteration": "yarqubūna"
+    },
+    {
+      "id": 11204,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_003.mp3",
+      "text": "فِى",
+      "translation": "di/terhadap",
+      "transliteration": "fī"
+    },
+    {
+      "id": 11205,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_004.mp3",
+      "text": "مُؤْمِنٍ",
+      "translation": "orang-orang mukmin",
+      "transliteration": "mu'minin"
+    },
+    {
+      "id": 11206,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_005.mp3",
+      "text": "إِلًّۭا",
+      "translation": "kerabat",
+      "transliteration": "illan"
+    },
+    {
+      "id": 11207,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_006.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 11208,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_007.mp3",
+      "text": "ذِمَّةًۭ ۚ",
+      "translation": "perjanjian",
+      "transliteration": "dhimmatan"
+    },
+    {
+      "id": 11210,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_009.mp3",
+      "text": "وَأُو۟لَـٰٓئِكَ",
+      "translation": "dan mereka itu",
+      "transliteration": "wa-ulāika"
+    },
+    {
+      "id": 11211,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_010.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 11212,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_010_011.mp3",
+      "text": "ٱلْمُعْتَدُونَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "l-muʿ'tadūna"
+    },
+    {
+      "id": 11213,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tidak memelihara (hubungan) kerabat terhadap orang-orang mukmin dan tidak (pula mengindahkan) perjanjian.  Dan mereka itulah orang-orang yang melampaui batas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 242550,
+    "timestamp_to": 257940,
+    "duration": 15390,
+    "segments": [
+      [
+        1,
+        242525,
+        243115
+      ],
+      [
+        2,
+        243115,
+        244365
+      ],
+      [
+        3,
+        244365,
+        244895
+      ],
+      [
+        4,
+        244895,
+        246075
+      ],
+      [
+        5,
+        246075,
+        246785
+      ],
+      [
+        9,
+        246785,
+        247945
+      ],
+      [
+        6,
+        247945,
+        248525
+      ],
+      [
+        7,
+        248525,
+        250785
+      ],
+      [
+        8,
+        250785,
+        253625
+      ],
+      [
+        9,
+        253625,
+        254005
+      ],
+      [
+        10,
+        254005,
+        257820
+      ]
+    ]
+  }
+}

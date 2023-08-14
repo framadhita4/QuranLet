@@ -1,0 +1,86 @@
+{
+  "id": 1866,
+  "chapter_id": 15,
+  "verse_key": "15:64",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "وَأَتَيْنَـٰكَ بِٱلْحَقِّ وَإِنَّا لَصَـٰدِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 56940,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_064_001.mp3",
+      "text": "وَأَتَيْنَـٰكَ",
+      "translation": "dan kami datang kepadamu",
+      "transliteration": "wa-ataynāka"
+    },
+    {
+      "id": 56941,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_064_002.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 56942,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_064_003.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 56943,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_064_004.mp3",
+      "text": "لَصَـٰدِقُونَ",
+      "translation": "sungguh orang-orang yang benar",
+      "transliteration": "laṣādiqūna"
+    },
+    {
+      "id": 56944,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kami datang kepadamu membawa kebenaran dan sesungguhnya kami betul-betul orang-orang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 620990,
+    "timestamp_to": 628460,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        620945,
+        622515
+      ],
+      [
+        2,
+        622515,
+        623655
+      ],
+      [
+        3,
+        623655,
+        625295
+      ],
+      [
+        4,
+        625295,
+        628380
+      ]
+    ]
+  }
+}

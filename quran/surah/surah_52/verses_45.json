@@ -1,0 +1,125 @@
+{
+  "id": 4780,
+  "chapter_id": 52,
+  "verse_key": "52:45",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "page_number": 525,
+  "juz_number": 27,
+  "text_uthmani": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 45113,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_001.mp3",
+      "text": "فَذَرْهُمْ",
+      "translation": "maka biarkanlah mereka",
+      "transliteration": "fadharhum"
+    },
+    {
+      "id": 45114,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_002.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 45115,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_003.mp3",
+      "text": "يُلَـٰقُوا۟",
+      "translation": "mereka menemui",
+      "transliteration": "yulāqū"
+    },
+    {
+      "id": 45116,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_004.mp3",
+      "text": "يَوْمَهُمُ",
+      "translation": "hari mereka",
+      "transliteration": "yawmahumu"
+    },
+    {
+      "id": 45117,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_005.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 45118,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_006.mp3",
+      "text": "فِيهِ",
+      "translation": "pada hari itu",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 45119,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_045_007.mp3",
+      "text": "يُصْعَقُونَ",
+      "translation": "mereka dibinasakan",
+      "transliteration": "yuṣ'ʿaqūna"
+    },
+    {
+      "id": 45120,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka biarkanlah mereka hingga mereka menemui hari (yang dijanjikan kepada) mereka yang pada hari itu mereka dibinasakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 431560,
+    "timestamp_to": 440830,
+    "duration": 9270,
+    "segments": [
+      [
+        1,
+        431475,
+        432635
+      ],
+      [
+        2,
+        432635,
+        433435
+      ],
+      [
+        3,
+        433435,
+        434625
+      ],
+      [
+        4,
+        434625,
+        435735
+      ],
+      [
+        5,
+        435735,
+        436665
+      ],
+      [
+        6,
+        436665,
+        437315
+      ],
+      [
+        7,
+        437315,
+        440680
+      ]
+    ]
+  }
+}

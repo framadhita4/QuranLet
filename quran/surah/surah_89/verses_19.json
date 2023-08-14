@@ -1,0 +1,86 @@
+{
+  "id": 6012,
+  "chapter_id": 89,
+  "verse_key": "89:19",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 21705,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_019_001.mp3",
+      "text": "وَتَأْكُلُونَ",
+      "translation": "dan kamu memakan",
+      "transliteration": "watakulūna"
+    },
+    {
+      "id": 21706,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_019_002.mp3",
+      "text": "ٱلتُّرَاثَ",
+      "translation": "harta warisan",
+      "transliteration": "l-turātha"
+    },
+    {
+      "id": 21707,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_019_003.mp3",
+      "text": "أَكْلًۭا",
+      "translation": "dengan makan",
+      "transliteration": "aklan"
+    },
+    {
+      "id": 21708,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_019_004.mp3",
+      "text": "لَّمًّۭا",
+      "translation": "loba",
+      "transliteration": "lamman"
+    },
+    {
+      "id": 21709,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu memakan harta pusaka dengan cara mencampurbaurkan (yang halal dan yang batil),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 110700,
+    "timestamp_to": 116470,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        110645,
+        112075
+      ],
+      [
+        2,
+        112075,
+        113145
+      ],
+      [
+        3,
+        113145,
+        113845
+      ],
+      [
+        4,
+        113845,
+        116340
+      ]
+    ]
+  }
+}

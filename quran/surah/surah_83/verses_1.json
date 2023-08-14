@@ -1,0 +1,60 @@
+{
+  "id": 5849,
+  "chapter_id": 83,
+  "verse_key": "83:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": " وَيْلٌ لِّلْمُطَفِّفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 703,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_001_001.mp3",
+      "text": "وَيْلٌۭ",
+      "translation": "kecelakaan",
+      "transliteration": "waylun"
+    },
+    {
+      "id": 704,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_001_002.mp3",
+      "text": "لِّلْمُطَفِّفِينَ",
+      "translation": "bagi orang-orang yang curang",
+      "transliteration": "lil'muṭaffifīna"
+    },
+    {
+      "id": 705,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kecelakaan besarlah bagi orang-orang yang curang<sup foot_note_id=\"1562\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4780,
+    "duration": 4780,
+    "segments": [
+      [
+        1,
+        0,
+        800
+      ],
+      [
+        2,
+        800,
+        4755
+      ]
+    ]
+  }
+}

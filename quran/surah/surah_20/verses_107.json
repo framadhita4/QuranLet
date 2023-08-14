@@ -1,0 +1,112 @@
+{
+  "id": 2455,
+  "chapter_id": 20,
+  "verse_key": "20:107",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "page_number": 319,
+  "juz_number": 16,
+  "text_uthmani": "لَّا تَرَىٰ فِيهَا عِوَجًا وَلَآ أَمْتًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 73413,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_107_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 73414,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_107_002.mp3",
+      "text": "تَرَىٰ",
+      "translation": "kamu lihat",
+      "transliteration": "tarā"
+    },
+    {
+      "id": 73415,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_107_003.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya/padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 73416,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_107_004.mp3",
+      "text": "عِوَجًۭا",
+      "translation": "yang rendah",
+      "transliteration": "ʿiwajan"
+    },
+    {
+      "id": 73417,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_107_005.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 73418,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_107_006.mp3",
+      "text": "أَمْتًۭا",
+      "translation": "yang tinggi",
+      "transliteration": "amtan"
+    },
+    {
+      "id": 73419,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠٧",
+      "translation": "(107)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tidak ada sedikit pun kamu lihat padanya tempat yang rendah dan yang tinggi-tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1218770,
+    "timestamp_to": 1226240,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        1218735,
+        1219035
+      ],
+      [
+        2,
+        1219035,
+        1219965
+      ],
+      [
+        3,
+        1219965,
+        1220785
+      ],
+      [
+        4,
+        1220785,
+        1221755
+      ],
+      [
+        5,
+        1221755,
+        1224715
+      ],
+      [
+        6,
+        1224715,
+        1226150
+      ]
+    ]
+  }
+}

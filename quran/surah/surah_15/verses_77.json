@@ -1,0 +1,99 @@
+{
+  "id": 1879,
+  "chapter_id": 15,
+  "verse_key": "15:77",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 62818,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_077_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62819,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_077_002.mp3",
+      "text": "فِى",
+      "translation": "didalam/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 62820,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_077_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 62821,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_077_004.mp3",
+      "text": "لَـَٔايَةًۭ",
+      "translation": "sungguh tanda-tanda",
+      "transliteration": "laāyatan"
+    },
+    {
+      "id": 62822,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_077_005.mp3",
+      "text": "لِّلْمُؤْمِنِينَ",
+      "translation": "bagi orang-orang yang beriman",
+      "transliteration": "lil'mu'minīna"
+    },
+    {
+      "id": 62823,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 747020,
+    "timestamp_to": 754620,
+    "duration": 7600,
+    "segments": [
+      [
+        1,
+        746995,
+        748015
+      ],
+      [
+        2,
+        748015,
+        748485
+      ],
+      [
+        3,
+        748485,
+        749325
+      ],
+      [
+        4,
+        749325,
+        750415
+      ],
+      [
+        5,
+        750415,
+        754570
+      ]
+    ]
+  }
+}

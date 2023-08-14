@@ -1,0 +1,73 @@
+{
+  "id": 5844,
+  "chapter_id": 82,
+  "verse_key": "82:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 17585,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_015_001.mp3",
+      "text": "يَصْلَوْنَهَا",
+      "translation": "mereka masuk kedalamnya",
+      "transliteration": "yaṣlawnahā"
+    },
+    {
+      "id": 17586,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_015_002.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 17587,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_015_003.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 17588,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka masuk ke dalamnya pada hari pembalasan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 73460,
+    "timestamp_to": 78060,
+    "duration": 4600,
+    "segments": [
+      [
+        1,
+        73385,
+        74875
+      ],
+      [
+        2,
+        74875,
+        75465
+      ],
+      [
+        3,
+        75465,
+        77900
+      ]
+    ]
+  }
+}

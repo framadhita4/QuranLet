@@ -1,0 +1,73 @@
+{
+  "id": 6185,
+  "chapter_id": 104,
+  "verse_key": "104:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 6148,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_006_001.mp3",
+      "text": "نَارُ",
+      "translation": "api",
+      "transliteration": "nāru"
+    },
+    {
+      "id": 6149,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_006_002.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 6150,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_006_003.mp3",
+      "text": "ٱلْمُوقَدَةُ",
+      "translation": "dinyalakan",
+      "transliteration": "l-mūqadatu"
+    },
+    {
+      "id": 6151,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) api (yang disediakan) Allah yang dinyalakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 28400,
+    "timestamp_to": 31900,
+    "duration": 3500,
+    "segments": [
+      [
+        1,
+        28325,
+        29025
+      ],
+      [
+        2,
+        29025,
+        29965
+      ],
+      [
+        3,
+        29965,
+        31750
+      ]
+    ]
+  }
+}

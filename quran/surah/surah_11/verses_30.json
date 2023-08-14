@@ -1,0 +1,151 @@
+{
+  "id": 1503,
+  "chapter_id": 11,
+  "verse_key": "11:30",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "ruku_number": 185,
+  "manzil_number": 3,
+  "page_number": 225,
+  "juz_number": 12,
+  "text_uthmani": "وَيَـٰقَوْمِ مَن يَنصُرُنِى مِنَ ٱللَّهِ إِن طَرَدتُّهُمْ ۚ أَفَلَا تَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 32943,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_001.mp3",
+      "text": "وَيَـٰقَوْمِ",
+      "translation": "Dan (ia berkata) hai kaumku",
+      "transliteration": "wayāqawmi"
+    },
+    {
+      "id": 32944,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_002.mp3",
+      "text": "مَن",
+      "translation": "siapakah",
+      "transliteration": "man"
+    },
+    {
+      "id": 32945,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_003.mp3",
+      "text": "يَنصُرُنِى",
+      "translation": "menolongku",
+      "transliteration": "yanṣurunī"
+    },
+    {
+      "id": 32946,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 32947,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_005.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 32948,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_006.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 32949,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_007.mp3",
+      "text": "طَرَدتُّهُمْ ۚ",
+      "translation": "aku mengusir mereka",
+      "transliteration": "ṭaradttuhum"
+    },
+    {
+      "id": 32951,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_009.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 32952,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_030_010.mp3",
+      "text": "تَذَكَّرُونَ",
+      "translation": "kamu mengambil pelajaran",
+      "transliteration": "tadhakkarūna"
+    },
+    {
+      "id": 32953,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (dia berkata), \"Hai kaumku, siapakah yang akan menolongku dari (azab) Allah jika aku mengusir mereka.  Maka tidakkah kamu mengambil pelajaran <sup foot_note_id=\"717\">1</sup>?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 723960,
+    "timestamp_to": 737800,
+    "duration": 13850,
+    "segments": [
+      [
+        1,
+        720935,
+        722235
+      ],
+      [
+        2,
+        722235,
+        722475
+      ],
+      [
+        3,
+        722475,
+        725375
+      ],
+      [
+        4,
+        725375,
+        725785
+      ],
+      [
+        5,
+        725785,
+        726695
+      ],
+      [
+        6,
+        726695,
+        727945
+      ],
+      [
+        7,
+        727945,
+        729835
+      ],
+      [
+        8,
+        729835,
+        730615
+      ],
+      [
+        9,
+        730615,
+        734720
+      ]
+    ]
+  }
+}

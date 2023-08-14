@@ -1,0 +1,99 @@
+{
+  "id": 6011,
+  "chapter_id": 89,
+  "verse_key": "89:18",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 20649,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_018_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 20650,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_018_002.mp3",
+      "text": "تَحَـٰٓضُّونَ",
+      "translation": "saling menganjurkan",
+      "transliteration": "taḥāḍḍūna"
+    },
+    {
+      "id": 20651,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_018_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 20652,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_018_004.mp3",
+      "text": "طَعَامِ",
+      "translation": "memberi makan",
+      "transliteration": "ṭaʿāmi"
+    },
+    {
+      "id": 20653,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_018_005.mp3",
+      "text": "ٱلْمِسْكِينِ",
+      "translation": "orang miskin",
+      "transliteration": "l-mis'kīni"
+    },
+    {
+      "id": 20654,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu tidak saling mengajak memberi makan orang miskin,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101220,
+    "timestamp_to": 110700,
+    "duration": 9480,
+    "segments": [
+      [
+        1,
+        101165,
+        101795
+      ],
+      [
+        2,
+        101795,
+        105515
+      ],
+      [
+        3,
+        105515,
+        106145
+      ],
+      [
+        4,
+        106145,
+        107055
+      ],
+      [
+        5,
+        107055,
+        110590
+      ]
+    ]
+  }
+}

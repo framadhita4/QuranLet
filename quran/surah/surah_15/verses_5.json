@@ -1,0 +1,125 @@
+{
+  "id": 1807,
+  "chapter_id": 15,
+  "verse_key": "15:5",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 5180,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_001.mp3",
+      "text": "مَّا",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 5181,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_002.mp3",
+      "text": "تَسْبِقُ",
+      "translation": "mendahului",
+      "transliteration": "tasbiqu"
+    },
+    {
+      "id": 5182,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 5183,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_004.mp3",
+      "text": "أُمَّةٍ",
+      "translation": "suatu ummat",
+      "transliteration": "ummatin"
+    },
+    {
+      "id": 5184,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_005.mp3",
+      "text": "أَجَلَهَا",
+      "translation": "ajalnya",
+      "transliteration": "ajalahā"
+    },
+    {
+      "id": 5185,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 5186,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_005_007.mp3",
+      "text": "يَسْتَـْٔخِرُونَ",
+      "translation": "mengundurkan",
+      "transliteration": "yastakhirūna"
+    },
+    {
+      "id": 5187,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada suatu umat pun yang dapat mendahului ajalnya dan tidak (pula) dapat mengundurkan(nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 38440,
+    "timestamp_to": 46490,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        38295,
+        38785
+      ],
+      [
+        2,
+        38785,
+        39665
+      ],
+      [
+        3,
+        39665,
+        40025
+      ],
+      [
+        4,
+        40025,
+        41705
+      ],
+      [
+        5,
+        41705,
+        42695
+      ],
+      [
+        6,
+        42695,
+        43305
+      ],
+      [
+        7,
+        43305,
+        46280
+      ]
+    ]
+  }
+}

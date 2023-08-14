@@ -1,0 +1,559 @@
+{
+  "id": 701,
+  "chapter_id": 5,
+  "verse_key": "5:32",
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "ruku_number": 90,
+  "manzil_number": 2,
+  "page_number": 113,
+  "juz_number": 6,
+  "text_uthmani": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 34323,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_001.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 34324,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_002.mp3",
+      "text": "أَجْلِ",
+      "translation": "sebab/oleh karena",
+      "transliteration": "ajli"
+    },
+    {
+      "id": 34325,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu/demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 34326,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_004.mp3",
+      "text": "كَتَبْنَا",
+      "translation": "Kami tetapkan",
+      "transliteration": "katabnā"
+    },
+    {
+      "id": 34327,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_005.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 34328,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_006.mp3",
+      "text": "بَنِىٓ",
+      "translation": "Bani",
+      "transliteration": "banī"
+    },
+    {
+      "id": 34329,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_007.mp3",
+      "text": "إِسْرَٰٓءِيلَ",
+      "translation": "Israil",
+      "transliteration": "is'rāīla"
+    },
+    {
+      "id": 34330,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_008.mp3",
+      "text": "أَنَّهُۥ",
+      "translation": "bahwasanya ia",
+      "transliteration": "annahu"
+    },
+    {
+      "id": 34331,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_009.mp3",
+      "text": "مَن",
+      "translation": "barang siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 34332,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_010.mp3",
+      "text": "قَتَلَ",
+      "translation": "membunuh",
+      "transliteration": "qatala"
+    },
+    {
+      "id": 34333,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_011.mp3",
+      "text": "نَفْسًۢا",
+      "translation": "seorang",
+      "transliteration": "nafsan"
+    },
+    {
+      "id": 34334,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_012.mp3",
+      "text": "بِغَيْرِ",
+      "translation": "bukan karena",
+      "transliteration": "bighayri"
+    },
+    {
+      "id": 34335,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_013.mp3",
+      "text": "نَفْسٍ",
+      "translation": "seseorang",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 34336,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_014.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 34337,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_015.mp3",
+      "text": "فَسَادٍۢ",
+      "translation": "membuat kerusakan",
+      "transliteration": "fasādin"
+    },
+    {
+      "id": 34338,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_016.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 34339,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_017.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 34340,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_018.mp3",
+      "text": "فَكَأَنَّمَا",
+      "translation": "maka seakan-akan",
+      "transliteration": "faka-annamā"
+    },
+    {
+      "id": 34341,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_019.mp3",
+      "text": "قَتَلَ",
+      "translation": "ia membunuh",
+      "transliteration": "qatala"
+    },
+    {
+      "id": 34342,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_020.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 34343,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_021.mp3",
+      "text": "جَمِيعًۭا",
+      "translation": "seluruhnya",
+      "transliteration": "jamīʿan"
+    },
+    {
+      "id": 34344,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_022.mp3",
+      "text": "وَمَنْ",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 34345,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_023.mp3",
+      "text": "أَحْيَاهَا",
+      "translation": "menghidupkannya",
+      "transliteration": "aḥyāhā"
+    },
+    {
+      "id": 34346,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_024.mp3",
+      "text": "فَكَأَنَّمَآ",
+      "translation": "maka seakan-akan",
+      "transliteration": "faka-annamā"
+    },
+    {
+      "id": 34347,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_025.mp3",
+      "text": "أَحْيَا",
+      "translation": "ia menghidupkan",
+      "transliteration": "aḥyā"
+    },
+    {
+      "id": 34348,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_026.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 34349,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_027.mp3",
+      "text": "جَمِيعًۭا ۚ",
+      "translation": "seluruhnya",
+      "transliteration": "jamīʿan"
+    },
+    {
+      "id": 34351,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_029.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 34352,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_030.mp3",
+      "text": "جَآءَتْهُمْ",
+      "translation": "telah datang kepada mereka",
+      "transliteration": "jāathum"
+    },
+    {
+      "id": 34353,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_031.mp3",
+      "text": "رُسُلُنَا",
+      "translation": "Rasul-Rasul Kami",
+      "transliteration": "rusulunā"
+    },
+    {
+      "id": 34354,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_032.mp3",
+      "text": "بِٱلْبَيِّنَـٰتِ",
+      "translation": "dengan keterangan-keterangan",
+      "transliteration": "bil-bayināti"
+    },
+    {
+      "id": 34355,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_033.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 34356,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_034.mp3",
+      "text": "إِنَّ",
+      "translation": "sungguh",
+      "transliteration": "inna"
+    },
+    {
+      "id": 34357,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_035.mp3",
+      "text": "كَثِيرًۭا",
+      "translation": "banyak",
+      "transliteration": "kathīran"
+    },
+    {
+      "id": 34358,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_036.mp3",
+      "text": "مِّنْهُم",
+      "translation": "dari/diantara mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 34359,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_037.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 34360,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_038.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu/demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 34361,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_039.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 34362,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_040.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 34363,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_032_041.mp3",
+      "text": "لَمُسْرِفُونَ",
+      "translation": "sungguh orang-orang yang melampaui batas",
+      "transliteration": "lamus'rifūna"
+    },
+    {
+      "id": 34364,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Oleh karena itu, Kami tetapkan (suatu hukum) bagi Bani Isrā`īl, bahwa barang siapa yang membunuh seorang manusia, bukan karena orang itu (membunuh) orang lain<sup foot_note_id=\"411\">1</sup>, atau bukan karena membuat kerusakan di muka bumi, maka seakan-akan dia telah membunuh manusia seluruhnya<sup foot_note_id=\"412\">2</sup>.  Dan barang siapa yang memelihara kehidupan seorang manusia, maka seolah-olah dia telah memelihara kehidupan manusia semuanya.  Dan sesungguhnya telah datang kepada mereka rasul-rasul Kami dengan (membawa) keterangan-keterangan yang jelas, kemudian banyak di antara mereka sesudah itu<sup foot_note_id=\"413\">3</sup> sungguh-sungguh melampaui batas dalam berbuat kerusakan di muka bumi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1135470,
+    "timestamp_to": 1186070,
+    "duration": 50570,
+    "segments": [
+      [
+        1,
+        1135435,
+        1136025
+      ],
+      [
+        2,
+        1136025,
+        1136655
+      ],
+      [
+        3,
+        1136655,
+        1137415
+      ],
+      [
+        4,
+        1137415,
+        1138515
+      ],
+      [
+        5,
+        1138515,
+        1139105
+      ],
+      [
+        6,
+        1139105,
+        1140885
+      ],
+      [
+        7,
+        1140885,
+        1143795
+      ],
+      [
+        8,
+        1143795,
+        1145285
+      ],
+      [
+        9,
+        1145285,
+        1146435
+      ],
+      [
+        10,
+        1146435,
+        1147065
+      ],
+      [
+        11,
+        1147065,
+        1148315
+      ],
+      [
+        12,
+        1148315,
+        1149235
+      ],
+      [
+        13,
+        1149235,
+        1149985
+      ],
+      [
+        14,
+        1149985,
+        1150345
+      ],
+      [
+        15,
+        1150345,
+        1151865
+      ],
+      [
+        16,
+        1151865,
+        1152145
+      ],
+      [
+        17,
+        1152145,
+        1152925
+      ],
+      [
+        18,
+        1152925,
+        1154805
+      ],
+      [
+        18,
+        1154825,
+        1157455
+      ],
+      [
+        19,
+        1157455,
+        1158015
+      ],
+      [
+        20,
+        1158015,
+        1159525
+      ],
+      [
+        21,
+        1159525,
+        1160565
+      ],
+      [
+        22,
+        1160565,
+        1161815
+      ],
+      [
+        23,
+        1161815,
+        1163055
+      ],
+      [
+        24,
+        1163055,
+        1166315
+      ],
+      [
+        25,
+        1166315,
+        1166855
+      ],
+      [
+        26,
+        1166855,
+        1168225
+      ],
+      [
+        27,
+        1168225,
+        1169685
+      ],
+      [
+        28,
+        1169715,
+        1170545
+      ],
+      [
+        29,
+        1170545,
+        1173045
+      ],
+      [
+        30,
+        1173045,
+        1173875
+      ],
+      [
+        31,
+        1173875,
+        1175705
+      ],
+      [
+        32,
+        1175705,
+        1176685
+      ],
+      [
+        33,
+        1176685,
+        1177825
+      ],
+      [
+        34,
+        1177825,
+        1178705
+      ],
+      [
+        35,
+        1178705,
+        1180815
+      ],
+      [
+        36,
+        1180815,
+        1181445
+      ],
+      [
+        37,
+        1181445,
+        1182195
+      ],
+      [
+        38,
+        1182195,
+        1182405
+      ],
+      [
+        39,
+        1182405,
+        1183295
+      ],
+      [
+        40,
+        1183295,
+        1185980
+      ]
+    ]
+  }
+}

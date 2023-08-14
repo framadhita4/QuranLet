@@ -1,0 +1,86 @@
+{
+  "id": 1864,
+  "chapter_id": 15,
+  "verse_key": "15:62",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 55853,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_062_001.mp3",
+      "text": "قَالَ",
+      "translation": "mereka berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 55854,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_062_002.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 55855,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_062_003.mp3",
+      "text": "قَوْمٌۭ",
+      "translation": "kaum",
+      "transliteration": "qawmun"
+    },
+    {
+      "id": 55856,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_062_004.mp3",
+      "text": "مُّنكَرُونَ",
+      "translation": "orang-orang yang tidak dikenal/asing",
+      "transliteration": "munkarūna"
+    },
+    {
+      "id": 55857,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ia berkata, \"Sesungguhnya kamu adalah orang-orang yang tidak dikenal\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 605890,
+    "timestamp_to": 613150,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        605845,
+        606505
+      ],
+      [
+        2,
+        606505,
+        607975
+      ],
+      [
+        3,
+        607975,
+        608595
+      ],
+      [
+        4,
+        608595,
+        613080
+      ]
+    ]
+  }
+}

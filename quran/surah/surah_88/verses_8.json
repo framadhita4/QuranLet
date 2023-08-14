@@ -1,0 +1,73 @@
+{
+  "id": 5975,
+  "chapter_id": 88,
+  "verse_key": "88:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 8595,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_008_001.mp3",
+      "text": "وُجُوهٌۭ",
+      "translation": "wajah-wajah",
+      "transliteration": "wujūhun"
+    },
+    {
+      "id": 8596,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_008_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 8597,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_008_003.mp3",
+      "text": "نَّاعِمَةٌۭ",
+      "translation": "penuh kenikmatan/berseri-seri",
+      "transliteration": "nāʿimatun"
+    },
+    {
+      "id": 8598,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Banyak muka pada hari itu berseri-seri,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 34120,
+    "timestamp_to": 39810,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        34045,
+        34905
+      ],
+      [
+        2,
+        34905,
+        36475
+      ],
+      [
+        3,
+        36475,
+        39680
+      ]
+    ]
+  }
+}

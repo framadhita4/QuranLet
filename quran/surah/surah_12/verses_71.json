@@ -1,0 +1,99 @@
+{
+  "id": 1667,
+  "chapter_id": 12,
+  "verse_key": "12:71",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 201,
+  "manzil_number": 3,
+  "page_number": 244,
+  "juz_number": 13,
+  "text_uthmani": "قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 60102,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_071_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 60103,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_071_002.mp3",
+      "text": "وَأَقْبَلُوا۟",
+      "translation": "dan/sambil menghadap",
+      "transliteration": "wa-aqbalū"
+    },
+    {
+      "id": 60104,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_071_003.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "kepada mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 60105,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_071_004.mp3",
+      "text": "مَّاذَا",
+      "translation": "apa/barang apa",
+      "transliteration": "mādhā"
+    },
+    {
+      "id": 60106,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_071_005.mp3",
+      "text": "تَفْقِدُونَ",
+      "translation": "kamu kehilangan",
+      "transliteration": "tafqidūna"
+    },
+    {
+      "id": 60107,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab sambil menghadap kepada penyeru-penyeru itu, \"Barang apakah yang hilang darikamu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1648210,
+    "timestamp_to": 1657220,
+    "duration": 9010,
+    "segments": [
+      [
+        1,
+        1648155,
+        1649115
+      ],
+      [
+        2,
+        1649115,
+        1650245
+      ],
+      [
+        3,
+        1650245,
+        1651245
+      ],
+      [
+        4,
+        1651245,
+        1653365
+      ],
+      [
+        5,
+        1653365,
+        1657140
+      ]
+    ]
+  }
+}

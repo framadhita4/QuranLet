@@ -1,0 +1,73 @@
+{
+  "id": 2980,
+  "chapter_id": 26,
+  "verse_key": "26:48",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "رَبِّ مُوسَىٰ وَهَـٰرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 47092,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_048_001.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 47093,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_048_002.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 47094,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_048_003.mp3",
+      "text": "وَهَـٰرُونَ",
+      "translation": "dan Harun",
+      "transliteration": "wahārūna"
+    },
+    {
+      "id": 47095,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) Tuhan Musa dan Hārūn\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 468960,
+    "timestamp_to": 473640,
+    "duration": 4680,
+    "segments": [
+      [
+        1,
+        468905,
+        469605
+      ],
+      [
+        2,
+        469605,
+        470435
+      ],
+      [
+        3,
+        470435,
+        473530
+      ]
+    ]
+  }
+}

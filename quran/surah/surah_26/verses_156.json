@@ -1,0 +1,125 @@
+{
+  "id": 3088,
+  "chapter_id": 26,
+  "verse_key": "26:156",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 81226,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 81227,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_002.mp3",
+      "text": "تَمَسُّوهَا",
+      "translation": "kamu menyentuhnya",
+      "transliteration": "tamassūhā"
+    },
+    {
+      "id": 81228,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_003.mp3",
+      "text": "بِسُوٓءٍۢ",
+      "translation": "dengan kejahatan",
+      "transliteration": "bisūin"
+    },
+    {
+      "id": 81229,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_004.mp3",
+      "text": "فَيَأْخُذَكُمْ",
+      "translation": "maka akan menimpa kamu",
+      "transliteration": "fayakhudhakum"
+    },
+    {
+      "id": 81230,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_005.mp3",
+      "text": "عَذَابُ",
+      "translation": "azab",
+      "transliteration": "ʿadhābu"
+    },
+    {
+      "id": 81231,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_006.mp3",
+      "text": "يَوْمٍ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 81232,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_156_007.mp3",
+      "text": "عَظِيمٍۢ",
+      "translation": "yang besar",
+      "transliteration": "ʿaẓīmin"
+    },
+    {
+      "id": 81233,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٥٦",
+      "translation": "(156)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan janganlah kamu sentuh unta betina itu dengan sesuatu kejahatan yang menyebabkan kamu akan ditimpa oleh azab hari yang besar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1360120,
+    "timestamp_to": 1371270,
+    "duration": 11160,
+    "segments": [
+      [
+        1,
+        1360095,
+        1360785
+      ],
+      [
+        2,
+        1360785,
+        1362305
+      ],
+      [
+        3,
+        1362305,
+        1365115
+      ],
+      [
+        4,
+        1365115,
+        1366675
+      ],
+      [
+        5,
+        1366675,
+        1367565
+      ],
+      [
+        6,
+        1367565,
+        1368425
+      ],
+      [
+        7,
+        1368425,
+        1371230
+      ]
+    ]
+  }
+}

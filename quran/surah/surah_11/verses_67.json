@@ -1,0 +1,138 @@
+{
+  "id": 1540,
+  "chapter_id": 11,
+  "verse_key": "11:67",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 188,
+  "manzil_number": 3,
+  "page_number": 229,
+  "juz_number": 12,
+  "text_uthmani": "وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 58291,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_001.mp3",
+      "text": "وَأَخَذَ",
+      "translation": "dan mengambil/menimpa",
+      "transliteration": "wa-akhadha"
+    },
+    {
+      "id": 58292,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 58293,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_003.mp3",
+      "text": "ظَلَمُوا۟",
+      "translation": "(mereka) dzalim",
+      "transliteration": "ẓalamū"
+    },
+    {
+      "id": 58294,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_004.mp3",
+      "text": "ٱلصَّيْحَةُ",
+      "translation": "teriakan/suara keras",
+      "transliteration": "l-ṣayḥatu"
+    },
+    {
+      "id": 58295,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_005.mp3",
+      "text": "فَأَصْبَحُوا۟",
+      "translation": "maka/lalu jadilah mereka",
+      "transliteration": "fa-aṣbaḥū"
+    },
+    {
+      "id": 58296,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_006.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 58297,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_007.mp3",
+      "text": "دِيَـٰرِهِمْ",
+      "translation": "rumah mereka",
+      "transliteration": "diyārihim"
+    },
+    {
+      "id": 58298,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_067_008.mp3",
+      "text": "جَـٰثِمِينَ",
+      "translation": "mati bergelimpangan",
+      "transliteration": "jāthimīna"
+    },
+    {
+      "id": 58299,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan satu suara keras yang mengguntur menimpa orang-orang yang zalim itu, lalu mereka mati bergelimpangan di rumahnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1625030,
+    "timestamp_to": 1634540,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        1624525,
+        1625305
+      ],
+      [
+        2,
+        1625305,
+        1626375
+      ],
+      [
+        3,
+        1626375,
+        1626975
+      ],
+      [
+        4,
+        1626975,
+        1627995
+      ],
+      [
+        5,
+        1627995,
+        1629195
+      ],
+      [
+        6,
+        1629195,
+        1629645
+      ],
+      [
+        7,
+        1629645,
+        1630885
+      ],
+      [
+        8,
+        1630885,
+        1634000
+      ]
+    ]
+  }
+}

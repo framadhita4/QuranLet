@@ -1,0 +1,86 @@
+{
+  "id": 6182,
+  "chapter_id": 104,
+  "verse_key": "104:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "words": [
+    {
+      "id": 2234,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_003_001.mp3",
+      "text": "يَحْسَبُ",
+      "translation": "dia mengira",
+      "transliteration": "yaḥsabu"
+    },
+    {
+      "id": 2235,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_003_002.mp3",
+      "text": "أَنَّ",
+      "translation": "bahwasanya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 2236,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_003_003.mp3",
+      "text": "مَالَهُۥٓ",
+      "translation": "hartanya",
+      "transliteration": "mālahu"
+    },
+    {
+      "id": 2237,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/104_003_004.mp3",
+      "text": "أَخْلَدَهُۥ",
+      "translation": "mengekalkannya",
+      "transliteration": "akhladahu"
+    },
+    {
+      "id": 2238,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dia mengira bahwa hartanya itu dapat mengekalkannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9980,
+    "timestamp_to": 16640,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        9905,
+        10815
+      ],
+      [
+        2,
+        10815,
+        12315
+      ],
+      [
+        3,
+        12315,
+        14795
+      ],
+      [
+        4,
+        14795,
+        16480
+      ]
+    ]
+  }
+}

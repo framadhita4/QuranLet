@@ -1,0 +1,60 @@
+{
+  "id": 5289,
+  "chapter_id": 68,
+  "verse_key": "68:18",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا يَسْتَثْنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 20548,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_018_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 20549,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_018_002.mp3",
+      "text": "يَسْتَثْنُونَ",
+      "translation": "mereka menyisihkan",
+      "transliteration": "yastathnūna"
+    },
+    {
+      "id": 20550,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan mereka tidak mengucapkan, \"Insyaallah \",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 130070,
+    "timestamp_to": 134690,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        129995,
+        130715
+      ],
+      [
+        2,
+        130715,
+        134570
+      ]
+    ]
+  }
+}

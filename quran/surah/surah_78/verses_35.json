@@ -1,0 +1,112 @@
+{
+  "id": 5707,
+  "chapter_id": 78,
+  "verse_key": "78:35",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 37732,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 37733,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_002.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 37734,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_003.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 37735,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_004.mp3",
+      "text": "لَغْوًۭا",
+      "translation": "sia-sia",
+      "transliteration": "laghwan"
+    },
+    {
+      "id": 37736,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 37737,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_006.mp3",
+      "text": "كِذَّٰبًۭا",
+      "translation": "dusta",
+      "transliteration": "kidhāban"
+    },
+    {
+      "id": 37738,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya mereka tidak mendengar perkataan yang sia-sia dan tidak (pula) perkataan dusta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 183480,
+    "timestamp_to": 190740,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        183405,
+        183945
+      ],
+      [
+        2,
+        183945,
+        185315
+      ],
+      [
+        3,
+        185315,
+        186185
+      ],
+      [
+        4,
+        186185,
+        187865
+      ],
+      [
+        5,
+        187865,
+        188355
+      ],
+      [
+        6,
+        188355,
+        190560
+      ]
+    ]
+  }
+}

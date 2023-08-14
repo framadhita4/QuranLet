@@ -1,0 +1,112 @@
+{
+  "id": 5690,
+  "chapter_id": 78,
+  "verse_key": "78:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 20738,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_018_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 20739,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_018_002.mp3",
+      "text": "يُنفَخُ",
+      "translation": "ditiup",
+      "transliteration": "yunfakhu"
+    },
+    {
+      "id": 20740,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_018_003.mp3",
+      "text": "فِى",
+      "translation": "dalam/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 20741,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_018_004.mp3",
+      "text": "ٱلصُّورِ",
+      "translation": "sangkakala",
+      "transliteration": "l-ṣūri"
+    },
+    {
+      "id": 20742,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_018_005.mp3",
+      "text": "فَتَأْتُونَ",
+      "translation": "maka kamu datang",
+      "transliteration": "fatatūna"
+    },
+    {
+      "id": 20743,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_018_006.mp3",
+      "text": "أَفْوَاجًۭا",
+      "translation": "berduyun-duyun",
+      "transliteration": "afwājan"
+    },
+    {
+      "id": 20744,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu hari (yang pada waktu itu) ditiup sangkakala lalu kamu datang berkelompok-kelompok,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 89750,
+    "timestamp_to": 96670,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        89715,
+        90315
+      ],
+      [
+        2,
+        90315,
+        91905
+      ],
+      [
+        3,
+        91905,
+        92075
+      ],
+      [
+        4,
+        92075,
+        93105
+      ],
+      [
+        5,
+        93105,
+        94595
+      ],
+      [
+        6,
+        94595,
+        96570
+      ]
+    ]
+  }
+}

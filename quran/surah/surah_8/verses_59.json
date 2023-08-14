@@ -1,0 +1,138 @@
+{
+  "id": 1219,
+  "chapter_id": 8,
+  "verse_key": "8:59",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "ruku_number": 153,
+  "manzil_number": 2,
+  "page_number": 184,
+  "juz_number": 10,
+  "text_uthmani": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ سَبَقُوٓا۟ ۚ إِنَّهُمْ لَا يُعْجِزُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 53804,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 53805,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_002.mp3",
+      "text": "يَحْسَبَنَّ",
+      "translation": "mengira",
+      "transliteration": "yaḥsabanna"
+    },
+    {
+      "id": 53806,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 53807,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_004.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 53808,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_005.mp3",
+      "text": "سَبَقُوٓا۟ ۚ",
+      "translation": "mereka terlepas/lolos",
+      "transliteration": "sabaqū"
+    },
+    {
+      "id": 53810,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_007.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 53811,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_008.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 53812,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_059_009.mp3",
+      "text": "يُعْجِزُونَ",
+      "translation": "dapat melemahkan",
+      "transliteration": "yuʿ'jizūna"
+    },
+    {
+      "id": 53813,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan janganlah orang-orang yang kafir itu mengira bahwa mereka akan dapat lolos (dari kekuasaan Allah).  Sesungguhnya mereka tidak dapat melemahkan (Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1354830,
+    "timestamp_to": 1366770,
+    "duration": 11940,
+    "segments": [
+      [
+        1,
+        1354785,
+        1355515
+      ],
+      [
+        2,
+        1355515,
+        1357415
+      ],
+      [
+        3,
+        1357415,
+        1358505
+      ],
+      [
+        4,
+        1358505,
+        1359315
+      ],
+      [
+        5,
+        1359315,
+        1360405
+      ],
+      [
+        6,
+        1360405,
+        1362445
+      ],
+      [
+        7,
+        1362445,
+        1362935
+      ],
+      [
+        8,
+        1362935,
+        1366700
+      ]
+    ]
+  }
+}

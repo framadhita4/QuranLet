@@ -1,0 +1,99 @@
+{
+  "id": 4638,
+  "chapter_id": 50,
+  "verse_key": "50:8",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 8693,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_001.mp3",
+      "text": "تَبْصِرَةًۭ",
+      "translation": "pemandangan",
+      "transliteration": "tabṣiratan"
+    },
+    {
+      "id": 8694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_002.mp3",
+      "text": "وَذِكْرَىٰ",
+      "translation": "dan pengajaran",
+      "transliteration": "wadhik'rā"
+    },
+    {
+      "id": 8695,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_003.mp3",
+      "text": "لِكُلِّ",
+      "translation": "bagi setiap",
+      "transliteration": "likulli"
+    },
+    {
+      "id": 8696,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_004.mp3",
+      "text": "عَبْدٍۢ",
+      "translation": "hamba",
+      "transliteration": "ʿabdin"
+    },
+    {
+      "id": 8697,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_005.mp3",
+      "text": "مُّنِيبٍۢ",
+      "translation": "orang yang kembali",
+      "transliteration": "munībin"
+    },
+    {
+      "id": 8698,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk menjadi pelajaran dan peringatan bagi tiap-tiap hamba yang kembali (mengingat Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 100390,
+    "timestamp_to": 109090,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        100285,
+        102485
+      ],
+      [
+        2,
+        102485,
+        103555
+      ],
+      [
+        3,
+        103555,
+        104475
+      ],
+      [
+        4,
+        104475,
+        105265
+      ],
+      [
+        5,
+        105265,
+        108910
+      ]
+    ]
+  }
+}

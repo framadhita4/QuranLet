@@ -1,0 +1,99 @@
+{
+  "id": 4760,
+  "chapter_id": 52,
+  "verse_key": "52:25",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 27863,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_001.mp3",
+      "text": "وَأَقْبَلَ",
+      "translation": "dan menghadap",
+      "transliteration": "wa-aqbala"
+    },
+    {
+      "id": 27864,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_002.mp3",
+      "text": "بَعْضُهُمْ",
+      "translation": "sebagian mereka",
+      "transliteration": "baʿḍuhum"
+    },
+    {
+      "id": 27865,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 27866,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_004.mp3",
+      "text": "بَعْضٍۢ",
+      "translation": "sebagian",
+      "transliteration": "baʿḍin"
+    },
+    {
+      "id": 27867,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_005.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka saling tanya menanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 27868,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sebagian mereka menghadap kepada sebagian yang lain saling bertanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 216380,
+    "timestamp_to": 226520,
+    "duration": 10140,
+    "segments": [
+      [
+        1,
+        216305,
+        217495
+      ],
+      [
+        2,
+        217495,
+        218505
+      ],
+      [
+        3,
+        218505,
+        219185
+      ],
+      [
+        4,
+        219185,
+        220975
+      ],
+      [
+        5,
+        220975,
+        226360
+      ]
+    ]
+  }
+}

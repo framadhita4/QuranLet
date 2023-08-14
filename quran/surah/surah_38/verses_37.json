@@ -1,0 +1,86 @@
+{
+  "id": 4007,
+  "chapter_id": 38,
+  "verse_key": "38:37",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍ وَغَوَّاصٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 39430,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_037_001.mp3",
+      "text": "وَٱلشَّيَـٰطِينَ",
+      "translation": "dan syaitan-syaitan",
+      "transliteration": "wal-shayāṭīna"
+    },
+    {
+      "id": 39431,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_037_002.mp3",
+      "text": "كُلَّ",
+      "translation": "semuanya",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 39432,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_037_003.mp3",
+      "text": "بَنَّآءٍۢ",
+      "translation": "ahli bangunan",
+      "transliteration": "bannāin"
+    },
+    {
+      "id": 39433,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_037_004.mp3",
+      "text": "وَغَوَّاصٍۢ",
+      "translation": "dan penyelam",
+      "transliteration": "waghawwāṣin"
+    },
+    {
+      "id": 39434,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (Kami tundukkan pula kepadanya) setan-setan semuanya ahli bangunan dan penyelam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 522640,
+    "timestamp_to": 533380,
+    "duration": 10740,
+    "segments": [
+      [
+        1,
+        522595,
+        524315
+      ],
+      [
+        2,
+        524315,
+        524995
+      ],
+      [
+        3,
+        524995,
+        528844
+      ],
+      [
+        4,
+        528845,
+        533270
+      ]
+    ]
+  }
+}

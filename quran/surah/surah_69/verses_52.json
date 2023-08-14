@@ -1,0 +1,86 @@
+{
+  "id": 5375,
+  "chapter_id": 69,
+  "verse_key": "69:52",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 49973,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_052_001.mp3",
+      "text": "فَسَبِّحْ",
+      "translation": "maka bertasbihlah",
+      "transliteration": "fasabbiḥ"
+    },
+    {
+      "id": 49974,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_052_002.mp3",
+      "text": "بِٱسْمِ",
+      "translation": "dengan nama",
+      "transliteration": "bi-is'mi"
+    },
+    {
+      "id": 49975,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_052_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 49976,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_052_004.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "Maha Besar/Agung",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 49977,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bertasbihlah dengan (menyebut) nama Tuhan-mu Yang Maha Besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 393180,
+    "timestamp_to": 401120,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        393105,
+        394145
+      ],
+      [
+        2,
+        394145,
+        394655
+      ],
+      [
+        3,
+        394655,
+        395605
+      ],
+      [
+        4,
+        395605,
+        400990
+      ]
+    ]
+  }
+}

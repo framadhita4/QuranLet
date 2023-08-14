@@ -1,0 +1,86 @@
+{
+  "id": 6114,
+  "chapter_id": 96,
+  "verse_key": "96:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 9198,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_008_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 9199,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_008_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 9200,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_008_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 9201,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_008_004.mp3",
+      "text": "ٱلرُّجْعَىٰٓ",
+      "translation": "tempat kembali",
+      "transliteration": "l-ruj'ʿā"
+    },
+    {
+      "id": 9202,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya hanya kepada Tuhan-mulah kembali(mu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30720,
+    "timestamp_to": 35110,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        30295,
+        31515
+      ],
+      [
+        2,
+        31515,
+        32195
+      ],
+      [
+        3,
+        32195,
+        32995
+      ],
+      [
+        4,
+        32995,
+        34200
+      ]
+    ]
+  }
+}

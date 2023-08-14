@@ -1,0 +1,177 @@
+{
+  "id": 296,
+  "chapter_id": 3,
+  "verse_key": "3:3",
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "ruku_number": 42,
+  "manzil_number": 1,
+  "page_number": 50,
+  "juz_number": 3,
+  "text_uthmani": "نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 2239,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_001.mp3",
+      "text": "نَزَّلَ",
+      "translation": "Dia telah menurunkan",
+      "transliteration": "nazzala"
+    },
+    {
+      "id": 2240,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_002.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 2241,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_003.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "Al Kitab (Al Quran)",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 2242,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_004.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan sebenarnya",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 2243,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_005.mp3",
+      "text": "مُصَدِّقًۭا",
+      "translation": "membenarkan",
+      "transliteration": "muṣaddiqan"
+    },
+    {
+      "id": 2244,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_006.mp3",
+      "text": "لِّمَا",
+      "translation": "terhadap apa (kitab)",
+      "transliteration": "limā"
+    },
+    {
+      "id": 2245,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_007.mp3",
+      "text": "بَيْنَ",
+      "translation": "antara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 2246,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_008.mp3",
+      "text": "يَدَيْهِ",
+      "translation": "dua tangannya",
+      "transliteration": "yadayhi"
+    },
+    {
+      "id": 2247,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_009.mp3",
+      "text": "وَأَنزَلَ",
+      "translation": "dan Dia menurunkan",
+      "transliteration": "wa-anzala"
+    },
+    {
+      "id": 2248,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_010.mp3",
+      "text": "ٱلتَّوْرَىٰةَ",
+      "translation": "Taurat",
+      "transliteration": "l-tawrāta"
+    },
+    {
+      "id": 2249,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_003_011.mp3",
+      "text": "وَٱلْإِنجِيلَ",
+      "translation": "dan Injil",
+      "transliteration": "wal-injīla"
+    },
+    {
+      "id": 2250,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia menurunkan Alkitab (Al-Qur`ān) kepadamu dengan sebenarnya, membenarkan kitab yang telah diturunkan sebelumnya dan menurunkan Taurat dan Injil,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15960,
+    "timestamp_to": 30430,
+    "duration": 14470,
+    "segments": [
+      [
+        1,
+        15895,
+        17035
+      ],
+      [
+        2,
+        17035,
+        17845
+      ],
+      [
+        3,
+        17845,
+        18925
+      ],
+      [
+        4,
+        18925,
+        19885
+      ],
+      [
+        5,
+        19885,
+        20995
+      ],
+      [
+        6,
+        20995,
+        21725
+      ],
+      [
+        7,
+        21725,
+        22295
+      ],
+      [
+        8,
+        22295,
+        23185
+      ],
+      [
+        9,
+        23185,
+        24915
+      ],
+      [
+        10,
+        24915,
+        26235
+      ],
+      [
+        11,
+        26235,
+        30300
+      ]
+    ]
+  }
+}

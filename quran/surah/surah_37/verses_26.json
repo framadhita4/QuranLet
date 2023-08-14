@@ -1,0 +1,86 @@
+{
+  "id": 3814,
+  "chapter_id": 37,
+  "verse_key": "37:26",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 29390,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_026_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 29391,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_026_002.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 29392,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_026_003.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "pada hari itu",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 29393,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_026_004.mp3",
+      "text": "مُسْتَسْلِمُونَ",
+      "translation": "mereka menyerahkan diri",
+      "transliteration": "mus'taslimūna"
+    },
+    {
+      "id": 29394,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan, mereka pada hari itu menyerah diri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 198750,
+    "timestamp_to": 205750,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        198685,
+        199215
+      ],
+      [
+        2,
+        199215,
+        199625
+      ],
+      [
+        3,
+        199625,
+        200565
+      ],
+      [
+        4,
+        200565,
+        205610
+      ]
+    ]
+  }
+}

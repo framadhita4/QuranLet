@@ -1,0 +1,86 @@
+{
+  "id": 5059,
+  "chapter_id": 56,
+  "verse_key": "56:80",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 64204,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_080_001.mp3",
+      "text": "تَنزِيلٌۭ",
+      "translation": "penurunan/diturunkan",
+      "transliteration": "tanzīlun"
+    },
+    {
+      "id": 64205,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_080_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 64206,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_080_003.mp3",
+      "text": "رَّبِّ",
+      "translation": "Tuhan/Pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 64207,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_080_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 64208,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Diturunkan dari Tuhan semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 583710,
+    "timestamp_to": 591810,
+    "duration": 8100,
+    "segments": [
+      [
+        1,
+        583595,
+        586285
+      ],
+      [
+        2,
+        586285,
+        587105
+      ],
+      [
+        3,
+        587105,
+        588045
+      ],
+      [
+        4,
+        588045,
+        591590
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6207,
+  "chapter_id": 108,
+  "verse_key": "108:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 552,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/108.mp3",
+  "words": [
+    {
+      "id": 2556,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_003_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 2557,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_003_002.mp3",
+      "text": "شَانِئَكَ",
+      "translation": "orang yang membencimu",
+      "transliteration": "shāni-aka"
+    },
+    {
+      "id": 2558,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_003_003.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 2559,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_003_004.mp3",
+      "text": "ٱلْأَبْتَرُ",
+      "translation": "terputus",
+      "transliteration": "l-abtaru"
+    },
+    {
+      "id": 2560,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang membenci kamu, dialah yang terputus<sup foot_note_id=\"1607\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10260,
+    "timestamp_to": 15510,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        10145,
+        11815
+      ],
+      [
+        2,
+        11815,
+        12985
+      ],
+      [
+        3,
+        12985,
+        13355
+      ],
+      [
+        4,
+        13355,
+        14980
+      ]
+    ]
+  }
+}

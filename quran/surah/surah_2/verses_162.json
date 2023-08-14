@@ -1,0 +1,156 @@
+{
+  "id": 169,
+  "chapter_id": 2,
+  "verse_key": "2:162",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "ruku_number": 20,
+  "manzil_number": 1,
+  "page_number": 24,
+  "juz_number": 2,
+  "text_uthmani": "خَـٰلِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 82041,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_001.mp3",
+      "text": "خَـٰلِدِينَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidīna"
+    },
+    {
+      "id": 82042,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_002.mp3",
+      "text": "فِيهَا ۖ",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 82044,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 82045,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_005.mp3",
+      "text": "يُخَفَّفُ",
+      "translation": "diringankan",
+      "transliteration": "yukhaffafu"
+    },
+    {
+      "id": 82046,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_006.mp3",
+      "text": "عَنْهُمُ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhumu"
+    },
+    {
+      "id": 82047,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_007.mp3",
+      "text": "ٱلْعَذَابُ",
+      "translation": "siksa",
+      "transliteration": "l-ʿadhābu"
+    },
+    {
+      "id": 82048,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_008.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 82049,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_009.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 82050,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_162_010.mp3",
+      "text": "يُنظَرُونَ",
+      "translation": "mereka diberi tangguh",
+      "transliteration": "yunẓarūna"
+    },
+    {
+      "id": 82051,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٦٢",
+      "translation": "(162)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka kekal di dalam laknat itu; tidak akan diringankan siksa dari mereka dan tidak (pula) mereka diberi tangguh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3543290,
+    "timestamp_to": 3552930,
+    "duration": 9640,
+    "segments": [
+      [
+        1,
+        3543235,
+        3544455
+      ],
+      [
+        2,
+        3544455,
+        3545305
+      ],
+      [
+        3,
+        3545305,
+        3545415
+      ],
+      [
+        3,
+        3545415,
+        3546205
+      ],
+      [
+        4,
+        3546205,
+        3547105
+      ],
+      [
+        5,
+        3547105,
+        3547835
+      ],
+      [
+        6,
+        3547835,
+        3548825
+      ],
+      [
+        7,
+        3548825,
+        3549355
+      ],
+      [
+        8,
+        3549355,
+        3549725
+      ],
+      [
+        9,
+        3549725,
+        3552790
+      ]
+    ]
+  }
+}

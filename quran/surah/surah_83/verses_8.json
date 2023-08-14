@@ -1,0 +1,86 @@
+{
+  "id": 5856,
+  "chapter_id": 83,
+  "verse_key": "83:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 9233,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_008_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 9234,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_008_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 9235,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_008_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 9236,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_008_004.mp3",
+      "text": "سِجِّينٌۭ",
+      "translation": "sijjin",
+      "transliteration": "sijjīnun"
+    },
+    {
+      "id": 9237,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah Sijjīn itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 52480,
+    "timestamp_to": 60130,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        52415,
+        54735
+      ],
+      [
+        2,
+        54735,
+        55795
+      ],
+      [
+        3,
+        55795,
+        56135
+      ],
+      [
+        4,
+        56135,
+        59990
+      ]
+    ]
+  }
+}

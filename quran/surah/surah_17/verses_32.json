@@ -1,0 +1,138 @@
+{
+  "id": 2061,
+  "chapter_id": 17,
+  "verse_key": "17:32",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "ruku_number": 243,
+  "manzil_number": 4,
+  "page_number": 285,
+  "juz_number": 15,
+  "text_uthmani": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ إِنَّهُۥ كَانَ فَـٰحِشَةً وَسَآءَ سَبِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 34313,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 34314,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_002.mp3",
+      "text": "تَقْرَبُوا۟",
+      "translation": "kamu mendekati",
+      "transliteration": "taqrabū"
+    },
+    {
+      "id": 34315,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_003.mp3",
+      "text": "ٱلزِّنَىٰٓ ۖ",
+      "translation": "zina",
+      "transliteration": "l-zinā"
+    },
+    {
+      "id": 34317,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_005.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia/zina",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 34318,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_006.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 34319,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_007.mp3",
+      "text": "فَـٰحِشَةًۭ",
+      "translation": "perbuatan yang keji",
+      "transliteration": "fāḥishatan"
+    },
+    {
+      "id": 34320,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_008.mp3",
+      "text": "وَسَآءَ",
+      "translation": "dan sangat buruk",
+      "transliteration": "wasāa"
+    },
+    {
+      "id": 34321,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_032_009.mp3",
+      "text": "سَبِيلًۭا",
+      "translation": "jalan",
+      "transliteration": "sabīlan"
+    },
+    {
+      "id": 34322,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan janganlah kamu mendekati zina; sesungguhnya zina itu adalah suatu perbuatan yang keji.  Dan suatu jalan yang buruk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 593060,
+    "timestamp_to": 604270,
+    "duration": 11210,
+    "segments": [
+      [
+        1,
+        593035,
+        593675
+      ],
+      [
+        2,
+        593675,
+        594525
+      ],
+      [
+        3,
+        594525,
+        595495
+      ],
+      [
+        4,
+        595495,
+        597345
+      ],
+      [
+        5,
+        597345,
+        597975
+      ],
+      [
+        6,
+        597975,
+        599365
+      ],
+      [
+        7,
+        599365,
+        602405
+      ],
+      [
+        8,
+        602405,
+        604150
+      ]
+    ]
+  }
+}

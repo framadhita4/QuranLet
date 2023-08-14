@@ -1,0 +1,86 @@
+{
+  "id": 3019,
+  "chapter_id": 26,
+  "verse_key": "26:87",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَلَا تُخْزِنِى يَوْمَ يُبْعَثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 66823,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_087_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan janganlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 66824,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_087_002.mp3",
+      "text": "تُخْزِنِى",
+      "translation": "Engkau hinakan aku",
+      "transliteration": "tukh'zinī"
+    },
+    {
+      "id": 66825,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_087_003.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 66826,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_087_004.mp3",
+      "text": "يُبْعَثُونَ",
+      "translation": "mereka dibangkitkan",
+      "transliteration": "yub'ʿathūna"
+    },
+    {
+      "id": 66827,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٧",
+      "translation": "(87)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 834460,
+    "timestamp_to": 839890,
+    "duration": 5430,
+    "segments": [
+      [
+        1,
+        834435,
+        835105
+      ],
+      [
+        2,
+        835105,
+        836225
+      ],
+      [
+        3,
+        836225,
+        836845
+      ],
+      [
+        4,
+        836845,
+        839820
+      ]
+    ]
+  }
+}

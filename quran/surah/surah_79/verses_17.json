@@ -1,0 +1,99 @@
+{
+  "id": 5729,
+  "chapter_id": 79,
+  "verse_key": "79:17",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 19654,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_017_001.mp3",
+      "text": "ٱذْهَبْ",
+      "translation": "pergilah kamu",
+      "transliteration": "idh'hab"
+    },
+    {
+      "id": 19655,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_017_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 19656,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_017_003.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 19657,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_017_004.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 19658,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_017_005.mp3",
+      "text": "طَغَىٰ",
+      "translation": "melampui batas",
+      "transliteration": "ṭaghā"
+    },
+    {
+      "id": 19659,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Pergilah kamu kepada Firʻawn , sesungguhnya dia telah melampaui batas,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 73110,
+    "timestamp_to": 78830,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        73035,
+        73885
+      ],
+      [
+        2,
+        73885,
+        74505
+      ],
+      [
+        3,
+        74505,
+        75575
+      ],
+      [
+        4,
+        75575,
+        77365
+      ],
+      [
+        5,
+        77365,
+        78680
+      ]
+    ]
+  }
+}

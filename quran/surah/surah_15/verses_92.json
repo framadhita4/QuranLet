@@ -1,0 +1,73 @@
+{
+  "id": 1894,
+  "chapter_id": 15,
+  "verse_key": "15:92",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 68618,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_092_001.mp3",
+      "text": "فَوَرَبِّكَ",
+      "translation": "demi Tuhanmu",
+      "transliteration": "fawarabbika"
+    },
+    {
+      "id": 68619,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_092_002.mp3",
+      "text": "لَنَسْـَٔلَنَّهُمْ",
+      "translation": "sungguh Kami akan menanyai mereka",
+      "transliteration": "lanasalannahum"
+    },
+    {
+      "id": 68620,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_092_003.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 68621,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka demi Tuhan-mu, Kami pasti akan menanyai mereka semua,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 892640,
+    "timestamp_to": 899170,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        892615,
+        893885
+      ],
+      [
+        2,
+        893885,
+        896575
+      ],
+      [
+        3,
+        896575,
+        899120
+      ]
+    ]
+  }
+}

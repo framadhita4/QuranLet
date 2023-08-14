@@ -1,0 +1,112 @@
+{
+  "id": 4049,
+  "chapter_id": 38,
+  "verse_key": "38:79",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 64045,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_079_001.mp3",
+      "text": "قَالَ",
+      "translation": "(iblis) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 64046,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_079_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 64047,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_079_003.mp3",
+      "text": "فَأَنظِرْنِىٓ",
+      "translation": "maka beri tangguhlah aku",
+      "transliteration": "fa-anẓir'nī"
+    },
+    {
+      "id": 64048,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_079_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 64049,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_079_005.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 64050,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_079_006.mp3",
+      "text": "يُبْعَثُونَ",
+      "translation": "mereka dibangkitkan",
+      "transliteration": "yub'ʿathūna"
+    },
+    {
+      "id": 64051,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Iblis berkata, \"Ya Tuhan-ku, beri tangguhlah aku sampai hari mereka dibangkitkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 975280,
+    "timestamp_to": 984610,
+    "duration": 9330,
+    "segments": [
+      [
+        1,
+        975225,
+        975895
+      ],
+      [
+        2,
+        975895,
+        976485
+      ],
+      [
+        3,
+        976485,
+        980175
+      ],
+      [
+        4,
+        980175,
+        980765
+      ],
+      [
+        5,
+        980765,
+        981345
+      ],
+      [
+        6,
+        981345,
+        984510
+      ]
+    ]
+  }
+}

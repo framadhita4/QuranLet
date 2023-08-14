@@ -1,0 +1,86 @@
+{
+  "id": 6089,
+  "chapter_id": 93,
+  "verse_key": "93:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 11376,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_010_001.mp3",
+      "text": "وَأَمَّا",
+      "translation": "dan adapun",
+      "transliteration": "wa-ammā"
+    },
+    {
+      "id": 11377,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_010_002.mp3",
+      "text": "ٱلسَّآئِلَ",
+      "translation": "orang minta-minta",
+      "transliteration": "l-sāila"
+    },
+    {
+      "id": 11378,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_010_003.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 11379,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_010_004.mp3",
+      "text": "تَنْهَرْ",
+      "translation": "kamu menghardik",
+      "transliteration": "tanhar"
+    },
+    {
+      "id": 11380,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan terhadap orang yang minta-minta, janganlah kamu menghardiknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42830,
+    "timestamp_to": 49070,
+    "duration": 6240,
+    "segments": [
+      [
+        1,
+        42755,
+        44095
+      ],
+      [
+        2,
+        44095,
+        47025
+      ],
+      [
+        3,
+        47025,
+        47625
+      ],
+      [
+        4,
+        47625,
+        48940
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5845,
+  "chapter_id": 82,
+  "verse_key": "82:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3",
+  "words": [
+    {
+      "id": 18628,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_016_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 18629,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_016_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 18630,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_016_003.mp3",
+      "text": "عَنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "ʿanhā"
+    },
+    {
+      "id": 18631,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_016_004.mp3",
+      "text": "بِغَآئِبِينَ",
+      "translation": "dengan gaib/meloloskan diri",
+      "transliteration": "bighāibīna"
+    },
+    {
+      "id": 18632,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka sekali-kali tidak dapat keluar dari neraka itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 78060,
+    "timestamp_to": 84750,
+    "duration": 6690,
+    "segments": [
+      [
+        1,
+        77975,
+        78625
+      ],
+      [
+        2,
+        78625,
+        79025
+      ],
+      [
+        3,
+        79025,
+        79845
+      ],
+      [
+        4,
+        79845,
+        84610
+      ]
+    ]
+  }
+}

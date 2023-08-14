@@ -1,0 +1,60 @@
+{
+  "id": 5733,
+  "chapter_id": 79,
+  "verse_key": "79:21",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَكَذَّبَ وَعَصَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 23980,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_021_001.mp3",
+      "text": "فَكَذَّبَ",
+      "translation": "maka dia mendustakan",
+      "transliteration": "fakadhaba"
+    },
+    {
+      "id": 23981,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_021_002.mp3",
+      "text": "وَعَصَىٰ",
+      "translation": "dan dia mendurhakai",
+      "transliteration": "waʿaṣā"
+    },
+    {
+      "id": 23982,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi Firʻawn mendustakan dan mendurhakai.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 93480,
+    "timestamp_to": 95830,
+    "duration": 2350,
+    "segments": [
+      [
+        1,
+        93435,
+        94605
+      ],
+      [
+        2,
+        94605,
+        95550
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5399,
+  "chapter_id": 70,
+  "verse_key": "70:24",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 27029,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 27030,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_002.mp3",
+      "text": "فِىٓ",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 27031,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_003.mp3",
+      "text": "أَمْوَٰلِهِمْ",
+      "translation": "harta mereka",
+      "transliteration": "amwālihim"
+    },
+    {
+      "id": 27032,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_004.mp3",
+      "text": "حَقٌّۭ",
+      "translation": "hak/bagian",
+      "transliteration": "ḥaqqun"
+    },
+    {
+      "id": 27033,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_005.mp3",
+      "text": "مَّعْلُومٌۭ",
+      "translation": "tertentu",
+      "transliteration": "maʿlūmun"
+    },
+    {
+      "id": 27034,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang dalam hartanya tersedia bagian tertentu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 125560,
+    "timestamp_to": 134130,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        125485,
+        126655
+      ],
+      [
+        2,
+        126655,
+        128305
+      ],
+      [
+        3,
+        128305,
+        129575
+      ],
+      [
+        4,
+        129575,
+        130255
+      ],
+      [
+        5,
+        130255,
+        133970
+      ]
+    ]
+  }
+}

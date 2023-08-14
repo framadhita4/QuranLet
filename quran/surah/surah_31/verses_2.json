@@ -1,0 +1,86 @@
+{
+  "id": 3471,
+  "chapter_id": 31,
+  "verse_key": "31:2",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 356,
+  "manzil_number": 5,
+  "page_number": 411,
+  "juz_number": 21,
+  "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3",
+  "words": [
+    {
+      "id": 1877,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_002_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "inilah",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 1878,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_002_002.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 1879,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_002_003.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Al kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 1880,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_002_004.mp3",
+      "text": "ٱلْحَكِيمِ",
+      "translation": "mengandung hikmah",
+      "transliteration": "l-ḥakīmi"
+    },
+    {
+      "id": 1881,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Inilah ayat-ayat Al-Qur`ān yang mengandung hikmat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7920,
+    "timestamp_to": 12830,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        7865,
+        8485
+      ],
+      [
+        2,
+        8485,
+        9425
+      ],
+      [
+        3,
+        9425,
+        10445
+      ],
+      [
+        4,
+        10445,
+        12740
+      ]
+    ]
+  }
+}

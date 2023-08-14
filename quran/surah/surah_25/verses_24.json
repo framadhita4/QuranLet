@@ -1,0 +1,125 @@
+{
+  "id": 2879,
+  "chapter_id": 25,
+  "verse_key": "25:24",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 362,
+  "juz_number": 19,
+  "text_uthmani": "أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 26908,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_001.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penghuni",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 26909,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_002.mp3",
+      "text": "ٱلْجَنَّةِ",
+      "translation": "surga",
+      "transliteration": "l-janati"
+    },
+    {
+      "id": 26910,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_003.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 26911,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_004.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 26912,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_005.mp3",
+      "text": "مُّسْتَقَرًّۭا",
+      "translation": "tempat menetap/tinggal",
+      "transliteration": "mus'taqarran"
+    },
+    {
+      "id": 26913,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_006.mp3",
+      "text": "وَأَحْسَنُ",
+      "translation": "dan lebih baik/indah",
+      "transliteration": "wa-aḥsanu"
+    },
+    {
+      "id": 26914,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_024_007.mp3",
+      "text": "مَقِيلًۭا",
+      "translation": "tempat istirahat",
+      "transliteration": "maqīlan"
+    },
+    {
+      "id": 26915,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Penghuni-penghuni surga pada hari itu paling baik tempat tinggalnya dan paling indah tempat istirahatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 447160,
+    "timestamp_to": 457400,
+    "duration": 10240,
+    "segments": [
+      [
+        1,
+        447135,
+        448135
+      ],
+      [
+        2,
+        448135,
+        449885
+      ],
+      [
+        3,
+        449885,
+        451145
+      ],
+      [
+        4,
+        451145,
+        451845
+      ],
+      [
+        5,
+        451845,
+        454575
+      ],
+      [
+        6,
+        454575,
+        455555
+      ],
+      [
+        7,
+        455555,
+        457350
+      ]
+    ]
+  }
+}

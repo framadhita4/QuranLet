@@ -1,0 +1,60 @@
+{
+  "id": 2389,
+  "chapter_id": 20,
+  "verse_key": "20:41",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 314,
+  "juz_number": 16,
+  "text_uthmani": "وَٱصْطَنَعْتُكَ لِنَفْسِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 42077,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_041_001.mp3",
+      "text": "وَٱصْطَنَعْتُكَ",
+      "translation": "dan Aku telah memilih kamu",
+      "transliteration": "wa-iṣ'ṭanaʿtuka"
+    },
+    {
+      "id": 42078,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_041_002.mp3",
+      "text": "لِنَفْسِى",
+      "translation": "untuk diri-Ku",
+      "transliteration": "linafsī"
+    },
+    {
+      "id": 42079,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Aku telah memilihmu untuk diri-Ku <sup foot_note_id=\"919\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 341860,
+    "timestamp_to": 344970,
+    "duration": 3110,
+    "segments": [
+      [
+        1,
+        341425,
+        342995
+      ],
+      [
+        2,
+        342995,
+        344480
+      ]
+    ]
+  }
+}

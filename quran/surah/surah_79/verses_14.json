@@ -1,0 +1,73 @@
+{
+  "id": 5726,
+  "chapter_id": 79,
+  "verse_key": "79:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 16413,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_014_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 16414,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_014_002.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 16415,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_014_003.mp3",
+      "text": "بِٱلسَّاهِرَةِ",
+      "translation": "di permukaan bumi",
+      "transliteration": "bil-sāhirati"
+    },
+    {
+      "id": 16416,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dengan serta merta mereka hidup kembali di permukaan bumi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 58630,
+    "timestamp_to": 62970,
+    "duration": 4340,
+    "segments": [
+      [
+        1,
+        58565,
+        59435
+      ],
+      [
+        2,
+        59435,
+        60795
+      ],
+      [
+        3,
+        60795,
+        62820
+      ]
+    ]
+  }
+}

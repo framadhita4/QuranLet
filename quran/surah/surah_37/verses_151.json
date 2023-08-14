@@ -1,0 +1,99 @@
+{
+  "id": 3939,
+  "chapter_id": 37,
+  "verse_key": "37:151",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 80507,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_001.mp3",
+      "text": "أَلَآ",
+      "translation": "ingatlah/ketahuilah",
+      "transliteration": "alā"
+    },
+    {
+      "id": 80508,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_002.mp3",
+      "text": "إِنَّهُم",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 80509,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_003.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 80510,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_004.mp3",
+      "text": "إِفْكِهِمْ",
+      "translation": "kebohongan mereka",
+      "transliteration": "if'kihim"
+    },
+    {
+      "id": 80511,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_005.mp3",
+      "text": "لَيَقُولُونَ",
+      "translation": "benar-benar mereka mengatakan",
+      "transliteration": "layaqūlūna"
+    },
+    {
+      "id": 80512,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥١",
+      "translation": "(151)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketahuilah bahwa sesungguhnya mereka dengan kebohongannya benar-benar mengatakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1219680,
+    "timestamp_to": 1229790,
+    "duration": 10110,
+    "segments": [
+      [
+        1,
+        1219615,
+        1222015
+      ],
+      [
+        2,
+        1222015,
+        1223545
+      ],
+      [
+        3,
+        1223545,
+        1224875
+      ],
+      [
+        4,
+        1224875,
+        1225825
+      ],
+      [
+        5,
+        1225825,
+        1229650
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 6023,
+  "chapter_id": 89,
+  "verse_key": "89:30",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَٱدْخُلِى جَنَّتِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 32625,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_030_001.mp3",
+      "text": "وَٱدْخُلِى",
+      "translation": "dan masuklah",
+      "transliteration": "wa-ud'khulī"
+    },
+    {
+      "id": 32626,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_030_002.mp3",
+      "text": "جَنَّتِى",
+      "translation": "surga-Ku",
+      "transliteration": "jannatī"
+    },
+    {
+      "id": 32627,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "masuklah ke dalam surga-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 190630,
+    "timestamp_to": 195280,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        190115,
+        191235
+      ],
+      [
+        2,
+        191235,
+        194640
+      ]
+    ]
+  }
+}

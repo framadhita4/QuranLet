@@ -1,0 +1,125 @@
+{
+  "id": 5598,
+  "chapter_id": 76,
+  "verse_key": "76:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 7959,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_001.mp3",
+      "text": "يُوفُونَ",
+      "translation": "mereka memenuhi",
+      "transliteration": "yūfūna"
+    },
+    {
+      "id": 7960,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_002.mp3",
+      "text": "بِٱلنَّذْرِ",
+      "translation": "dengan nazar",
+      "transliteration": "bil-nadhri"
+    },
+    {
+      "id": 7961,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_003.mp3",
+      "text": "وَيَخَافُونَ",
+      "translation": "dan mereka takut",
+      "transliteration": "wayakhāfūna"
+    },
+    {
+      "id": 7962,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_004.mp3",
+      "text": "يَوْمًۭا",
+      "translation": "hari",
+      "transliteration": "yawman"
+    },
+    {
+      "id": 7963,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_005.mp3",
+      "text": "كَانَ",
+      "translation": "adalah ia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 7964,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_006.mp3",
+      "text": "شَرُّهُۥ",
+      "translation": "bahayanya/azabnya",
+      "transliteration": "sharruhu"
+    },
+    {
+      "id": 7965,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_007_007.mp3",
+      "text": "مُسْتَطِيرًۭا",
+      "translation": "merata kemana-mana",
+      "transliteration": "mus'taṭīran"
+    },
+    {
+      "id": 7966,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menunaikan nazar dan takut akan suatu hari yang azabnya merata di mana-mana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 62620,
+    "timestamp_to": 71740,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        62595,
+        63595
+      ],
+      [
+        2,
+        63595,
+        65215
+      ],
+      [
+        3,
+        65215,
+        66495
+      ],
+      [
+        4,
+        66495,
+        68095
+      ],
+      [
+        5,
+        68095,
+        68695
+      ],
+      [
+        6,
+        68695,
+        69725
+      ],
+      [
+        7,
+        69725,
+        71670
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 5418,
+  "chapter_id": 70,
+  "verse_key": "70:43",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 505,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 43734,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 43735,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_002.mp3",
+      "text": "يَخْرُجُونَ",
+      "translation": "mereka keluar",
+      "transliteration": "yakhrujūna"
+    },
+    {
+      "id": 43736,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 43737,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_004.mp3",
+      "text": "ٱلْأَجْدَاثِ",
+      "translation": "kubur",
+      "transliteration": "l-ajdāthi"
+    },
+    {
+      "id": 43738,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_005.mp3",
+      "text": "سِرَاعًۭا",
+      "translation": "dengan cepat",
+      "transliteration": "sirāʿan"
+    },
+    {
+      "id": 43739,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_006.mp3",
+      "text": "كَأَنَّهُمْ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahum"
+    },
+    {
+      "id": 43740,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_007.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 43741,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_008.mp3",
+      "text": "نُصُبٍۢ",
+      "translation": "berhala-berhala",
+      "transliteration": "nuṣubin"
+    },
+    {
+      "id": 43742,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_043_009.mp3",
+      "text": "يُوفِضُونَ",
+      "translation": "mereka pergi dengan segera",
+      "transliteration": "yūfiḍūna"
+    },
+    {
+      "id": 43743,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) pada hari mereka keluar dari kubur dengan cepat seakan-akan mereka pergi dengan segera kepada berhala-berhala (sewaktu di dunia),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 287080,
+    "timestamp_to": 299540,
+    "duration": 12460,
+    "segments": [
+      [
+        1,
+        287005,
+        287695
+      ],
+      [
+        2,
+        287695,
+        288775
+      ],
+      [
+        3,
+        288775,
+        289145
+      ],
+      [
+        4,
+        289145,
+        290355
+      ],
+      [
+        5,
+        290355,
+        291955
+      ],
+      [
+        6,
+        291955,
+        293915
+      ],
+      [
+        7,
+        293915,
+        294515
+      ],
+      [
+        8,
+        294515,
+        295955
+      ],
+      [
+        9,
+        295955,
+        299390
+      ]
+    ]
+  }
+}

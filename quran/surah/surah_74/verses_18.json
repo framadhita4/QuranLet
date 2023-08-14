@@ -1,0 +1,73 @@
+{
+  "id": 5513,
+  "chapter_id": 74,
+  "verse_key": "74:18",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 20640,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_018_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 20641,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_018_002.mp3",
+      "text": "فَكَّرَ",
+      "translation": "dia telah memikirkan",
+      "transliteration": "fakkara"
+    },
+    {
+      "id": 20642,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_018_003.mp3",
+      "text": "وَقَدَّرَ",
+      "translation": "dan telah menetapkan",
+      "transliteration": "waqaddara"
+    },
+    {
+      "id": 20643,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia telah memikirkan dan menetapkan (apa yang ditetapkannya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 68670,
+    "timestamp_to": 72040,
+    "duration": 3370,
+    "segments": [
+      [
+        1,
+        68585,
+        69855
+      ],
+      [
+        2,
+        69855,
+        70695
+      ],
+      [
+        3,
+        70695,
+        71900
+      ]
+    ]
+  }
+}

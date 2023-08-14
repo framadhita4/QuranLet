@@ -1,0 +1,73 @@
+{
+  "id": 1074,
+  "chapter_id": 7,
+  "verse_key": "7:120",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "وَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 76486,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_120_001.mp3",
+      "text": "وَأُلْقِىَ",
+      "translation": "dan menjatuhkan diri",
+      "transliteration": "wa-ul'qiya"
+    },
+    {
+      "id": 76487,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_120_002.mp3",
+      "text": "ٱلسَّحَرَةُ",
+      "translation": "ahli-ahli sihir",
+      "transliteration": "l-saḥaratu"
+    },
+    {
+      "id": 76488,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_120_003.mp3",
+      "text": "سَـٰجِدِينَ",
+      "translation": "bersujud",
+      "transliteration": "sājidīna"
+    },
+    {
+      "id": 76489,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٢٠",
+      "translation": "(120)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ahli-ahli sihir itu serta merta meniarapkan diri dengan bersujud<sup foot_note_id=\"555\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2644160,
+    "timestamp_to": 2650140,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        2644125,
+        2645215
+      ],
+      [
+        2,
+        2645215,
+        2646345
+      ],
+      [
+        3,
+        2646345,
+        2650080
+      ]
+    ]
+  }
+}

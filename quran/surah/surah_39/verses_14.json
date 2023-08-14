@@ -1,0 +1,112 @@
+{
+  "id": 4072,
+  "chapter_id": 39,
+  "verse_key": "39:14",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 399,
+  "manzil_number": 6,
+  "page_number": 460,
+  "juz_number": 23,
+  "text_uthmani": "قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًا لَّهُۥ دِينِى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 16806,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_014_001.mp3",
+      "text": "قُلِ",
+      "translation": "katakanlah",
+      "transliteration": "quli"
+    },
+    {
+      "id": 16807,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_014_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 16808,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_014_003.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku menyembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 16809,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_014_004.mp3",
+      "text": "مُخْلِصًۭا",
+      "translation": "ikhlas/suci",
+      "transliteration": "mukh'liṣan"
+    },
+    {
+      "id": 16810,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_014_005.mp3",
+      "text": "لَّهُۥ",
+      "translation": "kepada-Nya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 16811,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_014_006.mp3",
+      "text": "دِينِى",
+      "translation": "agamaku/ketaatanku",
+      "transliteration": "dīnī"
+    },
+    {
+      "id": 16812,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Hanya Allah saja Yang aku sembah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agamaku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 350290,
+    "timestamp_to": 355360,
+    "duration": 5070,
+    "segments": [
+      [
+        1,
+        350265,
+        350665
+      ],
+      [
+        2,
+        350665,
+        351535
+      ],
+      [
+        3,
+        351535,
+        352425
+      ],
+      [
+        4,
+        352425,
+        353295
+      ],
+      [
+        5,
+        353295,
+        354015
+      ],
+      [
+        6,
+        354015,
+        355280
+      ]
+    ]
+  }
+}

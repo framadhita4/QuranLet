@@ -1,0 +1,125 @@
+{
+  "id": 4379,
+  "chapter_id": 43,
+  "verse_key": "43:54",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 430,
+  "manzil_number": 6,
+  "page_number": 493,
+  "juz_number": 25,
+  "text_uthmani": "فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 51235,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_001.mp3",
+      "text": "فَٱسْتَخَفَّ",
+      "translation": "maka ia meremehkan",
+      "transliteration": "fa-is'takhaffa"
+    },
+    {
+      "id": 51236,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_002.mp3",
+      "text": "قَوْمَهُۥ",
+      "translation": "kaumnya",
+      "transliteration": "qawmahu"
+    },
+    {
+      "id": 51237,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_003.mp3",
+      "text": "فَأَطَاعُوهُ ۚ",
+      "translation": "lalu mereka patuh kepadanya",
+      "transliteration": "fa-aṭāʿūhu"
+    },
+    {
+      "id": 51239,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_005.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 51240,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_006.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 51241,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_007.mp3",
+      "text": "قَوْمًۭا",
+      "translation": "kaum",
+      "transliteration": "qawman"
+    },
+    {
+      "id": 51242,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_054_008.mp3",
+      "text": "فَـٰسِقِينَ",
+      "translation": "orang-orang yang fasik",
+      "transliteration": "fāsiqīna"
+    },
+    {
+      "id": 51243,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Firʻawn  mempengaruhi kaumnya (dengan perkataan itu), lalu mereka patuh kepadanya. Karena sesungguhnya, mereka adalah kaum yang fasik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 769100,
+    "timestamp_to": 782080,
+    "duration": 12980,
+    "segments": [
+      [
+        1,
+        769065,
+        770325
+      ],
+      [
+        2,
+        770325,
+        771295
+      ],
+      [
+        3,
+        771295,
+        774955
+      ],
+      [
+        4,
+        774955,
+        776535
+      ],
+      [
+        5,
+        776535,
+        777355
+      ],
+      [
+        6,
+        777355,
+        778955
+      ],
+      [
+        7,
+        778955,
+        782020
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3544,
+  "chapter_id": 33,
+  "verse_key": "33:11",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "ruku_number": 364,
+  "manzil_number": 5,
+  "page_number": 419,
+  "juz_number": 21,
+  "text_uthmani": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا شَدِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 13199,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_011_001.mp3",
+      "text": "هُنَالِكَ",
+      "translation": "disitulah",
+      "transliteration": "hunālika"
+    },
+    {
+      "id": 13200,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_011_002.mp3",
+      "text": "ٱبْتُلِىَ",
+      "translation": "di uji",
+      "transliteration": "ub'tuliya"
+    },
+    {
+      "id": 13201,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_011_003.mp3",
+      "text": "ٱلْمُؤْمِنُونَ",
+      "translation": "orang-orang mukmin",
+      "transliteration": "l-mu'minūna"
+    },
+    {
+      "id": 13202,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_011_004.mp3",
+      "text": "وَزُلْزِلُوا۟",
+      "translation": "dan mereka digoncangkan",
+      "transliteration": "wazul'zilū"
+    },
+    {
+      "id": 13203,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_011_005.mp3",
+      "text": "زِلْزَالًۭا",
+      "translation": "goncangan",
+      "transliteration": "zil'zālan"
+    },
+    {
+      "id": 13204,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_011_006.mp3",
+      "text": "شَدِيدًۭا",
+      "translation": "keras",
+      "transliteration": "shadīdan"
+    },
+    {
+      "id": 13205,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di situlah diuji orang-orang mukmin dan digoncangkan (hatinya) dengan goncangan yang sangat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 227660,
+    "timestamp_to": 235370,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        227605,
+        228615
+      ],
+      [
+        2,
+        228615,
+        229345
+      ],
+      [
+        3,
+        229345,
+        230775
+      ],
+      [
+        4,
+        230775,
+        231885
+      ],
+      [
+        5,
+        231885,
+        233755
+      ],
+      [
+        6,
+        233755,
+        235250
+      ]
+    ]
+  }
+}

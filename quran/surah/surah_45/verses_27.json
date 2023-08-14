@@ -1,0 +1,164 @@
+{
+  "id": 4500,
+  "chapter_id": 45,
+  "verse_key": "45:27",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "ruku_number": 439,
+  "manzil_number": 6,
+  "page_number": 501,
+  "juz_number": 25,
+  "text_uthmani": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَخْسَرُ ٱلْمُبْطِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 29587,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_001.mp3",
+      "text": "وَلِلَّهِ",
+      "translation": "dan bagi Allah",
+      "transliteration": "walillahi"
+    },
+    {
+      "id": 29588,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_002.mp3",
+      "text": "مُلْكُ",
+      "translation": "kerajaan",
+      "transliteration": "mul'ku"
+    },
+    {
+      "id": 29589,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 29590,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_004.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 29592,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_006.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan hari",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 29593,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_007.mp3",
+      "text": "تَقُومُ",
+      "translation": "terjadi",
+      "transliteration": "taqūmu"
+    },
+    {
+      "id": 29594,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_008.mp3",
+      "text": "ٱلسَّاعَةُ",
+      "translation": "kiamat",
+      "transliteration": "l-sāʿatu"
+    },
+    {
+      "id": 29595,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_009.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 29596,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_010.mp3",
+      "text": "يَخْسَرُ",
+      "translation": "rugilah",
+      "transliteration": "yakhsaru"
+    },
+    {
+      "id": 29597,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_027_011.mp3",
+      "text": "ٱلْمُبْطِلُونَ",
+      "translation": "orang-orang yang mengerjakan kebathilan",
+      "transliteration": "l-mub'ṭilūna"
+    },
+    {
+      "id": 29598,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan hanya kepunyaan Allah kerajaan langit dan bumi.  Dan pada hari terjadinya kebangkitan, akan rugilah pada hari itu orang-orang yang mengerjakan kebatilan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 449120,
+    "timestamp_to": 462960,
+    "duration": 13850,
+    "segments": [
+      [
+        1,
+        449055,
+        450295
+      ],
+      [
+        2,
+        450295,
+        450905
+      ],
+      [
+        3,
+        450905,
+        452365
+      ],
+      [
+        4,
+        452365,
+        453865
+      ],
+      [
+        5,
+        453865,
+        454595
+      ],
+      [
+        6,
+        454595,
+        455425
+      ],
+      [
+        7,
+        455425,
+        456485
+      ],
+      [
+        8,
+        456485,
+        458525
+      ],
+      [
+        9,
+        458525,
+        459245
+      ],
+      [
+        10,
+        459245,
+        462880
+      ]
+    ]
+  }
+}

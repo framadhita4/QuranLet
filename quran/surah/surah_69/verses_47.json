@@ -1,0 +1,112 @@
+{
+  "id": 5370,
+  "chapter_id": 69,
+  "verse_key": "69:47",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 46593,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_047_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 46594,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_047_002.mp3",
+      "text": "مِنكُم",
+      "translation": "dari kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 46595,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_047_003.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 46596,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_047_004.mp3",
+      "text": "أَحَدٍ",
+      "translation": "seorang",
+      "transliteration": "aḥadin"
+    },
+    {
+      "id": 46597,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_047_005.mp3",
+      "text": "عَنْهُ",
+      "translation": "daripadanya",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 46598,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_047_006.mp3",
+      "text": "حَـٰجِزِينَ",
+      "translation": "orang-orang yang menahan/menghalangi",
+      "transliteration": "ḥājizīna"
+    },
+    {
+      "id": 46599,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sekali-kali tidak ada seorang pun dari kamu yang dapat menghalangi (Kami), dari pemotongan urat nadi itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 354000,
+    "timestamp_to": 362520,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        353945,
+        354565
+      ],
+      [
+        2,
+        354565,
+        356265
+      ],
+      [
+        3,
+        356265,
+        357155
+      ],
+      [
+        4,
+        357155,
+        357975
+      ],
+      [
+        5,
+        357975,
+        358615
+      ],
+      [
+        6,
+        358615,
+        362390
+      ]
+    ]
+  }
+}

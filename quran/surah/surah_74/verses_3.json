@@ -1,0 +1,60 @@
+{
+  "id": 5498,
+  "chapter_id": 74,
+  "verse_key": "74:3",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَرَبَّكَ فَكَبِّرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 2622,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_003_001.mp3",
+      "text": "وَرَبَّكَ",
+      "translation": "dan Tuhanmu",
+      "transliteration": "warabbaka"
+    },
+    {
+      "id": 2623,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_003_002.mp3",
+      "text": "فَكَبِّرْ",
+      "translation": "maka besarkan/agungkan",
+      "transliteration": "fakabbir"
+    },
+    {
+      "id": 2624,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Tuhan-mu agungkanlah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7630,
+    "timestamp_to": 9980,
+    "duration": 2350,
+    "segments": [
+      [
+        1,
+        7575,
+        8535
+      ],
+      [
+        2,
+        8535,
+        9850
+      ]
+    ]
+  }
+}

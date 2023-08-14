@@ -1,0 +1,86 @@
+{
+  "id": 3842,
+  "chapter_id": 37,
+  "verse_key": "37:54",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 51486,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_054_001.mp3",
+      "text": "قَالَ",
+      "translation": "ia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 51487,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_054_002.mp3",
+      "text": "هَلْ",
+      "translation": "apakah/maukah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 51488,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_054_003.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 51489,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_054_004.mp3",
+      "text": "مُّطَّلِعُونَ",
+      "translation": "orang-orang yang melihat",
+      "transliteration": "muṭṭaliʿūna"
+    },
+    {
+      "id": 51490,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata pulalah ia, \"Maukah kamu meninjau (temanku itu)?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 458720,
+    "timestamp_to": 465690,
+    "duration": 6980,
+    "segments": [
+      [
+        1,
+        458645,
+        459405
+      ],
+      [
+        2,
+        459405,
+        459785
+      ],
+      [
+        3,
+        459785,
+        461165
+      ],
+      [
+        4,
+        461165,
+        465560
+      ]
+    ]
+  }
+}

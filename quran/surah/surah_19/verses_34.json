@@ -1,0 +1,151 @@
+{
+  "id": 2284,
+  "chapter_id": 19,
+  "verse_key": "19:34",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 307,
+  "juz_number": 16,
+  "text_uthmani": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 36312,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 36313,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_002.mp3",
+      "text": "عِيسَى",
+      "translation": "Isa",
+      "transliteration": "ʿīsā"
+    },
+    {
+      "id": 36314,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_003.mp3",
+      "text": "ٱبْنُ",
+      "translation": "putera",
+      "transliteration": "ub'nu"
+    },
+    {
+      "id": 36315,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_004.mp3",
+      "text": "مَرْيَمَ ۚ",
+      "translation": "Maryam",
+      "transliteration": "maryama"
+    },
+    {
+      "id": 36317,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_006.mp3",
+      "text": "قَوْلَ",
+      "translation": "perkataan",
+      "transliteration": "qawla"
+    },
+    {
+      "id": 36318,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_007.mp3",
+      "text": "ٱلْحَقِّ",
+      "translation": "benar",
+      "transliteration": "l-ḥaqi"
+    },
+    {
+      "id": 36319,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_008.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 36320,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_009.mp3",
+      "text": "فِيهِ",
+      "translation": "didalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 36321,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_034_010.mp3",
+      "text": "يَمْتَرُونَ",
+      "translation": "mereka perselisihkan",
+      "transliteration": "yamtarūna"
+    },
+    {
+      "id": 36322,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah ʻIsa putra Maryam, yang mengatakan perkataan yang benar, yang mereka berbantah-bantahan tentang kebenarannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 440010,
+    "timestamp_to": 450490,
+    "duration": 10480,
+    "segments": [
+      [
+        1,
+        439445,
+        440365
+      ],
+      [
+        2,
+        440365,
+        441125
+      ],
+      [
+        3,
+        441125,
+        441665
+      ],
+      [
+        4,
+        441665,
+        442755
+      ],
+      [
+        5,
+        442755,
+        443595
+      ],
+      [
+        6,
+        443595,
+        444655
+      ],
+      [
+        7,
+        444655,
+        445595
+      ],
+      [
+        8,
+        445595,
+        446415
+      ],
+      [
+        9,
+        446415,
+        449890
+      ]
+    ]
+  }
+}

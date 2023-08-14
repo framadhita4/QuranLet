@@ -1,0 +1,112 @@
+{
+  "id": 2704,
+  "chapter_id": 23,
+  "verse_key": "23:31",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 296,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 33509,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_031_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 33510,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_031_002.mp3",
+      "text": "أَنشَأْنَا",
+      "translation": "Kami tumbuhkan/ciptakan",
+      "transliteration": "anshanā"
+    },
+    {
+      "id": 33511,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_031_003.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 33512,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_031_004.mp3",
+      "text": "بَعْدِهِمْ",
+      "translation": "sesudah mereka",
+      "transliteration": "baʿdihim"
+    },
+    {
+      "id": 33513,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_031_005.mp3",
+      "text": "قَرْنًا",
+      "translation": "ummat/generasi",
+      "transliteration": "qarnan"
+    },
+    {
+      "id": 33514,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_031_006.mp3",
+      "text": "ءَاخَرِينَ",
+      "translation": "yang lain",
+      "transliteration": "ākharīna"
+    },
+    {
+      "id": 33515,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami jadikan sesudah mereka umat yang lain <sup foot_note_id=\"998\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 423740,
+    "timestamp_to": 432620,
+    "duration": 8880,
+    "segments": [
+      [
+        1,
+        423685,
+        425075
+      ],
+      [
+        2,
+        425075,
+        426925
+      ],
+      [
+        3,
+        426925,
+        428015
+      ],
+      [
+        4,
+        428015,
+        429055
+      ],
+      [
+        5,
+        429055,
+        429845
+      ],
+      [
+        6,
+        429845,
+        432520
+      ]
+    ]
+  }
+}

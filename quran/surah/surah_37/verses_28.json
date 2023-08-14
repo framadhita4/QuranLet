@@ -1,0 +1,112 @@
+{
+  "id": 3816,
+  "chapter_id": 37,
+  "verse_key": "37:28",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 31395,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_028_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 31396,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_028_002.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 31397,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_028_003.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 31398,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_028_004.mp3",
+      "text": "تَأْتُونَنَا",
+      "translation": "kamu datang kepada kami",
+      "transliteration": "tatūnanā"
+    },
+    {
+      "id": 31399,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_028_005.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 31400,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_028_006.mp3",
+      "text": "ٱلْيَمِينِ",
+      "translation": "kanan",
+      "transliteration": "l-yamīni"
+    },
+    {
+      "id": 31401,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pengikut-pengikut mereka berkata (kepada pemimpin-pemimpin mereka), \"Sesungguhnya kamulah yang datang kepada kami dari kanan\" <sup foot_note_id=\"1276\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 216280,
+    "timestamp_to": 226890,
+    "duration": 10610,
+    "segments": [
+      [
+        1,
+        216205,
+        218665
+      ],
+      [
+        2,
+        218665,
+        220205
+      ],
+      [
+        3,
+        220205,
+        221805
+      ],
+      [
+        4,
+        221805,
+        223285
+      ],
+      [
+        5,
+        223285,
+        223765
+      ],
+      [
+        6,
+        223765,
+        226730
+      ]
+    ]
+  }
+}

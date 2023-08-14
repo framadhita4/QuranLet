@@ -1,0 +1,99 @@
+{
+  "id": 4890,
+  "chapter_id": 54,
+  "verse_key": "54:44",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 44384,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_044_001.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 44385,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_044_002.mp3",
+      "text": "يَقُولُونَ",
+      "translation": "mereka mengatakan",
+      "transliteration": "yaqūlūna"
+    },
+    {
+      "id": 44386,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_044_003.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 44387,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_044_004.mp3",
+      "text": "جَمِيعٌۭ",
+      "translation": "semua/bersatu/golongan",
+      "transliteration": "jamīʿun"
+    },
+    {
+      "id": 44388,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_044_005.mp3",
+      "text": "مُّنتَصِرٌۭ",
+      "translation": "dapat menolong/menang",
+      "transliteration": "muntaṣirun"
+    },
+    {
+      "id": 44389,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau apakah mereka mengatakan, \"Kami adalah satu golongan yang bersatu yang pasti menang\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 398800,
+    "timestamp_to": 405930,
+    "duration": 7130,
+    "segments": [
+      [
+        1,
+        398735,
+        399175
+      ],
+      [
+        2,
+        399175,
+        400605
+      ],
+      [
+        3,
+        400605,
+        401275
+      ],
+      [
+        4,
+        401275,
+        402505
+      ],
+      [
+        5,
+        402505,
+        405810
+      ]
+    ]
+  }
+}

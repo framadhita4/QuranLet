@@ -1,0 +1,86 @@
+{
+  "id": 5401,
+  "chapter_id": 70,
+  "verse_key": "70:26",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 28995,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_026_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 28996,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_026_002.mp3",
+      "text": "يُصَدِّقُونَ",
+      "translation": "membenarkan/mempercayai",
+      "transliteration": "yuṣaddiqūna"
+    },
+    {
+      "id": 28997,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_026_003.mp3",
+      "text": "بِيَوْمِ",
+      "translation": "dengan hari",
+      "transliteration": "biyawmi"
+    },
+    {
+      "id": 28998,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_026_004.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 28999,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang mempercayai hari pembalasan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 140580,
+    "timestamp_to": 146560,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        140505,
+        141705
+      ],
+      [
+        2,
+        141705,
+        143015
+      ],
+      [
+        3,
+        143015,
+        143865
+      ],
+      [
+        4,
+        143865,
+        146430
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4885,
+  "chapter_id": 54,
+  "verse_key": "54:39",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 40518,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_039_001.mp3",
+      "text": "فَذُوقُوا۟",
+      "translation": "maka rasakanlah",
+      "transliteration": "fadhūqū"
+    },
+    {
+      "id": 40519,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_039_002.mp3",
+      "text": "عَذَابِى",
+      "translation": "azab-Ku",
+      "transliteration": "ʿadhābī"
+    },
+    {
+      "id": 40520,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_039_003.mp3",
+      "text": "وَنُذُرِ",
+      "translation": "dan peringatan",
+      "transliteration": "wanudhuri"
+    },
+    {
+      "id": 40521,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka rasakanlah azab-Ku dan ancaman-ancaman-Ku<sup foot_note_id=\"1438\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 355380,
+    "timestamp_to": 359060,
+    "duration": 3680,
+    "segments": [
+      [
+        1,
+        355335,
+        356495
+      ],
+      [
+        2,
+        356495,
+        357705
+      ],
+      [
+        3,
+        357705,
+        358960
+      ]
+    ]
+  }
+}

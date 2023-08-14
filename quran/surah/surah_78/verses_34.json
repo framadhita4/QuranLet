@@ -1,0 +1,60 @@
+{
+  "id": 5706,
+  "chapter_id": 78,
+  "verse_key": "78:34",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "وَكَأْسًا دِهَاقًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 36858,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_034_001.mp3",
+      "text": "وَكَأْسًۭا",
+      "translation": "dan piala/gelas-gelas",
+      "transliteration": "wakasan"
+    },
+    {
+      "id": 36859,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_034_002.mp3",
+      "text": "دِهَاقًۭا",
+      "translation": "yang penuh",
+      "transliteration": "dihāqan"
+    },
+    {
+      "id": 36860,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gelas-gelas yang penuh (berisi minuman).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 179770,
+    "timestamp_to": 183480,
+    "duration": 3710,
+    "segments": [
+      [
+        1,
+        179675,
+        181125
+      ],
+      [
+        2,
+        181125,
+        183310
+      ]
+    ]
+  }
+}

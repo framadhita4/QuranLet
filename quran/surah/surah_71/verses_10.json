@@ -1,0 +1,112 @@
+{
+  "id": 5429,
+  "chapter_id": 71,
+  "verse_key": "71:10",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 11535,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_010_001.mp3",
+      "text": "فَقُلْتُ",
+      "translation": "maka aku katakan",
+      "transliteration": "faqul'tu"
+    },
+    {
+      "id": 11536,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_010_002.mp3",
+      "text": "ٱسْتَغْفِرُوا۟",
+      "translation": "mohonlah ampun",
+      "transliteration": "is'taghfirū"
+    },
+    {
+      "id": 11537,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_010_003.mp3",
+      "text": "رَبَّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbakum"
+    },
+    {
+      "id": 11538,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_010_004.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 11539,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_010_005.mp3",
+      "text": "كَانَ",
+      "translation": "adalah dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 11540,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_010_006.mp3",
+      "text": "غَفَّارًۭا",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghaffāran"
+    },
+    {
+      "id": 11541,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka aku katakan kepada mereka, `Mohonlah ampun kepada Tuhan-mu, sesungguhnya Dia adalah Maha Pengampun,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 109000,
+    "timestamp_to": 116260,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        108935,
+        109715
+      ],
+      [
+        2,
+        109715,
+        110895
+      ],
+      [
+        3,
+        110895,
+        111765
+      ],
+      [
+        4,
+        111765,
+        113485
+      ],
+      [
+        5,
+        113485,
+        114155
+      ],
+      [
+        6,
+        114155,
+        116140
+      ]
+    ]
+  }
+}

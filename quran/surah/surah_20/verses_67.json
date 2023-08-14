@@ -1,0 +1,99 @@
+{
+  "id": 2415,
+  "chapter_id": 20,
+  "verse_key": "20:67",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 316,
+  "juz_number": 16,
+  "text_uthmani": "فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةً مُّوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 58115,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_067_001.mp3",
+      "text": "فَأَوْجَسَ",
+      "translation": "maka merasa",
+      "transliteration": "fa-awjasa"
+    },
+    {
+      "id": 58116,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_067_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 58117,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_067_003.mp3",
+      "text": "نَفْسِهِۦ",
+      "translation": "dirinya",
+      "transliteration": "nafsihi"
+    },
+    {
+      "id": 58118,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_067_004.mp3",
+      "text": "خِيفَةًۭ",
+      "translation": "takut",
+      "transliteration": "khīfatan"
+    },
+    {
+      "id": 58119,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_067_005.mp3",
+      "text": "مُّوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 58120,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Musa merasa takut dalam hatinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 648680,
+    "timestamp_to": 654640,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        648205,
+        649365
+      ],
+      [
+        2,
+        649365,
+        649885
+      ],
+      [
+        3,
+        649885,
+        650925
+      ],
+      [
+        4,
+        650925,
+        652055
+      ],
+      [
+        5,
+        652055,
+        653790
+      ]
+    ]
+  }
+}

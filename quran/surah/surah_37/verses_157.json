@@ -1,0 +1,99 @@
+{
+  "id": 3945,
+  "chapter_id": 37,
+  "verse_key": "37:157",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 81438,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_157_001.mp3",
+      "text": "فَأْتُوا۟",
+      "translation": "maka datangkan/bawalah",
+      "transliteration": "fatū"
+    },
+    {
+      "id": 81439,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_157_002.mp3",
+      "text": "بِكِتَـٰبِكُمْ",
+      "translation": "dengan kitabmu",
+      "transliteration": "bikitābikum"
+    },
+    {
+      "id": 81440,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_157_003.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 81441,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_157_004.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 81442,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_157_005.mp3",
+      "text": "صَـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "ṣādiqīna"
+    },
+    {
+      "id": 81443,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٥٧",
+      "translation": "(157)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bawalah kitabmu jika kamu memang orang-orang yang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1258370,
+    "timestamp_to": 1266570,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        1258295,
+        1259155
+      ],
+      [
+        2,
+        1259155,
+        1260615
+      ],
+      [
+        3,
+        1260615,
+        1260895
+      ],
+      [
+        4,
+        1260895,
+        1262915
+      ],
+      [
+        5,
+        1262915,
+        1266430
+      ]
+    ]
+  }
+}

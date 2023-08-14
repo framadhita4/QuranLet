@@ -1,0 +1,177 @@
+{
+  "id": 3519,
+  "chapter_id": 32,
+  "verse_key": "32:16",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "ruku_number": 361,
+  "manzil_number": 5,
+  "page_number": 416,
+  "juz_number": 21,
+  "text_uthmani": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 18856,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_001.mp3",
+      "text": "تَتَجَافَىٰ",
+      "translation": "menjauhkan",
+      "transliteration": "tatajāfā"
+    },
+    {
+      "id": 18857,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_002.mp3",
+      "text": "جُنُوبُهُمْ",
+      "translation": "lambung mereka",
+      "transliteration": "junūbuhum"
+    },
+    {
+      "id": 18858,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_003.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 18859,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_004.mp3",
+      "text": "ٱلْمَضَاجِعِ",
+      "translation": "tempat berbaring/tidur",
+      "transliteration": "l-maḍājiʿi"
+    },
+    {
+      "id": 18860,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_005.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka berdo'a",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 18861,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_006.mp3",
+      "text": "رَبَّهُمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbahum"
+    },
+    {
+      "id": 18862,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_007.mp3",
+      "text": "خَوْفًۭا",
+      "translation": "rasa takut",
+      "transliteration": "khawfan"
+    },
+    {
+      "id": 18863,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_008.mp3",
+      "text": "وَطَمَعًۭا",
+      "translation": "dan berharap",
+      "transliteration": "waṭamaʿan"
+    },
+    {
+      "id": 18864,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_009.mp3",
+      "text": "وَمِمَّا",
+      "translation": "dan dari apa/rezeki",
+      "transliteration": "wamimmā"
+    },
+    {
+      "id": 18865,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_010.mp3",
+      "text": "رَزَقْنَـٰهُمْ",
+      "translation": "Kami berikan rezeki mereka",
+      "transliteration": "razaqnāhum"
+    },
+    {
+      "id": 18866,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_016_011.mp3",
+      "text": "يُنفِقُونَ",
+      "translation": "mereka menafkahkan",
+      "transliteration": "yunfiqūna"
+    },
+    {
+      "id": 18867,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lambung mereka jauh dari tempat tidurnya<sup foot_note_id=\"1193\">1</sup>, sedang mereka berdoa kepada Tuhan-nya dengan rasa takut dan harap dan mereka menafkahkan sebagian dari rezeki yang kami berikan kepada mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 238690,
+    "timestamp_to": 254490,
+    "duration": 15810,
+    "segments": [
+      [
+        1,
+        238535,
+        239835
+      ],
+      [
+        2,
+        239835,
+        241035
+      ],
+      [
+        3,
+        241035,
+        241445
+      ],
+      [
+        4,
+        241445,
+        242715
+      ],
+      [
+        5,
+        242715,
+        243785
+      ],
+      [
+        6,
+        243785,
+        244725
+      ],
+      [
+        7,
+        244725,
+        245605
+      ],
+      [
+        8,
+        245605,
+        247655
+      ],
+      [
+        9,
+        247655,
+        249115
+      ],
+      [
+        10,
+        249115,
+        250605
+      ],
+      [
+        11,
+        250605,
+        254280
+      ]
+    ]
+  }
+}

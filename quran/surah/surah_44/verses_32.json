@@ -1,0 +1,112 @@
+{
+  "id": 4446,
+  "chapter_id": 44,
+  "verse_key": "44:32",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 434,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 34447,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_032_001.mp3",
+      "text": "وَلَقَدِ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqadi"
+    },
+    {
+      "id": 34448,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_032_002.mp3",
+      "text": "ٱخْتَرْنَـٰهُمْ",
+      "translation": "Kami telah memilih mereka",
+      "transliteration": "ikh'tarnāhum"
+    },
+    {
+      "id": 34449,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_032_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "dengan",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 34450,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_032_004.mp3",
+      "text": "عِلْمٍ",
+      "translation": "pengetahuan",
+      "transliteration": "ʿil'min"
+    },
+    {
+      "id": 34451,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_032_005.mp3",
+      "text": "عَلَى",
+      "translation": "di atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 34452,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_032_006.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "alam semesta",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 34453,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, telah Kami pilih mereka dengan pengetahuan (Kami) atas bangsa-bangsa <sup foot_note_id=\"1375\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 319980,
+    "timestamp_to": 328180,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        319915,
+        320815
+      ],
+      [
+        2,
+        320815,
+        322365
+      ],
+      [
+        3,
+        322365,
+        323025
+      ],
+      [
+        4,
+        323025,
+        323815
+      ],
+      [
+        5,
+        323815,
+        324285
+      ],
+      [
+        6,
+        324285,
+        328090
+      ]
+    ]
+  }
+}

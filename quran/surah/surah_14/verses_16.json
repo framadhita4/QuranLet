@@ -1,0 +1,125 @@
+{
+  "id": 1766,
+  "chapter_id": 14,
+  "verse_key": "14:16",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "page_number": 257,
+  "juz_number": 13,
+  "text_uthmani": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسْقَىٰ مِن مَّآءٍ صَدِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 18890,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_001.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 18891,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_002.mp3",
+      "text": "وَرَآئِهِۦ",
+      "translation": "belakangnya",
+      "transliteration": "warāihi"
+    },
+    {
+      "id": 18892,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_003.mp3",
+      "text": "جَهَنَّمُ",
+      "translation": "jahanam",
+      "transliteration": "jahannamu"
+    },
+    {
+      "id": 18893,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_004.mp3",
+      "text": "وَيُسْقَىٰ",
+      "translation": "dan dia akan diberi minum",
+      "transliteration": "wayus'qā"
+    },
+    {
+      "id": 18894,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_005.mp3",
+      "text": "مِن",
+      "translation": "dari/dengan",
+      "transliteration": "min"
+    },
+    {
+      "id": 18895,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_006.mp3",
+      "text": "مَّآءٍۢ",
+      "translation": "air",
+      "transliteration": "māin"
+    },
+    {
+      "id": 18896,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_016_007.mp3",
+      "text": "صَدِيدٍۢ",
+      "translation": "nanah",
+      "transliteration": "ṣadīdin"
+    },
+    {
+      "id": 18897,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di hadapannya ada Jahanam dan dia akan diberi minuman dengan air nanah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 391122,
+    "timestamp_to": 404942,
+    "duration": 14160,
+    "segments": [
+      [
+        1,
+        391985,
+        392455
+      ],
+      [
+        2,
+        392455,
+        396035
+      ],
+      [
+        3,
+        396035,
+        397725
+      ],
+      [
+        4,
+        397725,
+        398975
+      ],
+      [
+        5,
+        398975,
+        399255
+      ],
+      [
+        6,
+        399255,
+        403525
+      ],
+      [
+        7,
+        403525,
+        406100
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6109,
+  "chapter_id": 96,
+  "verse_key": "96:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 2566,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_003_001.mp3",
+      "text": "ٱقْرَأْ",
+      "translation": "bacalah",
+      "transliteration": "iq'ra"
+    },
+    {
+      "id": 2567,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_003_002.mp3",
+      "text": "وَرَبُّكَ",
+      "translation": "dan Tuhanmu",
+      "transliteration": "warabbuka"
+    },
+    {
+      "id": 2568,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_003_003.mp3",
+      "text": "ٱلْأَكْرَمُ",
+      "translation": "amat mulia",
+      "transliteration": "l-akramu"
+    },
+    {
+      "id": 2569,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bacalah, dan Tuhan-mulah Yang Maha Pemurah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 8800,
+    "timestamp_to": 12200,
+    "duration": 3400,
+    "segments": [
+      [
+        1,
+        8745,
+        9625
+      ],
+      [
+        2,
+        9625,
+        10555
+      ],
+      [
+        3,
+        10555,
+        12090
+      ]
+    ]
+  }
+}

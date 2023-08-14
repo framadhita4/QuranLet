@@ -1,0 +1,112 @@
+{
+  "id": 6001,
+  "chapter_id": 89,
+  "verse_key": "89:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 8855,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_008_001.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 8856,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_008_002.mp3",
+      "text": "لَمْ",
+      "translation": "tidak/belum",
+      "transliteration": "lam"
+    },
+    {
+      "id": 8857,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_008_003.mp3",
+      "text": "يُخْلَقْ",
+      "translation": "diciptakan/dibangun",
+      "transliteration": "yukh'laq"
+    },
+    {
+      "id": 8858,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_008_004.mp3",
+      "text": "مِثْلُهَا",
+      "translation": "seperti itu/serupa itu",
+      "transliteration": "mith'luhā"
+    },
+    {
+      "id": 8859,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_008_005.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 8860,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_008_006.mp3",
+      "text": "ٱلْبِلَـٰدِ",
+      "translation": "negeri",
+      "transliteration": "l-bilādi"
+    },
+    {
+      "id": 8861,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang belum pernah dibangun (suatu kota) seperti itu di negeri-negeri lain,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23830,
+    "timestamp_to": 30540,
+    "duration": 6710,
+    "segments": [
+      [
+        1,
+        23635,
+        24725
+      ],
+      [
+        2,
+        24725,
+        25125
+      ],
+      [
+        3,
+        25125,
+        25985
+      ],
+      [
+        4,
+        25985,
+        27085
+      ],
+      [
+        5,
+        27085,
+        27315
+      ],
+      [
+        6,
+        27315,
+        30290
+      ]
+    ]
+  }
+}

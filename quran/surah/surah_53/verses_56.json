@@ -1,0 +1,99 @@
+{
+  "id": 4840,
+  "chapter_id": 53,
+  "verse_key": "53:56",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 52182,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "Ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 52183,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_002.mp3",
+      "text": "نَذِيرٌۭ",
+      "translation": "pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 52184,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_003.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 52185,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_004.mp3",
+      "text": "ٱلنُّذُرِ",
+      "translation": "antara pemberi peringatan",
+      "transliteration": "l-nudhuri"
+    },
+    {
+      "id": 52186,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_005.mp3",
+      "text": "ٱلْأُولَىٰٓ",
+      "translation": "terdahulu",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 52187,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini (Muhammad) adalah seorang pemberi peringatan di antara pemberi-pemberi peringatan yang terdahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 428280,
+    "timestamp_to": 434630,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        428245,
+        429155
+      ],
+      [
+        2,
+        429155,
+        430035
+      ],
+      [
+        3,
+        430035,
+        431205
+      ],
+      [
+        4,
+        431205,
+        432965
+      ],
+      [
+        5,
+        432965,
+        434180
+      ]
+    ]
+  }
+}

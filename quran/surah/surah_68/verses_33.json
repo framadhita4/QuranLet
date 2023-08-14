@@ -1,0 +1,138 @@
+{
+  "id": 5304,
+  "chapter_id": 68,
+  "verse_key": "68:33",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 35814,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 35815,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_002.mp3",
+      "text": "ٱلْعَذَابُ ۖ",
+      "translation": "siksaan/azab",
+      "transliteration": "l-ʿadhābu"
+    },
+    {
+      "id": 35817,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_004.mp3",
+      "text": "وَلَعَذَابُ",
+      "translation": "dan sungguh siksaan/azab",
+      "transliteration": "walaʿadhābu"
+    },
+    {
+      "id": 35818,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_005.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 35819,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_006.mp3",
+      "text": "أَكْبَرُ ۚ",
+      "translation": "lebih besar",
+      "transliteration": "akbaru"
+    },
+    {
+      "id": 35821,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_008.mp3",
+      "text": "لَوْ",
+      "translation": "jika",
+      "transliteration": "law"
+    },
+    {
+      "id": 35822,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_009.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 35823,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_033_010.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 35824,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Seperti itulah azab (dunia).  Dan sesungguhnya azab akhirat lebih besar jika mereka mengetahui<sup foot_note_id=\"1496\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 254590,
+    "timestamp_to": 268410,
+    "duration": 13820,
+    "segments": [
+      [
+        1,
+        254485,
+        255515
+      ],
+      [
+        2,
+        255515,
+        258555
+      ],
+      [
+        3,
+        258555,
+        260085
+      ],
+      [
+        4,
+        260085,
+        261335
+      ],
+      [
+        5,
+        261335,
+        262565
+      ],
+      [
+        6,
+        262565,
+        263015
+      ],
+      [
+        7,
+        263015,
+        263925
+      ],
+      [
+        8,
+        263925,
+        268230
+      ]
+    ]
+  }
+}

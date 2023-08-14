@@ -1,0 +1,125 @@
+{
+  "id": 6197,
+  "chapter_id": 106,
+  "verse_key": "106:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 550,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3",
+  "words": [
+    {
+      "id": 3906,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_001.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 3907,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_002.mp3",
+      "text": "أَطْعَمَهُم",
+      "translation": "Dia memberi makan mereka",
+      "transliteration": "aṭʿamahum"
+    },
+    {
+      "id": 3908,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 3909,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_004.mp3",
+      "text": "جُوعٍۢ",
+      "translation": "kelaparan",
+      "transliteration": "jūʿin"
+    },
+    {
+      "id": 3910,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_005.mp3",
+      "text": "وَءَامَنَهُم",
+      "translation": "dan Dia memberikan keamanan mereka",
+      "transliteration": "waāmanahum"
+    },
+    {
+      "id": 3911,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_006.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 3912,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_004_007.mp3",
+      "text": "خَوْفٍۭ",
+      "translation": "ketakutan",
+      "transliteration": "khawfin"
+    },
+    {
+      "id": 3913,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19440,
+    "timestamp_to": 33000,
+    "duration": 13560,
+    "segments": [
+      [
+        1,
+        19005,
+        21305
+      ],
+      [
+        2,
+        21305,
+        22435
+      ],
+      [
+        3,
+        22435,
+        23585
+      ],
+      [
+        4,
+        23585,
+        26265
+      ],
+      [
+        5,
+        26265,
+        27725
+      ],
+      [
+        6,
+        27725,
+        28945
+      ],
+      [
+        7,
+        28945,
+        31260
+      ]
+    ]
+  }
+}

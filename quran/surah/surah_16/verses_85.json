@@ -1,0 +1,177 @@
+{
+  "id": 1986,
+  "chapter_id": 16,
+  "verse_key": "16:85",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "ruku_number": 235,
+  "manzil_number": 3,
+  "page_number": 276,
+  "juz_number": 14,
+  "text_uthmani": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 66000,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan ketika",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 66001,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_002.mp3",
+      "text": "رَءَا",
+      "translation": "menyaksikan",
+      "transliteration": "raā"
+    },
+    {
+      "id": 66002,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 66003,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_004.mp3",
+      "text": "ظَلَمُوا۟",
+      "translation": "(mereka) zalim",
+      "transliteration": "ẓalamū"
+    },
+    {
+      "id": 66004,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_005.mp3",
+      "text": "ٱلْعَذَابَ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhāba"
+    },
+    {
+      "id": 66005,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_006.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 66006,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_007.mp3",
+      "text": "يُخَفَّفُ",
+      "translation": "diringankan",
+      "transliteration": "yukhaffafu"
+    },
+    {
+      "id": 66007,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_008.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 66008,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 66009,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_010.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 66010,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_085_011.mp3",
+      "text": "يُنظَرُونَ",
+      "translation": "mereka diberi tangguh",
+      "transliteration": "yunẓarūna"
+    },
+    {
+      "id": 66011,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila orang-orang zalim telah menyaksikan azab, maka tidaklah diringankan azab bagi mereka dan tidak puIa mereka diberi tangguh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1656970,
+    "timestamp_to": 1669090,
+    "duration": 12120,
+    "segments": [
+      [
+        1,
+        1656945,
+        1657845
+      ],
+      [
+        2,
+        1657845,
+        1658285
+      ],
+      [
+        3,
+        1658285,
+        1659455
+      ],
+      [
+        4,
+        1659455,
+        1660165
+      ],
+      [
+        5,
+        1660165,
+        1661335
+      ],
+      [
+        6,
+        1661335,
+        1662055
+      ],
+      [
+        7,
+        1662055,
+        1663245
+      ],
+      [
+        8,
+        1663245,
+        1664195
+      ],
+      [
+        9,
+        1664195,
+        1664945
+      ],
+      [
+        10,
+        1664945,
+        1665385
+      ],
+      [
+        11,
+        1665385,
+        1669000
+      ]
+    ]
+  }
+}

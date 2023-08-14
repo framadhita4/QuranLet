@@ -1,0 +1,73 @@
+{
+  "id": 6115,
+  "chapter_id": 96,
+  "verse_key": "96:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 10404,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_009_001.mp3",
+      "text": "أَرَءَيْتَ",
+      "translation": "apakah kamu lihat/pendapatmu",
+      "transliteration": "ara-ayta"
+    },
+    {
+      "id": 10405,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_009_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang/orang-orang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 10406,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_009_003.mp3",
+      "text": "يَنْهَىٰ",
+      "translation": "ia melarang",
+      "transliteration": "yanhā"
+    },
+    {
+      "id": 10407,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bagaimana pendapatmu tentang orang yang melarang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 35110,
+    "timestamp_to": 38350,
+    "duration": 3240,
+    "segments": [
+      [
+        1,
+        34625,
+        35695
+      ],
+      [
+        2,
+        35695,
+        36605
+      ],
+      [
+        3,
+        36605,
+        37540
+      ]
+    ]
+  }
+}

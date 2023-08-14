@@ -1,0 +1,86 @@
+{
+  "id": 4847,
+  "chapter_id": 54,
+  "verse_key": "54:1",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": " ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 292,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_001_001.mp3",
+      "text": "ٱقْتَرَبَتِ",
+      "translation": "Telah dekat",
+      "transliteration": "iq'tarabati"
+    },
+    {
+      "id": 293,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_001_002.mp3",
+      "text": "ٱلسَّاعَةُ",
+      "translation": "saat itu",
+      "transliteration": "l-sāʿatu"
+    },
+    {
+      "id": 294,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_001_003.mp3",
+      "text": "وَٱنشَقَّ",
+      "translation": "telah terbelah",
+      "transliteration": "wa-inshaqqa"
+    },
+    {
+      "id": 295,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_001_004.mp3",
+      "text": "ٱلْقَمَرُ",
+      "translation": "bulan",
+      "transliteration": "l-qamaru"
+    },
+    {
+      "id": 296,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Telah dekat (datangnya) saat itu dan telah terbelah bulan<sup foot_note_id=\"1435\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 5750,
+    "duration": 5750,
+    "segments": [
+      [
+        1,
+        0,
+        1370
+      ],
+      [
+        2,
+        1370,
+        2650
+      ],
+      [
+        3,
+        2650,
+        4410
+      ],
+      [
+        4,
+        4410,
+        5685
+      ]
+    ]
+  }
+}

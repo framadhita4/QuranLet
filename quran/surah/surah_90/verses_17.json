@@ -1,0 +1,151 @@
+{
+  "id": 6040,
+  "chapter_id": 90,
+  "verse_key": "90:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 19961,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 19962,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah ia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 19963,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 19964,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_004.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 19965,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_005.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 19966,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_006.mp3",
+      "text": "وَتَوَاصَوْا۟",
+      "translation": "dan mereka saling berwasiat/berpesan",
+      "transliteration": "watawāṣaw"
+    },
+    {
+      "id": 19967,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_007.mp3",
+      "text": "بِٱلصَّبْرِ",
+      "translation": "dengan kesabaran",
+      "transliteration": "bil-ṣabri"
+    },
+    {
+      "id": 19968,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_008.mp3",
+      "text": "وَتَوَاصَوْا۟",
+      "translation": "dan mereka saling berwasiat/berpesan",
+      "transliteration": "watawāṣaw"
+    },
+    {
+      "id": 19969,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_017_009.mp3",
+      "text": "بِٱلْمَرْحَمَةِ",
+      "translation": "dengan kasih-sayang",
+      "transliteration": "bil-marḥamati"
+    },
+    {
+      "id": 19970,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 77480,
+    "timestamp_to": 87690,
+    "duration": 10210,
+    "segments": [
+      [
+        1,
+        77405,
+        78485
+      ],
+      [
+        2,
+        78485,
+        79115
+      ],
+      [
+        3,
+        79115,
+        79545
+      ],
+      [
+        4,
+        79545,
+        80695
+      ],
+      [
+        5,
+        80695,
+        81885
+      ],
+      [
+        6,
+        81885,
+        83145
+      ],
+      [
+        7,
+        83145,
+        84195
+      ],
+      [
+        8,
+        84195,
+        85525
+      ],
+      [
+        9,
+        85525,
+        87580
+      ]
+    ]
+  }
+}

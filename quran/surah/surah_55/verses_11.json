@@ -1,0 +1,99 @@
+{
+  "id": 4912,
+  "chapter_id": 55,
+  "verse_key": "55:11",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 12493,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_011_001.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya/padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 12494,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_011_002.mp3",
+      "text": "فَـٰكِهَةٌۭ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatun"
+    },
+    {
+      "id": 12495,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_011_003.mp3",
+      "text": "وَٱلنَّخْلُ",
+      "translation": "dan pohon kurma",
+      "transliteration": "wal-nakhlu"
+    },
+    {
+      "id": 12496,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_011_004.mp3",
+      "text": "ذَاتُ",
+      "translation": "yang mempunyai",
+      "transliteration": "dhātu"
+    },
+    {
+      "id": 12497,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_011_005.mp3",
+      "text": "ٱلْأَكْمَامِ",
+      "translation": "kelopak mayang",
+      "transliteration": "l-akmāmi"
+    },
+    {
+      "id": 12498,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di bumi itu ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 61340,
+    "timestamp_to": 71030,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        61095,
+        62085
+      ],
+      [
+        2,
+        62085,
+        63185
+      ],
+      [
+        3,
+        63185,
+        66005
+      ],
+      [
+        4,
+        66005,
+        66705
+      ],
+      [
+        5,
+        66705,
+        70470
+      ]
+    ]
+  }
+}

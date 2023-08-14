@@ -1,0 +1,86 @@
+{
+  "id": 5586,
+  "chapter_id": 75,
+  "verse_key": "75:35",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 37354,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_035_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 37355,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_035_002.mp3",
+      "text": "أَوْلَىٰ",
+      "translation": "lebih utama/kecelakaan",
+      "transliteration": "awlā"
+    },
+    {
+      "id": 37356,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_035_003.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 37357,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_035_004.mp3",
+      "text": "فَأَوْلَىٰٓ",
+      "translation": "maka lebih utama/kecelakaan",
+      "transliteration": "fa-awlā"
+    },
+    {
+      "id": 37358,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian kecelakaanlah bagimu (hai orang kafir) dan kecelakaanlah bagimu<sup foot_note_id=\"1535\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 167820,
+    "timestamp_to": 171840,
+    "duration": 4020,
+    "segments": [
+      [
+        1,
+        167435,
+        168655
+      ],
+      [
+        2,
+        168655,
+        169525
+      ],
+      [
+        3,
+        169525,
+        169855
+      ],
+      [
+        4,
+        169855,
+        171030
+      ]
+    ]
+  }
+}

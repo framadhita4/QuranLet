@@ -1,0 +1,138 @@
+{
+  "id": 12,
+  "chapter_id": 2,
+  "verse_key": "2:5",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 2,
+  "manzil_number": 1,
+  "page_number": 2,
+  "juz_number": 1,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 5544,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 5545,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 5546,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_003.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 5547,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 5548,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_005.mp3",
+      "text": "رَّبِّهِمْ ۖ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 5550,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_007.mp3",
+      "text": "وَأُو۟لَـٰٓئِكَ",
+      "translation": "dan mereka itu",
+      "transliteration": "wa-ulāika"
+    },
+    {
+      "id": 5551,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_008.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 5552,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_005_009.mp3",
+      "text": "ٱلْمُفْلِحُونَ",
+      "translation": "orang-orang yang beruntung",
+      "transliteration": "l-muf'liḥūna"
+    },
+    {
+      "id": 5553,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka itulah yang tetap mendapat petunjuk dari Tuhan mereka, dan merekalah orang-orang yang beruntung<sup foot_note_id=\"19\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 43890,
+    "timestamp_to": 55250,
+    "duration": 11360,
+    "segments": [
+      [
+        1,
+        43815,
+        46364
+      ],
+      [
+        2,
+        46365,
+        46915
+      ],
+      [
+        3,
+        46915,
+        47375
+      ],
+      [
+        4,
+        47375,
+        48105
+      ],
+      [
+        5,
+        48105,
+        49355
+      ],
+      [
+        6,
+        49355,
+        51855
+      ],
+      [
+        7,
+        51855,
+        52145
+      ],
+      [
+        8,
+        52145,
+        55130
+      ]
+    ]
+  }
+}

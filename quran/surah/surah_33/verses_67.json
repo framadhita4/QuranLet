@@ -1,0 +1,138 @@
+{
+  "id": 3600,
+  "chapter_id": 33,
+  "verse_key": "33:67",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "ruku_number": 370,
+  "manzil_number": 5,
+  "page_number": 427,
+  "juz_number": 22,
+  "text_uthmani": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 58336,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_001.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 58337,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_002.mp3",
+      "text": "رَبَّنَآ",
+      "translation": "Tuhanku",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 58338,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_003.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 58339,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_004.mp3",
+      "text": "أَطَعْنَا",
+      "translation": "kami mentaati",
+      "transliteration": "aṭaʿnā"
+    },
+    {
+      "id": 58340,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_005.mp3",
+      "text": "سَادَتَنَا",
+      "translation": "pemimpin-pemimpin kami",
+      "transliteration": "sādatanā"
+    },
+    {
+      "id": 58341,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_006.mp3",
+      "text": "وَكُبَرَآءَنَا",
+      "translation": "dan pembesar-pembesar kami",
+      "transliteration": "wakubarāanā"
+    },
+    {
+      "id": 58342,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_007.mp3",
+      "text": "فَأَضَلُّونَا",
+      "translation": "lalu mereka menyesatkan kami",
+      "transliteration": "fa-aḍallūnā"
+    },
+    {
+      "id": 58343,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_067_008.mp3",
+      "text": "ٱلسَّبِيلَا۠",
+      "translation": "jalan",
+      "transliteration": "l-sabīlā"
+    },
+    {
+      "id": 58344,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka berkata, \"Ya Tuhan kami, sesungguhnya kami telah menaati pemimpin-pemimpin dan pembesar-pembesar kami, lalu mereka menyesatkan kami dari jalan (yang benar).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1479680,
+    "timestamp_to": 1493890,
+    "duration": 14210,
+    "segments": [
+      [
+        1,
+        1479655,
+        1480755
+      ],
+      [
+        2,
+        1480755,
+        1482495
+      ],
+      [
+        3,
+        1482495,
+        1484225
+      ],
+      [
+        5,
+        1484225,
+        1485745
+      ],
+      [
+        5,
+        1485745,
+        1487805
+      ],
+      [
+        6,
+        1487805,
+        1490665
+      ],
+      [
+        7,
+        1490665,
+        1492105
+      ],
+      [
+        8,
+        1492105,
+        1493790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2616,
+  "chapter_id": 22,
+  "verse_key": "22:21",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "ruku_number": 286,
+  "manzil_number": 4,
+  "page_number": 334,
+  "juz_number": 17,
+  "text_uthmani": "وَلَهُم مَّقَـٰمِعُ مِنْ حَدِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 23886,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_021_001.mp3",
+      "text": "وَلَهُم",
+      "translation": "dan untuk mereka",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 23887,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_021_002.mp3",
+      "text": "مَّقَـٰمِعُ",
+      "translation": "cambuk-cambuk",
+      "transliteration": "maqāmiʿu"
+    },
+    {
+      "id": 23888,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_021_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 23889,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_021_004.mp3",
+      "text": "حَدِيدٍۢ",
+      "translation": "besi",
+      "transliteration": "ḥadīdin"
+    },
+    {
+      "id": 23890,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan untuk mereka cambuk-cambuk dari besi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 486160,
+    "timestamp_to": 492270,
+    "duration": 6110,
+    "segments": [
+      [
+        1,
+        486105,
+        487745
+      ],
+      [
+        2,
+        487745,
+        489195
+      ],
+      [
+        3,
+        489195,
+        489615
+      ],
+      [
+        4,
+        489615,
+        492170
+      ]
+    ]
+  }
+}

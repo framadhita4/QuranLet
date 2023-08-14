@@ -1,0 +1,374 @@
+{
+  "id": 319,
+  "chapter_id": 3,
+  "verse_key": "3:26",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "ruku_number": 44,
+  "manzil_number": 1,
+  "page_number": 53,
+  "juz_number": 3,
+  "text_uthmani": "قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 28942,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_001.mp3",
+      "text": "قُلِ",
+      "translation": "katakanlah",
+      "transliteration": "quli"
+    },
+    {
+      "id": 28943,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_002.mp3",
+      "text": "ٱللَّهُمَّ",
+      "translation": "ya Tuhan",
+      "transliteration": "l-lahuma"
+    },
+    {
+      "id": 28944,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_003.mp3",
+      "text": "مَـٰلِكَ",
+      "translation": "yang merajai/mempunyai",
+      "transliteration": "mālika"
+    },
+    {
+      "id": 28945,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_004.mp3",
+      "text": "ٱلْمُلْكِ",
+      "translation": "kerajaan",
+      "transliteration": "l-mul'ki"
+    },
+    {
+      "id": 28946,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_005.mp3",
+      "text": "تُؤْتِى",
+      "translation": "Engkau beri",
+      "transliteration": "tu'tī"
+    },
+    {
+      "id": 28947,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_006.mp3",
+      "text": "ٱلْمُلْكَ",
+      "translation": "kerajaan",
+      "transliteration": "l-mul'ka"
+    },
+    {
+      "id": 28948,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_007.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 28949,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_008.mp3",
+      "text": "تَشَآءُ",
+      "translation": "Engkau kehendaki",
+      "transliteration": "tashāu"
+    },
+    {
+      "id": 28950,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_009.mp3",
+      "text": "وَتَنزِعُ",
+      "translation": "dan Engkau cabut",
+      "transliteration": "watanziʿu"
+    },
+    {
+      "id": 28951,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_010.mp3",
+      "text": "ٱلْمُلْكَ",
+      "translation": "kerajaan",
+      "transliteration": "l-mul'ka"
+    },
+    {
+      "id": 28952,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_011.mp3",
+      "text": "مِمَّن",
+      "translation": "dari orang",
+      "transliteration": "mimman"
+    },
+    {
+      "id": 28953,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_012.mp3",
+      "text": "تَشَآءُ",
+      "translation": "Engkau kehendaki",
+      "transliteration": "tashāu"
+    },
+    {
+      "id": 28954,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_013.mp3",
+      "text": "وَتُعِزُّ",
+      "translation": "dan Engkau muliakan",
+      "transliteration": "watuʿizzu"
+    },
+    {
+      "id": 28955,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_014.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 28956,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_015.mp3",
+      "text": "تَشَآءُ",
+      "translation": "Engkau kehendaki",
+      "transliteration": "tashāu"
+    },
+    {
+      "id": 28957,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_016.mp3",
+      "text": "وَتُذِلُّ",
+      "translation": "dan Engkau hinakan",
+      "transliteration": "watudhillu"
+    },
+    {
+      "id": 28958,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_017.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 28959,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_018.mp3",
+      "text": "تَشَآءُ ۖ",
+      "translation": "Engkau kehendaki",
+      "transliteration": "tashāu"
+    },
+    {
+      "id": 28961,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_020.mp3",
+      "text": "بِيَدِكَ",
+      "translation": "dengan tangan Engkau",
+      "transliteration": "biyadika"
+    },
+    {
+      "id": 28962,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_021.mp3",
+      "text": "ٱلْخَيْرُ ۖ",
+      "translation": "kebaikan",
+      "transliteration": "l-khayru"
+    },
+    {
+      "id": 28964,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_023.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya Engkau",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 28965,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_024.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 28966,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_025.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 28967,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_026.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 28968,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_026_027.mp3",
+      "text": "قَدِيرٌۭ",
+      "translation": "Maha Kuasa",
+      "transliteration": "qadīrun"
+    },
+    {
+      "id": 28969,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Wahai Tuhan Yang mempunyai kerajaan, Engkau berikan kerajaan kepada orang yang Engkau kehendaki dan Engkau cabut kerajaan dari orang yang Engkau kehendaki.  Engkau muliakan orang yang Engkau kehendaki dan Engkau hinakan orang yang Engkau kehendaki.  Di tangan Engkau-lah segala kebajikan.  Sesungguhnya Engkau Maha Kuasa atas segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 560500,
+    "timestamp_to": 600420,
+    "duration": 39920,
+    "segments": [
+      [
+        1,
+        560475,
+        560985
+      ],
+      [
+        2,
+        560985,
+        563175
+      ],
+      [
+        3,
+        563175,
+        563985
+      ],
+      [
+        4,
+        563985,
+        564865
+      ],
+      [
+        5,
+        564865,
+        565465
+      ],
+      [
+        6,
+        565465,
+        566295
+      ],
+      [
+        7,
+        566295,
+        566785
+      ],
+      [
+        8,
+        566785,
+        569815
+      ],
+      [
+        9,
+        569815,
+        571385
+      ],
+      [
+        10,
+        571385,
+        572225
+      ],
+      [
+        11,
+        572225,
+        573305
+      ],
+      [
+        12,
+        573305,
+        576445
+      ],
+      [
+        13,
+        576445,
+        577415
+      ],
+      [
+        14,
+        577415,
+        577845
+      ],
+      [
+        15,
+        577845,
+        581314
+      ],
+      [
+        13,
+        581315,
+        582905
+      ],
+      [
+        14,
+        582905,
+        583815
+      ],
+      [
+        15,
+        583815,
+        586025
+      ],
+      [
+        16,
+        586025,
+        586995
+      ],
+      [
+        17,
+        586995,
+        587485
+      ],
+      [
+        18,
+        587485,
+        590204
+      ],
+      [
+        19,
+        590205,
+        591415
+      ],
+      [
+        20,
+        591415,
+        592785
+      ],
+      [
+        21,
+        592785,
+        595095
+      ],
+      [
+        22,
+        595095,
+        595685
+      ],
+      [
+        23,
+        595685,
+        596305
+      ],
+      [
+        24,
+        596305,
+        597835
+      ],
+      [
+        25,
+        597835,
+        600370
+      ]
+    ]
+  }
+}

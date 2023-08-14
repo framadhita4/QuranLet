@@ -1,0 +1,164 @@
+{
+  "id": 800,
+  "chapter_id": 6,
+  "verse_key": "6:11",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "ruku_number": 103,
+  "manzil_number": 2,
+  "page_number": 129,
+  "juz_number": 7,
+  "text_uthmani": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 13104,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 13105,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_002.mp3",
+      "text": "سِيرُوا۟",
+      "translation": "berjalanlah kamu",
+      "transliteration": "sīrū"
+    },
+    {
+      "id": 13106,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 13107,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_004.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "muka bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 13108,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_005.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 13109,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_006.mp3",
+      "text": "ٱنظُرُوا۟",
+      "translation": "perhatikanlah",
+      "transliteration": "unẓurū"
+    },
+    {
+      "id": 13110,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_007.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 13111,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_008.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 13112,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_009.mp3",
+      "text": "عَـٰقِبَةُ",
+      "translation": "akibat/kesudahan",
+      "transliteration": "ʿāqibatu"
+    },
+    {
+      "id": 13113,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_011_010.mp3",
+      "text": "ٱلْمُكَذِّبِينَ",
+      "translation": "orang-orang yang mendustakan",
+      "transliteration": "l-mukadhibīna"
+    },
+    {
+      "id": 13114,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Berjalanlah di muka bumi, kemudian perhatikanlah bagaimana kesudahan orang-orang yang mendustakan itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 202720,
+    "timestamp_to": 214340,
+    "duration": 11630,
+    "segments": [
+      [
+        1,
+        202665,
+        203055
+      ],
+      [
+        2,
+        203055,
+        203925
+      ],
+      [
+        3,
+        203925,
+        204155
+      ],
+      [
+        4,
+        204155,
+        204985
+      ],
+      [
+        5,
+        204985,
+        206055
+      ],
+      [
+        6,
+        206055,
+        207585
+      ],
+      [
+        7,
+        207585,
+        208245
+      ],
+      [
+        8,
+        208245,
+        208865
+      ],
+      [
+        9,
+        208865,
+        209945
+      ],
+      [
+        10,
+        209945,
+        214230
+      ]
+    ]
+  }
+}

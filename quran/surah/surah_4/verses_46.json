@@ -1,0 +1,558 @@
+{
+  "id": 539,
+  "chapter_id": 4,
+  "verse_key": "4:46",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "ruku_number": 68,
+  "manzil_number": 1,
+  "page_number": 86,
+  "juz_number": 5,
+  "text_uthmani": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَـٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 45774,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_001.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 45775,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 45776,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_003.mp3",
+      "text": "هَادُوا۟",
+      "translation": "Yahudi",
+      "transliteration": "hādū"
+    },
+    {
+      "id": 45777,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_004.mp3",
+      "text": "يُحَرِّفُونَ",
+      "translation": "mereka merubah",
+      "transliteration": "yuḥarrifūna"
+    },
+    {
+      "id": 45778,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_005.mp3",
+      "text": "ٱلْكَلِمَ",
+      "translation": "perkataan",
+      "transliteration": "l-kalima"
+    },
+    {
+      "id": 45779,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_006.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 45780,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_007.mp3",
+      "text": "مَّوَاضِعِهِۦ",
+      "translation": "tempat-tempatnya",
+      "transliteration": "mawāḍiʿihi"
+    },
+    {
+      "id": 45781,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_008.mp3",
+      "text": "وَيَقُولُونَ",
+      "translation": "dan mereka berkata",
+      "transliteration": "wayaqūlūna"
+    },
+    {
+      "id": 45782,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_009.mp3",
+      "text": "سَمِعْنَا",
+      "translation": "kami mendengar",
+      "transliteration": "samiʿ'nā"
+    },
+    {
+      "id": 45783,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_010.mp3",
+      "text": "وَعَصَيْنَا",
+      "translation": "dan/tetapi kami mendurhakai",
+      "transliteration": "waʿaṣaynā"
+    },
+    {
+      "id": 45784,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_011.mp3",
+      "text": "وَٱسْمَعْ",
+      "translation": "dan dengarlah",
+      "transliteration": "wa-is'maʿ"
+    },
+    {
+      "id": 45785,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_012.mp3",
+      "text": "غَيْرَ",
+      "translation": "tidak/bukan",
+      "transliteration": "ghayra"
+    },
+    {
+      "id": 45786,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_013.mp3",
+      "text": "مُسْمَعٍۢ",
+      "translation": "mendengar",
+      "transliteration": "mus'maʿin"
+    },
+    {
+      "id": 45787,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_014.mp3",
+      "text": "وَرَٰعِنَا",
+      "translation": "dan peliharalah kami",
+      "transliteration": "warāʿinā"
+    },
+    {
+      "id": 45788,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_015.mp3",
+      "text": "لَيًّۢا",
+      "translation": "memutar-mutar",
+      "transliteration": "layyan"
+    },
+    {
+      "id": 45789,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_016.mp3",
+      "text": "بِأَلْسِنَتِهِمْ",
+      "translation": "dengan lidah mereka",
+      "transliteration": "bi-alsinatihim"
+    },
+    {
+      "id": 45790,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_017.mp3",
+      "text": "وَطَعْنًۭا",
+      "translation": "dan mencela",
+      "transliteration": "waṭaʿnan"
+    },
+    {
+      "id": 45791,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_018.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 45792,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_019.mp3",
+      "text": "ٱلدِّينِ ۚ",
+      "translation": "agama",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 45794,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_021.mp3",
+      "text": "وَلَوْ",
+      "translation": "dan sekiranya",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 45795,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_022.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "bahwasanya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 45796,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_023.mp3",
+      "text": "قَالُوا۟",
+      "translation": "(mereka) berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 45797,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_024.mp3",
+      "text": "سَمِعْنَا",
+      "translation": "kami mendengar",
+      "transliteration": "samiʿ'nā"
+    },
+    {
+      "id": 45798,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_025.mp3",
+      "text": "وَأَطَعْنَا",
+      "translation": "dan kami mentaati",
+      "transliteration": "wa-aṭaʿnā"
+    },
+    {
+      "id": 45799,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_026.mp3",
+      "text": "وَٱسْمَعْ",
+      "translation": "dan dengarkan",
+      "transliteration": "wa-is'maʿ"
+    },
+    {
+      "id": 45800,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_027.mp3",
+      "text": "وَٱنظُرْنَا",
+      "translation": "dan perhatikanlah kami",
+      "transliteration": "wa-unẓur'nā"
+    },
+    {
+      "id": 45801,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_028.mp3",
+      "text": "لَكَانَ",
+      "translation": "tentu itu adalah",
+      "transliteration": "lakāna"
+    },
+    {
+      "id": 45802,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_029.mp3",
+      "text": "خَيْرًۭا",
+      "translation": "lebih baik",
+      "transliteration": "khayran"
+    },
+    {
+      "id": 45803,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_030.mp3",
+      "text": "لَّهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 45804,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_031.mp3",
+      "text": "وَأَقْوَمَ",
+      "translation": "dan lebih tepat",
+      "transliteration": "wa-aqwama"
+    },
+    {
+      "id": 45805,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_032.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "akan tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 45806,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_033.mp3",
+      "text": "لَّعَنَهُمُ",
+      "translation": "mengutuk mereka",
+      "transliteration": "laʿanahumu"
+    },
+    {
+      "id": 45807,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_034.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 45808,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_035.mp3",
+      "text": "بِكُفْرِهِمْ",
+      "translation": "dengan/karena kekafiran mereka",
+      "transliteration": "bikuf'rihim"
+    },
+    {
+      "id": 45809,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_036.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 45810,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_037.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 45811,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_038.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 45812,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_046_039.mp3",
+      "text": "قَلِيلًۭا",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 45813,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yaitu orang-orang Yahudi, mereka mengubah perkataan dari tempat-tempatnya<sup foot_note_id=\"303\">1</sup>. Mereka berkata, \"Kami mendengar, tetapi kami tidak mau menurutinya<sup foot_note_id=\"304\">2</sup>\".  Dan (mereka mengatakan pula), \"Dengarlah\", sedang kamu sebenarnya tidak mendengar apa-apa<sup foot_note_id=\"305\">3</sup>.  Dan (mereka mengatakan), \"Rā`inā\", dengan memutar-mutar lidahnya dan mencela agama. Sekiranya mereka mengatakan, \"Kami mendengar dan patuh, dan dengarlah, dan perhatikanlah kami\", tentulah itu lebih baik bagi mereka dan lebih tepat, akan tetapi Allah mengutuk mereka karena kekafiran mereka. Mereka tidak beriman kecuali iman yang sangat tipis.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1469010,
+    "timestamp_to": 1517730,
+    "duration": 48720,
+    "segments": [
+      [
+        1,
+        1468985,
+        1469415
+      ],
+      [
+        2,
+        1469415,
+        1470415
+      ],
+      [
+        3,
+        1470415,
+        1471265
+      ],
+      [
+        4,
+        1471265,
+        1472645
+      ],
+      [
+        5,
+        1472645,
+        1473465
+      ],
+      [
+        6,
+        1473465,
+        1473785
+      ],
+      [
+        7,
+        1473785,
+        1475575
+      ],
+      [
+        8,
+        1475575,
+        1476915
+      ],
+      [
+        9,
+        1476915,
+        1478025
+      ],
+      [
+        10,
+        1478025,
+        1479125
+      ],
+      [
+        11,
+        1479125,
+        1480035
+      ],
+      [
+        12,
+        1480035,
+        1480665
+      ],
+      [
+        13,
+        1480665,
+        1481365
+      ],
+      [
+        11,
+        1481385,
+        1482805
+      ],
+      [
+        12,
+        1482805,
+        1483435
+      ],
+      [
+        13,
+        1483435,
+        1485015
+      ],
+      [
+        14,
+        1485015,
+        1486245
+      ],
+      [
+        15,
+        1486245,
+        1487395
+      ],
+      [
+        16,
+        1487395,
+        1489045
+      ],
+      [
+        17,
+        1489045,
+        1490615
+      ],
+      [
+        18,
+        1490615,
+        1490845
+      ],
+      [
+        19,
+        1490845,
+        1493165
+      ],
+      [
+        20,
+        1493195,
+        1493805
+      ],
+      [
+        21,
+        1493805,
+        1495565
+      ],
+      [
+        22,
+        1495565,
+        1496265
+      ],
+      [
+        23,
+        1496265,
+        1497395
+      ],
+      [
+        24,
+        1497395,
+        1498595
+      ],
+      [
+        25,
+        1498595,
+        1499385
+      ],
+      [
+        26,
+        1499385,
+        1501245
+      ],
+      [
+        27,
+        1501245,
+        1501965
+      ],
+      [
+        28,
+        1501965,
+        1502895
+      ],
+      [
+        29,
+        1502895,
+        1503515
+      ],
+      [
+        30,
+        1503515,
+        1504475
+      ],
+      [
+        31,
+        1504475,
+        1505325
+      ],
+      [
+        32,
+        1505325,
+        1506475
+      ],
+      [
+        33,
+        1506475,
+        1509395
+      ],
+      [
+        31,
+        1509395,
+        1510215
+      ],
+      [
+        32,
+        1510215,
+        1511355
+      ],
+      [
+        33,
+        1511355,
+        1512195
+      ],
+      [
+        34,
+        1512195,
+        1513415
+      ],
+      [
+        35,
+        1513415,
+        1514045
+      ],
+      [
+        36,
+        1514045,
+        1515195
+      ],
+      [
+        37,
+        1515195,
+        1515975
+      ],
+      [
+        38,
+        1515975,
+        1517640
+      ]
+    ]
+  }
+}

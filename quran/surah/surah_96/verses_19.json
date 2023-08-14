@@ -1,0 +1,99 @@
+{
+  "id": 6125,
+  "chapter_id": 96,
+  "verse_key": "96:19",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 21853,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_019_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 21854,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_019_002.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 21855,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_019_003.mp3",
+      "text": "تُطِعْهُ",
+      "translation": "kamu patuh kepadanya",
+      "transliteration": "tuṭiʿ'hu"
+    },
+    {
+      "id": 21856,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_019_004.mp3",
+      "text": "وَٱسْجُدْ",
+      "translation": "dan sujudlah",
+      "transliteration": "wa-us'jud"
+    },
+    {
+      "id": 21857,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_019_005.mp3",
+      "text": "وَٱقْتَرِب ۩",
+      "translation": "dan dekatkanlah",
+      "transliteration": "wa-iq'tarib"
+    },
+    {
+      "id": 21859,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "sekali-kali jangan, janganlah kamu patuh kepadanya; dan sujudlah dan dekatkanlah (dirimu kepada Tuhan).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 77690,
+    "timestamp_to": 83720,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        77665,
+        78575
+      ],
+      [
+        2,
+        78575,
+        78975
+      ],
+      [
+        3,
+        78975,
+        80005
+      ],
+      [
+        4,
+        80005,
+        80815
+      ],
+      [
+        5,
+        80815,
+        83650
+      ]
+    ]
+  }
+}

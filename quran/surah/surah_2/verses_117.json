@@ -1,0 +1,177 @@
+{
+  "id": 124,
+  "chapter_id": 2,
+  "verse_key": "2:117",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "ruku_number": 15,
+  "manzil_number": 1,
+  "page_number": 18,
+  "juz_number": 1,
+  "text_uthmani": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 75795,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_001.mp3",
+      "text": "بَدِيعُ",
+      "translation": "(Allah) pencipta",
+      "transliteration": "badīʿu"
+    },
+    {
+      "id": 75796,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_002.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 75797,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_003.mp3",
+      "text": "وَٱلْأَرْضِ ۖ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 75799,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_005.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan bila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 75800,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_006.mp3",
+      "text": "قَضَىٰٓ",
+      "translation": "Dia memutuskan",
+      "transliteration": "qaḍā"
+    },
+    {
+      "id": 75801,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_007.mp3",
+      "text": "أَمْرًۭا",
+      "translation": "suatu perkara",
+      "transliteration": "amran"
+    },
+    {
+      "id": 75802,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_008.mp3",
+      "text": "فَإِنَّمَا",
+      "translation": "maka sesungguhnya hanyalah",
+      "transliteration": "fa-innamā"
+    },
+    {
+      "id": 75803,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_009.mp3",
+      "text": "يَقُولُ",
+      "translation": "Dia berkata",
+      "transliteration": "yaqūlu"
+    },
+    {
+      "id": 75804,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_010.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 75805,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_011.mp3",
+      "text": "كُن",
+      "translation": "jadilah",
+      "transliteration": "kun"
+    },
+    {
+      "id": 75806,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_117_012.mp3",
+      "text": "فَيَكُونُ",
+      "translation": "maka jadilah ia",
+      "transliteration": "fayakūnu"
+    },
+    {
+      "id": 75807,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١٧",
+      "translation": "(117)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah Pencipta langit dan bumi, dan bila Dia berkehendak (untuk menciptakan) sesuatu, maka (cukuplah) Dia hanya mengatakan kepadanya, \"Jadilah\".  Lalu jadilah ia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2495990,
+    "timestamp_to": 2510720,
+    "duration": 14730,
+    "segments": [
+      [
+        1,
+        2495915,
+        2496875
+      ],
+      [
+        2,
+        2496875,
+        2498305
+      ],
+      [
+        3,
+        2498305,
+        2499325
+      ],
+      [
+        4,
+        2499325,
+        2499995
+      ],
+      [
+        5,
+        2499995,
+        2502155
+      ],
+      [
+        6,
+        2502155,
+        2503525
+      ],
+      [
+        7,
+        2503525,
+        2505285
+      ],
+      [
+        8,
+        2505285,
+        2506105
+      ],
+      [
+        9,
+        2506105,
+        2506685
+      ],
+      [
+        10,
+        2506685,
+        2508025
+      ],
+      [
+        11,
+        2508025,
+        2510580
+      ]
+    ]
+  }
+}

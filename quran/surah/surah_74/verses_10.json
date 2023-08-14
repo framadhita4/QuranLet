@@ -1,0 +1,86 @@
+{
+  "id": 5505,
+  "chapter_id": 74,
+  "verse_key": "74:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 11570,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_010_001.mp3",
+      "text": "عَلَى",
+      "translation": "atas/bagi",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 11571,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_010_002.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 11572,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_010_003.mp3",
+      "text": "غَيْرُ",
+      "translation": "tidak",
+      "transliteration": "ghayru"
+    },
+    {
+      "id": 11573,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_010_004.mp3",
+      "text": "يَسِيرٍۢ",
+      "translation": "mudah",
+      "transliteration": "yasīrin"
+    },
+    {
+      "id": 11574,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bagi orang-orang kafir lagi tidak mudah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33360,
+    "timestamp_to": 39030,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        33265,
+        33695
+      ],
+      [
+        2,
+        33695,
+        35105
+      ],
+      [
+        3,
+        35105,
+        35655
+      ],
+      [
+        4,
+        35655,
+        38870
+      ]
+    ]
+  }
+}

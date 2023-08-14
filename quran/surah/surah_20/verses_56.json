@@ -1,0 +1,112 @@
+{
+  "id": 2404,
+  "chapter_id": 20,
+  "verse_key": "20:56",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "page_number": 315,
+  "juz_number": 16,
+  "text_uthmani": "وَلَقَدْ أَرَيْنَـٰهُ ءَايَـٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 52339,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_056_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 52340,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_056_002.mp3",
+      "text": "أَرَيْنَـٰهُ",
+      "translation": "Kami telah memperlihatkan kepadanya",
+      "transliteration": "araynāhu"
+    },
+    {
+      "id": 52341,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_056_003.mp3",
+      "text": "ءَايَـٰتِنَا",
+      "translation": "ayat-ayat Kami",
+      "transliteration": "āyātinā"
+    },
+    {
+      "id": 52342,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_056_004.mp3",
+      "text": "كُلَّهَا",
+      "translation": "semuanya",
+      "transliteration": "kullahā"
+    },
+    {
+      "id": 52343,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_056_005.mp3",
+      "text": "فَكَذَّبَ",
+      "translation": "maka dia mendustakan",
+      "transliteration": "fakadhaba"
+    },
+    {
+      "id": 52344,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_056_006.mp3",
+      "text": "وَأَبَىٰ",
+      "translation": "dan dia enggan/menolak",
+      "transliteration": "wa-abā"
+    },
+    {
+      "id": 52345,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah perlihatkan kepadanya ( Firʻawn ) tanda-tanda kekuasaan Kami semuanya<sup foot_note_id=\"926\">1</sup> maka ia mendustakan dan enggan (menerima kebenaran).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 513270,
+    "timestamp_to": 520170,
+    "duration": 6900,
+    "segments": [
+      [
+        1,
+        513225,
+        514065
+      ],
+      [
+        2,
+        514065,
+        515245
+      ],
+      [
+        3,
+        515245,
+        516675
+      ],
+      [
+        4,
+        516675,
+        517715
+      ],
+      [
+        5,
+        517715,
+        518815
+      ],
+      [
+        6,
+        518815,
+        519380
+      ]
+    ]
+  }
+}

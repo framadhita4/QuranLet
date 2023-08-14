@@ -1,0 +1,86 @@
+{
+  "id": 5783,
+  "chapter_id": 80,
+  "verse_key": "80:25",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 28148,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_025_001.mp3",
+      "text": "اَنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "annā"
+    },
+    {
+      "id": 28149,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_025_002.mp3",
+      "text": "صَبَبْنَا",
+      "translation": "Kami telah mencurahkan",
+      "transliteration": "ṣababnā"
+    },
+    {
+      "id": 28150,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_025_003.mp3",
+      "text": "ٱلْمَآءَ",
+      "translation": "air",
+      "transliteration": "l-māa"
+    },
+    {
+      "id": 28151,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_025_004.mp3",
+      "text": "صَبًّۭا",
+      "translation": "tercurah",
+      "transliteration": "ṣabban"
+    },
+    {
+      "id": 28152,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami benar-benar telah mencurahkan air (dari langit),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 107980,
+    "timestamp_to": 114380,
+    "duration": 6400,
+    "segments": [
+      [
+        1,
+        107895,
+        109515
+      ],
+      [
+        2,
+        109515,
+        110425
+      ],
+      [
+        3,
+        110425,
+        112745
+      ],
+      [
+        4,
+        112745,
+        113830
+      ]
+    ]
+  }
+}

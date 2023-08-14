@@ -1,0 +1,86 @@
+{
+  "id": 5395,
+  "chapter_id": 70,
+  "verse_key": "70:20",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 22746,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_020_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 22747,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_020_002.mp3",
+      "text": "مَسَّهُ",
+      "translation": "menimpanya",
+      "transliteration": "massahu"
+    },
+    {
+      "id": 22748,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_020_003.mp3",
+      "text": "ٱلشَّرُّ",
+      "translation": "kejahatan/kesusahan",
+      "transliteration": "l-sharu"
+    },
+    {
+      "id": 22749,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_020_004.mp3",
+      "text": "جَزُوعًۭا",
+      "translation": "berkeluh-kesah",
+      "transliteration": "jazūʿan"
+    },
+    {
+      "id": 22750,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila ia ditimpa kesusahan ia berkeluh kesah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 106000,
+    "timestamp_to": 109810,
+    "duration": 3810,
+    "segments": [
+      [
+        1,
+        105975,
+        106565
+      ],
+      [
+        2,
+        106565,
+        107325
+      ],
+      [
+        3,
+        107325,
+        108135
+      ],
+      [
+        4,
+        108135,
+        109730
+      ]
+    ]
+  }
+}

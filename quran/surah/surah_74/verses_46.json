@@ -1,0 +1,86 @@
+{
+  "id": 5541,
+  "chapter_id": 74,
+  "verse_key": "74:46",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 45646,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_046_001.mp3",
+      "text": "وَكُنَّا",
+      "translation": "dan kami adalah",
+      "transliteration": "wakunnā"
+    },
+    {
+      "id": 45647,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_046_002.mp3",
+      "text": "نُكَذِّبُ",
+      "translation": "kami mendustakan",
+      "transliteration": "nukadhibu"
+    },
+    {
+      "id": 45648,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_046_003.mp3",
+      "text": "بِيَوْمِ",
+      "translation": "dengan hari",
+      "transliteration": "biyawmi"
+    },
+    {
+      "id": 45649,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_046_004.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 45650,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan adalah kami mendustakan hari pembalasan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 246390,
+    "timestamp_to": 252710,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        246325,
+        247945
+      ],
+      [
+        2,
+        247945,
+        248935
+      ],
+      [
+        3,
+        248935,
+        249655
+      ],
+      [
+        4,
+        249655,
+        252590
+      ]
+    ]
+  }
+}

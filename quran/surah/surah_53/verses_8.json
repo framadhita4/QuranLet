@@ -1,0 +1,73 @@
+{
+  "id": 4792,
+  "chapter_id": 53,
+  "verse_key": "53:8",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 8727,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_008_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 8728,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_008_002.mp3",
+      "text": "دَنَا",
+      "translation": "dia mendekat",
+      "transliteration": "danā"
+    },
+    {
+      "id": 8729,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_008_003.mp3",
+      "text": "فَتَدَلَّىٰ",
+      "translation": "lalu dia turun",
+      "transliteration": "fatadallā"
+    },
+    {
+      "id": 8730,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian dia mendekat, lalu bertambah dekat lagi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30560,
+    "timestamp_to": 34560,
+    "duration": 4000,
+    "segments": [
+      [
+        1,
+        29965,
+        31195
+      ],
+      [
+        2,
+        31195,
+        31965
+      ],
+      [
+        3,
+        31965,
+        33440
+      ]
+    ]
+  }
+}

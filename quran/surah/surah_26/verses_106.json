@@ -1,0 +1,125 @@
+{
+  "id": 3038,
+  "chapter_id": 26,
+  "verse_key": "26:106",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 73058,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 73059,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_002.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 73060,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 73061,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_004.mp3",
+      "text": "أَخُوهُمْ",
+      "translation": "saudara mereka",
+      "transliteration": "akhūhum"
+    },
+    {
+      "id": 73062,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_005.mp3",
+      "text": "نُوحٌ",
+      "translation": "Nuh",
+      "transliteration": "nūḥun"
+    },
+    {
+      "id": 73063,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_006.mp3",
+      "text": "أَلَا",
+      "translation": "mengapa tidak",
+      "transliteration": "alā"
+    },
+    {
+      "id": 73064,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_106_007.mp3",
+      "text": "تَتَّقُونَ",
+      "translation": "kamu bertakwa",
+      "transliteration": "tattaqūna"
+    },
+    {
+      "id": 73065,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketika saudara mereka (Nūḥ) berkata kepada mereka, \"Mengapa kamu tidak bertakwa?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 972300,
+    "timestamp_to": 979770,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        972255,
+        972805
+      ],
+      [
+        2,
+        972805,
+        973485
+      ],
+      [
+        3,
+        973485,
+        974065
+      ],
+      [
+        4,
+        974065,
+        975085
+      ],
+      [
+        5,
+        975085,
+        975825
+      ],
+      [
+        6,
+        975825,
+        976585
+      ],
+      [
+        7,
+        976585,
+        979700
+      ]
+    ]
+  }
+}

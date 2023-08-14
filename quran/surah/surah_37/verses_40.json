@@ -1,0 +1,86 @@
+{
+  "id": 3828,
+  "chapter_id": 37,
+  "verse_key": "37:40",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 41473,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_040_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 41474,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_040_002.mp3",
+      "text": "عِبَادَ",
+      "translation": "hamba-hamba",
+      "transliteration": "ʿibāda"
+    },
+    {
+      "id": 41475,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_040_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 41476,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_040_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "orang-orang yang ikhlas/dibersihkan",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 41477,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi hamba-hamba Allah yang dibersihkan (dari dosa).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 341650,
+    "timestamp_to": 347870,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        341575,
+        342435
+      ],
+      [
+        2,
+        342435,
+        343275
+      ],
+      [
+        3,
+        343275,
+        344155
+      ],
+      [
+        4,
+        344155,
+        347720
+      ]
+    ]
+  }
+}

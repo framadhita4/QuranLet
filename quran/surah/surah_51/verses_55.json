@@ -1,0 +1,99 @@
+{
+  "id": 4730,
+  "chapter_id": 51,
+  "verse_key": "51:55",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 51663,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_055_001.mp3",
+      "text": "وَذَكِّرْ",
+      "translation": "dan berilah peringatan",
+      "transliteration": "wadhakkir"
+    },
+    {
+      "id": 51664,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_055_002.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 51665,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_055_003.mp3",
+      "text": "ٱلذِّكْرَىٰ",
+      "translation": "peringatan itu",
+      "transliteration": "l-dhik'rā"
+    },
+    {
+      "id": 51666,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_055_004.mp3",
+      "text": "تَنفَعُ",
+      "translation": "memberi manfaat",
+      "transliteration": "tanfaʿu"
+    },
+    {
+      "id": 51667,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_055_005.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 51668,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tetaplah memberi peringatan, karena sesungguhnya peringatan itu bermanfaat bagi orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 482520,
+    "timestamp_to": 492260,
+    "duration": 9740,
+    "segments": [
+      [
+        1,
+        482455,
+        483565
+      ],
+      [
+        2,
+        483565,
+        485335
+      ],
+      [
+        3,
+        485335,
+        486645
+      ],
+      [
+        4,
+        486645,
+        488425
+      ],
+      [
+        5,
+        488425,
+        492140
+      ]
+    ]
+  }
+}

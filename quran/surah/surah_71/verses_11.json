@@ -1,0 +1,86 @@
+{
+  "id": 5430,
+  "chapter_id": 71,
+  "verse_key": "71:11",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 12854,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_001.mp3",
+      "text": "يُرْسِلِ",
+      "translation": "Dia akan mengirimkan",
+      "transliteration": "yur'sili"
+    },
+    {
+      "id": 12855,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_002.mp3",
+      "text": "ٱلسَّمَآءَ",
+      "translation": "langit (hujan)",
+      "transliteration": "l-samāa"
+    },
+    {
+      "id": 12856,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_003.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 12857,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_004.mp3",
+      "text": "مِّدْرَارًۭا",
+      "translation": "lebat",
+      "transliteration": "mid'rāran"
+    },
+    {
+      "id": 12858,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya Dia akan mengirimkan hujan kepadamu dengan lebat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 116260,
+    "timestamp_to": 123080,
+    "duration": 6820,
+    "segments": [
+      [
+        1,
+        116205,
+        117005
+      ],
+      [
+        2,
+        117005,
+        119305
+      ],
+      [
+        3,
+        119305,
+        120235
+      ],
+      [
+        4,
+        120235,
+        122980
+      ]
+    ]
+  }
+}

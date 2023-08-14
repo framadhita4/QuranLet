@@ -1,0 +1,73 @@
+{
+  "id": 6050,
+  "chapter_id": 91,
+  "verse_key": "91:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 8376,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_007_001.mp3",
+      "text": "وَنَفْسٍۢ",
+      "translation": "dan manusia/jiwa",
+      "transliteration": "wanafsin"
+    },
+    {
+      "id": 8377,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_007_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 8378,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_007_003.mp3",
+      "text": "سَوَّىٰهَا",
+      "translation": "penyempurnaanya",
+      "transliteration": "sawwāhā"
+    },
+    {
+      "id": 8379,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jiwa serta penyempurnaannya (ciptaannya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23370,
+    "timestamp_to": 27710,
+    "duration": 4340,
+    "segments": [
+      [
+        1,
+        22965,
+        24715
+      ],
+      [
+        2,
+        24715,
+        25225
+      ],
+      [
+        3,
+        25225,
+        26800
+      ]
+    ]
+  }
+}

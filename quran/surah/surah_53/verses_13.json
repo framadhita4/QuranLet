@@ -1,0 +1,86 @@
+{
+  "id": 4797,
+  "chapter_id": 53,
+  "verse_key": "53:13",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 14959,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_013_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 14960,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_013_002.mp3",
+      "text": "رَءَاهُ",
+      "translation": "dia telah melihatnya",
+      "transliteration": "raāhu"
+    },
+    {
+      "id": 14961,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_013_003.mp3",
+      "text": "نَزْلَةً",
+      "translation": "satu kali turun",
+      "transliteration": "nazlatan"
+    },
+    {
+      "id": 14962,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_013_004.mp3",
+      "text": "أُخْرَىٰ",
+      "translation": "yang lain",
+      "transliteration": "ukh'rā"
+    },
+    {
+      "id": 14963,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Muhammad telah melihat Jibril itu (dalam rupanya yang asli) pada waktu yang lain,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 55590,
+    "timestamp_to": 60030,
+    "duration": 4440,
+    "segments": [
+      [
+        1,
+        55555,
+        56405
+      ],
+      [
+        2,
+        56405,
+        57365
+      ],
+      [
+        3,
+        57365,
+        58505
+      ],
+      [
+        4,
+        58505,
+        59950
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 4413,
+  "chapter_id": 43,
+  "verse_key": "43:88",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "وَقِيلِهِۦ يَـٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوْمٌ لَّا يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 67430,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_001.mp3",
+      "text": "وَقِيلِهِۦ",
+      "translation": "dan perkataannya",
+      "transliteration": "waqīlihi"
+    },
+    {
+      "id": 67431,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_002.mp3",
+      "text": "يَـٰرَبِّ",
+      "translation": "wahai Tuhanku",
+      "transliteration": "yārabbi"
+    },
+    {
+      "id": 67432,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_003.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 67433,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_004.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 67434,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_005.mp3",
+      "text": "قَوْمٌۭ",
+      "translation": "kaum",
+      "transliteration": "qawmun"
+    },
+    {
+      "id": 67435,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_006.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 67436,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_088_007.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 67437,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٨",
+      "translation": "(88)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (Allah mengetahui) ucapan Muhammad, \"Ya Tuhan-ku, sesungguhnya mereka itu adalah kaum yang tidak beriman\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1200700,
+    "timestamp_to": 1213840,
+    "duration": 13140,
+    "segments": [
+      [
+        1,
+        1200665,
+        1202055
+      ],
+      [
+        2,
+        1202055,
+        1202995
+      ],
+      [
+        3,
+        1202995,
+        1204375
+      ],
+      [
+        4,
+        1204375,
+        1209375
+      ],
+      [
+        5,
+        1209375,
+        1210095
+      ],
+      [
+        6,
+        1210095,
+        1210565
+      ],
+      [
+        7,
+        1210565,
+        1213780
+      ]
+    ]
+  }
+}

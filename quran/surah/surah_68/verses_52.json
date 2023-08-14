@@ -1,0 +1,99 @@
+{
+  "id": 5323,
+  "chapter_id": 68,
+  "verse_key": "68:52",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 50003,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_052_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 50004,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_052_002.mp3",
+      "text": "هُوَ",
+      "translation": "ia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 50005,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_052_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 50006,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_052_004.mp3",
+      "text": "ذِكْرٌۭ",
+      "translation": "peringatan/pelajaran",
+      "transliteration": "dhik'run"
+    },
+    {
+      "id": 50007,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_052_005.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi alam semesta",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 50008,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Al-Qur`ān itu tidak lain hanyalah peringatan bagi seluruh umat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 443430,
+    "timestamp_to": 451820,
+    "duration": 8390,
+    "segments": [
+      [
+        1,
+        443355,
+        444005
+      ],
+      [
+        2,
+        444005,
+        444365
+      ],
+      [
+        3,
+        444365,
+        445285
+      ],
+      [
+        4,
+        445285,
+        445925
+      ],
+      [
+        5,
+        445925,
+        451530
+      ]
+    ]
+  }
+}

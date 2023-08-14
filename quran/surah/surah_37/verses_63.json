@@ -1,0 +1,86 @@
+{
+  "id": 3851,
+  "chapter_id": 37,
+  "verse_key": "37:63",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا جَعَلْنَـٰهَا فِتْنَةً لِّلظَّـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 56431,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_063_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 56432,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_063_002.mp3",
+      "text": "جَعَلْنَـٰهَا",
+      "translation": "Kami menjadikannya",
+      "transliteration": "jaʿalnāhā"
+    },
+    {
+      "id": 56433,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_063_003.mp3",
+      "text": "فِتْنَةًۭ",
+      "translation": "fitnah/cobaan",
+      "transliteration": "fit'natan"
+    },
+    {
+      "id": 56434,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_063_004.mp3",
+      "text": "لِّلظَّـٰلِمِينَ",
+      "translation": "bagi orang-orang yang zalim",
+      "transliteration": "lilẓẓālimīna"
+    },
+    {
+      "id": 56435,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menjadikan pohon zakum itu sebagai siksaan bagi orang-orang yang zalim.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 526110,
+    "timestamp_to": 534080,
+    "duration": 7970,
+    "segments": [
+      [
+        1,
+        526045,
+        527635
+      ],
+      [
+        2,
+        527635,
+        529135
+      ],
+      [
+        3,
+        529135,
+        530075
+      ],
+      [
+        4,
+        530075,
+        533970
+      ]
+    ]
+  }
+}

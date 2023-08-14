@@ -1,0 +1,125 @@
+{
+  "id": 2303,
+  "chapter_id": 19,
+  "verse_key": "19:53",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "page_number": 309,
+  "juz_number": 16,
+  "text_uthmani": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَـٰرُونَ نَبِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 50853,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_001.mp3",
+      "text": "وَوَهَبْنَا",
+      "translation": "dan Kami telah menganugerahkan",
+      "transliteration": "wawahabnā"
+    },
+    {
+      "id": 50854,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 50855,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 50856,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_004.mp3",
+      "text": "رَّحْمَتِنَآ",
+      "translation": "rahmat Kami",
+      "transliteration": "raḥmatinā"
+    },
+    {
+      "id": 50857,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_005.mp3",
+      "text": "أَخَاهُ",
+      "translation": "saudaranya",
+      "transliteration": "akhāhu"
+    },
+    {
+      "id": 50858,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_006.mp3",
+      "text": "هَـٰرُونَ",
+      "translation": "Harun",
+      "transliteration": "hārūna"
+    },
+    {
+      "id": 50859,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_053_007.mp3",
+      "text": "نَبِيًّۭا",
+      "translation": "seorang nabi",
+      "transliteration": "nabiyyan"
+    },
+    {
+      "id": 50860,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami telah menganugerahkan kepadanya sebagian rahmat Kami, yaitu saudaranya, Hārūn menjadi seorang nabi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 723900,
+    "timestamp_to": 733100,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        723505,
+        724915
+      ],
+      [
+        2,
+        724915,
+        725525
+      ],
+      [
+        3,
+        725525,
+        725905
+      ],
+      [
+        4,
+        725905,
+        728915
+      ],
+      [
+        5,
+        728915,
+        729955
+      ],
+      [
+        6,
+        729955,
+        730995
+      ],
+      [
+        7,
+        730995,
+        732680
+      ]
+    ]
+  }
+}

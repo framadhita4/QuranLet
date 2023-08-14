@@ -1,0 +1,65 @@
+{
+  "id": 4949,
+  "chapter_id": 55,
+  "verse_key": "55:48",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "ذَوَاتَآ أَفْنَانٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 47269,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_048_001.mp3",
+      "text": "ذَوَاتَآ",
+      "translation": "keduanya mempunyai",
+      "transliteration": "dhawātā"
+    },
+    {
+      "id": 47270,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_048_002.mp3",
+      "text": "أَفْنَانٍۢ",
+      "translation": "bermacam-macam ragam",
+      "transliteration": "afnānin"
+    },
+    {
+      "id": 47271,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kedua surga itu mempunyai pohon-pohonan dan buah-buahan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 413800,
+    "timestamp_to": 419830,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        413735,
+        414575
+      ],
+      [
+        2,
+        414575,
+        416475
+      ],
+      [
+        2,
+        416475,
+        419660
+      ]
+    ]
+  }
+}

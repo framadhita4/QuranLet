@@ -1,0 +1,99 @@
+{
+  "id": 4584,
+  "chapter_id": 48,
+  "verse_key": "48:1",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "ruku_number": 448,
+  "manzil_number": 6,
+  "page_number": 511,
+  "juz_number": 26,
+  "text_uthmani": " إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3",
+  "words": [
+    {
+      "id": 226,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_001_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 227,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_001_002.mp3",
+      "text": "فَتَحْنَا",
+      "translation": "Kami bukakan/beri kemenangan",
+      "transliteration": "fataḥnā"
+    },
+    {
+      "id": 228,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_001_003.mp3",
+      "text": "لَكَ",
+      "translation": "bagi kamu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 229,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_001_004.mp3",
+      "text": "فَتْحًۭا",
+      "translation": "pembukaan/kemenangan",
+      "transliteration": "fatḥan"
+    },
+    {
+      "id": 230,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_001_005.mp3",
+      "text": "مُّبِينًۭا",
+      "translation": "nyata",
+      "transliteration": "mubīnan"
+    },
+    {
+      "id": 231,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah memberikan kepadamu kemenangan<sup foot_note_id=\"1394\">1</sup> yang nyata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 6300,
+    "duration": 6300,
+    "segments": [
+      [
+        1,
+        0,
+        1440
+      ],
+      [
+        2,
+        1440,
+        2520
+      ],
+      [
+        3,
+        2520,
+        2870
+      ],
+      [
+        4,
+        2870,
+        3480
+      ],
+      [
+        5,
+        3480,
+        6245
+      ]
+    ]
+  }
+}

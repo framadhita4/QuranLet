@@ -1,0 +1,151 @@
+{
+  "id": 4004,
+  "chapter_id": 38,
+  "verse_key": "38:34",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 36861,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 36862,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_002.mp3",
+      "text": "فَتَنَّا",
+      "translation": "Kami telah menguji",
+      "transliteration": "fatannā"
+    },
+    {
+      "id": 36863,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_003.mp3",
+      "text": "سُلَيْمَـٰنَ",
+      "translation": "Sulaiman",
+      "transliteration": "sulaymāna"
+    },
+    {
+      "id": 36864,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_004.mp3",
+      "text": "وَأَلْقَيْنَا",
+      "translation": "dan Kami jatuhkan/letakkan",
+      "transliteration": "wa-alqaynā"
+    },
+    {
+      "id": 36865,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_005.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 36866,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_006.mp3",
+      "text": "كُرْسِيِّهِۦ",
+      "translation": "kursinya",
+      "transliteration": "kur'siyyihi"
+    },
+    {
+      "id": 36867,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_007.mp3",
+      "text": "جَسَدًۭا",
+      "translation": "jasad",
+      "transliteration": "jasadan"
+    },
+    {
+      "id": 36868,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_008.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 36869,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_034_009.mp3",
+      "text": "أَنَابَ",
+      "translation": "dia kembali",
+      "transliteration": "anāba"
+    },
+    {
+      "id": 36870,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Kami telah menguji Sulaymān dan Kami jadikan (dia) tergeletak di atas kursinya sebagai tubuh (yang lemah karena sakit), kemudian ia bertobat <sup foot_note_id=\"1303\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 480630,
+    "timestamp_to": 494370,
+    "duration": 13740,
+    "segments": [
+      [
+        1,
+        480225,
+        481085
+      ],
+      [
+        2,
+        481085,
+        482595
+      ],
+      [
+        3,
+        482595,
+        483895
+      ],
+      [
+        4,
+        483895,
+        485165
+      ],
+      [
+        5,
+        485165,
+        485875
+      ],
+      [
+        6,
+        485875,
+        487375
+      ],
+      [
+        7,
+        487375,
+        488995
+      ],
+      [
+        8,
+        488995,
+        490465
+      ],
+      [
+        9,
+        490465,
+        493910
+      ]
+    ]
+  }
+}

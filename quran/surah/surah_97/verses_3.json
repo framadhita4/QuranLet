@@ -1,0 +1,112 @@
+{
+  "id": 6128,
+  "chapter_id": 97,
+  "verse_key": "97:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 541,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3",
+  "words": [
+    {
+      "id": 2900,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_003_001.mp3",
+      "text": "لَيْلَةُ",
+      "translation": "malam",
+      "transliteration": "laylatu"
+    },
+    {
+      "id": 2901,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_003_002.mp3",
+      "text": "ٱلْقَدْرِ",
+      "translation": "kemuliaan",
+      "transliteration": "l-qadri"
+    },
+    {
+      "id": 2902,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_003_003.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 2903,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_003_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 2904,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_003_005.mp3",
+      "text": "أَلْفِ",
+      "translation": "seribu",
+      "transliteration": "alfi"
+    },
+    {
+      "id": 2905,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_003_006.mp3",
+      "text": "شَهْرٍۢ",
+      "translation": "bulan",
+      "transliteration": "shahrin"
+    },
+    {
+      "id": 2906,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Malam kemuliaan itu lebih baik dari seribu bulan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13980,
+    "timestamp_to": 19520,
+    "duration": 5540,
+    "segments": [
+      [
+        1,
+        13915,
+        14805
+      ],
+      [
+        2,
+        14805,
+        15615
+      ],
+      [
+        3,
+        15615,
+        16295
+      ],
+      [
+        4,
+        16295,
+        17655
+      ],
+      [
+        5,
+        17655,
+        18215
+      ],
+      [
+        6,
+        18215,
+        19380
+      ]
+    ]
+  }
+}

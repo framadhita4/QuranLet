@@ -1,0 +1,112 @@
+{
+  "id": 1920,
+  "chapter_id": 16,
+  "verse_key": "16:19",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 225,
+  "manzil_number": 3,
+  "page_number": 269,
+  "juz_number": 14,
+  "text_uthmani": "وَٱللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 22251,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_019_001.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 22252,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_019_002.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 22253,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_019_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 22254,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_019_004.mp3",
+      "text": "تُسِرُّونَ",
+      "translation": "kami rahasiakan",
+      "transliteration": "tusirrūna"
+    },
+    {
+      "id": 22255,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_019_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 22256,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_019_006.mp3",
+      "text": "تُعْلِنُونَ",
+      "translation": "kamu lahirkan",
+      "transliteration": "tuʿ'linūna"
+    },
+    {
+      "id": 22257,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah mengetahui apa yang kamu rahasiakan dan apa yang kamu lahirkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 299540,
+    "timestamp_to": 307060,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        299485,
+        300625
+      ],
+      [
+        2,
+        300625,
+        301635
+      ],
+      [
+        3,
+        301635,
+        301945
+      ],
+      [
+        4,
+        301945,
+        303415
+      ],
+      [
+        5,
+        303415,
+        304055
+      ],
+      [
+        6,
+        304055,
+        306980
+      ]
+    ]
+  }
+}

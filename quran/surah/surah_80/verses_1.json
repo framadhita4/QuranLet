@@ -1,0 +1,60 @@
+{
+  "id": 5759,
+  "chapter_id": 80,
+  "verse_key": "80:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": " عَبَسَ وَتَوَلَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 692,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_001_001.mp3",
+      "text": "عَبَسَ",
+      "translation": "dia bermuka masam",
+      "transliteration": "ʿabasa"
+    },
+    {
+      "id": 693,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_001_002.mp3",
+      "text": "وَتَوَلَّىٰٓ",
+      "translation": "dan dia berpaling",
+      "transliteration": "watawallā"
+    },
+    {
+      "id": 694,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia (Muhammad) bermuka masam dan berpaling,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 2930,
+    "duration": 2930,
+    "segments": [
+      [
+        1,
+        0,
+        790
+      ],
+      [
+        2,
+        790,
+        2185
+      ]
+    ]
+  }
+}

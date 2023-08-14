@@ -1,0 +1,73 @@
+{
+  "id": 5992,
+  "chapter_id": 88,
+  "verse_key": "88:25",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 27843,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_025_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 27844,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_025_002.mp3",
+      "text": "إِلَيْنَآ",
+      "translation": "kepada Kami",
+      "transliteration": "ilaynā"
+    },
+    {
+      "id": 27845,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_025_003.mp3",
+      "text": "إِيَابَهُمْ",
+      "translation": "kembali mereka",
+      "transliteration": "iyābahum"
+    },
+    {
+      "id": 27846,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kepada Kami-lah kembali mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 108580,
+    "timestamp_to": 114330,
+    "duration": 5750,
+    "segments": [
+      [
+        1,
+        108465,
+        109845
+      ],
+      [
+        2,
+        109845,
+        112285
+      ],
+      [
+        3,
+        112285,
+        114090
+      ]
+    ]
+  }
+}

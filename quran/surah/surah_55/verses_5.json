@@ -1,0 +1,73 @@
+{
+  "id": 4906,
+  "chapter_id": 55,
+  "verse_key": "55:5",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 4871,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_005_001.mp3",
+      "text": "ٱلشَّمْسُ",
+      "translation": "matahari",
+      "transliteration": "al-shamsu"
+    },
+    {
+      "id": 4872,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_005_002.mp3",
+      "text": "وَٱلْقَمَرُ",
+      "translation": "dan bulan",
+      "transliteration": "wal-qamaru"
+    },
+    {
+      "id": 4873,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_005_003.mp3",
+      "text": "بِحُسْبَانٍۢ",
+      "translation": "dengan/menurut perhitungan",
+      "transliteration": "biḥus'bānin"
+    },
+    {
+      "id": 4874,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Matahari dan bulan (beredar) menurut perhitungan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19910,
+    "timestamp_to": 26230,
+    "duration": 6320,
+    "segments": [
+      [
+        1,
+        19845,
+        20975
+      ],
+      [
+        2,
+        20975,
+        22025
+      ],
+      [
+        3,
+        22025,
+        26110
+      ]
+    ]
+  }
+}

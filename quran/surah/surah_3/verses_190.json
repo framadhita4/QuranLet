@@ -1,0 +1,177 @@
+{
+  "id": 483,
+  "chapter_id": 3,
+  "verse_key": "3:190",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "ruku_number": 61,
+  "manzil_number": 1,
+  "page_number": 75,
+  "juz_number": 4,
+  "text_uthmani": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 84609,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 84610,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 84611,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_003.mp3",
+      "text": "خَلْقِ",
+      "translation": "penciptaan",
+      "transliteration": "khalqi"
+    },
+    {
+      "id": 84612,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 84613,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_005.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 84614,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_006.mp3",
+      "text": "وَٱخْتِلَـٰفِ",
+      "translation": "dan silih berganti",
+      "transliteration": "wa-ikh'tilāfi"
+    },
+    {
+      "id": 84615,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_007.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 84616,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_008.mp3",
+      "text": "وَٱلنَّهَارِ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāri"
+    },
+    {
+      "id": 84617,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_009.mp3",
+      "text": "لَـَٔايَـٰتٍۢ",
+      "translation": "sungguh terdapat tanda-tanda",
+      "transliteration": "laāyātin"
+    },
+    {
+      "id": 84618,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_010.mp3",
+      "text": "لِّأُو۟لِى",
+      "translation": "bagi orang-orang yang",
+      "transliteration": "li-ulī"
+    },
+    {
+      "id": 84619,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_190_011.mp3",
+      "text": "ٱلْأَلْبَـٰبِ",
+      "translation": "berakal",
+      "transliteration": "l-albābi"
+    },
+    {
+      "id": 84620,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٩٠",
+      "translation": "(190)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4491950,
+    "timestamp_to": 4505380,
+    "duration": 13430,
+    "segments": [
+      [
+        1,
+        4491885,
+        4493105
+      ],
+      [
+        2,
+        4493105,
+        4493485
+      ],
+      [
+        3,
+        4493485,
+        4494095
+      ],
+      [
+        4,
+        4494095,
+        4495605
+      ],
+      [
+        5,
+        4495605,
+        4496545
+      ],
+      [
+        6,
+        4496545,
+        4497755
+      ],
+      [
+        7,
+        4497755,
+        4498525
+      ],
+      [
+        8,
+        4498525,
+        4500245
+      ],
+      [
+        9,
+        4500245,
+        4501535
+      ],
+      [
+        10,
+        4501535,
+        4502345
+      ],
+      [
+        11,
+        4502345,
+        4504930
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 4407,
+  "chapter_id": 43,
+  "verse_key": "43:82",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "سُبْحَـٰنَ رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 64941,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_001.mp3",
+      "text": "سُبْحَـٰنَ",
+      "translation": "Maha Suci",
+      "transliteration": "sub'ḥāna"
+    },
+    {
+      "id": 64942,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_002.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan/Pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 64943,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_003.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 64944,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_004.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 64945,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_005.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan/Pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 64946,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_006.mp3",
+      "text": "ٱلْعَرْشِ",
+      "translation": "'Arsy",
+      "transliteration": "l-ʿarshi"
+    },
+    {
+      "id": 64947,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_007.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 64948,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_082_008.mp3",
+      "text": "يَصِفُونَ",
+      "translation": "mereka sifatkan",
+      "transliteration": "yaṣifūna"
+    },
+    {
+      "id": 64949,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Suci Tuhan Yang empunya langit dan bumi, Tuhan Yang empunya arasy dari apa yang mereka sifatkan itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1116480,
+    "timestamp_to": 1126560,
+    "duration": 10080,
+    "segments": [
+      [
+        1,
+        1116455,
+        1117565
+      ],
+      [
+        2,
+        1117565,
+        1118245
+      ],
+      [
+        3,
+        1118245,
+        1119785
+      ],
+      [
+        4,
+        1119785,
+        1120815
+      ],
+      [
+        5,
+        1120815,
+        1121445
+      ],
+      [
+        6,
+        1121445,
+        1122235
+      ],
+      [
+        7,
+        1122235,
+        1123675
+      ],
+      [
+        8,
+        1123675,
+        1126480
+      ]
+    ]
+  }
+}

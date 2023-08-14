@@ -1,0 +1,60 @@
+{
+  "id": 5932,
+  "chapter_id": 86,
+  "verse_key": "86:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": " وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 716,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_001_001.mp3",
+      "text": "وَٱلسَّمَآءِ",
+      "translation": "dan langit",
+      "transliteration": "wal-samāi"
+    },
+    {
+      "id": 717,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_001_002.mp3",
+      "text": "وَٱلطَّارِقِ",
+      "translation": "dan yang datang di malam hari",
+      "transliteration": "wal-ṭāriqi"
+    },
+    {
+      "id": 718,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi langit dan yang datang pada malam hari,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 5250,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        0,
+        3260
+      ],
+      [
+        2,
+        3260,
+        5165
+      ]
+    ]
+  }
+}

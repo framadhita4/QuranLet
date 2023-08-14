@@ -1,0 +1,73 @@
+{
+  "id": 5875,
+  "chapter_id": 83,
+  "verse_key": "83:27",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 30018,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_027_001.mp3",
+      "text": "وَمِزَاجُهُۥ",
+      "translation": "dan campurannya",
+      "transliteration": "wamizājuhu"
+    },
+    {
+      "id": 30019,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_027_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 30020,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_027_003.mp3",
+      "text": "تَسْنِيمٍ",
+      "translation": "tasnim",
+      "transliteration": "tasnīmin"
+    },
+    {
+      "id": 30021,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan campuran khamar murni itu adalah dari Tasnīm,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 198760,
+    "timestamp_to": 204790,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        198685,
+        200295
+      ],
+      [
+        2,
+        200295,
+        200905
+      ],
+      [
+        3,
+        200905,
+        204630
+      ]
+    ]
+  }
+}

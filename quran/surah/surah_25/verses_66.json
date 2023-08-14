@@ -1,0 +1,86 @@
+{
+  "id": 2921,
+  "chapter_id": 25,
+  "verse_key": "25:66",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 315,
+  "manzil_number": 4,
+  "page_number": 365,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّهَا سَآءَتْ مُسْتَقَرًّا وَمُقَامًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 57465,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_066_001.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 57466,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_066_002.mp3",
+      "text": "سَآءَتْ",
+      "translation": "sejelek-jelek",
+      "transliteration": "sāat"
+    },
+    {
+      "id": 57467,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_066_003.mp3",
+      "text": "مُسْتَقَرًّۭا",
+      "translation": "tempat menetap",
+      "transliteration": "mus'taqarran"
+    },
+    {
+      "id": 57468,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_066_004.mp3",
+      "text": "وَمُقَامًۭا",
+      "translation": "dan tempat kediaman",
+      "transliteration": "wamuqāman"
+    },
+    {
+      "id": 57469,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Jahanam itu seburuk-buruk tempat menetap dan tempat kediaman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1008970,
+    "timestamp_to": 1017430,
+    "duration": 8460,
+    "segments": [
+      [
+        1,
+        1008945,
+        1010805
+      ],
+      [
+        2,
+        1010805,
+        1013375
+      ],
+      [
+        3,
+        1013375,
+        1015055
+      ],
+      [
+        4,
+        1015055,
+        1017380
+      ]
+    ]
+  }
+}

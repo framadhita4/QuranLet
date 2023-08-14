@@ -1,0 +1,73 @@
+{
+  "id": 3709,
+  "chapter_id": 36,
+  "verse_key": "36:4",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "page_number": 440,
+  "juz_number": 22,
+  "text_uthmani": "عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 4524,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_004_001.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 4525,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_004_002.mp3",
+      "text": "صِرَٰطٍۢ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭin"
+    },
+    {
+      "id": 4526,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_004_003.mp3",
+      "text": "مُّسْتَقِيمٍۢ",
+      "translation": "yang lurus",
+      "transliteration": "mus'taqīmin"
+    },
+    {
+      "id": 4527,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yang berada) di atas jalan yang lurus,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15300,
+    "timestamp_to": 21570,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        15245,
+        15875
+      ],
+      [
+        2,
+        15875,
+        16835
+      ],
+      [
+        3,
+        16835,
+        21440
+      ]
+    ]
+  }
+}

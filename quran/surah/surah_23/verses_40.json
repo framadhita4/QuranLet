@@ -1,0 +1,99 @@
+{
+  "id": 2713,
+  "chapter_id": 23,
+  "verse_key": "23:40",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَـٰدِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 41401,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_040_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 41402,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_040_002.mp3",
+      "text": "عَمَّا",
+      "translation": "dalam waktu",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 41403,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_040_003.mp3",
+      "text": "قَلِيلٍۢ",
+      "translation": "sedikit",
+      "transliteration": "qalīlin"
+    },
+    {
+      "id": 41404,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_040_004.mp3",
+      "text": "لَّيُصْبِحُنَّ",
+      "translation": "sungguh mereka akan menjadi",
+      "transliteration": "layuṣ'biḥunna"
+    },
+    {
+      "id": 41405,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_040_005.mp3",
+      "text": "نَـٰدِمِينَ",
+      "translation": "orang-orang yang menyesal",
+      "transliteration": "nādimīna"
+    },
+    {
+      "id": 41406,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Dalam sedikit waktu lagi pasti mereka akan menjadi orang-orang yang menyesal.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 544630,
+    "timestamp_to": 552600,
+    "duration": 7970,
+    "segments": [
+      [
+        1,
+        544605,
+        545265
+      ],
+      [
+        2,
+        545265,
+        546615
+      ],
+      [
+        3,
+        546615,
+        547695
+      ],
+      [
+        4,
+        547695,
+        549915
+      ],
+      [
+        5,
+        549915,
+        552510
+      ]
+    ]
+  }
+}

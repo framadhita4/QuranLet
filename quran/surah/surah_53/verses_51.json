@@ -1,0 +1,73 @@
+{
+  "id": 4835,
+  "chapter_id": 53,
+  "verse_key": "53:51",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 49648,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_051_001.mp3",
+      "text": "وَثَمُودَا۟",
+      "translation": "dan kaum Tsamud",
+      "transliteration": "wathamūdā"
+    },
+    {
+      "id": 49649,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_051_002.mp3",
+      "text": "فَمَآ",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 49650,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_051_003.mp3",
+      "text": "أَبْقَىٰ",
+      "translation": "Dia tertinggal",
+      "transliteration": "abqā"
+    },
+    {
+      "id": 49651,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum Ṡamūd.  Maka tidak seorang pun yang ditinggalkan-Nya (hidup).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 399650,
+    "timestamp_to": 404530,
+    "duration": 4890,
+    "segments": [
+      [
+        1,
+        399235,
+        400385
+      ],
+      [
+        2,
+        400385,
+        402735
+      ],
+      [
+        3,
+        402735,
+        404090
+      ]
+    ]
+  }
+}

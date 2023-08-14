@@ -1,0 +1,112 @@
+{
+  "id": 5041,
+  "chapter_id": 56,
+  "verse_key": "56:62",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 55553,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_062_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 55554,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_062_002.mp3",
+      "text": "عَلِمْتُمُ",
+      "translation": "kamu telah mengetahui",
+      "transliteration": "ʿalim'tumu"
+    },
+    {
+      "id": 55555,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_062_003.mp3",
+      "text": "ٱلنَّشْأَةَ",
+      "translation": "penciptaan",
+      "transliteration": "l-nashata"
+    },
+    {
+      "id": 55556,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_062_004.mp3",
+      "text": "ٱلْأُولَىٰ",
+      "translation": "pertama",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 55557,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_062_005.mp3",
+      "text": "فَلَوْلَا",
+      "translation": "maka mengapa tidak",
+      "transliteration": "falawlā"
+    },
+    {
+      "id": 55558,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_062_006.mp3",
+      "text": "تَذَكَّرُونَ",
+      "translation": "kamu ingat/mengambil pelajaran",
+      "transliteration": "tadhakkarūna"
+    },
+    {
+      "id": 55559,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Sesungguhnya kamu telah mengetahui penciptaan yang pertama, maka mengapakah kamu tidak mengambil pelajaran (untuk penciptaan yang kedua)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 426590,
+    "timestamp_to": 436230,
+    "duration": 9640,
+    "segments": [
+      [
+        1,
+        426485,
+        427315
+      ],
+      [
+        2,
+        427315,
+        428475
+      ],
+      [
+        3,
+        428475,
+        430235
+      ],
+      [
+        4,
+        430235,
+        431345
+      ],
+      [
+        5,
+        431345,
+        432445
+      ],
+      [
+        6,
+        432445,
+        436070
+      ]
+    ]
+  }
+}

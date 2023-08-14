@@ -1,0 +1,138 @@
+{
+  "id": 2888,
+  "chapter_id": 25,
+  "verse_key": "25:33",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 363,
+  "juz_number": 19,
+  "text_uthmani": "وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَـٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 35594,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan mereka",
+      "transliteration": "walā"
+    },
+    {
+      "id": 35595,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_002.mp3",
+      "text": "يَأْتُونَكَ",
+      "translation": "tidak datang kepadamu",
+      "transliteration": "yatūnaka"
+    },
+    {
+      "id": 35596,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_003.mp3",
+      "text": "بِمَثَلٍ",
+      "translation": "dengan suatu perumpamaan",
+      "transliteration": "bimathalin"
+    },
+    {
+      "id": 35597,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_004.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 35598,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_005.mp3",
+      "text": "جِئْنَـٰكَ",
+      "translation": "Kami datang kepadamu",
+      "transliteration": "ji'nāka"
+    },
+    {
+      "id": 35599,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_006.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 35600,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_007.mp3",
+      "text": "وَأَحْسَنَ",
+      "translation": "dan sebaik-baik",
+      "transliteration": "wa-aḥsana"
+    },
+    {
+      "id": 35601,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_033_008.mp3",
+      "text": "تَفْسِيرًا",
+      "translation": "penjelasan",
+      "transliteration": "tafsīran"
+    },
+    {
+      "id": 35602,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidaklah orang-orang kafir itu datang kepadamu (membawa) sesuatu yang ganjil, melainkan Kami datangkan kepadamu suatu yang benar dan yang paling baik penjelasannya <sup foot_note_id=\"1067\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 558410,
+    "timestamp_to": 567340,
+    "duration": 8930,
+    "segments": [
+      [
+        1,
+        558355,
+        559055
+      ],
+      [
+        2,
+        559055,
+        560305
+      ],
+      [
+        3,
+        560305,
+        561355
+      ],
+      [
+        4,
+        561355,
+        562125
+      ],
+      [
+        5,
+        562125,
+        563245
+      ],
+      [
+        6,
+        563245,
+        564315
+      ],
+      [
+        7,
+        564315,
+        565405
+      ],
+      [
+        8,
+        565405,
+        567260
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4022,
+  "chapter_id": 38,
+  "verse_key": "38:52",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ أَتْرَابٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 49825,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_052_002.mp3",
+      "text": "۞ وَعِندَهُمْ",
+      "translation": "dan disisi mereka",
+      "transliteration": "waʿindahum"
+    },
+    {
+      "id": 49826,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_052_003.mp3",
+      "text": "قَـٰصِرَٰتُ",
+      "translation": "tidak liar",
+      "transliteration": "qāṣirātu"
+    },
+    {
+      "id": 49827,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_052_004.mp3",
+      "text": "ٱلطَّرْفِ",
+      "translation": "maka/pandangan",
+      "transliteration": "l-ṭarfi"
+    },
+    {
+      "id": 49828,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_052_005.mp3",
+      "text": "أَتْرَابٌ",
+      "translation": "sebaya",
+      "transliteration": "atrābun"
+    },
+    {
+      "id": 49829,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di sisi mereka (ada bidadari-bidadari) yang tidak liar pandangannya dan sebaya umurnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 698280,
+    "timestamp_to": 705930,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        697775,
+        700035
+      ],
+      [
+        2,
+        700035,
+        701245
+      ],
+      [
+        3,
+        701245,
+        702135
+      ],
+      [
+        4,
+        702135,
+        705370
+      ]
+    ]
+  }
+}

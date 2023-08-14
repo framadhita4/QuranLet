@@ -1,0 +1,73 @@
+{
+  "id": 4920,
+  "chapter_id": 55,
+  "verse_key": "55:19",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 21507,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_019_001.mp3",
+      "text": "مَرَجَ",
+      "translation": "Dia alirkan",
+      "transliteration": "maraja"
+    },
+    {
+      "id": 21508,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_019_002.mp3",
+      "text": "ٱلْبَحْرَيْنِ",
+      "translation": "dua lautan",
+      "transliteration": "l-baḥrayni"
+    },
+    {
+      "id": 21509,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_019_003.mp3",
+      "text": "يَلْتَقِيَانِ",
+      "translation": "keduanya bertemu",
+      "transliteration": "yaltaqiyāni"
+    },
+    {
+      "id": 21510,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia membiarkan dua lautan mengalir yang keduanya kemudian bertemu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 133970,
+    "timestamp_to": 139610,
+    "duration": 5640,
+    "segments": [
+      [
+        1,
+        133905,
+        134605
+      ],
+      [
+        2,
+        134605,
+        135875
+      ],
+      [
+        3,
+        135875,
+        139490
+      ]
+    ]
+  }
+}

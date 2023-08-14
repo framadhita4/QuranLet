@@ -1,0 +1,73 @@
+{
+  "id": 5042,
+  "chapter_id": 56,
+  "verse_key": "56:63",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 56163,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_063_001.mp3",
+      "text": "أَفَرَءَيْتُم",
+      "translation": "maka apakah kamu perhatikan",
+      "transliteration": "afara-aytum"
+    },
+    {
+      "id": 56164,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_063_002.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 56165,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_063_003.mp3",
+      "text": "تَحْرُثُونَ",
+      "translation": "kamu tanam",
+      "transliteration": "taḥruthūna"
+    },
+    {
+      "id": 56166,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka terangkanlah kepadaku tentang yang kamu tanam?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 436230,
+    "timestamp_to": 443150,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        436175,
+        437535
+      ],
+      [
+        2,
+        437535,
+        438985
+      ],
+      [
+        3,
+        438985,
+        443020
+      ]
+    ]
+  }
+}

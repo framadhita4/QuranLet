@@ -1,0 +1,60 @@
+{
+  "id": 5572,
+  "chapter_id": 75,
+  "verse_key": "75:21",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 23962,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_021_001.mp3",
+      "text": "وَتَذَرُونَ",
+      "translation": "dan kamu meninggalkan",
+      "transliteration": "watadharūna"
+    },
+    {
+      "id": 23963,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_021_002.mp3",
+      "text": "ٱلْـَٔاخِرَةَ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirata"
+    },
+    {
+      "id": 23964,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan meninggalkan (kehidupan) akhirat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 101280,
+    "timestamp_to": 104150,
+    "duration": 2870,
+    "segments": [
+      [
+        1,
+        101185,
+        102405
+      ],
+      [
+        2,
+        102405,
+        103990
+      ]
+    ]
+  }
+}

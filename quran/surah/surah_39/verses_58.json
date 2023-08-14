@@ -1,0 +1,190 @@
+{
+  "id": 4116,
+  "chapter_id": 39,
+  "verse_key": "39:58",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "ruku_number": 403,
+  "manzil_number": 6,
+  "page_number": 465,
+  "juz_number": 24,
+  "text_uthmani": "أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةً فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3",
+  "words": [
+    {
+      "id": 53380,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 53381,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_002.mp3",
+      "text": "تَقُولَ",
+      "translation": "mengatakan",
+      "transliteration": "taqūla"
+    },
+    {
+      "id": 53382,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_003.mp3",
+      "text": "حِينَ",
+      "translation": "ketika",
+      "transliteration": "ḥīna"
+    },
+    {
+      "id": 53383,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_004.mp3",
+      "text": "تَرَى",
+      "translation": "melihat",
+      "transliteration": "tarā"
+    },
+    {
+      "id": 53384,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_005.mp3",
+      "text": "ٱلْعَذَابَ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhāba"
+    },
+    {
+      "id": 53385,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_006.mp3",
+      "text": "لَوْ",
+      "translation": "kalau",
+      "transliteration": "law"
+    },
+    {
+      "id": 53386,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_007.mp3",
+      "text": "أَنَّ",
+      "translation": "sekiranya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 53387,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_008.mp3",
+      "text": "لِى",
+      "translation": "bagiku/aku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 53388,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_009.mp3",
+      "text": "كَرَّةًۭ",
+      "translation": "mengulangi/kembali",
+      "transliteration": "karratan"
+    },
+    {
+      "id": 53389,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_010.mp3",
+      "text": "فَأَكُونَ",
+      "translation": "maka/niscaya aku menjadi",
+      "transliteration": "fa-akūna"
+    },
+    {
+      "id": 53390,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_011.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 53391,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/039_058_012.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 53392,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau supaya jangan ada yang berkata ketika ia melihat azab, \"Kalau sekiranya aku dapat kembali (ke dunia), niscaya aku akan termasuk orang-orang berbuat baik\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1248290,
+    "timestamp_to": 1262240,
+    "duration": 13950,
+    "segments": [
+      [
+        1,
+        1248235,
+        1248705
+      ],
+      [
+        2,
+        1248705,
+        1249685
+      ],
+      [
+        3,
+        1249685,
+        1250285
+      ],
+      [
+        4,
+        1250285,
+        1250845
+      ],
+      [
+        5,
+        1250845,
+        1252035
+      ],
+      [
+        6,
+        1252035,
+        1252415
+      ],
+      [
+        7,
+        1252415,
+        1253865
+      ],
+      [
+        8,
+        1253865,
+        1254335
+      ],
+      [
+        9,
+        1254335,
+        1256135
+      ],
+      [
+        10,
+        1256135,
+        1257415
+      ],
+      [
+        11,
+        1257415,
+        1257735
+      ],
+      [
+        12,
+        1257735,
+        1262130
+      ]
+    ]
+  }
+}

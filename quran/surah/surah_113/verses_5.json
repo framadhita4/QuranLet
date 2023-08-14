@@ -1,0 +1,99 @@
+{
+  "id": 6230,
+  "chapter_id": 113,
+  "verse_key": "113:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 557,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3",
+  "words": [
+    {
+      "id": 5473,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_005_001.mp3",
+      "text": "وَمِن",
+      "translation": "dan dari",
+      "transliteration": "wamin"
+    },
+    {
+      "id": 5474,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_005_002.mp3",
+      "text": "شَرِّ",
+      "translation": "kejahatan",
+      "transliteration": "sharri"
+    },
+    {
+      "id": 5475,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_005_003.mp3",
+      "text": "حَاسِدٍ",
+      "translation": "orang yang dengki",
+      "transliteration": "ḥāsidin"
+    },
+    {
+      "id": 5476,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_005_004.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 5477,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_005_005.mp3",
+      "text": "حَسَدَ",
+      "translation": "ia dengki",
+      "transliteration": "ḥasada"
+    },
+    {
+      "id": 5478,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dari kejahatan orang yang dengki apabila ia dengki\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 18150,
+    "timestamp_to": 23820,
+    "duration": 5670,
+    "segments": [
+      [
+        1,
+        18075,
+        18575
+      ],
+      [
+        2,
+        18575,
+        20065
+      ],
+      [
+        3,
+        20065,
+        21235
+      ],
+      [
+        4,
+        21235,
+        21825
+      ],
+      [
+        5,
+        21825,
+        23680
+      ]
+    ]
+  }
+}

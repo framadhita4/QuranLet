@@ -1,0 +1,99 @@
+{
+  "id": 3769,
+  "chapter_id": 36,
+  "verse_key": "36:64",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "ٱصْلَوْهَا ٱلْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 56645,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_064_001.mp3",
+      "text": "ٱصْلَوْهَا",
+      "translation": "masuklah ke dalamnya",
+      "transliteration": "iṣ'lawhā"
+    },
+    {
+      "id": 56646,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_064_002.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 56647,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_064_003.mp3",
+      "text": "بِمَا",
+      "translation": "karena",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 56648,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_064_004.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 56649,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_064_005.mp3",
+      "text": "تَكْفُرُونَ",
+      "translation": "kalian kafir",
+      "transliteration": "takfurūna"
+    },
+    {
+      "id": 56650,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Masuklah ke dalamnya pada hari ini disebabkan kamu dahulu mengingkarinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 793070,
+    "timestamp_to": 801350,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        792985,
+        794105
+      ],
+      [
+        2,
+        794105,
+        794915
+      ],
+      [
+        3,
+        794915,
+        795515
+      ],
+      [
+        4,
+        795515,
+        797315
+      ],
+      [
+        5,
+        797315,
+        801210
+      ]
+    ]
+  }
+}

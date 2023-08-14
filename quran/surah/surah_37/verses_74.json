@@ -1,0 +1,86 @@
+{
+  "id": 3862,
+  "chapter_id": 37,
+  "verse_key": "37:74",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 61452,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_074_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 61453,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_074_002.mp3",
+      "text": "عِبَادَ",
+      "translation": "hamba-hamba",
+      "transliteration": "ʿibāda"
+    },
+    {
+      "id": 61454,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_074_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 61455,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_074_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "ikhlas/suci",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 61456,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kecuali hamba-hamba Allah yang dibersihkan (dari dosa tidak akan diazab).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 623320,
+    "timestamp_to": 630820,
+    "duration": 7500,
+    "segments": [
+      [
+        1,
+        623245,
+        624145
+      ],
+      [
+        2,
+        624145,
+        625045
+      ],
+      [
+        3,
+        625045,
+        626165
+      ],
+      [
+        4,
+        626165,
+        630680
+      ]
+    ]
+  }
+}

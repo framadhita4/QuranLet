@@ -1,0 +1,138 @@
+{
+  "id": 2520,
+  "chapter_id": 21,
+  "verse_key": "21:37",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "ruku_number": 280,
+  "manzil_number": 4,
+  "page_number": 325,
+  "juz_number": 17,
+  "text_uthmani": "خُلِقَ ٱلْإِنسَـٰنُ مِنْ عَجَلٍ ۚ سَأُو۟رِيكُمْ ءَايَـٰتِى فَلَا تَسْتَعْجِلُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 39160,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_001.mp3",
+      "text": "خُلِقَ",
+      "translation": "telah diciptakan",
+      "transliteration": "khuliqa"
+    },
+    {
+      "id": 39161,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_002.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 39162,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 39163,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_004.mp3",
+      "text": "عَجَلٍۢ ۚ",
+      "translation": "tergesa-gesa",
+      "transliteration": "ʿajalin"
+    },
+    {
+      "id": 39165,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_006.mp3",
+      "text": "سَأُو۟رِيكُمْ",
+      "translation": "akan Ku perlihatkan kepadamu",
+      "transliteration": "sa-urīkum"
+    },
+    {
+      "id": 39166,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_007.mp3",
+      "text": "ءَايَـٰتِى",
+      "translation": "tanda-tanda-Ku",
+      "transliteration": "āyātī"
+    },
+    {
+      "id": 39167,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_008.mp3",
+      "text": "فَلَا",
+      "translation": "maka janganlah",
+      "transliteration": "falā"
+    },
+    {
+      "id": 39168,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_037_009.mp3",
+      "text": "تَسْتَعْجِلُونِ",
+      "translation": "kamu minta disegerakan",
+      "transliteration": "tastaʿjilūni"
+    },
+    {
+      "id": 39169,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Manusia telah dijadikan (bertabiat) tergesa-gesa.  Kelak akan Aku perIihatkan kepadamu tanda-tanda azab-Ku.  Maka janganlah kamu minta kepada-Ku mendatangkannya dengan segera.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 495430,
+    "timestamp_to": 505540,
+    "duration": 10110,
+    "segments": [
+      [
+        1,
+        495405,
+        496115
+      ],
+      [
+        2,
+        496115,
+        497975
+      ],
+      [
+        3,
+        497975,
+        498335
+      ],
+      [
+        4,
+        498335,
+        499025
+      ],
+      [
+        5,
+        499025,
+        500645
+      ],
+      [
+        6,
+        500645,
+        501895
+      ],
+      [
+        7,
+        501895,
+        502535
+      ],
+      [
+        8,
+        502535,
+        505460
+      ]
+    ]
+  }
+}

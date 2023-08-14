@@ -1,0 +1,125 @@
+{
+  "id": 1528,
+  "chapter_id": 11,
+  "verse_key": "11:55",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "ruku_number": 187,
+  "manzil_number": 3,
+  "page_number": 228,
+  "juz_number": 12,
+  "text_uthmani": "مِن دُونِهِۦ ۖ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 51919,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 51920,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_002.mp3",
+      "text": "دُونِهِۦ ۖ",
+      "translation": "selain Dia",
+      "transliteration": "dūnihi"
+    },
+    {
+      "id": 51922,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_004.mp3",
+      "text": "فَكِيدُونِى",
+      "translation": "maka tipu dayakanlah aku",
+      "transliteration": "fakīdūnī"
+    },
+    {
+      "id": 51923,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_005.mp3",
+      "text": "جَمِيعًۭا",
+      "translation": "semuanya",
+      "transliteration": "jamīʿan"
+    },
+    {
+      "id": 51924,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_006.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 51925,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_007.mp3",
+      "text": "لَا",
+      "translation": "janganlah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 51926,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_055_008.mp3",
+      "text": "تُنظِرُونِ",
+      "translation": "kalian melihat",
+      "transliteration": "tunẓirūni"
+    },
+    {
+      "id": 51927,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari selain-Nya, sebab itu jalankanlah tipu dayamu semuanya terhadapku dan janganlah kamu memberi tangguh kepadaku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1332590,
+    "timestamp_to": 1345020,
+    "duration": 12440,
+    "segments": [
+      [
+        1,
+        1332545,
+        1333935
+      ],
+      [
+        2,
+        1333935,
+        1335015
+      ],
+      [
+        3,
+        1335015,
+        1336545
+      ],
+      [
+        4,
+        1336545,
+        1338455
+      ],
+      [
+        5,
+        1338455,
+        1339765
+      ],
+      [
+        6,
+        1339765,
+        1340235
+      ],
+      [
+        7,
+        1340235,
+        1344920
+      ]
+    ]
+  }
+}

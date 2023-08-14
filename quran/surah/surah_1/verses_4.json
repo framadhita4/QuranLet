@@ -1,0 +1,73 @@
+{
+  "id": 4,
+  "chapter_id": 1,
+  "verse_key": "1:4",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+  "words": [
+    {
+      "id": 3252,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_004_001.mp3",
+      "text": "مَـٰلِكِ",
+      "translation": "Penguasa",
+      "transliteration": "māliki"
+    },
+    {
+      "id": 3253,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_004_002.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 3254,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_004_003.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 3255,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang menguasai<sup foot_note_id=\"4\">1</sup> hari pembalasan<sup foot_note_id=\"5\">2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 16300,
+    "timestamp_to": 20950,
+    "duration": 4650,
+    "segments": [
+      [
+        1,
+        16245,
+        17065
+      ],
+      [
+        2,
+        17065,
+        17665
+      ],
+      [
+        3,
+        17665,
+        20830
+      ]
+    ]
+  }
+}

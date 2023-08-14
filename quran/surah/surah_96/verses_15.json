@@ -1,0 +1,112 @@
+{
+  "id": 6121,
+  "chapter_id": 96,
+  "verse_key": "96:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 17600,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_015_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 17601,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_015_002.mp3",
+      "text": "لَئِن",
+      "translation": "sungguh jika",
+      "transliteration": "la-in"
+    },
+    {
+      "id": 17602,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_015_003.mp3",
+      "text": "لَّمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 17603,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_015_004.mp3",
+      "text": "يَنتَهِ",
+      "translation": "dia berhenti",
+      "transliteration": "yantahi"
+    },
+    {
+      "id": 17604,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_015_005.mp3",
+      "text": "لَنَسْفَعًۢا",
+      "translation": "niscaya kami pegang/tarik",
+      "transliteration": "lanasfaʿan"
+    },
+    {
+      "id": 17605,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_015_006.mp3",
+      "text": "بِٱلنَّاصِيَةِ",
+      "translation": "dengan umbun-umbun",
+      "transliteration": "bil-nāṣiyati"
+    },
+    {
+      "id": 17606,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya<sup foot_note_id=\"1592\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 58910,
+    "timestamp_to": 67610,
+    "duration": 8700,
+    "segments": [
+      [
+        1,
+        58865,
+        59885
+      ],
+      [
+        2,
+        59885,
+        60805
+      ],
+      [
+        3,
+        60805,
+        61325
+      ],
+      [
+        4,
+        61325,
+        62805
+      ],
+      [
+        5,
+        62805,
+        64215
+      ],
+      [
+        6,
+        64215,
+        67540
+      ]
+    ]
+  }
+}

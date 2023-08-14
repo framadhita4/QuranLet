@@ -1,0 +1,73 @@
+{
+  "id": 6051,
+  "chapter_id": 91,
+  "verse_key": "91:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 9528,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_008_001.mp3",
+      "text": "فَأَلْهَمَهَا",
+      "translation": "maka Dia mengilhamkan padanya",
+      "transliteration": "fa-alhamahā"
+    },
+    {
+      "id": 9529,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_008_002.mp3",
+      "text": "فُجُورَهَا",
+      "translation": "kedurhakaanya",
+      "transliteration": "fujūrahā"
+    },
+    {
+      "id": 9530,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_008_003.mp3",
+      "text": "وَتَقْوَىٰهَا",
+      "translation": "dan ketaqwaannya",
+      "transliteration": "wataqwāhā"
+    },
+    {
+      "id": 9531,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27710,
+    "timestamp_to": 32880,
+    "duration": 5170,
+    "segments": [
+      [
+        1,
+        27205,
+        28665
+      ],
+      [
+        2,
+        28665,
+        29945
+      ],
+      [
+        3,
+        29945,
+        31780
+      ]
+    ]
+  }
+}

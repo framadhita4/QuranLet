@@ -1,0 +1,125 @@
+{
+  "id": 3760,
+  "chapter_id": 36,
+  "verse_key": "36:55",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍ فَـٰكِهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 51981,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 51982,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_002.mp3",
+      "text": "أَصْحَـٰبَ",
+      "translation": "penghuni",
+      "transliteration": "aṣḥāba"
+    },
+    {
+      "id": 51983,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_003.mp3",
+      "text": "ٱلْجَنَّةِ",
+      "translation": "sorga",
+      "transliteration": "l-janati"
+    },
+    {
+      "id": 51984,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_004.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "pada hari itu",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 51985,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_005.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 51986,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_006.mp3",
+      "text": "شُغُلٍۢ",
+      "translation": "kesibukan",
+      "transliteration": "shughulin"
+    },
+    {
+      "id": 51987,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_055_007.mp3",
+      "text": "فَـٰكِهُونَ",
+      "translation": "bersenang-senang",
+      "transliteration": "fākihūna"
+    },
+    {
+      "id": 51988,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya penghuni surga pada hari itu bersenang-senang dalam kesibukan (mereka).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 694840,
+    "timestamp_to": 706520,
+    "duration": 11680,
+    "segments": [
+      [
+        1,
+        694735,
+        696675
+      ],
+      [
+        2,
+        696675,
+        697695
+      ],
+      [
+        3,
+        697695,
+        699665
+      ],
+      [
+        4,
+        699665,
+        700465
+      ],
+      [
+        5,
+        700465,
+        700975
+      ],
+      [
+        6,
+        700975,
+        702185
+      ],
+      [
+        7,
+        702185,
+        706330
+      ]
+    ]
+  }
+}

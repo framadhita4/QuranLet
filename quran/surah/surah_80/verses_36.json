@@ -1,0 +1,60 @@
+{
+  "id": 5794,
+  "chapter_id": 80,
+  "verse_key": "80:36",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 38026,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_036_001.mp3",
+      "text": "وَصَـٰحِبَتِهِۦ",
+      "translation": "dan istrinya",
+      "transliteration": "waṣāḥibatihi"
+    },
+    {
+      "id": 38027,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_036_002.mp3",
+      "text": "وَبَنِيهِ",
+      "translation": "dan anak-anaknya",
+      "transliteration": "wabanīhi"
+    },
+    {
+      "id": 38028,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari istri dan anak-anaknya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 162390,
+    "timestamp_to": 166780,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        162115,
+        163865
+      ],
+      [
+        2,
+        163865,
+        166400
+      ]
+    ]
+  }
+}

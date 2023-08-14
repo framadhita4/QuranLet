@@ -1,0 +1,73 @@
+{
+  "id": 5745,
+  "chapter_id": 79,
+  "verse_key": "79:33",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "مَتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 35582,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_033_001.mp3",
+      "text": "مَتَـٰعًۭا",
+      "translation": "kesenangan",
+      "transliteration": "matāʿan"
+    },
+    {
+      "id": 35583,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_033_002.mp3",
+      "text": "لَّكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 35584,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_033_003.mp3",
+      "text": "وَلِأَنْعَـٰمِكُمْ",
+      "translation": "dan untuk binatang ternakmu",
+      "transliteration": "wali-anʿāmikum"
+    },
+    {
+      "id": 35585,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(semua itu) untuk kesenanganmu dan untuk binatang-binatang ternakmu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 149590,
+    "timestamp_to": 153820,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        149345,
+        150315
+      ],
+      [
+        2,
+        150315,
+        151195
+      ],
+      [
+        3,
+        151195,
+        153480
+      ]
+    ]
+  }
+}

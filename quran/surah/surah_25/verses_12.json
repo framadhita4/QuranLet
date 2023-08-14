@@ -1,0 +1,151 @@
+{
+  "id": 2867,
+  "chapter_id": 25,
+  "verse_key": "25:12",
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "ruku_number": 311,
+  "manzil_number": 4,
+  "page_number": 361,
+  "juz_number": 18,
+  "text_uthmani": "إِذَا رَأَتْهُم مِّن مَّكَانٍۭ بَعِيدٍ سَمِعُوا۟ لَهَا تَغَيُّظًا وَزَفِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 14253,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_001.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 14254,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_002.mp3",
+      "text": "رَأَتْهُم",
+      "translation": "(neraka) melihat mereka",
+      "transliteration": "ra-athum"
+    },
+    {
+      "id": 14255,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 14256,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_004.mp3",
+      "text": "مَّكَانٍۭ",
+      "translation": "tempat",
+      "transliteration": "makānin"
+    },
+    {
+      "id": 14257,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_005.mp3",
+      "text": "بَعِيدٍۢ",
+      "translation": "yang jauh",
+      "transliteration": "baʿīdin"
+    },
+    {
+      "id": 14258,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_006.mp3",
+      "text": "سَمِعُوا۟",
+      "translation": "mereka akan mendengar",
+      "transliteration": "samiʿū"
+    },
+    {
+      "id": 14259,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_007.mp3",
+      "text": "لَهَا",
+      "translation": "padanya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 14260,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_008.mp3",
+      "text": "تَغَيُّظًۭا",
+      "translation": "suara kemarahan",
+      "transliteration": "taghayyuẓan"
+    },
+    {
+      "id": 14261,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_012_009.mp3",
+      "text": "وَزَفِيرًۭا",
+      "translation": "dan teriakan/suara bernyala-nyala",
+      "transliteration": "wazafīran"
+    },
+    {
+      "id": 14262,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apabila neraka itu melihat <sup foot_note_id=\"1056\">1</sup> mereka dari tempat yang jauh, mereka mendengar kegeramannya dan suara nyalanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 217750,
+    "timestamp_to": 230760,
+    "duration": 13010,
+    "segments": [
+      [
+        1,
+        217695,
+        218415
+      ],
+      [
+        2,
+        218415,
+        219465
+      ],
+      [
+        3,
+        219465,
+        220445
+      ],
+      [
+        4,
+        220445,
+        222745
+      ],
+      [
+        5,
+        222745,
+        224065
+      ],
+      [
+        6,
+        224065,
+        225755
+      ],
+      [
+        7,
+        225755,
+        226355
+      ],
+      [
+        8,
+        226355,
+        228665
+      ],
+      [
+        9,
+        228665,
+        230670
+      ]
+    ]
+  }
+}

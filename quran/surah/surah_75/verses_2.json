@@ -1,0 +1,86 @@
+{
+  "id": 5553,
+  "chapter_id": 75,
+  "verse_key": "75:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 1616,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_001.mp3",
+      "text": "وَلَآ",
+      "translation": "dan benar-benar",
+      "transliteration": "walā"
+    },
+    {
+      "id": 1617,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 1618,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_003.mp3",
+      "text": "بِٱلنَّفْسِ",
+      "translation": "dengan jiwa",
+      "transliteration": "bil-nafsi"
+    },
+    {
+      "id": 1619,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_004.mp3",
+      "text": "ٱللَّوَّامَةِ",
+      "translation": "mencela/menyesali",
+      "transliteration": "l-lawāmati"
+    },
+    {
+      "id": 1620,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan aku bersumpah dengan jiwa yang amat menyesali (dirinya sendiri)<sup foot_note_id=\"1531\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6110,
+    "timestamp_to": 13580,
+    "duration": 7470,
+    "segments": [
+      [
+        1,
+        6015,
+        8455
+      ],
+      [
+        2,
+        8455,
+        9295
+      ],
+      [
+        3,
+        9295,
+        11315
+      ],
+      [
+        4,
+        11315,
+        13430
+      ]
+    ]
+  }
+}

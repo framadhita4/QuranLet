@@ -1,0 +1,86 @@
+{
+  "id": 5003,
+  "chapter_id": 56,
+  "verse_key": "56:24",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 26876,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_024_001.mp3",
+      "text": "جَزَآءًۢ",
+      "translation": "balasan",
+      "transliteration": "jazāan"
+    },
+    {
+      "id": 26877,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_024_002.mp3",
+      "text": "بِمَا",
+      "translation": "bagi apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 26878,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_024_003.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 26879,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_024_004.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka telah kerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 26880,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebagai balasan bagi apa yang telah mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 145910,
+    "timestamp_to": 154900,
+    "duration": 8990,
+    "segments": [
+      [
+        1,
+        145785,
+        149414
+      ],
+      [
+        2,
+        149415,
+        149865
+      ],
+      [
+        3,
+        149865,
+        151195
+      ],
+      [
+        4,
+        151195,
+        154670
+      ]
+    ]
+  }
+}

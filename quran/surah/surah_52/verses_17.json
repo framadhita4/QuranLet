@@ -1,0 +1,99 @@
+{
+  "id": 4752,
+  "chapter_id": 52,
+  "verse_key": "52:17",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَعِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 19299,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_017_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 19300,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_017_002.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 19301,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_017_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 19302,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_017_004.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "surga",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 19303,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_017_005.mp3",
+      "text": "وَنَعِيمٍۢ",
+      "translation": "dan kenikmatan",
+      "transliteration": "wanaʿīmin"
+    },
+    {
+      "id": 19304,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa berada dalam surga dan kenikmatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 108260,
+    "timestamp_to": 118340,
+    "duration": 10080,
+    "segments": [
+      [
+        1,
+        108185,
+        109685
+      ],
+      [
+        2,
+        109685,
+        111315
+      ],
+      [
+        3,
+        111315,
+        111795
+      ],
+      [
+        4,
+        111795,
+        114734
+      ],
+      [
+        5,
+        114735,
+        118190
+      ]
+    ]
+  }
+}

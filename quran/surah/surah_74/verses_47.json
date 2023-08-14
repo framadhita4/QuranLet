@@ -1,0 +1,73 @@
+{
+  "id": 5542,
+  "chapter_id": 74,
+  "verse_key": "74:47",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 46600,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_047_001.mp3",
+      "text": "حَتَّىٰٓ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 46601,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_047_002.mp3",
+      "text": "أَتَىٰنَا",
+      "translation": "datang kepada kami",
+      "transliteration": "atānā"
+    },
+    {
+      "id": 46602,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_047_003.mp3",
+      "text": "ٱلْيَقِينُ",
+      "translation": "kepastian",
+      "transliteration": "l-yaqīnu"
+    },
+    {
+      "id": 46603,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "hingga datang kepada kami kematian\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 252710,
+    "timestamp_to": 258560,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        252655,
+        254845
+      ],
+      [
+        2,
+        254845,
+        255605
+      ],
+      [
+        3,
+        255605,
+        258450
+      ]
+    ]
+  }
+}

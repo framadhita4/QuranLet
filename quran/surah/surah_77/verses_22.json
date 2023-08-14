@@ -1,0 +1,73 @@
+{
+  "id": 5644,
+  "chapter_id": 77,
+  "verse_key": "77:22",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 24939,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_022_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada/sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 24940,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_022_002.mp3",
+      "text": "قَدَرٍۢ",
+      "translation": "ketentuan/waktu",
+      "transliteration": "qadarin"
+    },
+    {
+      "id": 24941,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_022_003.mp3",
+      "text": "مَّعْلُومٍۢ",
+      "translation": "ditentukan",
+      "transliteration": "maʿlūmin"
+    },
+    {
+      "id": 24942,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sampai waktu yang ditentukan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 86460,
+    "timestamp_to": 91580,
+    "duration": 5120,
+    "segments": [
+      [
+        1,
+        86365,
+        86885
+      ],
+      [
+        2,
+        86885,
+        87495
+      ],
+      [
+        3,
+        87495,
+        91370
+      ]
+    ]
+  }
+}

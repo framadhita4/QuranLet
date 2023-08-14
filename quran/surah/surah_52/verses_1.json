@@ -1,0 +1,47 @@
+{
+  "id": 4736,
+  "chapter_id": 52,
+  "verse_key": "52:1",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": " وَٱلطُّورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 274,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_001_001.mp3",
+      "text": "وَٱلطُّورِ",
+      "translation": "demi bukit",
+      "transliteration": "wal-ṭūri"
+    },
+    {
+      "id": 275,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi bukit<sup foot_note_id=\"1425\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3400,
+    "duration": 3400,
+    "segments": [
+      [
+        1,
+        0,
+        2995
+      ]
+    ]
+  }
+}

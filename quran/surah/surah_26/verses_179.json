@@ -1,0 +1,73 @@
+{
+  "id": 3111,
+  "chapter_id": 26,
+  "verse_key": "26:179",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83733,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_179_001.mp3",
+      "text": "فَٱتَّقُوا۟",
+      "translation": "maka bertakwalah kamu",
+      "transliteration": "fa-ittaqū"
+    },
+    {
+      "id": 83734,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_179_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 83735,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_179_003.mp3",
+      "text": "وَأَطِيعُونِ",
+      "translation": "dan taatlah kepadaku",
+      "transliteration": "wa-aṭīʿūni"
+    },
+    {
+      "id": 83736,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٧٩",
+      "translation": "(179)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka bertakwalah kepada Allah dan taatlah kepadaku;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1553000,
+    "timestamp_to": 1558380,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        1552945,
+        1553825
+      ],
+      [
+        2,
+        1553825,
+        1554755
+      ],
+      [
+        3,
+        1554755,
+        1558300
+      ]
+    ]
+  }
+}

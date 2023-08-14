@@ -1,0 +1,99 @@
+{
+  "id": 1852,
+  "chapter_id": 15,
+  "verse_key": "15:50",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "وَأَنَّ عَذَابِى هُوَ ٱلْعَذَابُ ٱلْأَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 48983,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "Dan bahwa",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 48984,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_002.mp3",
+      "text": "عَذَابِى",
+      "translation": "azabKu",
+      "transliteration": "ʿadhābī"
+    },
+    {
+      "id": 48985,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_003.mp3",
+      "text": "هُوَ",
+      "translation": "ia/adalah",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 48986,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_004.mp3",
+      "text": "ٱلْعَذَابُ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābu"
+    },
+    {
+      "id": 48987,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_005.mp3",
+      "text": "ٱلْأَلِيمُ",
+      "translation": "sangat pedih",
+      "transliteration": "l-alīmu"
+    },
+    {
+      "id": 48988,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwa sesungguhnya azab-Ku adalah azab yang sangat pedih.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 492680,
+    "timestamp_to": 500230,
+    "duration": 7550,
+    "segments": [
+      [
+        1,
+        492625,
+        494085
+      ],
+      [
+        2,
+        494085,
+        495205
+      ],
+      [
+        3,
+        495205,
+        495595
+      ],
+      [
+        4,
+        495595,
+        496745
+      ],
+      [
+        5,
+        496745,
+        500140
+      ]
+    ]
+  }
+}

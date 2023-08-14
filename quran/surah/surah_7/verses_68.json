@@ -1,0 +1,125 @@
+{
+  "id": 1022,
+  "chapter_id": 7,
+  "verse_key": "7:68",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "ruku_number": 130,
+  "manzil_number": 2,
+  "page_number": 159,
+  "juz_number": 8,
+  "text_uthmani": "أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 58521,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_001.mp3",
+      "text": "أُبَلِّغُكُمْ",
+      "translation": "aku menyampaikan",
+      "transliteration": "uballighukum"
+    },
+    {
+      "id": 58522,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_002.mp3",
+      "text": "رِسَـٰلَـٰتِ",
+      "translation": "risalah",
+      "transliteration": "risālāti"
+    },
+    {
+      "id": 58523,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_003.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 58524,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_004.mp3",
+      "text": "وَأَنَا۠",
+      "translation": "dan aku",
+      "transliteration": "wa-anā"
+    },
+    {
+      "id": 58525,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_005.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 58526,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_006.mp3",
+      "text": "نَاصِحٌ",
+      "translation": "pemberi nasehat",
+      "transliteration": "nāṣiḥun"
+    },
+    {
+      "id": 58527,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_068_007.mp3",
+      "text": "أَمِينٌ",
+      "translation": "dapat dipercaya",
+      "transliteration": "amīnun"
+    },
+    {
+      "id": 58528,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Aku menyampaikan amanat-amanat Tuhan-ku kepadamu dan aku hanyalah pemberi nasihat yang terpercaya bagimu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1574390,
+    "timestamp_to": 1582440,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        1574335,
+        1575755
+      ],
+      [
+        2,
+        1575755,
+        1577045
+      ],
+      [
+        3,
+        1577045,
+        1577835
+      ],
+      [
+        4,
+        1577835,
+        1578475
+      ],
+      [
+        5,
+        1578475,
+        1579105
+      ],
+      [
+        6,
+        1579105,
+        1580125
+      ],
+      [
+        7,
+        1580125,
+        1582320
+      ]
+    ]
+  }
+}

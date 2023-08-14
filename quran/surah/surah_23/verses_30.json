@@ -1,0 +1,125 @@
+{
+  "id": 2703,
+  "chapter_id": 23,
+  "verse_key": "23:30",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 296,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 32636,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 32637,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 32638,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 32639,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_004.mp3",
+      "text": "لَـَٔايَـٰتٍۢ",
+      "translation": "sungguh tanda-tanda",
+      "transliteration": "laāyātin"
+    },
+    {
+      "id": 32640,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_005.mp3",
+      "text": "وَإِن",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 32641,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_006.mp3",
+      "text": "كُنَّا",
+      "translation": "Kami adalah",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 32642,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_030_007.mp3",
+      "text": "لَمُبْتَلِينَ",
+      "translation": "sungguh menguji/menimpakan azab",
+      "transliteration": "lamub'talīna"
+    },
+    {
+      "id": 32643,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada (kejadian) itu benar-benar terdapat beberapa tanda (kebesaran Allah) dan sesungguhnya Kami menimpakan azab (kepada kaum Nūḥ itu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 412610,
+    "timestamp_to": 423740,
+    "duration": 11130,
+    "segments": [
+      [
+        1,
+        412565,
+        414025
+      ],
+      [
+        2,
+        414025,
+        414515
+      ],
+      [
+        3,
+        414515,
+        415365
+      ],
+      [
+        4,
+        415365,
+        417685
+      ],
+      [
+        5,
+        417685,
+        418885
+      ],
+      [
+        6,
+        418885,
+        420335
+      ],
+      [
+        7,
+        420335,
+        423640
+      ]
+    ]
+  }
+}

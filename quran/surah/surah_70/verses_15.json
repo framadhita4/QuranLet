@@ -1,0 +1,73 @@
+{
+  "id": 5390,
+  "chapter_id": 70,
+  "verse_key": "70:15",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 17440,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_015_001.mp3",
+      "text": "كَلَّآ ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 17442,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_015_003.mp3",
+      "text": "إِنَّهَا",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahā"
+    },
+    {
+      "id": 17443,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_015_004.mp3",
+      "text": "لَظَىٰ",
+      "translation": "api yang menyala-nyala",
+      "transliteration": "laẓā"
+    },
+    {
+      "id": 17444,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak dapat.  Sesungguhnya neraka itu adalah api yang bergejolak,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 85100,
+    "timestamp_to": 90740,
+    "duration": 5640,
+    "segments": [
+      [
+        1,
+        85045,
+        87595
+      ],
+      [
+        2,
+        87595,
+        89405
+      ],
+      [
+        3,
+        89405,
+        90620
+      ]
+    ]
+  }
+}

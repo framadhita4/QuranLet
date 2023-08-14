@@ -1,0 +1,125 @@
+{
+  "id": 3780,
+  "chapter_id": 36,
+  "verse_key": "36:75",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 387,
+  "manzil_number": 5,
+  "page_number": 445,
+  "juz_number": 23,
+  "text_uthmani": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 61951,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 61952,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_002.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka tidak kuasa",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 61953,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_003.mp3",
+      "text": "نَصْرَهُمْ",
+      "translation": "menolong mereka",
+      "transliteration": "naṣrahum"
+    },
+    {
+      "id": 61954,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_004.mp3",
+      "text": "وَهُمْ",
+      "translation": "sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 61955,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_005.mp3",
+      "text": "لَهُمْ",
+      "translation": "untuk mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 61956,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_006.mp3",
+      "text": "جُندٌۭ",
+      "translation": "bala tentara",
+      "transliteration": "jundun"
+    },
+    {
+      "id": 61957,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_075_007.mp3",
+      "text": "مُّحْضَرُونَ",
+      "translation": "dihadapkan/disiapkan",
+      "transliteration": "muḥ'ḍarūna"
+    },
+    {
+      "id": 61958,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berhala-berhala itu tiada dapat menolong mereka; padahal berhala-berhala itu menjadi tentara yang disiapkan untuk menjaga mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 929490,
+    "timestamp_to": 939970,
+    "duration": 10480,
+    "segments": [
+      [
+        1,
+        929415,
+        929945
+      ],
+      [
+        2,
+        929945,
+        931565
+      ],
+      [
+        3,
+        931565,
+        932555
+      ],
+      [
+        4,
+        932555,
+        933105
+      ],
+      [
+        5,
+        933105,
+        933735
+      ],
+      [
+        6,
+        933735,
+        935115
+      ],
+      [
+        7,
+        935115,
+        939810
+      ]
+    ]
+  }
+}

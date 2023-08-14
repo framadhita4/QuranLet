@@ -1,0 +1,99 @@
+{
+  "id": 5024,
+  "chapter_id": 56,
+  "verse_key": "56:45",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 45155,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_045_001.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 45156,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_045_002.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 45157,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_045_003.mp3",
+      "text": "قَبْلَ",
+      "translation": "sebelum",
+      "transliteration": "qabla"
+    },
+    {
+      "id": 45158,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_045_004.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 45159,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_045_005.mp3",
+      "text": "مُتْرَفِينَ",
+      "translation": "dalam kesenangan/kemewahan",
+      "transliteration": "mut'rafīna"
+    },
+    {
+      "id": 45160,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya mereka sebelum itu hidup bermewah-mewah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 277810,
+    "timestamp_to": 285990,
+    "duration": 8180,
+    "segments": [
+      [
+        1,
+        277735,
+        279665
+      ],
+      [
+        2,
+        279665,
+        280605
+      ],
+      [
+        3,
+        280605,
+        281435
+      ],
+      [
+        4,
+        281435,
+        282335
+      ],
+      [
+        5,
+        282335,
+        285790
+      ]
+    ]
+  }
+}

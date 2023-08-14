@@ -1,0 +1,112 @@
+{
+  "id": 5999,
+  "chapter_id": 89,
+  "verse_key": "89:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 6346,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_006_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidakkah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 6347,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_006_002.mp3",
+      "text": "تَرَ",
+      "translation": "lihat/perhatikan",
+      "transliteration": "tara"
+    },
+    {
+      "id": 6348,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_006_003.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimana",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 6349,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_006_004.mp3",
+      "text": "فَعَلَ",
+      "translation": "berbuat",
+      "transliteration": "faʿala"
+    },
+    {
+      "id": 6350,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_006_005.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 6351,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_006_006.mp3",
+      "text": "بِعَادٍ",
+      "translation": "terhadap kaum 'Ad",
+      "transliteration": "biʿādin"
+    },
+    {
+      "id": 6352,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kamu tidak memperhatikan bagaimana Tuhan-mu berbuat terhadap kaum ʻĀd?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13430,
+    "timestamp_to": 19440,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        13355,
+        13935
+      ],
+      [
+        2,
+        13935,
+        14355
+      ],
+      [
+        3,
+        14355,
+        15035
+      ],
+      [
+        4,
+        15035,
+        15765
+      ],
+      [
+        5,
+        15765,
+        16525
+      ],
+      [
+        6,
+        16525,
+        18660
+      ]
+    ]
+  }
+}

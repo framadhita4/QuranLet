@@ -1,0 +1,86 @@
+{
+  "id": 6164,
+  "chapter_id": 101,
+  "verse_key": "101:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 7350,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_007_001.mp3",
+      "text": "فَهُوَ",
+      "translation": "maka dia",
+      "transliteration": "fahuwa"
+    },
+    {
+      "id": 7351,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_007_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 7352,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_007_003.mp3",
+      "text": "عِيشَةٍۢ",
+      "translation": "kehidupan",
+      "transliteration": "ʿīshatin"
+    },
+    {
+      "id": 7353,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_007_004.mp3",
+      "text": "رَّاضِيَةٍۢ",
+      "translation": "memuaskan",
+      "transliteration": "rāḍiyatin"
+    },
+    {
+      "id": 7354,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dia berada dalam kehidupan yang memuaskan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 31310,
+    "timestamp_to": 35180,
+    "duration": 3870,
+    "segments": [
+      [
+        1,
+        31245,
+        31855
+      ],
+      [
+        2,
+        31855,
+        32405
+      ],
+      [
+        3,
+        32405,
+        33485
+      ],
+      [
+        4,
+        33485,
+        35030
+      ]
+    ]
+  }
+}

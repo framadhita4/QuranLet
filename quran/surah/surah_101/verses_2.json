@@ -1,0 +1,60 @@
+{
+  "id": 6159,
+  "chapter_id": 101,
+  "verse_key": "101:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": "مَا ٱلْقَارِعَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "words": [
+    {
+      "id": 977,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_002_001.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 978,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_002_002.mp3",
+      "text": "ٱلْقَارِعَةُ",
+      "translation": "hari kiamat",
+      "transliteration": "l-qāriʿatu"
+    },
+    {
+      "id": 979,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "apakah hari kiamat itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2320,
+    "timestamp_to": 4620,
+    "duration": 2300,
+    "segments": [
+      [
+        1,
+        2235,
+        2475
+      ],
+      [
+        2,
+        2475,
+        4450
+      ]
+    ]
+  }
+}

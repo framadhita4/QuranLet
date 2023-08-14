@@ -1,0 +1,86 @@
+{
+  "id": 5892,
+  "chapter_id": 84,
+  "verse_key": "84:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 9238,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_008_001.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka nanti",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 9239,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_008_002.mp3",
+      "text": "يُحَاسَبُ",
+      "translation": "dia dihisap/diperiksa",
+      "transliteration": "yuḥāsabu"
+    },
+    {
+      "id": 9240,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_008_003.mp3",
+      "text": "حِسَابًۭا",
+      "translation": "perhitungan/pemeriksaan",
+      "transliteration": "ḥisāban"
+    },
+    {
+      "id": 9241,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_008_004.mp3",
+      "text": "يَسِيرًۭا",
+      "translation": "mudah",
+      "transliteration": "yasīran"
+    },
+    {
+      "id": 9242,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dia akan diperiksa dengan pemeriksaan yang mudah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39620,
+    "timestamp_to": 44920,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        39565,
+        40385
+      ],
+      [
+        2,
+        40385,
+        41455
+      ],
+      [
+        3,
+        41455,
+        42645
+      ],
+      [
+        4,
+        42645,
+        44840
+      ]
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": 2446,
+  "chapter_id": 20,
+  "verse_key": "20:98",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "page_number": 318,
+  "juz_number": 16,
+  "text_uthmani": "إِنَّمَآ إِلَـٰهُكُمُ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَسِعَ كُلَّ شَىْءٍ عِلْمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 70651,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_001.mp3",
+      "text": "إِنَّمَآ",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 70652,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_002.mp3",
+      "text": "إِلَـٰهُكُمُ",
+      "translation": "Tuhanmu",
+      "transliteration": "ilāhukumu"
+    },
+    {
+      "id": 70653,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 70654,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_004.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 70655,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_005.mp3",
+      "text": "لَآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 70656,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_006.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "Tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 70657,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_007.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 70658,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_008.mp3",
+      "text": "هُوَ ۚ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 70660,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_010.mp3",
+      "text": "وَسِعَ",
+      "translation": "luas/meliputi",
+      "transliteration": "wasiʿa"
+    },
+    {
+      "id": 70661,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_011.mp3",
+      "text": "كُلَّ",
+      "translation": "segala",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 70662,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_012.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 70663,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_098_013.mp3",
+      "text": "عِلْمًۭا",
+      "translation": "pengetahuan",
+      "transliteration": "ʿil'man"
+    },
+    {
+      "id": 70664,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu hanyalah Allah yang tidak ada Tuhan (yang berhak disembah) selain Dia. Pengetahuan-Nya meliputi segala sesuatu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1132900,
+    "timestamp_to": 1146880,
+    "duration": 13980,
+    "segments": [
+      [
+        1,
+        1132855,
+        1135825
+      ],
+      [
+        2,
+        1135825,
+        1137055
+      ],
+      [
+        3,
+        1137055,
+        1138005
+      ],
+      [
+        4,
+        1138005,
+        1138955
+      ],
+      [
+        5,
+        1138955,
+        1140285
+      ],
+      [
+        6,
+        1140285,
+        1141415
+      ],
+      [
+        7,
+        1141415,
+        1142415
+      ],
+      [
+        8,
+        1142415,
+        1142925
+      ],
+      [
+        9,
+        1142925,
+        1143965
+      ],
+      [
+        10,
+        1143965,
+        1144555
+      ],
+      [
+        11,
+        1144555,
+        1145485
+      ],
+      [
+        12,
+        1145485,
+        1146530
+      ]
+    ]
+  }
+}

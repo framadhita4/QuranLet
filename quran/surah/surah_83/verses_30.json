@@ -1,0 +1,86 @@
+{
+  "id": 5878,
+  "chapter_id": 83,
+  "verse_key": "83:30",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 32746,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_030_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 32747,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_030_002.mp3",
+      "text": "مَرُّوا۟",
+      "translation": "(orang-orang beriman) lewat",
+      "transliteration": "marrū"
+    },
+    {
+      "id": 32748,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_030_003.mp3",
+      "text": "بِهِمْ",
+      "translation": "pada mereka",
+      "transliteration": "bihim"
+    },
+    {
+      "id": 32749,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_030_004.mp3",
+      "text": "يَتَغَامَزُونَ",
+      "translation": "mereka saling mengedipkan mata",
+      "transliteration": "yataghāmazūna"
+    },
+    {
+      "id": 32750,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila orang-orang yang beriman lalu di hadapan mereka, mereka saling mengedip-ngedipkan matanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 222050,
+    "timestamp_to": 227900,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        221955,
+        222955
+      ],
+      [
+        2,
+        222955,
+        223755
+      ],
+      [
+        3,
+        223755,
+        224335
+      ],
+      [
+        4,
+        224335,
+        227720
+      ]
+    ]
+  }
+}

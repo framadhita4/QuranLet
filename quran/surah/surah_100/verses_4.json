@@ -1,0 +1,73 @@
+{
+  "id": 6150,
+  "chapter_id": 100,
+  "verse_key": "100:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 4469,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_004_001.mp3",
+      "text": "فَأَثَرْنَ",
+      "translation": "lalu ia menerbangkan",
+      "transliteration": "fa-atharna"
+    },
+    {
+      "id": 4470,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_004_002.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/karenanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 4471,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_004_003.mp3",
+      "text": "نَقْعًۭا",
+      "translation": "debu",
+      "transliteration": "naqʿan"
+    },
+    {
+      "id": 4472,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka ia menerbangkan debu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9640,
+    "timestamp_to": 12720,
+    "duration": 3080,
+    "segments": [
+      [
+        1,
+        9275,
+        10275
+      ],
+      [
+        2,
+        10275,
+        11035
+      ],
+      [
+        3,
+        11035,
+        11970
+      ]
+    ]
+  }
+}

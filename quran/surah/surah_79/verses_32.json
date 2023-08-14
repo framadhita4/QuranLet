@@ -1,0 +1,60 @@
+{
+  "id": 5744,
+  "chapter_id": 79,
+  "verse_key": "79:32",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْجِبَالَ أَرْسَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 34778,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_032_001.mp3",
+      "text": "وَٱلْجِبَالَ",
+      "translation": "dan gunung-gunung",
+      "transliteration": "wal-jibāla"
+    },
+    {
+      "id": 34779,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_032_002.mp3",
+      "text": "أَرْسَىٰهَا",
+      "translation": "Dia pancangkannya",
+      "transliteration": "arsāhā"
+    },
+    {
+      "id": 34780,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan gunung-gunung dipancangkan-Nya dengan teguh,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 146590,
+    "timestamp_to": 149590,
+    "duration": 3010,
+    "segments": [
+      [
+        1,
+        146225,
+        147485
+      ],
+      [
+        2,
+        147485,
+        148990
+      ]
+    ]
+  }
+}

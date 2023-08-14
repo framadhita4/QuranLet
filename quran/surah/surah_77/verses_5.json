@@ -1,0 +1,60 @@
+{
+  "id": 5627,
+  "chapter_id": 77,
+  "verse_key": "77:5",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 5433,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_005_001.mp3",
+      "text": "فَٱلْمُلْقِيَـٰتِ",
+      "translation": "lalu yang menyampaikan",
+      "transliteration": "fal-mul'qiyāti"
+    },
+    {
+      "id": 5434,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_005_002.mp3",
+      "text": "ذِكْرًا",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "dhik'ran"
+    },
+    {
+      "id": 5435,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang menyampaikan wahyu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 12330,
+    "timestamp_to": 15260,
+    "duration": 2930,
+    "segments": [
+      [
+        1,
+        12285,
+        13905
+      ],
+      [
+        2,
+        13905,
+        15190
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 5299,
+  "chapter_id": 68,
+  "verse_key": "68:28",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 30905,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_001.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 30906,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_002.mp3",
+      "text": "أَوْسَطُهُمْ",
+      "translation": "paling baik antara mereka",
+      "transliteration": "awsaṭuhum"
+    },
+    {
+      "id": 30907,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_003.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidakkah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 30908,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_004.mp3",
+      "text": "أَقُل",
+      "translation": "aku katakan",
+      "transliteration": "aqul"
+    },
+    {
+      "id": 30909,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_005.mp3",
+      "text": "لَّكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 30910,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_006.mp3",
+      "text": "لَوْلَا",
+      "translation": "mengapa tidak",
+      "transliteration": "lawlā"
+    },
+    {
+      "id": 30911,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_028_007.mp3",
+      "text": "تُسَبِّحُونَ",
+      "translation": "kamu bertasbih",
+      "transliteration": "tusabbiḥūna"
+    },
+    {
+      "id": 30912,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkatalah seorang yang paling baik pikirannya di antara mereka, \"Bukankah aku telah mengatakan kepadamu, hendaklah kamu bertasbih (kepada Tuhan-mu)?<sup foot_note_id=\"1495\">1</sup>\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 201640,
+    "timestamp_to": 209530,
+    "duration": 7890,
+    "segments": [
+      [
+        1,
+        201575,
+        202235
+      ],
+      [
+        2,
+        202235,
+        203295
+      ],
+      [
+        3,
+        203295,
+        203885
+      ],
+      [
+        4,
+        203885,
+        204425
+      ],
+      [
+        5,
+        204425,
+        205135
+      ],
+      [
+        6,
+        205135,
+        205895
+      ],
+      [
+        7,
+        205895,
+        209320
+      ]
+    ]
+  }
+}

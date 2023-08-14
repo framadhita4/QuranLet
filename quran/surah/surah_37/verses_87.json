@@ -1,0 +1,86 @@
+{
+  "id": 3875,
+  "chapter_id": 37,
+  "verse_key": "37:87",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 66746,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_087_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka apakah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 66747,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_087_002.mp3",
+      "text": "ظَنُّكُم",
+      "translation": "anggapanmu",
+      "transliteration": "ẓannukum"
+    },
+    {
+      "id": 66748,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_087_003.mp3",
+      "text": "بِرَبِّ",
+      "translation": "dengan/terhadap Tuhan",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 66749,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_087_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 66750,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨٧",
+      "translation": "(87)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah anggapanmu terhadap Tuhan semesta alam?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 718700,
+    "timestamp_to": 726330,
+    "duration": 7630,
+    "segments": [
+      [
+        1,
+        718635,
+        719235
+      ],
+      [
+        2,
+        719235,
+        721905
+      ],
+      [
+        3,
+        721905,
+        722695
+      ],
+      [
+        4,
+        722695,
+        726190
+      ]
+    ]
+  }
+}

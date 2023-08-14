@@ -1,0 +1,125 @@
+{
+  "id": 4000,
+  "chapter_id": 38,
+  "verse_key": "38:30",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَـٰنَ ۚ نِعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 33241,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_001.mp3",
+      "text": "وَوَهَبْنَا",
+      "translation": "dan Kami karuniakan",
+      "transliteration": "wawahabnā"
+    },
+    {
+      "id": 33242,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_002.mp3",
+      "text": "لِدَاوُۥدَ",
+      "translation": "kepada Daud",
+      "transliteration": "lidāwūda"
+    },
+    {
+      "id": 33243,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_003.mp3",
+      "text": "سُلَيْمَـٰنَ ۚ",
+      "translation": "Sulaiman",
+      "transliteration": "sulaymāna"
+    },
+    {
+      "id": 33245,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_005.mp3",
+      "text": "نِعْمَ",
+      "translation": "sebaik-baiknya",
+      "transliteration": "niʿ'ma"
+    },
+    {
+      "id": 33246,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_006.mp3",
+      "text": "ٱلْعَبْدُ ۖ",
+      "translation": "hamba",
+      "transliteration": "l-ʿabdu"
+    },
+    {
+      "id": 33248,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_008.mp3",
+      "text": "إِنَّهُۥٓ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 33249,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_030_009.mp3",
+      "text": "أَوَّابٌ",
+      "translation": "orang yang suka kembali",
+      "transliteration": "awwābun"
+    },
+    {
+      "id": 33250,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami karuniakan kepada Dāwūd, Sulaymān, dia adalah sebaik-baik hamba.  Sesungguhnya dia amat taat (kepada Tuhan-nya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 433530,
+    "timestamp_to": 447980,
+    "duration": 14450,
+    "segments": [
+      [
+        1,
+        433165,
+        434555
+      ],
+      [
+        2,
+        434555,
+        435775
+      ],
+      [
+        3,
+        435775,
+        439205
+      ],
+      [
+        4,
+        439206,
+        440325
+      ],
+      [
+        5,
+        440325,
+        441235
+      ],
+      [
+        6,
+        441235,
+        444425
+      ],
+      [
+        7,
+        444425,
+        447560
+      ]
+    ]
+  }
+}

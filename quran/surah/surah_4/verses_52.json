@@ -1,0 +1,177 @@
+{
+  "id": 545,
+  "chapter_id": 4,
+  "verse_key": "4:52",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "ruku_number": 69,
+  "manzil_number": 1,
+  "page_number": 87,
+  "juz_number": 5,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ ۖ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 50183,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 50184,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 50185,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_003.mp3",
+      "text": "لَعَنَهُمُ",
+      "translation": "mengutuk mereka",
+      "transliteration": "laʿanahumu"
+    },
+    {
+      "id": 50186,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_004.mp3",
+      "text": "ٱللَّهُ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 50188,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_006.mp3",
+      "text": "وَمَن",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 50189,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_007.mp3",
+      "text": "يَلْعَنِ",
+      "translation": "mengutuk",
+      "transliteration": "yalʿani"
+    },
+    {
+      "id": 50190,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_008.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 50191,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_009.mp3",
+      "text": "فَلَن",
+      "translation": "maka sekali-kali tidak",
+      "transliteration": "falan"
+    },
+    {
+      "id": 50192,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_010.mp3",
+      "text": "تَجِدَ",
+      "translation": "mendapat",
+      "transliteration": "tajida"
+    },
+    {
+      "id": 50193,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_011.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 50194,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_052_012.mp3",
+      "text": "نَصِيرًا",
+      "translation": "penolong",
+      "transliteration": "naṣīran"
+    },
+    {
+      "id": 50195,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka itulah orang yang dikutuk Allah. Barang siapa yang dikutuk Allah, niscaya kamu sekali-kali tidak akan memperoleh penolong baginya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1623740,
+    "timestamp_to": 1637610,
+    "duration": 13870,
+    "segments": [
+      [
+        1,
+        1623715,
+        1626165
+      ],
+      [
+        2,
+        1626165,
+        1627085
+      ],
+      [
+        3,
+        1627085,
+        1628175
+      ],
+      [
+        4,
+        1628175,
+        1630685
+      ],
+      [
+        5,
+        1630685,
+        1631105
+      ],
+      [
+        6,
+        1631105,
+        1632605
+      ],
+      [
+        7,
+        1632605,
+        1633385
+      ],
+      [
+        8,
+        1633385,
+        1634765
+      ],
+      [
+        9,
+        1634765,
+        1635395
+      ],
+      [
+        10,
+        1635395,
+        1635955
+      ],
+      [
+        11,
+        1635955,
+        1637540
+      ]
+    ]
+  }
+}

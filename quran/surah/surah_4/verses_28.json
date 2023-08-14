@@ -1,0 +1,138 @@
+{
+  "id": 521,
+  "chapter_id": 4,
+  "verse_key": "4:28",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "ruku_number": 66,
+  "manzil_number": 1,
+  "page_number": 83,
+  "juz_number": 5,
+  "text_uthmani": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ ٱلْإِنسَـٰنُ ضَعِيفًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 30561,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_001.mp3",
+      "text": "يُرِيدُ",
+      "translation": "menghendaki",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 30562,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 30563,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_003.mp3",
+      "text": "أَن",
+      "translation": "supaya",
+      "transliteration": "an"
+    },
+    {
+      "id": 30564,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_004.mp3",
+      "text": "يُخَفِّفَ",
+      "translation": "Dia memberi keringanan",
+      "transliteration": "yukhaffifa"
+    },
+    {
+      "id": 30565,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_005.mp3",
+      "text": "عَنكُمْ ۚ",
+      "translation": "dari kalian",
+      "transliteration": "ʿankum"
+    },
+    {
+      "id": 30567,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_007.mp3",
+      "text": "وَخُلِقَ",
+      "translation": "dan dijadikan",
+      "transliteration": "wakhuliqa"
+    },
+    {
+      "id": 30568,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_008.mp3",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation": "manusia",
+      "transliteration": "l-insānu"
+    },
+    {
+      "id": 30569,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_028_009.mp3",
+      "text": "ضَعِيفًۭا",
+      "translation": "lemah",
+      "transliteration": "ḍaʿīfan"
+    },
+    {
+      "id": 30570,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah hendak memberikan keringanan kepadamu<sup foot_note_id=\"287\">1</sup>, dan manusia dijadikan bersifat lemah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1006150,
+    "timestamp_to": 1017120,
+    "duration": 10970,
+    "segments": [
+      [
+        1,
+        1005705,
+        1006615
+      ],
+      [
+        2,
+        1006615,
+        1007505
+      ],
+      [
+        3,
+        1007505,
+        1007845
+      ],
+      [
+        4,
+        1007845,
+        1009755
+      ],
+      [
+        5,
+        1009755,
+        1011635
+      ],
+      [
+        6,
+        1011635,
+        1012405
+      ],
+      [
+        7,
+        1012405,
+        1014455
+      ],
+      [
+        8,
+        1014455,
+        1016640
+      ]
+    ]
+  }
+}

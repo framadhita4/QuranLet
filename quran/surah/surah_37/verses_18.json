@@ -1,0 +1,90 @@
+{
+  "id": 3806,
+  "chapter_id": 37,
+  "verse_key": "37:18",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 21130,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_018_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 21131,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_018_002.mp3",
+      "text": "نَعَمْ",
+      "translation": "ya",
+      "transliteration": "naʿam"
+    },
+    {
+      "id": 21132,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_018_003.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 21133,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_018_004.mp3",
+      "text": "دَٰخِرُونَ",
+      "translation": "terhina",
+      "transliteration": "dākhirūna"
+    },
+    {
+      "id": 21134,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Ya, dan kamu akan terhina\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 128625,
+    "timestamp_to": 135490,
+    "duration": 6870,
+    "segments": [
+      [
+        1,
+        128565,
+        129061
+      ],
+      [
+        2,
+        129061,
+        129827
+      ],
+      [
+        3,
+        129827,
+        131761
+      ],
+      [
+        4,
+        131761,
+        134915
+      ],
+      [
+        4,
+        134915
+      ]
+    ]
+  }
+}

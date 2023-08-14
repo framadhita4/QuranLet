@@ -1,0 +1,86 @@
+{
+  "id": 4052,
+  "chapter_id": 38,
+  "verse_key": "38:82",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 65237,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_082_001.mp3",
+      "text": "قَالَ",
+      "translation": "(iblis) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 65238,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_082_002.mp3",
+      "text": "فَبِعِزَّتِكَ",
+      "translation": "maka demi kemuliaan Engkau",
+      "transliteration": "fabiʿizzatika"
+    },
+    {
+      "id": 65239,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_082_003.mp3",
+      "text": "لَأُغْوِيَنَّهُمْ",
+      "translation": "sungguh aku akan aku sesatkan mereka",
+      "transliteration": "la-ugh'wiyannahum"
+    },
+    {
+      "id": 65240,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_082_004.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 65241,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Iblis menjawab, \"Demi kekuasaan Engkau aku akan menyesatkan mereka semuanya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 997490,
+    "timestamp_to": 1005560,
+    "duration": 8070,
+    "segments": [
+      [
+        1,
+        997465,
+        998145
+      ],
+      [
+        2,
+        998145,
+        999635
+      ],
+      [
+        3,
+        999635,
+        1002175
+      ],
+      [
+        4,
+        1002175,
+        1005510
+      ]
+    ]
+  }
+}

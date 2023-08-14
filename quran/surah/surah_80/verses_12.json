@@ -1,0 +1,73 @@
+{
+  "id": 5770,
+  "chapter_id": 80,
+  "verse_key": "80:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَمَن شَآءَ ذَكَرَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 14324,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_012_001.mp3",
+      "text": "فَمَن",
+      "translation": "maka barang siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 14325,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_012_002.mp3",
+      "text": "شَآءَ",
+      "translation": "ia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 14326,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_012_003.mp3",
+      "text": "ذَكَرَهُۥ",
+      "translation": "ia mengingat/memperhatikannya",
+      "transliteration": "dhakarahu"
+    },
+    {
+      "id": 14327,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka barangsiapa yang menghendaki, tentulah ia memperhatikannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48440,
+    "timestamp_to": 53010,
+    "duration": 4570,
+    "segments": [
+      [
+        1,
+        48365,
+        49305
+      ],
+      [
+        2,
+        49305,
+        51735
+      ],
+      [
+        3,
+        51735,
+        52900
+      ]
+    ]
+  }
+}

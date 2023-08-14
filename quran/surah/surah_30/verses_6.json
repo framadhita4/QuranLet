@@ -1,0 +1,177 @@
+{
+  "id": 3415,
+  "chapter_id": 30,
+  "verse_key": "30:6",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 405,
+  "juz_number": 21,
+  "text_uthmani": "وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 6892,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_001.mp3",
+      "text": "وَعْدَ",
+      "translation": "janji",
+      "transliteration": "waʿda"
+    },
+    {
+      "id": 6893,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_002.mp3",
+      "text": "ٱللَّهِ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 6895,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_004.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 6896,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_005.mp3",
+      "text": "يُخْلِفُ",
+      "translation": "menyalahi",
+      "transliteration": "yukh'lifu"
+    },
+    {
+      "id": 6897,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_006.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 6898,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_007.mp3",
+      "text": "وَعْدَهُۥ",
+      "translation": "janji-nya",
+      "transliteration": "waʿdahu"
+    },
+    {
+      "id": 6899,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_008.mp3",
+      "text": "وَلَـٰكِنَّ",
+      "translation": "tetapi",
+      "transliteration": "walākinna"
+    },
+    {
+      "id": 6900,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_009.mp3",
+      "text": "أَكْثَرَ",
+      "translation": "kebanyakan",
+      "transliteration": "akthara"
+    },
+    {
+      "id": 6901,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_010.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 6902,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_011.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 6903,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_006_012.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 6904,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Sebagai) janji yang sebenar-benarnya dari Allah. Allah tidak akan menyalahi janji-Nya, tetapi kebanyakan manusia tidak mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 56180,
+    "timestamp_to": 71590,
+    "duration": 15410,
+    "segments": [
+      [
+        1,
+        56155,
+        56985
+      ],
+      [
+        2,
+        56985,
+        60265
+      ],
+      [
+        3,
+        60265,
+        60665
+      ],
+      [
+        4,
+        60665,
+        61495
+      ],
+      [
+        5,
+        61495,
+        62455
+      ],
+      [
+        6,
+        62455,
+        63495
+      ],
+      [
+        7,
+        63495,
+        65505
+      ],
+      [
+        8,
+        65505,
+        66345
+      ],
+      [
+        9,
+        66345,
+        68104
+      ],
+      [
+        10,
+        68105,
+        68455
+      ],
+      [
+        11,
+        68455,
+        71540
+      ]
+    ]
+  }
+}

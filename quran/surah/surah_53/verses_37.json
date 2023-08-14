@@ -1,0 +1,73 @@
+{
+  "id": 4821,
+  "chapter_id": 53,
+  "verse_key": "53:37",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 38737,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_037_001.mp3",
+      "text": "وَإِبْرَٰهِيمَ",
+      "translation": "dan Ibrahim",
+      "transliteration": "wa-ib'rāhīma"
+    },
+    {
+      "id": 38738,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_037_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 38739,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_037_003.mp3",
+      "text": "وَفَّىٰٓ",
+      "translation": "dia sempurnakan",
+      "transliteration": "waffā"
+    },
+    {
+      "id": 38740,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan lembaran-lembaran Ibrāhīm yang selalu menyempurnakan janji?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 323900,
+    "timestamp_to": 327980,
+    "duration": 4080,
+    "segments": [
+      [
+        1,
+        323425,
+        325095
+      ],
+      [
+        2,
+        325095,
+        326055
+      ],
+      [
+        3,
+        326055,
+        327050
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4843,
+  "chapter_id": 53,
+  "verse_key": "53:59",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 54094,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_059_001.mp3",
+      "text": "أَفَمِنْ",
+      "translation": "maka apakah",
+      "transliteration": "afamin"
+    },
+    {
+      "id": 54095,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_059_002.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 54096,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_059_003.mp3",
+      "text": "ٱلْحَدِيثِ",
+      "translation": "pemberitaan",
+      "transliteration": "l-ḥadīthi"
+    },
+    {
+      "id": 54097,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_059_004.mp3",
+      "text": "تَعْجَبُونَ",
+      "translation": "kamu heran",
+      "transliteration": "taʿjabūna"
+    },
+    {
+      "id": 54098,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kamu merasa heran terhadap pemberitaan ini?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 443200,
+    "timestamp_to": 449230,
+    "duration": 6040,
+    "segments": [
+      [
+        1,
+        443145,
+        444015
+      ],
+      [
+        2,
+        444015,
+        444725
+      ],
+      [
+        3,
+        444725,
+        445895
+      ],
+      [
+        4,
+        445895,
+        449110
+      ]
+    ]
+  }
+}

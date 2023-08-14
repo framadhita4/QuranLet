@@ -1,0 +1,86 @@
+{
+  "id": 6052,
+  "chapter_id": 91,
+  "verse_key": "91:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 10792,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_001.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "qad"
+    },
+    {
+      "id": 10793,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_002.mp3",
+      "text": "أَفْلَحَ",
+      "translation": "beruntung",
+      "transliteration": "aflaḥa"
+    },
+    {
+      "id": 10794,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_003.mp3",
+      "text": "مَن",
+      "translation": "siapa/orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 10795,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_004.mp3",
+      "text": "زَكَّىٰهَا",
+      "translation": "mensucikannya",
+      "transliteration": "zakkāhā"
+    },
+    {
+      "id": 10796,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya beruntunglah orang yang menyucikan jiwa itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 32880,
+    "timestamp_to": 37010,
+    "duration": 4130,
+    "segments": [
+      [
+        1,
+        32285,
+        32685
+      ],
+      [
+        2,
+        32685,
+        33565
+      ],
+      [
+        3,
+        33565,
+        34505
+      ],
+      [
+        4,
+        34505,
+        35990
+      ]
+    ]
+  }
+}

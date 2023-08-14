@@ -1,0 +1,86 @@
+{
+  "id": 3961,
+  "chapter_id": 37,
+  "verse_key": "37:173",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83215,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 83216,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_002.mp3",
+      "text": "جُندَنَا",
+      "translation": "tentara Kami",
+      "transliteration": "jundanā"
+    },
+    {
+      "id": 83217,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_003.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 83218,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_004.mp3",
+      "text": "ٱلْغَـٰلِبُونَ",
+      "translation": "yang mengalahkan/menang",
+      "transliteration": "l-ghālibūna"
+    },
+    {
+      "id": 83219,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٧٣",
+      "translation": "(173)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya tentara Kami <sup foot_note_id=\"1293\">1</sup> itulah yang pasti menang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1382550,
+    "timestamp_to": 1389810,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        1382475,
+        1383785
+      ],
+      [
+        2,
+        1383785,
+        1385755
+      ],
+      [
+        3,
+        1385755,
+        1386295
+      ],
+      [
+        4,
+        1386295,
+        1389680
+      ]
+    ]
+  }
+}

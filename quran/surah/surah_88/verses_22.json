@@ -1,0 +1,73 @@
+{
+  "id": 5989,
+  "chapter_id": 88,
+  "verse_key": "88:22",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 24774,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_022_001.mp3",
+      "text": "لَّسْتَ",
+      "translation": "bakankah kamu",
+      "transliteration": "lasta"
+    },
+    {
+      "id": 24775,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_022_002.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 24776,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_022_003.mp3",
+      "text": "بِمُصَيْطِرٍ",
+      "translation": "dengan berkuasa",
+      "transliteration": "bimuṣayṭirin"
+    },
+    {
+      "id": 24777,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamu bukanlah orang yang berkuasa atas mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 95080,
+    "timestamp_to": 99100,
+    "duration": 4020,
+    "segments": [
+      [
+        1,
+        95005,
+        95665
+      ],
+      [
+        2,
+        95665,
+        97315
+      ],
+      [
+        3,
+        97315,
+        98950
+      ]
+    ]
+  }
+}

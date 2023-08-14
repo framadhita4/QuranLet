@@ -1,0 +1,177 @@
+{
+  "id": 3086,
+  "chapter_id": 26,
+  "verse_key": "26:154",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "مَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 80919,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_001.mp3",
+      "text": "مَآ",
+      "translation": "tidak lain",
+      "transliteration": "mā"
+    },
+    {
+      "id": 80920,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_002.mp3",
+      "text": "أَنتَ",
+      "translation": "kamu",
+      "transliteration": "anta"
+    },
+    {
+      "id": 80921,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 80922,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_004.mp3",
+      "text": "بَشَرٌۭ",
+      "translation": "seorang manusia",
+      "transliteration": "basharun"
+    },
+    {
+      "id": 80923,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_005.mp3",
+      "text": "مِّثْلُنَا",
+      "translation": "seperti kami",
+      "transliteration": "mith'lunā"
+    },
+    {
+      "id": 80924,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_006.mp3",
+      "text": "فَأْتِ",
+      "translation": "maka datangkanlah",
+      "transliteration": "fati"
+    },
+    {
+      "id": 80925,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_007.mp3",
+      "text": "بِـَٔايَةٍ",
+      "translation": "dengan suatu ayat/mukjizat",
+      "transliteration": "biāyatin"
+    },
+    {
+      "id": 80926,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_008.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 80927,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_009.mp3",
+      "text": "كُنتَ",
+      "translation": "kamu adalah",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 80928,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_010.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 80929,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_154_011.mp3",
+      "text": "ٱلصَّـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "l-ṣādiqīna"
+    },
+    {
+      "id": 80930,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٥٤",
+      "translation": "(154)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kamu tidak lain melainkan seorang manusia seperti kami, maka datangkanlah sesuatu mukjizat, jika kamu memang termasuk orang-orang yang benar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1335350,
+    "timestamp_to": 1349800,
+    "duration": 14450,
+    "segments": [
+      [
+        1,
+        1335295,
+        1337605
+      ],
+      [
+        2,
+        1337605,
+        1338945
+      ],
+      [
+        3,
+        1338945,
+        1339745
+      ],
+      [
+        4,
+        1339745,
+        1340435
+      ],
+      [
+        5,
+        1340435,
+        1342075
+      ],
+      [
+        6,
+        1342075,
+        1342785
+      ],
+      [
+        7,
+        1342785,
+        1344015
+      ],
+      [
+        8,
+        1344015,
+        1345205
+      ],
+      [
+        9,
+        1345205,
+        1346345
+      ],
+      [
+        10,
+        1346345,
+        1346715
+      ],
+      [
+        11,
+        1346715,
+        1349720
+      ]
+    ]
+  }
+}

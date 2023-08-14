@@ -1,0 +1,125 @@
+{
+  "id": 2010,
+  "chapter_id": 16,
+  "verse_key": "16:109",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "ruku_number": 237,
+  "manzil_number": 3,
+  "page_number": 279,
+  "juz_number": 14,
+  "text_uthmani": "لَا جَرَمَ أَنَّهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْخَـٰسِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 73988,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 73989,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_002.mp3",
+      "text": "جَرَمَ",
+      "translation": "ragu-ragu",
+      "transliteration": "jarama"
+    },
+    {
+      "id": 73990,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_003.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "bahwasanya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 73991,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 73992,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_005.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 73993,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_006.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 73994,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_109_007.mp3",
+      "text": "ٱلْخَـٰسِرُونَ",
+      "translation": "orang-orang yang rugi",
+      "transliteration": "l-khāsirūna"
+    },
+    {
+      "id": 73995,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠٩",
+      "translation": "(109)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pastilah bahwa mereka di akhirat nanti adalah orang-orang yang merugi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2164430,
+    "timestamp_to": 2172290,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        2164365,
+        2164865
+      ],
+      [
+        2,
+        2164865,
+        2165495
+      ],
+      [
+        3,
+        2165495,
+        2167165
+      ],
+      [
+        4,
+        2167165,
+        2167385
+      ],
+      [
+        5,
+        2167385,
+        2168685
+      ],
+      [
+        6,
+        2168685,
+        2169105
+      ],
+      [
+        7,
+        2169105,
+        2172170
+      ]
+    ]
+  }
+}

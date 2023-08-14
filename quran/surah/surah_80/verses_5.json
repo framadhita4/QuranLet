@@ -1,0 +1,73 @@
+{
+  "id": 5763,
+  "chapter_id": 80,
+  "verse_key": "80:5",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 5455,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_005_001.mp3",
+      "text": "أَمَّا",
+      "translation": "adapun",
+      "transliteration": "ammā"
+    },
+    {
+      "id": 5456,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_005_002.mp3",
+      "text": "مَنِ",
+      "translation": "siapa",
+      "transliteration": "mani"
+    },
+    {
+      "id": 5457,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_005_003.mp3",
+      "text": "ٱسْتَغْنَىٰ",
+      "translation": "merasa kaya/cukup",
+      "transliteration": "is'taghnā"
+    },
+    {
+      "id": 5458,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang yang merasa dirinya serba cukup,<sup foot_note_id=\"1556\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 18680,
+    "timestamp_to": 22260,
+    "duration": 3580,
+    "segments": [
+      [
+        1,
+        18615,
+        20075
+      ],
+      [
+        2,
+        20075,
+        20465
+      ],
+      [
+        3,
+        20465,
+        21610
+      ]
+    ]
+  }
+}

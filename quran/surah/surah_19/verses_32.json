@@ -1,0 +1,112 @@
+{
+  "id": 2282,
+  "chapter_id": 19,
+  "verse_key": "19:32",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 307,
+  "juz_number": 16,
+  "text_uthmani": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًا شَقِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 34513,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_032_001.mp3",
+      "text": "وَبَرًّۢا",
+      "translation": "dan berbakti",
+      "transliteration": "wabarran"
+    },
+    {
+      "id": 34514,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_032_002.mp3",
+      "text": "بِوَٰلِدَتِى",
+      "translation": "dengan/kepada ibuku",
+      "transliteration": "biwālidatī"
+    },
+    {
+      "id": 34515,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_032_003.mp3",
+      "text": "وَلَمْ",
+      "translation": "dan tidak",
+      "transliteration": "walam"
+    },
+    {
+      "id": 34516,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_032_004.mp3",
+      "text": "يَجْعَلْنِى",
+      "translation": "Dia menjadikan aku",
+      "transliteration": "yajʿalnī"
+    },
+    {
+      "id": 34517,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_032_005.mp3",
+      "text": "جَبَّارًۭا",
+      "translation": "seorang yang sombong",
+      "transliteration": "jabbāran"
+    },
+    {
+      "id": 34518,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_032_006.mp3",
+      "text": "شَقِيًّۭا",
+      "translation": "celaka",
+      "transliteration": "shaqiyyan"
+    },
+    {
+      "id": 34519,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan berbakti kepada ibuku, dan Dia tidak menjadikan aku seorang yang sombong lagi celaka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 421300,
+    "timestamp_to": 430420,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        421275,
+        423055
+      ],
+      [
+        2,
+        423055,
+        424695
+      ],
+      [
+        3,
+        424695,
+        425405
+      ],
+      [
+        4,
+        425405,
+        426825
+      ],
+      [
+        5,
+        426825,
+        428445
+      ],
+      [
+        6,
+        428445,
+        430370
+      ]
+    ]
+  }
+}

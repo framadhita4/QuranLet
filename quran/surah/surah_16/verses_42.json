@@ -1,0 +1,99 @@
+{
+  "id": 1943,
+  "chapter_id": 16,
+  "verse_key": "16:42",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "ruku_number": 229,
+  "manzil_number": 3,
+  "page_number": 271,
+  "juz_number": 14,
+  "text_uthmani": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 43334,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_042_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 43335,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_042_002.mp3",
+      "text": "صَبَرُوا۟",
+      "translation": "(mereka) bersabar",
+      "transliteration": "ṣabarū"
+    },
+    {
+      "id": 43336,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_042_003.mp3",
+      "text": "وَعَلَىٰ",
+      "translation": "dan atas/kepada",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 43337,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_042_004.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 43338,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_042_005.mp3",
+      "text": "يَتَوَكَّلُونَ",
+      "translation": "mereka bertawakkal",
+      "transliteration": "yatawakkalūna"
+    },
+    {
+      "id": 43339,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang sabar dan hanya kepada Tuhan saja mereka bertawakal.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 778820,
+    "timestamp_to": 786340,
+    "duration": 7520,
+    "segments": [
+      [
+        1,
+        778795,
+        780075
+      ],
+      [
+        2,
+        780075,
+        781095
+      ],
+      [
+        3,
+        781095,
+        781815
+      ],
+      [
+        4,
+        781815,
+        782945
+      ],
+      [
+        5,
+        782945,
+        786290
+      ]
+    ]
+  }
+}

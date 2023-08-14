@@ -1,0 +1,60 @@
+{
+  "id": 5624,
+  "chapter_id": 77,
+  "verse_key": "77:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 1659,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_002_001.mp3",
+      "text": "فَٱلْعَـٰصِفَـٰتِ",
+      "translation": "lalu yang bertiup",
+      "transliteration": "fal-ʿāṣifāti"
+    },
+    {
+      "id": 1660,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_002_002.mp3",
+      "text": "عَصْفًۭا",
+      "translation": "keras/kencang",
+      "transliteration": "ʿaṣfan"
+    },
+    {
+      "id": 1661,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang terbang dengan kencangnya<sup foot_note_id=\"1538\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3060,
+    "timestamp_to": 6040,
+    "duration": 2980,
+    "segments": [
+      [
+        1,
+        2565,
+        4205
+      ],
+      [
+        2,
+        4205,
+        5470
+      ]
+    ]
+  }
+}

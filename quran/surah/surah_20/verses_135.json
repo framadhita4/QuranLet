@@ -1,0 +1,177 @@
+{
+  "id": 2483,
+  "chapter_id": 20,
+  "verse_key": "20:135",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 277,
+  "manzil_number": 4,
+  "page_number": 321,
+  "juz_number": 16,
+  "text_uthmani": "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَـٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 78548,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 78549,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_002.mp3",
+      "text": "كُلٌّۭ",
+      "translation": "masing-masing",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 78550,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_003.mp3",
+      "text": "مُّتَرَبِّصٌۭ",
+      "translation": "menunggu",
+      "transliteration": "mutarabbiṣun"
+    },
+    {
+      "id": 78551,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_004.mp3",
+      "text": "فَتَرَبَّصُوا۟ ۖ",
+      "translation": "maka tunggulah olehmu",
+      "transliteration": "fatarabbaṣū"
+    },
+    {
+      "id": 78553,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_006.mp3",
+      "text": "فَسَتَعْلَمُونَ",
+      "translation": "maka kamu akan mengetahui",
+      "transliteration": "fasataʿlamūna"
+    },
+    {
+      "id": 78554,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_007.mp3",
+      "text": "مَنْ",
+      "translation": "orang/siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 78555,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_008.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penghuni (mempunyai)",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 78556,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_009.mp3",
+      "text": "ٱلصِّرَٰطِ",
+      "translation": "jalan",
+      "transliteration": "l-ṣirāṭi"
+    },
+    {
+      "id": 78557,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_010.mp3",
+      "text": "ٱلسَّوِىِّ",
+      "translation": "sama/lurus",
+      "transliteration": "l-sawiyi"
+    },
+    {
+      "id": 78558,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_011.mp3",
+      "text": "وَمَنِ",
+      "translation": "dan siapa",
+      "transliteration": "wamani"
+    },
+    {
+      "id": 78559,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_135_012.mp3",
+      "text": "ٱهْتَدَىٰ",
+      "translation": "mendapat petunjuk",
+      "transliteration": "ih'tadā"
+    },
+    {
+      "id": 78560,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٣٥",
+      "translation": "(135)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Masing-masing (kita) menanti, maka nantikanlah oleh kamu sekalian! Maka kamu kelak akan mengetahui, siapa yang menempuh jalan yang lurus dan siapa yang telah mendapat petunjuk\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1612190,
+    "timestamp_to": 1626950,
+    "duration": 14760,
+    "segments": [
+      [
+        1,
+        1611535,
+        1611975
+      ],
+      [
+        2,
+        1611975,
+        1612715
+      ],
+      [
+        3,
+        1612715,
+        1615545
+      ],
+      [
+        4,
+        1615545,
+        1617425
+      ],
+      [
+        5,
+        1617425,
+        1619535
+      ],
+      [
+        6,
+        1619535,
+        1619985
+      ],
+      [
+        7,
+        1619985,
+        1621005
+      ],
+      [
+        8,
+        1621005,
+        1622215
+      ],
+      [
+        9,
+        1622215,
+        1623495
+      ],
+      [
+        10,
+        1623495,
+        1624175
+      ],
+      [
+        11,
+        1624175,
+        1626230
+      ]
+    ]
+  }
+}

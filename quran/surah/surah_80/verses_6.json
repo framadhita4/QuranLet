@@ -1,0 +1,73 @@
+{
+  "id": 5764,
+  "chapter_id": 80,
+  "verse_key": "80:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 6685,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_006_001.mp3",
+      "text": "فَأَنتَ",
+      "translation": "maka kamu",
+      "transliteration": "fa-anta"
+    },
+    {
+      "id": 6686,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_006_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 6687,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_006_003.mp3",
+      "text": "تَصَدَّىٰ",
+      "translation": "menghadapi/layani",
+      "transliteration": "taṣaddā"
+    },
+    {
+      "id": 6688,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka kamu melayaninya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 22260,
+    "timestamp_to": 26130,
+    "duration": 3870,
+    "segments": [
+      [
+        1,
+        21675,
+        23175
+      ],
+      [
+        2,
+        23175,
+        23745
+      ],
+      [
+        3,
+        23745,
+        25060
+      ]
+    ]
+  }
+}

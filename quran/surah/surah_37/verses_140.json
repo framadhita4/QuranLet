@@ -1,0 +1,99 @@
+{
+  "id": 3928,
+  "chapter_id": 37,
+  "verse_key": "37:140",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79088,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_140_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 79089,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_140_002.mp3",
+      "text": "أَبَقَ",
+      "translation": "dia lari",
+      "transliteration": "abaqa"
+    },
+    {
+      "id": 79090,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_140_003.mp3",
+      "text": "إِلَى",
+      "translation": "ke",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 79091,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_140_004.mp3",
+      "text": "ٱلْفُلْكِ",
+      "translation": "perahu",
+      "transliteration": "l-ful'ki"
+    },
+    {
+      "id": 79092,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_140_005.mp3",
+      "text": "ٱلْمَشْحُونِ",
+      "translation": "penuh muatan",
+      "transliteration": "l-mashḥūni"
+    },
+    {
+      "id": 79093,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٤٠",
+      "translation": "(140)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(ingatlah) ketika ia lari <sup foot_note_id=\"1288\">1</sup> ke kapal yang penuh muatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1135140,
+    "timestamp_to": 1140680,
+    "duration": 5540,
+    "segments": [
+      [
+        1,
+        1135085,
+        1135545
+      ],
+      [
+        2,
+        1135545,
+        1136225
+      ],
+      [
+        3,
+        1136225,
+        1136575
+      ],
+      [
+        4,
+        1136575,
+        1137465
+      ],
+      [
+        5,
+        1137465,
+        1140570
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5874,
+  "chapter_id": 83,
+  "verse_key": "83:26",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 29131,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_026_001.mp3",
+      "text": "خِتَـٰمُهُۥ",
+      "translation": "capnya/laknya",
+      "transliteration": "khitāmuhu"
+    },
+    {
+      "id": 29132,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_026_002.mp3",
+      "text": "مِسْكٌۭ ۚ",
+      "translation": "kasturi",
+      "transliteration": "mis'kun"
+    },
+    {
+      "id": 29134,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_026_004.mp3",
+      "text": "وَفِى",
+      "translation": "dan untuk",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 29135,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_026_005.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu adalah",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 29136,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_026_006.mp3",
+      "text": "فَلْيَتَنَافَسِ",
+      "translation": "maka hendaklah berlomba-lomba",
+      "transliteration": "falyatanāfasi"
+    },
+    {
+      "id": 29137,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_026_007.mp3",
+      "text": "ٱلْمُتَنَـٰفِسُونَ",
+      "translation": "orang-orang yang berlomba",
+      "transliteration": "l-mutanāfisūna"
+    },
+    {
+      "id": 29138,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "laknya adalah kesturi; dan untuk yang demikian itu hendaknya orang berlomba-lomba.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 189460,
+    "timestamp_to": 198760,
+    "duration": 9300,
+    "segments": [
+      [
+        1,
+        189295,
+        190645
+      ],
+      [
+        2,
+        190645,
+        191655
+      ],
+      [
+        3,
+        191655,
+        192285
+      ],
+      [
+        4,
+        192285,
+        193115
+      ],
+      [
+        5,
+        193115,
+        194915
+      ],
+      [
+        6,
+        194915,
+        198520
+      ]
+    ]
+  }
+}

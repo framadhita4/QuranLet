@@ -1,0 +1,151 @@
+{
+  "id": 2294,
+  "chapter_id": 19,
+  "verse_key": "19:44",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 266,
+  "manzil_number": 4,
+  "page_number": 308,
+  "juz_number": 16,
+  "text_uthmani": "يَـٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَـٰنَ ۖ إِنَّ ٱلشَّيْطَـٰنَ كَانَ لِلرَّحْمَـٰنِ عَصِيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 44313,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_001.mp3",
+      "text": "يَـٰٓأَبَتِ",
+      "translation": "wahai ayahku",
+      "transliteration": "yāabati"
+    },
+    {
+      "id": 44314,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_002.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 44315,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_003.mp3",
+      "text": "تَعْبُدِ",
+      "translation": "kamu menyembah",
+      "transliteration": "taʿbudi"
+    },
+    {
+      "id": 44316,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_004.mp3",
+      "text": "ٱلشَّيْطَـٰنَ ۖ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāna"
+    },
+    {
+      "id": 44318,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_006.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 44319,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_007.mp3",
+      "text": "ٱلشَّيْطَـٰنَ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāna"
+    },
+    {
+      "id": 44320,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_008.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 44321,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_009.mp3",
+      "text": "لِلرَّحْمَـٰنِ",
+      "translation": "kepada Yang Maha Pengasih",
+      "transliteration": "lilrraḥmāni"
+    },
+    {
+      "id": 44322,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_044_010.mp3",
+      "text": "عَصِيًّۭا",
+      "translation": "durhaka",
+      "transliteration": "ʿaṣiyyan"
+    },
+    {
+      "id": 44323,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Wahai bapakku, janganlah kamu menyembah setan.  Sesungguhnya setan itu durhaka kepada Tuhan Yang Maha Pemurah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 588240,
+    "timestamp_to": 602610,
+    "duration": 14370,
+    "segments": [
+      [
+        1,
+        587905,
+        590725
+      ],
+      [
+        2,
+        590725,
+        591115
+      ],
+      [
+        3,
+        591115,
+        592025
+      ],
+      [
+        4,
+        592025,
+        594975
+      ],
+      [
+        5,
+        594975,
+        596655
+      ],
+      [
+        6,
+        596655,
+        598085
+      ],
+      [
+        7,
+        598085,
+        598825
+      ],
+      [
+        8,
+        598825,
+        600525
+      ],
+      [
+        9,
+        600525,
+        601840
+      ]
+    ]
+  }
+}

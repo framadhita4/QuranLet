@@ -1,0 +1,86 @@
+{
+  "id": 5930,
+  "chapter_id": 85,
+  "verse_key": "85:21",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 23998,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_021_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 23999,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_021_002.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 24000,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_021_003.mp3",
+      "text": "قُرْءَانٌۭ",
+      "translation": "Quran",
+      "transliteration": "qur'ānun"
+    },
+    {
+      "id": 24001,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_021_004.mp3",
+      "text": "مَّجِيدٌۭ",
+      "translation": "agung/mulia",
+      "transliteration": "majīdun"
+    },
+    {
+      "id": 24002,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan yang didustakan mereka itu ialah Al-Qur`ān yang mulia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 166810,
+    "timestamp_to": 172950,
+    "duration": 6140,
+    "segments": [
+      [
+        1,
+        166485,
+        166895
+      ],
+      [
+        2,
+        166895,
+        167355
+      ],
+      [
+        3,
+        167355,
+        168265
+      ],
+      [
+        4,
+        168265,
+        172570
+      ]
+    ]
+  }
+}

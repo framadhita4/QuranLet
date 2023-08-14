@@ -1,0 +1,86 @@
+{
+  "id": 1075,
+  "chapter_id": 7,
+  "verse_key": "7:121",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 165,
+  "juz_number": 9,
+  "text_uthmani": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 76583,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_121_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 76584,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_121_002.mp3",
+      "text": "ءَامَنَّا",
+      "translation": "kami beriman",
+      "transliteration": "āmannā"
+    },
+    {
+      "id": 76585,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_121_003.mp3",
+      "text": "بِرَبِّ",
+      "translation": "kepada Tuhan",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 76586,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_121_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 76587,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٢١",
+      "translation": "(121)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Kami beriman kepada Tuhan semesta alam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2650140,
+    "timestamp_to": 2658420,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        2650115,
+        2652295
+      ],
+      [
+        2,
+        2652295,
+        2654445
+      ],
+      [
+        3,
+        2654445,
+        2655275
+      ],
+      [
+        4,
+        2655275,
+        2658350
+      ]
+    ]
+  }
+}

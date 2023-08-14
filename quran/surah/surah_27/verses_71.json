@@ -1,0 +1,125 @@
+{
+  "id": 3230,
+  "chapter_id": 27,
+  "verse_key": "27:71",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 383,
+  "juz_number": 20,
+  "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 60209,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_001.mp3",
+      "text": "وَيَقُولُونَ",
+      "translation": "dan mereka berkata",
+      "transliteration": "wayaqūlūna"
+    },
+    {
+      "id": 60210,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_002.mp3",
+      "text": "مَتَىٰ",
+      "translation": "kapan",
+      "transliteration": "matā"
+    },
+    {
+      "id": 60211,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 60212,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_004.mp3",
+      "text": "ٱلْوَعْدُ",
+      "translation": "janji",
+      "transliteration": "l-waʿdu"
+    },
+    {
+      "id": 60213,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_005.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 60214,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 60215,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_071_007.mp3",
+      "text": "صَـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "ṣādiqīna"
+    },
+    {
+      "id": 60216,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka (orang-orang kafir) berkata, \"Bilakah datangnya azab itu, jika memang kamu orang-orang yang benar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1299750,
+    "timestamp_to": 1309050,
+    "duration": 9300,
+    "segments": [
+      [
+        1,
+        1299725,
+        1301175
+      ],
+      [
+        2,
+        1301175,
+        1301975
+      ],
+      [
+        3,
+        1301975,
+        1302555
+      ],
+      [
+        4,
+        1302555,
+        1303445
+      ],
+      [
+        5,
+        1303445,
+        1304485
+      ],
+      [
+        6,
+        1304485,
+        1305945
+      ],
+      [
+        7,
+        1305945,
+        1309000
+      ]
+    ]
+  }
+}

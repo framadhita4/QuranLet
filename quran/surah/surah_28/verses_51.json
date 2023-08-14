@@ -1,0 +1,112 @@
+{
+  "id": 3303,
+  "chapter_id": 28,
+  "verse_key": "28:51",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "ruku_number": 339,
+  "manzil_number": 5,
+  "page_number": 392,
+  "juz_number": 20,
+  "text_uthmani": "۞ وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 49589,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_051_002.mp3",
+      "text": "۞ وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 49590,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_051_003.mp3",
+      "text": "وَصَّلْنَا",
+      "translation": "telah Kami sampaikan",
+      "transliteration": "waṣṣalnā"
+    },
+    {
+      "id": 49591,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_051_004.mp3",
+      "text": "لَهُمُ",
+      "translation": "kepada mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 49592,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_051_005.mp3",
+      "text": "ٱلْقَوْلَ",
+      "translation": "perkataan",
+      "transliteration": "l-qawla"
+    },
+    {
+      "id": 49593,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_051_006.mp3",
+      "text": "لَعَلَّهُمْ",
+      "translation": "agar mereka",
+      "transliteration": "laʿallahum"
+    },
+    {
+      "id": 49594,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_051_007.mp3",
+      "text": "يَتَذَكَّرُونَ",
+      "translation": "mereka ingat/mendapat pelajaran",
+      "transliteration": "yatadhakkarūna"
+    },
+    {
+      "id": 49595,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami turunkan berturut-turut perkataan ini (Al-Qur`ān) kepada mereka agar mereka mendapat pelajaran <sup foot_note_id=\"1127\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1216700,
+    "timestamp_to": 1224720,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1216675,
+        1217625
+      ],
+      [
+        2,
+        1217625,
+        1218905
+      ],
+      [
+        3,
+        1218905,
+        1219475
+      ],
+      [
+        4,
+        1219475,
+        1220345
+      ],
+      [
+        5,
+        1220345,
+        1221495
+      ],
+      [
+        6,
+        1221495,
+        1224660
+      ]
+    ]
+  }
+}

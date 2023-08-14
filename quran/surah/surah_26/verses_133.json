@@ -1,0 +1,73 @@
+{
+  "id": 3065,
+  "chapter_id": 26,
+  "verse_key": "26:133",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "أَمَدَّكُم بِأَنْعَـٰمٍ وَبَنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 78280,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_133_001.mp3",
+      "text": "أَمَدَّكُم",
+      "translation": "Dia telah memanjangkan/menganugerahkan kepadamu",
+      "transliteration": "amaddakum"
+    },
+    {
+      "id": 78281,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_133_002.mp3",
+      "text": "بِأَنْعَـٰمٍۢ",
+      "translation": "dengan binatang ternak",
+      "transliteration": "bi-anʿāmin"
+    },
+    {
+      "id": 78282,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_133_003.mp3",
+      "text": "وَبَنِينَ",
+      "translation": "dan anak-anak",
+      "transliteration": "wabanīna"
+    },
+    {
+      "id": 78283,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٣٣",
+      "translation": "(133)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia telah menganugerahkan kepadamu binatang-binatang ternak dan anak-anak,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1172760,
+    "timestamp_to": 1179600,
+    "duration": 6850,
+    "segments": [
+      [
+        1,
+        1172715,
+        1174635
+      ],
+      [
+        2,
+        1174635,
+        1176045
+      ],
+      [
+        3,
+        1176045,
+        1179500
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5402,
+  "chapter_id": 70,
+  "verse_key": "70:27",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 30268,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_027_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 30269,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_027_002.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 30270,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_027_003.mp3",
+      "text": "مِّنْ",
+      "translation": "dari/terhadap",
+      "transliteration": "min"
+    },
+    {
+      "id": 30271,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_027_004.mp3",
+      "text": "عَذَابِ",
+      "translation": "azab",
+      "transliteration": "ʿadhābi"
+    },
+    {
+      "id": 30272,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_027_005.mp3",
+      "text": "رَبِّهِم",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 30273,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_027_006.mp3",
+      "text": "مُّشْفِقُونَ",
+      "translation": "orang-orang yang takut",
+      "transliteration": "mush'fiqūna"
+    },
+    {
+      "id": 30274,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang takut terhadap azab Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 146560,
+    "timestamp_to": 155360,
+    "duration": 8800,
+    "segments": [
+      [
+        1,
+        146505,
+        147705
+      ],
+      [
+        2,
+        147705,
+        148065
+      ],
+      [
+        3,
+        148065,
+        149135
+      ],
+      [
+        4,
+        149135,
+        149935
+      ],
+      [
+        5,
+        149935,
+        151355
+      ],
+      [
+        6,
+        151355,
+        155250
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 807,
+  "chapter_id": 6,
+  "verse_key": "6:18",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "ruku_number": 103,
+  "manzil_number": 2,
+  "page_number": 129,
+  "juz_number": 7,
+  "text_uthmani": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 20903,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 20904,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_002.mp3",
+      "text": "ٱلْقَاهِرُ",
+      "translation": "berkuasa",
+      "transliteration": "l-qāhiru"
+    },
+    {
+      "id": 20905,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_003.mp3",
+      "text": "فَوْقَ",
+      "translation": "di atas",
+      "transliteration": "fawqa"
+    },
+    {
+      "id": 20906,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_004.mp3",
+      "text": "عِبَادِهِۦ ۚ",
+      "translation": "hamba-hambaNya",
+      "transliteration": "ʿibādihi"
+    },
+    {
+      "id": 20908,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_006.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 20909,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_007.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 20910,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_018_008.mp3",
+      "text": "ٱلْخَبِيرُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-khabīru"
+    },
+    {
+      "id": 20911,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah yang berkuasa atas sekalian hamba-hamba-Nya.  Dan Dia-lah Yang Maha Bijaksana lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 325610,
+    "timestamp_to": 334260,
+    "duration": 8650,
+    "segments": [
+      [
+        1,
+        325555,
+        326295
+      ],
+      [
+        2,
+        326295,
+        327405
+      ],
+      [
+        3,
+        327405,
+        328055
+      ],
+      [
+        4,
+        328055,
+        329695
+      ],
+      [
+        5,
+        329695,
+        330265
+      ],
+      [
+        6,
+        330265,
+        331345
+      ],
+      [
+        7,
+        331345,
+        334150
+      ]
+    ]
+  }
+}

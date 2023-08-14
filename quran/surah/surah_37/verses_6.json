@@ -1,0 +1,112 @@
+{
+  "id": 3794,
+  "chapter_id": 37,
+  "verse_key": "37:6",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 7081,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_006_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 7082,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_006_002.mp3",
+      "text": "زَيَّنَّا",
+      "translation": "Kami telah menghiasi",
+      "transliteration": "zayyannā"
+    },
+    {
+      "id": 7083,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_006_003.mp3",
+      "text": "ٱلسَّمَآءَ",
+      "translation": "langit",
+      "transliteration": "l-samāa"
+    },
+    {
+      "id": 7084,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_006_004.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 7085,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_006_005.mp3",
+      "text": "بِزِينَةٍ",
+      "translation": "dengan hiasan",
+      "transliteration": "bizīnatin"
+    },
+    {
+      "id": 7086,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_006_006.mp3",
+      "text": "ٱلْكَوَاكِبِ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-kawākibi"
+    },
+    {
+      "id": 7087,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menghias langit yang terdekat dengan hiasan, yaitu bintang-bintang,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 26110,
+    "timestamp_to": 36040,
+    "duration": 9930,
+    "segments": [
+      [
+        1,
+        26035,
+        27585
+      ],
+      [
+        2,
+        27585,
+        29285
+      ],
+      [
+        3,
+        29285,
+        31485
+      ],
+      [
+        4,
+        31485,
+        32745
+      ],
+      [
+        5,
+        32745,
+        34155
+      ],
+      [
+        6,
+        34155,
+        35900
+      ]
+    ]
+  }
+}

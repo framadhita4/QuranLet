@@ -1,0 +1,112 @@
+{
+  "id": 3778,
+  "chapter_id": 36,
+  "verse_key": "36:73",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 387,
+  "manzil_number": 5,
+  "page_number": 445,
+  "juz_number": 23,
+  "text_uthmani": "وَلَهُمْ فِيهَا مَنَـٰفِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 60926,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_073_001.mp3",
+      "text": "وَلَهُمْ",
+      "translation": "dan bagi mereka (memperoleh)",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 60927,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_073_002.mp3",
+      "text": "فِيهَا",
+      "translation": "padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 60928,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_073_003.mp3",
+      "text": "مَنَـٰفِعُ",
+      "translation": "kemanfaatan",
+      "transliteration": "manāfiʿu"
+    },
+    {
+      "id": 60929,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_073_004.mp3",
+      "text": "وَمَشَارِبُ ۖ",
+      "translation": "dan minuman",
+      "transliteration": "wamashāribu"
+    },
+    {
+      "id": 60931,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_073_006.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 60932,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_073_007.mp3",
+      "text": "يَشْكُرُونَ",
+      "translation": "mereka bersyukur",
+      "transliteration": "yashkurūna"
+    },
+    {
+      "id": 60933,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka memperoleh padanya manfaat-manfaat dan minuman.  Maka mengapakah mereka tidak bersyukur?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 910260,
+    "timestamp_to": 918880,
+    "duration": 8620,
+    "segments": [
+      [
+        1,
+        910195,
+        911115
+      ],
+      [
+        2,
+        911115,
+        911955
+      ],
+      [
+        3,
+        911955,
+        913015
+      ],
+      [
+        4,
+        913015,
+        914135
+      ],
+      [
+        5,
+        914135,
+        914945
+      ],
+      [
+        6,
+        914945,
+        918750
+      ]
+    ]
+  }
+}

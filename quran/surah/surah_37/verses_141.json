@@ -1,0 +1,86 @@
+{
+  "id": 3929,
+  "chapter_id": 37,
+  "verse_key": "37:141",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 79193,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_141_001.mp3",
+      "text": "فَسَاهَمَ",
+      "translation": "maka dia ikut berundi",
+      "transliteration": "fasāhama"
+    },
+    {
+      "id": 79194,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_141_002.mp3",
+      "text": "فَكَانَ",
+      "translation": "lalu adalah dia",
+      "transliteration": "fakāna"
+    },
+    {
+      "id": 79195,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_141_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 79196,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_141_004.mp3",
+      "text": "ٱلْمُدْحَضِينَ",
+      "translation": "orang-orang yang dibuang/dikalahkan",
+      "transliteration": "l-mud'ḥaḍīna"
+    },
+    {
+      "id": 79197,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤١",
+      "translation": "(141)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian ia ikut berundi <sup foot_note_id=\"1289\">1</sup>, lalu dia termasuk orang-orang yang kalah dalam undian.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1140680,
+    "timestamp_to": 1146270,
+    "duration": 5590,
+    "segments": [
+      [
+        1,
+        1140625,
+        1141705
+      ],
+      [
+        2,
+        1141705,
+        1142585
+      ],
+      [
+        3,
+        1142585,
+        1142895
+      ],
+      [
+        4,
+        1142895,
+        1146140
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 4509,
+  "chapter_id": 45,
+  "verse_key": "45:36",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "ruku_number": 439,
+  "manzil_number": 6,
+  "page_number": 502,
+  "juz_number": 25,
+  "text_uthmani": "فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَـٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3",
+  "words": [
+    {
+      "id": 37888,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_001.mp3",
+      "text": "فَلِلَّهِ",
+      "translation": "maka bagi Allah",
+      "transliteration": "falillahi"
+    },
+    {
+      "id": 37889,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_002.mp3",
+      "text": "ٱلْحَمْدُ",
+      "translation": "segala puji",
+      "transliteration": "l-ḥamdu"
+    },
+    {
+      "id": 37890,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_003.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 37891,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 37892,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_005.mp3",
+      "text": "وَرَبِّ",
+      "translation": "dan Tuhan",
+      "transliteration": "warabbi"
+    },
+    {
+      "id": 37893,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_006.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "Bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 37894,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_007.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 37895,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/045_036_008.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 37896,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bagi Allah-lah segala puji, Tuhan langit dan Tuhan bumi, Tuhan semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 614680,
+    "timestamp_to": 624610,
+    "duration": 9930,
+    "segments": [
+      [
+        1,
+        614615,
+        615895
+      ],
+      [
+        2,
+        615895,
+        616705
+      ],
+      [
+        3,
+        616705,
+        617305
+      ],
+      [
+        4,
+        617305,
+        618805
+      ],
+      [
+        5,
+        618805,
+        619605
+      ],
+      [
+        6,
+        619605,
+        620425
+      ],
+      [
+        7,
+        620425,
+        621105
+      ],
+      [
+        8,
+        621105,
+        624490
+      ]
+    ]
+  }
+}

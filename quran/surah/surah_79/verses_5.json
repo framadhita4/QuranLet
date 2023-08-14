@@ -1,0 +1,60 @@
+{
+  "id": 5717,
+  "chapter_id": 79,
+  "verse_key": "79:5",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "فَٱلْمُدَبِّرَٰتِ أَمْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 5452,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_005_001.mp3",
+      "text": "فَٱلْمُدَبِّرَٰتِ",
+      "translation": "dan yang mengatur",
+      "transliteration": "fal-mudabirāti"
+    },
+    {
+      "id": 5453,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_005_002.mp3",
+      "text": "أَمْرًۭا",
+      "translation": "urusan",
+      "transliteration": "amran"
+    },
+    {
+      "id": 5454,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang mengatur urusan (dunia).<sup foot_note_id=\"1551\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15500,
+    "timestamp_to": 18900,
+    "duration": 3400,
+    "segments": [
+      [
+        1,
+        15425,
+        17395
+      ],
+      [
+        2,
+        17395,
+        18760
+      ]
+    ]
+  }
+}

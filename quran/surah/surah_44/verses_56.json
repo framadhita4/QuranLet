@@ -1,0 +1,164 @@
+{
+  "id": 4470,
+  "chapter_id": 44,
+  "verse_key": "44:56",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 52146,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 52147,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_002.mp3",
+      "text": "يَذُوقُونَ",
+      "translation": "mereka merasakan",
+      "transliteration": "yadhūqūna"
+    },
+    {
+      "id": 52148,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_003.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 52149,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_004.mp3",
+      "text": "ٱلْمَوْتَ",
+      "translation": "mati",
+      "transliteration": "l-mawta"
+    },
+    {
+      "id": 52150,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 52151,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_006.mp3",
+      "text": "ٱلْمَوْتَةَ",
+      "translation": "kematian",
+      "transliteration": "l-mawtata"
+    },
+    {
+      "id": 52152,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_007.mp3",
+      "text": "ٱلْأُولَىٰ ۖ",
+      "translation": "pertama",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 52154,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_009.mp3",
+      "text": "وَوَقَىٰهُمْ",
+      "translation": "dan Dia memelihara mereka",
+      "transliteration": "wawaqāhum"
+    },
+    {
+      "id": 52155,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_010.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 52156,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_056_011.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka jahim",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 52157,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka tidak akan merasakan mati di dalamnya, kecuali mati di dunia.  Dan Allah memelihara mereka dari azab neraka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 535060,
+    "timestamp_to": 546890,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        535035,
+        535565
+      ],
+      [
+        2,
+        535565,
+        536835
+      ],
+      [
+        3,
+        536835,
+        537535
+      ],
+      [
+        4,
+        537535,
+        538515
+      ],
+      [
+        5,
+        538515,
+        539065
+      ],
+      [
+        6,
+        539065,
+        540195
+      ],
+      [
+        7,
+        540195,
+        541295
+      ],
+      [
+        8,
+        541295,
+        542605
+      ],
+      [
+        9,
+        542605,
+        543475
+      ],
+      [
+        10,
+        543475,
+        546840
+      ]
+    ]
+  }
+}

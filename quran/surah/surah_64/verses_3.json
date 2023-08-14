@@ -1,0 +1,151 @@
+{
+  "id": 5202,
+  "chapter_id": 64,
+  "verse_key": "64:3",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "ruku_number": 492,
+  "manzil_number": 7,
+  "page_number": 556,
+  "juz_number": 28,
+  "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3",
+  "words": [
+    {
+      "id": 2438,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_001.mp3",
+      "text": "خَلَقَ",
+      "translation": "Dia menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 2439,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_002.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 2440,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_003.mp3",
+      "text": "وَٱلْأَرْضَ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 2441,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_004.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan benar/hak",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 2442,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_005.mp3",
+      "text": "وَصَوَّرَكُمْ",
+      "translation": "dan Dia membentuk rupa kamu",
+      "transliteration": "waṣawwarakum"
+    },
+    {
+      "id": 2443,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_006.mp3",
+      "text": "فَأَحْسَنَ",
+      "translation": "lalu Dia membaguskan",
+      "transliteration": "fa-aḥsana"
+    },
+    {
+      "id": 2444,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_007.mp3",
+      "text": "صُوَرَكُمْ ۖ",
+      "translation": "bentuk rupa kamu",
+      "transliteration": "ṣuwarakum"
+    },
+    {
+      "id": 2446,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_009.mp3",
+      "text": "وَإِلَيْهِ",
+      "translation": "dan kepada-Nya",
+      "transliteration": "wa-ilayhi"
+    },
+    {
+      "id": 2447,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/064_003_010.mp3",
+      "text": "ٱلْمَصِيرُ",
+      "translation": "tempat kembali",
+      "transliteration": "l-maṣīru"
+    },
+    {
+      "id": 2448,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar, Dia membentuk rupamu dan dibaguskan-Nya rupamu itu, dan hanya kepada-Nya-lah kembali(mu).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 29720,
+    "timestamp_to": 40930,
+    "duration": 11210,
+    "segments": [
+      [
+        1,
+        29685,
+        30365
+      ],
+      [
+        2,
+        30365,
+        31875
+      ],
+      [
+        3,
+        31875,
+        32795
+      ],
+      [
+        4,
+        32795,
+        33765
+      ],
+      [
+        5,
+        33765,
+        35255
+      ],
+      [
+        6,
+        35255,
+        36195
+      ],
+      [
+        7,
+        36195,
+        37335
+      ],
+      [
+        8,
+        37335,
+        38255
+      ],
+      [
+        9,
+        38255,
+        40830
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4709,
+  "chapter_id": 51,
+  "verse_key": "51:34",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 36323,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_034_001.mp3",
+      "text": "مُّسَوَّمَةً",
+      "translation": "yang ditandai",
+      "transliteration": "musawwamatan"
+    },
+    {
+      "id": 36324,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_034_002.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 36325,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_034_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 36326,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_034_004.mp3",
+      "text": "لِلْمُسْرِفِينَ",
+      "translation": "untuk orang-orang yang melampaui batas",
+      "transliteration": "lil'mus'rifīna"
+    },
+    {
+      "id": 36327,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang ditandai di sisi Tuhan-mu untuk (membinasakan) orang-orang yang melampaui batas\"<sup foot_note_id=\"1421\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 264020,
+    "timestamp_to": 271390,
+    "duration": 7370,
+    "segments": [
+      [
+        1,
+        263945,
+        265565
+      ],
+      [
+        2,
+        265565,
+        266775
+      ],
+      [
+        3,
+        266775,
+        267825
+      ],
+      [
+        4,
+        267825,
+        271260
+      ]
+    ]
+  }
+}

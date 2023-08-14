@@ -1,0 +1,151 @@
+{
+  "id": 4634,
+  "chapter_id": 50,
+  "verse_key": "50:4",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 3496,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_001.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "qad"
+    },
+    {
+      "id": 3497,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_002.mp3",
+      "text": "عَلِمْنَا",
+      "translation": "Kami mengetahui",
+      "transliteration": "ʿalim'nā"
+    },
+    {
+      "id": 3498,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_003.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 3499,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_004.mp3",
+      "text": "تَنقُصُ",
+      "translation": "merusak",
+      "transliteration": "tanquṣu"
+    },
+    {
+      "id": 3500,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_005.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 3501,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_006.mp3",
+      "text": "مِنْهُمْ ۖ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 3503,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_008.mp3",
+      "text": "وَعِندَنَا",
+      "translation": "dan di sisi Kami",
+      "transliteration": "waʿindanā"
+    },
+    {
+      "id": 3504,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_009.mp3",
+      "text": "كِتَـٰبٌ",
+      "translation": "kitab",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 3505,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_004_010.mp3",
+      "text": "حَفِيظٌۢ",
+      "translation": "penjaga",
+      "transliteration": "ḥafīẓun"
+    },
+    {
+      "id": 3506,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah mengetahui apa yang dihancurkan oleh bumi dari (tubuh-tubuh) mereka, dan pada sisi Kami pun ada kitab yang memelihara (mencatat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 40000,
+    "timestamp_to": 52090,
+    "duration": 12100,
+    "segments": [
+      [
+        1,
+        39965,
+        40315
+      ],
+      [
+        2,
+        40315,
+        41515
+      ],
+      [
+        3,
+        41515,
+        41915
+      ],
+      [
+        4,
+        41915,
+        43585
+      ],
+      [
+        5,
+        43585,
+        44515
+      ],
+      [
+        6,
+        44515,
+        45915
+      ],
+      [
+        7,
+        45915,
+        48035
+      ],
+      [
+        8,
+        48035,
+        49145
+      ],
+      [
+        9,
+        49145,
+        51980
+      ]
+    ]
+  }
+}

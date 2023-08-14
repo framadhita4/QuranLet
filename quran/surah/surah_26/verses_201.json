@@ -1,0 +1,125 @@
+{
+  "id": 3133,
+  "chapter_id": 26,
+  "verse_key": "26:201",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "لَا يُؤْمِنُونَ بِهِۦ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85352,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 85353,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_002.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 85354,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_003.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 85355,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_004.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 85356,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_005.mp3",
+      "text": "يَرَوُا۟",
+      "translation": "mereka melihat",
+      "transliteration": "yarawū"
+    },
+    {
+      "id": 85357,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_006.mp3",
+      "text": "ٱلْعَذَابَ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhāba"
+    },
+    {
+      "id": 85358,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_201_007.mp3",
+      "text": "ٱلْأَلِيمَ",
+      "translation": "sangat pedih",
+      "transliteration": "l-alīma"
+    },
+    {
+      "id": 85359,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٠١",
+      "translation": "(201)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tidak beriman kepadanya hingga mereka melihat azab yang pedih,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1748590,
+    "timestamp_to": 1756610,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1748535,
+        1749025
+      ],
+      [
+        2,
+        1749025,
+        1750285
+      ],
+      [
+        3,
+        1750285,
+        1750885
+      ],
+      [
+        4,
+        1750885,
+        1751795
+      ],
+      [
+        5,
+        1751795,
+        1752435
+      ],
+      [
+        6,
+        1752435,
+        1753435
+      ],
+      [
+        7,
+        1753435,
+        1756530
+      ]
+    ]
+  }
+}

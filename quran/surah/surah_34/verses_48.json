@@ -1,0 +1,125 @@
+{
+  "id": 3654,
+  "chapter_id": 34,
+  "verse_key": "34:48",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "ruku_number": 377,
+  "manzil_number": 5,
+  "page_number": 433,
+  "juz_number": 22,
+  "text_uthmani": "قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّـٰمُ ٱلْغُيُوبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3",
+  "words": [
+    {
+      "id": 47104,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 47105,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 47106,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_003.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 47107,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_004.mp3",
+      "text": "يَقْذِفُ",
+      "translation": "Dia memasukkan/mewahyukan",
+      "transliteration": "yaqdhifu"
+    },
+    {
+      "id": 47108,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_005.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 47109,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_006.mp3",
+      "text": "عَلَّـٰمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿallāmu"
+    },
+    {
+      "id": 47110,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_048_007.mp3",
+      "text": "ٱلْغُيُوبِ",
+      "translation": "segala yang gaib",
+      "transliteration": "l-ghuyūbi"
+    },
+    {
+      "id": 47111,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Sesungguhnya Tuhan-ku mewahyukan kebenaran.  Dia Maha Mengetahui segala yang gaib\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 948630,
+    "timestamp_to": 956070,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        948375,
+        948805
+      ],
+      [
+        2,
+        948805,
+        949995
+      ],
+      [
+        3,
+        949995,
+        950735
+      ],
+      [
+        4,
+        950735,
+        951475
+      ],
+      [
+        5,
+        951475,
+        952365
+      ],
+      [
+        6,
+        952365,
+        953225
+      ],
+      [
+        7,
+        953225,
+        955500
+      ]
+    ]
+  }
+}

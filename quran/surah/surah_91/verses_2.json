@@ -1,0 +1,73 @@
+{
+  "id": 6045,
+  "chapter_id": 91,
+  "verse_key": "91:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3",
+  "words": [
+    {
+      "id": 1781,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_002_001.mp3",
+      "text": "وَٱلْقَمَرِ",
+      "translation": "dan bulan",
+      "transliteration": "wal-qamari"
+    },
+    {
+      "id": 1782,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_002_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 1783,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_002_003.mp3",
+      "text": "تَلَىٰهَا",
+      "translation": "mengiringinya",
+      "transliteration": "talāhā"
+    },
+    {
+      "id": 1784,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bulan apabila mengiringinya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3110,
+    "timestamp_to": 6610,
+    "duration": 3500,
+    "segments": [
+      [
+        1,
+        2575,
+        3625
+      ],
+      [
+        2,
+        3625,
+        4205
+      ],
+      [
+        3,
+        4205,
+        5670
+      ]
+    ]
+  }
+}

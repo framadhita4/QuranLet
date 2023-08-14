@@ -1,0 +1,169 @@
+{
+  "id": 999,
+  "chapter_id": 7,
+  "verse_key": "7:45",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "ruku_number": 126,
+  "manzil_number": 2,
+  "page_number": 156,
+  "juz_number": 8,
+  "text_uthmani": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْـَٔاخِرَةِ كَـٰفِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 45121,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 45122,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_002.mp3",
+      "text": "يَصُدُّونَ",
+      "translation": "(mereka) meghalang-halangi",
+      "transliteration": "yaṣuddūna"
+    },
+    {
+      "id": 45123,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_003.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 45124,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_004.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 45125,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_005.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 45126,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_006.mp3",
+      "text": "وَيَبْغُونَهَا",
+      "translation": "dan mereka menginginkan",
+      "transliteration": "wayabghūnahā"
+    },
+    {
+      "id": 45127,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_007.mp3",
+      "text": "عِوَجًۭا",
+      "translation": "bengkok",
+      "transliteration": "ʿiwajan"
+    },
+    {
+      "id": 45128,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_008.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 45129,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_009.mp3",
+      "text": "بِٱلْـَٔاخِرَةِ",
+      "translation": "dengan/pada akhirat",
+      "transliteration": "bil-ākhirati"
+    },
+    {
+      "id": 45130,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_045_010.mp3",
+      "text": "كَـٰفِرُونَ",
+      "translation": "mereka ingkar",
+      "transliteration": "kāfirūna"
+    },
+    {
+      "id": 45131,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang menghalang-halangi (manusia) dari jalan Allah dan menginginkan agar jalan itu menjadi bengkok, dan mereka kafir kepada kehidupan akhirat\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1038760,
+    "timestamp_to": 1054020,
+    "duration": 15260,
+    "segments": [
+      [
+        1,
+        1038735,
+        1040025
+      ],
+      [
+        2,
+        1040025,
+        1041455
+      ],
+      [
+        3,
+        1041455,
+        1042705
+      ],
+      [
+        4,
+        1042705,
+        1043715
+      ],
+      [
+        5,
+        1043715,
+        1044605
+      ],
+      [
+        6,
+        1044605,
+        1046405
+      ],
+      [
+        7,
+        1046405,
+        1047275
+      ],
+      [
+        8,
+        1047275,
+        1048065
+      ],
+      [
+        8,
+        1048065,
+        1048635
+      ],
+      [
+        9,
+        1048635,
+        1050815
+      ],
+      [
+        10,
+        1050815,
+        1053970
+      ]
+    ]
+  }
+}

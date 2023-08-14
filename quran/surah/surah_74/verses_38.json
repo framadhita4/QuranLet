@@ -1,0 +1,99 @@
+{
+  "id": 5533,
+  "chapter_id": 74,
+  "verse_key": "74:38",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 39738,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_001.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 39739,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_002.mp3",
+      "text": "نَفْسٍۭ",
+      "translation": "jiwa/diri",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 39740,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_003.mp3",
+      "text": "بِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 39741,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_004.mp3",
+      "text": "كَسَبَتْ",
+      "translation": "ia usahakan/ia perbuat",
+      "transliteration": "kasabat"
+    },
+    {
+      "id": 39742,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_005.mp3",
+      "text": "رَهِينَةٌ",
+      "translation": "tergadai/terikat",
+      "transliteration": "rahīnatun"
+    },
+    {
+      "id": 39743,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiap-tiap diri bertanggung jawab atas apa yang telah diperbuatnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 202960,
+    "timestamp_to": 207710,
+    "duration": 4760,
+    "segments": [
+      [
+        1,
+        202875,
+        203425
+      ],
+      [
+        2,
+        203425,
+        204645
+      ],
+      [
+        3,
+        204645,
+        205425
+      ],
+      [
+        4,
+        205425,
+        206255
+      ],
+      [
+        5,
+        206255,
+        207580
+      ]
+    ]
+  }
+}

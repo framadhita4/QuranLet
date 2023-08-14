@@ -1,0 +1,112 @@
+{
+  "id": 4892,
+  "chapter_id": 54,
+  "verse_key": "54:46",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 45864,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_046_001.mp3",
+      "text": "بَلِ",
+      "translation": "bahkan",
+      "transliteration": "bali"
+    },
+    {
+      "id": 45865,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_046_002.mp3",
+      "text": "ٱلسَّاعَةُ",
+      "translation": "hari kiamat",
+      "transliteration": "l-sāʿatu"
+    },
+    {
+      "id": 45866,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_046_003.mp3",
+      "text": "مَوْعِدُهُمْ",
+      "translation": "dijanjikan pada mereka",
+      "transliteration": "mawʿiduhum"
+    },
+    {
+      "id": 45867,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_046_004.mp3",
+      "text": "وَٱلسَّاعَةُ",
+      "translation": "dan hari kiamat",
+      "transliteration": "wal-sāʿatu"
+    },
+    {
+      "id": 45868,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_046_005.mp3",
+      "text": "أَدْهَىٰ",
+      "translation": "lebih buruk/dahsyat",
+      "transliteration": "adhā"
+    },
+    {
+      "id": 45869,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_046_006.mp3",
+      "text": "وَأَمَرُّ",
+      "translation": "dan lebih pahit",
+      "transliteration": "wa-amarru"
+    },
+    {
+      "id": 45870,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya hari kiamat itulah hari yang dijanjikan kepada mereka dan kiamat itu lebih dahsyat dan lebih pahit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 411020,
+    "timestamp_to": 418230,
+    "duration": 7210,
+    "segments": [
+      [
+        1,
+        410955,
+        411405
+      ],
+      [
+        2,
+        411405,
+        412605
+      ],
+      [
+        3,
+        412605,
+        414005
+      ],
+      [
+        4,
+        414005,
+        415445
+      ],
+      [
+        5,
+        415445,
+        416375
+      ],
+      [
+        6,
+        416375,
+        418100
+      ]
+    ]
+  }
+}

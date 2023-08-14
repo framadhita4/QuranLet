@@ -1,0 +1,99 @@
+{
+  "id": 2391,
+  "chapter_id": 20,
+  "verse_key": "20:43",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 314,
+  "juz_number": 16,
+  "text_uthmani": "ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 43602,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_043_001.mp3",
+      "text": "ٱذْهَبَآ",
+      "translation": "pergilah kamu berdua",
+      "transliteration": "idh'habā"
+    },
+    {
+      "id": 43603,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_043_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 43604,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_043_003.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 43605,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_043_004.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 43606,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_043_005.mp3",
+      "text": "طَغَىٰ",
+      "translation": "telah melewati batas",
+      "transliteration": "ṭaghā"
+    },
+    {
+      "id": 43607,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pergilah kamu berdua kepada Firʻawn , sesungguhnya dia telah melampaui batas;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 353120,
+    "timestamp_to": 360170,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        353085,
+        355605
+      ],
+      [
+        2,
+        355605,
+        356275
+      ],
+      [
+        3,
+        356275,
+        357305
+      ],
+      [
+        4,
+        357305,
+        358815
+      ],
+      [
+        5,
+        358815,
+        360100
+      ]
+    ]
+  }
+}

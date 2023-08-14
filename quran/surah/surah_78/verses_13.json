@@ -1,0 +1,73 @@
+{
+  "id": 5685,
+  "chapter_id": 78,
+  "verse_key": "78:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 14934,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_013_001.mp3",
+      "text": "وَجَعَلْنَا",
+      "translation": "dan Kami jadikan",
+      "transliteration": "wajaʿalnā"
+    },
+    {
+      "id": 14935,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_013_002.mp3",
+      "text": "سِرَاجًۭا",
+      "translation": "pelita",
+      "transliteration": "sirājan"
+    },
+    {
+      "id": 14936,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_013_003.mp3",
+      "text": "وَهَّاجًۭا",
+      "translation": "sangat terang",
+      "transliteration": "wahhājan"
+    },
+    {
+      "id": 14937,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami jadikan pelita yang amat terang (matahari),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 59880,
+    "timestamp_to": 65290,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        59805,
+        61045
+      ],
+      [
+        2,
+        61045,
+        62415
+      ],
+      [
+        3,
+        62415,
+        65130
+      ]
+    ]
+  }
+}

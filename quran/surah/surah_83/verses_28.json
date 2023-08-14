@@ -1,0 +1,86 @@
+{
+  "id": 5876,
+  "chapter_id": 83,
+  "verse_key": "83:28",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 31087,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_028_001.mp3",
+      "text": "عَيْنًۭا",
+      "translation": "mata air",
+      "transliteration": "ʿaynan"
+    },
+    {
+      "id": 31088,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_028_002.mp3",
+      "text": "يَشْرَبُ",
+      "translation": "meminum",
+      "transliteration": "yashrabu"
+    },
+    {
+      "id": 31089,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_028_003.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 31090,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_028_004.mp3",
+      "text": "ٱلْمُقَرَّبُونَ",
+      "translation": "orang-orang yang didekatkan",
+      "transliteration": "l-muqarabūna"
+    },
+    {
+      "id": 31091,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) mata air yang minum darinya orang-orang yang didekatkan kepada Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 204790,
+    "timestamp_to": 211710,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        204695,
+        205375
+      ],
+      [
+        2,
+        205375,
+        207335
+      ],
+      [
+        3,
+        207335,
+        207705
+      ],
+      [
+        4,
+        207705,
+        211520
+      ]
+    ]
+  }
+}

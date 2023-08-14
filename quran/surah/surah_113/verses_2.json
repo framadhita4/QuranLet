@@ -1,0 +1,86 @@
+{
+  "id": 6227,
+  "chapter_id": 113,
+  "verse_key": "113:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 557,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3",
+  "words": [
+    {
+      "id": 969,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_002_001.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 970,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_002_002.mp3",
+      "text": "شَرِّ",
+      "translation": "kejahatan",
+      "transliteration": "sharri"
+    },
+    {
+      "id": 971,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_002_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 972,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/113_002_004.mp3",
+      "text": "خَلَقَ",
+      "translation": "Dia ciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 973,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dari kejahatan makhluk-Nya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3470,
+    "timestamp_to": 7100,
+    "duration": 3630,
+    "segments": [
+      [
+        1,
+        2995,
+        3935
+      ],
+      [
+        2,
+        3935,
+        5035
+      ],
+      [
+        3,
+        5035,
+        5375
+      ],
+      [
+        4,
+        5375,
+        6590
+      ]
+    ]
+  }
+}

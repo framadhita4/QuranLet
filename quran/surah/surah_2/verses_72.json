@@ -1,0 +1,164 @@
+{
+  "id": 79,
+  "chapter_id": 2,
+  "verse_key": "2:72",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "ruku_number": 10,
+  "manzil_number": 1,
+  "page_number": 11,
+  "juz_number": 1,
+  "text_uthmani": "وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 60421,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 60422,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_002.mp3",
+      "text": "قَتَلْتُمْ",
+      "translation": "kamu membunuh",
+      "transliteration": "qataltum"
+    },
+    {
+      "id": 60423,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_003.mp3",
+      "text": "نَفْسًۭا",
+      "translation": "seseorang",
+      "transliteration": "nafsan"
+    },
+    {
+      "id": 60424,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_004.mp3",
+      "text": "فَٱدَّٰرَْٰٔتُمْ",
+      "translation": "lalu kamu saling menuduh",
+      "transliteration": "fa-iddāratum"
+    },
+    {
+      "id": 60425,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_005.mp3",
+      "text": "فِيهَا ۖ",
+      "translation": "tentang hal itu",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 60427,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_007.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 60428,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_008.mp3",
+      "text": "مُخْرِجٌۭ",
+      "translation": "mengeluarkan",
+      "transliteration": "mukh'rijun"
+    },
+    {
+      "id": 60429,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_009.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 60430,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_010.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 60431,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_072_011.mp3",
+      "text": "تَكْتُمُونَ",
+      "translation": "kamu sembunyikan",
+      "transliteration": "taktumūna"
+    },
+    {
+      "id": 60432,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah), ketika kamu membunuh seorang manusia, lalu kamu saling tuduh menuduh tentang itu.  Dan Allah hendak menyingkapkan apa yang selama ini kamu sembunyikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1374500,
+    "timestamp_to": 1387510,
+    "duration": 13010,
+    "segments": [
+      [
+        1,
+        1374415,
+        1375105
+      ],
+      [
+        2,
+        1375105,
+        1376115
+      ],
+      [
+        3,
+        1376115,
+        1377445
+      ],
+      [
+        4,
+        1377445,
+        1379065
+      ],
+      [
+        5,
+        1379065,
+        1379845
+      ],
+      [
+        6,
+        1379845,
+        1380855
+      ],
+      [
+        7,
+        1380855,
+        1381655
+      ],
+      [
+        8,
+        1381655,
+        1382655
+      ],
+      [
+        9,
+        1382655,
+        1384255
+      ],
+      [
+        10,
+        1384255,
+        1387350
+      ]
+    ]
+  }
+}

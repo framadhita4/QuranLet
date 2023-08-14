@@ -1,0 +1,125 @@
+{
+  "id": 19,
+  "chapter_id": 2,
+  "verse_key": "2:12",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 13812,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_001.mp3",
+      "text": "أَلَآ",
+      "translation": "ingatlah",
+      "transliteration": "alā"
+    },
+    {
+      "id": 13813,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_002.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 13814,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_003.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 13815,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_004.mp3",
+      "text": "ٱلْمُفْسِدُونَ",
+      "translation": "orang-orang yang membuat kerusakan",
+      "transliteration": "l-muf'sidūna"
+    },
+    {
+      "id": 13816,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_005.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "akan tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 13817,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_006.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 13818,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_007.mp3",
+      "text": "يَشْعُرُونَ",
+      "translation": "mereka sadar",
+      "transliteration": "yashʿurūna"
+    },
+    {
+      "id": 13819,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ingatlah, sesungguhnya mereka itulah orang-orang yang membuat kerusakan, tetapi mereka tidak sadar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 130080,
+    "timestamp_to": 139220,
+    "duration": 9140,
+    "segments": [
+      [
+        1,
+        129965,
+        131935
+      ],
+      [
+        2,
+        131935,
+        133345
+      ],
+      [
+        3,
+        133345,
+        133695
+      ],
+      [
+        4,
+        133695,
+        135045
+      ],
+      [
+        5,
+        135045,
+        135875
+      ],
+      [
+        6,
+        135875,
+        136325
+      ],
+      [
+        7,
+        136325,
+        139030
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 6126,
+  "chapter_id": 97,
+  "verse_key": "97:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 541,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3",
+  "words": [
+    {
+      "id": 169,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_001_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 170,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_001_002.mp3",
+      "text": "أَنزَلْنَـٰهُ",
+      "translation": "Kami telah menurunkannya",
+      "transliteration": "anzalnāhu"
+    },
+    {
+      "id": 171,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_001_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 172,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_001_004.mp3",
+      "text": "لَيْلَةِ",
+      "translation": "malam",
+      "transliteration": "laylati"
+    },
+    {
+      "id": 173,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_001_005.mp3",
+      "text": "ٱلْقَدْرِ",
+      "translation": "kemuliaan",
+      "transliteration": "l-qadri"
+    },
+    {
+      "id": 174,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah menurunkannya (Al-Qur`ān) pada malam kemuliaan<sup foot_note_id=\"1594\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 7970,
+    "duration": 7970,
+    "segments": [
+      [
+        1,
+        0,
+        2949
+      ],
+      [
+        2,
+        2950,
+        5470
+      ],
+      [
+        3,
+        5470,
+        5940
+      ],
+      [
+        4,
+        5940,
+        6760
+      ],
+      [
+        5,
+        6760,
+        7885
+      ]
+    ]
+  }
+}

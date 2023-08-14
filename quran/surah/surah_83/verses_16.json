@@ -1,0 +1,86 @@
+{
+  "id": 5864,
+  "chapter_id": 83,
+  "verse_key": "83:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 18633,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_016_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 18634,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_016_002.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 18635,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_016_003.mp3",
+      "text": "لَصَالُوا۟",
+      "translation": "benar-benar mereka masuk",
+      "transliteration": "laṣālū"
+    },
+    {
+      "id": 18636,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_016_004.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 18637,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian sesungguhnya mereka benar-benar masuk neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 117630,
+    "timestamp_to": 124970,
+    "duration": 7340,
+    "segments": [
+      [
+        1,
+        117555,
+        119055
+      ],
+      [
+        2,
+        119055,
+        120985
+      ],
+      [
+        3,
+        120985,
+        121835
+      ],
+      [
+        4,
+        121835,
+        124810
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5869,
+  "chapter_id": 83,
+  "verse_key": "83:21",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 23987,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_021_001.mp3",
+      "text": "يَشْهَدُهُ",
+      "translation": "menyaksikannya",
+      "transliteration": "yashhaduhu"
+    },
+    {
+      "id": 23988,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_021_002.mp3",
+      "text": "ٱلْمُقَرَّبُونَ",
+      "translation": "(mailaikat) yang didekatkan",
+      "transliteration": "l-muqarabūna"
+    },
+    {
+      "id": 23989,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang disaksikan oleh malaikat-malaikat yang didekatkan (kepada Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 157360,
+    "timestamp_to": 162060,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        157275,
+        158305
+      ],
+      [
+        2,
+        158305,
+        161890
+      ]
+    ]
+  }
+}

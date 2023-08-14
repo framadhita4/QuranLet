@@ -1,0 +1,125 @@
+{
+  "id": 5599,
+  "chapter_id": 76,
+  "verse_key": "76:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "page_number": 579,
+  "juz_number": 29,
+  "text_uthmani": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3",
+  "words": [
+    {
+      "id": 9123,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_001.mp3",
+      "text": "وَيُطْعِمُونَ",
+      "translation": "dan mereka memberi makan",
+      "transliteration": "wayuṭ'ʿimūna"
+    },
+    {
+      "id": 9124,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_002.mp3",
+      "text": "ٱلطَّعَامَ",
+      "translation": "makanan",
+      "transliteration": "l-ṭaʿāma"
+    },
+    {
+      "id": 9125,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 9126,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_004.mp3",
+      "text": "حُبِّهِۦ",
+      "translation": "yang disukainya",
+      "transliteration": "ḥubbihi"
+    },
+    {
+      "id": 9127,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_005.mp3",
+      "text": "مِسْكِينًۭا",
+      "translation": "orang miskin",
+      "transliteration": "mis'kīnan"
+    },
+    {
+      "id": 9128,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_006.mp3",
+      "text": "وَيَتِيمًۭا",
+      "translation": "dan anak yatim",
+      "transliteration": "wayatīman"
+    },
+    {
+      "id": 9129,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/076_008_007.mp3",
+      "text": "وَأَسِيرًا",
+      "translation": "dan tawanan",
+      "transliteration": "wa-asīran"
+    },
+    {
+      "id": 9130,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka memberikan makanan yang disukainya kepada orang miskin, anak yatim, dan orang yang ditawan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71740,
+    "timestamp_to": 81380,
+    "duration": 9640,
+    "segments": [
+      [
+        1,
+        71695,
+        73045
+      ],
+      [
+        2,
+        73045,
+        74015
+      ],
+      [
+        3,
+        74015,
+        74625
+      ],
+      [
+        4,
+        74625,
+        75645
+      ],
+      [
+        5,
+        75645,
+        76925
+      ],
+      [
+        6,
+        76925,
+        78785
+      ],
+      [
+        7,
+        78785,
+        81310
+      ]
+    ]
+  }
+}

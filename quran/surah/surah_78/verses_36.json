@@ -1,0 +1,99 @@
+{
+  "id": 5708,
+  "chapter_id": 78,
+  "verse_key": "78:36",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 38535,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_036_001.mp3",
+      "text": "جَزَآءًۭ",
+      "translation": "balasan",
+      "transliteration": "jazāan"
+    },
+    {
+      "id": 38536,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_036_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 38537,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_036_003.mp3",
+      "text": "رَّبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 38538,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_036_004.mp3",
+      "text": "عَطَآءً",
+      "translation": "pemberian",
+      "transliteration": "ʿaṭāan"
+    },
+    {
+      "id": 38539,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_036_005.mp3",
+      "text": "حِسَابًۭا",
+      "translation": "perhitungan/cukup",
+      "transliteration": "ḥisāban"
+    },
+    {
+      "id": 38540,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebagai balasan dari Tuhan-mu dan pemberian yang cukup banyak,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 190740,
+    "timestamp_to": 199230,
+    "duration": 8490,
+    "segments": [
+      [
+        1,
+        190635,
+        192785
+      ],
+      [
+        2,
+        192785,
+        193515
+      ],
+      [
+        3,
+        193515,
+        194595
+      ],
+      [
+        4,
+        194595,
+        197165
+      ],
+      [
+        5,
+        197165,
+        199020
+      ]
+    ]
+  }
+}

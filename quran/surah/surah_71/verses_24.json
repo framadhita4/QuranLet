@@ -1,0 +1,138 @@
+{
+  "id": 5443,
+  "chapter_id": 71,
+  "verse_key": "71:24",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 507,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 27035,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_001.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 27036,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_002.mp3",
+      "text": "أَضَلُّوا۟",
+      "translation": "mereka telah menyesatkan",
+      "transliteration": "aḍallū"
+    },
+    {
+      "id": 27037,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_003.mp3",
+      "text": "كَثِيرًۭا ۖ",
+      "translation": "kebanyakan",
+      "transliteration": "kathīran"
+    },
+    {
+      "id": 27039,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 27040,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_006.mp3",
+      "text": "تَزِدِ",
+      "translation": "Engkau tambahkan",
+      "transliteration": "tazidi"
+    },
+    {
+      "id": 27041,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_007.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang zalim",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 27042,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_008.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 27043,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_024_009.mp3",
+      "text": "ضَلَـٰلًۭا",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālan"
+    },
+    {
+      "id": 27044,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesudahnya mereka telah menyesatkan kebanyakan (manusia); dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kesesatan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 211410,
+    "timestamp_to": 219640,
+    "duration": 8230,
+    "segments": [
+      [
+        1,
+        211345,
+        211915
+      ],
+      [
+        2,
+        211915,
+        212815
+      ],
+      [
+        3,
+        212815,
+        214375
+      ],
+      [
+        4,
+        214375,
+        214905
+      ],
+      [
+        5,
+        214905,
+        215495
+      ],
+      [
+        6,
+        215495,
+        216855
+      ],
+      [
+        7,
+        216855,
+        217665
+      ],
+      [
+        8,
+        217665,
+        219040
+      ]
+    ]
+  }
+}

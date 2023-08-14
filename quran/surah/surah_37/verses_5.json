@@ -1,0 +1,125 @@
+{
+  "id": 3793,
+  "chapter_id": 37,
+  "verse_key": "37:5",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 5786,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_001.mp3",
+      "text": "رَّبُّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 5787,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_002.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 5788,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_003.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 5789,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 5790,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_005.mp3",
+      "text": "بَيْنَهُمَا",
+      "translation": "diantara keduanya",
+      "transliteration": "baynahumā"
+    },
+    {
+      "id": 5791,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_006.mp3",
+      "text": "وَرَبُّ",
+      "translation": "dan Tuhan",
+      "transliteration": "warabbu"
+    },
+    {
+      "id": 5792,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_005_007.mp3",
+      "text": "ٱلْمَشَـٰرِقِ",
+      "translation": "tempat-tempat terbit matahari",
+      "transliteration": "l-mashāriqi"
+    },
+    {
+      "id": 5793,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tuhan langit dan bumi dan apa yang berada di antara keduanya dan Tuhan tempat-tempat terbit matahari.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 17910,
+    "timestamp_to": 26110,
+    "duration": 8200,
+    "segments": [
+      [
+        1,
+        17855,
+        18575
+      ],
+      [
+        2,
+        18575,
+        20245
+      ],
+      [
+        3,
+        20245,
+        21335
+      ],
+      [
+        4,
+        21335,
+        21805
+      ],
+      [
+        5,
+        21805,
+        23265
+      ],
+      [
+        6,
+        23265,
+        24155
+      ],
+      [
+        7,
+        24155,
+        25980
+      ]
+    ]
+  }
+}

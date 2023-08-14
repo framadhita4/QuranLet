@@ -1,0 +1,164 @@
+{
+  "id": 1467,
+  "chapter_id": 10,
+  "verse_key": "10:103",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "ruku_number": 181,
+  "manzil_number": 3,
+  "page_number": 220,
+  "juz_number": 11,
+  "text_uthmani": "ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 72224,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 72225,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_002.mp3",
+      "text": "نُنَجِّى",
+      "translation": "Kami selamatkan",
+      "transliteration": "nunajjī"
+    },
+    {
+      "id": 72226,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_003.mp3",
+      "text": "رُسُلَنَا",
+      "translation": "Rasul-Rasul Kami",
+      "transliteration": "rusulanā"
+    },
+    {
+      "id": 72227,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_004.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 72228,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_005.mp3",
+      "text": "ءَامَنُوا۟ ۚ",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 72230,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_007.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 72231,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_008.mp3",
+      "text": "حَقًّا",
+      "translation": "menjadikan kewajiban",
+      "transliteration": "ḥaqqan"
+    },
+    {
+      "id": 72232,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_009.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas Kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 72233,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_010.mp3",
+      "text": "نُنجِ",
+      "translation": "menyelamatkan",
+      "transliteration": "nunji"
+    },
+    {
+      "id": 72234,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_103_011.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 72235,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian Kami selamatkan rasul-rasul Kami dan orang-orang yang beriman, demikianlah menjadi kewajiban atas Kami menyelamatkan orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2520450,
+    "timestamp_to": 2535860,
+    "duration": 15410,
+    "segments": [
+      [
+        1,
+        2520385,
+        2521615
+      ],
+      [
+        2,
+        2521615,
+        2522705
+      ],
+      [
+        3,
+        2522705,
+        2523825
+      ],
+      [
+        4,
+        2523825,
+        2525035
+      ],
+      [
+        5,
+        2525035,
+        2526345
+      ],
+      [
+        6,
+        2526345,
+        2527825
+      ],
+      [
+        7,
+        2527825,
+        2528605
+      ],
+      [
+        8,
+        2528605,
+        2529875
+      ],
+      [
+        9,
+        2529875,
+        2531495
+      ],
+      [
+        10,
+        2531495,
+        2535770
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5570,
+  "chapter_id": 75,
+  "verse_key": "75:19",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 21700,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_019_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 21701,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_019_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 21702,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_019_003.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas Kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 21703,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_019_004.mp3",
+      "text": "بَيَانَهُۥ",
+      "translation": "penjelasannya",
+      "transliteration": "bayānahu"
+    },
+    {
+      "id": 21704,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, sesungguhnya atas tanggungan Kami-lah penjelasannya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 92370,
+    "timestamp_to": 97280,
+    "duration": 4910,
+    "segments": [
+      [
+        1,
+        92175,
+        93335
+      ],
+      [
+        2,
+        93335,
+        94495
+      ],
+      [
+        3,
+        94495,
+        95525
+      ],
+      [
+        4,
+        95525,
+        97040
+      ]
+    ]
+  }
+}

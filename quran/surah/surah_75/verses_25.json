@@ -1,0 +1,99 @@
+{
+  "id": 5576,
+  "chapter_id": 75,
+  "verse_key": "75:25",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 27962,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_025_001.mp3",
+      "text": "تَظُنُّ",
+      "translation": "ia mengira",
+      "transliteration": "taẓunnu"
+    },
+    {
+      "id": 27963,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_025_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 27964,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_025_003.mp3",
+      "text": "يُفْعَلَ",
+      "translation": "akan dibuat/ditimpakan",
+      "transliteration": "yuf'ʿala"
+    },
+    {
+      "id": 27965,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_025_004.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya/kepadanya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 27966,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_025_005.mp3",
+      "text": "فَاقِرَةٌۭ",
+      "translation": "kebinasaan/malapetaka besar",
+      "transliteration": "fāqiratun"
+    },
+    {
+      "id": 27967,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang amat dahsyat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 117450,
+    "timestamp_to": 123170,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        117375,
+        119045
+      ],
+      [
+        2,
+        119045,
+        119345
+      ],
+      [
+        3,
+        119345,
+        120925
+      ],
+      [
+        4,
+        120925,
+        121495
+      ],
+      [
+        5,
+        121495,
+        123030
+      ]
+    ]
+  }
+}

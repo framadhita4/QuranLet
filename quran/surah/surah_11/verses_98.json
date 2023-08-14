@@ -1,0 +1,151 @@
+{
+  "id": 1571,
+  "chapter_id": 11,
+  "verse_key": "11:98",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "يَقْدُمُ قَوْمَهُۥ يَوْمَ ٱلْقِيَـٰمَةِ فَأَوْرَدَهُمُ ٱلنَّارَ ۖ وَبِئْسَ ٱلْوِرْدُ ٱلْمَوْرُودُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 70598,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_001.mp3",
+      "text": "يَقْدُمُ",
+      "translation": "ia mendahului",
+      "transliteration": "yaqdumu"
+    },
+    {
+      "id": 70599,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_002.mp3",
+      "text": "قَوْمَهُۥ",
+      "translation": "kaumnya",
+      "transliteration": "qawmahu"
+    },
+    {
+      "id": 70600,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_003.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 70601,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_004.mp3",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation": "kiamat",
+      "transliteration": "l-qiyāmati"
+    },
+    {
+      "id": 70602,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_005.mp3",
+      "text": "فَأَوْرَدَهُمُ",
+      "translation": "maka/lalu ia mendatangkan/memasukkan mereka",
+      "transliteration": "fa-awradahumu"
+    },
+    {
+      "id": 70603,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_006.mp3",
+      "text": "ٱلنَّارَ ۖ",
+      "translation": "neraka",
+      "transliteration": "l-nāra"
+    },
+    {
+      "id": 70605,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_008.mp3",
+      "text": "وَبِئْسَ",
+      "translation": "dan seburuk-buruk",
+      "transliteration": "wabi'sa"
+    },
+    {
+      "id": 70606,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_009.mp3",
+      "text": "ٱلْوِرْدُ",
+      "translation": "kedatangan",
+      "transliteration": "l-wir'du"
+    },
+    {
+      "id": 70607,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_010.mp3",
+      "text": "ٱلْمَوْرُودُ",
+      "translation": "tempat yang didatangi",
+      "transliteration": "l-mawrūdu"
+    },
+    {
+      "id": 70608,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ia berjalan di muka kaumnya di hari kiamat lalu memasukkan mereka ke dalam neraka.   Neraka itu seburuk-buruk tempat yang didatangi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2281340,
+    "timestamp_to": 2295970,
+    "duration": 14630,
+    "segments": [
+      [
+        1,
+        2281295,
+        2282255
+      ],
+      [
+        2,
+        2282255,
+        2283005
+      ],
+      [
+        3,
+        2283005,
+        2283885
+      ],
+      [
+        4,
+        2283885,
+        2285315
+      ],
+      [
+        5,
+        2285315,
+        2286805
+      ],
+      [
+        6,
+        2286805,
+        2290674
+      ],
+      [
+        7,
+        2290675,
+        2291785
+      ],
+      [
+        8,
+        2291785,
+        2292625
+      ],
+      [
+        9,
+        2292625,
+        2295810
+      ]
+    ]
+  }
+}

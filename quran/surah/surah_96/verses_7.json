@@ -1,0 +1,73 @@
+{
+  "id": 6113,
+  "chapter_id": 96,
+  "verse_key": "96:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 540,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3",
+  "words": [
+    {
+      "id": 8005,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_007_001.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 8006,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_007_002.mp3",
+      "text": "رَّءَاهُ",
+      "translation": "ia melihatnya",
+      "transliteration": "raāhu"
+    },
+    {
+      "id": 8007,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/096_007_003.mp3",
+      "text": "ٱسْتَغْنَىٰٓ",
+      "translation": "dia serba cukup",
+      "transliteration": "is'taghnā"
+    },
+    {
+      "id": 8008,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena dia melihat dirinya serba cukup.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27770,
+    "timestamp_to": 30720,
+    "duration": 2950,
+    "segments": [
+      [
+        1,
+        27715,
+        28015
+      ],
+      [
+        2,
+        28015,
+        29035
+      ],
+      [
+        3,
+        29035,
+        30240
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6097,
+  "chapter_id": 94,
+  "verse_key": "94:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3",
+  "words": [
+    {
+      "id": 7614,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_007_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 7615,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_007_002.mp3",
+      "text": "فَرَغْتَ",
+      "translation": "kamu telah selesai",
+      "transliteration": "faraghta"
+    },
+    {
+      "id": 7616,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_007_003.mp3",
+      "text": "فَٱنصَبْ",
+      "translation": "maka kerja keraslah kamu",
+      "transliteration": "fa-inṣab"
+    },
+    {
+      "id": 7617,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain<sup foot_note_id=\"1587\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 25680,
+    "timestamp_to": 29890,
+    "duration": 4210,
+    "segments": [
+      [
+        1,
+        25655,
+        26505
+      ],
+      [
+        2,
+        26505,
+        27385
+      ],
+      [
+        3,
+        27385,
+        29220
+      ]
+    ]
+  }
+}

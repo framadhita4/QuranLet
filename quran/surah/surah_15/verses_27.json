@@ -1,0 +1,125 @@
+{
+  "id": 1829,
+  "chapter_id": 15,
+  "verse_key": "15:27",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "وَٱلْجَآنَّ خَلَقْنَـٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 30363,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_001.mp3",
+      "text": "وَٱلْجَآنَّ",
+      "translation": "dan jin",
+      "transliteration": "wal-jāna"
+    },
+    {
+      "id": 30364,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_002.mp3",
+      "text": "خَلَقْنَـٰهُ",
+      "translation": "Kami telah menciptakannya",
+      "transliteration": "khalaqnāhu"
+    },
+    {
+      "id": 30365,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 30366,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_004.mp3",
+      "text": "قَبْلُ",
+      "translation": "sebelum",
+      "transliteration": "qablu"
+    },
+    {
+      "id": 30367,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 30368,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_006.mp3",
+      "text": "نَّارِ",
+      "translation": "api",
+      "transliteration": "nāri"
+    },
+    {
+      "id": 30369,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_027_007.mp3",
+      "text": "ٱلسَّمُومِ",
+      "translation": "sangat panas",
+      "transliteration": "l-samūmi"
+    },
+    {
+      "id": 30370,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami telah menciptakan jin sebelum (Adam) dari api yang sangat panas.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 275420,
+    "timestamp_to": 287700,
+    "duration": 12280,
+    "segments": [
+      [
+        1,
+        275385,
+        280495
+      ],
+      [
+        2,
+        280495,
+        281785
+      ],
+      [
+        3,
+        281785,
+        282715
+      ],
+      [
+        4,
+        282715,
+        283385
+      ],
+      [
+        5,
+        283385,
+        283655
+      ],
+      [
+        6,
+        283655,
+        284975
+      ],
+      [
+        7,
+        284975,
+        287640
+      ]
+    ]
+  }
+}

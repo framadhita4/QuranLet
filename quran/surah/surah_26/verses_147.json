@@ -1,0 +1,73 @@
+{
+  "id": 3079,
+  "chapter_id": 26,
+  "verse_key": "26:147",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 80108,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_147_001.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 80109,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_147_002.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "kebun-kebun",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 80110,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_147_003.mp3",
+      "text": "وَعُيُونٍۢ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 80111,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٤٧",
+      "translation": "(147)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di dalam kebun-kebun serta mata air,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1284560,
+    "timestamp_to": 1290570,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        1284515,
+        1284945
+      ],
+      [
+        2,
+        1284945,
+        1287605
+      ],
+      [
+        3,
+        1287605,
+        1290470
+      ]
+    ]
+  }
+}

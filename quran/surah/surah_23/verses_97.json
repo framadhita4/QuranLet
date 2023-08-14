@@ -1,0 +1,125 @@
+{
+  "id": 2770,
+  "chapter_id": 23,
+  "verse_key": "23:97",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 70334,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_001.mp3",
+      "text": "وَقُل",
+      "translation": "dan katakanlah",
+      "transliteration": "waqul"
+    },
+    {
+      "id": 70335,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_002.mp3",
+      "text": "رَّبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 70336,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_003.mp3",
+      "text": "أَعُوذُ",
+      "translation": "aku berlindung",
+      "transliteration": "aʿūdhu"
+    },
+    {
+      "id": 70337,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_004.mp3",
+      "text": "بِكَ",
+      "translation": "kepada Engkau",
+      "transliteration": "bika"
+    },
+    {
+      "id": 70338,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_005.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 70339,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_006.mp3",
+      "text": "هَمَزَٰتِ",
+      "translation": "bisikan",
+      "transliteration": "hamazāti"
+    },
+    {
+      "id": 70340,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_097_007.mp3",
+      "text": "ٱلشَّيَـٰطِينِ",
+      "translation": "syaitan",
+      "transliteration": "l-shayāṭīni"
+    },
+    {
+      "id": 70341,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٧",
+      "translation": "(97)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan katakanlah, \"Ya Tuhan-ku, aku berlindung kepada Engkau dari bisikan-bisikan setan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1200570,
+    "timestamp_to": 1207750,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        1200545,
+        1201005
+      ],
+      [
+        2,
+        1201005,
+        1201895
+      ],
+      [
+        3,
+        1201895,
+        1202705
+      ],
+      [
+        4,
+        1202705,
+        1203135
+      ],
+      [
+        5,
+        1203135,
+        1203465
+      ],
+      [
+        6,
+        1203465,
+        1204535
+      ],
+      [
+        7,
+        1204535,
+        1207680
+      ]
+    ]
+  }
+}

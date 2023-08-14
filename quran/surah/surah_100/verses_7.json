@@ -1,0 +1,86 @@
+{
+  "id": 6153,
+  "chapter_id": 100,
+  "verse_key": "100:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 8429,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_007_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 8430,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_007_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 8431,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_007_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 8432,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_007_004.mp3",
+      "text": "لَشَهِيدٌۭ",
+      "translation": "benar-benar menyaksikan",
+      "transliteration": "lashahīdun"
+    },
+    {
+      "id": 8433,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya manusia itu menyaksikan (sendiri) keingkarannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 23720,
+    "timestamp_to": 30490,
+    "duration": 6770,
+    "segments": [
+      [
+        1,
+        23645,
+        25595
+      ],
+      [
+        2,
+        25595,
+        26275
+      ],
+      [
+        3,
+        26275,
+        27205
+      ],
+      [
+        4,
+        27205,
+        30330
+      ]
+    ]
+  }
+}

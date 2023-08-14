@@ -1,0 +1,86 @@
+{
+  "id": 4805,
+  "chapter_id": 53,
+  "verse_key": "53:21",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 23720,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_001.mp3",
+      "text": "أَلَكُمُ",
+      "translation": "apakah bagimu",
+      "transliteration": "alakumu"
+    },
+    {
+      "id": 23721,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_002.mp3",
+      "text": "ٱلذَّكَرُ",
+      "translation": "laki-laki",
+      "transliteration": "l-dhakaru"
+    },
+    {
+      "id": 23722,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_003.mp3",
+      "text": "وَلَهُ",
+      "translation": "dan bagi-Nya",
+      "transliteration": "walahu"
+    },
+    {
+      "id": 23723,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_004.mp3",
+      "text": "ٱلْأُنثَىٰ",
+      "translation": "perempuan",
+      "transliteration": "l-unthā"
+    },
+    {
+      "id": 23724,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah (patut) untuk kamu (anak) laki-laki dan untuk Allah (anak) perempuan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 94050,
+    "timestamp_to": 99350,
+    "duration": 5300,
+    "segments": [
+      [
+        1,
+        94025,
+        94895
+      ],
+      [
+        2,
+        94895,
+        95935
+      ],
+      [
+        3,
+        95935,
+        96615
+      ],
+      [
+        4,
+        96615,
+        98800
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 6106,
+  "chapter_id": 95,
+  "verse_key": "95:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3",
+  "words": [
+    {
+      "id": 9118,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_008_001.mp3",
+      "text": "أَلَيْسَ",
+      "translation": "bukankah",
+      "transliteration": "alaysa"
+    },
+    {
+      "id": 9119,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_008_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 9120,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_008_003.mp3",
+      "text": "بِأَحْكَمِ",
+      "translation": "lebih bijaksana/seadil-adilnya",
+      "transliteration": "bi-aḥkami"
+    },
+    {
+      "id": 9121,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_008_004.mp3",
+      "text": "ٱلْحَـٰكِمِينَ",
+      "translation": "para hakim",
+      "transliteration": "l-ḥākimīna"
+    },
+    {
+      "id": 9122,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Allah Hakim yang seadil-adilnya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 46160,
+    "timestamp_to": 59250,
+    "duration": 13090,
+    "segments": [
+      [
+        1,
+        46065,
+        50610
+      ]
+    ]
+  }
+}

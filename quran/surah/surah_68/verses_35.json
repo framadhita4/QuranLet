@@ -1,0 +1,73 @@
+{
+  "id": 5306,
+  "chapter_id": 68,
+  "verse_key": "68:35",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 37534,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_035_001.mp3",
+      "text": "أَفَنَجْعَلُ",
+      "translation": "maka apakah Kami menjadikan",
+      "transliteration": "afanajʿalu"
+    },
+    {
+      "id": 37535,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_035_002.mp3",
+      "text": "ٱلْمُسْلِمِينَ",
+      "translation": "orang-orang Islam",
+      "transliteration": "l-mus'limīna"
+    },
+    {
+      "id": 37536,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_035_003.mp3",
+      "text": "كَٱلْمُجْرِمِينَ",
+      "translation": "seperti orang-orang berdosa",
+      "transliteration": "kal-muj'rimīna"
+    },
+    {
+      "id": 37537,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah patut Kami menjadikan orang-orang Islam itu sama dengan orang-orang yang berdosa (orang kafir)?<sup foot_note_id=\"1497\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 278390,
+    "timestamp_to": 284950,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        278315,
+        279455
+      ],
+      [
+        2,
+        279455,
+        280835
+      ],
+      [
+        3,
+        280835,
+        284800
+      ]
+    ]
+  }
+}

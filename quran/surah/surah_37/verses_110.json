@@ -1,0 +1,73 @@
+{
+  "id": 3898,
+  "chapter_id": 37,
+  "verse_key": "37:110",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 74141,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_110_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 74142,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_110_002.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 74143,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_110_003.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 74144,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١٠",
+      "translation": "(110)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah, Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 913250,
+    "timestamp_to": 918660,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        913185,
+        914255
+      ],
+      [
+        2,
+        914255,
+        914855
+      ],
+      [
+        3,
+        914855,
+        918520
+      ]
+    ]
+  }
+}

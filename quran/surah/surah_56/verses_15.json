@@ -1,0 +1,73 @@
+{
+  "id": 4994,
+  "chapter_id": 56,
+  "verse_key": "56:15",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 17292,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_015_001.mp3",
+      "text": "عَلَىٰ",
+      "translation": "di atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 17293,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_015_002.mp3",
+      "text": "سُرُرٍۢ",
+      "translation": "divan",
+      "transliteration": "sururin"
+    },
+    {
+      "id": 17294,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_015_003.mp3",
+      "text": "مَّوْضُونَةٍۢ",
+      "translation": "tersulam/bertahtakan emas permata",
+      "transliteration": "mawḍūnatin"
+    },
+    {
+      "id": 17295,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berada di atas dipan yang bertahtakan emas dan permata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 80530,
+    "timestamp_to": 84810,
+    "duration": 4290,
+    "segments": [
+      [
+        1,
+        80455,
+        81145
+      ],
+      [
+        2,
+        81145,
+        81835
+      ],
+      [
+        3,
+        81835,
+        84680
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6196,
+  "chapter_id": 106,
+  "verse_key": "106:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 550,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3",
+  "words": [
+    {
+      "id": 2411,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_003_001.mp3",
+      "text": "فَلْيَعْبُدُوا۟",
+      "translation": "maka hendaklah mereka menyembah",
+      "transliteration": "falyaʿbudū"
+    },
+    {
+      "id": 2412,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_003_002.mp3",
+      "text": "رَبَّ",
+      "translation": "Tuhan",
+      "transliteration": "rabba"
+    },
+    {
+      "id": 2413,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_003_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 2414,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_003_004.mp3",
+      "text": "ٱلْبَيْتِ",
+      "translation": "rumah",
+      "transliteration": "l-bayti"
+    },
+    {
+      "id": 2415,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka hendaklah mereka menyembah Tuhan pemilik rumah ini (Kakbah).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13480,
+    "timestamp_to": 19440,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        13415,
+        14965
+      ],
+      [
+        2,
+        14965,
+        15575
+      ],
+      [
+        3,
+        15575,
+        16185
+      ],
+      [
+        4,
+        16185,
+        18940
+      ]
+    ]
+  }
+}

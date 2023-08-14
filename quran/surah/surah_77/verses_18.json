@@ -1,0 +1,73 @@
+{
+  "id": 5640,
+  "chapter_id": 77,
+  "verse_key": "77:18",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 20660,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_018_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 20661,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_018_002.mp3",
+      "text": "نَفْعَلُ",
+      "translation": "Kami berbuat",
+      "transliteration": "nafʿalu"
+    },
+    {
+      "id": 20662,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_018_003.mp3",
+      "text": "بِٱلْمُجْرِمِينَ",
+      "translation": "terhadap orang-orang berdosa",
+      "transliteration": "bil-muj'rimīna"
+    },
+    {
+      "id": 20663,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah Kami berbuat terhadap orang-orang yang berdosa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60580,
+    "timestamp_to": 65780,
+    "duration": 5200,
+    "segments": [
+      [
+        1,
+        60475,
+        61405
+      ],
+      [
+        2,
+        61405,
+        62295
+      ],
+      [
+        3,
+        62295,
+        65620
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 138,
+  "chapter_id": 2,
+  "verse_key": "2:131",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "ruku_number": 17,
+  "manzil_number": 1,
+  "page_number": 20,
+  "juz_number": 1,
+  "text_uthmani": "إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 78034,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 78035,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_002.mp3",
+      "text": "قَالَ",
+      "translation": "berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 78036,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_003.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 78037,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_004.mp3",
+      "text": "رَبُّهُۥٓ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbuhu"
+    },
+    {
+      "id": 78038,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_005.mp3",
+      "text": "أَسْلِمْ ۖ",
+      "translation": "tunduk/patuhlah",
+      "transliteration": "aslim"
+    },
+    {
+      "id": 78040,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_007.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 78041,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_008.mp3",
+      "text": "أَسْلَمْتُ",
+      "translation": "aku tunduk/patuh",
+      "transliteration": "aslamtu"
+    },
+    {
+      "id": 78042,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_009.mp3",
+      "text": "لِرَبِّ",
+      "translation": "kepada Tuhan",
+      "transliteration": "lirabbi"
+    },
+    {
+      "id": 78043,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_131_010.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 78044,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٣١",
+      "translation": "(131)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketika Tuhan-nya berfirman kepadanya, \"Tunduk patuhlah!\"Ibrāhīm menjawab, \"Aku tunduk patuh kepada Tuhan semesta alam\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2828510,
+    "timestamp_to": 2839350,
+    "duration": 10840,
+    "segments": [
+      [
+        1,
+        2828445,
+        2829055
+      ],
+      [
+        2,
+        2829055,
+        2829645
+      ],
+      [
+        3,
+        2829645,
+        2830235
+      ],
+      [
+        4,
+        2830235,
+        2832545
+      ],
+      [
+        5,
+        2832545,
+        2833815
+      ],
+      [
+        6,
+        2833815,
+        2834375
+      ],
+      [
+        7,
+        2834375,
+        2835445
+      ],
+      [
+        8,
+        2835445,
+        2836165
+      ],
+      [
+        9,
+        2836165,
+        2839220
+      ]
+    ]
+  }
+}

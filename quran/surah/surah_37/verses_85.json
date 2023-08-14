@@ -1,0 +1,112 @@
+{
+  "id": 3873,
+  "chapter_id": 37,
+  "verse_key": "37:85",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 66335,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_085_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 66336,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_085_002.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 66337,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_085_003.mp3",
+      "text": "لِأَبِيهِ",
+      "translation": "kepada bapaknya",
+      "transliteration": "li-abīhi"
+    },
+    {
+      "id": 66338,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_085_004.mp3",
+      "text": "وَقَوْمِهِۦ",
+      "translation": "dan kaumnya",
+      "transliteration": "waqawmihi"
+    },
+    {
+      "id": 66339,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_085_005.mp3",
+      "text": "مَاذَا",
+      "translation": "apakah",
+      "transliteration": "mādhā"
+    },
+    {
+      "id": 66340,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_085_006.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu sembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 66341,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ingatlah) ketika ia berkata kepada bapaknya dan kaumnya, \"Apakah yang kamu sembah itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 702870,
+    "timestamp_to": 710940,
+    "duration": 8070,
+    "segments": [
+      [
+        1,
+        702815,
+        703335
+      ],
+      [
+        2,
+        703335,
+        703955
+      ],
+      [
+        3,
+        703955,
+        704955
+      ],
+      [
+        4,
+        704955,
+        706265
+      ],
+      [
+        5,
+        706265,
+        707105
+      ],
+      [
+        6,
+        707105,
+        710820
+      ]
+    ]
+  }
+}

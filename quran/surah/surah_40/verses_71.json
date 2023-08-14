@@ -1,0 +1,112 @@
+{
+  "id": 4204,
+  "chapter_id": 40,
+  "verse_key": "40:71",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 413,
+  "manzil_number": 6,
+  "page_number": 475,
+  "juz_number": 24,
+  "text_uthmani": "إِذِ ٱلْأَغْلَـٰلُ فِىٓ أَعْنَـٰقِهِمْ وَٱلسَّلَـٰسِلُ يُسْحَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 60108,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_071_001.mp3",
+      "text": "إِذِ",
+      "translation": "ketika",
+      "transliteration": "idhi"
+    },
+    {
+      "id": 60109,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_071_002.mp3",
+      "text": "ٱلْأَغْلَـٰلُ",
+      "translation": "belenggu",
+      "transliteration": "l-aghlālu"
+    },
+    {
+      "id": 60110,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_071_003.mp3",
+      "text": "فِىٓ",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 60111,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_071_004.mp3",
+      "text": "أَعْنَـٰقِهِمْ",
+      "translation": "leher mereka",
+      "transliteration": "aʿnāqihim"
+    },
+    {
+      "id": 60112,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_071_005.mp3",
+      "text": "وَٱلسَّلَـٰسِلُ",
+      "translation": "dan rantai",
+      "transliteration": "wal-salāsilu"
+    },
+    {
+      "id": 60113,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_071_006.mp3",
+      "text": "يُسْحَبُونَ",
+      "translation": "mereka di seret",
+      "transliteration": "yus'ḥabūna"
+    },
+    {
+      "id": 60114,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ketika belenggu dan rantai dipasang di leher mereka, seraya mereka diseret,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1312930,
+    "timestamp_to": 1323560,
+    "duration": 10630,
+    "segments": [
+      [
+        1,
+        1312905,
+        1313345
+      ],
+      [
+        2,
+        1313345,
+        1314525
+      ],
+      [
+        3,
+        1314525,
+        1316365
+      ],
+      [
+        4,
+        1316365,
+        1317855
+      ],
+      [
+        5,
+        1317855,
+        1319185
+      ],
+      [
+        6,
+        1319185,
+        1323510
+      ]
+    ]
+  }
+}

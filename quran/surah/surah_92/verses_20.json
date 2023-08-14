@@ -1,0 +1,99 @@
+{
+  "id": 6078,
+  "chapter_id": 92,
+  "verse_key": "92:20",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 22591,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_020_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 22592,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_020_002.mp3",
+      "text": "ٱبْتِغَآءَ",
+      "translation": "mencari",
+      "transliteration": "ib'tighāa"
+    },
+    {
+      "id": 22593,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_020_003.mp3",
+      "text": "وَجْهِ",
+      "translation": "keridhaan",
+      "transliteration": "wajhi"
+    },
+    {
+      "id": 22594,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_020_004.mp3",
+      "text": "رَبِّهِ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 22595,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_020_005.mp3",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation": "yang Maha Tinggi",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 22596,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhan-nya yang Maha Tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 89290,
+    "timestamp_to": 95720,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        88805,
+        89405
+      ],
+      [
+        2,
+        89405,
+        92214
+      ],
+      [
+        3,
+        92215,
+        92775
+      ],
+      [
+        4,
+        92775,
+        93685
+      ],
+      [
+        5,
+        93685,
+        94860
+      ]
+    ]
+  }
+}

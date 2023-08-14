@@ -1,0 +1,177 @@
+{
+  "id": 28,
+  "chapter_id": 2,
+  "verse_key": "2:21",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 4,
+  "manzil_number": 1,
+  "page_number": 4,
+  "juz_number": 1,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 24292,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 24293,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_002.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 24294,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_003.mp3",
+      "text": "ٱعْبُدُوا۟",
+      "translation": "sembahlah",
+      "transliteration": "uʿ'budū"
+    },
+    {
+      "id": 24295,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_004.mp3",
+      "text": "رَبَّكُمُ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbakumu"
+    },
+    {
+      "id": 24296,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_005.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 24297,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_006.mp3",
+      "text": "خَلَقَكُمْ",
+      "translation": "menciptakan kalian",
+      "transliteration": "khalaqakum"
+    },
+    {
+      "id": 24298,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_007.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 24299,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_008.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 24300,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_009.mp3",
+      "text": "قَبْلِكُمْ",
+      "translation": "sebelum kalian",
+      "transliteration": "qablikum"
+    },
+    {
+      "id": 24301,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_010.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 24302,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_021_011.mp3",
+      "text": "تَتَّقُونَ",
+      "translation": "(kamu) bertakwa",
+      "transliteration": "tattaqūna"
+    },
+    {
+      "id": 24303,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai manusia, sembahlah Tuhan-mu yang telah menciptakanmu dan orang-orang yang sebelummu agar kamu bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 293960,
+    "timestamp_to": 307470,
+    "duration": 13510,
+    "segments": [
+      [
+        1,
+        293875,
+        296655
+      ],
+      [
+        2,
+        296655,
+        297855
+      ],
+      [
+        3,
+        297855,
+        298545
+      ],
+      [
+        4,
+        298545,
+        299355
+      ],
+      [
+        5,
+        299355,
+        300075
+      ],
+      [
+        6,
+        300075,
+        301055
+      ],
+      [
+        7,
+        301055,
+        302055
+      ],
+      [
+        8,
+        302055,
+        302975
+      ],
+      [
+        9,
+        302975,
+        303825
+      ],
+      [
+        10,
+        303825,
+        304905
+      ],
+      [
+        11,
+        304905,
+        307290
+      ]
+    ]
+  }
+}

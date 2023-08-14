@@ -1,0 +1,112 @@
+{
+  "id": 5974,
+  "chapter_id": 88,
+  "verse_key": "88:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 7328,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_007_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 7329,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_007_002.mp3",
+      "text": "يُسْمِنُ",
+      "translation": "menggemukkan",
+      "transliteration": "yus'minu"
+    },
+    {
+      "id": 7330,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_007_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 7331,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_007_004.mp3",
+      "text": "يُغْنِى",
+      "translation": "mencukupi/menghilangkan",
+      "transliteration": "yugh'nī"
+    },
+    {
+      "id": 7332,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_007_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 7333,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_007_006.mp3",
+      "text": "جُوعٍۢ",
+      "translation": "lapar",
+      "transliteration": "jūʿin"
+    },
+    {
+      "id": 7334,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang tidak menggemukkan dan tidak pula menghilangkan lapar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27690,
+    "timestamp_to": 34120,
+    "duration": 6430,
+    "segments": [
+      [
+        1,
+        27635,
+        28075
+      ],
+      [
+        2,
+        28075,
+        28965
+      ],
+      [
+        3,
+        28965,
+        29495
+      ],
+      [
+        4,
+        29495,
+        30385
+      ],
+      [
+        5,
+        30385,
+        30725
+      ],
+      [
+        6,
+        30725,
+        33990
+      ]
+    ]
+  }
+}

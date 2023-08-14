@@ -1,0 +1,73 @@
+{
+  "id": 1897,
+  "chapter_id": 15,
+  "verse_key": "15:95",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّا كَفَيْنَـٰكَ ٱلْمُسْتَهْزِءِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 69693,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_095_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 69694,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_095_002.mp3",
+      "text": "كَفَيْنَـٰكَ",
+      "translation": "Kami memelihara kamu",
+      "transliteration": "kafaynāka"
+    },
+    {
+      "id": 69695,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_095_003.mp3",
+      "text": "ٱلْمُسْتَهْزِءِينَ",
+      "translation": "orang-orang yang memperolok-olok",
+      "transliteration": "l-mus'tahziīna"
+    },
+    {
+      "id": 69696,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami memelihara kamu daripada (kejahatan) orang-orang yang memperolok-olokkan (kamu),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 911890,
+    "timestamp_to": 918450,
+    "duration": 6560,
+    "segments": [
+      [
+        1,
+        911845,
+        913455
+      ],
+      [
+        2,
+        913455,
+        914805
+      ],
+      [
+        3,
+        914805,
+        918380
+      ]
+    ]
+  }
+}

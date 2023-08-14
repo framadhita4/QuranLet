@@ -1,0 +1,60 @@
+{
+  "id": 5626,
+  "chapter_id": 77,
+  "verse_key": "77:4",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 4142,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_004_001.mp3",
+      "text": "فَٱلْفَـٰرِقَـٰتِ",
+      "translation": "lalu yang membedakan/memisahkan",
+      "transliteration": "fal-fāriqāti"
+    },
+    {
+      "id": 4143,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_004_002.mp3",
+      "text": "فَرْقًۭا",
+      "translation": "sebeda-bedanya",
+      "transliteration": "farqan"
+    },
+    {
+      "id": 4144,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang membedakan (antara yang hak dan yang batil) dengan sejelas-jelasnya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9460,
+    "timestamp_to": 12330,
+    "duration": 2870,
+    "segments": [
+      [
+        1,
+        9405,
+        11005
+      ],
+      [
+        2,
+        11005,
+        12230
+      ]
+    ]
+  }
+}

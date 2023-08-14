@@ -1,0 +1,151 @@
+{
+  "id": 3145,
+  "chapter_id": 26,
+  "verse_key": "26:213",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "فَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 85743,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 85744,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_002.mp3",
+      "text": "تَدْعُ",
+      "translation": "kamu menyeru/menyembah",
+      "transliteration": "tadʿu"
+    },
+    {
+      "id": 85745,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_003.mp3",
+      "text": "مَعَ",
+      "translation": "beserta/disamping",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 85746,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 85747,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_005.mp3",
+      "text": "إِلَـٰهًا",
+      "translation": "tuhan",
+      "transliteration": "ilāhan"
+    },
+    {
+      "id": 85748,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_006.mp3",
+      "text": "ءَاخَرَ",
+      "translation": "yang lain",
+      "transliteration": "ākhara"
+    },
+    {
+      "id": 85749,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_007.mp3",
+      "text": "فَتَكُونَ",
+      "translation": "maka kamu adalah",
+      "transliteration": "fatakūna"
+    },
+    {
+      "id": 85750,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_008.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 85751,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_213_009.mp3",
+      "text": "ٱلْمُعَذَّبِينَ",
+      "translation": "orang-orang yang diazab",
+      "transliteration": "l-muʿadhabīna"
+    },
+    {
+      "id": 85752,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢١٣",
+      "translation": "(213)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka janganlah kamu menyeru (menyembah) tuhan yang lain di samping Allah yang menyebabkan kamu termasuk orang-orang yang diazab.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1836410,
+    "timestamp_to": 1845790,
+    "duration": 9380,
+    "segments": [
+      [
+        1,
+        1836385,
+        1837005
+      ],
+      [
+        2,
+        1837005,
+        1837505
+      ],
+      [
+        3,
+        1837505,
+        1838035
+      ],
+      [
+        4,
+        1838035,
+        1838965
+      ],
+      [
+        5,
+        1838965,
+        1839975
+      ],
+      [
+        6,
+        1839975,
+        1840765
+      ],
+      [
+        7,
+        1840765,
+        1841845
+      ],
+      [
+        8,
+        1841845,
+        1842165
+      ],
+      [
+        9,
+        1842165,
+        1845710
+      ]
+    ]
+  }
+}

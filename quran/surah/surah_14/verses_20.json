@@ -1,0 +1,99 @@
+{
+  "id": 1770,
+  "chapter_id": 14,
+  "verse_key": "14:20",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "page_number": 258,
+  "juz_number": 13,
+  "text_uthmani": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 23222,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 23223,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_002.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 23224,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas/bagi",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 23225,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 23226,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_005.mp3",
+      "text": "بِعَزِيزٍۢ",
+      "translation": "dengan sukar/berat",
+      "transliteration": "biʿazīzin"
+    },
+    {
+      "id": 23227,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan yang demikian itu sekali-kali tidak sukar bagi Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 473805,
+    "timestamp_to": 478925,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        474185,
+        474905
+      ],
+      [
+        2,
+        474905,
+        475945
+      ],
+      [
+        3,
+        475945,
+        476285
+      ],
+      [
+        4,
+        476285,
+        477255
+      ],
+      [
+        5,
+        477255,
+        479830
+      ]
+    ]
+  }
+}

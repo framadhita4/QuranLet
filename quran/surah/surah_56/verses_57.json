@@ -1,0 +1,86 @@
+{
+  "id": 5036,
+  "chapter_id": 56,
+  "verse_key": "56:57",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 52801,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_057_001.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 52802,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_057_002.mp3",
+      "text": "خَلَقْنَـٰكُمْ",
+      "translation": "Kami menciptakan kamu",
+      "transliteration": "khalaqnākum"
+    },
+    {
+      "id": 52803,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_057_003.mp3",
+      "text": "فَلَوْلَا",
+      "translation": "maka mengapa tidak",
+      "transliteration": "falawlā"
+    },
+    {
+      "id": 52804,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_057_004.mp3",
+      "text": "تُصَدِّقُونَ",
+      "translation": "kamu membenarkan",
+      "transliteration": "tuṣaddiqūna"
+    },
+    {
+      "id": 52805,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami telah menciptakan kamu, maka mengapa kamu tidak membenarkan (hari berbangkit)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 379900,
+    "timestamp_to": 387320,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        379785,
+        380465
+      ],
+      [
+        2,
+        380465,
+        382105
+      ],
+      [
+        3,
+        382105,
+        383235
+      ],
+      [
+        4,
+        383235,
+        387110
+      ]
+    ]
+  }
+}

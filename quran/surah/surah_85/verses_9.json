@@ -1,0 +1,164 @@
+{
+  "id": 5918,
+  "chapter_id": 85,
+  "verse_key": "85:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 10438,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 10439,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "bagiNya/mempunyai",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 10440,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_003.mp3",
+      "text": "مُلْكُ",
+      "translation": "kerajaan",
+      "transliteration": "mul'ku"
+    },
+    {
+      "id": 10441,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 10442,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_005.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 10444,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_007.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 10445,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_008.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 10446,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_009.mp3",
+      "text": "كُلِّ",
+      "translation": "setiap",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 10447,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_010.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 10448,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_009_011.mp3",
+      "text": "شَهِيدٌ",
+      "translation": "Maha Menyaksikan",
+      "transliteration": "shahīdun"
+    },
+    {
+      "id": 10449,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang mempunyai kerajaan langit dan bumi; dan Allah Maha Menyaksikan segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 59630,
+    "timestamp_to": 73160,
+    "duration": 13530,
+    "segments": [
+      [
+        1,
+        59575,
+        60585
+      ],
+      [
+        2,
+        60585,
+        61165
+      ],
+      [
+        3,
+        61165,
+        61845
+      ],
+      [
+        4,
+        61845,
+        63335
+      ],
+      [
+        5,
+        63335,
+        64785
+      ],
+      [
+        6,
+        64785,
+        65835
+      ],
+      [
+        7,
+        65835,
+        66405
+      ],
+      [
+        8,
+        66405,
+        67055
+      ],
+      [
+        9,
+        67055,
+        68875
+      ],
+      [
+        10,
+        68875,
+        73030
+      ]
+    ]
+  }
+}

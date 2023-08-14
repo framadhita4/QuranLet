@@ -1,0 +1,73 @@
+{
+  "id": 3792,
+  "chapter_id": 37,
+  "verse_key": "37:4",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 4528,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_004_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 4529,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_004_002.mp3",
+      "text": "إِلَـٰهَكُمْ",
+      "translation": "Tuhanmu",
+      "transliteration": "ilāhakum"
+    },
+    {
+      "id": 4530,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_004_003.mp3",
+      "text": "لَوَٰحِدٌۭ",
+      "translation": "benar-benar satu/esa",
+      "transliteration": "lawāḥidun"
+    },
+    {
+      "id": 4531,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu benar-benar Esa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 13680,
+    "timestamp_to": 17910,
+    "duration": 4230,
+    "segments": [
+      [
+        1,
+        13645,
+        14945
+      ],
+      [
+        2,
+        14945,
+        16335
+      ],
+      [
+        3,
+        16335,
+        17820
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5577,
+  "chapter_id": 75,
+  "verse_key": "75:26",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 28937,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_026_001.mp3",
+      "text": "كَلَّآ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 28938,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_026_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 28939,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_026_003.mp3",
+      "text": "بَلَغَتِ",
+      "translation": "ia telah sampai",
+      "transliteration": "balaghati"
+    },
+    {
+      "id": 28940,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_026_004.mp3",
+      "text": "ٱلتَّرَاقِىَ",
+      "translation": "kerongkongan",
+      "transliteration": "l-tarāqiya"
+    },
+    {
+      "id": 28941,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali jangan.  Apabila nafas (seseorang) telah (mendesak) sampai ke kerongkongan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 123170,
+    "timestamp_to": 128710,
+    "duration": 5540,
+    "segments": [
+      [
+        1,
+        123105,
+        125335
+      ],
+      [
+        2,
+        125335,
+        125925
+      ],
+      [
+        3,
+        125925,
+        126865
+      ],
+      [
+        4,
+        126865,
+        128270
+      ]
+    ]
+  }
+}

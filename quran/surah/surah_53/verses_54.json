@@ -1,0 +1,73 @@
+{
+  "id": 4838,
+  "chapter_id": 53,
+  "verse_key": "53:54",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 51535,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_054_001.mp3",
+      "text": "فَغَشَّىٰهَا",
+      "translation": "maka Dia menutupinya",
+      "transliteration": "faghashāhā"
+    },
+    {
+      "id": 51536,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_054_002.mp3",
+      "text": "مَا",
+      "translation": "apa(azab)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 51537,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_054_003.mp3",
+      "text": "غَشَّىٰ",
+      "translation": "menutupi/menimpa",
+      "transliteration": "ghashā"
+    },
+    {
+      "id": 51538,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu Allah menimpakan atas negeri itu azab besar yang menimpanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 418480,
+    "timestamp_to": 421980,
+    "duration": 3500,
+    "segments": [
+      [
+        1,
+        418035,
+        419585
+      ],
+      [
+        2,
+        419585,
+        420065
+      ],
+      [
+        3,
+        420065,
+        421100
+      ]
+    ]
+  }
+}

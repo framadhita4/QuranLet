@@ -1,0 +1,130 @@
+{
+  "id": 1818,
+  "chapter_id": 15,
+  "verse_key": "15:16",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 219,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّـٰهَا لِلنَّـٰظِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 18922,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 18923,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_002.mp3",
+      "text": "جَعَلْنَا",
+      "translation": "Kami telah menjadikan",
+      "transliteration": "jaʿalnā"
+    },
+    {
+      "id": 18924,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 18925,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_004.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 18926,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_005.mp3",
+      "text": "بُرُوجًۭا",
+      "translation": "gugusan bintang",
+      "transliteration": "burūjan"
+    },
+    {
+      "id": 18927,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_006.mp3",
+      "text": "وَزَيَّنَّـٰهَا",
+      "translation": "dan Kami menghiasinya",
+      "transliteration": "wazayyannāhā"
+    },
+    {
+      "id": 18928,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_016_007.mp3",
+      "text": "لِلنَّـٰظِرِينَ",
+      "translation": "bagi orang-orang yang memandang",
+      "transliteration": "lilnnāẓirīna"
+    },
+    {
+      "id": 18929,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah menciptakan gugusan bintang-bintang (di langit) dan Kami telah menghiasi langit itu bagi orang-orang yang memandang(nya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 143500,
+    "timestamp_to": 155150,
+    "duration": 11650,
+    "segments": [
+      [
+        1,
+        143455,
+        144285
+      ],
+      [
+        2,
+        144285,
+        145335
+      ],
+      [
+        3,
+        145335,
+        145535
+      ],
+      [
+        4,
+        145535,
+        147895
+      ],
+      [
+        5,
+        147895,
+        148825
+      ],
+      [
+        5,
+        148825,
+        149565
+      ],
+      [
+        6,
+        149565,
+        151825
+      ],
+      [
+        7,
+        151825,
+        155060
+      ]
+    ]
+  }
+}

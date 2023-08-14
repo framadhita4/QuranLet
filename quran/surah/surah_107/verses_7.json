@@ -1,0 +1,60 @@
+{
+  "id": 6204,
+  "chapter_id": 107,
+  "verse_key": "107:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "words": [
+    {
+      "id": 7669,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_007_001.mp3",
+      "text": "وَيَمْنَعُونَ",
+      "translation": "dan mereka mencegah/enggan",
+      "transliteration": "wayamnaʿūna"
+    },
+    {
+      "id": 7670,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/107_007_002.mp3",
+      "text": "ٱلْمَاعُونَ",
+      "translation": "pertolongan",
+      "transliteration": "l-māʿūna"
+    },
+    {
+      "id": 7671,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan enggan (menolong dengan) barang berguna<sup foot_note_id=\"1605\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 40910,
+    "timestamp_to": 48170,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        40735,
+        42235
+      ],
+      [
+        2,
+        42235,
+        47260
+      ]
+    ]
+  }
+}

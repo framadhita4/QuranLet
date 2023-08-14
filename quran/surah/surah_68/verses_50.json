@@ -1,0 +1,99 @@
+{
+  "id": 5321,
+  "chapter_id": 68,
+  "verse_key": "68:50",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 48749,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_050_001.mp3",
+      "text": "فَٱجْتَبَـٰهُ",
+      "translation": "lalu memilihnya",
+      "transliteration": "fa-ij'tabāhu"
+    },
+    {
+      "id": 48750,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_050_002.mp3",
+      "text": "رَبُّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbuhu"
+    },
+    {
+      "id": 48751,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_050_003.mp3",
+      "text": "فَجَعَلَهُۥ",
+      "translation": "maka Dia menjadikannya",
+      "transliteration": "fajaʿalahu"
+    },
+    {
+      "id": 48752,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_050_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 48753,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_050_005.mp3",
+      "text": "ٱلصَّـٰلِحِينَ",
+      "translation": "orang-orang yang saleh",
+      "transliteration": "l-ṣāliḥīna"
+    },
+    {
+      "id": 48754,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu Tuhan-nya memilihnya dan menjadikannya termasuk orang-orang yang saleh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 420020,
+    "timestamp_to": 427440,
+    "duration": 7420,
+    "segments": [
+      [
+        1,
+        419595,
+        420865
+      ],
+      [
+        2,
+        420865,
+        421755
+      ],
+      [
+        3,
+        421755,
+        422965
+      ],
+      [
+        4,
+        422965,
+        423335
+      ],
+      [
+        5,
+        423335,
+        426960
+      ]
+    ]
+  }
+}

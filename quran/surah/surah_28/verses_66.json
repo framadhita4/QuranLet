@@ -1,0 +1,125 @@
+{
+  "id": 3318,
+  "chapter_id": 28,
+  "verse_key": "28:66",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "ruku_number": 340,
+  "manzil_number": 5,
+  "page_number": 393,
+  "juz_number": 20,
+  "text_uthmani": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَآءَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 57838,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_001.mp3",
+      "text": "فَعَمِيَتْ",
+      "translation": "maka buta/gelap",
+      "transliteration": "faʿamiyat"
+    },
+    {
+      "id": 57839,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_002.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 57840,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_003.mp3",
+      "text": "ٱلْأَنۢبَآءُ",
+      "translation": "semua berita",
+      "transliteration": "l-anbāu"
+    },
+    {
+      "id": 57841,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_004.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 57842,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_005.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 57843,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_006.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 57844,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_066_007.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "saling bertanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 57845,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka gelaplah bagi mereka segala macam alasan pada hari itu karena itu mereka tidak saling tanya-menanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1519690,
+    "timestamp_to": 1533950,
+    "duration": 14260,
+    "segments": [
+      [
+        1,
+        1519665,
+        1520755
+      ],
+      [
+        2,
+        1520755,
+        1521765
+      ],
+      [
+        3,
+        1521765,
+        1525855
+      ],
+      [
+        4,
+        1525855,
+        1527415
+      ],
+      [
+        5,
+        1527415,
+        1528275
+      ],
+      [
+        6,
+        1528275,
+        1528835
+      ],
+      [
+        7,
+        1528835,
+        1533870
+      ]
+    ]
+  }
+}

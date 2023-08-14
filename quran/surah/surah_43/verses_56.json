@@ -1,0 +1,86 @@
+{
+  "id": 4381,
+  "chapter_id": 43,
+  "verse_key": "43:56",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 430,
+  "manzil_number": 6,
+  "page_number": 493,
+  "juz_number": 25,
+  "text_uthmani": "فَجَعَلْنَـٰهُمْ سَلَفًا وَمَثَلًا لِّلْـَٔاخِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 52132,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_056_001.mp3",
+      "text": "فَجَعَلْنَـٰهُمْ",
+      "translation": "maka Kami jadikan mereka",
+      "transliteration": "fajaʿalnāhum"
+    },
+    {
+      "id": 52133,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_056_002.mp3",
+      "text": "سَلَفًۭا",
+      "translation": "terdahulu",
+      "transliteration": "salafan"
+    },
+    {
+      "id": 52134,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_056_003.mp3",
+      "text": "وَمَثَلًۭا",
+      "translation": "dan perumpamaan",
+      "transliteration": "wamathalan"
+    },
+    {
+      "id": 52135,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_056_004.mp3",
+      "text": "لِّلْـَٔاخِرِينَ",
+      "translation": "bagi orang-orang yang kemudian",
+      "transliteration": "lil'ākhirīna"
+    },
+    {
+      "id": 52136,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami jadikan mereka sebagai pelajaran dan contoh bagi orang-orang yang kemudian.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 794980,
+    "timestamp_to": 803290,
+    "duration": 8310,
+    "segments": [
+      [
+        1,
+        794955,
+        796605
+      ],
+      [
+        2,
+        796605,
+        798005
+      ],
+      [
+        3,
+        798005,
+        799025
+      ],
+      [
+        4,
+        799025,
+        803210
+      ]
+    ]
+  }
+}

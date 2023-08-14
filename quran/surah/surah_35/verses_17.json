@@ -1,0 +1,99 @@
+{
+  "id": 3677,
+  "chapter_id": 35,
+  "verse_key": "35:17",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 436,
+  "juz_number": 22,
+  "text_uthmani": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 20025,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_017_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 20026,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_017_002.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 20027,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_017_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas/bagi",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 20028,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_017_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 20029,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_017_005.mp3",
+      "text": "بِعَزِيزٍۢ",
+      "translation": "dengan payah/sulit",
+      "transliteration": "biʿazīzin"
+    },
+    {
+      "id": 20030,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan yang demikian itu sekali-kali tidak sulit bagi Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 370720,
+    "timestamp_to": 376100,
+    "duration": 5380,
+    "segments": [
+      [
+        1,
+        370685,
+        371395
+      ],
+      [
+        2,
+        371395,
+        372145
+      ],
+      [
+        3,
+        372145,
+        372535
+      ],
+      [
+        4,
+        372535,
+        373315
+      ],
+      [
+        5,
+        373315,
+        376010
+      ]
+    ]
+  }
+}

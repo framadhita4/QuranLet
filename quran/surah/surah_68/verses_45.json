@@ -1,0 +1,99 @@
+{
+  "id": 5316,
+  "chapter_id": 68,
+  "verse_key": "68:45",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 501,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 45282,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_045_001.mp3",
+      "text": "وَأُمْلِى",
+      "translation": "dan Aku beri waktu/tangguh",
+      "transliteration": "wa-um'lī"
+    },
+    {
+      "id": 45283,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_045_002.mp3",
+      "text": "لَهُمْ ۚ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 45285,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_045_004.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 45286,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_045_005.mp3",
+      "text": "كَيْدِى",
+      "translation": "tipu daya-KU/rencana-Ku",
+      "transliteration": "kaydī"
+    },
+    {
+      "id": 45287,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_045_006.mp3",
+      "text": "مَتِينٌ",
+      "translation": "teguh",
+      "transliteration": "matīnun"
+    },
+    {
+      "id": 45288,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Aku memberi tangguh kepada mereka.  Sesungguhnya rencana-Ku amat teguh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 370650,
+    "timestamp_to": 377470,
+    "duration": 6820,
+    "segments": [
+      [
+        1,
+        370575,
+        371575
+      ],
+      [
+        2,
+        371575,
+        372225
+      ],
+      [
+        3,
+        372225,
+        373805
+      ],
+      [
+        4,
+        373805,
+        374615
+      ],
+      [
+        5,
+        374615,
+        377340
+      ]
+    ]
+  }
+}

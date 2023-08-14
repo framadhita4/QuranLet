@@ -1,0 +1,60 @@
+{
+  "id": 6067,
+  "chapter_id": 92,
+  "verse_key": "92:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 9922,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_009_001.mp3",
+      "text": "وَكَذَّبَ",
+      "translation": "dan ia mendustakan",
+      "transliteration": "wakadhaba"
+    },
+    {
+      "id": 9923,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_009_002.mp3",
+      "text": "بِٱلْحُسْنَىٰ",
+      "translation": "dengan kebaikan",
+      "transliteration": "bil-ḥus'nā"
+    },
+    {
+      "id": 9924,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "serta mendustakan pahala terbaik,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33510,
+    "timestamp_to": 36380,
+    "duration": 2870,
+    "segments": [
+      [
+        1,
+        33105,
+        34225
+      ],
+      [
+        2,
+        34225,
+        35560
+      ]
+    ]
+  }
+}

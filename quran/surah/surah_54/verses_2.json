@@ -1,0 +1,125 @@
+{
+  "id": 4848,
+  "chapter_id": 54,
+  "verse_key": "54:2",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 1168,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_001.mp3",
+      "text": "وَإِن",
+      "translation": "Dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 1169,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_002.mp3",
+      "text": "يَرَوْا۟",
+      "translation": "melihat",
+      "transliteration": "yaraw"
+    },
+    {
+      "id": 1170,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_003.mp3",
+      "text": "ءَايَةًۭ",
+      "translation": "tanda (mu'jizat)",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 1171,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_004.mp3",
+      "text": "يُعْرِضُوا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "yuʿ'riḍū"
+    },
+    {
+      "id": 1172,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_005.mp3",
+      "text": "وَيَقُولُوا۟",
+      "translation": "berkata",
+      "transliteration": "wayaqūlū"
+    },
+    {
+      "id": 1173,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_006.mp3",
+      "text": "سِحْرٌۭ",
+      "translation": "(Ini adalah) sihir",
+      "transliteration": "siḥ'run"
+    },
+    {
+      "id": 1174,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_002_007.mp3",
+      "text": "مُّسْتَمِرٌّۭ",
+      "translation": "yang terus menerus",
+      "transliteration": "mus'tamirrun"
+    },
+    {
+      "id": 1175,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika mereka (orang-orang musyrikin) melihat suatu tanda (mukjizat), mereka berpaling dan berkata, \"(Ini adalah) sihir yang terus menerus\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5750,
+    "timestamp_to": 15420,
+    "duration": 9670,
+    "segments": [
+      [
+        1,
+        5685,
+        6865
+      ],
+      [
+        2,
+        6865,
+        7505
+      ],
+      [
+        3,
+        7505,
+        8465
+      ],
+      [
+        4,
+        8465,
+        10395
+      ],
+      [
+        5,
+        10395,
+        11625
+      ],
+      [
+        6,
+        11625,
+        12395
+      ],
+      [
+        7,
+        12395,
+        15280
+      ]
+    ]
+  }
+}

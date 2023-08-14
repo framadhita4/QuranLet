@@ -1,0 +1,86 @@
+{
+  "id": 3094,
+  "chapter_id": 26,
+  "verse_key": "26:162",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 81989,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_162_001.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 81990,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_162_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 81991,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_162_003.mp3",
+      "text": "رَسُولٌ",
+      "translation": "seorang Rasul",
+      "transliteration": "rasūlun"
+    },
+    {
+      "id": 81992,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_162_004.mp3",
+      "text": "أَمِينٌۭ",
+      "translation": "kepercayaan",
+      "transliteration": "amīnun"
+    },
+    {
+      "id": 81993,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٦٢",
+      "translation": "(162)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya aku adalah seorang rasul kepercayaan (yang diutus) kepadamu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1414920,
+    "timestamp_to": 1420980,
+    "duration": 6060,
+    "segments": [
+      [
+        1,
+        1414895,
+        1416505
+      ],
+      [
+        2,
+        1416505,
+        1417165
+      ],
+      [
+        3,
+        1417165,
+        1418235
+      ],
+      [
+        4,
+        1418235,
+        1420900
+      ]
+    ]
+  }
+}

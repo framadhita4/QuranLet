@@ -1,0 +1,138 @@
+{
+  "id": 5455,
+  "chapter_id": 72,
+  "verse_key": "72:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 508,
+  "manzil_number": 7,
+  "page_number": 572,
+  "juz_number": 29,
+  "text_uthmani": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3",
+  "words": [
+    {
+      "id": 9097,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_001.mp3",
+      "text": "وَأَنَّا",
+      "translation": "dan bahwasannya kami",
+      "transliteration": "wa-annā"
+    },
+    {
+      "id": 9098,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_002.mp3",
+      "text": "لَمَسْنَا",
+      "translation": "kami meraba-raba/intip",
+      "transliteration": "lamasnā"
+    },
+    {
+      "id": 9099,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_003.mp3",
+      "text": "ٱلسَّمَآءَ",
+      "translation": "langit",
+      "transliteration": "l-samāa"
+    },
+    {
+      "id": 9100,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_004.mp3",
+      "text": "فَوَجَدْنَـٰهَا",
+      "translation": "maka kami mendapatnya",
+      "transliteration": "fawajadnāhā"
+    },
+    {
+      "id": 9101,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_005.mp3",
+      "text": "مُلِئَتْ",
+      "translation": "dipenuhi",
+      "transliteration": "muli-at"
+    },
+    {
+      "id": 9102,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_006.mp3",
+      "text": "حَرَسًۭا",
+      "translation": "penjagaan",
+      "transliteration": "ḥarasan"
+    },
+    {
+      "id": 9103,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_007.mp3",
+      "text": "شَدِيدًۭا",
+      "translation": "sangat/keras",
+      "transliteration": "shadīdan"
+    },
+    {
+      "id": 9104,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_008_008.mp3",
+      "text": "وَشُهُبًۭا",
+      "translation": "dan suluh api yang menyala",
+      "transliteration": "washuhuban"
+    },
+    {
+      "id": 9105,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kami telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 76400,
+    "timestamp_to": 88210,
+    "duration": 11810,
+    "segments": [
+      [
+        1,
+        75715,
+        77235
+      ],
+      [
+        2,
+        77235,
+        77965
+      ],
+      [
+        3,
+        77965,
+        80365
+      ],
+      [
+        4,
+        80365,
+        81835
+      ],
+      [
+        5,
+        81835,
+        82505
+      ],
+      [
+        6,
+        82505,
+        83935
+      ],
+      [
+        7,
+        83935,
+        84865
+      ],
+      [
+        8,
+        84865,
+        87430
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3153,
+  "chapter_id": 26,
+  "verse_key": "26:221",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَـٰطِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 86071,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_221_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 86072,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_221_002.mp3",
+      "text": "أُنَبِّئُكُمْ",
+      "translation": "akan Aku terangkan kepadamu",
+      "transliteration": "unabbi-ukum"
+    },
+    {
+      "id": 86073,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_221_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas/kepada",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 86074,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_221_004.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 86075,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_221_005.mp3",
+      "text": "تَنَزَّلُ",
+      "translation": "turun",
+      "transliteration": "tanazzalu"
+    },
+    {
+      "id": 86076,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_221_006.mp3",
+      "text": "ٱلشَّيَـٰطِينُ",
+      "translation": "syaitan-syaitan",
+      "transliteration": "l-shayāṭīnu"
+    },
+    {
+      "id": 86077,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٢١",
+      "translation": "(221)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah akan Aku beritakan kepadamu, kepada siapa setan-setan itu turun?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1893380,
+    "timestamp_to": 1901820,
+    "duration": 8440,
+    "segments": [
+      [
+        1,
+        1893355,
+        1893845
+      ],
+      [
+        2,
+        1893845,
+        1895265
+      ],
+      [
+        3,
+        1895265,
+        1895975
+      ],
+      [
+        4,
+        1895975,
+        1897175
+      ],
+      [
+        5,
+        1897175,
+        1898225
+      ],
+      [
+        6,
+        1898225,
+        1901740
+      ]
+    ]
+  }
+}

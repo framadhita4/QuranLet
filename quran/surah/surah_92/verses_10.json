@@ -1,0 +1,60 @@
+{
+  "id": 6068,
+  "chapter_id": 92,
+  "verse_key": "92:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 11103,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_010_001.mp3",
+      "text": "فَسَنُيَسِّرُهُۥ",
+      "translation": "maka Kami akan memudahkan",
+      "transliteration": "fasanuyassiruhu"
+    },
+    {
+      "id": 11104,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_010_002.mp3",
+      "text": "لِلْعُسْرَىٰ",
+      "translation": "pada yang sukar",
+      "transliteration": "lil'ʿus'rā"
+    },
+    {
+      "id": 11105,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka kelak Kami akan menyiapkan baginya (jalan) yang sukar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 36380,
+    "timestamp_to": 39980,
+    "duration": 3610,
+    "segments": [
+      [
+        1,
+        35965,
+        37725
+      ],
+      [
+        2,
+        37725,
+        39520
+      ]
+    ]
+  }
+}

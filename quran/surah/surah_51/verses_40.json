@@ -1,0 +1,125 @@
+{
+  "id": 4715,
+  "chapter_id": 51,
+  "verse_key": "51:40",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 41163,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_001.mp3",
+      "text": "فَأَخَذْنَـٰهُ",
+      "translation": "maka Kami ambil/siksa dia",
+      "transliteration": "fa-akhadhnāhu"
+    },
+    {
+      "id": 41164,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_002.mp3",
+      "text": "وَجُنُودَهُۥ",
+      "translation": "dan bala tentaranya",
+      "transliteration": "wajunūdahu"
+    },
+    {
+      "id": 41165,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_003.mp3",
+      "text": "فَنَبَذْنَـٰهُمْ",
+      "translation": "lalu Kami lemparkan mereka",
+      "transliteration": "fanabadhnāhum"
+    },
+    {
+      "id": 41166,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_004.mp3",
+      "text": "فِى",
+      "translation": "ke dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 41167,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_005.mp3",
+      "text": "ٱلْيَمِّ",
+      "translation": "laut",
+      "transliteration": "l-yami"
+    },
+    {
+      "id": 41168,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_006.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 41169,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_040_007.mp3",
+      "text": "مُلِيمٌۭ",
+      "translation": "seorang tercela",
+      "transliteration": "mulīmun"
+    },
+    {
+      "id": 41170,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami siksa dia dan tentaranya lalu Kami lemparkan mereka ke dalam laut, sedang dia melakukan pekerjaan yang tercela.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 320220,
+    "timestamp_to": 330250,
+    "duration": 10030,
+    "segments": [
+      [
+        1,
+        320145,
+        321845
+      ],
+      [
+        2,
+        321845,
+        323225
+      ],
+      [
+        3,
+        323225,
+        325055
+      ],
+      [
+        4,
+        325055,
+        325325
+      ],
+      [
+        5,
+        325325,
+        326805
+      ],
+      [
+        6,
+        326805,
+        327495
+      ],
+      [
+        7,
+        327495,
+        330120
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5276,
+  "chapter_id": 68,
+  "verse_key": "68:5",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 5261,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_005_001.mp3",
+      "text": "فَسَتُبْصِرُ",
+      "translation": "maka kelak kamu akan melihat",
+      "transliteration": "fasatub'ṣiru"
+    },
+    {
+      "id": 5262,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_005_002.mp3",
+      "text": "وَيُبْصِرُونَ",
+      "translation": "dan mereka akan melihat",
+      "transliteration": "wayub'ṣirūna"
+    },
+    {
+      "id": 5263,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kelak kamu akan melihat dan mereka (orang-orang kafir) pun akan melihat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30950,
+    "timestamp_to": 35210,
+    "duration": 4260,
+    "segments": [
+      [
+        1,
+        30875,
+        32125
+      ],
+      [
+        2,
+        32125,
+        35060
+      ]
+    ]
+  }
+}

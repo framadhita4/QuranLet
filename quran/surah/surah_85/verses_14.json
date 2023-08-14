@@ -1,0 +1,73 @@
+{
+  "id": 5923,
+  "chapter_id": 85,
+  "verse_key": "85:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 16443,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_014_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 16444,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_014_002.mp3",
+      "text": "ٱلْغَفُورُ",
+      "translation": "Maha Pengampun",
+      "transliteration": "l-ghafūru"
+    },
+    {
+      "id": 16445,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_014_003.mp3",
+      "text": "ٱلْوَدُودُ",
+      "translation": "Maha Pengasih",
+      "transliteration": "l-wadūdu"
+    },
+    {
+      "id": 16446,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia-lah Yang Maha Pengampun lagi Maha Pengasih,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 126790,
+    "timestamp_to": 132280,
+    "duration": 5490,
+    "segments": [
+      [
+        1,
+        126735,
+        127245
+      ],
+      [
+        2,
+        127245,
+        128045
+      ],
+      [
+        3,
+        128045,
+        132130
+      ]
+    ]
+  }
+}

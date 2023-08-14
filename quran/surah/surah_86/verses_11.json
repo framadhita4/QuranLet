@@ -1,0 +1,73 @@
+{
+  "id": 5942,
+  "chapter_id": 86,
+  "verse_key": "86:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 13040,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_011_001.mp3",
+      "text": "وَٱلسَّمَآءِ",
+      "translation": "dan langit",
+      "transliteration": "wal-samāi"
+    },
+    {
+      "id": 13041,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_011_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "mempunyai/mengandung",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 13042,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_011_003.mp3",
+      "text": "ٱلرَّجْعِ",
+      "translation": "air/hujan",
+      "transliteration": "l-rajʿi"
+    },
+    {
+      "id": 13043,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi langit yang mengandung hujan<sup foot_note_id=\"1571\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 57980,
+    "timestamp_to": 62790,
+    "duration": 4810,
+    "segments": [
+      [
+        1,
+        57835,
+        60515
+      ],
+      [
+        2,
+        60515,
+        61135
+      ],
+      [
+        3,
+        61135,
+        62560
+      ]
+    ]
+  }
+}

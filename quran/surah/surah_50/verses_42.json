@@ -1,0 +1,125 @@
+{
+  "id": 4672,
+  "chapter_id": 50,
+  "verse_key": "50:42",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 42796,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 42797,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_002.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 42798,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_003.mp3",
+      "text": "ٱلصَّيْحَةَ",
+      "translation": "suara teriakan",
+      "transliteration": "l-ṣayḥata"
+    },
+    {
+      "id": 42799,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_004.mp3",
+      "text": "بِٱلْحَقِّ ۚ",
+      "translation": "dengan sebenarnya",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 42801,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_006.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 42802,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_007.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 42803,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_042_008.mp3",
+      "text": "ٱلْخُرُوجِ",
+      "translation": "keluar",
+      "transliteration": "l-khurūji"
+    },
+    {
+      "id": 42804,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) pada hari mereka mendengar teriakan dengan sebenar-benarnya, itulah hari ke luar (dari kubur).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 503010,
+    "timestamp_to": 513330,
+    "duration": 10320,
+    "segments": [
+      [
+        1,
+        502955,
+        503665
+      ],
+      [
+        2,
+        503665,
+        505055
+      ],
+      [
+        3,
+        505055,
+        506405
+      ],
+      [
+        4,
+        506405,
+        508005
+      ],
+      [
+        5,
+        508005,
+        508975
+      ],
+      [
+        6,
+        508975,
+        509735
+      ],
+      [
+        7,
+        509735,
+        512849
+      ]
+    ]
+  }
+}

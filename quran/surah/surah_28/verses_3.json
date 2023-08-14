@@ -1,0 +1,151 @@
+{
+  "id": 3255,
+  "chapter_id": 28,
+  "verse_key": "28:3",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "ruku_number": 334,
+  "manzil_number": 5,
+  "page_number": 385,
+  "juz_number": 20,
+  "text_uthmani": "نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 2987,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_001.mp3",
+      "text": "نَتْلُوا۟",
+      "translation": "Kami membacakan",
+      "transliteration": "natlū"
+    },
+    {
+      "id": 2988,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_002.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "kepadamu/atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 2989,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 2990,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_004.mp3",
+      "text": "نَّبَإِ",
+      "translation": "kisah",
+      "transliteration": "naba-i"
+    },
+    {
+      "id": 2991,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_005.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 2992,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_006.mp3",
+      "text": "وَفِرْعَوْنَ",
+      "translation": "dan Fir'aun",
+      "transliteration": "wafir'ʿawna"
+    },
+    {
+      "id": 2993,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_007.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan benar",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 2994,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_008.mp3",
+      "text": "لِقَوْمٍۢ",
+      "translation": "untuk kaum/orang-orang",
+      "transliteration": "liqawmin"
+    },
+    {
+      "id": 2995,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_003_009.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 2996,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami membacakan kepadamu sebagian dari kisah Musa dan Firʻawn  dengan benar untuk orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15960,
+    "timestamp_to": 28320,
+    "duration": 12360,
+    "segments": [
+      [
+        1,
+        15915,
+        16705
+      ],
+      [
+        2,
+        16705,
+        17675
+      ],
+      [
+        3,
+        17675,
+        18035
+      ],
+      [
+        4,
+        18035,
+        19335
+      ],
+      [
+        5,
+        19335,
+        20185
+      ],
+      [
+        6,
+        20185,
+        21605
+      ],
+      [
+        7,
+        21605,
+        22645
+      ],
+      [
+        8,
+        22645,
+        24785
+      ],
+      [
+        9,
+        24785,
+        28210
+      ]
+    ]
+  }
+}

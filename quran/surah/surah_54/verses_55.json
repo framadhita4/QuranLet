@@ -1,0 +1,112 @@
+{
+  "id": 4901,
+  "chapter_id": 54,
+  "verse_key": "54:55",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 51669,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_055_001.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 51670,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_055_002.mp3",
+      "text": "مَقْعَدِ",
+      "translation": "tempat duduk",
+      "transliteration": "maqʿadi"
+    },
+    {
+      "id": 51671,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_055_003.mp3",
+      "text": "صِدْقٍ",
+      "translation": "kebenaran",
+      "transliteration": "ṣid'qin"
+    },
+    {
+      "id": 51672,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_055_004.mp3",
+      "text": "عِندَ",
+      "translation": "disisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 51673,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_055_005.mp3",
+      "text": "مَلِيكٍۢ",
+      "translation": "yang menguasi/Raja (Tuhan)",
+      "transliteration": "malīkin"
+    },
+    {
+      "id": 51674,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_055_006.mp3",
+      "text": "مُّقْتَدِرٍۭ",
+      "translation": "berkuasa",
+      "transliteration": "muq'tadirin"
+    },
+    {
+      "id": 51675,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di tempat yang disenangi<sup foot_note_id=\"1442\">1</sup> di sisi Tuhan Yang Berkuasa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 479720,
+    "timestamp_to": 488780,
+    "duration": 9070,
+    "segments": [
+      [
+        1,
+        479665,
+        480195
+      ],
+      [
+        2,
+        480195,
+        481065
+      ],
+      [
+        3,
+        481065,
+        482045
+      ],
+      [
+        4,
+        482045,
+        483425
+      ],
+      [
+        5,
+        483425,
+        484485
+      ],
+      [
+        6,
+        484485,
+        486670
+      ]
+    ]
+  }
+}

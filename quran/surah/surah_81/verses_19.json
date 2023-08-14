@@ -1,0 +1,86 @@
+{
+  "id": 5819,
+  "chapter_id": 81,
+  "verse_key": "81:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 21808,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_019_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 21809,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_019_002.mp3",
+      "text": "لَقَوْلُ",
+      "translation": "benar-benar firman",
+      "transliteration": "laqawlu"
+    },
+    {
+      "id": 21810,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_019_003.mp3",
+      "text": "رَسُولٍۢ",
+      "translation": "utusan",
+      "transliteration": "rasūlin"
+    },
+    {
+      "id": 21811,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_019_004.mp3",
+      "text": "كَرِيمٍۢ",
+      "translation": "mulia",
+      "transliteration": "karīmin"
+    },
+    {
+      "id": 21812,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya Al Qur'an itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 60570,
+    "timestamp_to": 66630,
+    "duration": 6060,
+    "segments": [
+      [
+        1,
+        60545,
+        62155
+      ],
+      [
+        2,
+        62155,
+        63065
+      ],
+      [
+        3,
+        63065,
+        64215
+      ],
+      [
+        4,
+        64215,
+        66530
+      ]
+    ]
+  }
+}

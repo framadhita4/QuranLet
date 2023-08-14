@@ -1,0 +1,112 @@
+{
+  "id": 4802,
+  "chapter_id": 53,
+  "verse_key": "53:18",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 20389,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_018_001.mp3",
+      "text": "لَقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 20390,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_018_002.mp3",
+      "text": "رَأَىٰ",
+      "translation": "dia telah melihat",
+      "transliteration": "raā"
+    },
+    {
+      "id": 20391,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_018_003.mp3",
+      "text": "مِنْ",
+      "translation": "dari/sebagian",
+      "transliteration": "min"
+    },
+    {
+      "id": 20392,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_018_004.mp3",
+      "text": "ءَايَـٰتِ",
+      "translation": "tanda-tanda",
+      "transliteration": "āyāti"
+    },
+    {
+      "id": 20393,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_018_005.mp3",
+      "text": "رَبِّهِ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 20394,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_018_006.mp3",
+      "text": "ٱلْكُبْرَىٰٓ",
+      "translation": "paling besar",
+      "transliteration": "l-kub'rā"
+    },
+    {
+      "id": 20395,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia telah melihat sebagian tanda-tanda (kekuasaan) Tuhan-nya yang paling besar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 79050,
+    "timestamp_to": 84820,
+    "duration": 5770,
+    "segments": [
+      [
+        1,
+        79015,
+        79665
+      ],
+      [
+        2,
+        79665,
+        80405
+      ],
+      [
+        3,
+        80405,
+        80845
+      ],
+      [
+        4,
+        80845,
+        82175
+      ],
+      [
+        5,
+        82175,
+        82995
+      ],
+      [
+        6,
+        82995,
+        84740
+      ]
+    ]
+  }
+}

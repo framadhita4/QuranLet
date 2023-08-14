@@ -1,0 +1,153 @@
+{
+  "id": 1876,
+  "chapter_id": 15,
+  "verse_key": "15:74",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "فَجَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 61822,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_001.mp3",
+      "text": "فَجَعَلْنَا",
+      "translation": "maka Kami jadikan",
+      "transliteration": "fajaʿalnā"
+    },
+    {
+      "id": 61823,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_002.mp3",
+      "text": "عَـٰلِيَهَا",
+      "translation": "bagian atasnya",
+      "transliteration": "ʿāliyahā"
+    },
+    {
+      "id": 61824,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_003.mp3",
+      "text": "سَافِلَهَا",
+      "translation": "bagian bawahnya",
+      "transliteration": "sāfilahā"
+    },
+    {
+      "id": 61825,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_004.mp3",
+      "text": "وَأَمْطَرْنَا",
+      "translation": "dan Kami hujani",
+      "transliteration": "wa-amṭarnā"
+    },
+    {
+      "id": 61826,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_005.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 61827,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_006.mp3",
+      "text": "حِجَارَةًۭ",
+      "translation": "batu-batu",
+      "transliteration": "ḥijāratan"
+    },
+    {
+      "id": 61828,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_007.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 61829,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_074_008.mp3",
+      "text": "سِجِّيلٍ",
+      "translation": "tanah yang keras",
+      "transliteration": "sijjīlin"
+    },
+    {
+      "id": 61830,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami jadikan bagian atas kota itu terbalik ke bawah dan Kami hujani mereka dengan batu dari tanah yang keras.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 716170,
+    "timestamp_to": 732710,
+    "duration": 16540,
+    "segments": [
+      [
+        1,
+        716145,
+        717445
+      ],
+      [
+        2,
+        717445,
+        718755
+      ],
+      [
+        3,
+        718755,
+        720045
+      ],
+      [
+        4,
+        720045,
+        721555
+      ],
+      [
+        5,
+        721555,
+        722605
+      ],
+      [
+        6,
+        722605,
+        724185
+      ],
+      [
+        4,
+        724185,
+        725645
+      ],
+      [
+        5,
+        725645,
+        726665
+      ],
+      [
+        6,
+        726665,
+        728005
+      ],
+      [
+        7,
+        728005,
+        729135
+      ],
+      [
+        8,
+        729135,
+        732640
+      ]
+    ]
+  }
+}

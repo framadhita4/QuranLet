@@ -1,0 +1,86 @@
+{
+  "id": 5727,
+  "chapter_id": 79,
+  "verse_key": "79:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 17576,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_015_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 17577,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_015_002.mp3",
+      "text": "أَتَىٰكَ",
+      "translation": "telah sampai kepadamu",
+      "transliteration": "atāka"
+    },
+    {
+      "id": 17578,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_015_003.mp3",
+      "text": "حَدِيثُ",
+      "translation": "cerita",
+      "transliteration": "ḥadīthu"
+    },
+    {
+      "id": 17579,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_015_004.mp3",
+      "text": "مُوسَىٰٓ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 17580,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sudahkah sampai kepadamu (ya Muhammad) kisah Musa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 62970,
+    "timestamp_to": 66890,
+    "duration": 3920,
+    "segments": [
+      [
+        1,
+        62885,
+        63335
+      ],
+      [
+        2,
+        63335,
+        64205
+      ],
+      [
+        3,
+        64205,
+        65135
+      ],
+      [
+        4,
+        65135,
+        66170
+      ]
+    ]
+  }
+}

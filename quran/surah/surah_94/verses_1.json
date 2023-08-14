@@ -1,0 +1,86 @@
+{
+  "id": 6091,
+  "chapter_id": 94,
+  "verse_key": "94:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3",
+  "words": [
+    {
+      "id": 188,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_001_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "apakah tidak/bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 189,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_001_002.mp3",
+      "text": "نَشْرَحْ",
+      "translation": "Kami melapangkan",
+      "transliteration": "nashraḥ"
+    },
+    {
+      "id": 190,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_001_003.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 191,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_001_004.mp3",
+      "text": "صَدْرَكَ",
+      "translation": "dadamu",
+      "transliteration": "ṣadraka"
+    },
+    {
+      "id": 192,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Kami telah melapangkan untukmu dadamu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3580,
+    "duration": 3580,
+    "segments": [
+      [
+        1,
+        0,
+        750
+      ],
+      [
+        2,
+        750,
+        1500
+      ],
+      [
+        3,
+        1500,
+        1960
+      ],
+      [
+        4,
+        1960,
+        3515
+      ]
+    ]
+  }
+}

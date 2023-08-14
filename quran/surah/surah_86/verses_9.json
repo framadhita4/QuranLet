@@ -1,0 +1,73 @@
+{
+  "id": 5940,
+  "chapter_id": 86,
+  "verse_key": "86:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 10450,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_009_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 10451,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_009_002.mp3",
+      "text": "تُبْلَى",
+      "translation": "dibuka/dinampakkan",
+      "transliteration": "tub'lā"
+    },
+    {
+      "id": 10452,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_009_003.mp3",
+      "text": "ٱلسَّرَآئِرُ",
+      "translation": "rahasia-rahasia",
+      "transliteration": "l-sarāiru"
+    },
+    {
+      "id": 10453,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari dinampakkan segala rahasia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 46930,
+    "timestamp_to": 51450,
+    "duration": 4520,
+    "segments": [
+      [
+        1,
+        46875,
+        47435
+      ],
+      [
+        2,
+        47435,
+        48145
+      ],
+      [
+        3,
+        48145,
+        51320
+      ]
+    ]
+  }
+}

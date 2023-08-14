@@ -1,0 +1,86 @@
+{
+  "id": 3922,
+  "chapter_id": 37,
+  "verse_key": "37:134",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78355,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_134_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 78356,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_134_002.mp3",
+      "text": "نَجَّيْنَـٰهُ",
+      "translation": "Kami selamatkan ia",
+      "transliteration": "najjaynāhu"
+    },
+    {
+      "id": 78357,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_134_003.mp3",
+      "text": "وَأَهْلَهُۥٓ",
+      "translation": "dan keluarganya",
+      "transliteration": "wa-ahlahu"
+    },
+    {
+      "id": 78358,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_134_004.mp3",
+      "text": "أَجْمَعِينَ",
+      "translation": "semua",
+      "transliteration": "ajmaʿīna"
+    },
+    {
+      "id": 78359,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣٤",
+      "translation": "(134)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ingatlah) ketika Kami selamatkan dia dan keluarganya (pengikut-pengikutnya) semua,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1091360,
+    "timestamp_to": 1099380,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1091295,
+        1091705
+      ],
+      [
+        2,
+        1091705,
+        1093245
+      ],
+      [
+        3,
+        1093245,
+        1095615
+      ],
+      [
+        4,
+        1095615,
+        1099260
+      ]
+    ]
+  }
+}

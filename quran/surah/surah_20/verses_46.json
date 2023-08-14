@@ -1,0 +1,125 @@
+{
+  "id": 2394,
+  "chapter_id": 20,
+  "verse_key": "20:46",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 314,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 46205,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 46206,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_002.mp3",
+      "text": "لَا",
+      "translation": "janganlah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 46207,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_003.mp3",
+      "text": "تَخَافَآ ۖ",
+      "translation": "kamu khawatir",
+      "transliteration": "takhāfā"
+    },
+    {
+      "id": 46209,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_005.mp3",
+      "text": "إِنَّنِى",
+      "translation": "sesungguhnya Aku",
+      "transliteration": "innanī"
+    },
+    {
+      "id": 46210,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_006.mp3",
+      "text": "مَعَكُمَآ",
+      "translation": "beserta kamu berdua",
+      "transliteration": "maʿakumā"
+    },
+    {
+      "id": 46211,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_007.mp3",
+      "text": "أَسْمَعُ",
+      "translation": "Aku mendengar",
+      "transliteration": "asmaʿu"
+    },
+    {
+      "id": 46212,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_046_008.mp3",
+      "text": "وَأَرَىٰ",
+      "translation": "dan Aku melihat",
+      "transliteration": "wa-arā"
+    },
+    {
+      "id": 46213,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Janganlah kamu berdua khawatir, sesungguhnya Aku beserta kamu berdua, Aku mendengar dan melihat\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 381400,
+    "timestamp_to": 391010,
+    "duration": 9610,
+    "segments": [
+      [
+        1,
+        381375,
+        382075
+      ],
+      [
+        2,
+        382075,
+        382445
+      ],
+      [
+        3,
+        382445,
+        383675
+      ],
+      [
+        4,
+        383675,
+        385775
+      ],
+      [
+        5,
+        385775,
+        388305
+      ],
+      [
+        6,
+        388305,
+        389265
+      ],
+      [
+        7,
+        389265,
+        390960
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4401,
+  "chapter_id": 43,
+  "verse_key": "43:76",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن كَانُوا۟ هُمُ ٱلظَّـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 62346,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 62347,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_002.mp3",
+      "text": "ظَلَمْنَـٰهُمْ",
+      "translation": "Kami menganiaya mereka",
+      "transliteration": "ẓalamnāhum"
+    },
+    {
+      "id": 62348,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_003.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 62349,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_004.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 62350,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_005.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 62351,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_006.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang zalim/aniaya",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 62352,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah Kami menganiaya mereka, tetapi merekalah yang menganiaya diri mereka sendiri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1051670,
+    "timestamp_to": 1060240,
+    "duration": 8570,
+    "segments": [
+      [
+        1,
+        1051645,
+        1052355
+      ],
+      [
+        2,
+        1052355,
+        1053875
+      ],
+      [
+        3,
+        1053875,
+        1055775
+      ],
+      [
+        4,
+        1055775,
+        1056605
+      ],
+      [
+        5,
+        1056605,
+        1056995
+      ],
+      [
+        6,
+        1056995,
+        1060190
+      ]
+    ]
+  }
+}

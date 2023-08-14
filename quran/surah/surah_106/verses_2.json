@@ -1,0 +1,86 @@
+{
+  "id": 6195,
+  "chapter_id": 106,
+  "verse_key": "106:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 550,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3",
+  "words": [
+    {
+      "id": 961,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_002_001.mp3",
+      "text": "إِۦلَـٰفِهِمْ",
+      "translation": "kebiasaan mereka",
+      "transliteration": "īlāfihim"
+    },
+    {
+      "id": 962,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_002_002.mp3",
+      "text": "رِحْلَةَ",
+      "translation": "perjalanan/bepergian",
+      "transliteration": "riḥ'lata"
+    },
+    {
+      "id": 963,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_002_003.mp3",
+      "text": "ٱلشِّتَآءِ",
+      "translation": "dimusim dingin",
+      "transliteration": "l-shitāi"
+    },
+    {
+      "id": 964,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/106_002_004.mp3",
+      "text": "وَٱلصَّيْفِ",
+      "translation": "dan musim panas",
+      "transliteration": "wal-ṣayfi"
+    },
+    {
+      "id": 965,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas<sup foot_note_id=\"1603\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4620,
+    "timestamp_to": 13480,
+    "duration": 8860,
+    "segments": [
+      [
+        1,
+        4575,
+        6085
+      ],
+      [
+        2,
+        6085,
+        6865
+      ],
+      [
+        3,
+        6865,
+        9535
+      ],
+      [
+        4,
+        9535,
+        13370
+      ]
+    ]
+  }
+}

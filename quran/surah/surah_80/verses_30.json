@@ -1,0 +1,60 @@
+{
+  "id": 5788,
+  "chapter_id": 80,
+  "verse_key": "80:30",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "وَحَدَآئِقَ غُلْبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 32583,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_030_001.mp3",
+      "text": "وَحَدَآئِقَ",
+      "translation": "dan kebun-kebun",
+      "transliteration": "waḥadāiqa"
+    },
+    {
+      "id": 32584,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_030_002.mp3",
+      "text": "غُلْبًۭا",
+      "translation": "subur/lebat",
+      "transliteration": "ghul'ban"
+    },
+    {
+      "id": 32585,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kebun-kebun (yang) lebat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 131540,
+    "timestamp_to": 135540,
+    "duration": 4000,
+    "segments": [
+      [
+        1,
+        131485,
+        134215
+      ],
+      [
+        2,
+        134215,
+        135150
+      ]
+    ]
+  }
+}

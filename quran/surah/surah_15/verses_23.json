@@ -1,0 +1,112 @@
+{
+  "id": 1825,
+  "chapter_id": 15,
+  "verse_key": "15:23",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 219,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "وَإِنَّا لَنَحْنُ نُحْىِۦ وَنُمِيتُ وَنَحْنُ ٱلْوَٰرِثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 26380,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_023_001.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya Kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 26381,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_023_002.mp3",
+      "text": "لَنَحْنُ",
+      "translation": "sungguh Kami",
+      "transliteration": "lanaḥnu"
+    },
+    {
+      "id": 26382,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_023_003.mp3",
+      "text": "نُحْىِۦ",
+      "translation": "Kami menghidupkan",
+      "transliteration": "nuḥ'yī"
+    },
+    {
+      "id": 26383,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_023_004.mp3",
+      "text": "وَنُمِيتُ",
+      "translation": "dan Kami mematikan",
+      "transliteration": "wanumītu"
+    },
+    {
+      "id": 26384,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_023_005.mp3",
+      "text": "وَنَحْنُ",
+      "translation": "dan Kami",
+      "transliteration": "wanaḥnu"
+    },
+    {
+      "id": 26385,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_023_006.mp3",
+      "text": "ٱلْوَٰرِثُونَ",
+      "translation": "yang mewarisi",
+      "transliteration": "l-wārithūna"
+    },
+    {
+      "id": 26386,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya benar-benar Kami-lah yang menghidupkan dan mematikan dan Kami (pulalah) yang mewarisi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 236370,
+    "timestamp_to": 243970,
+    "duration": 7600,
+    "segments": [
+      [
+        1,
+        236345,
+        237705
+      ],
+      [
+        2,
+        237705,
+        238525
+      ],
+      [
+        3,
+        238525,
+        239325
+      ],
+      [
+        4,
+        239325,
+        240435
+      ],
+      [
+        5,
+        240435,
+        241145
+      ],
+      [
+        6,
+        241145,
+        243920
+      ]
+    ]
+  }
+}

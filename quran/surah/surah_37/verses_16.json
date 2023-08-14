@@ -1,0 +1,125 @@
+{
+  "id": 3804,
+  "chapter_id": 37,
+  "verse_key": "37:16",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 18937,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_001.mp3",
+      "text": "أَءِذَا",
+      "translation": "apakah bila",
+      "transliteration": "a-idhā"
+    },
+    {
+      "id": 18938,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_002.mp3",
+      "text": "مِتْنَا",
+      "translation": "kami telah mati",
+      "transliteration": "mit'nā"
+    },
+    {
+      "id": 18939,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_003.mp3",
+      "text": "وَكُنَّا",
+      "translation": "dan kami adalah/menjadi",
+      "transliteration": "wakunnā"
+    },
+    {
+      "id": 18940,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_004.mp3",
+      "text": "تُرَابًۭا",
+      "translation": "debu/tanah",
+      "transliteration": "turāban"
+    },
+    {
+      "id": 18941,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_005.mp3",
+      "text": "وَعِظَـٰمًا",
+      "translation": "dan tulang-belulang",
+      "transliteration": "waʿiẓāman"
+    },
+    {
+      "id": 18942,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_006.mp3",
+      "text": "أَءِنَّا",
+      "translation": "apakah sesungguhnya kami",
+      "transliteration": "a-innā"
+    },
+    {
+      "id": 18943,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_016_007.mp3",
+      "text": "لَمَبْعُوثُونَ",
+      "translation": "benar-benar akan dibangkitkan",
+      "transliteration": "lamabʿūthūna"
+    },
+    {
+      "id": 18944,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah apabila kami telah mati dan telah menjadi tanah serta menjadi tulang belulang, apakah benar-benar kami akan dibangkitkan (kembali)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 109110,
+    "timestamp_to": 121490,
+    "duration": 12380,
+    "segments": [
+      [
+        1,
+        109035,
+        109975
+      ],
+      [
+        2,
+        109975,
+        110875
+      ],
+      [
+        3,
+        110875,
+        112575
+      ],
+      [
+        4,
+        112575,
+        114355
+      ],
+      [
+        5,
+        114355,
+        115575
+      ],
+      [
+        6,
+        115575,
+        117135
+      ],
+      [
+        7,
+        117135,
+        121340
+      ]
+    ]
+  }
+}

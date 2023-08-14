@@ -1,0 +1,177 @@
+{
+  "id": 4002,
+  "chapter_id": 38,
+  "verse_key": "38:32",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 35139,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_001.mp3",
+      "text": "فَقَالَ",
+      "translation": "maka dia berkata",
+      "transliteration": "faqāla"
+    },
+    {
+      "id": 35140,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_002.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 35141,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_003.mp3",
+      "text": "أَحْبَبْتُ",
+      "translation": "aku menyukai",
+      "transliteration": "aḥbabtu"
+    },
+    {
+      "id": 35142,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_004.mp3",
+      "text": "حُبَّ",
+      "translation": "kesenangan",
+      "transliteration": "ḥubba"
+    },
+    {
+      "id": 35143,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_005.mp3",
+      "text": "ٱلْخَيْرِ",
+      "translation": "yang baik",
+      "transliteration": "l-khayri"
+    },
+    {
+      "id": 35144,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_006.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 35145,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_007.mp3",
+      "text": "ذِكْرِ",
+      "translation": "ingat",
+      "transliteration": "dhik'ri"
+    },
+    {
+      "id": 35146,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_008.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 35147,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_009.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 35148,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_010.mp3",
+      "text": "تَوَارَتْ",
+      "translation": "tersembunyi/tertutup",
+      "transliteration": "tawārat"
+    },
+    {
+      "id": 35149,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_032_011.mp3",
+      "text": "بِٱلْحِجَابِ",
+      "translation": "dengan tabir/dinding",
+      "transliteration": "bil-ḥijābi"
+    },
+    {
+      "id": 35150,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka ia berkata, \"Sesungguhnya aku menyukai kesenangan terhadap barang yang baik (kuda) sehingga aku lalai mengingat Tuhan-ku sampai kuda itu hilang dari pandangan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 455710,
+    "timestamp_to": 470700,
+    "duration": 15000,
+    "segments": [
+      [
+        1,
+        455685,
+        456605
+      ],
+      [
+        2,
+        456605,
+        460465
+      ],
+      [
+        3,
+        460465,
+        461475
+      ],
+      [
+        4,
+        461475,
+        462055
+      ],
+      [
+        5,
+        462055,
+        462925
+      ],
+      [
+        6,
+        462925,
+        463985
+      ],
+      [
+        7,
+        463985,
+        464685
+      ],
+      [
+        8,
+        464685,
+        465365
+      ],
+      [
+        9,
+        465365,
+        466155
+      ],
+      [
+        10,
+        466155,
+        467235
+      ],
+      [
+        11,
+        467235,
+        470350
+      ]
+    ]
+  }
+}

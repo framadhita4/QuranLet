@@ -1,0 +1,99 @@
+{
+  "id": 3100,
+  "chapter_id": 26,
+  "verse_key": "26:168",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ إِنِّى لِعَمَلِكُم مِّنَ ٱلْقَالِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 82671,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_168_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Lut) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 82672,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_168_002.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 82673,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_168_003.mp3",
+      "text": "لِعَمَلِكُم",
+      "translation": "kepada perbuatanmu",
+      "transliteration": "liʿamalikum"
+    },
+    {
+      "id": 82674,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_168_004.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 82675,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_168_005.mp3",
+      "text": "ٱلْقَالِينَ",
+      "translation": "orang-orang yang sangat benci",
+      "transliteration": "l-qālīna"
+    },
+    {
+      "id": 82676,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٦٨",
+      "translation": "(168)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lūṭ berkata, \"Sesungguhnya aku sangat benci kepada perbuatanmu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1468320,
+    "timestamp_to": 1476030,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        1468265,
+        1468915
+      ],
+      [
+        2,
+        1468915,
+        1470524
+      ],
+      [
+        3,
+        1470525,
+        1471885
+      ],
+      [
+        4,
+        1471885,
+        1472745
+      ],
+      [
+        5,
+        1472745,
+        1475910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 4630,
+  "chapter_id": 49,
+  "verse_key": "49:18",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 453,
+  "manzil_number": 6,
+  "page_number": 517,
+  "juz_number": 26,
+  "text_uthmani": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/49.mp3",
+  "words": [
+    {
+      "id": 20336,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 20337,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 20338,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_003.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 20339,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_004.mp3",
+      "text": "غَيْبَ",
+      "translation": "kegaiban",
+      "transliteration": "ghayba"
+    },
+    {
+      "id": 20340,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_005.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 20341,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_006.mp3",
+      "text": "وَٱلْأَرْضِ ۚ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 20343,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_008.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 20344,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_009.mp3",
+      "text": "بَصِيرٌۢ",
+      "translation": "Maha Melihat",
+      "transliteration": "baṣīrun"
+    },
+    {
+      "id": 20345,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_010.mp3",
+      "text": "بِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 20346,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/049_018_011.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 20347,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Allah mengetahui apa yang gaib di langit dan bumi.  Dan Allah Maha Melihat apa yang kamu kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 481040,
+    "timestamp_to": 495850,
+    "duration": 14810,
+    "segments": [
+      [
+        1,
+        480975,
+        482605
+      ],
+      [
+        2,
+        482605,
+        483565
+      ],
+      [
+        3,
+        483565,
+        484455
+      ],
+      [
+        4,
+        484455,
+        484985
+      ],
+      [
+        5,
+        484985,
+        486605
+      ],
+      [
+        6,
+        486605,
+        488145
+      ],
+      [
+        7,
+        488145,
+        489265
+      ],
+      [
+        8,
+        489265,
+        491105
+      ],
+      [
+        9,
+        491105,
+        491835
+      ],
+      [
+        10,
+        491835,
+        495700
+      ]
+    ]
+  }
+}

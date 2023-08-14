@@ -1,0 +1,73 @@
+{
+  "id": 5294,
+  "chapter_id": 68,
+  "verse_key": "68:23",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "فَٱنطَلَقُوا۟ وَهُمْ يَتَخَـٰفَتُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 25942,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_023_001.mp3",
+      "text": "فَٱنطَلَقُوا۟",
+      "translation": "maka mereka berjalan/pergi",
+      "transliteration": "fa-inṭalaqū"
+    },
+    {
+      "id": 25943,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_023_002.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 25944,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_023_003.mp3",
+      "text": "يَتَخَـٰفَتُونَ",
+      "translation": "mereka saling berbisik",
+      "transliteration": "yatakhāfatūna"
+    },
+    {
+      "id": 25945,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka pergilah mereka saling berbisik-bisikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 162930,
+    "timestamp_to": 169380,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        162875,
+        164775
+      ],
+      [
+        2,
+        164775,
+        165295
+      ],
+      [
+        3,
+        165295,
+        169270
+      ]
+    ]
+  }
+}

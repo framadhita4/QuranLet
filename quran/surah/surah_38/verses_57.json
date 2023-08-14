@@ -1,0 +1,86 @@
+{
+  "id": 4027,
+  "chapter_id": 38,
+  "verse_key": "38:57",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "هَـٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 53055,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_057_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 53056,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_057_002.mp3",
+      "text": "فَلْيَذُوقُوهُ",
+      "translation": "maka mereka merasakannya",
+      "transliteration": "falyadhūqūhu"
+    },
+    {
+      "id": 53057,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_057_003.mp3",
+      "text": "حَمِيمٌۭ",
+      "translation": "air sangat panas",
+      "transliteration": "ḥamīmun"
+    },
+    {
+      "id": 53058,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_057_004.mp3",
+      "text": "وَغَسَّاقٌۭ",
+      "translation": "dan air sangat dingin",
+      "transliteration": "waghassāqun"
+    },
+    {
+      "id": 53059,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Inilah (azab neraka); biarlah mereka merasakannya; (minuman mereka) air yang sangat panas dan air yang sangat dingin.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 737980,
+    "timestamp_to": 746700,
+    "duration": 8730,
+    "segments": [
+      [
+        1,
+        737955,
+        738975
+      ],
+      [
+        2,
+        738975,
+        740765
+      ],
+      [
+        3,
+        740765,
+        742475
+      ],
+      [
+        4,
+        742475,
+        746350
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 5039,
+  "chapter_id": 56,
+  "verse_key": "56:60",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 54557,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_001.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 54558,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_002.mp3",
+      "text": "قَدَّرْنَا",
+      "translation": "Kami telah menentukan",
+      "transliteration": "qaddarnā"
+    },
+    {
+      "id": 54559,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_003.mp3",
+      "text": "بَيْنَكُمُ",
+      "translation": "diantara kamu",
+      "transliteration": "baynakumu"
+    },
+    {
+      "id": 54560,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_004.mp3",
+      "text": "ٱلْمَوْتَ",
+      "translation": "kematian",
+      "transliteration": "l-mawta"
+    },
+    {
+      "id": 54561,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 54562,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_006.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 54563,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_060_007.mp3",
+      "text": "بِمَسْبُوقِينَ",
+      "translation": "dengan dikalahkan",
+      "transliteration": "bimasbūqīna"
+    },
+    {
+      "id": 54564,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami telah menentukan kematian di antara kamu dan Kami sekali-kali tidak akan dapat dikalahkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 403780,
+    "timestamp_to": 413290,
+    "duration": 9510,
+    "segments": [
+      [
+        1,
+        403735,
+        404465
+      ],
+      [
+        2,
+        404465,
+        405805
+      ],
+      [
+        3,
+        405805,
+        406905
+      ],
+      [
+        4,
+        406905,
+        407885
+      ],
+      [
+        5,
+        407885,
+        408565
+      ],
+      [
+        6,
+        408565,
+        409255
+      ],
+      [
+        7,
+        409255,
+        413180
+      ]
+    ]
+  }
+}

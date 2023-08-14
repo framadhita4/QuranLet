@@ -1,0 +1,99 @@
+{
+  "id": 1901,
+  "chapter_id": 15,
+  "verse_key": "15:99",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "وَٱعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ ٱلْيَقِينُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 70959,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_099_001.mp3",
+      "text": "وَٱعْبُدْ",
+      "translation": "dan sembahlah",
+      "transliteration": "wa-uʿ'bud"
+    },
+    {
+      "id": 70960,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_099_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 70961,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_099_003.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 70962,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_099_004.mp3",
+      "text": "يَأْتِيَكَ",
+      "translation": "datang kepadamu",
+      "transliteration": "yatiyaka"
+    },
+    {
+      "id": 70963,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_099_005.mp3",
+      "text": "ٱلْيَقِينُ",
+      "translation": "keyakinan",
+      "transliteration": "l-yaqīnu"
+    },
+    {
+      "id": 70964,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sembahlah Tuhan-mu sampai datang kepadamu yang diyakini (ajal).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 945610,
+    "timestamp_to": 954440,
+    "duration": 8830,
+    "segments": [
+      [
+        1,
+        945555,
+        946485
+      ],
+      [
+        2,
+        946485,
+        947475
+      ],
+      [
+        3,
+        947475,
+        948445
+      ],
+      [
+        4,
+        948445,
+        949665
+      ],
+      [
+        5,
+        949665,
+        954120
+      ]
+    ]
+  }
+}

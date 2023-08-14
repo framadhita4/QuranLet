@@ -1,0 +1,99 @@
+{
+  "id": 3856,
+  "chapter_id": 37,
+  "verse_key": "37:68",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 58579,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_068_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 58580,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_068_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 58581,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_068_003.mp3",
+      "text": "مَرْجِعَهُمْ",
+      "translation": "kembali mereka",
+      "transliteration": "marjiʿahum"
+    },
+    {
+      "id": 58582,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_068_004.mp3",
+      "text": "لَإِلَى",
+      "translation": "benar-benar kepada",
+      "transliteration": "la-ilā"
+    },
+    {
+      "id": 58583,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_068_005.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 58584,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian sesungguhnya tempat kembali mereka benar-benar ke neraka Jaḥīm.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 571380,
+    "timestamp_to": 579530,
+    "duration": 8150,
+    "segments": [
+      [
+        1,
+        571305,
+        572605
+      ],
+      [
+        2,
+        572605,
+        573965
+      ],
+      [
+        3,
+        573965,
+        575135
+      ],
+      [
+        4,
+        575135,
+        575815
+      ],
+      [
+        5,
+        575815,
+        579400
+      ]
+    ]
+  }
+}

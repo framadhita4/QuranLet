@@ -1,0 +1,99 @@
+{
+  "id": 4394,
+  "chapter_id": 43,
+  "verse_key": "43:69",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 494,
+  "juz_number": 25,
+  "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ مُسْلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 58972,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_069_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 58973,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_069_002.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 58974,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_069_003.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "kepada ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 58975,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_069_004.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 58976,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_069_005.mp3",
+      "text": "مُسْلِمِينَ",
+      "translation": "orang-orang yang berserah diri",
+      "transliteration": "mus'limīna"
+    },
+    {
+      "id": 58977,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) orang-orang yang beriman kepada ayat-ayat Kami dan adalah mereka dahulu orang-orang yang berserah diri.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 972930,
+    "timestamp_to": 980710,
+    "duration": 7790,
+    "segments": [
+      [
+        1,
+        972875,
+        974165
+      ],
+      [
+        2,
+        974165,
+        975215
+      ],
+      [
+        3,
+        975215,
+        976885
+      ],
+      [
+        4,
+        976885,
+        978045
+      ],
+      [
+        5,
+        978045,
+        980610
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2638,
+  "chapter_id": 22,
+  "verse_key": "22:43",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "ruku_number": 290,
+  "manzil_number": 4,
+  "page_number": 337,
+  "juz_number": 17,
+  "text_uthmani": "وَقَوْمُ إِبْرَٰهِيمَ وَقَوْمُ لُوطٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 43692,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_043_001.mp3",
+      "text": "وَقَوْمُ",
+      "translation": "dan kaum",
+      "transliteration": "waqawmu"
+    },
+    {
+      "id": 43693,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_043_002.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 43694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_043_003.mp3",
+      "text": "وَقَوْمُ",
+      "translation": "dan kaum",
+      "transliteration": "waqawmu"
+    },
+    {
+      "id": 43695,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_043_004.mp3",
+      "text": "لُوطٍۢ",
+      "translation": "Luth",
+      "transliteration": "lūṭin"
+    },
+    {
+      "id": 43696,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum Ibrāhīm, dan kaum Lūṭ,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1007990,
+    "timestamp_to": 1013710,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        1007945,
+        1008895
+      ],
+      [
+        2,
+        1008895,
+        1010355
+      ],
+      [
+        3,
+        1010355,
+        1011345
+      ],
+      [
+        4,
+        1011345,
+        1013640
+      ]
+    ]
+  }
+}

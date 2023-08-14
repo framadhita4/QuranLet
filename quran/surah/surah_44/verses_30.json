@@ -1,0 +1,125 @@
+{
+  "id": 4444,
+  "chapter_id": 44,
+  "verse_key": "44:30",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 434,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 32514,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 32515,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_002.mp3",
+      "text": "نَجَّيْنَا",
+      "translation": "Kami telah menyelamatkan",
+      "transliteration": "najjaynā"
+    },
+    {
+      "id": 32516,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_003.mp3",
+      "text": "بَنِىٓ",
+      "translation": "Bani",
+      "transliteration": "banī"
+    },
+    {
+      "id": 32517,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_004.mp3",
+      "text": "إِسْرَٰٓءِيلَ",
+      "translation": "Israil",
+      "transliteration": "is'rāīla"
+    },
+    {
+      "id": 32518,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 32519,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_006.mp3",
+      "text": "ٱلْعَذَابِ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābi"
+    },
+    {
+      "id": 32520,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_030_007.mp3",
+      "text": "ٱلْمُهِينِ",
+      "translation": "yang hina",
+      "transliteration": "l-muhīni"
+    },
+    {
+      "id": 32521,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami selamatkan Bani Isrā`īl dari siksaan yang menghinakan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 295720,
+    "timestamp_to": 307550,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        295685,
+        296615
+      ],
+      [
+        2,
+        296615,
+        297825
+      ],
+      [
+        3,
+        297825,
+        299945
+      ],
+      [
+        4,
+        299945,
+        303195
+      ],
+      [
+        5,
+        303195,
+        303525
+      ],
+      [
+        6,
+        303525,
+        304675
+      ],
+      [
+        7,
+        304675,
+        307490
+      ]
+    ]
+  }
+}

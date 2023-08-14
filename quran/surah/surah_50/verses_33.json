@@ -1,0 +1,125 @@
+{
+  "id": 4663,
+  "chapter_id": 50,
+  "verse_key": "50:33",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 35401,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_001.mp3",
+      "text": "مَّنْ",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 35402,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_002.mp3",
+      "text": "خَشِىَ",
+      "translation": "dia takut",
+      "transliteration": "khashiya"
+    },
+    {
+      "id": 35403,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_003.mp3",
+      "text": "ٱلرَّحْمَـٰنَ",
+      "translation": "Yang Maha Pengasih",
+      "transliteration": "l-raḥmāna"
+    },
+    {
+      "id": 35404,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_004.mp3",
+      "text": "بِٱلْغَيْبِ",
+      "translation": "dengan yang gaib",
+      "transliteration": "bil-ghaybi"
+    },
+    {
+      "id": 35405,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_005.mp3",
+      "text": "وَجَآءَ",
+      "translation": "dan datang",
+      "transliteration": "wajāa"
+    },
+    {
+      "id": 35406,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_006.mp3",
+      "text": "بِقَلْبٍۢ",
+      "translation": "dengan hati",
+      "transliteration": "biqalbin"
+    },
+    {
+      "id": 35407,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_033_007.mp3",
+      "text": "مُّنِيبٍ",
+      "translation": "bertaubat",
+      "transliteration": "munībin"
+    },
+    {
+      "id": 35408,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) orang yang takut kepada Tuhan Yang Maha Pemurah, sedang Dia tidak kelihatan (olehnya) dan dia datang dengan hati yang bertobat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 390040,
+    "timestamp_to": 401560,
+    "duration": 11520,
+    "segments": [
+      [
+        1,
+        389885,
+        390405
+      ],
+      [
+        2,
+        390405,
+        391015
+      ],
+      [
+        3,
+        391015,
+        392435
+      ],
+      [
+        4,
+        392435,
+        393625
+      ],
+      [
+        5,
+        393625,
+        396335
+      ],
+      [
+        6,
+        396335,
+        397335
+      ],
+      [
+        7,
+        397335,
+        401340
+      ]
+    ]
+  }
+}

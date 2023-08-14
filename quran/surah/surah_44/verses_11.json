@@ -1,0 +1,99 @@
+{
+  "id": 4425,
+  "chapter_id": 44,
+  "verse_key": "44:11",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 496,
+  "juz_number": 25,
+  "text_uthmani": "يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 12265,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_011_001.mp3",
+      "text": "يَغْشَى",
+      "translation": "menutupi",
+      "transliteration": "yaghshā"
+    },
+    {
+      "id": 12266,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_011_002.mp3",
+      "text": "ٱلنَّاسَ ۖ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 12268,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_011_004.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 12269,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_011_005.mp3",
+      "text": "عَذَابٌ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 12270,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_011_006.mp3",
+      "text": "أَلِيمٌۭ",
+      "translation": "yang pedih",
+      "transliteration": "alīmun"
+    },
+    {
+      "id": 12271,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang meliputi manusia.  Inilah azab yang pedih.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 97530,
+    "timestamp_to": 107220,
+    "duration": 9690,
+    "segments": [
+      [
+        1,
+        97495,
+        98215
+      ],
+      [
+        2,
+        98215,
+        102405
+      ],
+      [
+        3,
+        102405,
+        103225
+      ],
+      [
+        4,
+        103225,
+        104285
+      ],
+      [
+        5,
+        104285,
+        107150
+      ]
+    ]
+  }
+}

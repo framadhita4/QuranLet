@@ -1,0 +1,138 @@
+{
+  "id": 1556,
+  "chapter_id": 11,
+  "verse_key": "11:83",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 189,
+  "manzil_number": 3,
+  "page_number": 231,
+  "juz_number": 12,
+  "text_uthmani": "مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّـٰلِمِينَ بِبَعِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 65470,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_001.mp3",
+      "text": "مُّسَوَّمَةً",
+      "translation": "diberi tanda",
+      "transliteration": "musawwamatan"
+    },
+    {
+      "id": 65471,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_002.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 65472,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_003.mp3",
+      "text": "رَبِّكَ ۖ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 65474,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 65475,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_006.mp3",
+      "text": "هِىَ",
+      "translation": "ia",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 65476,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 65477,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_008.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang dzalim",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 65478,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_083_009.mp3",
+      "text": "بِبَعِيدٍۢ",
+      "translation": "dengan jauh",
+      "transliteration": "bibaʿīdin"
+    },
+    {
+      "id": 65479,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang diberi tanda oleh Tuhan-mu dan siksaan itu tiadalah jauh dari orang-orang yang zalim <sup foot_note_id=\"733\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1948870,
+    "timestamp_to": 1960700,
+    "duration": 11830,
+    "segments": [
+      [
+        1,
+        1948845,
+        1950375
+      ],
+      [
+        2,
+        1950375,
+        1952015
+      ],
+      [
+        3,
+        1952015,
+        1953215
+      ],
+      [
+        4,
+        1953215,
+        1953905
+      ],
+      [
+        5,
+        1953905,
+        1954335
+      ],
+      [
+        6,
+        1954335,
+        1954815
+      ],
+      [
+        7,
+        1954815,
+        1956565
+      ],
+      [
+        8,
+        1956565,
+        1960640
+      ]
+    ]
+  }
+}

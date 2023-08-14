@@ -1,0 +1,99 @@
+{
+  "id": 5589,
+  "chapter_id": 75,
+  "verse_key": "75:38",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 39857,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 39858,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 39859,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_003.mp3",
+      "text": "عَلَقَةًۭ",
+      "translation": "segumpal darah",
+      "transliteration": "ʿalaqatan"
+    },
+    {
+      "id": 39860,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_004.mp3",
+      "text": "فَخَلَقَ",
+      "translation": "lalu Dia ciptakan",
+      "transliteration": "fakhalaqa"
+    },
+    {
+      "id": 39861,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_005.mp3",
+      "text": "فَسَوَّىٰ",
+      "translation": "lalu Dia sempurnakan",
+      "transliteration": "fasawwā"
+    },
+    {
+      "id": 39862,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian mani itu menjadi segumpal darah, lalu Allah menciptakannya, dan menyempurnakannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 185160,
+    "timestamp_to": 191380,
+    "duration": 6220,
+    "segments": [
+      [
+        1,
+        184445,
+        185865
+      ],
+      [
+        2,
+        185865,
+        186475
+      ],
+      [
+        3,
+        186475,
+        187995
+      ],
+      [
+        4,
+        187995,
+        188855
+      ],
+      [
+        5,
+        188855,
+        190040
+      ]
+    ]
+  }
+}

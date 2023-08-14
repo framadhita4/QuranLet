@@ -1,0 +1,86 @@
+{
+  "id": 2943,
+  "chapter_id": 26,
+  "verse_key": "26:11",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 13044,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_011_001.mp3",
+      "text": "قَوْمَ",
+      "translation": "kaum",
+      "transliteration": "qawma"
+    },
+    {
+      "id": 13045,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_011_002.mp3",
+      "text": "فِرْعَوْنَ ۚ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 13047,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_011_004.mp3",
+      "text": "أَلَا",
+      "translation": "mengapa tidak",
+      "transliteration": "alā"
+    },
+    {
+      "id": 13048,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_011_005.mp3",
+      "text": "يَتَّقُونَ",
+      "translation": "mereka bertakwa",
+      "transliteration": "yattaqūna"
+    },
+    {
+      "id": 13049,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) kaum Firʻawn .  Mengapa mereka tidak bertakwa?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 102010,
+    "timestamp_to": 109140,
+    "duration": 7130,
+    "segments": [
+      [
+        1,
+        101955,
+        102635
+      ],
+      [
+        2,
+        102635,
+        105145
+      ],
+      [
+        3,
+        105145,
+        106135
+      ],
+      [
+        4,
+        106135,
+        109060
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 3416,
+  "chapter_id": 30,
+  "verse_key": "30:7",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 405,
+  "juz_number": 21,
+  "text_uthmani": "يَعْلَمُونَ ظَـٰهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 8222,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_001.mp3",
+      "text": "يَعْلَمُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿlamūna"
+    },
+    {
+      "id": 8223,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_002.mp3",
+      "text": "ظَـٰهِرًۭا",
+      "translation": "yang lahir",
+      "transliteration": "ẓāhiran"
+    },
+    {
+      "id": 8224,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_003.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 8225,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_004.mp3",
+      "text": "ٱلْحَيَوٰةِ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayati"
+    },
+    {
+      "id": 8226,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_005.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 8227,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_006.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 8228,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_007.mp3",
+      "text": "عَنِ",
+      "translation": "dari/terhadap",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 8229,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_008.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 8230,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_009.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 8231,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_007_010.mp3",
+      "text": "غَـٰفِلُونَ",
+      "translation": "orang-orang yang lalai",
+      "transliteration": "ghāfilūna"
+    },
+    {
+      "id": 8232,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka hanya mengetahui yang lahir (saja) dari kehidupan dunia, sedang mereka tentang (kehidupan) akhirat adalah lalai.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71590,
+    "timestamp_to": 83400,
+    "duration": 11810,
+    "segments": [
+      [
+        1,
+        71565,
+        73045
+      ],
+      [
+        2,
+        73045,
+        73925
+      ],
+      [
+        3,
+        73925,
+        75145
+      ],
+      [
+        4,
+        75145,
+        76285
+      ],
+      [
+        5,
+        76285,
+        77325
+      ],
+      [
+        6,
+        77325,
+        77945
+      ],
+      [
+        7,
+        77945,
+        78385
+      ],
+      [
+        8,
+        78385,
+        79685
+      ],
+      [
+        9,
+        79685,
+        80065
+      ],
+      [
+        10,
+        80065,
+        83350
+      ]
+    ]
+  }
+}

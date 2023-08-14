@@ -1,0 +1,177 @@
+{
+  "id": 2370,
+  "chapter_id": 20,
+  "verse_key": "20:22",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 24670,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_001.mp3",
+      "text": "وَٱضْمُمْ",
+      "translation": "dan kepitkanlah",
+      "transliteration": "wa-uḍ'mum"
+    },
+    {
+      "id": 24671,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_002.mp3",
+      "text": "يَدَكَ",
+      "translation": "tanganmu",
+      "transliteration": "yadaka"
+    },
+    {
+      "id": 24672,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 24673,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_004.mp3",
+      "text": "جَنَاحِكَ",
+      "translation": "sayapmu/ketiakmu",
+      "transliteration": "janāḥika"
+    },
+    {
+      "id": 24674,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_005.mp3",
+      "text": "تَخْرُجْ",
+      "translation": "ia keluar",
+      "transliteration": "takhruj"
+    },
+    {
+      "id": 24675,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_006.mp3",
+      "text": "بَيْضَآءَ",
+      "translation": "putih",
+      "transliteration": "bayḍāa"
+    },
+    {
+      "id": 24676,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_007.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 24677,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_008.mp3",
+      "text": "غَيْرِ",
+      "translation": "selain/tanpa",
+      "transliteration": "ghayri"
+    },
+    {
+      "id": 24678,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_009.mp3",
+      "text": "سُوٓءٍ",
+      "translation": "seburuk-buruk",
+      "transliteration": "sūin"
+    },
+    {
+      "id": 24679,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_010.mp3",
+      "text": "ءَايَةً",
+      "translation": "tanda-tanda/mukjizat",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 24680,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_022_011.mp3",
+      "text": "أُخْرَىٰ",
+      "translation": "yang lain",
+      "transliteration": "ukh'rā"
+    },
+    {
+      "id": 24681,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kepitkanlah tanganmu ke ketiakmu, niscaya ia ke luar menjadi putih cemerlang tanpa cacat, sebagai mukjizat yang lain (pula),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 191820,
+    "timestamp_to": 204910,
+    "duration": 13090,
+    "segments": [
+      [
+        1,
+        191365,
+        192405
+      ],
+      [
+        2,
+        192405,
+        193175
+      ],
+      [
+        3,
+        193175,
+        193775
+      ],
+      [
+        4,
+        193775,
+        194975
+      ],
+      [
+        5,
+        194975,
+        195905
+      ],
+      [
+        6,
+        195905,
+        198675
+      ],
+      [
+        7,
+        198676,
+        199075
+      ],
+      [
+        8,
+        199075,
+        199705
+      ],
+      [
+        9,
+        199705,
+        202065
+      ],
+      [
+        10,
+        202065,
+        203165
+      ],
+      [
+        11,
+        203165,
+        204430
+      ]
+    ]
+  }
+}

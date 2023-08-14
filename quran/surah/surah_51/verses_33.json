@@ -1,0 +1,99 @@
+{
+  "id": 4708,
+  "chapter_id": 51,
+  "verse_key": "51:33",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 35566,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_033_001.mp3",
+      "text": "لِنُرْسِلَ",
+      "translation": "agar kami kirimkan",
+      "transliteration": "linur'sila"
+    },
+    {
+      "id": 35567,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_033_002.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 35568,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_033_003.mp3",
+      "text": "حِجَارَةًۭ",
+      "translation": "batu-batu",
+      "transliteration": "ḥijāratan"
+    },
+    {
+      "id": 35569,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_033_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 35570,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_033_005.mp3",
+      "text": "طِينٍۢ",
+      "translation": "tanah",
+      "transliteration": "ṭīnin"
+    },
+    {
+      "id": 35571,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "agar kami timpakan kepada mereka batu-batu dari tanah (yang keras),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 255920,
+    "timestamp_to": 264020,
+    "duration": 8100,
+    "segments": [
+      [
+        1,
+        255855,
+        256975
+      ],
+      [
+        2,
+        256975,
+        258045
+      ],
+      [
+        3,
+        258045,
+        259535
+      ],
+      [
+        4,
+        259535,
+        261375
+      ],
+      [
+        5,
+        261375,
+        263880
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4001,
+  "chapter_id": 38,
+  "verse_key": "38:31",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "page_number": 455,
+  "juz_number": 23,
+  "text_uthmani": "إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّـٰفِنَـٰتُ ٱلْجِيَادُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 34288,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_031_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 34289,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_031_002.mp3",
+      "text": "عُرِضَ",
+      "translation": "dipertunjukkan",
+      "transliteration": "ʿuriḍa"
+    },
+    {
+      "id": 34290,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_031_003.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya/kepadanya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 34291,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_031_004.mp3",
+      "text": "بِٱلْعَشِىِّ",
+      "translation": "pada waktu sore",
+      "transliteration": "bil-ʿashiyi"
+    },
+    {
+      "id": 34292,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_031_005.mp3",
+      "text": "ٱلصَّـٰفِنَـٰتُ",
+      "translation": "yang diam waktu berhenti",
+      "transliteration": "l-ṣāfinātu"
+    },
+    {
+      "id": 34293,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_031_006.mp3",
+      "text": "ٱلْجِيَادُ",
+      "translation": "yang cepat berlari",
+      "transliteration": "l-jiyādu"
+    },
+    {
+      "id": 34294,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(ingatlah) ketika dipertunjukkan kepadanya kuda-kuda yang tenang pada waktu berhenti dan cepat waktu berlari pada waktu sore.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 447980,
+    "timestamp_to": 455710,
+    "duration": 7730,
+    "segments": [
+      [
+        1,
+        447925,
+        448365
+      ],
+      [
+        2,
+        448365,
+        449045
+      ],
+      [
+        3,
+        449045,
+        449835
+      ],
+      [
+        4,
+        449835,
+        451055
+      ],
+      [
+        5,
+        451055,
+        452595
+      ],
+      [
+        6,
+        452595,
+        455630
+      ]
+    ]
+  }
+}

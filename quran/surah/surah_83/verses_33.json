@@ -1,0 +1,86 @@
+{
+  "id": 5881,
+  "chapter_id": 83,
+  "verse_key": "83:33",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 35603,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 35604,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_002.mp3",
+      "text": "أُرْسِلُوا۟",
+      "translation": "dikirim",
+      "transliteration": "ur'silū"
+    },
+    {
+      "id": 35605,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_003.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 35606,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_004.mp3",
+      "text": "حَـٰفِظِينَ",
+      "translation": "penjaga-penjaga",
+      "transliteration": "ḥāfiẓīna"
+    },
+    {
+      "id": 35607,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "padahal orang-orang yang berdosa itu tidak dikirim untuk penjaga bagi orang-orang mukmin.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 254410,
+    "timestamp_to": 262060,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        254355,
+        256795
+      ],
+      [
+        2,
+        256795,
+        257735
+      ],
+      [
+        3,
+        257735,
+        258765
+      ],
+      [
+        4,
+        258765,
+        261970
+      ]
+    ]
+  }
+}

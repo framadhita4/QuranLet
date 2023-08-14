@@ -1,0 +1,86 @@
+{
+  "id": 2351,
+  "chapter_id": 20,
+  "verse_key": "20:3",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 2203,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_003_001.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 2204,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_003_002.mp3",
+      "text": "تَذْكِرَةًۭ",
+      "translation": "peringatan",
+      "transliteration": "tadhkiratan"
+    },
+    {
+      "id": 2205,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_003_003.mp3",
+      "text": "لِّمَن",
+      "translation": "bagi orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 2206,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_003_004.mp3",
+      "text": "يَخْشَىٰ",
+      "translation": "ia takut",
+      "transliteration": "yakhshā"
+    },
+    {
+      "id": 2207,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi sebagai peringatan bagi orang yang takut (kepada Allah),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10600,
+    "timestamp_to": 16110,
+    "duration": 5510,
+    "segments": [
+      [
+        1,
+        10575,
+        11485
+      ],
+      [
+        2,
+        11485,
+        12665
+      ],
+      [
+        3,
+        12665,
+        13455
+      ],
+      [
+        4,
+        13455,
+        15690
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 4985,
+  "chapter_id": 56,
+  "verse_key": "56:6",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "words": [
+    {
+      "id": 6181,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_006_001.mp3",
+      "text": "فَكَانَتْ",
+      "translation": "dan adalah/jadilah ia",
+      "transliteration": "fakānat"
+    },
+    {
+      "id": 6182,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_006_002.mp3",
+      "text": "هَبَآءًۭ",
+      "translation": "debu",
+      "transliteration": "habāan"
+    },
+    {
+      "id": 6183,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_006_003.mp3",
+      "text": "مُّنۢبَثًّۭا",
+      "translation": "berterbangan",
+      "transliteration": "munbathan"
+    },
+    {
+      "id": 6184,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka jadilah ia debu yang beterbangan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19050,
+    "timestamp_to": 26420,
+    "duration": 7370,
+    "segments": [
+      [
+        1,
+        18585,
+        19725
+      ],
+      [
+        2,
+        19725,
+        22055
+      ],
+      [
+        3,
+        22055,
+        25410
+      ]
+    ]
+  }
+}

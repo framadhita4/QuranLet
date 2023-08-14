@@ -1,0 +1,151 @@
+{
+  "id": 4660,
+  "chapter_id": 50,
+  "verse_key": "50:30",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 32605,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 32606,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_002.mp3",
+      "text": "نَقُولُ",
+      "translation": "Kami berkata",
+      "transliteration": "naqūlu"
+    },
+    {
+      "id": 32607,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_003.mp3",
+      "text": "لِجَهَنَّمَ",
+      "translation": "kepada jahanam",
+      "transliteration": "lijahannama"
+    },
+    {
+      "id": 32608,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_004.mp3",
+      "text": "هَلِ",
+      "translation": "apakah",
+      "transliteration": "hali"
+    },
+    {
+      "id": 32609,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_005.mp3",
+      "text": "ٱمْتَلَأْتِ",
+      "translation": "kamu telah penuh",
+      "transliteration": "im'talati"
+    },
+    {
+      "id": 32610,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_006.mp3",
+      "text": "وَتَقُولُ",
+      "translation": "dan ia berkata (menjawab)",
+      "transliteration": "wataqūlu"
+    },
+    {
+      "id": 32611,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_007.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 32612,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_008.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 32613,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_030_009.mp3",
+      "text": "مَّزِيدٍۢ",
+      "translation": "tambahan",
+      "transliteration": "mazīdin"
+    },
+    {
+      "id": 32614,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dan ingatlah akan) hari (yang pada hari itu) Kami bertanya kepada jahanam, \"Apakah kamu sudah penuh?\" Dia menjawab, \"Masih ada tambahan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 359840,
+    "timestamp_to": 372040,
+    "duration": 12200,
+    "segments": [
+      [
+        1,
+        359765,
+        360565
+      ],
+      [
+        2,
+        360565,
+        361465
+      ],
+      [
+        3,
+        361465,
+        363855
+      ],
+      [
+        4,
+        363855,
+        364405
+      ],
+      [
+        5,
+        364405,
+        365535
+      ],
+      [
+        6,
+        365535,
+        366785
+      ],
+      [
+        7,
+        366785,
+        367225
+      ],
+      [
+        8,
+        367225,
+        367485
+      ],
+      [
+        9,
+        367485,
+        371920
+      ]
+    ]
+  }
+}

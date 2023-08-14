@@ -1,0 +1,125 @@
+{
+  "id": 5355,
+  "chapter_id": 69,
+  "verse_key": "69:32",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 34520,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 34521,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 34522,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_003.mp3",
+      "text": "سِلْسِلَةٍۢ",
+      "translation": "rantai",
+      "transliteration": "sil'silatin"
+    },
+    {
+      "id": 34523,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_004.mp3",
+      "text": "ذَرْعُهَا",
+      "translation": "hastanya/panjangnya",
+      "transliteration": "dharʿuhā"
+    },
+    {
+      "id": 34524,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_005.mp3",
+      "text": "سَبْعُونَ",
+      "translation": "tujuh puluh",
+      "transliteration": "sabʿūna"
+    },
+    {
+      "id": 34525,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_006.mp3",
+      "text": "ذِرَاعًۭا",
+      "translation": "hasta",
+      "transliteration": "dhirāʿan"
+    },
+    {
+      "id": 34526,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_032_007.mp3",
+      "text": "فَٱسْلُكُوهُ",
+      "translation": "maka masukkan/belitkan",
+      "transliteration": "fa-us'lukūhu"
+    },
+    {
+      "id": 34527,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian belitlah dia dengan rantai yang panjangnya tujuh puluh hasta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 242900,
+    "timestamp_to": 254180,
+    "duration": 11290,
+    "segments": [
+      [
+        1,
+        242845,
+        244035
+      ],
+      [
+        2,
+        244035,
+        244525
+      ],
+      [
+        3,
+        244525,
+        245835
+      ],
+      [
+        4,
+        245835,
+        247675
+      ],
+      [
+        5,
+        247675,
+        248715
+      ],
+      [
+        6,
+        248715,
+        250395
+      ],
+      [
+        7,
+        250395,
+        254060
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4754,
+  "chapter_id": 52,
+  "verse_key": "52:19",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 21444,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_019_001.mp3",
+      "text": "كُلُوا۟",
+      "translation": "makanlah",
+      "transliteration": "kulū"
+    },
+    {
+      "id": 21445,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_019_002.mp3",
+      "text": "وَٱشْرَبُوا۟",
+      "translation": "dan minumlah",
+      "transliteration": "wa-ish'rabū"
+    },
+    {
+      "id": 21446,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_019_003.mp3",
+      "text": "هَنِيٓـًٔۢا",
+      "translation": "dengan enak",
+      "transliteration": "hanīan"
+    },
+    {
+      "id": 21447,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_019_004.mp3",
+      "text": "بِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 21448,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_019_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 21449,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_019_006.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 21450,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka), \"Makan dan minumlah dengan enak sebagai balasan dari apa yang telah kamu kerjakan\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 131350,
+    "timestamp_to": 142430,
+    "duration": 11080,
+    "segments": [
+      [
+        1,
+        131285,
+        132095
+      ],
+      [
+        2,
+        132095,
+        133135
+      ],
+      [
+        3,
+        133135,
+        136345
+      ],
+      [
+        4,
+        136345,
+        137035
+      ],
+      [
+        5,
+        137035,
+        138875
+      ],
+      [
+        6,
+        138875,
+        142280
+      ]
+    ]
+  }
+}

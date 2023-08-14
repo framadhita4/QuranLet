@@ -1,0 +1,99 @@
+{
+  "id": 2336,
+  "chapter_id": 19,
+  "verse_key": "19:86",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 66493,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_086_001.mp3",
+      "text": "وَنَسُوقُ",
+      "translation": "dan Kami akan menghalau",
+      "transliteration": "wanasūqu"
+    },
+    {
+      "id": 66494,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_086_002.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 66495,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_086_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "ke",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 66496,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_086_004.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka Jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 66497,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_086_005.mp3",
+      "text": "وِرْدًۭا",
+      "translation": "keadaan dahaga",
+      "transliteration": "wir'dan"
+    },
+    {
+      "id": 66498,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami akan menghalau orang-orang yang durhaka ke neraka Jahanam dalam keadaan dahaga.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1161130,
+    "timestamp_to": 1167920,
+    "duration": 6790,
+    "segments": [
+      [
+        1,
+        1160995,
+        1162365
+      ],
+      [
+        2,
+        1162365,
+        1163805
+      ],
+      [
+        3,
+        1163805,
+        1164565
+      ],
+      [
+        4,
+        1164565,
+        1166435
+      ],
+      [
+        5,
+        1166435,
+        1167520
+      ]
+    ]
+  }
+}

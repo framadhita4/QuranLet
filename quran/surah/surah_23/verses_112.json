@@ -1,0 +1,125 @@
+{
+  "id": 2785,
+  "chapter_id": 23,
+  "verse_key": "23:112",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 349,
+  "juz_number": 18,
+  "text_uthmani": "قَـٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 74825,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_001.mp3",
+      "text": "قَـٰلَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 74826,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_002.mp3",
+      "text": "كَمْ",
+      "translation": "berapa",
+      "transliteration": "kam"
+    },
+    {
+      "id": 74827,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_003.mp3",
+      "text": "لَبِثْتُمْ",
+      "translation": "kamu tinggal",
+      "transliteration": "labith'tum"
+    },
+    {
+      "id": 74828,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 74829,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_005.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 74830,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_006.mp3",
+      "text": "عَدَدَ",
+      "translation": "bilangan",
+      "transliteration": "ʿadada"
+    },
+    {
+      "id": 74831,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_112_007.mp3",
+      "text": "سِنِينَ",
+      "translation": "tahun",
+      "transliteration": "sinīna"
+    },
+    {
+      "id": 74832,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١٢",
+      "translation": "(112)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah bertanya, \"Berapa tahunkah lamanya kamu tinggal di bumi?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1400380,
+    "timestamp_to": 1406910,
+    "duration": 6530,
+    "segments": [
+      [
+        1,
+        1400315,
+        1401045
+      ],
+      [
+        2,
+        1401045,
+        1401345
+      ],
+      [
+        3,
+        1401345,
+        1402385
+      ],
+      [
+        4,
+        1402385,
+        1402625
+      ],
+      [
+        5,
+        1402625,
+        1403405
+      ],
+      [
+        6,
+        1403405,
+        1404045
+      ],
+      [
+        7,
+        1404045,
+        1406820
+      ]
+    ]
+  }
+}

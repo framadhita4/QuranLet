@@ -1,0 +1,151 @@
+{
+  "id": 3748,
+  "chapter_id": 36,
+  "verse_key": "36:43",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "page_number": 443,
+  "juz_number": 23,
+  "text_uthmani": "وَإِن نَّشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنقَذُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 44081,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 44082,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_002.mp3",
+      "text": "نَّشَأْ",
+      "translation": "Kami menghendaki",
+      "transliteration": "nasha"
+    },
+    {
+      "id": 44083,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_003.mp3",
+      "text": "نُغْرِقْهُمْ",
+      "translation": "Kami tenggelamkan mereka",
+      "transliteration": "nugh'riq'hum"
+    },
+    {
+      "id": 44084,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_004.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 44085,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_005.mp3",
+      "text": "صَرِيخَ",
+      "translation": "pertolongan",
+      "transliteration": "ṣarīkha"
+    },
+    {
+      "id": 44086,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 44087,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_007.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 44088,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_008.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 44089,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_043_009.mp3",
+      "text": "يُنقَذُونَ",
+      "translation": "mereka dilepaskan/diselamatkan",
+      "transliteration": "yunqadhūna"
+    },
+    {
+      "id": 44090,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika Kami menghendaki, niscaya Kami tenggelamkan mereka, maka tiadalah bagi mereka penolong dan tidak pula mereka diselamatkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 528380,
+    "timestamp_to": 538910,
+    "duration": 10530,
+    "segments": [
+      [
+        1,
+        528315,
+        528845
+      ],
+      [
+        2,
+        528845,
+        530175
+      ],
+      [
+        3,
+        530175,
+        531415
+      ],
+      [
+        4,
+        531415,
+        532025
+      ],
+      [
+        5,
+        532025,
+        532975
+      ],
+      [
+        6,
+        532975,
+        533565
+      ],
+      [
+        7,
+        533565,
+        534125
+      ],
+      [
+        8,
+        534125,
+        534585
+      ],
+      [
+        9,
+        534585,
+        538750
+      ]
+    ]
+  }
+}

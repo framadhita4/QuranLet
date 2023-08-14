@@ -1,0 +1,73 @@
+{
+  "id": 3960,
+  "chapter_id": 37,
+  "verse_key": "37:172",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83026,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_172_001.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 83027,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_172_002.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 83028,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_172_003.mp3",
+      "text": "ٱلْمَنصُورُونَ",
+      "translation": "orang-orang yang mendapat pertolongan",
+      "transliteration": "l-manṣūrūna"
+    },
+    {
+      "id": 83029,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٧٢",
+      "translation": "(172)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) sesungguhnya mereka itulah yang pasti mendapat pertolongan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1375470,
+    "timestamp_to": 1382550,
+    "duration": 7080,
+    "segments": [
+      [
+        1,
+        1375415,
+        1377275
+      ],
+      [
+        2,
+        1377275,
+        1377945
+      ],
+      [
+        3,
+        1377945,
+        1382420
+      ]
+    ]
+  }
+}

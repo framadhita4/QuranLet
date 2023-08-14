@@ -1,0 +1,112 @@
+{
+  "id": 5730,
+  "chapter_id": 79,
+  "verse_key": "79:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 20745,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_018_001.mp3",
+      "text": "فَقُلْ",
+      "translation": "maka katakanlah",
+      "transliteration": "faqul"
+    },
+    {
+      "id": 20746,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_018_002.mp3",
+      "text": "هَل",
+      "translation": "apakah/maukah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 20747,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_018_003.mp3",
+      "text": "لَّكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 20748,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_018_004.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada (untuk)",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 20749,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_018_005.mp3",
+      "text": "أَن",
+      "translation": "untuk",
+      "transliteration": "an"
+    },
+    {
+      "id": 20750,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_018_006.mp3",
+      "text": "تَزَكَّىٰ",
+      "translation": "kamu membersihkan diri",
+      "transliteration": "tazakkā"
+    },
+    {
+      "id": 20751,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan katakanlah (kepada Firʻawn), \"Adakah keinginan bagimu untuk membersihkan diri (dari kesesatan)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 78830,
+    "timestamp_to": 85280,
+    "duration": 6450,
+    "segments": [
+      [
+        1,
+        78755,
+        79395
+      ],
+      [
+        2,
+        79395,
+        79855
+      ],
+      [
+        3,
+        79855,
+        80235
+      ],
+      [
+        4,
+        80235,
+        82535
+      ],
+      [
+        5,
+        82535,
+        83495
+      ],
+      [
+        6,
+        83495,
+        84760
+      ]
+    ]
+  }
+}

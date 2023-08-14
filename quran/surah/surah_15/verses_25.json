@@ -1,0 +1,125 @@
+{
+  "id": 1827,
+  "chapter_id": 15,
+  "verse_key": "15:25",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 219,
+  "manzil_number": 3,
+  "page_number": 263,
+  "juz_number": 14,
+  "text_uthmani": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 28464,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 28465,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 28466,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_003.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 28467,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_004.mp3",
+      "text": "يَحْشُرُهُمْ ۚ",
+      "translation": "akan mengumpulkan mereka",
+      "transliteration": "yaḥshuruhum"
+    },
+    {
+      "id": 28469,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_006.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 28470,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_007.mp3",
+      "text": "حَكِيمٌ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "ḥakīmun"
+    },
+    {
+      "id": 28471,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_025_008.mp3",
+      "text": "عَلِيمٌۭ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 28472,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu, Dia-lah yang akan menghimpunkan mereka.  Sesungguhnya Dia adalah Maha Bijaksana lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 254030,
+    "timestamp_to": 263900,
+    "duration": 9880,
+    "segments": [
+      [
+        1,
+        254005,
+        255095
+      ],
+      [
+        2,
+        255095,
+        256025
+      ],
+      [
+        3,
+        256025,
+        256315
+      ],
+      [
+        4,
+        256315,
+        257645
+      ],
+      [
+        5,
+        257645,
+        259555
+      ],
+      [
+        6,
+        259555,
+        260865
+      ],
+      [
+        7,
+        260865,
+        263800
+      ]
+    ]
+  }
+}

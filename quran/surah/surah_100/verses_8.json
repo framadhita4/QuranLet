@@ -1,0 +1,86 @@
+{
+  "id": 6154,
+  "chapter_id": 100,
+  "verse_key": "100:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 9582,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_008_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya dia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 9583,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_008_002.mp3",
+      "text": "لِحُبِّ",
+      "translation": "benar-benar cinta",
+      "transliteration": "liḥubbi"
+    },
+    {
+      "id": 9584,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_008_003.mp3",
+      "text": "ٱلْخَيْرِ",
+      "translation": "kebaikan (harta)",
+      "transliteration": "l-khayri"
+    },
+    {
+      "id": 9585,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_008_004.mp3",
+      "text": "لَشَدِيدٌ",
+      "translation": "sungguh sangat",
+      "transliteration": "lashadīdun"
+    },
+    {
+      "id": 9586,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya dia sangat bakhil karena cintanya kepada harta<sup foot_note_id=\"1598\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30490,
+    "timestamp_to": 37600,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        30405,
+        32495
+      ],
+      [
+        2,
+        32495,
+        33335
+      ],
+      [
+        3,
+        33335,
+        34245
+      ],
+      [
+        4,
+        34245,
+        37460
+      ]
+    ]
+  }
+}

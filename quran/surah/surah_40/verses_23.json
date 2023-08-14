@@ -1,0 +1,112 @@
+{
+  "id": 4156,
+  "chapter_id": 40,
+  "verse_key": "40:23",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "ruku_number": 408,
+  "manzil_number": 6,
+  "page_number": 469,
+  "juz_number": 24,
+  "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 25471,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_023_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 25472,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_023_002.mp3",
+      "text": "أَرْسَلْنَا",
+      "translation": "Kami telah mengutus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 25473,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_023_003.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 25474,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_023_004.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "dengan ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 25475,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_023_005.mp3",
+      "text": "وَسُلْطَـٰنٍۢ",
+      "translation": "dan kekuasaan/keterangan",
+      "transliteration": "wasul'ṭānin"
+    },
+    {
+      "id": 25476,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_023_006.mp3",
+      "text": "مُّبِينٍ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 25477,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami utus Musa dengan membawa ayat-ayat Kami dan keterangan yang nyata,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 383260,
+    "timestamp_to": 392790,
+    "duration": 9540,
+    "segments": [
+      [
+        1,
+        382835,
+        383655
+      ],
+      [
+        2,
+        383655,
+        384865
+      ],
+      [
+        3,
+        384865,
+        385665
+      ],
+      [
+        4,
+        385665,
+        387235
+      ],
+      [
+        5,
+        387235,
+        388535
+      ],
+      [
+        6,
+        388535,
+        392330
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 249,
+  "chapter_id": 2,
+  "verse_key": "2:242",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "ruku_number": 32,
+  "manzil_number": 1,
+  "page_number": 39,
+  "juz_number": 2,
+  "text_uthmani": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 86739,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_001.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 86740,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_002.mp3",
+      "text": "يُبَيِّنُ",
+      "translation": "menerangkan",
+      "transliteration": "yubayyinu"
+    },
+    {
+      "id": 86741,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 86742,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_004.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 86743,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_005.mp3",
+      "text": "ءَايَـٰتِهِۦ",
+      "translation": "ayat-ayatNya",
+      "transliteration": "āyātihi"
+    },
+    {
+      "id": 86744,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_006.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 86745,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_242_007.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 86746,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٤٢",
+      "translation": "(242)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demikianlah Allah menerangkan kepadamu ayat-ayat-Nya (hukum-hukum-Nya) supaya kamu memahaminya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5764110,
+    "timestamp_to": 5772440,
+    "duration": 8330,
+    "segments": [
+      [
+        1,
+        5764035,
+        5764955
+      ],
+      [
+        2,
+        5764955,
+        5765855
+      ],
+      [
+        3,
+        5765855,
+        5766525
+      ],
+      [
+        4,
+        5766525,
+        5767065
+      ],
+      [
+        5,
+        5767065,
+        5768385
+      ],
+      [
+        6,
+        5768385,
+        5769545
+      ],
+      [
+        7,
+        5769545,
+        5772310
+      ]
+    ]
+  }
+}

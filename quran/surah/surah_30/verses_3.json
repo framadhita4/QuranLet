@@ -1,0 +1,138 @@
+{
+  "id": 3412,
+  "chapter_id": 30,
+  "verse_key": "30:3",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 404,
+  "juz_number": 21,
+  "text_uthmani": "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 3010,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_001.mp3",
+      "text": "فِىٓ",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 3011,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_002.mp3",
+      "text": "أَدْنَى",
+      "translation": "dekat",
+      "transliteration": "adnā"
+    },
+    {
+      "id": 3012,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_003.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi/negeri",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 3013,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_004.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 3014,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_005.mp3",
+      "text": "مِّنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 3015,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_006.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 3016,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_007.mp3",
+      "text": "غَلَبِهِمْ",
+      "translation": "kekalahan mereka",
+      "transliteration": "ghalabihim"
+    },
+    {
+      "id": 3017,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_003_008.mp3",
+      "text": "سَيَغْلِبُونَ",
+      "translation": "mereka akan mengalahkan",
+      "transliteration": "sayaghlibūna"
+    },
+    {
+      "id": 3018,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "di negeri yang terdekat <sup foot_note_id=\"1162\">1</sup> dan mereka sesudah dikalahkan itu akan menang ,<sup foot_note_id=\"1163\">2</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14060,
+    "timestamp_to": 25190,
+    "duration": 11130,
+    "segments": [
+      [
+        1,
+        13805,
+        16045
+      ],
+      [
+        2,
+        16045,
+        16575
+      ],
+      [
+        3,
+        16575,
+        17495
+      ],
+      [
+        4,
+        17495,
+        18235
+      ],
+      [
+        5,
+        18235,
+        19705
+      ],
+      [
+        6,
+        19705,
+        20305
+      ],
+      [
+        7,
+        20305,
+        21335
+      ],
+      [
+        8,
+        21335,
+        24900
+      ]
+    ]
+  }
+}

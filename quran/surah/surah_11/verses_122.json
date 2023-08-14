@@ -1,0 +1,73 @@
+{
+  "id": 1595,
+  "chapter_id": 11,
+  "verse_key": "11:122",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "ruku_number": 192,
+  "manzil_number": 3,
+  "page_number": 235,
+  "juz_number": 12,
+  "text_uthmani": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 76728,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_122_001.mp3",
+      "text": "وَٱنتَظِرُوٓا۟",
+      "translation": "dan tunggulah",
+      "transliteration": "wa-intaẓirū"
+    },
+    {
+      "id": 76729,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_122_002.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 76730,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_122_003.mp3",
+      "text": "مُنتَظِرُونَ",
+      "translation": "orang-orang yang menunggu",
+      "transliteration": "muntaẓirūna"
+    },
+    {
+      "id": 76731,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٢٢",
+      "translation": "(122)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tunggulah (akibat perbuatanmu); sesungguhnya kami pun menunggu (pula)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2736710,
+    "timestamp_to": 2746900,
+    "duration": 10190,
+    "segments": [
+      [
+        1,
+        2736655,
+        2740415
+      ],
+      [
+        2,
+        2740415,
+        2742345
+      ],
+      [
+        3,
+        2742345,
+        2746780
+      ]
+    ]
+  }
+}

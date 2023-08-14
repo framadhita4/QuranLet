@@ -1,0 +1,112 @@
+{
+  "id": 3887,
+  "chapter_id": 37,
+  "verse_key": "37:99",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 70842,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_099_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan (Ibrahim) berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 70843,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_099_002.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 70844,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_099_003.mp3",
+      "text": "ذَاهِبٌ",
+      "translation": "pergi",
+      "transliteration": "dhāhibun"
+    },
+    {
+      "id": 70845,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_099_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 70846,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_099_005.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 70847,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_099_006.mp3",
+      "text": "سَيَهْدِينِ",
+      "translation": "Dia akan memberi petunjuk kepadaku",
+      "transliteration": "sayahdīni"
+    },
+    {
+      "id": 70848,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩٩",
+      "translation": "(99)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Ibrāhīm berkata, \"Sesungguhnya aku pergi menghadap kepada Tuhan-ku dan Dia akan memberi petunjuk kepadaku <sup foot_note_id=\"1282\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 801780,
+    "timestamp_to": 809830,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        801715,
+        802645
+      ],
+      [
+        2,
+        802645,
+        803935
+      ],
+      [
+        3,
+        803935,
+        804945
+      ],
+      [
+        4,
+        804945,
+        805515
+      ],
+      [
+        5,
+        805515,
+        806355
+      ],
+      [
+        6,
+        806355,
+        809690
+      ]
+    ]
+  }
+}

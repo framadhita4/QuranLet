@@ -1,0 +1,151 @@
+{
+  "id": 4382,
+  "chapter_id": 43,
+  "verse_key": "43:57",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 431,
+  "manzil_number": 6,
+  "page_number": 493,
+  "juz_number": 25,
+  "text_uthmani": "۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 52680,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_002.mp3",
+      "text": "۞ وَلَمَّا",
+      "translation": "dan tatkala",
+      "transliteration": "walammā"
+    },
+    {
+      "id": 52681,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_003.mp3",
+      "text": "ضُرِبَ",
+      "translation": "dijadikan",
+      "transliteration": "ḍuriba"
+    },
+    {
+      "id": 52682,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_004.mp3",
+      "text": "ٱبْنُ",
+      "translation": "anak",
+      "transliteration": "ub'nu"
+    },
+    {
+      "id": 52683,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_005.mp3",
+      "text": "مَرْيَمَ",
+      "translation": "Maryam",
+      "transliteration": "maryama"
+    },
+    {
+      "id": 52684,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_006.mp3",
+      "text": "مَثَلًا",
+      "translation": "perumpamaan",
+      "transliteration": "mathalan"
+    },
+    {
+      "id": 52685,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_007.mp3",
+      "text": "إِذَا",
+      "translation": "tiba-tiba",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 52686,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_008.mp3",
+      "text": "قَوْمُكَ",
+      "translation": "kaummu",
+      "transliteration": "qawmuka"
+    },
+    {
+      "id": 52687,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_009.mp3",
+      "text": "مِنْهُ",
+      "translation": "karenanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 52688,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_057_010.mp3",
+      "text": "يَصِدُّونَ",
+      "translation": "mereka gempar/bersorak",
+      "transliteration": "yaṣiddūna"
+    },
+    {
+      "id": 52689,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tatkala putra Maryam (ʻIsa) dijadikan perumpamaan, tiba-tiba kaummu (Quraisy) bersorak karenanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 803290,
+    "timestamp_to": 812490,
+    "duration": 9200,
+    "segments": [
+      [
+        1,
+        803235,
+        804855
+      ],
+      [
+        2,
+        804855,
+        805395
+      ],
+      [
+        3,
+        805395,
+        805895
+      ],
+      [
+        4,
+        805895,
+        806735
+      ],
+      [
+        5,
+        806735,
+        807485
+      ],
+      [
+        6,
+        807485,
+        808095
+      ],
+      [
+        7,
+        808095,
+        808985
+      ],
+      [
+        8,
+        808985,
+        809585
+      ],
+      [
+        9,
+        809585,
+        812390
+      ]
+    ]
+  }
+}

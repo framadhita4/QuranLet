@@ -1,0 +1,73 @@
+{
+  "id": 5560,
+  "chapter_id": 75,
+  "verse_key": "75:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 10117,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_009_001.mp3",
+      "text": "وَجُمِعَ",
+      "translation": "dan dikumpulkan",
+      "transliteration": "wajumiʿa"
+    },
+    {
+      "id": 10118,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_009_002.mp3",
+      "text": "ٱلشَّمْسُ",
+      "translation": "matahari",
+      "transliteration": "l-shamsu"
+    },
+    {
+      "id": 10119,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_009_003.mp3",
+      "text": "وَٱلْقَمَرُ",
+      "translation": "dan bulan",
+      "transliteration": "wal-qamaru"
+    },
+    {
+      "id": 10120,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan matahari dan bulan dikumpulkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 43200,
+    "timestamp_to": 46330,
+    "duration": 3140,
+    "segments": [
+      [
+        1,
+        43145,
+        43985
+      ],
+      [
+        2,
+        43985,
+        44885
+      ],
+      [
+        3,
+        44885,
+        46220
+      ]
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": 400,
+  "chapter_id": 3,
+  "verse_key": "3:107",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "ruku_number": 52,
+  "manzil_number": 1,
+  "page_number": 63,
+  "juz_number": 4,
+  "text_uthmani": "وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَـٰلِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 73195,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_001.mp3",
+      "text": "وَأَمَّا",
+      "translation": "dan adapun",
+      "transliteration": "wa-ammā"
+    },
+    {
+      "id": 73196,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 73197,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_003.mp3",
+      "text": "ٱبْيَضَّتْ",
+      "translation": "menjadi putih (berseri)",
+      "transliteration": "ib'yaḍḍat"
+    },
+    {
+      "id": 73198,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_004.mp3",
+      "text": "وُجُوهُهُمْ",
+      "translation": "wajah-wajah mereka",
+      "transliteration": "wujūhuhum"
+    },
+    {
+      "id": 73199,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_005.mp3",
+      "text": "فَفِى",
+      "translation": "maka (berada)",
+      "transliteration": "fafī"
+    },
+    {
+      "id": 73200,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_006.mp3",
+      "text": "رَحْمَةِ",
+      "translation": "rahmat",
+      "transliteration": "raḥmati"
+    },
+    {
+      "id": 73201,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_007.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 73202,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_008.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 73203,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_009.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 73204,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_107_010.mp3",
+      "text": "خَـٰلِدُونَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidūna"
+    },
+    {
+      "id": 73205,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٠٧",
+      "translation": "(107)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang-orang yang putih berseri mukanya, maka mereka berada dalam rahmat Allah (surga); mereka kekal di dalamnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2470610,
+    "timestamp_to": 2488090,
+    "duration": 17480,
+    "segments": [
+      [
+        1,
+        2470555,
+        2472135
+      ],
+      [
+        2,
+        2472135,
+        2473265
+      ],
+      [
+        3,
+        2473265,
+        2474455
+      ],
+      [
+        4,
+        2474455,
+        2475805
+      ],
+      [
+        5,
+        2475805,
+        2476545
+      ],
+      [
+        6,
+        2476545,
+        2477465
+      ],
+      [
+        7,
+        2477465,
+        2479825
+      ],
+      [
+        5,
+        2479825,
+        2481035
+      ],
+      [
+        6,
+        2481035,
+        2481995
+      ],
+      [
+        7,
+        2481995,
+        2482925
+      ],
+      [
+        8,
+        2482925,
+        2483335
+      ],
+      [
+        9,
+        2483335,
+        2484225
+      ],
+      [
+        10,
+        2484225,
+        2487980
+      ]
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "id": 496,
+  "chapter_id": 4,
+  "verse_key": "4:3",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "ruku_number": 62,
+  "manzil_number": 1,
+  "page_number": 77,
+  "juz_number": 4,
+  "text_uthmani": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 2759,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_001.mp3",
+      "text": "وَإِنْ",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 2760,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_002.mp3",
+      "text": "خِفْتُمْ",
+      "translation": "kamu takut",
+      "transliteration": "khif'tum"
+    },
+    {
+      "id": 2761,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_003.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 2762,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_004.mp3",
+      "text": "تُقْسِطُوا۟",
+      "translation": "kamu berlaku adil",
+      "transliteration": "tuq'siṭū"
+    },
+    {
+      "id": 2763,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_005.mp3",
+      "text": "فِى",
+      "translation": "dalam/terhadap",
+      "transliteration": "fī"
+    },
+    {
+      "id": 2764,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_006.mp3",
+      "text": "ٱلْيَتَـٰمَىٰ",
+      "translation": "anak-anak yatim",
+      "transliteration": "l-yatāmā"
+    },
+    {
+      "id": 2765,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_007.mp3",
+      "text": "فَٱنكِحُوا۟",
+      "translation": "maka nikahilah",
+      "transliteration": "fa-inkiḥū"
+    },
+    {
+      "id": 2766,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_008.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2767,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_009.mp3",
+      "text": "طَابَ",
+      "translation": "baik/senangi",
+      "transliteration": "ṭāba"
+    },
+    {
+      "id": 2768,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_010.mp3",
+      "text": "لَكُم",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 2769,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_011.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 2770,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_012.mp3",
+      "text": "ٱلنِّسَآءِ",
+      "translation": "perempuan-perempuan",
+      "transliteration": "l-nisāi"
+    },
+    {
+      "id": 2771,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_013.mp3",
+      "text": "مَثْنَىٰ",
+      "translation": "berdua",
+      "transliteration": "mathnā"
+    },
+    {
+      "id": 2772,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_014.mp3",
+      "text": "وَثُلَـٰثَ",
+      "translation": "dan bertiga",
+      "transliteration": "wathulātha"
+    },
+    {
+      "id": 2773,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_015.mp3",
+      "text": "وَرُبَـٰعَ ۖ",
+      "translation": "dan berempat",
+      "transliteration": "warubāʿa"
+    },
+    {
+      "id": 2775,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_017.mp3",
+      "text": "فَإِنْ",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 2776,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_018.mp3",
+      "text": "خِفْتُمْ",
+      "translation": "kamu takut",
+      "transliteration": "khif'tum"
+    },
+    {
+      "id": 2777,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_019.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 2778,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_020.mp3",
+      "text": "تَعْدِلُوا۟",
+      "translation": "kamu berlaku adil",
+      "transliteration": "taʿdilū"
+    },
+    {
+      "id": 2779,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_021.mp3",
+      "text": "فَوَٰحِدَةً",
+      "translation": "maka satu saja",
+      "transliteration": "fawāḥidatan"
+    },
+    {
+      "id": 2780,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_022.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 2781,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_023.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2782,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_024.mp3",
+      "text": "مَلَكَتْ",
+      "translation": "kamu miliki",
+      "transliteration": "malakat"
+    },
+    {
+      "id": 2783,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_025.mp3",
+      "text": "أَيْمَـٰنُكُمْ ۚ",
+      "translation": "tangan kananmu/budakmu",
+      "transliteration": "aymānukum"
+    },
+    {
+      "id": 2785,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_027.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 2786,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_028.mp3",
+      "text": "أَدْنَىٰٓ",
+      "translation": "lebih dekat",
+      "transliteration": "adnā"
+    },
+    {
+      "id": 2787,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_029.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 2788,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_003_030.mp3",
+      "text": "تَعُولُوا۟",
+      "translation": "kamu berbuat aniaya",
+      "transliteration": "taʿūlū"
+    },
+    {
+      "id": 2789,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika kamu takut tidak akan dapat berlaku adil terhadap (hak-hak) perempuan yang yatim (bilamana kamu mengawininya), maka kawinilah wanita-wanita (lain) yang kamu senangi: dua, tiga atau empat.  Kemudian jika kamu takut tidak akan dapat berlaku adil<sup foot_note_id=\"266\">1</sup>, maka (kawinilah) seorang saja, atau budak-budak yang kamu miliki.  Yang demikian itu adalah lebih dekat kepada tidak berbuat aniaya<sup foot_note_id=\"267\">2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 63660,
+    "timestamp_to": 102010,
+    "duration": 38350,
+    "segments": [
+      [
+        1,
+        63605,
+        64285
+      ],
+      [
+        2,
+        64285,
+        65195
+      ],
+      [
+        3,
+        65195,
+        65955
+      ],
+      [
+        4,
+        65955,
+        67035
+      ],
+      [
+        5,
+        67035,
+        67255
+      ],
+      [
+        6,
+        67255,
+        68435
+      ],
+      [
+        7,
+        68435,
+        70255
+      ],
+      [
+        8,
+        70255,
+        70515
+      ],
+      [
+        9,
+        70515,
+        71355
+      ],
+      [
+        10,
+        71355,
+        71765
+      ],
+      [
+        11,
+        71765,
+        72625
+      ],
+      [
+        12,
+        72625,
+        76215
+      ],
+      [
+        7,
+        76215,
+        77855
+      ],
+      [
+        8,
+        77855,
+        78125
+      ],
+      [
+        9,
+        78125,
+        79015
+      ],
+      [
+        10,
+        79015,
+        80085
+      ],
+      [
+        11,
+        80085,
+        80625
+      ],
+      [
+        12,
+        80625,
+        83645
+      ],
+      [
+        13,
+        83645,
+        84465
+      ],
+      [
+        14,
+        84465,
+        85545
+      ],
+      [
+        15,
+        85545,
+        88005
+      ],
+      [
+        16,
+        88005,
+        88595
+      ],
+      [
+        17,
+        88595,
+        89455
+      ],
+      [
+        18,
+        89455,
+        90255
+      ],
+      [
+        19,
+        90255,
+        91335
+      ],
+      [
+        20,
+        91335,
+        92815
+      ],
+      [
+        21,
+        92815,
+        93235
+      ],
+      [
+        22,
+        93235,
+        93675
+      ],
+      [
+        23,
+        93675,
+        94525
+      ],
+      [
+        24,
+        94525,
+        96385
+      ],
+      [
+        25,
+        96385,
+        97265
+      ],
+      [
+        26,
+        97265,
+        99475
+      ],
+      [
+        27,
+        99475,
+        100215
+      ],
+      [
+        28,
+        100215,
+        101600
+      ]
+    ]
+  }
+}

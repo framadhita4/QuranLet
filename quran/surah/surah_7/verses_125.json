@@ -1,0 +1,99 @@
+{
+  "id": 1079,
+  "chapter_id": 7,
+  "verse_key": "7:125",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 165,
+  "juz_number": 9,
+  "text_uthmani": "قَالُوٓا۟ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 77271,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_125_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 77272,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_125_002.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 77273,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_125_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 77274,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_125_004.mp3",
+      "text": "رَبِّنَا",
+      "translation": "Tuhan kami",
+      "transliteration": "rabbinā"
+    },
+    {
+      "id": 77275,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_125_005.mp3",
+      "text": "مُنقَلِبُونَ",
+      "translation": "dikembalikan",
+      "transliteration": "munqalibūna"
+    },
+    {
+      "id": 77276,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٢٥",
+      "translation": "(125)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ahli-ahli sihir itu menjawab, \"Sesungguhnya kepada Tuhan-lah kami kembali.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2703090,
+    "timestamp_to": 2715340,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        2703045,
+        2705635
+      ],
+      [
+        2,
+        2705635,
+        2709145
+      ],
+      [
+        3,
+        2709145,
+        2709755
+      ],
+      [
+        4,
+        2709755,
+        2710885
+      ],
+      [
+        5,
+        2710885,
+        2715260
+      ]
+    ]
+  }
+}

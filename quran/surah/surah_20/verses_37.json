@@ -1,0 +1,99 @@
+{
+  "id": 2385,
+  "chapter_id": 20,
+  "verse_key": "20:37",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 38799,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_037_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 38800,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_037_002.mp3",
+      "text": "مَنَنَّا",
+      "translation": "Kami telah beri ni'mat",
+      "transliteration": "manannā"
+    },
+    {
+      "id": 38801,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_037_003.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu/kepadamu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 38802,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_037_004.mp3",
+      "text": "مَرَّةً",
+      "translation": "kali",
+      "transliteration": "marratan"
+    },
+    {
+      "id": 38803,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_037_005.mp3",
+      "text": "أُخْرَىٰٓ",
+      "translation": "yang lain",
+      "transliteration": "ukh'rā"
+    },
+    {
+      "id": 38804,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Kami telah memberi nikmat kepadamu pada kali yang lain,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 262940,
+    "timestamp_to": 269080,
+    "duration": 6140,
+    "segments": [
+      [
+        1,
+        262595,
+        263505
+      ],
+      [
+        2,
+        263505,
+        265365
+      ],
+      [
+        3,
+        265365,
+        266335
+      ],
+      [
+        4,
+        266335,
+        267465
+      ],
+      [
+        5,
+        267465,
+        268710
+      ]
+    ]
+  }
+}

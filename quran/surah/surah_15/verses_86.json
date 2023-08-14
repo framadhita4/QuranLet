@@ -1,0 +1,99 @@
+{
+  "id": 1888,
+  "chapter_id": 15,
+  "verse_key": "15:86",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "إِنَّ رَبَّكَ هُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 66681,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_086_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 66682,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_086_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 66683,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_086_003.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 66684,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_086_004.mp3",
+      "text": "ٱلْخَلَّـٰقُ",
+      "translation": "Maha Pencipta",
+      "transliteration": "l-khalāqu"
+    },
+    {
+      "id": 66685,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_086_005.mp3",
+      "text": "ٱلْعَلِيمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-ʿalīmu"
+    },
+    {
+      "id": 66686,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu, Dia-lah Yang Maha Pencipta lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 829810,
+    "timestamp_to": 836420,
+    "duration": 6610,
+    "segments": [
+      [
+        1,
+        829485,
+        830755
+      ],
+      [
+        2,
+        830755,
+        831745
+      ],
+      [
+        3,
+        831745,
+        832075
+      ],
+      [
+        4,
+        832075,
+        833485
+      ],
+      [
+        5,
+        833485,
+        836070
+      ]
+    ]
+  }
+}

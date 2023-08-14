@@ -1,0 +1,86 @@
+{
+  "id": 5360,
+  "chapter_id": 69,
+  "verse_key": "69:37",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 38955,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 38956,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_002.mp3",
+      "text": "يَأْكُلُهُۥٓ",
+      "translation": "yang memakannya",
+      "transliteration": "yakuluhu"
+    },
+    {
+      "id": 38957,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 38958,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_004.mp3",
+      "text": "ٱلْخَـٰطِـُٔونَ",
+      "translation": "orang-orang yang bersalah/berdosa",
+      "transliteration": "l-khāṭiūna"
+    },
+    {
+      "id": 38959,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada yang memakannya kecuali orang-orang yang berdosa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 282680,
+    "timestamp_to": 290390,
+    "duration": 7710,
+    "segments": [
+      [
+        1,
+        282625,
+        283105
+      ],
+      [
+        2,
+        283105,
+        285565
+      ],
+      [
+        3,
+        285565,
+        286285
+      ],
+      [
+        4,
+        286285,
+        290250
+      ]
+    ]
+  }
+}

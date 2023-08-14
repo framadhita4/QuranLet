@@ -1,0 +1,138 @@
+{
+  "id": 2474,
+  "chapter_id": 20,
+  "verse_key": "20:126",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 276,
+  "manzil_number": 4,
+  "page_number": 321,
+  "juz_number": 16,
+  "text_uthmani": "قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَـٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 77323,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 77324,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 77325,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_003.mp3",
+      "text": "أَتَتْكَ",
+      "translation": "telah datang kepadamu",
+      "transliteration": "atatka"
+    },
+    {
+      "id": 77326,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_004.mp3",
+      "text": "ءَايَـٰتُنَا",
+      "translation": "ayat-ayat Kami",
+      "transliteration": "āyātunā"
+    },
+    {
+      "id": 77327,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_005.mp3",
+      "text": "فَنَسِيتَهَا ۖ",
+      "translation": "maka kamu melupakannya",
+      "transliteration": "fanasītahā"
+    },
+    {
+      "id": 77329,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_007.mp3",
+      "text": "وَكَذَٰلِكَ",
+      "translation": "dan demikian",
+      "transliteration": "wakadhālika"
+    },
+    {
+      "id": 77330,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_008.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 77331,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_126_009.mp3",
+      "text": "تُنسَىٰ",
+      "translation": "kamu dilupakan",
+      "transliteration": "tunsā"
+    },
+    {
+      "id": 77332,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٢٦",
+      "translation": "(126)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Demikianlah, telah datang kepadamu ayat-ayat Kami, maka kamu melupakannya dan begitu (pula) pada hari ini kamu pun dilupakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1461000,
+    "timestamp_to": 1470930,
+    "duration": 9930,
+    "segments": [
+      [
+        1,
+        1460975,
+        1461675
+      ],
+      [
+        2,
+        1461675,
+        1462715
+      ],
+      [
+        3,
+        1462715,
+        1463575
+      ],
+      [
+        4,
+        1463575,
+        1465055
+      ],
+      [
+        5,
+        1465055,
+        1466735
+      ],
+      [
+        6,
+        1466735,
+        1467985
+      ],
+      [
+        7,
+        1467985,
+        1468745
+      ],
+      [
+        8,
+        1468745,
+        1470530
+      ]
+    ]
+  }
+}

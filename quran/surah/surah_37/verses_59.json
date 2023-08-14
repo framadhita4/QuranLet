@@ -1,0 +1,112 @@
+{
+  "id": 3847,
+  "chapter_id": 37,
+  "verse_key": "37:59",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 54142,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_059_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 54143,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_059_002.mp3",
+      "text": "مَوْتَتَنَا",
+      "translation": "kematian kita/kami",
+      "transliteration": "mawtatanā"
+    },
+    {
+      "id": 54144,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_059_003.mp3",
+      "text": "ٱلْأُولَىٰ",
+      "translation": "pertama",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 54145,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_059_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 54146,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_059_005.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami/kita",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 54147,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_059_006.mp3",
+      "text": "بِمُعَذَّبِينَ",
+      "translation": "dengan orang yang disiksa",
+      "transliteration": "bimuʿadhabīna"
+    },
+    {
+      "id": 54148,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "melainkan hanya kematian kita yang pertama saja (di dunia) dan kita tidak akan disiksa (di akhirat ini)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 495240,
+    "timestamp_to": 503230,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        495185,
+        496055
+      ],
+      [
+        2,
+        496055,
+        497055
+      ],
+      [
+        3,
+        497055,
+        498105
+      ],
+      [
+        4,
+        498105,
+        498745
+      ],
+      [
+        5,
+        498745,
+        499405
+      ],
+      [
+        6,
+        499405,
+        503140
+      ]
+    ]
+  }
+}

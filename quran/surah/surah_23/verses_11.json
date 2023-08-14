@@ -1,0 +1,112 @@
+{
+  "id": 2684,
+  "chapter_id": 23,
+  "verse_key": "23:11",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 12558,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_011_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 12559,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_011_002.mp3",
+      "text": "يَرِثُونَ",
+      "translation": "(mereka) akan mewarisi",
+      "transliteration": "yarithūna"
+    },
+    {
+      "id": 12560,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_011_003.mp3",
+      "text": "ٱلْفِرْدَوْسَ",
+      "translation": "surga Firdaus",
+      "transliteration": "l-fir'dawsa"
+    },
+    {
+      "id": 12561,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_011_004.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 12562,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_011_005.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 12563,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_011_006.mp3",
+      "text": "خَـٰلِدُونَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidūna"
+    },
+    {
+      "id": 12564,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yakni) yang akan mewarisi Surga Firdaus.  Mereka kekal di dalamnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 87240,
+    "timestamp_to": 96490,
+    "duration": 9250,
+    "segments": [
+      [
+        1,
+        87195,
+        88435
+      ],
+      [
+        2,
+        88435,
+        89445
+      ],
+      [
+        3,
+        89445,
+        90785
+      ],
+      [
+        4,
+        90785,
+        91125
+      ],
+      [
+        5,
+        91125,
+        91965
+      ],
+      [
+        6,
+        91965,
+        96410
+      ]
+    ]
+  }
+}

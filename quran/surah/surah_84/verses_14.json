@@ -1,0 +1,99 @@
+{
+  "id": 5898,
+  "chapter_id": 84,
+  "verse_key": "84:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 16437,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_014_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 16438,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_014_002.mp3",
+      "text": "ظَنَّ",
+      "translation": "dia menyangka",
+      "transliteration": "ẓanna"
+    },
+    {
+      "id": 16439,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_014_003.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 16440,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_014_004.mp3",
+      "text": "لَّن",
+      "translation": "tidak",
+      "transliteration": "lan"
+    },
+    {
+      "id": 16441,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_014_005.mp3",
+      "text": "يَحُورَ",
+      "translation": "dia akan kembali",
+      "transliteration": "yaḥūra"
+    },
+    {
+      "id": 16442,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia yakin bahwa dia sekali-kali tidak akan kembali (kepada Tuhan-nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72900,
+    "timestamp_to": 80840,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        72845,
+        74385
+      ],
+      [
+        2,
+        74385,
+        75975
+      ],
+      [
+        3,
+        75975,
+        76305
+      ],
+      [
+        4,
+        76305,
+        76745
+      ],
+      [
+        5,
+        76745,
+        80760
+      ]
+    ]
+  }
+}

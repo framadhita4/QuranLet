@@ -1,0 +1,112 @@
+{
+  "id": 1860,
+  "chapter_id": 15,
+  "verse_key": "15:58",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 53566,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_058_001.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 53567,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_058_002.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 53568,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_058_003.mp3",
+      "text": "أُرْسِلْنَآ",
+      "translation": "kami diutus",
+      "transliteration": "ur'sil'nā"
+    },
+    {
+      "id": 53569,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_058_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 53570,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_058_005.mp3",
+      "text": "قَوْمٍۢ",
+      "translation": "kaum",
+      "transliteration": "qawmin"
+    },
+    {
+      "id": 53571,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_058_006.mp3",
+      "text": "مُّجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "muj'rimīna"
+    },
+    {
+      "id": 53572,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Kami sesungguhnya diutus kepada kaum yang berdosa,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 566880,
+    "timestamp_to": 578610,
+    "duration": 11730,
+    "segments": [
+      [
+        1,
+        566815,
+        568745
+      ],
+      [
+        2,
+        568745,
+        571274
+      ],
+      [
+        3,
+        571275,
+        573155
+      ],
+      [
+        4,
+        573155,
+        574295
+      ],
+      [
+        5,
+        574295,
+        575075
+      ],
+      [
+        6,
+        575075,
+        578500
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6039,
+  "chapter_id": 90,
+  "verse_key": "90:16",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 18740,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_016_001.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 18741,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_016_002.mp3",
+      "text": "مِسْكِينًۭا",
+      "translation": "orang miskin",
+      "transliteration": "mis'kīnan"
+    },
+    {
+      "id": 18742,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_016_003.mp3",
+      "text": "ذَا",
+      "translation": "mempunyai",
+      "transliteration": "dhā"
+    },
+    {
+      "id": 18743,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_016_004.mp3",
+      "text": "مَتْرَبَةٍۢ",
+      "translation": "sangat payah/melarat",
+      "transliteration": "matrabatin"
+    },
+    {
+      "id": 18744,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "atau kepada orang miskin yang sangat fakir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 72930,
+    "timestamp_to": 77480,
+    "duration": 4550,
+    "segments": [
+      [
+        1,
+        72865,
+        73315
+      ],
+      [
+        2,
+        73315,
+        75365
+      ],
+      [
+        3,
+        75365,
+        75825
+      ],
+      [
+        4,
+        75825,
+        77340
+      ]
+    ]
+  }
+}

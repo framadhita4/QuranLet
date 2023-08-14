@@ -1,0 +1,177 @@
+{
+  "id": 5191,
+  "chapter_id": 63,
+  "verse_key": "63:3",
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "ruku_number": 490,
+  "manzil_number": 7,
+  "page_number": 554,
+  "juz_number": 28,
+  "text_uthmani": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/63.mp3",
+  "words": [
+    {
+      "id": 2426,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 2427,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_002.mp3",
+      "text": "بِأَنَّهُمْ",
+      "translation": "karena sesungguhnya mereka",
+      "transliteration": "bi-annahum"
+    },
+    {
+      "id": 2428,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "mereka beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 2429,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_004.mp3",
+      "text": "ثُمَّ",
+      "translation": "kamudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 2430,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_005.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 2431,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_006.mp3",
+      "text": "فَطُبِعَ",
+      "translation": "lalu dikunci mati",
+      "transliteration": "faṭubiʿa"
+    },
+    {
+      "id": 2432,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_007.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 2433,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_008.mp3",
+      "text": "قُلُوبِهِمْ",
+      "translation": "hati-hati mereka",
+      "transliteration": "qulūbihim"
+    },
+    {
+      "id": 2434,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_009.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 2435,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 2436,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/063_003_011.mp3",
+      "text": "يَفْقَهُونَ",
+      "translation": "mengerti",
+      "transliteration": "yafqahūna"
+    },
+    {
+      "id": 2437,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang demikian itu adalah karena bahwa sesungguhnya mereka telah beriman, kemudian menjadi kafir (lagi) lalu hati mereka dikunci mati; karena itu mereka tidak dapat mengerti.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 42970,
+    "timestamp_to": 56270,
+    "duration": 13300,
+    "segments": [
+      [
+        1,
+        42895,
+        43785
+      ],
+      [
+        2,
+        43785,
+        45885
+      ],
+      [
+        3,
+        45885,
+        46945
+      ],
+      [
+        4,
+        46945,
+        48275
+      ],
+      [
+        5,
+        48275,
+        49055
+      ],
+      [
+        6,
+        49055,
+        49955
+      ],
+      [
+        7,
+        49955,
+        50525
+      ],
+      [
+        8,
+        50525,
+        51825
+      ],
+      [
+        9,
+        51825,
+        52445
+      ],
+      [
+        10,
+        52445,
+        52895
+      ],
+      [
+        11,
+        52895,
+        56090
+      ]
+    ]
+  }
+}

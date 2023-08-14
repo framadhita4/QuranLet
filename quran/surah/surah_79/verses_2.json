@@ -1,0 +1,60 @@
+{
+  "id": 5714,
+  "chapter_id": 79,
+  "verse_key": "79:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلنَّـٰشِطَـٰتِ نَشْطًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 1695,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_002_001.mp3",
+      "text": "وَٱلنَّـٰشِطَـٰتِ",
+      "translation": "dan yang mencabut",
+      "transliteration": "wal-nāshiṭāti"
+    },
+    {
+      "id": 1696,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_002_002.mp3",
+      "text": "نَشْطًۭا",
+      "translation": "perlahan-lahan",
+      "transliteration": "nashṭan"
+    },
+    {
+      "id": 1697,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang mencabut (nyawa) dengan lemah-lembut,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 4570,
+    "timestamp_to": 8960,
+    "duration": 4390,
+    "segments": [
+      [
+        1,
+        4515,
+        7455
+      ],
+      [
+        2,
+        7455,
+        8820
+      ]
+    ]
+  }
+}

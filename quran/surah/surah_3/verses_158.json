@@ -1,0 +1,125 @@
+{
+  "id": 451,
+  "chapter_id": 3,
+  "verse_key": "3:158",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "ruku_number": 58,
+  "manzil_number": 1,
+  "page_number": 71,
+  "juz_number": 4,
+  "text_uthmani": "وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لَإِلَى ٱللَّهِ تُحْشَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 81607,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_001.mp3",
+      "text": "وَلَئِن",
+      "translation": "dan jika",
+      "transliteration": "wala-in"
+    },
+    {
+      "id": 81608,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_002.mp3",
+      "text": "مُّتُّمْ",
+      "translation": "kamu mati",
+      "transliteration": "muttum"
+    },
+    {
+      "id": 81609,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_003.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 81610,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_004.mp3",
+      "text": "قُتِلْتُمْ",
+      "translation": "kamu dibunuh",
+      "transliteration": "qutil'tum"
+    },
+    {
+      "id": 81611,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_005.mp3",
+      "text": "لَإِلَى",
+      "translation": "sungguh/tentulah kepada",
+      "transliteration": "la-ilā"
+    },
+    {
+      "id": 81612,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 81613,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_158_007.mp3",
+      "text": "تُحْشَرُونَ",
+      "translation": "dikumpulkan",
+      "transliteration": "tuḥ'sharūna"
+    },
+    {
+      "id": 81614,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٥٨",
+      "translation": "(158)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sungguh jika kamu meninggal atau gugur, tentulah kepada Allah saja kamu dikumpulkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3709330,
+    "timestamp_to": 3717400,
+    "duration": 8070,
+    "segments": [
+      [
+        1,
+        3709265,
+        3710145
+      ],
+      [
+        2,
+        3710145,
+        3711575
+      ],
+      [
+        3,
+        3711575,
+        3711995
+      ],
+      [
+        4,
+        3711995,
+        3713105
+      ],
+      [
+        5,
+        3713105,
+        3713685
+      ],
+      [
+        6,
+        3713685,
+        3714585
+      ],
+      [
+        7,
+        3714585,
+        3717310
+      ]
+    ]
+  }
+}

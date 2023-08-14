@@ -1,0 +1,73 @@
+{
+  "id": 5641,
+  "chapter_id": 77,
+  "verse_key": "77:19",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 21584,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_019_001.mp3",
+      "text": "وَيْلٌۭ",
+      "translation": "kecelakaan",
+      "transliteration": "waylun"
+    },
+    {
+      "id": 21585,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_019_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 21586,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_019_003.mp3",
+      "text": "لِّلْمُكَذِّبِينَ",
+      "translation": "bagi orang-orang yang mendustakan",
+      "transliteration": "lil'mukadhibīna"
+    },
+    {
+      "id": 21587,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65780,
+    "timestamp_to": 72050,
+    "duration": 6270,
+    "segments": [
+      [
+        1,
+        65725,
+        67125
+      ],
+      [
+        2,
+        67125,
+        68185
+      ],
+      [
+        3,
+        68185,
+        71810
+      ]
+    ]
+  }
+}

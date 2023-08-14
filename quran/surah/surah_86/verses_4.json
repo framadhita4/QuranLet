@@ -1,0 +1,112 @@
+{
+  "id": 5935,
+  "chapter_id": 86,
+  "verse_key": "86:4",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3",
+  "words": [
+    {
+      "id": 4239,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_004_001.mp3",
+      "text": "إِن",
+      "translation": "tidak",
+      "transliteration": "in"
+    },
+    {
+      "id": 4240,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_004_002.mp3",
+      "text": "كُلُّ",
+      "translation": "setiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 4241,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_004_003.mp3",
+      "text": "نَفْسٍۢ",
+      "translation": "jiwa/diri",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 4242,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_004_004.mp3",
+      "text": "لَّمَّا",
+      "translation": "melainkan",
+      "transliteration": "lammā"
+    },
+    {
+      "id": 4243,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_004_005.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 4244,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_004_006.mp3",
+      "text": "حَافِظٌۭ",
+      "translation": "penjaga",
+      "transliteration": "ḥāfiẓun"
+    },
+    {
+      "id": 4245,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tidak ada suatu jiwa pun (diri) melainkan ada penjaganya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14020,
+    "timestamp_to": 21020,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        13915,
+        14815
+      ],
+      [
+        2,
+        14815,
+        15645
+      ],
+      [
+        3,
+        15645,
+        16395
+      ],
+      [
+        4,
+        16395,
+        18265
+      ],
+      [
+        5,
+        18265,
+        19345
+      ],
+      [
+        6,
+        19345,
+        20790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5691,
+  "chapter_id": 78,
+  "verse_key": "78:19",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 21767,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_019_001.mp3",
+      "text": "وَفُتِحَتِ",
+      "translation": "dan dibukakan",
+      "transliteration": "wafutiḥati"
+    },
+    {
+      "id": 21768,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_019_002.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 21769,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_019_003.mp3",
+      "text": "فَكَانَتْ",
+      "translation": "maka jadilah ia",
+      "transliteration": "fakānat"
+    },
+    {
+      "id": 21770,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_019_004.mp3",
+      "text": "أَبْوَٰبًۭا",
+      "translation": "pintu-pintu",
+      "transliteration": "abwāban"
+    },
+    {
+      "id": 21771,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dibukalah langit, maka terdapatlah beberapa pintu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 96670,
+    "timestamp_to": 103830,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        96605,
+        97785
+      ],
+      [
+        2,
+        97785,
+        100395
+      ],
+      [
+        3,
+        100395,
+        101655
+      ],
+      [
+        4,
+        101655,
+        103660
+      ]
+    ]
+  }
+}

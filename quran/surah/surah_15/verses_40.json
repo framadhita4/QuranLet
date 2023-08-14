@@ -1,0 +1,86 @@
+{
+  "id": 1842,
+  "chapter_id": 15,
+  "verse_key": "15:40",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 41841,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_040_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 41842,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_040_002.mp3",
+      "text": "عِبَادَكَ",
+      "translation": "hamba-hambamu",
+      "transliteration": "ʿibādaka"
+    },
+    {
+      "id": 41843,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_040_003.mp3",
+      "text": "مِنْهُمُ",
+      "translation": "diantara mereka",
+      "transliteration": "min'humu"
+    },
+    {
+      "id": 41844,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_040_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "orang-orang yang ikhlas",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 41845,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali hamba-hamba Engkau yang mukhlis <sup foot_note_id=\"799\">1</sup> di antara mereka\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 401450,
+    "timestamp_to": 407170,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        401415,
+        402215
+      ],
+      [
+        2,
+        402215,
+        403285
+      ],
+      [
+        3,
+        403285,
+        404045
+      ],
+      [
+        4,
+        404045,
+        407080
+      ]
+    ]
+  }
+}

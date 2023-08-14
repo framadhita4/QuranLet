@@ -1,0 +1,151 @@
+{
+  "id": 3460,
+  "chapter_id": 30,
+  "verse_key": "30:51",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "ruku_number": 354,
+  "manzil_number": 5,
+  "page_number": 410,
+  "juz_number": 21,
+  "text_uthmani": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 49460,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_001.mp3",
+      "text": "وَلَئِنْ",
+      "translation": "dan sungguh jika",
+      "transliteration": "wala-in"
+    },
+    {
+      "id": 49461,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_002.mp3",
+      "text": "أَرْسَلْنَا",
+      "translation": "Kami mengirimkan",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 49462,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_003.mp3",
+      "text": "رِيحًۭا",
+      "translation": "angin",
+      "transliteration": "rīḥan"
+    },
+    {
+      "id": 49463,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_004.mp3",
+      "text": "فَرَأَوْهُ",
+      "translation": "maka mereka melihatnya",
+      "transliteration": "fara-awhu"
+    },
+    {
+      "id": 49464,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_005.mp3",
+      "text": "مُصْفَرًّۭا",
+      "translation": "menjadi kuning",
+      "transliteration": "muṣ'farran"
+    },
+    {
+      "id": 49465,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_006.mp3",
+      "text": "لَّظَلُّوا۟",
+      "translation": "niscaya mereka tetap",
+      "transliteration": "laẓallū"
+    },
+    {
+      "id": 49466,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_007.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 49467,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_008.mp3",
+      "text": "بَعْدِهِۦ",
+      "translation": "sesudahnya/itu",
+      "transliteration": "baʿdihi"
+    },
+    {
+      "id": 49468,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_051_009.mp3",
+      "text": "يَكْفُرُونَ",
+      "translation": "mereka ingkar",
+      "transliteration": "yakfurūna"
+    },
+    {
+      "id": 49469,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sungguh, jika Kami mengirimkan angin (kepada tumbuh-tumbuhan), lalu mereka melihat (tumbuh-tumbuhan itu) menjadi kuning (kering), benar-benar tetaplah mereka sesudah itu menjadi orang yang ingkar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 986420,
+    "timestamp_to": 999510,
+    "duration": 13090,
+    "segments": [
+      [
+        1,
+        986375,
+        987425
+      ],
+      [
+        2,
+        987425,
+        988655
+      ],
+      [
+        3,
+        988655,
+        990265
+      ],
+      [
+        4,
+        990265,
+        991505
+      ],
+      [
+        5,
+        991505,
+        992575
+      ],
+      [
+        6,
+        992575,
+        993775
+      ],
+      [
+        7,
+        993775,
+        994765
+      ],
+      [
+        8,
+        994765,
+        995925
+      ],
+      [
+        9,
+        995925,
+        999410
+      ]
+    ]
+  }
+}

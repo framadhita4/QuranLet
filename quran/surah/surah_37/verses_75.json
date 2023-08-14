@@ -1,0 +1,99 @@
+{
+  "id": 3863,
+  "chapter_id": 37,
+  "verse_key": "37:75",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "وَلَقَدْ نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 62050,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_075_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 62051,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_075_002.mp3",
+      "text": "نَادَىٰنَا",
+      "translation": "telah menyeru Kami",
+      "transliteration": "nādānā"
+    },
+    {
+      "id": 62052,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_075_003.mp3",
+      "text": "نُوحٌۭ",
+      "translation": "Nuh",
+      "transliteration": "nūḥun"
+    },
+    {
+      "id": 62053,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_075_004.mp3",
+      "text": "فَلَنِعْمَ",
+      "translation": "maka sebaik-baik",
+      "transliteration": "falaniʿ'ma"
+    },
+    {
+      "id": 62054,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_075_005.mp3",
+      "text": "ٱلْمُجِيبُونَ",
+      "translation": "yang memperkenankan",
+      "transliteration": "l-mujībūna"
+    },
+    {
+      "id": 62055,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Nūḥ telah menyeru Kami, maka sesungguhnya sebaik-baik yang memperkenankan (adalah Kami).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 630820,
+    "timestamp_to": 639540,
+    "duration": 8730,
+    "segments": [
+      [
+        1,
+        630755,
+        631685
+      ],
+      [
+        2,
+        631685,
+        632995
+      ],
+      [
+        3,
+        632995,
+        634635
+      ],
+      [
+        4,
+        634635,
+        635625
+      ],
+      [
+        5,
+        635625,
+        639430
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 3726,
+  "chapter_id": 36,
+  "verse_key": "36:21",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 24321,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_001.mp3",
+      "text": "ٱتَّبِعُوا۟",
+      "translation": "ikutilah",
+      "transliteration": "ittabiʿū"
+    },
+    {
+      "id": 24322,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_002.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 24323,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_003.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 24324,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_004.mp3",
+      "text": "يَسْـَٔلُكُمْ",
+      "translation": "ia minta kepadamu",
+      "transliteration": "yasalukum"
+    },
+    {
+      "id": 24325,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_005.mp3",
+      "text": "أَجْرًۭا",
+      "translation": "upah",
+      "transliteration": "ajran"
+    },
+    {
+      "id": 24326,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_006.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 24327,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_021_007.mp3",
+      "text": "مُّهْتَدُونَ",
+      "translation": "orang-orang yang mendapat petunjuk",
+      "transliteration": "muh'tadūna"
+    },
+    {
+      "id": 24328,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ikutilah orang yang tiada minta balasan kepadamu dan mereka adalah orang-orang yang mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 253650,
+    "timestamp_to": 263860,
+    "duration": 10210,
+    "segments": [
+      [
+        1,
+        253585,
+        254775
+      ],
+      [
+        2,
+        254775,
+        255055
+      ],
+      [
+        3,
+        255055,
+        255645
+      ],
+      [
+        4,
+        255645,
+        256845
+      ],
+      [
+        5,
+        256845,
+        258545
+      ],
+      [
+        6,
+        258545,
+        259015
+      ],
+      [
+        7,
+        259015,
+        263730
+      ]
+    ]
+  }
+}

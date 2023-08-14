@@ -1,0 +1,112 @@
+{
+  "id": 5879,
+  "chapter_id": 83,
+  "verse_key": "83:31",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3",
+  "words": [
+    {
+      "id": 33800,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_031_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 33801,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_031_002.mp3",
+      "text": "ٱنقَلَبُوٓا۟",
+      "translation": "(orang-orang berdosa) kembali",
+      "transliteration": "inqalabū"
+    },
+    {
+      "id": 33802,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_031_003.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 33803,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_031_004.mp3",
+      "text": "أَهْلِهِمُ",
+      "translation": "keluarganya/kaumnya",
+      "transliteration": "ahlihimu"
+    },
+    {
+      "id": 33804,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_031_005.mp3",
+      "text": "ٱنقَلَبُوا۟",
+      "translation": "mereka kembali",
+      "transliteration": "inqalabū"
+    },
+    {
+      "id": 33805,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_031_006.mp3",
+      "text": "فَكِهِينَ",
+      "translation": "riang gembira",
+      "transliteration": "fakihīna"
+    },
+    {
+      "id": 33806,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila orang-orang berdosa itu kembali kepada kaumnya, mereka kembali dengan gembira.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 227900,
+    "timestamp_to": 239290,
+    "duration": 11390,
+    "segments": [
+      [
+        1,
+        227815,
+        228425
+      ],
+      [
+        2,
+        228425,
+        231515
+      ],
+      [
+        3,
+        231515,
+        233475
+      ],
+      [
+        4,
+        233475,
+        234465
+      ],
+      [
+        5,
+        234465,
+        236135
+      ],
+      [
+        6,
+        236135,
+        239150
+      ]
+    ]
+  }
+}

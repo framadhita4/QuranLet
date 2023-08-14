@@ -1,0 +1,86 @@
+{
+  "id": 5776,
+  "chapter_id": 80,
+  "verse_key": "80:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3",
+  "words": [
+    {
+      "id": 20752,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_018_001.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 20753,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_018_002.mp3",
+      "text": "أَىِّ",
+      "translation": "apa",
+      "transliteration": "ayyi"
+    },
+    {
+      "id": 20754,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_018_003.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 20755,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_018_004.mp3",
+      "text": "خَلَقَهُۥ",
+      "translation": "Dia menciptakannya",
+      "transliteration": "khalaqahu"
+    },
+    {
+      "id": 20756,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dari apakah Allah menciptakannya?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 71400,
+    "timestamp_to": 74690,
+    "duration": 3290,
+    "segments": [
+      [
+        1,
+        71345,
+        71805
+      ],
+      [
+        2,
+        71805,
+        72415
+      ],
+      [
+        3,
+        72415,
+        73285
+      ],
+      [
+        4,
+        73285,
+        74570
+      ]
+    ]
+  }
+}

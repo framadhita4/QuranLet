@@ -1,0 +1,73 @@
+{
+  "id": 5908,
+  "chapter_id": 84,
+  "verse_key": "84:24",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 26816,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_024_001.mp3",
+      "text": "فَبَشِّرْهُم",
+      "translation": "maka beri kabar gembira mereka",
+      "transliteration": "fabashir'hum"
+    },
+    {
+      "id": 26817,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_024_002.mp3",
+      "text": "بِعَذَابٍ",
+      "translation": "dengan azab",
+      "transliteration": "biʿadhābin"
+    },
+    {
+      "id": 26818,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_024_003.mp3",
+      "text": "أَلِيمٍ",
+      "translation": "pedih",
+      "transliteration": "alīmin"
+    },
+    {
+      "id": 26819,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka beri kabar gembiralah mereka dengan azab yang pedih,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 126710,
+    "timestamp_to": 132800,
+    "duration": 6090,
+    "segments": [
+      [
+        1,
+        126685,
+        128775
+      ],
+      [
+        2,
+        128775,
+        129925
+      ],
+      [
+        3,
+        129925,
+        132750
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1984,
+  "chapter_id": 16,
+  "verse_key": "16:83",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "ruku_number": 234,
+  "manzil_number": 3,
+  "page_number": 276,
+  "juz_number": 14,
+  "text_uthmani": "يَعْرِفُونَ نِعْمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ ٱلْكَـٰفِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 65286,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_001.mp3",
+      "text": "يَعْرِفُونَ",
+      "translation": "mereka mengetahui",
+      "transliteration": "yaʿrifūna"
+    },
+    {
+      "id": 65287,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_002.mp3",
+      "text": "نِعْمَتَ",
+      "translation": "nikmat",
+      "transliteration": "niʿ'mata"
+    },
+    {
+      "id": 65288,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 65289,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_004.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 65290,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_005.mp3",
+      "text": "يُنكِرُونَهَا",
+      "translation": "mereka mengingkarinya",
+      "transliteration": "yunkirūnahā"
+    },
+    {
+      "id": 65291,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_006.mp3",
+      "text": "وَأَكْثَرُهُمُ",
+      "translation": "dan kebanyakan mereka",
+      "transliteration": "wa-aktharuhumu"
+    },
+    {
+      "id": 65292,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_083_007.mp3",
+      "text": "ٱلْكَـٰفِرُونَ",
+      "translation": "orang-orang yang kafir",
+      "transliteration": "l-kāfirūna"
+    },
+    {
+      "id": 65293,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka mengetahui nikmat Allah, kemudian mereka mengingkarinya dan kebanyakan mereka adalah orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1628450,
+    "timestamp_to": 1640020,
+    "duration": 11570,
+    "segments": [
+      [
+        1,
+        1628395,
+        1629965
+      ],
+      [
+        2,
+        1629965,
+        1630845
+      ],
+      [
+        3,
+        1630845,
+        1631785
+      ],
+      [
+        4,
+        1631785,
+        1632785
+      ],
+      [
+        5,
+        1632785,
+        1635195
+      ],
+      [
+        6,
+        1635195,
+        1636875
+      ],
+      [
+        7,
+        1636875,
+        1639900
+      ]
+    ]
+  }
+}

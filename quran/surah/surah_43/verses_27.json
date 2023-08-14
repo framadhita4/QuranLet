@@ -1,0 +1,99 @@
+{
+  "id": 4352,
+  "chapter_id": 43,
+  "verse_key": "43:27",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 428,
+  "manzil_number": 6,
+  "page_number": 491,
+  "juz_number": 25,
+  "text_uthmani": "إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 29559,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_027_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 29560,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_027_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 29561,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_027_003.mp3",
+      "text": "فَطَرَنِى",
+      "translation": "menciptakan aku",
+      "transliteration": "faṭaranī"
+    },
+    {
+      "id": 29562,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_027_004.mp3",
+      "text": "فَإِنَّهُۥ",
+      "translation": "maka sesungguhnya Dia",
+      "transliteration": "fa-innahu"
+    },
+    {
+      "id": 29563,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_027_005.mp3",
+      "text": "سَيَهْدِينِ",
+      "translation": "akan memberi petunjuk kepadaku",
+      "transliteration": "sayahdīni"
+    },
+    {
+      "id": 29564,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tetapi (aku menyembah) Tuhan Yang menjadikanku; karena sesungguhnya Dia akan memberi hidayah kepadaku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 377200,
+    "timestamp_to": 385060,
+    "duration": 7860,
+    "segments": [
+      [
+        1,
+        377175,
+        377705
+      ],
+      [
+        2,
+        377705,
+        378495
+      ],
+      [
+        3,
+        378495,
+        379525
+      ],
+      [
+        4,
+        379525,
+        381425
+      ],
+      [
+        5,
+        381425,
+        385010
+      ]
+    ]
+  }
+}

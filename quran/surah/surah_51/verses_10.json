@@ -1,0 +1,60 @@
+{
+  "id": 4685,
+  "chapter_id": 51,
+  "verse_key": "51:10",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "قُتِلَ ٱلْخَرَّٰصُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 11112,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_010_001.mp3",
+      "text": "قُتِلَ",
+      "translation": "dibunuh",
+      "transliteration": "qutila"
+    },
+    {
+      "id": 11113,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_010_002.mp3",
+      "text": "ٱلْخَرَّٰصُونَ",
+      "translation": "orang-orang yang banyak berdusta",
+      "transliteration": "l-kharāṣūna"
+    },
+    {
+      "id": 11114,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Terkutuklah orang-orang yang banyak berdusta,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 36850,
+    "timestamp_to": 41920,
+    "duration": 5070,
+    "segments": [
+      [
+        1,
+        36785,
+        37415
+      ],
+      [
+        2,
+        37415,
+        41790
+      ]
+    ]
+  }
+}

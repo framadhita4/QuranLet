@@ -1,0 +1,99 @@
+{
+  "id": 4757,
+  "chapter_id": 52,
+  "verse_key": "52:22",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 24664,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_022_001.mp3",
+      "text": "وَأَمْدَدْنَـٰهُم",
+      "translation": "dan Kami tambah mereka",
+      "transliteration": "wa-amdadnāhum"
+    },
+    {
+      "id": 24665,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_022_002.mp3",
+      "text": "بِفَـٰكِهَةٍۢ",
+      "translation": "dengan buah-buahan",
+      "transliteration": "bifākihatin"
+    },
+    {
+      "id": 24666,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_022_003.mp3",
+      "text": "وَلَحْمٍۢ",
+      "translation": "dan daging",
+      "transliteration": "walaḥmin"
+    },
+    {
+      "id": 24667,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_022_004.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 24668,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_022_005.mp3",
+      "text": "يَشْتَهُونَ",
+      "translation": "mereka ingini",
+      "transliteration": "yashtahūna"
+    },
+    {
+      "id": 24669,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami beri mereka tambahan dengan buah-buahan dan daging dari segala jenis yang mereka ingini.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 183440,
+    "timestamp_to": 194880,
+    "duration": 11440,
+    "segments": [
+      [
+        1,
+        183365,
+        185925
+      ],
+      [
+        2,
+        185925,
+        188245
+      ],
+      [
+        3,
+        188245,
+        189105
+      ],
+      [
+        4,
+        189105,
+        191415
+      ],
+      [
+        5,
+        191415,
+        194750
+      ]
+    ]
+  }
+}

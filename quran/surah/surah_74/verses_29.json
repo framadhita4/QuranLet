@@ -1,0 +1,60 @@
+{
+  "id": 5524,
+  "chapter_id": 74,
+  "verse_key": "74:29",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "لَوَّاحَةٌ لِّلْبَشَرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 31982,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_029_001.mp3",
+      "text": "لَوَّاحَةٌۭ",
+      "translation": "yang membakar",
+      "transliteration": "lawwāḥatun"
+    },
+    {
+      "id": 31983,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_029_002.mp3",
+      "text": "لِّلْبَشَرِ",
+      "translation": "bagi manusia",
+      "transliteration": "lil'bashari"
+    },
+    {
+      "id": 31984,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Neraka Saqar) adalah pembakar kulit manusia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 108320,
+    "timestamp_to": 111040,
+    "duration": 2720,
+    "segments": [
+      [
+        1,
+        108245,
+        109515
+      ],
+      [
+        2,
+        109515,
+        110910
+      ]
+    ]
+  }
+}

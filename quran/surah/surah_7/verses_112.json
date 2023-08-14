@@ -1,0 +1,86 @@
+{
+  "id": 1066,
+  "chapter_id": 7,
+  "verse_key": "7:112",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "يَأْتُوكَ بِكُلِّ سَـٰحِرٍ عَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 74699,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_112_001.mp3",
+      "text": "يَأْتُوكَ",
+      "translation": "mereka akan datang kepadamu",
+      "transliteration": "yatūka"
+    },
+    {
+      "id": 74700,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_112_002.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan seluruh",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 74701,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_112_003.mp3",
+      "text": "سَـٰحِرٍ",
+      "translation": "ahli sihir",
+      "transliteration": "sāḥirin"
+    },
+    {
+      "id": 74702,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_112_004.mp3",
+      "text": "عَلِيمٍۢ",
+      "translation": "yang pandai",
+      "transliteration": "ʿalīmin"
+    },
+    {
+      "id": 74703,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١٢",
+      "translation": "(112)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "supaya mereka membawa kepadamu semua ahli sihir yang pandai\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2540120,
+    "timestamp_to": 2546020,
+    "duration": 5900,
+    "segments": [
+      [
+        1,
+        2540065,
+        2541175
+      ],
+      [
+        2,
+        2541175,
+        2541995
+      ],
+      [
+        3,
+        2541995,
+        2543065
+      ],
+      [
+        4,
+        2543065,
+        2545910
+      ]
+    ]
+  }
+}

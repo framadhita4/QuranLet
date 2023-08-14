@@ -1,0 +1,138 @@
+{
+  "id": 2290,
+  "chapter_id": 19,
+  "verse_key": "19:40",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 308,
+  "juz_number": 16,
+  "text_uthmani": "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 41143,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 41144,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 41145,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_003.mp3",
+      "text": "نَرِثُ",
+      "translation": "Kami mewarisi",
+      "transliteration": "narithu"
+    },
+    {
+      "id": 41146,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_004.mp3",
+      "text": "ٱلْأَرْضَ",
+      "translation": "bumi",
+      "transliteration": "l-arḍa"
+    },
+    {
+      "id": 41147,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_005.mp3",
+      "text": "وَمَنْ",
+      "translation": "dan orang-orang",
+      "transliteration": "waman"
+    },
+    {
+      "id": 41148,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_006.mp3",
+      "text": "عَلَيْهَا",
+      "translation": "diatasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 41149,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_007.mp3",
+      "text": "وَإِلَيْنَا",
+      "translation": "dan kepada Kami",
+      "transliteration": "wa-ilaynā"
+    },
+    {
+      "id": 41150,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_040_008.mp3",
+      "text": "يُرْجَعُونَ",
+      "translation": "mereka dikembalikan",
+      "transliteration": "yur'jaʿūna"
+    },
+    {
+      "id": 41151,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami mewarisi bumi <sup foot_note_id=\"903\">1</sup> dan semua orang-orang yang ada di atasnya dan hanya kepada Kamilah mereka dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 531950,
+    "timestamp_to": 543050,
+    "duration": 11100,
+    "segments": [
+      [
+        1,
+        531905,
+        533465
+      ],
+      [
+        2,
+        533465,
+        534085
+      ],
+      [
+        3,
+        534085,
+        534775
+      ],
+      [
+        4,
+        534775,
+        535785
+      ],
+      [
+        5,
+        535785,
+        536235
+      ],
+      [
+        6,
+        536235,
+        537605
+      ],
+      [
+        7,
+        537605,
+        539135
+      ],
+      [
+        8,
+        539135,
+        542950
+      ]
+    ]
+  }
+}

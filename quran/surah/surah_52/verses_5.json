@@ -1,0 +1,60 @@
+{
+  "id": 4740,
+  "chapter_id": 52,
+  "verse_key": "52:5",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 4868,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_005_001.mp3",
+      "text": "وَٱلسَّقْفِ",
+      "translation": "dan atap",
+      "transliteration": "wal-saqfi"
+    },
+    {
+      "id": 4869,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_005_002.mp3",
+      "text": "ٱلْمَرْفُوعِ",
+      "translation": "ditinggikan",
+      "transliteration": "l-marfūʿi"
+    },
+    {
+      "id": 4870,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan atap yang ditinggikan (langit),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 19600,
+    "timestamp_to": 24280,
+    "duration": 4680,
+    "segments": [
+      [
+        1,
+        19175,
+        20295
+      ],
+      [
+        2,
+        20295,
+        23790
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4399,
+  "chapter_id": 43,
+  "verse_key": "43:74",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ ٱلْمُجْرِمِينَ فِى عَذَابِ جَهَنَّمَ خَـٰلِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 61375,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_074_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 61376,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_074_002.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 61377,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_074_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 61378,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_074_004.mp3",
+      "text": "عَذَابِ",
+      "translation": "azab",
+      "transliteration": "ʿadhābi"
+    },
+    {
+      "id": 61379,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_074_005.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 61380,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_074_006.mp3",
+      "text": "خَـٰلِدُونَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidūna"
+    },
+    {
+      "id": 61381,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang berdosa kekal di dalam azab neraka Jahanam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1035000,
+    "timestamp_to": 1044330,
+    "duration": 9330,
+    "segments": [
+      [
+        1,
+        1034965,
+        1036305
+      ],
+      [
+        2,
+        1036305,
+        1037785
+      ],
+      [
+        3,
+        1037785,
+        1038225
+      ],
+      [
+        4,
+        1038225,
+        1039105
+      ],
+      [
+        5,
+        1039105,
+        1041225
+      ],
+      [
+        6,
+        1041225,
+        1044240
+      ]
+    ]
+  }
+}

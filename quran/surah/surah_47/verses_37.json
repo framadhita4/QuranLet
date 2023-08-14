@@ -1,0 +1,112 @@
+{
+  "id": 4582,
+  "chapter_id": 47,
+  "verse_key": "47:37",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "ruku_number": 447,
+  "manzil_number": 6,
+  "page_number": 510,
+  "juz_number": 26,
+  "text_uthmani": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3",
+  "words": [
+    {
+      "id": 39292,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_037_001.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 39293,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_037_002.mp3",
+      "text": "يَسْـَٔلْكُمُوهَا",
+      "translation": "Dia meminta kepadamu",
+      "transliteration": "yasalkumūhā"
+    },
+    {
+      "id": 39294,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_037_003.mp3",
+      "text": "فَيُحْفِكُمْ",
+      "translation": "lalu Dia mendesakmu",
+      "transliteration": "fayuḥ'fikum"
+    },
+    {
+      "id": 39295,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_037_004.mp3",
+      "text": "تَبْخَلُوا۟",
+      "translation": "kamu akan kikir",
+      "transliteration": "tabkhalū"
+    },
+    {
+      "id": 39296,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_037_005.mp3",
+      "text": "وَيُخْرِجْ",
+      "translation": "dan Dia mengeluarkan/menampakkan",
+      "transliteration": "wayukh'rij"
+    },
+    {
+      "id": 39297,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_037_006.mp3",
+      "text": "أَضْغَـٰنَكُمْ",
+      "translation": "kedengkianmu/kebencianmu",
+      "transliteration": "aḍghānakum"
+    },
+    {
+      "id": 39298,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika Dia meminta harta kepadamu lalu mendesak kamu (supaya memberikan semuanya), niscaya kamu akan kikir dan Dia akan menampakkan kedengkianmu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 675050,
+    "timestamp_to": 684060,
+    "duration": 9010,
+    "segments": [
+      [
+        1,
+        674965,
+        676405
+      ],
+      [
+        2,
+        676405,
+        678285
+      ],
+      [
+        3,
+        678285,
+        679715
+      ],
+      [
+        4,
+        679715,
+        680855
+      ],
+      [
+        5,
+        680855,
+        681885
+      ],
+      [
+        6,
+        681885,
+        683930
+      ]
+    ]
+  }
+}

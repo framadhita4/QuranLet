@@ -1,0 +1,86 @@
+{
+  "id": 4924,
+  "chapter_id": 55,
+  "verse_key": "55:23",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 26447,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_023_001.mp3",
+      "text": "فَبِأَىِّ",
+      "translation": "maka yang mana",
+      "transliteration": "fabi-ayyi"
+    },
+    {
+      "id": 26448,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_023_002.mp3",
+      "text": "ءَالَآءِ",
+      "translation": "ni'mat",
+      "transliteration": "ālāi"
+    },
+    {
+      "id": 26449,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_023_003.mp3",
+      "text": "رَبِّكُمَا",
+      "translation": "Tuhanmu berdua",
+      "transliteration": "rabbikumā"
+    },
+    {
+      "id": 26450,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_023_004.mp3",
+      "text": "تُكَذِّبَانِ",
+      "translation": "kamu berdua mendustakan",
+      "transliteration": "tukadhibāni"
+    },
+    {
+      "id": 26451,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka nikmat Tuhan kamu yang manakah yang kamu dustakan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 162670,
+    "timestamp_to": 171290,
+    "duration": 8620,
+    "segments": [
+      [
+        1,
+        162585,
+        163675
+      ],
+      [
+        2,
+        163675,
+        166355
+      ],
+      [
+        3,
+        166355,
+        167635
+      ],
+      [
+        4,
+        167635,
+        171150
+      ]
+    ]
+  }
+}

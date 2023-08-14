@@ -1,0 +1,86 @@
+{
+  "id": 5751,
+  "chapter_id": 79,
+  "verse_key": "79:39",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 40439,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_039_001.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 40440,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_039_002.mp3",
+      "text": "ٱلْجَحِيمَ",
+      "translation": "neraka",
+      "transliteration": "l-jaḥīma"
+    },
+    {
+      "id": 40441,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_039_003.mp3",
+      "text": "هِىَ",
+      "translation": "ia/neraka",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 40442,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_039_004.mp3",
+      "text": "ٱلْمَأْوَىٰ",
+      "translation": "tempat tinggal",
+      "transliteration": "l-mawā"
+    },
+    {
+      "id": 40443,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka sesungguhnya nerakalah tempat tinggal(nya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 180990,
+    "timestamp_to": 185610,
+    "duration": 4620,
+    "segments": [
+      [
+        1,
+        180655,
+        182085
+      ],
+      [
+        2,
+        182085,
+        183255
+      ],
+      [
+        3,
+        183255,
+        183685
+      ],
+      [
+        4,
+        183685,
+        184810
+      ]
+    ]
+  }
+}

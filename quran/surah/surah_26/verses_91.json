@@ -1,0 +1,73 @@
+{
+  "id": 3023,
+  "chapter_id": 26,
+  "verse_key": "26:91",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 68480,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_091_001.mp3",
+      "text": "وَبُرِّزَتِ",
+      "translation": "dan diperlihatkan",
+      "transliteration": "waburrizati"
+    },
+    {
+      "id": 68481,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_091_002.mp3",
+      "text": "ٱلْجَحِيمُ",
+      "translation": "neraka Jahim",
+      "transliteration": "l-jaḥīmu"
+    },
+    {
+      "id": 68482,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_091_003.mp3",
+      "text": "لِلْغَاوِينَ",
+      "translation": "kepada orang-orang yang sesat",
+      "transliteration": "lil'ghāwīna"
+    },
+    {
+      "id": 68483,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩١",
+      "translation": "(91)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan diperlihatkan dengan jelas neraka Jahim kepada orang-orang yang sesat\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 862040,
+    "timestamp_to": 868100,
+    "duration": 6060,
+    "segments": [
+      [
+        1,
+        861985,
+        863275
+      ],
+      [
+        2,
+        863275,
+        864395
+      ],
+      [
+        3,
+        864395,
+        867990
+      ]
+    ]
+  }
+}

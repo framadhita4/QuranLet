@@ -1,0 +1,86 @@
+{
+  "id": 5427,
+  "chapter_id": 71,
+  "verse_key": "71:8",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3",
+  "words": [
+    {
+      "id": 9092,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_008_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 9093,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_008_002.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 9094,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_008_003.mp3",
+      "text": "دَعَوْتُهُمْ",
+      "translation": "aku telah menyeru mereka",
+      "transliteration": "daʿawtuhum"
+    },
+    {
+      "id": 9095,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_008_004.mp3",
+      "text": "جِهَارًۭا",
+      "translation": "terang-terangan",
+      "transliteration": "jihāran"
+    },
+    {
+      "id": 9096,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian sesungguhnya aku telah menyeru mereka (kepada iman) dengan cara terang-terangan<sup foot_note_id=\"1518\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 94060,
+    "timestamp_to": 99470,
+    "duration": 5410,
+    "segments": [
+      [
+        1,
+        93975,
+        95045
+      ],
+      [
+        2,
+        95045,
+        96535
+      ],
+      [
+        3,
+        96535,
+        97765
+      ],
+      [
+        4,
+        97765,
+        99330
+      ]
+    ]
+  }
+}

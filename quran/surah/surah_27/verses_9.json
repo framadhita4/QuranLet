@@ -1,0 +1,112 @@
+{
+  "id": 3168,
+  "chapter_id": 27,
+  "verse_key": "27:9",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "ruku_number": 327,
+  "manzil_number": 5,
+  "page_number": 377,
+  "juz_number": 19,
+  "text_uthmani": "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 10490,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_009_001.mp3",
+      "text": "يَـٰمُوسَىٰٓ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 10491,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_009_002.mp3",
+      "text": "إِنَّهُۥٓ",
+      "translation": "sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 10492,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_009_003.mp3",
+      "text": "أَنَا",
+      "translation": "Aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 10493,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_009_004.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 10494,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_009_005.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 10495,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_009_006.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 10496,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Hai Musa, sesungguhnya, Aku-lah Allah, Yang Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105250,
+    "timestamp_to": 116740,
+    "duration": 11490,
+    "segments": [
+      [
+        1,
+        105195,
+        107975
+      ],
+      [
+        2,
+        107975,
+        111165
+      ],
+      [
+        3,
+        111165,
+        111545
+      ],
+      [
+        4,
+        111545,
+        112465
+      ],
+      [
+        5,
+        112465,
+        113615
+      ],
+      [
+        6,
+        113615,
+        116660
+      ]
+    ]
+  }
+}

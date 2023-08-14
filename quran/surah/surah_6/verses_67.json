@@ -1,0 +1,99 @@
+{
+  "id": 856,
+  "chapter_id": 6,
+  "verse_key": "6:67",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "ruku_number": 109,
+  "manzil_number": 2,
+  "page_number": 135,
+  "juz_number": 7,
+  "text_uthmani": "لِّكُلِّ نَبَإٍ مُّسْتَقَرٌّ ۚ وَسَوْفَ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 58329,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_067_001.mp3",
+      "text": "لِّكُلِّ",
+      "translation": "untuk tiap-tiap",
+      "transliteration": "likulli"
+    },
+    {
+      "id": 58330,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_067_002.mp3",
+      "text": "نَبَإٍۢ",
+      "translation": "berita",
+      "transliteration": "naba-in"
+    },
+    {
+      "id": 58331,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_067_003.mp3",
+      "text": "مُّسْتَقَرٌّۭ ۚ",
+      "translation": "masa kepastiannya/terjadinya",
+      "transliteration": "mus'taqarrun"
+    },
+    {
+      "id": 58333,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_067_005.mp3",
+      "text": "وَسَوْفَ",
+      "translation": "dan kelak",
+      "transliteration": "wasawfa"
+    },
+    {
+      "id": 58334,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_067_006.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 58335,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦٧",
+      "translation": "(67)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Untuk setiap berita (yang dibawa oleh rasul-rasul) ada (waktu) terjadinya dan kelak kamu akan mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1516830,
+    "timestamp_to": 1525350,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        1516805,
+        1517785
+      ],
+      [
+        2,
+        1517785,
+        1518445
+      ],
+      [
+        3,
+        1518445,
+        1521385
+      ],
+      [
+        4,
+        1521385,
+        1522275
+      ],
+      [
+        5,
+        1522275,
+        1525250
+      ]
+    ]
+  }
+}

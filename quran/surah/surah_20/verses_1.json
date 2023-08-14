@@ -1,0 +1,47 @@
+{
+  "id": 2349,
+  "chapter_id": 20,
+  "verse_key": "20:1",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": " طه",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 220,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_001_001.mp3",
+      "text": "طه",
+      "translation": "Taahaa",
+      "transliteration": "tta-ha"
+    },
+    {
+      "id": 221,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ṭāha <sup foot_note_id=\"911\">1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 1720,
+    "duration": 1730,
+    "segments": [
+      [
+        1,
+        0,
+        1195
+      ]
+    ]
+  }
+}

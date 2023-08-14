@@ -1,0 +1,125 @@
+{
+  "id": 3885,
+  "chapter_id": 37,
+  "verse_key": "37:97",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 70571,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 70572,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_002.mp3",
+      "text": "ٱبْنُوا۟",
+      "translation": "bangunkanlah/dirikanlah",
+      "transliteration": "ib'nū"
+    },
+    {
+      "id": 70573,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_003.mp3",
+      "text": "لَهُۥ",
+      "translation": "untuknya (Ibrahim)",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 70574,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_004.mp3",
+      "text": "بُنْيَـٰنًۭا",
+      "translation": "suatu bangunan",
+      "transliteration": "bun'yānan"
+    },
+    {
+      "id": 70575,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_005.mp3",
+      "text": "فَأَلْقُوهُ",
+      "translation": "lalu lemparkan dia",
+      "transliteration": "fa-alqūhu"
+    },
+    {
+      "id": 70576,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_006.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 70577,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_097_007.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "api yang menyala",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 70578,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩٧",
+      "translation": "(97)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Dirikanlah suatu bangunan untuk (membakar) Ibrāhīm, lalu lemparkanlah dia ke dalam api yang menyala-nyala itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 784700,
+    "timestamp_to": 793110,
+    "duration": 8410,
+    "segments": [
+      [
+        1,
+        784645,
+        785355
+      ],
+      [
+        2,
+        785355,
+        785935
+      ],
+      [
+        3,
+        785935,
+        786565
+      ],
+      [
+        4,
+        786565,
+        788445
+      ],
+      [
+        5,
+        788445,
+        789745
+      ],
+      [
+        6,
+        789745,
+        789995
+      ],
+      [
+        7,
+        789995,
+        793000
+      ]
+    ]
+  }
+}

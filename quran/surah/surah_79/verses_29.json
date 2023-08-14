@@ -1,0 +1,86 @@
+{
+  "id": 5741,
+  "chapter_id": 79,
+  "verse_key": "79:29",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 523,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 32026,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_029_001.mp3",
+      "text": "وَأَغْطَشَ",
+      "translation": "dan Dia jadikan gelap",
+      "transliteration": "wa-aghṭasha"
+    },
+    {
+      "id": 32027,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_029_002.mp3",
+      "text": "لَيْلَهَا",
+      "translation": "malamnya",
+      "transliteration": "laylahā"
+    },
+    {
+      "id": 32028,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_029_003.mp3",
+      "text": "وَأَخْرَجَ",
+      "translation": "dan Dia keluarkan/jadikan",
+      "transliteration": "wa-akhraja"
+    },
+    {
+      "id": 32029,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_029_004.mp3",
+      "text": "ضُحَىٰهَا",
+      "translation": "paginya/siangnya",
+      "transliteration": "ḍuḥāhā"
+    },
+    {
+      "id": 32030,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Dia menjadikan malamnya gelap gulita, dan menjadikan siangnya terang benderang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 131120,
+    "timestamp_to": 135950,
+    "duration": 4830,
+    "segments": [
+      [
+        1,
+        130685,
+        131785
+      ],
+      [
+        2,
+        131785,
+        132845
+      ],
+      [
+        3,
+        132845,
+        133855
+      ],
+      [
+        4,
+        133855,
+        135130
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1765,
+  "chapter_id": 14,
+  "verse_key": "14:15",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "page_number": 257,
+  "juz_number": 13,
+  "text_uthmani": "وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 17843,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_001.mp3",
+      "text": "وَٱسْتَفْتَحُوا۟",
+      "translation": "dan mereka mohon kemenangan",
+      "transliteration": "wa-is'taftaḥū"
+    },
+    {
+      "id": 17844,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_002.mp3",
+      "text": "وَخَابَ",
+      "translation": "dan binasalah",
+      "transliteration": "wakhāba"
+    },
+    {
+      "id": 17845,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_003.mp3",
+      "text": "كُلُّ",
+      "translation": "semua",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 17846,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_004.mp3",
+      "text": "جَبَّارٍ",
+      "translation": "orang yang sewenang-wenang",
+      "transliteration": "jabbārin"
+    },
+    {
+      "id": 17847,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_005.mp3",
+      "text": "عَنِيدٍۢ",
+      "translation": "keras kepala",
+      "transliteration": "ʿanīdin"
+    },
+    {
+      "id": 17848,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka memohon kemenangan (atas musuh-musuh mereka) dan binasalah semua orang yang berlaku sewenang-wenang lagi keras kepala,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 384165,
+    "timestamp_to": 391122,
+    "duration": 7050,
+    "segments": [
+      [
+        1,
+        384925,
+        386625
+      ],
+      [
+        2,
+        386625,
+        387455
+      ],
+      [
+        3,
+        387455,
+        388205
+      ],
+      [
+        4,
+        388205,
+        389515
+      ],
+      [
+        5,
+        389515,
+        391930
+      ]
+    ]
+  }
+}

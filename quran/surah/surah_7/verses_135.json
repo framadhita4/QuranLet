@@ -1,0 +1,177 @@
+{
+  "id": 1089,
+  "chapter_id": 7,
+  "verse_key": "7:135",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 137,
+  "manzil_number": 2,
+  "page_number": 166,
+  "juz_number": 9,
+  "text_uthmani": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَـٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 78561,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka setelah",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 78562,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_002.mp3",
+      "text": "كَشَفْنَا",
+      "translation": "Kami hilangkan",
+      "transliteration": "kashafnā"
+    },
+    {
+      "id": 78563,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_003.mp3",
+      "text": "عَنْهُمُ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhumu"
+    },
+    {
+      "id": 78564,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_004.mp3",
+      "text": "ٱلرِّجْزَ",
+      "translation": "azab",
+      "transliteration": "l-rij'za"
+    },
+    {
+      "id": 78565,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_005.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "hingga",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 78566,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_006.mp3",
+      "text": "أَجَلٍ",
+      "translation": "waktu yang ditentukan",
+      "transliteration": "ajalin"
+    },
+    {
+      "id": 78567,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_007.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 78568,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_008.mp3",
+      "text": "بَـٰلِغُوهُ",
+      "translation": "sampai kepadanya",
+      "transliteration": "bālighūhu"
+    },
+    {
+      "id": 78569,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_009.mp3",
+      "text": "إِذَا",
+      "translation": "tiba-tiba",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 78570,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_010.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 78571,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_135_011.mp3",
+      "text": "يَنكُثُونَ",
+      "translation": "mereka ingkari",
+      "transliteration": "yankuthūna"
+    },
+    {
+      "id": 78572,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٣٥",
+      "translation": "(135)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka setelah Kami hilangkan azab itu dari mereka hingga batas waktu yang mereka sampai kepadanya, tiba-tiba mereka mengingkarinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2933750,
+    "timestamp_to": 2948980,
+    "duration": 15230,
+    "segments": [
+      [
+        1,
+        2932736,
+        2934626
+      ],
+      [
+        2,
+        2934626,
+        2935726
+      ],
+      [
+        3,
+        2935726,
+        2936556
+      ],
+      [
+        4,
+        2936556,
+        2937446
+      ],
+      [
+        5,
+        2937446,
+        2939346
+      ],
+      [
+        6,
+        2939346,
+        2940206
+      ],
+      [
+        7,
+        2940206,
+        2940666
+      ],
+      [
+        8,
+        2940666,
+        2942576
+      ],
+      [
+        9,
+        2942576,
+        2943236
+      ],
+      [
+        10,
+        2943236,
+        2943646
+      ],
+      [
+        11,
+        2943646,
+        2947911
+      ]
+    ]
+  }
+}

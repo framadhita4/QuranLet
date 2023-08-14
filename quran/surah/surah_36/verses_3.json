@@ -1,0 +1,73 @@
+{
+  "id": 3708,
+  "chapter_id": 36,
+  "verse_key": "36:3",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "page_number": 440,
+  "juz_number": 22,
+  "text_uthmani": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "words": [
+    {
+      "id": 3169,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_003_001.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 3170,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_003_002.mp3",
+      "text": "لَمِنَ",
+      "translation": "sungguh dari (salah seorang)",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 3171,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_003_003.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 3172,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu salah seorang dari rasul-rasul,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9450,
+    "timestamp_to": 15300,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        9395,
+        10945
+      ],
+      [
+        2,
+        10945,
+        11485
+      ],
+      [
+        3,
+        11485,
+        15190
+      ]
+    ]
+  }
+}

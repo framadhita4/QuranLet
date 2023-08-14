@@ -1,0 +1,86 @@
+{
+  "id": 5378,
+  "chapter_id": 70,
+  "verse_key": "70:3",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 2576,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_003_001.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 2577,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_003_002.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 2578,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_003_003.mp3",
+      "text": "ذِى",
+      "translation": "mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 2579,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_003_004.mp3",
+      "text": "ٱلْمَعَارِجِ",
+      "translation": "tempat-tempat naik",
+      "transliteration": "l-maʿāriji"
+    },
+    {
+      "id": 2580,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yang datang) dari Allah, Yang mempunyai tempat-tempat naik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11780,
+    "timestamp_to": 15250,
+    "duration": 3480,
+    "segments": [
+      [
+        1,
+        11705,
+        12105
+      ],
+      [
+        2,
+        12105,
+        13135
+      ],
+      [
+        3,
+        13135,
+        13325
+      ],
+      [
+        4,
+        13325,
+        14640
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 3980,
+  "chapter_id": 38,
+  "verse_key": "38:10",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 393,
+  "manzil_number": 6,
+  "page_number": 453,
+  "juz_number": 23,
+  "text_uthmani": "أَمْ لَهُم مُّلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَـٰبِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 12044,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 12045,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_002.mp3",
+      "text": "لَهُم",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 12046,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_003.mp3",
+      "text": "مُّلْكُ",
+      "translation": "kerajaan",
+      "transliteration": "mul'ku"
+    },
+    {
+      "id": 12047,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 12048,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_005.mp3",
+      "text": "وَٱلْأَرْضِ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 12049,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 12050,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_007.mp3",
+      "text": "بَيْنَهُمَا ۖ",
+      "translation": "diantara keduanya",
+      "transliteration": "baynahumā"
+    },
+    {
+      "id": 12052,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_009.mp3",
+      "text": "فَلْيَرْتَقُوا۟",
+      "translation": "maka hendaklah mereka menaiki",
+      "transliteration": "falyartaqū"
+    },
+    {
+      "id": 12053,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_010.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12054,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_010_011.mp3",
+      "text": "ٱلْأَسْبَـٰبِ",
+      "translation": "jalan/tangga-tangga",
+      "transliteration": "l-asbābi"
+    },
+    {
+      "id": 12055,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Atau apakah bagi mereka kerajaan langit dan bumi dan yang ada di antara keduanya? (Jika ada), maka hendaklah mereka menaiki tangga-tangga (ke langit).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 115680,
+    "timestamp_to": 127250,
+    "duration": 11570,
+    "segments": [
+      [
+        1,
+        115625,
+        116015
+      ],
+      [
+        2,
+        116015,
+        116505
+      ],
+      [
+        3,
+        116505,
+        117805
+      ],
+      [
+        4,
+        117805,
+        119295
+      ],
+      [
+        5,
+        119295,
+        120325
+      ],
+      [
+        6,
+        120325,
+        120945
+      ],
+      [
+        7,
+        120945,
+        122155
+      ],
+      [
+        8,
+        122155,
+        123625
+      ],
+      [
+        9,
+        123625,
+        123905
+      ],
+      [
+        10,
+        123905,
+        127160
+      ]
+    ]
+  }
+}

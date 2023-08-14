@@ -1,0 +1,86 @@
+{
+  "id": 3876,
+  "chapter_id": 37,
+  "verse_key": "37:88",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 67395,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_088_001.mp3",
+      "text": "فَنَظَرَ",
+      "translation": "maka dia memandang",
+      "transliteration": "fanaẓara"
+    },
+    {
+      "id": 67396,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_088_002.mp3",
+      "text": "نَظْرَةًۭ",
+      "translation": "pandangan",
+      "transliteration": "naẓratan"
+    },
+    {
+      "id": 67397,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_088_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 67398,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_088_004.mp3",
+      "text": "ٱلنُّجُومِ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-nujūmi"
+    },
+    {
+      "id": 67399,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٨٨",
+      "translation": "(88)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, ia memandang sekali pandang ke bintang-bintang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 726330,
+    "timestamp_to": 732990,
+    "duration": 6660,
+    "segments": [
+      [
+        1,
+        726255,
+        727135
+      ],
+      [
+        2,
+        727135,
+        728835
+      ],
+      [
+        3,
+        728835,
+        729125
+      ],
+      [
+        4,
+        729125,
+        732850
+      ]
+    ]
+  }
+}

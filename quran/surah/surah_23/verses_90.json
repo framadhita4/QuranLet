@@ -1,0 +1,99 @@
+{
+  "id": 2763,
+  "chapter_id": 23,
+  "verse_key": "23:90",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 348,
+  "juz_number": 18,
+  "text_uthmani": "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 68087,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_090_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 68088,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_090_002.mp3",
+      "text": "أَتَيْنَـٰهُم",
+      "translation": "Kami telah mendatangkan kepada mereka",
+      "transliteration": "ataynāhum"
+    },
+    {
+      "id": 68089,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_090_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 68090,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_090_004.mp3",
+      "text": "وَإِنَّهُمْ",
+      "translation": "dan sesungguhnya mereka",
+      "transliteration": "wa-innahum"
+    },
+    {
+      "id": 68091,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_090_005.mp3",
+      "text": "لَكَـٰذِبُونَ",
+      "translation": "sungguh mereka mendustakan",
+      "transliteration": "lakādhibūna"
+    },
+    {
+      "id": 68092,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٩٠",
+      "translation": "(90)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya, Kami telah membawa kebenaran <sup foot_note_id=\"1018\">1</sup> kepada mereka dan sesungguhnya mereka benar-benar orang-orang yang berdusta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1126460,
+    "timestamp_to": 1134820,
+    "duration": 8360,
+    "segments": [
+      [
+        1,
+        1126405,
+        1126775
+      ],
+      [
+        2,
+        1126775,
+        1128755
+      ],
+      [
+        3,
+        1128755,
+        1129685
+      ],
+      [
+        4,
+        1129685,
+        1131335
+      ],
+      [
+        5,
+        1131335,
+        1134710
+      ]
+    ]
+  }
+}

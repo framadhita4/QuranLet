@@ -1,0 +1,73 @@
+{
+  "id": 5579,
+  "chapter_id": 75,
+  "verse_key": "75:28",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 30715,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_028_001.mp3",
+      "text": "وَظَنَّ",
+      "translation": "dan dia menyangka",
+      "transliteration": "waẓanna"
+    },
+    {
+      "id": 30716,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_028_002.mp3",
+      "text": "أَنَّهُ",
+      "translation": "sesungguhnya ia/itu",
+      "transliteration": "annahu"
+    },
+    {
+      "id": 30717,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_028_003.mp3",
+      "text": "ٱلْفِرَاقُ",
+      "translation": "berpisah",
+      "transliteration": "l-firāqu"
+    },
+    {
+      "id": 30718,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dia yakin bahwa sesungguhnya itulah waktu perpisahan (dengan dunia),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 134140,
+    "timestamp_to": 139940,
+    "duration": 5800,
+    "segments": [
+      [
+        1,
+        133755,
+        135225
+      ],
+      [
+        2,
+        135225,
+        136565
+      ],
+      [
+        3,
+        136565,
+        139370
+      ]
+    ]
+  }
+}

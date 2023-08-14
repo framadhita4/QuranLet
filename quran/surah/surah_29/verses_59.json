@@ -1,0 +1,99 @@
+{
+  "id": 3399,
+  "chapter_id": 29,
+  "verse_key": "29:59",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "ruku_number": 348,
+  "manzil_number": 5,
+  "page_number": 403,
+  "juz_number": 21,
+  "text_uthmani": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3",
+  "words": [
+    {
+      "id": 53969,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 53970,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_002.mp3",
+      "text": "صَبَرُوا۟",
+      "translation": "(mereka) bersabar",
+      "transliteration": "ṣabarū"
+    },
+    {
+      "id": 53971,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_003.mp3",
+      "text": "وَعَلَىٰ",
+      "translation": "dan atas/kepada",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 53972,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_004.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 53973,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_005.mp3",
+      "text": "يَتَوَكَّلُونَ",
+      "translation": "mereka bertawakkal",
+      "transliteration": "yatawakkalūna"
+    },
+    {
+      "id": 53974,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) yang bersabar dan bertawakal kepada Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1164370,
+    "timestamp_to": 1171760,
+    "duration": 7390,
+    "segments": [
+      [
+        1,
+        1164315,
+        1165535
+      ],
+      [
+        2,
+        1165535,
+        1166475
+      ],
+      [
+        3,
+        1166475,
+        1167225
+      ],
+      [
+        4,
+        1167225,
+        1168245
+      ],
+      [
+        5,
+        1168245,
+        1171640
+      ]
+    ]
+  }
+}

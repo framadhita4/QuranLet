@@ -1,0 +1,73 @@
+{
+  "id": 6206,
+  "chapter_id": 108,
+  "verse_key": "108:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 552,
+  "manzil_number": 7,
+  "page_number": 602,
+  "juz_number": 30,
+  "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/108.mp3",
+  "words": [
+    {
+      "id": 996,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_002_001.mp3",
+      "text": "فَصَلِّ",
+      "translation": "maka dirikanlah sholat",
+      "transliteration": "faṣalli"
+    },
+    {
+      "id": 997,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_002_002.mp3",
+      "text": "لِرَبِّكَ",
+      "translation": "karena Tuhanmu",
+      "transliteration": "lirabbika"
+    },
+    {
+      "id": 998,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/108_002_003.mp3",
+      "text": "وَٱنْحَرْ",
+      "translation": "dan berkurbanlah",
+      "transliteration": "wa-in'ḥar"
+    },
+    {
+      "id": 999,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka dirikanlah salat karena Tuhan-mu dan berkurbanlah<sup foot_note_id=\"1606\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 6710,
+    "timestamp_to": 10260,
+    "duration": 3550,
+    "segments": [
+      [
+        1,
+        6245,
+        7055
+      ],
+      [
+        2,
+        7055,
+        8265
+      ],
+      [
+        3,
+        8265,
+        9680
+      ]
+    ]
+  }
+}

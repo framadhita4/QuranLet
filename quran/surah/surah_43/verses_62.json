@@ -1,0 +1,125 @@
+{
+  "id": 4387,
+  "chapter_id": 43,
+  "verse_key": "43:62",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 431,
+  "manzil_number": 6,
+  "page_number": 494,
+  "juz_number": 25,
+  "text_uthmani": "وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَـٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 55544,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 55545,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_002.mp3",
+      "text": "يَصُدَّنَّكُمُ",
+      "translation": "memalingkan kamu",
+      "transliteration": "yaṣuddannakumu"
+    },
+    {
+      "id": 55546,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_003.mp3",
+      "text": "ٱلشَّيْطَـٰنُ ۖ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭānu"
+    },
+    {
+      "id": 55548,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_005.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 55549,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_006.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 55550,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_007.mp3",
+      "text": "عَدُوٌّۭ",
+      "translation": "musuh",
+      "transliteration": "ʿaduwwun"
+    },
+    {
+      "id": 55551,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_062_008.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 55552,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan janganlah kamu sekali-kali dipalingkan oleh setan; sesungguhnya setan itu musuh yang nyata bagimu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 872620,
+    "timestamp_to": 883980,
+    "duration": 11360,
+    "segments": [
+      [
+        1,
+        872555,
+        873245
+      ],
+      [
+        2,
+        873245,
+        875495
+      ],
+      [
+        3,
+        875495,
+        876795
+      ],
+      [
+        4,
+        876795,
+        878505
+      ],
+      [
+        5,
+        878505,
+        879115
+      ],
+      [
+        6,
+        879115,
+        880035
+      ],
+      [
+        7,
+        880035,
+        883890
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6219,
+  "chapter_id": 111,
+  "verse_key": "111:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 555,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3",
+  "words": [
+    {
+      "id": 2625,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_003_001.mp3",
+      "text": "سَيَصْلَىٰ",
+      "translation": "kelak ia akan masuk",
+      "transliteration": "sayaṣlā"
+    },
+    {
+      "id": 2626,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_003_002.mp3",
+      "text": "نَارًۭا",
+      "translation": "api",
+      "transliteration": "nāran"
+    },
+    {
+      "id": 2627,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_003_003.mp3",
+      "text": "ذَاتَ",
+      "translation": "mempunyai",
+      "transliteration": "dhāta"
+    },
+    {
+      "id": 2628,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/111_003_004.mp3",
+      "text": "لَهَبٍۢ",
+      "translation": "begejolak",
+      "transliteration": "lahabin"
+    },
+    {
+      "id": 2629,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kelak dia akan masuk ke dalam api yang bergejolak.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 14550,
+    "timestamp_to": 19720,
+    "duration": 5170,
+    "segments": [
+      [
+        1,
+        13695,
+        14815
+      ],
+      [
+        2,
+        14815,
+        16455
+      ],
+      [
+        3,
+        16455,
+        17305
+      ],
+      [
+        4,
+        17305,
+        18580
+      ]
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 2340,
+  "chapter_id": 19,
+  "verse_key": "19:90",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 67882,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_001.mp3",
+      "text": "تَكَادُ",
+      "translation": "hampir-hampir",
+      "transliteration": "takādu"
+    },
+    {
+      "id": 67883,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_002.mp3",
+      "text": "ٱلسَّمَـٰوَٰتُ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwātu"
+    },
+    {
+      "id": 67884,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_003.mp3",
+      "text": "يَتَفَطَّرْنَ",
+      "translation": "pecah",
+      "transliteration": "yatafaṭṭarna"
+    },
+    {
+      "id": 67885,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_004.mp3",
+      "text": "مِنْهُ",
+      "translation": "daripadanya/karenanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 67886,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_005.mp3",
+      "text": "وَتَنشَقُّ",
+      "translation": "dan belah",
+      "transliteration": "watanshaqqu"
+    },
+    {
+      "id": 67887,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_006.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 67888,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_007.mp3",
+      "text": "وَتَخِرُّ",
+      "translation": "dan tersungkur",
+      "transliteration": "watakhirru"
+    },
+    {
+      "id": 67889,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_008.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 67890,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_090_009.mp3",
+      "text": "هَدًّا",
+      "translation": "runtuh",
+      "transliteration": "haddan"
+    },
+    {
+      "id": 67891,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩٠",
+      "translation": "(90)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "hampir-hampir langit pecah karena ucapan itu, dan bumi belah, dan gunung-gunung runtuh",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1186210,
+    "timestamp_to": 1197860,
+    "duration": 11650,
+    "segments": [
+      [
+        1,
+        1185815,
+        1186705
+      ],
+      [
+        2,
+        1186705,
+        1188355
+      ],
+      [
+        3,
+        1188355,
+        1189875
+      ],
+      [
+        4,
+        1189875,
+        1190745
+      ],
+      [
+        5,
+        1190745,
+        1192865
+      ],
+      [
+        6,
+        1192865,
+        1193825
+      ],
+      [
+        7,
+        1193825,
+        1194845
+      ],
+      [
+        8,
+        1194845,
+        1196015
+      ],
+      [
+        9,
+        1196015,
+        1197130
+      ]
+    ]
+  }
+}

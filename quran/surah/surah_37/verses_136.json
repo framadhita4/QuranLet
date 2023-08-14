@@ -1,0 +1,73 @@
+{
+  "id": 3924,
+  "chapter_id": 37,
+  "verse_key": "37:136",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78689,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_136_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 78690,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_136_002.mp3",
+      "text": "دَمَّرْنَا",
+      "translation": "Kami binasakan",
+      "transliteration": "dammarnā"
+    },
+    {
+      "id": 78691,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_136_003.mp3",
+      "text": "ٱلْـَٔاخَرِينَ",
+      "translation": "orang-orang yang lain",
+      "transliteration": "l-ākharīna"
+    },
+    {
+      "id": 78692,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٣٦",
+      "translation": "(136)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami binasakan orang-orang yang lain <sup foot_note_id=\"1287\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1105910,
+    "timestamp_to": 1112310,
+    "duration": 6400,
+    "segments": [
+      [
+        1,
+        1105855,
+        1107185
+      ],
+      [
+        2,
+        1107185,
+        1108955
+      ],
+      [
+        3,
+        1108955,
+        1112180
+      ]
+    ]
+  }
+}

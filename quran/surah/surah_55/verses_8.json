@@ -1,0 +1,86 @@
+{
+  "id": 4909,
+  "chapter_id": 55,
+  "verse_key": "55:8",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 8741,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_008_001.mp3",
+      "text": "أَلَّا",
+      "translation": "supaya jangan",
+      "transliteration": "allā"
+    },
+    {
+      "id": 8742,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_008_002.mp3",
+      "text": "تَطْغَوْا۟",
+      "translation": "kamu melampui batas",
+      "transliteration": "taṭghaw"
+    },
+    {
+      "id": 8743,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_008_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 8744,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_008_004.mp3",
+      "text": "ٱلْمِيزَانِ",
+      "translation": "neraca/timbangan",
+      "transliteration": "l-mīzāni"
+    },
+    {
+      "id": 8745,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Supaya kamu jangan melampaui batas tentang neraca itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 41060,
+    "timestamp_to": 47020,
+    "duration": 5960,
+    "segments": [
+      [
+        1,
+        41005,
+        41895
+      ],
+      [
+        2,
+        41895,
+        42785
+      ],
+      [
+        3,
+        42785,
+        43035
+      ],
+      [
+        4,
+        43035,
+        46920
+      ]
+    ]
+  }
+}

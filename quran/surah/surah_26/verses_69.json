@@ -1,0 +1,86 @@
+{
+  "id": 3001,
+  "chapter_id": 26,
+  "verse_key": "26:69",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 59187,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_069_001.mp3",
+      "text": "وَٱتْلُ",
+      "translation": "dan bacakanlah",
+      "transliteration": "wa-ut'lu"
+    },
+    {
+      "id": 59188,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_069_002.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 59189,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_069_003.mp3",
+      "text": "نَبَأَ",
+      "translation": "kisah",
+      "transliteration": "naba-a"
+    },
+    {
+      "id": 59190,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_069_004.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 59191,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٦٩",
+      "translation": "(69)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bacakanlah kepada mereka kisah Ibrāhīm.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 694550,
+    "timestamp_to": 700170,
+    "duration": 5620,
+    "segments": [
+      [
+        1,
+        694525,
+        695165
+      ],
+      [
+        2,
+        695165,
+        696275
+      ],
+      [
+        3,
+        696275,
+        696865
+      ],
+      [
+        4,
+        696865,
+        700070
+      ]
+    ]
+  }
+}

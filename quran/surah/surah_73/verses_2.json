@@ -1,0 +1,86 @@
+{
+  "id": 5477,
+  "chapter_id": 73,
+  "verse_key": "73:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 1575,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_002_001.mp3",
+      "text": "قُمِ",
+      "translation": "bangunlah",
+      "transliteration": "qumi"
+    },
+    {
+      "id": 1576,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_002_002.mp3",
+      "text": "ٱلَّيْلَ",
+      "translation": "malam hari",
+      "transliteration": "al-layla"
+    },
+    {
+      "id": 1577,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_002_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 1578,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_002_004.mp3",
+      "text": "قَلِيلًۭا",
+      "translation": "sedikit",
+      "transliteration": "qalīlan"
+    },
+    {
+      "id": 1579,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "bangunlah (untuk salat) di malam hari<sup foot_note_id=\"1526\">1</sup>, kecuali sedikit (darinya),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 5720,
+    "timestamp_to": 9250,
+    "duration": 3530,
+    "segments": [
+      [
+        1,
+        5615,
+        6065
+      ],
+      [
+        2,
+        6065,
+        6795
+      ],
+      [
+        3,
+        6795,
+        7555
+      ],
+      [
+        4,
+        7555,
+        9080
+      ]
+    ]
+  }
+}

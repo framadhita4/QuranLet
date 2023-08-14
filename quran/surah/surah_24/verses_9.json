@@ -1,0 +1,151 @@
+{
+  "id": 2800,
+  "chapter_id": 24,
+  "verse_key": "24:9",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "ruku_number": 301,
+  "manzil_number": 4,
+  "page_number": 350,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلْخَـٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّـٰدِقِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/24.mp3",
+  "words": [
+    {
+      "id": 10387,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_001.mp3",
+      "text": "وَٱلْخَـٰمِسَةَ",
+      "translation": "dan yang kelima",
+      "transliteration": "wal-khāmisata"
+    },
+    {
+      "id": 10388,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_002.mp3",
+      "text": "أَنَّ",
+      "translation": "bahwasanya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 10389,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_003.mp3",
+      "text": "غَضَبَ",
+      "translation": "kemurkaan",
+      "transliteration": "ghaḍaba"
+    },
+    {
+      "id": 10390,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 10391,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_005.mp3",
+      "text": "عَلَيْهَآ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 10392,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_006.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 10393,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_007.mp3",
+      "text": "كَانَ",
+      "translation": "dia adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 10394,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_008.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 10395,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/024_009_009.mp3",
+      "text": "ٱلصَّـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "l-ṣādiqīna"
+    },
+    {
+      "id": 10396,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (sumpah) yang kelima bahwa laknat Allah atasnya, jika suaminya itu termasuk orang-orang yang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 193770,
+    "timestamp_to": 206100,
+    "duration": 12330,
+    "segments": [
+      [
+        1,
+        193715,
+        195385
+      ],
+      [
+        2,
+        195385,
+        196445
+      ],
+      [
+        3,
+        196445,
+        197035
+      ],
+      [
+        4,
+        197035,
+        197975
+      ],
+      [
+        5,
+        197975,
+        200515
+      ],
+      [
+        6,
+        200515,
+        201445
+      ],
+      [
+        7,
+        201445,
+        202105
+      ],
+      [
+        8,
+        202105,
+        202565
+      ],
+      [
+        9,
+        202565,
+        206020
+      ]
+    ]
+  }
+}

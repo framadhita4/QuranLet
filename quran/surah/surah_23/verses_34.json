@@ -1,0 +1,125 @@
+{
+  "id": 2707,
+  "chapter_id": 23,
+  "verse_key": "23:34",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَـٰسِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 36267,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_001.mp3",
+      "text": "وَلَئِنْ",
+      "translation": "dan jika",
+      "transliteration": "wala-in"
+    },
+    {
+      "id": 36268,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_002.mp3",
+      "text": "أَطَعْتُم",
+      "translation": "kamu mentaati",
+      "transliteration": "aṭaʿtum"
+    },
+    {
+      "id": 36269,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_003.mp3",
+      "text": "بَشَرًۭا",
+      "translation": "manusia",
+      "transliteration": "basharan"
+    },
+    {
+      "id": 36270,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_004.mp3",
+      "text": "مِّثْلَكُمْ",
+      "translation": "seperti kamu",
+      "transliteration": "mith'lakum"
+    },
+    {
+      "id": 36271,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_005.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 36272,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_006.mp3",
+      "text": "إِذًۭا",
+      "translation": "jika demikian",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 36273,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_034_007.mp3",
+      "text": "لَّخَـٰسِرُونَ",
+      "translation": "sungguh orang-orang yang merugi",
+      "transliteration": "lakhāsirūna"
+    },
+    {
+      "id": 36274,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya jika kamu sekalian menaati manusia yang seperti kamu, niscaya bila demikian, kamu benar-benar (menjadi) orang-orang yang merugi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 485670,
+    "timestamp_to": 496560,
+    "duration": 10890,
+    "segments": [
+      [
+        1,
+        485605,
+        486415
+      ],
+      [
+        2,
+        486415,
+        487405
+      ],
+      [
+        3,
+        487405,
+        488615
+      ],
+      [
+        4,
+        488615,
+        490155
+      ],
+      [
+        5,
+        490155,
+        491945
+      ],
+      [
+        6,
+        491945,
+        492355
+      ],
+      [
+        7,
+        492355,
+        496450
+      ]
+    ]
+  }
+}

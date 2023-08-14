@@ -1,0 +1,86 @@
+{
+  "id": 5701,
+  "chapter_id": 78,
+  "verse_key": "78:29",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 31527,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_029_001.mp3",
+      "text": "وَكُلَّ",
+      "translation": "dan tiap-tiap/segala",
+      "transliteration": "wakulla"
+    },
+    {
+      "id": 31528,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_029_002.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 31529,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_029_003.mp3",
+      "text": "أَحْصَيْنَـٰهُ",
+      "translation": "Kami telah mengumpulkannya",
+      "transliteration": "aḥṣaynāhu"
+    },
+    {
+      "id": 31530,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_029_004.mp3",
+      "text": "كِتَـٰبًۭا",
+      "translation": "suatu kitab",
+      "transliteration": "kitāban"
+    },
+    {
+      "id": 31531,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan segala sesuatu telah Kami catat dalam suatu kitab<sup foot_note_id=\"1549\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 153980,
+    "timestamp_to": 159880,
+    "duration": 5900,
+    "segments": [
+      [
+        1,
+        153895,
+        154865
+      ],
+      [
+        2,
+        154865,
+        155985
+      ],
+      [
+        3,
+        155985,
+        157615
+      ],
+      [
+        4,
+        157615,
+        159770
+      ]
+    ]
+  }
+}

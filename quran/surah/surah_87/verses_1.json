@@ -1,0 +1,86 @@
+{
+  "id": 5949,
+  "chapter_id": 87,
+  "verse_key": "87:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": " سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 719,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_001_001.mp3",
+      "text": "سَبِّحِ",
+      "translation": "sucikanlah",
+      "transliteration": "sabbiḥi"
+    },
+    {
+      "id": 720,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_001_002.mp3",
+      "text": "ٱسْمَ",
+      "translation": "nama",
+      "transliteration": "is'ma"
+    },
+    {
+      "id": 721,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_001_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 722,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_001_004.mp3",
+      "text": "ٱلْأَعْلَى",
+      "translation": "Maha Tinggi",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 723,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sucikanlah nama Tuhan-mu Yang Maha Tingi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4050,
+    "duration": 4050,
+    "segments": [
+      [
+        1,
+        0,
+        880
+      ],
+      [
+        2,
+        880,
+        1280
+      ],
+      [
+        3,
+        1280,
+        2150
+      ],
+      [
+        4,
+        2150,
+        3995
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4828,
+  "chapter_id": 53,
+  "verse_key": "53:44",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 44268,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_044_001.mp3",
+      "text": "وَأَنَّهُۥ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-annahu"
+    },
+    {
+      "id": 44269,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_044_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 44270,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_044_003.mp3",
+      "text": "أَمَاتَ",
+      "translation": "mematikan",
+      "transliteration": "amāta"
+    },
+    {
+      "id": 44271,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_044_004.mp3",
+      "text": "وَأَحْيَا",
+      "translation": "dan menghidupkan",
+      "transliteration": "wa-aḥyā"
+    },
+    {
+      "id": 44272,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya Dia-lah yang mematikan dan menghidupkan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 361560,
+    "timestamp_to": 366500,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        361115,
+        363065
+      ],
+      [
+        2,
+        363065,
+        363415
+      ],
+      [
+        3,
+        363415,
+        364435
+      ],
+      [
+        4,
+        364435,
+        365640
+      ]
+    ]
+  }
+}

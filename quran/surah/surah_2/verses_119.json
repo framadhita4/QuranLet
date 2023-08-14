@@ -1,0 +1,164 @@
+{
+  "id": 126,
+  "chapter_id": 2,
+  "verse_key": "2:119",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "ruku_number": 15,
+  "manzil_number": 1,
+  "page_number": 18,
+  "juz_number": 1,
+  "text_uthmani": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَـٰبِ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 76208,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 76209,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_002.mp3",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation": "Kami telah mengutusmu",
+      "transliteration": "arsalnāka"
+    },
+    {
+      "id": 76210,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_003.mp3",
+      "text": "بِٱلْحَقِّ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 76211,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_004.mp3",
+      "text": "بَشِيرًۭا",
+      "translation": "pembawa berita gembira",
+      "transliteration": "bashīran"
+    },
+    {
+      "id": 76212,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_005.mp3",
+      "text": "وَنَذِيرًۭا ۖ",
+      "translation": "dan pemberi peringatan",
+      "transliteration": "wanadhīran"
+    },
+    {
+      "id": 76214,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_007.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 76215,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_008.mp3",
+      "text": "تُسْـَٔلُ",
+      "translation": "kamu ditanya",
+      "transliteration": "tus'alu"
+    },
+    {
+      "id": 76216,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_009.mp3",
+      "text": "عَنْ",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 76217,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_010.mp3",
+      "text": "أَصْحَـٰبِ",
+      "translation": "penghuni-penghuni",
+      "transliteration": "aṣḥābi"
+    },
+    {
+      "id": 76218,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_119_011.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 76219,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah mengutusmu (Muhammad) dengan kebenaran sebagai pembawa berita gembira dan pemberi peringatan, dan kamu tidak akan diminta (pertanggunganjawaban) tentang penghuni-penghuni neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2539220,
+    "timestamp_to": 2553980,
+    "duration": 14760,
+    "segments": [
+      [
+        1,
+        2539125,
+        2542085
+      ],
+      [
+        2,
+        2542085,
+        2543515
+      ],
+      [
+        3,
+        2543515,
+        2544555
+      ],
+      [
+        4,
+        2544555,
+        2545665
+      ],
+      [
+        5,
+        2545665,
+        2548155
+      ],
+      [
+        6,
+        2548155,
+        2548695
+      ],
+      [
+        7,
+        2548695,
+        2549425
+      ],
+      [
+        8,
+        2549425,
+        2549895
+      ],
+      [
+        9,
+        2549895,
+        2550855
+      ],
+      [
+        10,
+        2550855,
+        2553830
+      ]
+    ]
+  }
+}

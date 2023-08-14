@@ -1,0 +1,112 @@
+{
+  "id": 3217,
+  "chapter_id": 27,
+  "verse_key": "27:58",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 330,
+  "manzil_number": 5,
+  "page_number": 382,
+  "juz_number": 20,
+  "text_uthmani": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 53437,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_058_001.mp3",
+      "text": "وَأَمْطَرْنَا",
+      "translation": "dan Kami turunkan hujan",
+      "transliteration": "wa-amṭarnā"
+    },
+    {
+      "id": 53438,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_058_002.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 53439,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_058_003.mp3",
+      "text": "مَّطَرًۭا ۖ",
+      "translation": "hujan",
+      "transliteration": "maṭaran"
+    },
+    {
+      "id": 53441,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_058_005.mp3",
+      "text": "فَسَآءَ",
+      "translation": "maka amat buruk",
+      "transliteration": "fasāa"
+    },
+    {
+      "id": 53442,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_058_006.mp3",
+      "text": "مَطَرُ",
+      "translation": "hujan",
+      "transliteration": "maṭaru"
+    },
+    {
+      "id": 53443,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_058_007.mp3",
+      "text": "ٱلْمُنذَرِينَ",
+      "translation": "orang-orang yang diberi peringatan",
+      "transliteration": "l-mundharīna"
+    },
+    {
+      "id": 53444,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami turunkan hujan atas mereka (hujan batu), maka amat buruklah hujan yang ditimpakan atas orang-orang yang diberi peringatan itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1024490,
+    "timestamp_to": 1036610,
+    "duration": 12120,
+    "segments": [
+      [
+        1,
+        1024435,
+        1025965
+      ],
+      [
+        2,
+        1025965,
+        1027045
+      ],
+      [
+        3,
+        1027045,
+        1029225
+      ],
+      [
+        4,
+        1029225,
+        1031495
+      ],
+      [
+        5,
+        1031495,
+        1032065
+      ],
+      [
+        6,
+        1032065,
+        1036530
+      ]
+    ]
+  }
+}

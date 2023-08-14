@@ -1,0 +1,99 @@
+{
+  "id": 6235,
+  "chapter_id": 114,
+  "verse_key": "114:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3",
+  "words": [
+    {
+      "id": 5496,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 5497,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_002.mp3",
+      "text": "يُوَسْوِسُ",
+      "translation": "membisik-bisikan",
+      "transliteration": "yuwaswisu"
+    },
+    {
+      "id": 5498,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 5499,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_004.mp3",
+      "text": "صُدُورِ",
+      "translation": "dada",
+      "transliteration": "ṣudūri"
+    },
+    {
+      "id": 5500,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_005.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 5501,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24740,
+    "timestamp_to": 32660,
+    "duration": 7920,
+    "segments": [
+      [
+        1,
+        24665,
+        25805
+      ],
+      [
+        2,
+        25805,
+        26795
+      ],
+      [
+        3,
+        26795,
+        27175
+      ],
+      [
+        4,
+        27175,
+        28085
+      ],
+      [
+        5,
+        28085,
+        32530
+      ]
+    ]
+  }
+}

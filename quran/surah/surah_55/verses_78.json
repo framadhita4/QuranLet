@@ -1,0 +1,112 @@
+{
+  "id": 4979,
+  "chapter_id": 55,
+  "verse_key": "55:78",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 63260,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_078_001.mp3",
+      "text": "تَبَـٰرَكَ",
+      "translation": "Maha Tinggi/Agung",
+      "transliteration": "tabāraka"
+    },
+    {
+      "id": 63261,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_078_002.mp3",
+      "text": "ٱسْمُ",
+      "translation": "nama",
+      "transliteration": "us'mu"
+    },
+    {
+      "id": 63262,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_078_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 63263,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_078_004.mp3",
+      "text": "ذِى",
+      "translation": "memiliki/mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 63264,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_078_005.mp3",
+      "text": "ٱلْجَلَـٰلِ",
+      "translation": "Kebesaran",
+      "transliteration": "l-jalāli"
+    },
+    {
+      "id": 63265,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_078_006.mp3",
+      "text": "وَٱلْإِكْرَامِ",
+      "translation": "dan Kemuliaan",
+      "transliteration": "wal-ik'rāmi"
+    },
+    {
+      "id": 63266,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Agung nama Tuhan-mu Yang Mempunyai kebesaran dan karunia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 680360,
+    "timestamp_to": 690630,
+    "duration": 10270,
+    "segments": [
+      [
+        1,
+        680305,
+        681395
+      ],
+      [
+        2,
+        681395,
+        681985
+      ],
+      [
+        3,
+        681985,
+        682755
+      ],
+      [
+        4,
+        682755,
+        683065
+      ],
+      [
+        5,
+        683065,
+        684255
+      ],
+      [
+        6,
+        684255,
+        690460
+      ]
+    ]
+  }
+}

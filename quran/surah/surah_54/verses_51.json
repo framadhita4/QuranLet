@@ -1,0 +1,112 @@
+{
+  "id": 4897,
+  "chapter_id": 54,
+  "verse_key": "54:51",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 49183,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_051_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 49184,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_051_002.mp3",
+      "text": "أَهْلَكْنَآ",
+      "translation": "telah Kami binasakan",
+      "transliteration": "ahlaknā"
+    },
+    {
+      "id": 49185,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_051_003.mp3",
+      "text": "أَشْيَاعَكُمْ",
+      "translation": "orang yang serupa dengan kamu",
+      "transliteration": "ashyāʿakum"
+    },
+    {
+      "id": 49186,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_051_004.mp3",
+      "text": "فَهَلْ",
+      "translation": "maka adakah",
+      "transliteration": "fahal"
+    },
+    {
+      "id": 49187,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_051_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 49188,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_051_006.mp3",
+      "text": "مُّدَّكِرٍۢ",
+      "translation": "orang yang memikirkan",
+      "transliteration": "muddakirin"
+    },
+    {
+      "id": 49189,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami binasakan orang yang serupa dengan kamu.  Maka adakah orang yang mau mengambil pelajaran?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 451430,
+    "timestamp_to": 459920,
+    "duration": 8490,
+    "segments": [
+      [
+        1,
+        451355,
+        452195
+      ],
+      [
+        2,
+        452195,
+        454695
+      ],
+      [
+        3,
+        454695,
+        456335
+      ],
+      [
+        4,
+        456335,
+        456915
+      ],
+      [
+        5,
+        456915,
+        457225
+      ],
+      [
+        6,
+        457225,
+        459790
+      ]
+    ]
+  }
+}

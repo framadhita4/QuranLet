@@ -1,0 +1,73 @@
+{
+  "id": 6081,
+  "chapter_id": 93,
+  "verse_key": "93:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3",
+  "words": [
+    {
+      "id": 1191,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_002_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "dan malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 1192,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_002_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 1193,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/093_002_003.mp3",
+      "text": "سَجَىٰ",
+      "translation": "telah sunyi",
+      "transliteration": "sajā"
+    },
+    {
+      "id": 1194,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan demi malam apabila telah sunyi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1850,
+    "timestamp_to": 4880,
+    "duration": 3030,
+    "segments": [
+      [
+        1,
+        1265,
+        2355
+      ],
+      [
+        2,
+        2355,
+        2945
+      ],
+      [
+        3,
+        2945,
+        3810
+      ]
+    ]
+  }
+}

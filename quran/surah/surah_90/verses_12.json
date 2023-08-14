@@ -1,0 +1,86 @@
+{
+  "id": 6035,
+  "chapter_id": 90,
+  "verse_key": "90:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3",
+  "words": [
+    {
+      "id": 13388,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_001.mp3",
+      "text": "وَمَآ",
+      "translation": "da apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 13389,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 13390,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 13391,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_004.mp3",
+      "text": "ٱلْعَقَبَةُ",
+      "translation": "pendakian itu",
+      "transliteration": "l-ʿaqabatu"
+    },
+    {
+      "id": 13392,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah jalan yang mendaki lagi sukar itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 56070,
+    "timestamp_to": 61010,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        55985,
+        58135
+      ],
+      [
+        2,
+        58135,
+        59185
+      ],
+      [
+        3,
+        59185,
+        59355
+      ],
+      [
+        4,
+        59355,
+        60840
+      ]
+    ]
+  }
+}

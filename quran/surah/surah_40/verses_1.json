@@ -1,0 +1,47 @@
+{
+  "id": 4134,
+  "chapter_id": 40,
+  "verse_key": "40:1",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "ruku_number": 406,
+  "manzil_number": 6,
+  "page_number": 467,
+  "juz_number": 24,
+  "text_uthmani": " حمٓ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 98,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_001_001.mp3",
+      "text": "حمٓ",
+      "translation": "haa miim",
+      "transliteration": "hha-meem"
+    },
+    {
+      "id": 99,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ḥā  Mīm <sup foot_note_id=\"1318\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 4700,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        0,
+        4645
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4923,
+  "chapter_id": 55,
+  "verse_key": "55:22",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 24746,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_022_001.mp3",
+      "text": "يَخْرُجُ",
+      "translation": "keluar",
+      "transliteration": "yakhruju"
+    },
+    {
+      "id": 24747,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_022_002.mp3",
+      "text": "مِنْهُمَا",
+      "translation": "dari keduanya",
+      "transliteration": "min'humā"
+    },
+    {
+      "id": 24748,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_022_003.mp3",
+      "text": "ٱللُّؤْلُؤُ",
+      "translation": "mutiara",
+      "transliteration": "l-lu'lu-u"
+    },
+    {
+      "id": 24749,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_022_004.mp3",
+      "text": "وَٱلْمَرْجَانُ",
+      "translation": "dan marjan",
+      "transliteration": "wal-marjānu"
+    },
+    {
+      "id": 24750,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dari keduanya keluar mutiara dan merjan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 155510,
+    "timestamp_to": 162670,
+    "duration": 7160,
+    "segments": [
+      [
+        1,
+        155445,
+        156375
+      ],
+      [
+        2,
+        156375,
+        157175
+      ],
+      [
+        3,
+        157175,
+        158365
+      ],
+      [
+        4,
+        158365,
+        162520
+      ]
+    ]
+  }
+}

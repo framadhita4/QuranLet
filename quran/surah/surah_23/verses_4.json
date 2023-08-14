@@ -1,0 +1,86 @@
+{
+  "id": 2677,
+  "chapter_id": 23,
+  "verse_key": "23:4",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 3987,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_004_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 3988,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_004_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 3989,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_004_003.mp3",
+      "text": "لِلزَّكَوٰةِ",
+      "translation": "pada zakat",
+      "transliteration": "lilzzakati"
+    },
+    {
+      "id": 3990,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_004_004.mp3",
+      "text": "فَـٰعِلُونَ",
+      "translation": "mengerjakan/menunaikan",
+      "transliteration": "fāʿilūna"
+    },
+    {
+      "id": 3991,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang menunaikan zakat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 21130,
+    "timestamp_to": 28780,
+    "duration": 7650,
+    "segments": [
+      [
+        1,
+        21105,
+        22455
+      ],
+      [
+        2,
+        22455,
+        22885
+      ],
+      [
+        3,
+        22885,
+        24145
+      ],
+      [
+        4,
+        24145,
+        28720
+      ]
+    ]
+  }
+}

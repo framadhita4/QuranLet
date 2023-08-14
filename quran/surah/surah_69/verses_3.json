@@ -1,0 +1,86 @@
+{
+  "id": 5326,
+  "chapter_id": 69,
+  "verse_key": "69:3",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 2561,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_003_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2562,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_003_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu mengetahui",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 2563,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_003_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 2564,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_003_004.mp3",
+      "text": "ٱلْحَآقَّةُ",
+      "translation": "keadaan yang sebenarnya",
+      "transliteration": "l-ḥāqatu"
+    },
+    {
+      "id": 2565,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tahukah kamu apakah hari kiamat itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10790,
+    "timestamp_to": 19180,
+    "duration": 8390,
+    "segments": [
+      [
+        1,
+        10715,
+        13225
+      ],
+      [
+        2,
+        13225,
+        14385
+      ],
+      [
+        3,
+        14385,
+        14565
+      ],
+      [
+        4,
+        14565,
+        19020
+      ]
+    ]
+  }
+}

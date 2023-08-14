@@ -1,0 +1,60 @@
+{
+  "id": 5499,
+  "chapter_id": 74,
+  "verse_key": "74:4",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَثِيَابَكَ فَطَهِّرْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3",
+  "words": [
+    {
+      "id": 4045,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_004_001.mp3",
+      "text": "وَثِيَابَكَ",
+      "translation": "dan pakaianmu",
+      "transliteration": "wathiyābaka"
+    },
+    {
+      "id": 4046,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_004_002.mp3",
+      "text": "فَطَهِّرْ",
+      "translation": "maka bersihkan",
+      "transliteration": "faṭahhir"
+    },
+    {
+      "id": 4047,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pakaianmu bersihkanlah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 9980,
+    "timestamp_to": 12640,
+    "duration": 2670,
+    "segments": [
+      [
+        1,
+        9905,
+        11125
+      ],
+      [
+        2,
+        11125,
+        12520
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 5297,
+  "chapter_id": 68,
+  "verse_key": "68:26",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 28914,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_026_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 28915,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_026_002.mp3",
+      "text": "رَأَوْهَا",
+      "translation": "mereka melihatnya",
+      "transliteration": "ra-awhā"
+    },
+    {
+      "id": 28916,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_026_003.mp3",
+      "text": "قَالُوٓا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 28917,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_026_004.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 28918,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_026_005.mp3",
+      "text": "لَضَآلُّونَ",
+      "translation": "benar-benar orang-orang yang sesat",
+      "transliteration": "laḍāllūna"
+    },
+    {
+      "id": 28919,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tatkala mereka melihat kebun itu, mereka berkata, \"Sesungguhnya kita benar-benar orang-orang yang sesat (jalan),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 184640,
+    "timestamp_to": 196940,
+    "duration": 12300,
+    "segments": [
+      [
+        1,
+        184585,
+        185875
+      ],
+      [
+        2,
+        185875,
+        186875
+      ],
+      [
+        3,
+        186875,
+        189035
+      ],
+      [
+        4,
+        189035,
+        190365
+      ],
+      [
+        5,
+        190365,
+        196820
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4973,
+  "chapter_id": 55,
+  "verse_key": "55:72",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 60462,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_072_001.mp3",
+      "text": "حُورٌۭ",
+      "translation": "yang putih/jelita",
+      "transliteration": "ḥūrun"
+    },
+    {
+      "id": 60463,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_072_002.mp3",
+      "text": "مَّقْصُورَٰتٌۭ",
+      "translation": "tersimpan/terpingit",
+      "transliteration": "maqṣūrātun"
+    },
+    {
+      "id": 60464,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_072_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 60465,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_072_004.mp3",
+      "text": "ٱلْخِيَامِ",
+      "translation": "mahligai/rumah",
+      "transliteration": "l-khiyāmi"
+    },
+    {
+      "id": 60466,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Bidadari-bidadari) yang jelita, putih bersih, dipingit dalam rumah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 625530,
+    "timestamp_to": 633260,
+    "duration": 7730,
+    "segments": [
+      [
+        1,
+        625415,
+        626105
+      ],
+      [
+        2,
+        626105,
+        629385
+      ],
+      [
+        3,
+        629385,
+        629745
+      ],
+      [
+        4,
+        629745,
+        632830
+      ]
+    ]
+  }
+}

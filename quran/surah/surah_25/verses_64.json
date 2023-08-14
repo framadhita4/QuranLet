@@ -1,0 +1,99 @@
+{
+  "id": 2919,
+  "chapter_id": 25,
+  "verse_key": "25:64",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 315,
+  "manzil_number": 4,
+  "page_number": 365,
+  "juz_number": 19,
+  "text_uthmani": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَـٰمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3",
+  "words": [
+    {
+      "id": 56859,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_064_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 56860,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_064_002.mp3",
+      "text": "يَبِيتُونَ",
+      "translation": "(mereka) bermalam",
+      "transliteration": "yabītūna"
+    },
+    {
+      "id": 56861,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_064_003.mp3",
+      "text": "لِرَبِّهِمْ",
+      "translation": "kepada Tuhan mereka",
+      "transliteration": "lirabbihim"
+    },
+    {
+      "id": 56862,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_064_004.mp3",
+      "text": "سُجَّدًۭا",
+      "translation": "bersujud",
+      "transliteration": "sujjadan"
+    },
+    {
+      "id": 56863,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_064_005.mp3",
+      "text": "وَقِيَـٰمًۭا",
+      "translation": "dan berdiri",
+      "transliteration": "waqiyāman"
+    },
+    {
+      "id": 56864,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang yang melalui malam hari dengan bersujud dan berdiri untuk Tuhan mereka <sup foot_note_id=\"1072\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 986930,
+    "timestamp_to": 994920,
+    "duration": 7990,
+    "segments": [
+      [
+        1,
+        986885,
+        988115
+      ],
+      [
+        2,
+        988115,
+        989545
+      ],
+      [
+        3,
+        989545,
+        990845
+      ],
+      [
+        4,
+        990845,
+        992725
+      ],
+      [
+        5,
+        992725,
+        994400
+      ]
+    ]
+  }
+}

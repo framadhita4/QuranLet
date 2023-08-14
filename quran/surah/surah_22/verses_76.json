@@ -1,0 +1,164 @@
+{
+  "id": 2671,
+  "chapter_id": 22,
+  "verse_key": "22:76",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "ruku_number": 294,
+  "manzil_number": 4,
+  "page_number": 341,
+  "juz_number": 17,
+  "text_uthmani": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 62521,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_001.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "(Allah) mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 62522,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_002.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 62523,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_003.mp3",
+      "text": "بَيْنَ",
+      "translation": "diantara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 62524,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_004.mp3",
+      "text": "أَيْدِيهِمْ",
+      "translation": "tangan/hadapan mereka",
+      "transliteration": "aydīhim"
+    },
+    {
+      "id": 62525,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 62526,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_006.mp3",
+      "text": "خَلْفَهُمْ ۗ",
+      "translation": "belakang mereka",
+      "transliteration": "khalfahum"
+    },
+    {
+      "id": 62528,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_008.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 62529,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_009.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 62530,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_010.mp3",
+      "text": "تُرْجَعُ",
+      "translation": "dikembalikan",
+      "transliteration": "tur'jaʿu"
+    },
+    {
+      "id": 62531,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_076_011.mp3",
+      "text": "ٱلْأُمُورُ",
+      "translation": "segala urusan",
+      "transliteration": "l-umūru"
+    },
+    {
+      "id": 62532,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka.  Dan hanya kepada Allah dikembalikan semua urusan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1672870,
+    "timestamp_to": 1683480,
+    "duration": 10610,
+    "segments": [
+      [
+        1,
+        1672825,
+        1673785
+      ],
+      [
+        2,
+        1673785,
+        1674185
+      ],
+      [
+        3,
+        1674185,
+        1674765
+      ],
+      [
+        4,
+        1674765,
+        1676225
+      ],
+      [
+        5,
+        1676225,
+        1676745
+      ],
+      [
+        6,
+        1676745,
+        1678355
+      ],
+      [
+        7,
+        1678355,
+        1678915
+      ],
+      [
+        8,
+        1678915,
+        1679895
+      ],
+      [
+        9,
+        1679895,
+        1680745
+      ],
+      [
+        10,
+        1680745,
+        1683380
+      ]
+    ]
+  }
+}

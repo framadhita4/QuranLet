@@ -1,0 +1,86 @@
+{
+  "id": 6105,
+  "chapter_id": 95,
+  "verse_key": "95:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3",
+  "words": [
+    {
+      "id": 7954,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka apakah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 7955,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_002.mp3",
+      "text": "يُكَذِّبُكَ",
+      "translation": "mendustakanmu",
+      "transliteration": "yukadhibuka"
+    },
+    {
+      "id": 7956,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_003.mp3",
+      "text": "بَعْدُ",
+      "translation": "sesudah",
+      "transliteration": "baʿdu"
+    },
+    {
+      "id": 7957,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_004.mp3",
+      "text": "بِٱلدِّينِ",
+      "translation": "hari pembalasan/agama",
+      "transliteration": "bil-dīni"
+    },
+    {
+      "id": 7958,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah yang menyebabkan kamu mendustakan (hari) pembalasan sesudah (adanya keterangan-keterangan) itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 40070,
+    "timestamp_to": 46160,
+    "duration": 6090,
+    "segments": [
+      [
+        1,
+        40005,
+        40615
+      ],
+      [
+        2,
+        40615,
+        41835
+      ],
+      [
+        3,
+        41835,
+        42435
+      ],
+      [
+        4,
+        42435,
+        46000
+      ]
+    ]
+  }
+}

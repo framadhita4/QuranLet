@@ -1,0 +1,125 @@
+{
+  "id": 5415,
+  "chapter_id": 70,
+  "verse_key": "70:40",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 505,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3",
+  "words": [
+    {
+      "id": 41393,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_001.mp3",
+      "text": "فَلَآ",
+      "translation": "maka",
+      "transliteration": "falā"
+    },
+    {
+      "id": 41394,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "Aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 41395,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_003.mp3",
+      "text": "بِرَبِّ",
+      "translation": "dengan Tuhan/pemelihara",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 41396,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_004.mp3",
+      "text": "ٱلْمَشَـٰرِقِ",
+      "translation": "timur",
+      "transliteration": "l-mashāriqi"
+    },
+    {
+      "id": 41397,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_005.mp3",
+      "text": "وَٱلْمَغَـٰرِبِ",
+      "translation": "dan barat",
+      "transliteration": "wal-maghāribi"
+    },
+    {
+      "id": 41398,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_006.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 41399,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_040_007.mp3",
+      "text": "لَقَـٰدِرُونَ",
+      "translation": "sungguh Maha Kuasa",
+      "transliteration": "laqādirūna"
+    },
+    {
+      "id": 41400,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka aku bersumpah dengan Tuhan Yang mengatur tempat terbit dan terbenamnya matahari, bulan, dan bintang; sesungguhnya Kami benar-benar Maha Kuasa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 255260,
+    "timestamp_to": 265970,
+    "duration": 10710,
+    "segments": [
+      [
+        1,
+        255165,
+        257025
+      ],
+      [
+        2,
+        257025,
+        257855
+      ],
+      [
+        3,
+        257855,
+        258605
+      ],
+      [
+        4,
+        258605,
+        259815
+      ],
+      [
+        5,
+        259815,
+        261135
+      ],
+      [
+        6,
+        261135,
+        262605
+      ],
+      [
+        7,
+        262605,
+        265810
+      ]
+    ]
+  }
+}

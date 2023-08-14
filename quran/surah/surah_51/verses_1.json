@@ -1,0 +1,60 @@
+{
+  "id": 4676,
+  "chapter_id": 51,
+  "verse_key": "51:1",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": " وَٱلذَّٰرِيَـٰتِ ذَرْوًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 269,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_001_001.mp3",
+      "text": "وَٱلذَّٰرِيَـٰتِ",
+      "translation": "demi yang menerbangkan",
+      "transliteration": "wal-dhāriyāti"
+    },
+    {
+      "id": 270,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_001_002.mp3",
+      "text": "ذَرْوًۭا",
+      "translation": "dengan menerbangkan sekuat-kuatnya",
+      "transliteration": "dharwan"
+    },
+    {
+      "id": 271,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi (angin) yang menerbangkan debu dengan kuat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 3580,
+    "duration": 3580,
+    "segments": [
+      [
+        1,
+        0,
+        1930
+      ],
+      [
+        2,
+        1930,
+        3525
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5282,
+  "chapter_id": 68,
+  "verse_key": "68:11",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3",
+  "words": [
+    {
+      "id": 13076,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_011_001.mp3",
+      "text": "هَمَّازٍۢ",
+      "translation": "pencela",
+      "transliteration": "hammāzin"
+    },
+    {
+      "id": 13077,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_011_002.mp3",
+      "text": "مَّشَّآءٍۭ",
+      "translation": "berjalan",
+      "transliteration": "mashāin"
+    },
+    {
+      "id": 13078,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_011_003.mp3",
+      "text": "بِنَمِيمٍۢ",
+      "translation": "dengan fitnah",
+      "transliteration": "binamīmin"
+    },
+    {
+      "id": 13079,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang banyak mencela, yang kian kemari menghambur fitnah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 68940,
+    "timestamp_to": 78270,
+    "duration": 9330,
+    "segments": [
+      [
+        1,
+        68885,
+        70765
+      ],
+      [
+        2,
+        70765,
+        75235
+      ],
+      [
+        3,
+        75235,
+        78150
+      ]
+    ]
+  }
+}

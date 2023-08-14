@@ -1,0 +1,60 @@
+{
+  "id": 5476,
+  "chapter_id": 73,
+  "verse_key": "73:1",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": " يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 628,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_001_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 629,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_001_002.mp3",
+      "text": "ٱلْمُزَّمِّلُ",
+      "translation": "orang yang berselimut",
+      "transliteration": "l-muzamilu"
+    },
+    {
+      "id": 630,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang yang berselimut (Muhammad),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 0,
+    "timestamp_to": 5720,
+    "duration": 5720,
+    "segments": [
+      [
+        1,
+        0,
+        2870
+      ],
+      [
+        2,
+        2870,
+        5615
+      ]
+    ]
+  }
+}

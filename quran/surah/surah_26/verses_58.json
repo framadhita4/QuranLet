@@ -1,0 +1,73 @@
+{
+  "id": 2990,
+  "chapter_id": 26,
+  "verse_key": "26:58",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 53579,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_058_001.mp3",
+      "text": "وَكُنُوزٍۢ",
+      "translation": "dan perbendaharaan",
+      "transliteration": "wakunūzin"
+    },
+    {
+      "id": 53580,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_058_002.mp3",
+      "text": "وَمَقَامٍۢ",
+      "translation": "dan kedudukan",
+      "transliteration": "wamaqāmin"
+    },
+    {
+      "id": 53581,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_058_003.mp3",
+      "text": "كَرِيمٍۢ",
+      "translation": "yang mulia",
+      "transliteration": "karīmin"
+    },
+    {
+      "id": 53582,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (dari) perbendaharaan dan kedudukan yang mulia <sup foot_note_id=\"1084\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 591570,
+    "timestamp_to": 598750,
+    "duration": 7180,
+    "segments": [
+      [
+        1,
+        591525,
+        593875
+      ],
+      [
+        2,
+        593875,
+        595785
+      ],
+      [
+        3,
+        595785,
+        598680
+      ]
+    ]
+  }
+}

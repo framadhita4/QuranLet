@@ -1,0 +1,177 @@
+{
+  "id": 325,
+  "chapter_id": 3,
+  "verse_key": "3:32",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "ruku_number": 45,
+  "manzil_number": 1,
+  "page_number": 54,
+  "juz_number": 3,
+  "text_uthmani": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 34714,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 34715,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_002.mp3",
+      "text": "أَطِيعُوا۟",
+      "translation": "taatlah",
+      "transliteration": "aṭīʿū"
+    },
+    {
+      "id": 34716,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 34717,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_004.mp3",
+      "text": "وَٱلرَّسُولَ ۖ",
+      "translation": "dan Rasul",
+      "transliteration": "wal-rasūla"
+    },
+    {
+      "id": 34719,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_006.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 34720,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_007.mp3",
+      "text": "تَوَلَّوْا۟",
+      "translation": "kamu berpaling",
+      "transliteration": "tawallaw"
+    },
+    {
+      "id": 34721,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_008.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 34722,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_009.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 34723,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 34724,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_011.mp3",
+      "text": "يُحِبُّ",
+      "translation": "Dia menyukai",
+      "transliteration": "yuḥibbu"
+    },
+    {
+      "id": 34725,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_032_012.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 34726,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Taatilah Allah dan rasul-Nya; jika kamu berpaling, maka sesungguhnya Allah tidak menyukai orang-orang kafir\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 730830,
+    "timestamp_to": 746530,
+    "duration": 15700,
+    "segments": [
+      [
+        1,
+        730805,
+        731245
+      ],
+      [
+        2,
+        731245,
+        732465
+      ],
+      [
+        3,
+        732465,
+        732925
+      ],
+      [
+        4,
+        732925,
+        735744
+      ],
+      [
+        5,
+        735744,
+        737165
+      ],
+      [
+        6,
+        737165,
+        738195
+      ],
+      [
+        7,
+        738195,
+        739455
+      ],
+      [
+        8,
+        739455,
+        740575
+      ],
+      [
+        9,
+        740575,
+        740985
+      ],
+      [
+        10,
+        740985,
+        741945
+      ],
+      [
+        11,
+        741945,
+        746480
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 3956,
+  "chapter_id": 37,
+  "verse_key": "37:168",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82634,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_001.mp3",
+      "text": "لَوْ",
+      "translation": "kalau",
+      "transliteration": "law"
+    },
+    {
+      "id": 82635,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_002.mp3",
+      "text": "أَنَّ",
+      "translation": "sekiranya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 82636,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_003.mp3",
+      "text": "عِندَنَا",
+      "translation": "di sisi kami",
+      "transliteration": "ʿindanā"
+    },
+    {
+      "id": 82637,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_004.mp3",
+      "text": "ذِكْرًۭا",
+      "translation": "pengajaran",
+      "transliteration": "dhik'ran"
+    },
+    {
+      "id": 82638,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 82639,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_006.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang terdahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 82640,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦٨",
+      "translation": "(168)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Kalau sekiranya di sisi kami ada sebuah kitab dari (kitab-kitab yang diturunkan) kepada orang-orang dahulu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1346260,
+    "timestamp_to": 1354780,
+    "duration": 8520,
+    "segments": [
+      [
+        1,
+        1346195,
+        1346665
+      ],
+      [
+        2,
+        1346665,
+        1347895
+      ],
+      [
+        3,
+        1347895,
+        1349425
+      ],
+      [
+        4,
+        1349425,
+        1350025
+      ],
+      [
+        5,
+        1350025,
+        1351255
+      ],
+      [
+        6,
+        1351255,
+        1354640
+      ]
+    ]
+  }
+}

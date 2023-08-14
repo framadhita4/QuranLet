@@ -1,0 +1,138 @@
+{
+  "id": 1806,
+  "chapter_id": 15,
+  "verse_key": "15:4",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "page_number": 262,
+  "juz_number": 14,
+  "text_uthmani": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 3605,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 3606,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_002.mp3",
+      "text": "أَهْلَكْنَا",
+      "translation": "Kami binasakan",
+      "transliteration": "ahlaknā"
+    },
+    {
+      "id": 3607,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 3608,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_004.mp3",
+      "text": "قَرْيَةٍ",
+      "translation": "suatu negeri",
+      "transliteration": "qaryatin"
+    },
+    {
+      "id": 3609,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_005.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 3610,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_006.mp3",
+      "text": "وَلَهَا",
+      "translation": "baginya",
+      "transliteration": "walahā"
+    },
+    {
+      "id": 3611,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_007.mp3",
+      "text": "كِتَابٌۭ",
+      "translation": "kitab/ketentuan",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 3612,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_004_008.mp3",
+      "text": "مَّعْلُومٌۭ",
+      "translation": "ditetapkan",
+      "transliteration": "maʿlūmun"
+    },
+    {
+      "id": 3613,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tiada membinasakan sesuatu negeri pun, melainkan ada baginya ketentuan masa yang telah ditetapkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27830,
+    "timestamp_to": 38440,
+    "duration": 10610,
+    "segments": [
+      [
+        1,
+        27765,
+        29825
+      ],
+      [
+        2,
+        29825,
+        30905
+      ],
+      [
+        3,
+        30905,
+        31935
+      ],
+      [
+        4,
+        31935,
+        32955
+      ],
+      [
+        5,
+        32955,
+        33735
+      ],
+      [
+        6,
+        33735,
+        34515
+      ],
+      [
+        7,
+        34515,
+        35415
+      ],
+      [
+        8,
+        35415,
+        38230
+      ]
+    ]
+  }
+}

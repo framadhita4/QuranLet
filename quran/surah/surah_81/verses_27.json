@@ -1,0 +1,99 @@
+{
+  "id": 5827,
+  "chapter_id": 81,
+  "verse_key": "81:27",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 30297,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_027_001.mp3",
+      "text": "إِنْ",
+      "translation": "sesungguhnya",
+      "transliteration": "in"
+    },
+    {
+      "id": 30298,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_027_002.mp3",
+      "text": "هُوَ",
+      "translation": "ia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 30299,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_027_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 30300,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_027_004.mp3",
+      "text": "ذِكْرٌۭ",
+      "translation": "peringatan",
+      "transliteration": "dhik'run"
+    },
+    {
+      "id": 30301,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_027_005.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi semesta alam",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 30302,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Al-Qur`ān itu tiada lain hanyalah peringatan bagi semesta alam,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 99660,
+    "timestamp_to": 105020,
+    "duration": 5360,
+    "segments": [
+      [
+        1,
+        99575,
+        99995
+      ],
+      [
+        2,
+        99995,
+        100375
+      ],
+      [
+        3,
+        100375,
+        101245
+      ],
+      [
+        4,
+        101245,
+        101875
+      ],
+      [
+        5,
+        101875,
+        104830
+      ]
+    ]
+  }
+}

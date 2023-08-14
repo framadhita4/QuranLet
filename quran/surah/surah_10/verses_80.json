@@ -1,0 +1,164 @@
+{
+  "id": 1444,
+  "chapter_id": 10,
+  "verse_key": "10:80",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "ruku_number": 179,
+  "manzil_number": 3,
+  "page_number": 218,
+  "juz_number": 11,
+  "text_uthmani": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 64167,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka setelah",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 64168,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_002.mp3",
+      "text": "جَآءَ",
+      "translation": "datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 64169,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_003.mp3",
+      "text": "ٱلسَّحَرَةُ",
+      "translation": "ahli sihir",
+      "transliteration": "l-saḥaratu"
+    },
+    {
+      "id": 64170,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_004.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 64171,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_005.mp3",
+      "text": "لَهُم",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 64172,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_006.mp3",
+      "text": "مُّوسَىٰٓ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 64173,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_007.mp3",
+      "text": "أَلْقُوا۟",
+      "translation": "lemparkan",
+      "transliteration": "alqū"
+    },
+    {
+      "id": 64174,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_008.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 64175,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_009.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 64176,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_080_010.mp3",
+      "text": "مُّلْقُونَ",
+      "translation": "orang yang melemparkan",
+      "transliteration": "mul'qūna"
+    },
+    {
+      "id": 64177,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tatkala ahli-ahli sihir itu datang, Musa berkata kepada mereka, \"Lemparkanlah apa yang hendak kamu lemparkan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2029700,
+    "timestamp_to": 2047750,
+    "duration": 18050,
+    "segments": [
+      [
+        1,
+        2029645,
+        2031265
+      ],
+      [
+        2,
+        2031265,
+        2033285
+      ],
+      [
+        3,
+        2033285,
+        2034495
+      ],
+      [
+        4,
+        2034495,
+        2035195
+      ],
+      [
+        5,
+        2035195,
+        2035695
+      ],
+      [
+        6,
+        2035695,
+        2039205
+      ],
+      [
+        7,
+        2039205,
+        2040055
+      ],
+      [
+        8,
+        2040055,
+        2042015
+      ],
+      [
+        9,
+        2042015,
+        2043505
+      ],
+      [
+        10,
+        2043505,
+        2047670
+      ]
+    ]
+  }
+}

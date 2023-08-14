@@ -1,0 +1,99 @@
+{
+  "id": 5724,
+  "chapter_id": 79,
+  "verse_key": "79:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3",
+  "words": [
+    {
+      "id": 14247,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_012_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 14248,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_012_002.mp3",
+      "text": "تِلْكَ",
+      "translation": "itu",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 14249,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_012_003.mp3",
+      "text": "إِذًۭا",
+      "translation": "jika demikian",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 14250,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_012_004.mp3",
+      "text": "كَرَّةٌ",
+      "translation": "pengembalian",
+      "transliteration": "karratun"
+    },
+    {
+      "id": 14251,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_012_005.mp3",
+      "text": "خَاسِرَةٌۭ",
+      "translation": "kerugian",
+      "transliteration": "khāsiratun"
+    },
+    {
+      "id": 14252,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Kalau demikian, itu adalah suatu pengembalian yang merugikan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 47010,
+    "timestamp_to": 52650,
+    "duration": 5640,
+    "segments": [
+      [
+        1,
+        46955,
+        47815
+      ],
+      [
+        2,
+        47815,
+        48475
+      ],
+      [
+        3,
+        48475,
+        49725
+      ],
+      [
+        4,
+        49725,
+        50825
+      ],
+      [
+        5,
+        50825,
+        52550
+      ]
+    ]
+  }
+}

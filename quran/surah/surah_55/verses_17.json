@@ -1,0 +1,86 @@
+{
+  "id": 4918,
+  "chapter_id": 55,
+  "verse_key": "55:17",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 19356,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_017_001.mp3",
+      "text": "رَبُّ",
+      "translation": "Tuhan/Pemelihara",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 19357,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_017_002.mp3",
+      "text": "ٱلْمَشْرِقَيْنِ",
+      "translation": "dua timur/dua tempat terbit matahari",
+      "transliteration": "l-mashriqayni"
+    },
+    {
+      "id": 19358,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_017_003.mp3",
+      "text": "وَرَبُّ",
+      "translation": "dan Tuhan/Pemelihara",
+      "transliteration": "warabbu"
+    },
+    {
+      "id": 19359,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_017_004.mp3",
+      "text": "ٱلْمَغْرِبَيْنِ",
+      "translation": "dua barat/dua tempat terbenamnya matahari",
+      "transliteration": "l-maghribayni"
+    },
+    {
+      "id": 19360,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tuhan yang memelihara kedua tempat terbit matahari dan Tuhan yang memelihara kedua tempat terbenamnya<sup foot_note_id=\"1443\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 118970,
+    "timestamp_to": 125610,
+    "duration": 6640,
+    "segments": [
+      [
+        1,
+        118665,
+        119305
+      ],
+      [
+        2,
+        119305,
+        120825
+      ],
+      [
+        3,
+        120825,
+        121645
+      ],
+      [
+        4,
+        121645,
+        125240
+      ]
+    ]
+  }
+}

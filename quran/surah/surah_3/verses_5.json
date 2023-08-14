@@ -1,0 +1,177 @@
+{
+  "id": 298,
+  "chapter_id": 3,
+  "verse_key": "3:5",
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "ruku_number": 42,
+  "manzil_number": 1,
+  "page_number": 50,
+  "juz_number": 3,
+  "text_uthmani": "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 4918,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 4919,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 4920,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 4921,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_004.mp3",
+      "text": "يَخْفَىٰ",
+      "translation": "tersembunyi",
+      "transliteration": "yakhfā"
+    },
+    {
+      "id": 4922,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_005.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasNya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 4923,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_006.mp3",
+      "text": "شَىْءٌۭ",
+      "translation": "sesuatu (apapun)",
+      "transliteration": "shayon"
+    },
+    {
+      "id": 4924,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_007.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 4925,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_008.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 4926,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 4927,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_010.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 4928,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_005_011.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 4929,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya bagi Allah tidak ada satu pun yang tersembunyi di bumi dan tidak (pula) di langit.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 56580,
+    "timestamp_to": 67370,
+    "duration": 10790,
+    "segments": [
+      [
+        1,
+        56525,
+        57715
+      ],
+      [
+        2,
+        57715,
+        58715
+      ],
+      [
+        3,
+        58715,
+        59045
+      ],
+      [
+        4,
+        59045,
+        59935
+      ],
+      [
+        5,
+        59935,
+        60765
+      ],
+      [
+        6,
+        60765,
+        62135
+      ],
+      [
+        7,
+        62135,
+        62395
+      ],
+      [
+        8,
+        62395,
+        63235
+      ],
+      [
+        9,
+        63235,
+        63875
+      ],
+      [
+        10,
+        63875,
+        64045
+      ],
+      [
+        11,
+        64045,
+        66770
+      ]
+    ]
+  }
+}

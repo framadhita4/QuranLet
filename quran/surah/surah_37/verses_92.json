@@ -1,0 +1,86 @@
+{
+  "id": 3880,
+  "chapter_id": 37,
+  "verse_key": "37:92",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "مَا لَكُمْ لَا تَنطِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 68613,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_092_001.mp3",
+      "text": "مَا",
+      "translation": "kenapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 68614,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_092_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 68615,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_092_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 68616,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_092_004.mp3",
+      "text": "تَنطِقُونَ",
+      "translation": "mengucap/menjawab",
+      "transliteration": "tanṭiqūna"
+    },
+    {
+      "id": 68617,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mengapa kamu tidak menjawab?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 752580,
+    "timestamp_to": 758670,
+    "duration": 6090,
+    "segments": [
+      [
+        1,
+        752505,
+        753065
+      ],
+      [
+        2,
+        753065,
+        753625
+      ],
+      [
+        3,
+        753625,
+        754085
+      ],
+      [
+        4,
+        754085,
+        758540
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 3239,
+  "chapter_id": 27,
+  "verse_key": "27:80",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "page_number": 384,
+  "juz_number": 20,
+  "text_uthmani": "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3",
+  "words": [
+    {
+      "id": 64287,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_001.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 64288,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_002.mp3",
+      "text": "لَا",
+      "translation": "tidak dapat",
+      "transliteration": "lā"
+    },
+    {
+      "id": 64289,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_003.mp3",
+      "text": "تُسْمِعُ",
+      "translation": "menjadikan mendengar",
+      "transliteration": "tus'miʿu"
+    },
+    {
+      "id": 64290,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_004.mp3",
+      "text": "ٱلْمَوْتَىٰ",
+      "translation": "orang mati",
+      "transliteration": "l-mawtā"
+    },
+    {
+      "id": 64291,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak dapat",
+      "transliteration": "walā"
+    },
+    {
+      "id": 64292,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_006.mp3",
+      "text": "تُسْمِعُ",
+      "translation": "menjadikan mendengar",
+      "transliteration": "tus'miʿu"
+    },
+    {
+      "id": 64293,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_007.mp3",
+      "text": "ٱلصُّمَّ",
+      "translation": "orang tuli",
+      "transliteration": "l-ṣuma"
+    },
+    {
+      "id": 64294,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_008.mp3",
+      "text": "ٱلدُّعَآءَ",
+      "translation": "seruan",
+      "transliteration": "l-duʿāa"
+    },
+    {
+      "id": 64295,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_009.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 64296,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_010.mp3",
+      "text": "وَلَّوْا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "wallaw"
+    },
+    {
+      "id": 64297,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_080_011.mp3",
+      "text": "مُدْبِرِينَ",
+      "translation": "kebelakang",
+      "transliteration": "mud'birīna"
+    },
+    {
+      "id": 64298,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu tidak dapat menjadikan orang-orang yang mati mendengar dan (tidak pula) menjadikan orang-orang yang tuli mendengar panggilan, apabila mereka telah berpaling membelakang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1405230,
+    "timestamp_to": 1419650,
+    "duration": 14420,
+    "segments": [
+      [
+        1,
+        1405175,
+        1406905
+      ],
+      [
+        2,
+        1406905,
+        1407295
+      ],
+      [
+        3,
+        1407295,
+        1408155
+      ],
+      [
+        4,
+        1408155,
+        1409235
+      ],
+      [
+        5,
+        1409235,
+        1409885
+      ],
+      [
+        6,
+        1409885,
+        1410745
+      ],
+      [
+        7,
+        1410745,
+        1412225
+      ],
+      [
+        8,
+        1412225,
+        1414735
+      ],
+      [
+        9,
+        1414735,
+        1415395
+      ],
+      [
+        10,
+        1415395,
+        1416245
+      ],
+      [
+        11,
+        1416245,
+        1419570
+      ]
+    ]
+  }
+}

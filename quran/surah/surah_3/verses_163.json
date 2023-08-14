@@ -1,0 +1,138 @@
+{
+  "id": 456,
+  "chapter_id": 3,
+  "verse_key": "3:163",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "ruku_number": 58,
+  "manzil_number": 1,
+  "page_number": 71,
+  "juz_number": 4,
+  "text_uthmani": "هُمْ دَرَجَـٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 82146,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_001.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 82147,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_002.mp3",
+      "text": "دَرَجَـٰتٌ",
+      "translation": "bertingkat-tingkat",
+      "transliteration": "darajātun"
+    },
+    {
+      "id": 82148,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_003.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 82149,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_004.mp3",
+      "text": "ٱللَّهِ ۗ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82151,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_006.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 82152,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_007.mp3",
+      "text": "بَصِيرٌۢ",
+      "translation": "Maha Melihat",
+      "transliteration": "baṣīrun"
+    },
+    {
+      "id": 82153,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_008.mp3",
+      "text": "بِمَا",
+      "translation": "dengan/terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 82154,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_163_009.mp3",
+      "text": "يَعْمَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yaʿmalūna"
+    },
+    {
+      "id": 82155,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٦٣",
+      "translation": "(163)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Kedudukan) mereka itu bertingkat-tingkat di sisi Allah, dan Allah Maha Melihat apa yang mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3810730,
+    "timestamp_to": 3824050,
+    "duration": 13320,
+    "segments": [
+      [
+        1,
+        3810675,
+        3811015
+      ],
+      [
+        2,
+        3811015,
+        3812405
+      ],
+      [
+        3,
+        3812405,
+        3813855
+      ],
+      [
+        4,
+        3813855,
+        3816685
+      ],
+      [
+        5,
+        3816685,
+        3817815
+      ],
+      [
+        6,
+        3817815,
+        3819175
+      ],
+      [
+        7,
+        3819175,
+        3820225
+      ],
+      [
+        8,
+        3820225,
+        3823930
+      ]
+    ]
+  }
+}

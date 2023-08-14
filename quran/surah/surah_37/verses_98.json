@@ -1,0 +1,99 @@
+{
+  "id": 3886,
+  "chapter_id": 37,
+  "verse_key": "37:98",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 70821,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_098_001.mp3",
+      "text": "فَأَرَادُوا۟",
+      "translation": "maka mereka menghendaki",
+      "transliteration": "fa-arādū"
+    },
+    {
+      "id": 70822,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_098_002.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 70823,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_098_003.mp3",
+      "text": "كَيْدًۭا",
+      "translation": "tipu-daya",
+      "transliteration": "kaydan"
+    },
+    {
+      "id": 70824,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_098_004.mp3",
+      "text": "فَجَعَلْنَـٰهُمُ",
+      "translation": "lalu Kami jadikan mereka",
+      "transliteration": "fajaʿalnāhumu"
+    },
+    {
+      "id": 70825,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_098_005.mp3",
+      "text": "ٱلْأَسْفَلِينَ",
+      "translation": "orang-orang yang hina",
+      "transliteration": "l-asfalīna"
+    },
+    {
+      "id": 70826,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka hendak melakukan tipu muslihat kepadanya, maka Kami jadikan mereka orang-orang yang hina <sup foot_note_id=\"1281\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 793110,
+    "timestamp_to": 801780,
+    "duration": 8670,
+    "segments": [
+      [
+        1,
+        793055,
+        794305
+      ],
+      [
+        2,
+        794305,
+        794955
+      ],
+      [
+        3,
+        794955,
+        796305
+      ],
+      [
+        4,
+        796305,
+        798075
+      ],
+      [
+        5,
+        798075,
+        801660
+      ]
+    ]
+  }
+}

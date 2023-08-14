@@ -1,0 +1,125 @@
+{
+  "id": 1495,
+  "chapter_id": 11,
+  "verse_key": "11:22",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "ruku_number": 184,
+  "manzil_number": 3,
+  "page_number": 224,
+  "juz_number": 12,
+  "text_uthmani": "لَا جَرَمَ أَنَّهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 25032,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 25033,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_002.mp3",
+      "text": "جَرَمَ",
+      "translation": "pasti",
+      "transliteration": "jarama"
+    },
+    {
+      "id": 25034,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_003.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "bahwasanya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 25035,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 25036,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_005.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 25037,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_006.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 25038,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_022_007.mp3",
+      "text": "ٱلْأَخْسَرُونَ",
+      "translation": "orang-orang yang paling rugi",
+      "transliteration": "l-akhsarūna"
+    },
+    {
+      "id": 25039,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pasti mereka itu di akhirat menjadi orang-orang yang paling merugi.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 546660,
+    "timestamp_to": 555050,
+    "duration": 8390,
+    "segments": [
+      [
+        1,
+        546605,
+        547125
+      ],
+      [
+        2,
+        547125,
+        547815
+      ],
+      [
+        3,
+        547815,
+        549415
+      ],
+      [
+        4,
+        549415,
+        549675
+      ],
+      [
+        5,
+        549675,
+        550925
+      ],
+      [
+        6,
+        550925,
+        551295
+      ],
+      [
+        7,
+        551295,
+        554950
+      ]
+    ]
+  }
+}

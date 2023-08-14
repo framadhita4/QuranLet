@@ -1,0 +1,73 @@
+{
+  "id": 5810,
+  "chapter_id": 81,
+  "verse_key": "81:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 11040,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_010_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 11041,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_010_002.mp3",
+      "text": "ٱلصُّحُفُ",
+      "translation": "lembaran-lembaran/catatan",
+      "transliteration": "l-ṣuḥufu"
+    },
+    {
+      "id": 11042,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_010_003.mp3",
+      "text": "نُشِرَتْ",
+      "translation": "disebarkan/dibuka",
+      "transliteration": "nushirat"
+    },
+    {
+      "id": 11043,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila catatan-catatan (amal perbuatan manusia) dibuka,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 27330,
+    "timestamp_to": 29550,
+    "duration": 2220,
+    "segments": [
+      [
+        1,
+        27275,
+        27865
+      ],
+      [
+        2,
+        27865,
+        28635
+      ],
+      [
+        3,
+        28635,
+        29470
+      ]
+    ]
+  }
+}

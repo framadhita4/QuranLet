@@ -1,0 +1,99 @@
+{
+  "id": 5636,
+  "chapter_id": 77,
+  "verse_key": "77:14",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 16336,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 16337,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "tahukah kamu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 16338,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_003.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 16339,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_004.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 16340,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_005.mp3",
+      "text": "ٱلْفَصْلِ",
+      "translation": "keputusan",
+      "transliteration": "l-faṣli"
+    },
+    {
+      "id": 16341,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tahukah kamu apakah hari keputusan itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 39590,
+    "timestamp_to": 44550,
+    "duration": 4960,
+    "segments": [
+      [
+        1,
+        39265,
+        41115
+      ],
+      [
+        2,
+        41115,
+        42085
+      ],
+      [
+        3,
+        42085,
+        42435
+      ],
+      [
+        4,
+        42435,
+        43045
+      ],
+      [
+        5,
+        43045,
+        44140
+      ]
+    ]
+  }
+}

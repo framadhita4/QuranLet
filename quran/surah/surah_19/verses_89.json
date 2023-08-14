@@ -1,0 +1,86 @@
+{
+  "id": 2339,
+  "chapter_id": 19,
+  "verse_key": "19:89",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 67618,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_089_001.mp3",
+      "text": "لَّقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 67619,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_089_002.mp3",
+      "text": "جِئْتُمْ",
+      "translation": "kamu telah mendatangkan",
+      "transliteration": "ji'tum"
+    },
+    {
+      "id": 67620,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_089_003.mp3",
+      "text": "شَيْـًٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 67621,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_089_004.mp3",
+      "text": "إِدًّۭا",
+      "translation": "sangat besar/luar biasa",
+      "transliteration": "iddan"
+    },
+    {
+      "id": 67622,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kamu telah mendatangkan sesuatu perkara yang sangat mungkar,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1182210,
+    "timestamp_to": 1186210,
+    "duration": 4000,
+    "segments": [
+      [
+        1,
+        1181985,
+        1182785
+      ],
+      [
+        2,
+        1182785,
+        1183625
+      ],
+      [
+        3,
+        1183625,
+        1184435
+      ],
+      [
+        4,
+        1184435,
+        1185590
+      ]
+    ]
+  }
+}

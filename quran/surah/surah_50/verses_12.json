@@ -1,0 +1,125 @@
+{
+  "id": 4642,
+  "chapter_id": 50,
+  "verse_key": "50:12",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 13708,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 13709,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_002.mp3",
+      "text": "قَبْلَهُمْ",
+      "translation": "sebelum mereka",
+      "transliteration": "qablahum"
+    },
+    {
+      "id": 13710,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_003.mp3",
+      "text": "قَوْمُ",
+      "translation": "kaum",
+      "transliteration": "qawmu"
+    },
+    {
+      "id": 13711,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_004.mp3",
+      "text": "نُوحٍۢ",
+      "translation": "Nuh",
+      "transliteration": "nūḥin"
+    },
+    {
+      "id": 13712,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_005.mp3",
+      "text": "وَأَصْحَـٰبُ",
+      "translation": "dan penduduk",
+      "transliteration": "wa-aṣḥābu"
+    },
+    {
+      "id": 13713,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_006.mp3",
+      "text": "ٱلرَّسِّ",
+      "translation": "Rass",
+      "transliteration": "l-rasi"
+    },
+    {
+      "id": 13714,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_012_007.mp3",
+      "text": "وَثَمُودُ",
+      "translation": "dan Tsamud",
+      "transliteration": "wathamūdu"
+    },
+    {
+      "id": 13715,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebelum mereka telah mendustakan (pula) kaum Nūḥ, dan penduduk Rass<sup foot_note_id=\"1413\">1</sup>, dan Ṡamūd,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 152970,
+    "timestamp_to": 162770,
+    "duration": 9800,
+    "segments": [
+      [
+        1,
+        152565,
+        153735
+      ],
+      [
+        2,
+        153735,
+        154915
+      ],
+      [
+        3,
+        154915,
+        155505
+      ],
+      [
+        4,
+        155505,
+        157105
+      ],
+      [
+        5,
+        157105,
+        158445
+      ],
+      [
+        6,
+        158445,
+        159435
+      ],
+      [
+        7,
+        159435,
+        162300
+      ]
+    ]
+  }
+}

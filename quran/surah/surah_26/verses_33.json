@@ -1,0 +1,112 @@
+{
+  "id": 2965,
+  "chapter_id": 26,
+  "verse_key": "26:33",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 35608,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_033_001.mp3",
+      "text": "وَنَزَعَ",
+      "translation": "dan (Musa) menarik",
+      "transliteration": "wanazaʿa"
+    },
+    {
+      "id": 35609,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_033_002.mp3",
+      "text": "يَدَهُۥ",
+      "translation": "tangannya",
+      "transliteration": "yadahu"
+    },
+    {
+      "id": 35610,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_033_003.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 35611,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_033_004.mp3",
+      "text": "هِىَ",
+      "translation": "ia/tangan itu",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 35612,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_033_005.mp3",
+      "text": "بَيْضَآءُ",
+      "translation": "putih",
+      "transliteration": "bayḍāu"
+    },
+    {
+      "id": 35613,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_033_006.mp3",
+      "text": "لِلنَّـٰظِرِينَ",
+      "translation": "bagi orang-orang yang melihat",
+      "transliteration": "lilnnāẓirīna"
+    },
+    {
+      "id": 35614,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ia menarik tangannya (dari dalam bajunya), maka tiba-tiba tangan itu jadi putih (bersinar) bagi orang-orang yang melihatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 326130,
+    "timestamp_to": 335770,
+    "duration": 9640,
+    "segments": [
+      [
+        1,
+        326105,
+        326955
+      ],
+      [
+        2,
+        326955,
+        327745
+      ],
+      [
+        3,
+        327745,
+        328635
+      ],
+      [
+        4,
+        328635,
+        329105
+      ],
+      [
+        5,
+        329105,
+        331585
+      ],
+      [
+        6,
+        331585,
+        335720
+      ]
+    ]
+  }
+}

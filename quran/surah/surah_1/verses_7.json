@@ -1,0 +1,151 @@
+{
+  "id": 7,
+  "chapter_id": 1,
+  "verse_key": "1:7",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+  "words": [
+    {
+      "id": 8411,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_001.mp3",
+      "text": "صِرَٰطَ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭa"
+    },
+    {
+      "id": 8412,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 8413,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_003.mp3",
+      "text": "أَنْعَمْتَ",
+      "translation": "diberi nikmat",
+      "transliteration": "anʿamta"
+    },
+    {
+      "id": 8414,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_004.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "kepadanya",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 8415,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_005.mp3",
+      "text": "غَيْرِ",
+      "translation": "bukan",
+      "transliteration": "ghayri"
+    },
+    {
+      "id": 8416,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_006.mp3",
+      "text": "ٱلْمَغْضُوبِ",
+      "translation": "orang yang dimurkai",
+      "transliteration": "l-maghḍūbi"
+    },
+    {
+      "id": 8417,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_007.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "kepadanya",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 8418,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_008.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 8419,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_007_009.mp3",
+      "text": "ٱلضَّآلِّينَ",
+      "translation": "orang-orang yang sesat",
+      "transliteration": "l-ḍālīna"
+    },
+    {
+      "id": 8420,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) jalan orang-orang yang telah Engkau anugerahkan nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat<sup foot_note_id=\"9\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 33250,
+    "timestamp_to": 46490,
+    "duration": 13250,
+    "segments": [
+      [
+        1,
+        33185,
+        33935
+      ],
+      [
+        2,
+        33935,
+        34855
+      ],
+      [
+        3,
+        34855,
+        35875
+      ],
+      [
+        4,
+        35875,
+        36805
+      ],
+      [
+        5,
+        36805,
+        37395
+      ],
+      [
+        6,
+        37395,
+        38565
+      ],
+      [
+        7,
+        38565,
+        39565
+      ],
+      [
+        8,
+        39565,
+        39855
+      ],
+      [
+        9,
+        39855,
+        46360
+      ]
+    ]
+  }
+}

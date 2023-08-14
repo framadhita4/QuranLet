@@ -1,0 +1,99 @@
+{
+  "id": 3072,
+  "chapter_id": 26,
+  "verse_key": "26:140",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 79082,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_140_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 79083,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_140_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 79084,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_140_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "benar-benar Dia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 79085,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_140_004.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 79086,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_140_005.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 79087,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٤٠",
+      "translation": "(140)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Tuhan-mu, Dia-lah Yang Maha Perkasa lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1232450,
+    "timestamp_to": 1240680,
+    "duration": 8230,
+    "segments": [
+      [
+        1,
+        1232395,
+        1233925
+      ],
+      [
+        2,
+        1233925,
+        1234885
+      ],
+      [
+        3,
+        1234885,
+        1235545
+      ],
+      [
+        4,
+        1235545,
+        1236925
+      ],
+      [
+        5,
+        1236925,
+        1240600
+      ]
+    ]
+  }
+}

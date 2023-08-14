@@ -1,0 +1,73 @@
+{
+  "id": 3949,
+  "chapter_id": 37,
+  "verse_key": "37:161",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 81884,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_161_001.mp3",
+      "text": "فَإِنَّكُمْ",
+      "translation": "maka sesungguhnya kamu",
+      "transliteration": "fa-innakum"
+    },
+    {
+      "id": 81885,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_161_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 81886,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_161_003.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu sembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 81887,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٦١",
+      "translation": "(161)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sesungguhnya kamu dan apa-apa yang kamu sembah itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1293890,
+    "timestamp_to": 1299740,
+    "duration": 5850,
+    "segments": [
+      [
+        1,
+        1293815,
+        1295625
+      ],
+      [
+        2,
+        1295625,
+        1296205
+      ],
+      [
+        3,
+        1296205,
+        1299600
+      ]
+    ]
+  }
+}

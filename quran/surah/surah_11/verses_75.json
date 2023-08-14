@@ -1,0 +1,99 @@
+{
+  "id": 1548,
+  "chapter_id": 11,
+  "verse_key": "11:75",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 189,
+  "manzil_number": 3,
+  "page_number": 230,
+  "juz_number": 12,
+  "text_uthmani": "إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌ مُّنِيبٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 62271,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_075_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62272,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_075_002.mp3",
+      "text": "إِبْرَٰهِيمَ",
+      "translation": "Ibrahim",
+      "transliteration": "ib'rāhīma"
+    },
+    {
+      "id": 62273,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_075_003.mp3",
+      "text": "لَحَلِيمٌ",
+      "translation": "penyantun",
+      "transliteration": "laḥalīmun"
+    },
+    {
+      "id": 62274,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_075_004.mp3",
+      "text": "أَوَّٰهٌۭ",
+      "translation": "penghiba",
+      "transliteration": "awwāhun"
+    },
+    {
+      "id": 62275,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_075_005.mp3",
+      "text": "مُّنِيبٌۭ",
+      "translation": "orang yang suka kembali",
+      "transliteration": "munībun"
+    },
+    {
+      "id": 62276,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya  Ibrāhīm itu benar-benar seorang yang penyantun lagi penghiba dan suka kembali kepada Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1774990,
+    "timestamp_to": 1784110,
+    "duration": 9120,
+    "segments": [
+      [
+        1,
+        1774925,
+        1776355
+      ],
+      [
+        2,
+        1776355,
+        1777885
+      ],
+      [
+        3,
+        1777885,
+        1779095
+      ],
+      [
+        4,
+        1779095,
+        1780235
+      ],
+      [
+        5,
+        1780235,
+        1784010
+      ]
+    ]
+  }
+}

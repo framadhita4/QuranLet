@@ -1,0 +1,125 @@
+{
+  "id": 154,
+  "chapter_id": 2,
+  "verse_key": "2:147",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "ruku_number": 18,
+  "manzil_number": 1,
+  "page_number": 23,
+  "juz_number": 2,
+  "text_uthmani": "ٱلْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 80112,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_001.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "kebenaran",
+      "transliteration": "al-ḥaqu"
+    },
+    {
+      "id": 80113,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 80114,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_003.mp3",
+      "text": "رَّبِّكَ ۖ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 80116,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_005.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 80117,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_006.mp3",
+      "text": "تَكُونَنَّ",
+      "translation": "sekali-kali kamu adalah",
+      "transliteration": "takūnanna"
+    },
+    {
+      "id": 80118,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 80119,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_147_008.mp3",
+      "text": "ٱلْمُمْتَرِينَ",
+      "translation": "orang-orang yang ragu",
+      "transliteration": "l-mum'tarīna"
+    },
+    {
+      "id": 80120,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٤٧",
+      "translation": "(147)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kebenaran itu adalah dari Tuhan-mu, sebab itu jangan sekali-kali kamu termasuk orang-orang yang ragu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3262630,
+    "timestamp_to": 3270070,
+    "duration": 7450,
+    "segments": [
+      [
+        1,
+        3262525,
+        3263535
+      ],
+      [
+        2,
+        3263535,
+        3263685
+      ],
+      [
+        3,
+        3263685,
+        3264625
+      ],
+      [
+        4,
+        3264625,
+        3265135
+      ],
+      [
+        5,
+        3265135,
+        3266925
+      ],
+      [
+        6,
+        3266925,
+        3267215
+      ],
+      [
+        7,
+        3267215,
+        3269920
+      ]
+    ]
+  }
+}

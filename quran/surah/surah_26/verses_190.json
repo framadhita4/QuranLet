@@ -1,0 +1,138 @@
+{
+  "id": 3122,
+  "chapter_id": 26,
+  "verse_key": "26:190",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 84621,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 84622,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_002.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 84623,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "yang demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 84624,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_004.mp3",
+      "text": "لَـَٔايَةًۭ ۖ",
+      "translation": "benar-benar suatu bukti",
+      "transliteration": "laāyatan"
+    },
+    {
+      "id": 84626,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 84627,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_007.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 84628,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_008.mp3",
+      "text": "أَكْثَرُهُم",
+      "translation": "kebanyakan mereka",
+      "transliteration": "aktharuhum"
+    },
+    {
+      "id": 84629,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_190_009.mp3",
+      "text": "مُّؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minīna"
+    },
+    {
+      "id": 84630,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٩٠",
+      "translation": "(190)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1661030,
+    "timestamp_to": 1672160,
+    "duration": 11130,
+    "segments": [
+      [
+        1,
+        1661005,
+        1662335
+      ],
+      [
+        2,
+        1662335,
+        1662815
+      ],
+      [
+        3,
+        1662815,
+        1663645
+      ],
+      [
+        4,
+        1663645,
+        1665295
+      ],
+      [
+        5,
+        1665295,
+        1665895
+      ],
+      [
+        6,
+        1665895,
+        1666525
+      ],
+      [
+        7,
+        1666525,
+        1668335
+      ],
+      [
+        8,
+        1668335,
+        1672090
+      ]
+    ]
+  }
+}

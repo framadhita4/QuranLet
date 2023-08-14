@@ -1,0 +1,112 @@
+{
+  "id": 4944,
+  "chapter_id": 55,
+  "verse_key": "55:43",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 469,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3",
+  "words": [
+    {
+      "id": 43641,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_043_001.mp3",
+      "text": "هَـٰذِهِۦ",
+      "translation": "inilah",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 43642,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_043_002.mp3",
+      "text": "جَهَنَّمُ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannamu"
+    },
+    {
+      "id": 43643,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_043_003.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 43644,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_043_004.mp3",
+      "text": "يُكَذِّبُ",
+      "translation": "mendustakan",
+      "transliteration": "yukadhibu"
+    },
+    {
+      "id": 43645,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_043_005.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 43646,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_043_006.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 43647,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Inilah neraka Jahanam yang didustakan oleh orang-orang berdosa.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 369600,
+    "timestamp_to": 378560,
+    "duration": 8960,
+    "segments": [
+      [
+        1,
+        369545,
+        370715
+      ],
+      [
+        2,
+        370715,
+        372325
+      ],
+      [
+        3,
+        372325,
+        373305
+      ],
+      [
+        4,
+        373305,
+        374445
+      ],
+      [
+        5,
+        374445,
+        374835
+      ],
+      [
+        6,
+        374835,
+        378420
+      ]
+    ]
+  }
+}

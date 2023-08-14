@@ -1,0 +1,112 @@
+{
+  "id": 2754,
+  "chapter_id": 23,
+  "verse_key": "23:81",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "بَلْ قَالُوا۟ مِثْلَ مَا قَالَ ٱلْأَوَّلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 64860,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_081_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 64861,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_081_002.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka mengatakan",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 64862,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_081_003.mp3",
+      "text": "مِثْلَ",
+      "translation": "seperti",
+      "transliteration": "mith'la"
+    },
+    {
+      "id": 64863,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_081_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 64864,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_081_005.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 64865,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_081_006.mp3",
+      "text": "ٱلْأَوَّلُونَ",
+      "translation": "orang-orang terdahulu",
+      "transliteration": "l-awalūna"
+    },
+    {
+      "id": 64866,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨١",
+      "translation": "(81)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebenarnya mereka mengucapkan perkataan yang serupa dengan perkataan yang diucapkan oleh orang-orang dahulu kala.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1030650,
+    "timestamp_to": 1037570,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        1030625,
+        1030995
+      ],
+      [
+        2,
+        1030995,
+        1031785
+      ],
+      [
+        3,
+        1031785,
+        1032425
+      ],
+      [
+        4,
+        1032425,
+        1032745
+      ],
+      [
+        5,
+        1032745,
+        1033375
+      ],
+      [
+        6,
+        1033375,
+        1037520
+      ]
+    ]
+  }
+}

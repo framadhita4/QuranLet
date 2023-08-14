@@ -1,0 +1,138 @@
+{
+  "id": 2961,
+  "chapter_id": 26,
+  "verse_key": "26:29",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ لَئِنِ ٱتَّخَذْتَ إِلَـٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 32084,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 32085,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_002.mp3",
+      "text": "لَئِنِ",
+      "translation": "sungguh jika",
+      "transliteration": "la-ini"
+    },
+    {
+      "id": 32086,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_003.mp3",
+      "text": "ٱتَّخَذْتَ",
+      "translation": "kamu menjadikan",
+      "transliteration": "ittakhadhta"
+    },
+    {
+      "id": 32087,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_004.mp3",
+      "text": "إِلَـٰهًا",
+      "translation": "Tuhan",
+      "transliteration": "ilāhan"
+    },
+    {
+      "id": 32088,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_005.mp3",
+      "text": "غَيْرِى",
+      "translation": "selain aku",
+      "transliteration": "ghayrī"
+    },
+    {
+      "id": 32089,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_006.mp3",
+      "text": "لَأَجْعَلَنَّكَ",
+      "translation": "pasti aku akan menjadikan kamu",
+      "transliteration": "la-ajʿalannaka"
+    },
+    {
+      "id": 32090,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 32091,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_029_008.mp3",
+      "text": "ٱلْمَسْجُونِينَ",
+      "translation": "orang-orang yang terpenjara",
+      "transliteration": "l-masjūnīna"
+    },
+    {
+      "id": 32092,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  berkata, \"Sungguh jika kamu menyembah Tuhan selain aku, benar-benar aku akan menjadikan kamu salah seorang yang dipenjarakan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 291130,
+    "timestamp_to": 301550,
+    "duration": 10420,
+    "segments": [
+      [
+        1,
+        291075,
+        291775
+      ],
+      [
+        2,
+        291775,
+        292395
+      ],
+      [
+        3,
+        292395,
+        293325
+      ],
+      [
+        4,
+        293325,
+        294485
+      ],
+      [
+        5,
+        294485,
+        295265
+      ],
+      [
+        6,
+        295265,
+        297425
+      ],
+      [
+        7,
+        297425,
+        297735
+      ],
+      [
+        8,
+        297735,
+        301450
+      ]
+    ]
+  }
+}

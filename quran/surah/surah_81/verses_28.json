@@ -1,0 +1,99 @@
+{
+  "id": 5828,
+  "chapter_id": 81,
+  "verse_key": "81:28",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "page_number": 586,
+  "juz_number": 30,
+  "text_uthmani": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3",
+  "words": [
+    {
+      "id": 31325,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_028_001.mp3",
+      "text": "لِمَن",
+      "translation": "bagi siapa",
+      "transliteration": "liman"
+    },
+    {
+      "id": 31326,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_028_002.mp3",
+      "text": "شَآءَ",
+      "translation": "menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 31327,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_028_003.mp3",
+      "text": "مِنكُمْ",
+      "translation": "diantara kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 31328,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_028_004.mp3",
+      "text": "أَن",
+      "translation": "untuk",
+      "transliteration": "an"
+    },
+    {
+      "id": 31329,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/081_028_005.mp3",
+      "text": "يَسْتَقِيمَ",
+      "translation": "menempuh jalan yang lurus",
+      "transliteration": "yastaqīma"
+    },
+    {
+      "id": 31330,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) bagi siapa di antara kamu yang mau menempuh jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 105020,
+    "timestamp_to": 113300,
+    "duration": 8280,
+    "segments": [
+      [
+        1,
+        104915,
+        106435
+      ],
+      [
+        2,
+        106435,
+        108055
+      ],
+      [
+        3,
+        108055,
+        109255
+      ],
+      [
+        4,
+        109255,
+        109555
+      ],
+      [
+        5,
+        109555,
+        113140
+      ]
+    ]
+  }
+}

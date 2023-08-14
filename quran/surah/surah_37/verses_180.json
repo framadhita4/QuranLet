@@ -1,0 +1,112 @@
+{
+  "id": 3968,
+  "chapter_id": 37,
+  "verse_key": "37:180",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 83805,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_180_001.mp3",
+      "text": "سُبْحَـٰنَ",
+      "translation": "Maha Suci",
+      "transliteration": "sub'ḥāna"
+    },
+    {
+      "id": 83806,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_180_002.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 83807,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_180_003.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan/pemelihara",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 83808,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_180_004.mp3",
+      "text": "ٱلْعِزَّةِ",
+      "translation": "keperkasaan/kemuliaan",
+      "transliteration": "l-ʿizati"
+    },
+    {
+      "id": 83809,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_180_005.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 83810,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_180_006.mp3",
+      "text": "يَصِفُونَ",
+      "translation": "mereka sifatkan",
+      "transliteration": "yaṣifūna"
+    },
+    {
+      "id": 83811,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٨٠",
+      "translation": "(180)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maha Suci Tuhan-mu Yang mempunyai keperkasaan dari apa yang mereka katakan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1429010,
+    "timestamp_to": 1436950,
+    "duration": 7940,
+    "segments": [
+      [
+        1,
+        1428955,
+        1430115
+      ],
+      [
+        2,
+        1430115,
+        1430935
+      ],
+      [
+        3,
+        1430935,
+        1431485
+      ],
+      [
+        4,
+        1431485,
+        1432515
+      ],
+      [
+        5,
+        1432515,
+        1434065
+      ],
+      [
+        6,
+        1434065,
+        1436830
+      ]
+    ]
+  }
+}

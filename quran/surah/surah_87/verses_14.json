@@ -1,0 +1,86 @@
+{
+  "id": 5962,
+  "chapter_id": 87,
+  "verse_key": "87:14",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 16451,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_014_001.mp3",
+      "text": "قَدْ",
+      "translation": "sungguh",
+      "transliteration": "qad"
+    },
+    {
+      "id": 16452,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_014_002.mp3",
+      "text": "أَفْلَحَ",
+      "translation": "beruntung",
+      "transliteration": "aflaḥa"
+    },
+    {
+      "id": 16453,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_014_003.mp3",
+      "text": "مَن",
+      "translation": "siapa/orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 16454,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_014_004.mp3",
+      "text": "تَزَكَّىٰ",
+      "translation": "dia membersihkan diri",
+      "transliteration": "tazakkā"
+    },
+    {
+      "id": 16455,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya beruntunglah orang yang membersihkan diri (dengan beriman),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 66710,
+    "timestamp_to": 71070,
+    "duration": 4360,
+    "segments": [
+      [
+        1,
+        66065,
+        66415
+      ],
+      [
+        2,
+        66415,
+        67315
+      ],
+      [
+        3,
+        67315,
+        68465
+      ],
+      [
+        4,
+        68465,
+        69930
+      ]
+    ]
+  }
+}

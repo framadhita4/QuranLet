@@ -1,0 +1,138 @@
+{
+  "id": 2737,
+  "chapter_id": 23,
+  "verse_key": "23:64",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 346,
+  "juz_number": 18,
+  "text_uthmani": "حَتَّىٰٓ إِذَآ أَخَذْنَا مُتْرَفِيهِم بِٱلْعَذَابِ إِذَا هُمْ يَجْـَٔرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 56636,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_001.mp3",
+      "text": "حَتَّىٰٓ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 56637,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_002.mp3",
+      "text": "إِذَآ",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 56638,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_003.mp3",
+      "text": "أَخَذْنَا",
+      "translation": "Kami ambil/timpakan",
+      "transliteration": "akhadhnā"
+    },
+    {
+      "id": 56639,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_004.mp3",
+      "text": "مُتْرَفِيهِم",
+      "translation": "hidup mewah diantara mereka",
+      "transliteration": "mut'rafīhim"
+    },
+    {
+      "id": 56640,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_005.mp3",
+      "text": "بِٱلْعَذَابِ",
+      "translation": "dengan azab",
+      "transliteration": "bil-ʿadhābi"
+    },
+    {
+      "id": 56641,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_006.mp3",
+      "text": "إِذَا",
+      "translation": "tiba-tiba",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 56642,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_007.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 56643,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_064_008.mp3",
+      "text": "يَجْـَٔرُونَ",
+      "translation": "mereka memekik",
+      "transliteration": "yajarūna"
+    },
+    {
+      "id": 56644,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦٤",
+      "translation": "(64)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hingga apabila Kami timpakan azab <sup foot_note_id=\"1011\">1</sup> kepada orang-orang yang hidup mewah di antara mereka dengan serta merta mereka memekik meminta tolong.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 820170,
+    "timestamp_to": 832420,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        820145,
+        822104
+      ],
+      [
+        2,
+        822105,
+        824165
+      ],
+      [
+        3,
+        824165,
+        825235
+      ],
+      [
+        4,
+        825235,
+        827215
+      ],
+      [
+        5,
+        827215,
+        828455
+      ],
+      [
+        6,
+        828455,
+        829005
+      ],
+      [
+        7,
+        829005,
+        829435
+      ],
+      [
+        8,
+        829435,
+        832340
+      ]
+    ]
+  }
+}

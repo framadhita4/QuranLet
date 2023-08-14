@@ -1,0 +1,138 @@
+{
+  "id": 4171,
+  "chapter_id": 40,
+  "verse_key": "40:38",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "ruku_number": 410,
+  "manzil_number": 6,
+  "page_number": 471,
+  "juz_number": 24,
+  "text_uthmani": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 39523,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 39524,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_002.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 39525,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_003.mp3",
+      "text": "ءَامَنَ",
+      "translation": "beriman",
+      "transliteration": "āmana"
+    },
+    {
+      "id": 39526,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_004.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 39527,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_005.mp3",
+      "text": "ٱتَّبِعُونِ",
+      "translation": "ikutilah aku",
+      "transliteration": "ittabiʿūni"
+    },
+    {
+      "id": 39528,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_006.mp3",
+      "text": "أَهْدِكُمْ",
+      "translation": "aku akan tunjukkan kepadamu",
+      "transliteration": "ahdikum"
+    },
+    {
+      "id": 39529,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_007.mp3",
+      "text": "سَبِيلَ",
+      "translation": "jalan",
+      "transliteration": "sabīla"
+    },
+    {
+      "id": 39530,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_038_008.mp3",
+      "text": "ٱلرَّشَادِ",
+      "translation": "petunjuk/benar",
+      "transliteration": "l-rashādi"
+    },
+    {
+      "id": 39531,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Orang yang beriman itu berkata, \"Hai kaumku, ikutilah aku, aku akan menunjukkan kepadamu jalan yang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 702210,
+    "timestamp_to": 713020,
+    "duration": 10820,
+    "segments": [
+      [
+        1,
+        701815,
+        702585
+      ],
+      [
+        2,
+        702585,
+        704825
+      ],
+      [
+        3,
+        704825,
+        705475
+      ],
+      [
+        4,
+        705475,
+        706615
+      ],
+      [
+        5,
+        706615,
+        707795
+      ],
+      [
+        6,
+        707795,
+        708675
+      ],
+      [
+        7,
+        708675,
+        709485
+      ],
+      [
+        8,
+        709485,
+        712610
+      ]
+    ]
+  }
+}

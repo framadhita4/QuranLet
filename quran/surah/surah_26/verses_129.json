@@ -1,0 +1,86 @@
+{
+  "id": 3061,
+  "chapter_id": 26,
+  "verse_key": "26:129",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 77828,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_129_001.mp3",
+      "text": "وَتَتَّخِذُونَ",
+      "translation": "dan kamu mengambil/menjadikan",
+      "transliteration": "watattakhidhūna"
+    },
+    {
+      "id": 77829,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_129_002.mp3",
+      "text": "مَصَانِعَ",
+      "translation": "gedung-gedung",
+      "transliteration": "maṣāniʿa"
+    },
+    {
+      "id": 77830,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_129_003.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 77831,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_129_004.mp3",
+      "text": "تَخْلُدُونَ",
+      "translation": "kamu kekal",
+      "transliteration": "takhludūna"
+    },
+    {
+      "id": 77832,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٢٩",
+      "translation": "(129)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu membuat benteng-benteng dengan maksud supaya kamu kekal (di dunia)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1146270,
+    "timestamp_to": 1153190,
+    "duration": 6920,
+    "segments": [
+      [
+        1,
+        1146215,
+        1147815
+      ],
+      [
+        2,
+        1147815,
+        1148915
+      ],
+      [
+        3,
+        1148915,
+        1150135
+      ],
+      [
+        4,
+        1150135,
+        1153110
+      ]
+    ]
+  }
+}

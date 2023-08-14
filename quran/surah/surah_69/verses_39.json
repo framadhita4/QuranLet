@@ -1,0 +1,73 @@
+{
+  "id": 5362,
+  "chapter_id": 69,
+  "verse_key": "69:39",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَمَا لَا تُبْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3",
+  "words": [
+    {
+      "id": 40595,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_039_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa yang",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 40596,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_039_002.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 40597,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_039_003.mp3",
+      "text": "تُبْصِرُونَ",
+      "translation": "kamu lihat",
+      "transliteration": "tub'ṣirūna"
+    },
+    {
+      "id": 40598,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dengan apa yang tidak kamu lihat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 297550,
+    "timestamp_to": 302040,
+    "duration": 4490,
+    "segments": [
+      [
+        1,
+        297495,
+        298215
+      ],
+      [
+        2,
+        298215,
+        298625
+      ],
+      [
+        3,
+        298625,
+        301910
+      ]
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": 402,
+  "chapter_id": 3,
+  "verse_key": "3:109",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "ruku_number": 52,
+  "manzil_number": 1,
+  "page_number": 64,
+  "juz_number": 4,
+  "text_uthmani": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 73928,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_001.mp3",
+      "text": "وَلِلَّهِ",
+      "translation": "dan milik Allah",
+      "transliteration": "walillahi"
+    },
+    {
+      "id": 73929,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_002.mp3",
+      "text": "مَا",
+      "translation": "apa/segala",
+      "transliteration": "mā"
+    },
+    {
+      "id": 73930,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 73931,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 73932,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa/segala",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 73933,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_006.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 73934,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_007.mp3",
+      "text": "ٱلْأَرْضِ ۚ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 73936,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_009.mp3",
+      "text": "وَإِلَى",
+      "translation": "dan kepada",
+      "transliteration": "wa-ilā"
+    },
+    {
+      "id": 73937,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_010.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 73938,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_011.mp3",
+      "text": "تُرْجَعُ",
+      "translation": "dikembalikan",
+      "transliteration": "tur'jaʿu"
+    },
+    {
+      "id": 73939,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_109_012.mp3",
+      "text": "ٱلْأُمُورُ",
+      "translation": "segala urusan",
+      "transliteration": "l-umūru"
+    },
+    {
+      "id": 73940,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠٩",
+      "translation": "(109)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kepunyaan Allah-lah segala yang ada di langit dan di bumi; dan kepada Allah-lah dikembalikan segala urusan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2501960,
+    "timestamp_to": 2513640,
+    "duration": 11680,
+    "segments": [
+      [
+        1,
+        2501925,
+        2503365
+      ],
+      [
+        2,
+        2503365,
+        2503775
+      ],
+      [
+        3,
+        2503775,
+        2504025
+      ],
+      [
+        4,
+        2504025,
+        2505795
+      ],
+      [
+        5,
+        2505795,
+        2506455
+      ],
+      [
+        6,
+        2506455,
+        2506715
+      ],
+      [
+        7,
+        2506715,
+        2507945
+      ],
+      [
+        8,
+        2507945,
+        2508535
+      ],
+      [
+        9,
+        2508535,
+        2509525
+      ],
+      [
+        10,
+        2509525,
+        2510415
+      ],
+      [
+        11,
+        2510415,
+        2513580
+      ]
+    ]
+  }
+}

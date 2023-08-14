@@ -1,0 +1,99 @@
+{
+  "id": 3844,
+  "chapter_id": 37,
+  "verse_key": "37:56",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 52294,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_056_001.mp3",
+      "text": "قَالَ",
+      "translation": "ia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 52295,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_056_002.mp3",
+      "text": "تَٱللَّهِ",
+      "translation": "demi Allah",
+      "transliteration": "tal-lahi"
+    },
+    {
+      "id": 52296,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_056_003.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 52297,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_056_004.mp3",
+      "text": "كِدتَّ",
+      "translation": "hampir-hampir kamu",
+      "transliteration": "kidtta"
+    },
+    {
+      "id": 52298,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_056_005.mp3",
+      "text": "لَتُرْدِينِ",
+      "translation": "sungguh kamu mencelakakan aku",
+      "transliteration": "latur'dīni"
+    },
+    {
+      "id": 52299,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ia berkata (pula), \"Demi Allah, sesungguhnya kamu benar-benar hampir mencelakakanku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 473870,
+    "timestamp_to": 481370,
+    "duration": 7500,
+    "segments": [
+      [
+        1,
+        473795,
+        474575
+      ],
+      [
+        2,
+        474575,
+        475645
+      ],
+      [
+        3,
+        475645,
+        476745
+      ],
+      [
+        4,
+        476745,
+        477465
+      ],
+      [
+        5,
+        477465,
+        481220
+      ]
+    ]
+  }
+}

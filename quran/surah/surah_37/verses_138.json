@@ -1,0 +1,73 @@
+{
+  "id": 3926,
+  "chapter_id": 37,
+  "verse_key": "37:138",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78920,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_138_001.mp3",
+      "text": "وَبِٱلَّيْلِ ۗ",
+      "translation": "dan diwaktu malam",
+      "transliteration": "wabi-al-layli"
+    },
+    {
+      "id": 78922,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_138_003.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 78923,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_138_004.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 78924,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣٨",
+      "translation": "(138)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pada waktu malam.  Maka apakah kamu tidak memikirkan?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1120850,
+    "timestamp_to": 1128870,
+    "duration": 8020,
+    "segments": [
+      [
+        1,
+        1120785,
+        1124295
+      ],
+      [
+        2,
+        1124295,
+        1125175
+      ],
+      [
+        3,
+        1125175,
+        1128740
+      ]
+    ]
+  }
+}

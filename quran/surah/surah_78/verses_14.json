@@ -1,0 +1,99 @@
+{
+  "id": 5686,
+  "chapter_id": 78,
+  "verse_key": "78:14",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 16417,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_014_001.mp3",
+      "text": "وَأَنزَلْنَا",
+      "translation": "dan Kami turunkan",
+      "transliteration": "wa-anzalnā"
+    },
+    {
+      "id": 16418,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_014_002.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 16419,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_014_003.mp3",
+      "text": "ٱلْمُعْصِرَٰتِ",
+      "translation": "awan",
+      "transliteration": "l-muʿ'ṣirāti"
+    },
+    {
+      "id": 16420,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_014_004.mp3",
+      "text": "مَآءًۭ",
+      "translation": "air",
+      "transliteration": "māan"
+    },
+    {
+      "id": 16421,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_014_005.mp3",
+      "text": "ثَجَّاجًۭا",
+      "translation": "tercurah",
+      "transliteration": "thajjājan"
+    },
+    {
+      "id": 16422,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami turunkan dari awan air yang banyak tercurah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 65290,
+    "timestamp_to": 74620,
+    "duration": 9330,
+    "segments": [
+      [
+        1,
+        65205,
+        67135
+      ],
+      [
+        2,
+        67135,
+        67745
+      ],
+      [
+        3,
+        67745,
+        69645
+      ],
+      [
+        4,
+        69645,
+        72235
+      ],
+      [
+        5,
+        72235,
+        74450
+      ]
+    ]
+  }
+}

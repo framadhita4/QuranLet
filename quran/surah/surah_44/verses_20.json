@@ -1,0 +1,112 @@
+{
+  "id": 4434,
+  "chapter_id": 44,
+  "verse_key": "44:20",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3",
+  "words": [
+    {
+      "id": 22401,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_020_001.mp3",
+      "text": "وَإِنِّى",
+      "translation": "dan sesungguhnya aku",
+      "transliteration": "wa-innī"
+    },
+    {
+      "id": 22402,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_020_002.mp3",
+      "text": "عُذْتُ",
+      "translation": "aku berlindung",
+      "transliteration": "ʿudh'tu"
+    },
+    {
+      "id": 22403,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_020_003.mp3",
+      "text": "بِرَبِّى",
+      "translation": "kepada Tuhanku",
+      "transliteration": "birabbī"
+    },
+    {
+      "id": 22404,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_020_004.mp3",
+      "text": "وَرَبِّكُمْ",
+      "translation": "dan Tuhanmu",
+      "transliteration": "warabbikum"
+    },
+    {
+      "id": 22405,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_020_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 22406,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_020_006.mp3",
+      "text": "تَرْجُمُونِ",
+      "translation": "kamu akan merajamku",
+      "transliteration": "tarjumūni"
+    },
+    {
+      "id": 22407,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya aku berlindung kepada Tuhan-ku dan Tuhan-mu dari keinginanmu merajamku,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 202120,
+    "timestamp_to": 211520,
+    "duration": 9410,
+    "segments": [
+      [
+        1,
+        202095,
+        203835
+      ],
+      [
+        2,
+        203835,
+        204565
+      ],
+      [
+        3,
+        204565,
+        205645
+      ],
+      [
+        4,
+        205645,
+        207035
+      ],
+      [
+        5,
+        207035,
+        208295
+      ],
+      [
+        6,
+        208295,
+        211440
+      ]
+    ]
+  }
+}

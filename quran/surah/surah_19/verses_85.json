@@ -1,0 +1,112 @@
+{
+  "id": 2335,
+  "chapter_id": 19,
+  "verse_key": "19:85",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَـٰنِ وَفْدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 66094,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_085_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 66095,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_085_002.mp3",
+      "text": "نَحْشُرُ",
+      "translation": "Kami kumpulkan",
+      "transliteration": "naḥshuru"
+    },
+    {
+      "id": 66096,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_085_003.mp3",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation": "orang-orang yang bertakwa",
+      "transliteration": "l-mutaqīna"
+    },
+    {
+      "id": 66097,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_085_004.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 66098,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_085_005.mp3",
+      "text": "ٱلرَّحْمَـٰنِ",
+      "translation": "Yang Maha Pengasih",
+      "transliteration": "l-raḥmāni"
+    },
+    {
+      "id": 66099,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_085_006.mp3",
+      "text": "وَفْدًۭا",
+      "translation": "perutusan",
+      "transliteration": "wafdan"
+    },
+    {
+      "id": 66100,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ingatlah) hari (ketika) Kami mengumpulkan orang-orang yang takwa kepada Tuhan Yang Maha Pemurah sebagai perutusan yang terhormat,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1154780,
+    "timestamp_to": 1161130,
+    "duration": 6350,
+    "segments": [
+      [
+        1,
+        1154445,
+        1155255
+      ],
+      [
+        2,
+        1155255,
+        1156075
+      ],
+      [
+        3,
+        1156075,
+        1157645
+      ],
+      [
+        4,
+        1157645,
+        1158235
+      ],
+      [
+        5,
+        1158235,
+        1159635
+      ],
+      [
+        6,
+        1159635,
+        1160660
+      ]
+    ]
+  }
+}

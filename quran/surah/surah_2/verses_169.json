@@ -1,0 +1,177 @@
+{
+  "id": 176,
+  "chapter_id": 2,
+  "verse_key": "2:169",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "ruku_number": 22,
+  "manzil_number": 1,
+  "page_number": 25,
+  "juz_number": 2,
+  "text_uthmani": "إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 82752,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_001.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 82753,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_002.mp3",
+      "text": "يَأْمُرُكُم",
+      "translation": "ia menyuruh kamu",
+      "transliteration": "yamurukum"
+    },
+    {
+      "id": 82754,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_003.mp3",
+      "text": "بِٱلسُّوٓءِ",
+      "translation": "dengan kejahatan",
+      "transliteration": "bil-sūi"
+    },
+    {
+      "id": 82755,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_004.mp3",
+      "text": "وَٱلْفَحْشَآءِ",
+      "translation": "dan perbuatan keji",
+      "transliteration": "wal-faḥshāi"
+    },
+    {
+      "id": 82756,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_005.mp3",
+      "text": "وَأَن",
+      "translation": "dan supaya",
+      "transliteration": "wa-an"
+    },
+    {
+      "id": 82757,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_006.mp3",
+      "text": "تَقُولُوا۟",
+      "translation": "kamu mengatakan",
+      "transliteration": "taqūlū"
+    },
+    {
+      "id": 82758,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_007.mp3",
+      "text": "عَلَى",
+      "translation": "atas/terhadap",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 82759,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_008.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82760,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_009.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 82761,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_010.mp3",
+      "text": "لَا",
+      "translation": "yang tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 82762,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_169_011.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 82763,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٦٩",
+      "translation": "(169)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya setan itu hanya menyuruh kamu berbuat jahat dan keji, dan mengatakan terhadap Allah apa yang tidak kamu ketahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 3710290,
+    "timestamp_to": 3724740,
+    "duration": 14450,
+    "segments": [
+      [
+        1,
+        3710225,
+        3711815
+      ],
+      [
+        2,
+        3711815,
+        3713315
+      ],
+      [
+        3,
+        3713315,
+        3715655
+      ],
+      [
+        4,
+        3715655,
+        3718365
+      ],
+      [
+        5,
+        3718365,
+        3719415
+      ],
+      [
+        6,
+        3719415,
+        3720585
+      ],
+      [
+        7,
+        3720585,
+        3720945
+      ],
+      [
+        8,
+        3720945,
+        3721725
+      ],
+      [
+        9,
+        3721725,
+        3722095
+      ],
+      [
+        10,
+        3722095,
+        3722445
+      ],
+      [
+        11,
+        3722445,
+        3724600
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3813,
+  "chapter_id": 37,
+  "verse_key": "37:25",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 28478,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_025_001.mp3",
+      "text": "مَا",
+      "translation": "mengapa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 28479,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_025_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 28480,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_025_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 28481,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_025_004.mp3",
+      "text": "تَنَاصَرُونَ",
+      "translation": "kamu tolong-menolong",
+      "transliteration": "tanāṣarūna"
+    },
+    {
+      "id": 28482,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Mengapa kamu tidak tolong-menolong?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 193060,
+    "timestamp_to": 198750,
+    "duration": 5700,
+    "segments": [
+      [
+        1,
+        192985,
+        193545
+      ],
+      [
+        2,
+        193545,
+        194015
+      ],
+      [
+        3,
+        194015,
+        194535
+      ],
+      [
+        4,
+        194535,
+        198620
+      ]
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": 123,
+  "chapter_id": 2,
+  "verse_key": "2:116",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "ruku_number": 15,
+  "manzil_number": 1,
+  "page_number": 18,
+  "juz_number": 1,
+  "text_uthmani": "وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّ لَّهُۥ قَـٰنِتُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 75477,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_001.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan mereka berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 75478,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_002.mp3",
+      "text": "ٱتَّخَذَ",
+      "translation": "mempunyai",
+      "transliteration": "ittakhadha"
+    },
+    {
+      "id": 75479,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 75480,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_004.mp3",
+      "text": "وَلَدًۭا ۗ",
+      "translation": "anak",
+      "transliteration": "waladan"
+    },
+    {
+      "id": 75482,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_006.mp3",
+      "text": "سُبْحَـٰنَهُۥ ۖ",
+      "translation": "Maha Suci Dia",
+      "transliteration": "sub'ḥānahu"
+    },
+    {
+      "id": 75484,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_008.mp3",
+      "text": "بَل",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 75485,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_009.mp3",
+      "text": "لَّهُۥ",
+      "translation": "milikNya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 75486,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_010.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 75487,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_011.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 75488,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_012.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 75489,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_013.mp3",
+      "text": "وَٱلْأَرْضِ ۖ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍi"
+    },
+    {
+      "id": 75491,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_015.mp3",
+      "text": "كُلٌّۭ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullun"
+    },
+    {
+      "id": 75492,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_016.mp3",
+      "text": "لَّهُۥ",
+      "translation": "kepadaNya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 75493,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_116_017.mp3",
+      "text": "قَـٰنِتُونَ",
+      "translation": "mereka tunduk",
+      "transliteration": "qānitūna"
+    },
+    {
+      "id": 75494,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١٦",
+      "translation": "(116)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka (orang-orang kafir) berkata, \"Allah mempunyai anak\".  Maha Suci Allah, bahkan apa yang ada di langit dan di bumi adalah kepunyaan Allah; semua tunduk kepada-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 2482300,
+    "timestamp_to": 2495990,
+    "duration": 13690,
+    "segments": [
+      [
+        1,
+        2482245,
+        2483155
+      ],
+      [
+        2,
+        2483155,
+        2483895
+      ],
+      [
+        3,
+        2483895,
+        2484785
+      ],
+      [
+        4,
+        2484785,
+        2486115
+      ],
+      [
+        5,
+        2486115,
+        2487725
+      ],
+      [
+        6,
+        2487725,
+        2487975
+      ],
+      [
+        7,
+        2487975,
+        2488615
+      ],
+      [
+        8,
+        2488615,
+        2489055
+      ],
+      [
+        9,
+        2489055,
+        2489275
+      ],
+      [
+        10,
+        2489275,
+        2490705
+      ],
+      [
+        11,
+        2490705,
+        2491705
+      ],
+      [
+        12,
+        2491705,
+        2492265
+      ],
+      [
+        13,
+        2492265,
+        2493065
+      ],
+      [
+        14,
+        2493065,
+        2495860
+      ]
+    ]
+  }
+}

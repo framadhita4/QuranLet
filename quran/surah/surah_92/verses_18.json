@@ -1,0 +1,86 @@
+{
+  "id": 6076,
+  "chapter_id": 92,
+  "verse_key": "92:18",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3",
+  "words": [
+    {
+      "id": 20410,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_018_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 20411,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_018_002.mp3",
+      "text": "يُؤْتِى",
+      "translation": "mendermakan",
+      "transliteration": "yu'tī"
+    },
+    {
+      "id": 20412,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_018_003.mp3",
+      "text": "مَالَهُۥ",
+      "translation": "apa yang dia miliki (hartanya)",
+      "transliteration": "mālahu"
+    },
+    {
+      "id": 20413,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_018_004.mp3",
+      "text": "يَتَزَكَّىٰ",
+      "translation": "mensucikan",
+      "transliteration": "yatazakkā"
+    },
+    {
+      "id": 20414,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang menafkahkan hartanya (di jalan Allah) untuk membersihkannya,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 76460,
+    "timestamp_to": 81400,
+    "duration": 4940,
+    "segments": [
+      [
+        1,
+        76425,
+        77515
+      ],
+      [
+        2,
+        77515,
+        78315
+      ],
+      [
+        3,
+        78315,
+        79425
+      ],
+      [
+        4,
+        79425,
+        80940
+      ]
+    ]
+  }
+}

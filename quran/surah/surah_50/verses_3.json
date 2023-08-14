@@ -1,0 +1,125 @@
+{
+  "id": 4633,
+  "chapter_id": 50,
+  "verse_key": "50:3",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3",
+  "words": [
+    {
+      "id": 2180,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_001.mp3",
+      "text": "أَءِذَا",
+      "translation": "apakah apabila",
+      "transliteration": "a-idhā"
+    },
+    {
+      "id": 2181,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_002.mp3",
+      "text": "مِتْنَا",
+      "translation": "kami telah mati",
+      "transliteration": "mit'nā"
+    },
+    {
+      "id": 2182,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_003.mp3",
+      "text": "وَكُنَّا",
+      "translation": "dan kami adalah",
+      "transliteration": "wakunnā"
+    },
+    {
+      "id": 2183,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_004.mp3",
+      "text": "تُرَابًۭا ۖ",
+      "translation": "tanah/debu",
+      "transliteration": "turāban"
+    },
+    {
+      "id": 2185,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_006.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 2186,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_007.mp3",
+      "text": "رَجْعٌۢ",
+      "translation": "pengembalian",
+      "transliteration": "rajʿun"
+    },
+    {
+      "id": 2187,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_003_008.mp3",
+      "text": "بَعِيدٌۭ",
+      "translation": "yang jauh",
+      "transliteration": "baʿīdun"
+    },
+    {
+      "id": 2188,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kami setelah mati dan setelah menjadi tanah (kami akan kembali lagi)?  Itu adalah suatu pengembalian yang tidak mungkin.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 28740,
+    "timestamp_to": 40000,
+    "duration": 11260,
+    "segments": [
+      [
+        1,
+        28695,
+        29635
+      ],
+      [
+        2,
+        29635,
+        30595
+      ],
+      [
+        3,
+        30595,
+        32495
+      ],
+      [
+        4,
+        32495,
+        34385
+      ],
+      [
+        5,
+        34385,
+        35435
+      ],
+      [
+        6,
+        35435,
+        36865
+      ],
+      [
+        7,
+        36865,
+        39920
+      ]
+    ]
+  }
+}

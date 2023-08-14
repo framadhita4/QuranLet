@@ -1,0 +1,177 @@
+{
+  "id": 2535,
+  "chapter_id": 21,
+  "verse_key": "21:52",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَـٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَـٰكِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 50009,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 50010,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_002.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 50011,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_003.mp3",
+      "text": "لِأَبِيهِ",
+      "translation": "kepada ayahnya",
+      "transliteration": "li-abīhi"
+    },
+    {
+      "id": 50012,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_004.mp3",
+      "text": "وَقَوْمِهِۦ",
+      "translation": "dan kaumnya",
+      "transliteration": "waqawmihi"
+    },
+    {
+      "id": 50013,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_005.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 50014,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_006.mp3",
+      "text": "هَـٰذِهِ",
+      "translation": "ini",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 50015,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_007.mp3",
+      "text": "ٱلتَّمَاثِيلُ",
+      "translation": "patung-patung",
+      "transliteration": "l-tamāthīlu"
+    },
+    {
+      "id": 50016,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_008.mp3",
+      "text": "ٱلَّتِىٓ",
+      "translation": "yang gambar-gambar",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 50017,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_009.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 50018,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_010.mp3",
+      "text": "لَهَا",
+      "translation": "kepadanya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 50019,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_052_011.mp3",
+      "text": "عَـٰكِفُونَ",
+      "translation": "orang-orang yang tekun",
+      "transliteration": "ʿākifūna"
+    },
+    {
+      "id": 50020,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Ingatlah) ketika Ibrāhīm berkata kepada bapaknya dan kaumnya, \"Patung-patung apakah ini yang kamu tekun beribadat kepadanya?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 742990,
+    "timestamp_to": 755890,
+    "duration": 12910,
+    "segments": [
+      [
+        1,
+        742965,
+        743455
+      ],
+      [
+        2,
+        743455,
+        744055
+      ],
+      [
+        3,
+        744055,
+        745005
+      ],
+      [
+        4,
+        745005,
+        746255
+      ],
+      [
+        5,
+        746255,
+        746675
+      ],
+      [
+        6,
+        746675,
+        747425
+      ],
+      [
+        7,
+        747425,
+        748865
+      ],
+      [
+        8,
+        748865,
+        750925
+      ],
+      [
+        9,
+        750925,
+        752285
+      ],
+      [
+        10,
+        752285,
+        752945
+      ],
+      [
+        11,
+        752945,
+        755810
+      ]
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1975,
+  "chapter_id": 16,
+  "verse_key": "16:74",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "ruku_number": 233,
+  "manzil_number": 3,
+  "page_number": 275,
+  "juz_number": 14,
+  "text_uthmani": "فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ ۚ إِنَّ ٱللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 61382,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 61383,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_002.mp3",
+      "text": "تَضْرِبُوا۟",
+      "translation": "kamu buat/adakan",
+      "transliteration": "taḍribū"
+    },
+    {
+      "id": 61384,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_003.mp3",
+      "text": "لِلَّهِ",
+      "translation": "bagi Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 61385,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_004.mp3",
+      "text": "ٱلْأَمْثَالَ ۚ",
+      "translation": "perumpamaan (sekutu-sekutu)",
+      "transliteration": "l-amthāla"
+    },
+    {
+      "id": 61387,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_006.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 61388,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_007.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 61389,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_008.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 61390,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_009.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 61391,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 61392,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_074_011.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 61393,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka janganlah kamu mengadakan sekutu-sekutu bagi Allah.  Sesungguhnya Allah mengetahui, sedang kamu tidak mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1378040,
+    "timestamp_to": 1393090,
+    "duration": 15050,
+    "segments": [
+      [
+        1,
+        1377985,
+        1378725
+      ],
+      [
+        2,
+        1378725,
+        1379935
+      ],
+      [
+        3,
+        1379935,
+        1381235
+      ],
+      [
+        4,
+        1381235,
+        1384415
+      ],
+      [
+        5,
+        1384415,
+        1385645
+      ],
+      [
+        6,
+        1385645,
+        1386685
+      ],
+      [
+        7,
+        1386685,
+        1387615
+      ],
+      [
+        8,
+        1387615,
+        1389745
+      ],
+      [
+        9,
+        1389745,
+        1390165
+      ],
+      [
+        10,
+        1390165,
+        1392970
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6003,
+  "chapter_id": 89,
+  "verse_key": "89:10",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 11493,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_010_001.mp3",
+      "text": "وَفِرْعَوْنَ",
+      "translation": "dan Fir'aun",
+      "transliteration": "wafir'ʿawna"
+    },
+    {
+      "id": 11494,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_010_002.mp3",
+      "text": "ذِى",
+      "translation": "memiliki",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 11495,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_010_003.mp3",
+      "text": "ٱلْأَوْتَادِ",
+      "translation": "pasak-pasak (bala tentara)",
+      "transliteration": "l-awtādi"
+    },
+    {
+      "id": 11496,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum Firʻawn yang mempunyai pasak-pasak (tentara yang banyak),",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37720,
+    "timestamp_to": 42970,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        37655,
+        38945
+      ],
+      [
+        2,
+        38945,
+        39295
+      ],
+      [
+        3,
+        39295,
+        42820
+      ]
+    ]
+  }
+}

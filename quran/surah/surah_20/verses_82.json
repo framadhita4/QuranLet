@@ -1,0 +1,151 @@
+{
+  "id": 2430,
+  "chapter_id": 20,
+  "verse_key": "20:82",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 273,
+  "manzil_number": 4,
+  "page_number": 317,
+  "juz_number": 16,
+  "text_uthmani": "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا ثُمَّ ٱهْتَدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 65156,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_001.mp3",
+      "text": "وَإِنِّى",
+      "translation": "dan sesungguhnya Aku",
+      "transliteration": "wa-innī"
+    },
+    {
+      "id": 65157,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_002.mp3",
+      "text": "لَغَفَّارٌۭ",
+      "translation": "sungguh Maha Pengampun",
+      "transliteration": "laghaffārun"
+    },
+    {
+      "id": 65158,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_003.mp3",
+      "text": "لِّمَن",
+      "translation": "bagi siapa",
+      "transliteration": "liman"
+    },
+    {
+      "id": 65159,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_004.mp3",
+      "text": "تَابَ",
+      "translation": "dia bertaubat",
+      "transliteration": "tāba"
+    },
+    {
+      "id": 65160,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_005.mp3",
+      "text": "وَءَامَنَ",
+      "translation": "dan dia beriman",
+      "transliteration": "waāmana"
+    },
+    {
+      "id": 65161,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_006.mp3",
+      "text": "وَعَمِلَ",
+      "translation": "dan dia beramal",
+      "transliteration": "waʿamila"
+    },
+    {
+      "id": 65162,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_007.mp3",
+      "text": "صَـٰلِحًۭا",
+      "translation": "kebajikan/saleh",
+      "transliteration": "ṣāliḥan"
+    },
+    {
+      "id": 65163,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_008.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 65164,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_082_009.mp3",
+      "text": "ٱهْتَدَىٰ",
+      "translation": "dia mendapat petunjuk/dijalan yang benar",
+      "transliteration": "ih'tadā"
+    },
+    {
+      "id": 65165,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Aku Maha Pengampun bagi orang yang bertobat, beriman, beramal saleh, kemudian tetap di jalan yang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 894100,
+    "timestamp_to": 906350,
+    "duration": 12250,
+    "segments": [
+      [
+        1,
+        893735,
+        895275
+      ],
+      [
+        2,
+        895275,
+        896575
+      ],
+      [
+        3,
+        896575,
+        897945
+      ],
+      [
+        4,
+        897945,
+        898695
+      ],
+      [
+        5,
+        898695,
+        899755
+      ],
+      [
+        6,
+        899755,
+        900565
+      ],
+      [
+        7,
+        900565,
+        902935
+      ],
+      [
+        8,
+        902935,
+        904265
+      ],
+      [
+        9,
+        904265,
+        905480
+      ]
+    ]
+  }
+}

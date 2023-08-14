@@ -1,0 +1,99 @@
+{
+  "id": 4898,
+  "chapter_id": 54,
+  "verse_key": "54:52",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 49857,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_052_001.mp3",
+      "text": "وَكُلُّ",
+      "translation": "dan setiap",
+      "transliteration": "wakullu"
+    },
+    {
+      "id": 49858,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_052_002.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 49859,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_052_003.mp3",
+      "text": "فَعَلُوهُ",
+      "translation": "telah mereka kerjakannya",
+      "transliteration": "faʿalūhu"
+    },
+    {
+      "id": 49860,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_052_004.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 49861,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_052_005.mp3",
+      "text": "ٱلزُّبُرِ",
+      "translation": "kitab",
+      "transliteration": "l-zuburi"
+    },
+    {
+      "id": 49862,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٢",
+      "translation": "(52)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan segala sesuatu yang telah mereka perbuat tercatat dalam buku-buku catatan<sup foot_note_id=\"1441\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 459920,
+    "timestamp_to": 465200,
+    "duration": 5280,
+    "segments": [
+      [
+        1,
+        459865,
+        460745
+      ],
+      [
+        2,
+        460745,
+        461875
+      ],
+      [
+        3,
+        461875,
+        463515
+      ],
+      [
+        4,
+        463515,
+        463775
+      ],
+      [
+        5,
+        463775,
+        465070
+      ]
+    ]
+  }
+}

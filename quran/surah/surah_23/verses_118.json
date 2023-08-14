@@ -1,0 +1,125 @@
+{
+  "id": 2791,
+  "chapter_id": 23,
+  "verse_key": "23:118",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "page_number": 349,
+  "juz_number": 18,
+  "text_uthmani": "وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 76095,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_001.mp3",
+      "text": "وَقُل",
+      "translation": "dan katakanlah",
+      "transliteration": "waqul"
+    },
+    {
+      "id": 76096,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_002.mp3",
+      "text": "رَّبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 76097,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_003.mp3",
+      "text": "ٱغْفِرْ",
+      "translation": "berilah ampunan",
+      "transliteration": "igh'fir"
+    },
+    {
+      "id": 76098,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_004.mp3",
+      "text": "وَٱرْحَمْ",
+      "translation": "dan rahmat",
+      "transliteration": "wa-ir'ḥam"
+    },
+    {
+      "id": 76099,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_005.mp3",
+      "text": "وَأَنتَ",
+      "translation": "dan Engkau",
+      "transliteration": "wa-anta"
+    },
+    {
+      "id": 76100,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_006.mp3",
+      "text": "خَيْرُ",
+      "translation": "sebaik-baik",
+      "transliteration": "khayru"
+    },
+    {
+      "id": 76101,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_118_007.mp3",
+      "text": "ٱلرَّٰحِمِينَ",
+      "translation": "Pemberi Rahmat",
+      "transliteration": "l-rāḥimīna"
+    },
+    {
+      "id": 76102,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١١٨",
+      "translation": "(118)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan katakanlah, \"Ya Tuhan-ku berilah ampun dan berilah rahmat dan Engkau adalah Pemberi rahmat Yang Paling baik.\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1476210,
+    "timestamp_to": 1486450,
+    "duration": 10240,
+    "segments": [
+      [
+        1,
+        1476185,
+        1476625
+      ],
+      [
+        2,
+        1476625,
+        1477435
+      ],
+      [
+        3,
+        1477435,
+        1478155
+      ],
+      [
+        4,
+        1478155,
+        1478895
+      ],
+      [
+        5,
+        1478895,
+        1480535
+      ],
+      [
+        6,
+        1480535,
+        1481225
+      ],
+      [
+        7,
+        1481225,
+        1486390
+      ]
+    ]
+  }
+}

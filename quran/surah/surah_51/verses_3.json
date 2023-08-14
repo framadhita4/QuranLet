@@ -1,0 +1,60 @@
+{
+  "id": 4678,
+  "chapter_id": 51,
+  "verse_key": "51:3",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "فَٱلْجَـٰرِيَـٰتِ يُسْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 2189,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_003_001.mp3",
+      "text": "فَٱلْجَـٰرِيَـٰتِ",
+      "translation": "maka yang berlayar",
+      "transliteration": "fal-jāriyāti"
+    },
+    {
+      "id": 2190,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_003_002.mp3",
+      "text": "يُسْرًۭا",
+      "translation": "dengan mudah",
+      "transliteration": "yus'ran"
+    },
+    {
+      "id": 2191,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kapal-kapal yang berlayar dengan mudah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7000,
+    "timestamp_to": 10270,
+    "duration": 3270,
+    "segments": [
+      [
+        1,
+        6915,
+        8705
+      ],
+      [
+        2,
+        8705,
+        10160
+      ]
+    ]
+  }
+}

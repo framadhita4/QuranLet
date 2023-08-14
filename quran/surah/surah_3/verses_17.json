@@ -1,0 +1,112 @@
+{
+  "id": 310,
+  "chapter_id": 3,
+  "verse_key": "3:17",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "ruku_number": 43,
+  "manzil_number": 1,
+  "page_number": 52,
+  "juz_number": 3,
+  "text_uthmani": "ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 19434,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_017_001.mp3",
+      "text": "ٱلصَّـٰبِرِينَ",
+      "translation": "orang-orang yang sabar",
+      "transliteration": "al-ṣābirīna"
+    },
+    {
+      "id": 19435,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_017_002.mp3",
+      "text": "وَٱلصَّـٰدِقِينَ",
+      "translation": "dan orang-orang yang benar",
+      "transliteration": "wal-ṣādiqīna"
+    },
+    {
+      "id": 19436,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_017_003.mp3",
+      "text": "وَٱلْقَـٰنِتِينَ",
+      "translation": "dan orang-orang yang tetap taat",
+      "transliteration": "wal-qānitīna"
+    },
+    {
+      "id": 19437,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_017_004.mp3",
+      "text": "وَٱلْمُنفِقِينَ",
+      "translation": "dan orang-orang yang menafkahkan hartanya",
+      "transliteration": "wal-munfiqīna"
+    },
+    {
+      "id": 19438,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_017_005.mp3",
+      "text": "وَٱلْمُسْتَغْفِرِينَ",
+      "translation": "dan orang-orang yang mohon ampun",
+      "transliteration": "wal-mus'taghfirīna"
+    },
+    {
+      "id": 19439,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_017_006.mp3",
+      "text": "بِٱلْأَسْحَارِ",
+      "translation": "pada waktu sahur",
+      "transliteration": "bil-asḥāri"
+    },
+    {
+      "id": 19440,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang sabar, yang benar, yang tetap taat, yang menafkahkan hartanya (di jalan Allah), dan yang memohon ampun di waktu sahur<sup foot_note_id=\"188\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 352760,
+    "timestamp_to": 366680,
+    "duration": 13920,
+    "segments": [
+      [
+        1,
+        352735,
+        354555
+      ],
+      [
+        2,
+        354555,
+        356275
+      ],
+      [
+        3,
+        356275,
+        357985
+      ],
+      [
+        4,
+        357985,
+        360365
+      ],
+      [
+        5,
+        360365,
+        362515
+      ],
+      [
+        6,
+        362515,
+        366620
+      ]
+    ]
+  }
+}

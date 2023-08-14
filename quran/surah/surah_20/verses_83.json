@@ -1,0 +1,99 @@
+{
+  "id": 2431,
+  "chapter_id": 20,
+  "verse_key": "20:83",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 273,
+  "manzil_number": 4,
+  "page_number": 317,
+  "juz_number": 16,
+  "text_uthmani": "۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَـٰمُوسَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3",
+  "words": [
+    {
+      "id": 65306,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_083_002.mp3",
+      "text": "۞ وَمَآ",
+      "translation": "dan mengapa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 65307,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_083_003.mp3",
+      "text": "أَعْجَلَكَ",
+      "translation": "kamu lebih cepat",
+      "transliteration": "aʿjalaka"
+    },
+    {
+      "id": 65308,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_083_004.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 65309,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_083_005.mp3",
+      "text": "قَوْمِكَ",
+      "translation": "kaummu",
+      "transliteration": "qawmika"
+    },
+    {
+      "id": 65310,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_083_006.mp3",
+      "text": "يَـٰمُوسَىٰ",
+      "translation": "wahai musa",
+      "transliteration": "yāmūsā"
+    },
+    {
+      "id": 65311,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mengapa kamu datang lebih cepat daripada kaummu, hai Musa?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 906350,
+    "timestamp_to": 913060,
+    "duration": 6710,
+    "segments": [
+      [
+        1,
+        905845,
+        907625
+      ],
+      [
+        2,
+        907625,
+        908635
+      ],
+      [
+        3,
+        908635,
+        909855
+      ],
+      [
+        4,
+        909855,
+        910745
+      ],
+      [
+        5,
+        910745,
+        912180
+      ]
+    ]
+  }
+}

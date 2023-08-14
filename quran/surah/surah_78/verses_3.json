@@ -1,0 +1,86 @@
+{
+  "id": 5675,
+  "chapter_id": 78,
+  "verse_key": "78:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 2799,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_003_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 2800,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_003_002.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 2801,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_003_003.mp3",
+      "text": "فِيهِ",
+      "translation": "di dalamnya/tentang itu",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 2802,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_003_004.mp3",
+      "text": "مُخْتَلِفُونَ",
+      "translation": "orang yang berselisih",
+      "transliteration": "mukh'talifūna"
+    },
+    {
+      "id": 2803,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mereka perselisihkan tentang ini.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 11550,
+    "timestamp_to": 17530,
+    "duration": 5980,
+    "segments": [
+      [
+        1,
+        11475,
+        12615
+      ],
+      [
+        2,
+        12615,
+        12955
+      ],
+      [
+        3,
+        12955,
+        13785
+      ],
+      [
+        4,
+        13785,
+        17350
+      ]
+    ]
+  }
+}

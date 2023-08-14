@@ -1,0 +1,117 @@
+{
+  "id": 4749,
+  "chapter_id": 52,
+  "verse_key": "52:14",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "هَـٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3",
+  "words": [
+    {
+      "id": 15997,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_014_001.mp3",
+      "text": "هَـٰذِهِ",
+      "translation": "inilah",
+      "transliteration": "hādhihi"
+    },
+    {
+      "id": 15998,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_014_002.mp3",
+      "text": "ٱلنَّارُ",
+      "translation": "api/neraka",
+      "transliteration": "l-nāru"
+    },
+    {
+      "id": 15999,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_014_003.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 16000,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_014_004.mp3",
+      "text": "كُنتُم",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 16001,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_014_005.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 16002,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_014_006.mp3",
+      "text": "تُكَذِّبُونَ",
+      "translation": "kamu mendustakan",
+      "transliteration": "tukadhibūna"
+    },
+    {
+      "id": 16003,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka), \"Inilah neraka yang dahulu kamu selalu mendustakannya\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 69260,
+    "timestamp_to": 79370,
+    "duration": 10110,
+    "segments": [
+      [
+        1,
+        68805,
+        69695
+      ],
+      [
+        2,
+        69695,
+        71115
+      ],
+      [
+        3,
+        71115,
+        72025
+      ],
+      [
+        4,
+        72025,
+        74045
+      ],
+      [
+        4,
+        74045,
+        74685
+      ],
+      [
+        5,
+        74685,
+        75265
+      ],
+      [
+        6,
+        75265,
+        78840
+      ]
+    ]
+  }
+}

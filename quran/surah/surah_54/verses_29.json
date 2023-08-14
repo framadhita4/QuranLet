@@ -1,0 +1,86 @@
+{
+  "id": 4875,
+  "chapter_id": 54,
+  "verse_key": "54:29",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 31830,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_029_001.mp3",
+      "text": "فَنَادَوْا۟",
+      "translation": "maka mereka memanggil",
+      "transliteration": "fanādaw"
+    },
+    {
+      "id": 31831,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_029_002.mp3",
+      "text": "صَاحِبَهُمْ",
+      "translation": "kawan mereka",
+      "transliteration": "ṣāḥibahum"
+    },
+    {
+      "id": 31832,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_029_003.mp3",
+      "text": "فَتَعَاطَىٰ",
+      "translation": "lalu ia berbuat nekat",
+      "transliteration": "fataʿāṭā"
+    },
+    {
+      "id": 31833,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_029_004.mp3",
+      "text": "فَعَقَرَ",
+      "translation": "maka ia memunuh/melukai",
+      "transliteration": "faʿaqara"
+    },
+    {
+      "id": 31834,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka memanggil kawannya, lalu kawannya menangkap (unta itu) dan membunuhnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 262760,
+    "timestamp_to": 268010,
+    "duration": 5250,
+    "segments": [
+      [
+        1,
+        262675,
+        263725
+      ],
+      [
+        2,
+        263725,
+        265135
+      ],
+      [
+        3,
+        265135,
+        266505
+      ],
+      [
+        4,
+        266505,
+        267830
+      ]
+    ]
+  }
+}

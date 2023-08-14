@@ -1,0 +1,164 @@
+{
+  "id": 364,
+  "chapter_id": 3,
+  "verse_key": "3:71",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "ruku_number": 48,
+  "manzil_number": 1,
+  "page_number": 59,
+  "juz_number": 3,
+  "text_uthmani": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 60150,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_001.mp3",
+      "text": "يَـٰٓأَهْلَ",
+      "translation": "Wahai ahli",
+      "transliteration": "yāahla"
+    },
+    {
+      "id": 60151,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_002.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 60152,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_003.mp3",
+      "text": "لِمَ",
+      "translation": "mengapa",
+      "transliteration": "lima"
+    },
+    {
+      "id": 60153,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_004.mp3",
+      "text": "تَلْبِسُونَ",
+      "translation": "kamu mencampur adukkan",
+      "transliteration": "talbisūna"
+    },
+    {
+      "id": 60154,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_005.mp3",
+      "text": "ٱلْحَقَّ",
+      "translation": "yang haq (benar)",
+      "transliteration": "l-ḥaqa"
+    },
+    {
+      "id": 60155,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_006.mp3",
+      "text": "بِٱلْبَـٰطِلِ",
+      "translation": "dengan yang bathil",
+      "transliteration": "bil-bāṭili"
+    },
+    {
+      "id": 60156,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_007.mp3",
+      "text": "وَتَكْتُمُونَ",
+      "translation": "dan kamu menyembunyikan",
+      "transliteration": "wataktumūna"
+    },
+    {
+      "id": 60157,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_008.mp3",
+      "text": "ٱلْحَقَّ",
+      "translation": "yang haq",
+      "transliteration": "l-ḥaqa"
+    },
+    {
+      "id": 60158,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_009.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 60159,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_071_010.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 60160,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧١",
+      "translation": "(71)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai ahli kitab, mengapa kamu mencampuradukkan yang hak dengan yang batil<sup foot_note_id=\"204\">1</sup>, dan menyembunyikan kebenaran<sup foot_note_id=\"205\">2</sup>, padahal kamu mengetahui?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1589270,
+    "timestamp_to": 1604130,
+    "duration": 14860,
+    "segments": [
+      [
+        1,
+        1589245,
+        1591845
+      ],
+      [
+        2,
+        1591845,
+        1592895
+      ],
+      [
+        3,
+        1592895,
+        1593275
+      ],
+      [
+        4,
+        1593275,
+        1594575
+      ],
+      [
+        5,
+        1594575,
+        1595525
+      ],
+      [
+        6,
+        1595525,
+        1596765
+      ],
+      [
+        7,
+        1596765,
+        1598205
+      ],
+      [
+        8,
+        1598205,
+        1599225
+      ],
+      [
+        9,
+        1599225,
+        1600965
+      ],
+      [
+        10,
+        1600965,
+        1604080
+      ]
+    ]
+  }
+}

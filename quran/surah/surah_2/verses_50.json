@@ -1,0 +1,164 @@
+{
+  "id": 57,
+  "chapter_id": 2,
+  "verse_key": "2:50",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 7,
+  "manzil_number": 1,
+  "page_number": 8,
+  "juz_number": 1,
+  "text_uthmani": "وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَـٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 48527,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 48528,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_002.mp3",
+      "text": "فَرَقْنَا",
+      "translation": "Kami membelah",
+      "transliteration": "faraqnā"
+    },
+    {
+      "id": 48529,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_003.mp3",
+      "text": "بِكُمُ",
+      "translation": "dengan/untuk kalian",
+      "transliteration": "bikumu"
+    },
+    {
+      "id": 48530,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_004.mp3",
+      "text": "ٱلْبَحْرَ",
+      "translation": "lautan",
+      "transliteration": "l-baḥra"
+    },
+    {
+      "id": 48531,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_005.mp3",
+      "text": "فَأَنجَيْنَـٰكُمْ",
+      "translation": "maka Kami selamatkan kalian",
+      "transliteration": "fa-anjaynākum"
+    },
+    {
+      "id": 48532,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_006.mp3",
+      "text": "وَأَغْرَقْنَآ",
+      "translation": "dan Kami tenggelamkan",
+      "transliteration": "wa-aghraqnā"
+    },
+    {
+      "id": 48533,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_007.mp3",
+      "text": "ءَالَ",
+      "translation": "keluarga/pengikut",
+      "transliteration": "āla"
+    },
+    {
+      "id": 48534,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_008.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 48535,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_009.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 48536,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_050_010.mp3",
+      "text": "تَنظُرُونَ",
+      "translation": "kalian melihat",
+      "transliteration": "tanẓurūna"
+    },
+    {
+      "id": 48537,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah), ketika Kami belah laut untukmu, lalu Kami selamatkan kamu dan Kami tenggelamkan (Firʻawn ) dan pengikut-pengikutnya sedang kamu sendiri menyaksikan<sup foot_note_id=\"47\">1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 908210,
+    "timestamp_to": 923360,
+    "duration": 15100,
+    "segments": [
+      [
+        1,
+        908135,
+        909045
+      ],
+      [
+        2,
+        909045,
+        909995
+      ],
+      [
+        3,
+        909995,
+        910545
+      ],
+      [
+        4,
+        910545,
+        911395
+      ],
+      [
+        5,
+        911395,
+        913875
+      ],
+      [
+        6,
+        913875,
+        916825
+      ],
+      [
+        7,
+        916825,
+        917465
+      ],
+      [
+        8,
+        917465,
+        918515
+      ],
+      [
+        9,
+        918515,
+        920205
+      ],
+      [
+        10,
+        920205,
+        923210
+      ]
+    ]
+  }
+}

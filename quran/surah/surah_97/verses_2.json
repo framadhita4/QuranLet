@@ -1,0 +1,99 @@
+{
+  "id": 6127,
+  "chapter_id": 97,
+  "verse_key": "97:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 541,
+  "manzil_number": 7,
+  "page_number": 598,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3",
+  "words": [
+    {
+      "id": 1789,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_002_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 1790,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_002_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 1791,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_002_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1792,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_002_004.mp3",
+      "text": "لَيْلَةُ",
+      "translation": "malam",
+      "transliteration": "laylatu"
+    },
+    {
+      "id": 1793,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/097_002_005.mp3",
+      "text": "ٱلْقَدْرِ",
+      "translation": "kemuliaan",
+      "transliteration": "l-qadri"
+    },
+    {
+      "id": 1794,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tahukah kamu apakah malam kemuliaan itu?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7970,
+    "timestamp_to": 13980,
+    "duration": 6010,
+    "segments": [
+      [
+        1,
+        7885,
+        10015
+      ],
+      [
+        2,
+        10015,
+        11145
+      ],
+      [
+        3,
+        11145,
+        11555
+      ],
+      [
+        4,
+        11555,
+        12365
+      ],
+      [
+        5,
+        12365,
+        13830
+      ]
+    ]
+  }
+}

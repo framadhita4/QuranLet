@@ -1,0 +1,164 @@
+{
+  "id": 51,
+  "chapter_id": 2,
+  "verse_key": "2:44",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 6,
+  "manzil_number": 1,
+  "page_number": 7,
+  "juz_number": 1,
+  "text_uthmani": "۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 44721,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_002.mp3",
+      "text": "۞ أَتَأْمُرُونَ",
+      "translation": "mengapa kalian menyuruh",
+      "transliteration": "atamurūna"
+    },
+    {
+      "id": 44722,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_003.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 44723,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_004.mp3",
+      "text": "بِٱلْبِرِّ",
+      "translation": "dengan (berbuat) kebaikan",
+      "transliteration": "bil-biri"
+    },
+    {
+      "id": 44724,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_005.mp3",
+      "text": "وَتَنسَوْنَ",
+      "translation": "dan kalian melupakan",
+      "transliteration": "watansawna"
+    },
+    {
+      "id": 44725,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_006.mp3",
+      "text": "أَنفُسَكُمْ",
+      "translation": "diri kalian sendiri",
+      "transliteration": "anfusakum"
+    },
+    {
+      "id": 44726,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_007.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 44727,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_008.mp3",
+      "text": "تَتْلُونَ",
+      "translation": "kalian membaca",
+      "transliteration": "tatlūna"
+    },
+    {
+      "id": 44728,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_009.mp3",
+      "text": "ٱلْكِتَـٰبَ ۚ",
+      "translation": "Al Kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 44730,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_011.mp3",
+      "text": "أَفَلَا",
+      "translation": "maka tidakkah",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 44731,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_044_012.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 44732,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mengapa kamu suruh orang lain (mengerjakan) kebajikan?  Sedang kamu melupakan diri (kewajiban)mu sendiri, padahal kamu membaca Alkitab (Taurat)? Maka tidaklah kamu berpikir?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 800450,
+    "timestamp_to": 816800,
+    "duration": 16350,
+    "segments": [
+      [
+        1,
+        800395,
+        801645
+      ],
+      [
+        2,
+        801645,
+        803265
+      ],
+      [
+        3,
+        803265,
+        804175
+      ],
+      [
+        4,
+        804175,
+        806075
+      ],
+      [
+        5,
+        806075,
+        807785
+      ],
+      [
+        6,
+        807785,
+        809075
+      ],
+      [
+        7,
+        809075,
+        809965
+      ],
+      [
+        8,
+        809965,
+        812705
+      ],
+      [
+        9,
+        812705,
+        813765
+      ],
+      [
+        10,
+        813765,
+        816640
+      ]
+    ]
+  }
+}

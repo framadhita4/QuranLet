@@ -1,0 +1,73 @@
+{
+  "id": 5562,
+  "chapter_id": 75,
+  "verse_key": "75:11",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّا لَا وَزَرَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3",
+  "words": [
+    {
+      "id": 12877,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_011_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 12878,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_011_002.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 12879,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_011_003.mp3",
+      "text": "وَزَرَ",
+      "translation": "tempat lari/berlindung",
+      "transliteration": "wazara"
+    },
+    {
+      "id": 12880,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sekali-kali tidak! Tidak ada tempat berlindung!",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 52630,
+    "timestamp_to": 55560,
+    "duration": 2930,
+    "segments": [
+      [
+        1,
+        52555,
+        53525
+      ],
+      [
+        2,
+        53525,
+        54385
+      ],
+      [
+        3,
+        54385,
+        55420
+      ]
+    ]
+  }
+}

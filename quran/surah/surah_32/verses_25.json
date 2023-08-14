@@ -1,0 +1,177 @@
+{
+  "id": 3528,
+  "chapter_id": 32,
+  "verse_key": "32:25",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "ruku_number": 362,
+  "manzil_number": 5,
+  "page_number": 417,
+  "juz_number": 21,
+  "text_uthmani": "إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3",
+  "words": [
+    {
+      "id": 28365,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 28366,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 28367,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_003.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 28368,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_004.mp3",
+      "text": "يَفْصِلُ",
+      "translation": "memberikan keputusan",
+      "transliteration": "yafṣilu"
+    },
+    {
+      "id": 28369,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_005.mp3",
+      "text": "بَيْنَهُمْ",
+      "translation": "diantara mereka",
+      "transliteration": "baynahum"
+    },
+    {
+      "id": 28370,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_006.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 28371,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_007.mp3",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation": "kiamat",
+      "transliteration": "l-qiyāmati"
+    },
+    {
+      "id": 28372,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_008.mp3",
+      "text": "فِيمَا",
+      "translation": "tentang apa",
+      "transliteration": "fīmā"
+    },
+    {
+      "id": 28373,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_009.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 28374,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_010.mp3",
+      "text": "فِيهِ",
+      "translation": "didalamnya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 28375,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_025_011.mp3",
+      "text": "يَخْتَلِفُونَ",
+      "translation": "mereka perselisihkan",
+      "transliteration": "yakhtalifūna"
+    },
+    {
+      "id": 28376,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu Dia-lah yang memberikan keputusan di antara mereka pada hari kiamat tentang apa yang selalu mereka perselisihkan padanya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 394270,
+    "timestamp_to": 404770,
+    "duration": 10500,
+    "segments": [
+      [
+        1,
+        394215,
+        395325
+      ],
+      [
+        2,
+        395325,
+        396065
+      ],
+      [
+        3,
+        396065,
+        396365
+      ],
+      [
+        4,
+        396365,
+        397185
+      ],
+      [
+        5,
+        397185,
+        398065
+      ],
+      [
+        6,
+        398065,
+        398625
+      ],
+      [
+        7,
+        398625,
+        399815
+      ],
+      [
+        8,
+        399815,
+        400555
+      ],
+      [
+        9,
+        400555,
+        401295
+      ],
+      [
+        10,
+        401295,
+        401955
+      ],
+      [
+        11,
+        401955,
+        404670
+      ]
+    ]
+  }
+}

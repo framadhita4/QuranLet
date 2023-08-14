@@ -1,0 +1,73 @@
+{
+  "id": 6005,
+  "chapter_id": 89,
+  "verse_key": "89:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 14074,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_012_001.mp3",
+      "text": "فَأَكْثَرُوا۟",
+      "translation": "lalu mereka banyak berbuat",
+      "transliteration": "fa-aktharū"
+    },
+    {
+      "id": 14075,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_012_002.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 14076,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_012_003.mp3",
+      "text": "ٱلْفَسَادَ",
+      "translation": "kerusakan",
+      "transliteration": "l-fasāda"
+    },
+    {
+      "id": 14077,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu mereka berbuat banyak kerusakan dalam negeri itu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 48300,
+    "timestamp_to": 53520,
+    "duration": 5230,
+    "segments": [
+      [
+        1,
+        48225,
+        49465
+      ],
+      [
+        2,
+        49465,
+        50095
+      ],
+      [
+        3,
+        50095,
+        53310
+      ]
+    ]
+  }
+}

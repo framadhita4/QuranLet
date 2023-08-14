@@ -1,0 +1,112 @@
+{
+  "id": 5905,
+  "chapter_id": 84,
+  "verse_key": "84:21",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3",
+  "words": [
+    {
+      "id": 23990,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_021_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 23991,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_021_002.mp3",
+      "text": "قُرِئَ",
+      "translation": "dibacakan",
+      "transliteration": "quri-a"
+    },
+    {
+      "id": 23992,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_021_003.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 23993,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_021_004.mp3",
+      "text": "ٱلْقُرْءَانُ",
+      "translation": "Al Qur'an",
+      "transliteration": "l-qur'ānu"
+    },
+    {
+      "id": 23994,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_021_005.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 23995,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_021_006.mp3",
+      "text": "يَسْجُدُونَ ۩",
+      "translation": "sujud",
+      "transliteration": "yasjudūna"
+    },
+    {
+      "id": 23997,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": ""
+    }
+  ],
+  "translation": {
+    "text": "dan apabila Al-Qur`ān dibacakan kepada mereka, mereka tidak bersujud,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 107480,
+    "timestamp_to": 115530,
+    "duration": 8050,
+    "segments": [
+      [
+        1,
+        107455,
+        108295
+      ],
+      [
+        2,
+        108295,
+        108995
+      ],
+      [
+        3,
+        108995,
+        110035
+      ],
+      [
+        4,
+        110035,
+        111505
+      ],
+      [
+        5,
+        111505,
+        111985
+      ],
+      [
+        6,
+        111985,
+        115480
+      ]
+    ]
+  }
+}

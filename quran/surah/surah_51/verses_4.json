@@ -1,0 +1,60 @@
+{
+  "id": 4679,
+  "chapter_id": 51,
+  "verse_key": "51:4",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "فَٱلْمُقَسِّمَـٰتِ أَمْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3",
+  "words": [
+    {
+      "id": 3507,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_004_001.mp3",
+      "text": "فَٱلْمُقَسِّمَـٰتِ",
+      "translation": "maka yang membagi",
+      "transliteration": "fal-muqasimāti"
+    },
+    {
+      "id": 3508,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_004_002.mp3",
+      "text": "أَمْرًا",
+      "translation": "pekara/urusan",
+      "transliteration": "amran"
+    },
+    {
+      "id": 3509,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang membagi-bagi urusan<sup foot_note_id=\"1415\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 10270,
+    "timestamp_to": 13850,
+    "duration": 3580,
+    "segments": [
+      [
+        1,
+        10245,
+        12285
+      ],
+      [
+        2,
+        12285,
+        13770
+      ]
+    ]
+  }
+}

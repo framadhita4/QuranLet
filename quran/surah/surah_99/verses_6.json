@@ -1,0 +1,112 @@
+{
+  "id": 6144,
+  "chapter_id": 99,
+  "verse_key": "99:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3",
+  "words": [
+    {
+      "id": 6824,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_006_001.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 6825,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_006_002.mp3",
+      "text": "يَصْدُرُ",
+      "translation": "keluar",
+      "transliteration": "yaṣduru"
+    },
+    {
+      "id": 6826,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_006_003.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 6827,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_006_004.mp3",
+      "text": "أَشْتَاتًۭا",
+      "translation": "bermacam-macam",
+      "transliteration": "ashtātan"
+    },
+    {
+      "id": 6828,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_006_005.mp3",
+      "text": "لِّيُرَوْا۟",
+      "translation": "untuk mereka lihat",
+      "transliteration": "liyuraw"
+    },
+    {
+      "id": 6829,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/099_006_006.mp3",
+      "text": "أَعْمَـٰلَهُمْ",
+      "translation": "amal-amal mereka",
+      "transliteration": "aʿmālahum"
+    },
+    {
+      "id": 6830,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari itu manusia ke luar dari kuburnya dalam keadaan bermacam-macam, supaya diperlihatkan kepada mereka (balasan) pekerjaan mereka<sup foot_note_id=\"1597\">1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 24610,
+    "timestamp_to": 33280,
+    "duration": 8670,
+    "segments": [
+      [
+        1,
+        23965,
+        25975
+      ],
+      [
+        2,
+        25975,
+        26795
+      ],
+      [
+        3,
+        26795,
+        28425
+      ],
+      [
+        4,
+        28425,
+        29505
+      ],
+      [
+        5,
+        29505,
+        30525
+      ],
+      [
+        6,
+        30525,
+        32480
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5628,
+  "chapter_id": 77,
+  "verse_key": "77:6",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "عُذْرًا أَوْ نُذْرًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3",
+  "words": [
+    {
+      "id": 6648,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_006_001.mp3",
+      "text": "عُذْرًا",
+      "translation": "alasan/pembelaan",
+      "transliteration": "ʿudh'ran"
+    },
+    {
+      "id": 6649,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_006_002.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 6650,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_006_003.mp3",
+      "text": "نُذْرًا",
+      "translation": "peringatan",
+      "transliteration": "nudh'ran"
+    },
+    {
+      "id": 6651,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk menolak alasan-alasan atau memberi peringatan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 15260,
+    "timestamp_to": 17790,
+    "duration": 2530,
+    "segments": [
+      [
+        1,
+        15235,
+        16055
+      ],
+      [
+        2,
+        16055,
+        16425
+      ],
+      [
+        3,
+        16425,
+        17730
+      ]
+    ]
+  }
+}

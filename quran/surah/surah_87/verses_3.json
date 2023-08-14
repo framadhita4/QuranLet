@@ -1,0 +1,73 @@
+{
+  "id": 5951,
+  "chapter_id": 87,
+  "verse_key": "87:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3",
+  "words": [
+    {
+      "id": 2885,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_003_001.mp3",
+      "text": "وَٱلَّذِى",
+      "translation": "dan yang",
+      "transliteration": "wa-alladhī"
+    },
+    {
+      "id": 2886,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_003_002.mp3",
+      "text": "قَدَّرَ",
+      "translation": "Dia menentukan",
+      "transliteration": "qaddara"
+    },
+    {
+      "id": 2887,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_003_003.mp3",
+      "text": "فَهَدَىٰ",
+      "translation": "lalu Dia memberi petunjuk",
+      "transliteration": "fahadā"
+    },
+    {
+      "id": 2888,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan yang menentukan kadar (masing-masing) dan memberi petunjuk,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 7550,
+    "timestamp_to": 11050,
+    "duration": 3500,
+    "segments": [
+      [
+        1,
+        6965,
+        7965
+      ],
+      [
+        2,
+        7965,
+        8805
+      ],
+      [
+        3,
+        8805,
+        9880
+      ]
+    ]
+  }
+}

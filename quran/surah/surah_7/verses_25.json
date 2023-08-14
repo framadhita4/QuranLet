@@ -1,0 +1,125 @@
+{
+  "id": 979,
+  "chapter_id": 7,
+  "verse_key": "7:25",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 123,
+  "manzil_number": 2,
+  "page_number": 153,
+  "juz_number": 8,
+  "text_uthmani": "قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 28512,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Allah) berfirman",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 28513,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_002.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya (bumi)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 28514,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_003.mp3",
+      "text": "تَحْيَوْنَ",
+      "translation": "kamu hidup",
+      "transliteration": "taḥyawna"
+    },
+    {
+      "id": 28515,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_004.mp3",
+      "text": "وَفِيهَا",
+      "translation": "dan didalamnya (bumi)",
+      "transliteration": "wafīhā"
+    },
+    {
+      "id": 28516,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_005.mp3",
+      "text": "تَمُوتُونَ",
+      "translation": "kamu mati",
+      "transliteration": "tamūtūna"
+    },
+    {
+      "id": 28517,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_006.mp3",
+      "text": "وَمِنْهَا",
+      "translation": "dan daripadanya (bumi)",
+      "transliteration": "wamin'hā"
+    },
+    {
+      "id": 28518,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_025_007.mp3",
+      "text": "تُخْرَجُونَ",
+      "translation": "kamu dikeluarkan",
+      "transliteration": "tukh'rajūna"
+    },
+    {
+      "id": 28519,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Di bumi itu kamu hidup dan di bumi itu kamu mati, dan dari bumi itu (pula) kamu akan dibangkitkan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 434510,
+    "timestamp_to": 446030,
+    "duration": 11520,
+    "segments": [
+      [
+        1,
+        434485,
+        435185
+      ],
+      [
+        2,
+        435185,
+        436075
+      ],
+      [
+        3,
+        436075,
+        437225
+      ],
+      [
+        4,
+        437225,
+        438335
+      ],
+      [
+        5,
+        438335,
+        439715
+      ],
+      [
+        6,
+        439715,
+        440895
+      ],
+      [
+        7,
+        440895,
+        445379
+      ]
+    ]
+  }
+}

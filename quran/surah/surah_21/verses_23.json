@@ -1,0 +1,112 @@
+{
+  "id": 2506,
+  "chapter_id": 21,
+  "verse_key": "21:23",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 279,
+  "manzil_number": 4,
+  "page_number": 323,
+  "juz_number": 17,
+  "text_uthmani": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3",
+  "words": [
+    {
+      "id": 25805,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_023_001.mp3",
+      "text": "لَا",
+      "translation": "tidak/tidaklah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 25806,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_023_002.mp3",
+      "text": "يُسْـَٔلُ",
+      "translation": "Dia ditanya",
+      "transliteration": "yus'alu"
+    },
+    {
+      "id": 25807,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_023_003.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 25808,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_023_004.mp3",
+      "text": "يَفْعَلُ",
+      "translation": "Dia berbuat",
+      "transliteration": "yafʿalu"
+    },
+    {
+      "id": 25809,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_023_005.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/tetapi mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 25810,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_023_006.mp3",
+      "text": "يُسْـَٔلُونَ",
+      "translation": "mereka akan ditanya",
+      "transliteration": "yus'alūna"
+    },
+    {
+      "id": 25811,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia tidak ditanya tentang apa yang diperbuat-Nya dan merekalah yang akan ditanyai.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 282250,
+    "timestamp_to": 289250,
+    "duration": 7000,
+    "segments": [
+      [
+        1,
+        282205,
+        282655
+      ],
+      [
+        2,
+        282655,
+        283445
+      ],
+      [
+        3,
+        283445,
+        284845
+      ],
+      [
+        4,
+        284845,
+        285735
+      ],
+      [
+        5,
+        285735,
+        286185
+      ],
+      [
+        6,
+        286185,
+        289180
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 3925,
+  "chapter_id": 37,
+  "verse_key": "37:137",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78799,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_137_001.mp3",
+      "text": "وَإِنَّكُمْ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innakum"
+    },
+    {
+      "id": 78800,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_137_002.mp3",
+      "text": "لَتَمُرُّونَ",
+      "translation": "sungguh kamu akan melalui",
+      "transliteration": "latamurrūna"
+    },
+    {
+      "id": 78801,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_137_003.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 78802,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_137_004.mp3",
+      "text": "مُّصْبِحِينَ",
+      "translation": "diwaktu pagi",
+      "transliteration": "muṣ'biḥīna"
+    },
+    {
+      "id": 78803,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣٧",
+      "translation": "(137)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya kamu (hai penduduk Mekah) benar-benar akan melalui (bekas-bekas) mereka pada waktu pagi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 1112310,
+    "timestamp_to": 1120850,
+    "duration": 8540,
+    "segments": [
+      [
+        1,
+        1112235,
+        1114025
+      ],
+      [
+        2,
+        1114025,
+        1115445
+      ],
+      [
+        3,
+        1115445,
+        1116785
+      ],
+      [
+        4,
+        1116785,
+        1120710
+      ]
+    ]
+  }
+}

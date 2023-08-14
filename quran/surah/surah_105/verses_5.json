@@ -1,0 +1,73 @@
+{
+  "id": 6193,
+  "chapter_id": 105,
+  "verse_key": "105:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 549,
+  "manzil_number": 7,
+  "page_number": 601,
+  "juz_number": 30,
+  "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3",
+  "words": [
+    {
+      "id": 5092,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_005_001.mp3",
+      "text": "فَجَعَلَهُمْ",
+      "translation": "lalu Dia menjadikan mereka",
+      "transliteration": "fajaʿalahum"
+    },
+    {
+      "id": 5093,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_005_002.mp3",
+      "text": "كَعَصْفٍۢ",
+      "translation": "seperti daun",
+      "transliteration": "kaʿaṣfin"
+    },
+    {
+      "id": 5094,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/105_005_003.mp3",
+      "text": "مَّأْكُولٍۭ",
+      "translation": "dimakan",
+      "transliteration": "makūlin"
+    },
+    {
+      "id": 5095,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 30440,
+    "timestamp_to": 39480,
+    "duration": 9039,
+    "segments": [
+      [
+        1,
+        30385,
+        31565
+      ],
+      [
+        2,
+        31565,
+        33845
+      ],
+      [
+        3,
+        33845,
+        37610
+      ]
+    ]
+  }
+}

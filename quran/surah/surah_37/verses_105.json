@@ -1,0 +1,125 @@
+{
+  "id": 3893,
+  "chapter_id": 37,
+  "verse_key": "37:105",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 72910,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_001.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "qad"
+    },
+    {
+      "id": 72911,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_002.mp3",
+      "text": "صَدَّقْتَ",
+      "translation": "kamu telah membenarkan",
+      "transliteration": "ṣaddaqta"
+    },
+    {
+      "id": 72912,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_003.mp3",
+      "text": "ٱلرُّءْيَآ ۚ",
+      "translation": "mimpi",
+      "transliteration": "l-ru'yā"
+    },
+    {
+      "id": 72914,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_005.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 72915,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_006.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 72916,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_007.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 72917,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_105_008.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 72918,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠٥",
+      "translation": "(105)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya kamu telah membenarkan mimpi itu <sup foot_note_id=\"1284\">1</sup> sesungguhnya demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 874980,
+    "timestamp_to": 885460,
+    "duration": 10480,
+    "segments": [
+      [
+        1,
+        874925,
+        875335
+      ],
+      [
+        2,
+        875335,
+        876445
+      ],
+      [
+        3,
+        876445,
+        877715
+      ],
+      [
+        4,
+        877715,
+        879565
+      ],
+      [
+        5,
+        879565,
+        880695
+      ],
+      [
+        6,
+        880695,
+        881305
+      ],
+      [
+        7,
+        881305,
+        885340
+      ]
+    ]
+  }
+}

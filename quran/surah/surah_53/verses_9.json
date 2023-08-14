@@ -1,0 +1,99 @@
+{
+  "id": 4793,
+  "chapter_id": 53,
+  "verse_key": "53:9",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3",
+  "words": [
+    {
+      "id": 9952,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_009_001.mp3",
+      "text": "فَكَانَ",
+      "translation": "maka adalah dia",
+      "transliteration": "fakāna"
+    },
+    {
+      "id": 9953,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_009_002.mp3",
+      "text": "قَابَ",
+      "translation": "ukuran/jarak",
+      "transliteration": "qāba"
+    },
+    {
+      "id": 9954,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_009_003.mp3",
+      "text": "قَوْسَيْنِ",
+      "translation": "dua busur panah",
+      "transliteration": "qawsayni"
+    },
+    {
+      "id": 9955,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_009_004.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 9956,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_009_005.mp3",
+      "text": "أَدْنَىٰ",
+      "translation": "lebih dekat",
+      "transliteration": "adnā"
+    },
+    {
+      "id": 9957,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka jadilah dia dekat (pada Muhammad sejarak) dua ujung busur panah atau lebih dekat (lagi).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 34560,
+    "timestamp_to": 39260,
+    "duration": 4700,
+    "segments": [
+      [
+        1,
+        34035,
+        34995
+      ],
+      [
+        2,
+        34995,
+        35675
+      ],
+      [
+        3,
+        35675,
+        36885
+      ],
+      [
+        4,
+        36885,
+        37285
+      ],
+      [
+        5,
+        37285,
+        38270
+      ]
+    ]
+  }
+}

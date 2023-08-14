@@ -1,0 +1,151 @@
+{
+  "id": 5711,
+  "chapter_id": 78,
+  "verse_key": "78:39",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3",
+  "words": [
+    {
+      "id": 40931,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 40932,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_002.mp3",
+      "text": "ٱلْيَوْمُ",
+      "translation": "hari",
+      "transliteration": "l-yawmu"
+    },
+    {
+      "id": 40933,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_003.mp3",
+      "text": "ٱلْحَقُّ ۖ",
+      "translation": "hak/benar",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 40935,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_005.mp3",
+      "text": "فَمَن",
+      "translation": "maka barang siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 40936,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_006.mp3",
+      "text": "شَآءَ",
+      "translation": "ia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 40937,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_007.mp3",
+      "text": "ٱتَّخَذَ",
+      "translation": "ia mengambil",
+      "transliteration": "ittakhadha"
+    },
+    {
+      "id": 40938,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_008.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 40939,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_009.mp3",
+      "text": "رَبِّهِۦ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbihi"
+    },
+    {
+      "id": 40940,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_039_010.mp3",
+      "text": "مَـَٔابًا",
+      "translation": "tempat kembali",
+      "transliteration": "maāban"
+    },
+    {
+      "id": 40941,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Itulah hari yang pasti terjadi.  Maka barang siapa yang menghendaki, niscaya ia menempuh jalan kembali kepada Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 232410,
+    "timestamp_to": 243720,
+    "duration": 11310,
+    "segments": [
+      [
+        1,
+        232295,
+        233345
+      ],
+      [
+        2,
+        233345,
+        234285
+      ],
+      [
+        3,
+        234285,
+        235665
+      ],
+      [
+        4,
+        235665,
+        236155
+      ],
+      [
+        5,
+        236155,
+        238775
+      ],
+      [
+        6,
+        238775,
+        239835
+      ],
+      [
+        7,
+        239835,
+        240405
+      ],
+      [
+        8,
+        240405,
+        241705
+      ],
+      [
+        9,
+        241705,
+        243490
+      ]
+    ]
+  }
+}

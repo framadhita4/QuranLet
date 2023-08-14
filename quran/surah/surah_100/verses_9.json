@@ -1,0 +1,125 @@
+{
+  "id": 6155,
+  "chapter_id": 100,
+  "verse_key": "100:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "page_number": 599,
+  "juz_number": 30,
+  "text_uthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3",
+  "words": [
+    {
+      "id": 10714,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_002.mp3",
+      "text": "۞ أَفَلَا",
+      "translation": "maka apakah tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 10715,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_003.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 10716,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_004.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 10717,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_005.mp3",
+      "text": "بُعْثِرَ",
+      "translation": "dibangkitkan",
+      "transliteration": "buʿ'thira"
+    },
+    {
+      "id": 10718,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_006.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 10719,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_007.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 10720,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/100_009_008.mp3",
+      "text": "ٱلْقُبُورِ",
+      "translation": "kubur",
+      "transliteration": "l-qubūri"
+    },
+    {
+      "id": 10721,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah dia tidak mengetahui apabila dibangkitkan apa yang ada di dalam kubur,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 37600,
+    "timestamp_to": 44710,
+    "duration": 7110,
+    "segments": [
+      [
+        1,
+        37545,
+        38455
+      ],
+      [
+        2,
+        38455,
+        39295
+      ],
+      [
+        3,
+        39295,
+        40015
+      ],
+      [
+        4,
+        40015,
+        40945
+      ],
+      [
+        5,
+        40945,
+        41295
+      ],
+      [
+        6,
+        41295,
+        41525
+      ],
+      [
+        7,
+        41525,
+        44610
+      ]
+    ]
+  }
+}

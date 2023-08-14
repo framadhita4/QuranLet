@@ -1,0 +1,112 @@
+{
+  "id": 2974,
+  "chapter_id": 26,
+  "verse_key": "26:42",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 43106,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_042_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Fir'aun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 43107,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_042_002.mp3",
+      "text": "نَعَمْ",
+      "translation": "ya",
+      "transliteration": "naʿam"
+    },
+    {
+      "id": 43108,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_042_003.mp3",
+      "text": "وَإِنَّكُمْ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innakum"
+    },
+    {
+      "id": 43109,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_042_004.mp3",
+      "text": "إِذًۭا",
+      "translation": "kalau demikian",
+      "transliteration": "idhan"
+    },
+    {
+      "id": 43110,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_042_005.mp3",
+      "text": "لَّمِنَ",
+      "translation": "sungguh dari/termasuk",
+      "transliteration": "lamina"
+    },
+    {
+      "id": 43111,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_042_006.mp3",
+      "text": "ٱلْمُقَرَّبِينَ",
+      "translation": "orang-orang yang dekat",
+      "transliteration": "l-muqarabīna"
+    },
+    {
+      "id": 43112,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  menjawab, \"Ya, kalau demikian, sesungguhnya kamu sekalian benar-benar akan menjadi orang yang didekatkan (kepadaku)\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 414040,
+    "timestamp_to": 421960,
+    "duration": 7920,
+    "segments": [
+      [
+        1,
+        414005,
+        414715
+      ],
+      [
+        2,
+        414715,
+        415285
+      ],
+      [
+        3,
+        415285,
+        417225
+      ],
+      [
+        4,
+        417225,
+        417725
+      ],
+      [
+        5,
+        417725,
+        418405
+      ],
+      [
+        6,
+        418405,
+        421860
+      ]
+    ]
+  }
+}

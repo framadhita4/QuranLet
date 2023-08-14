@@ -1,0 +1,99 @@
+{
+  "id": 2688,
+  "chapter_id": 23,
+  "verse_key": "23:15",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 17484,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_015_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 17485,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_015_002.mp3",
+      "text": "إِنَّكُم",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 17486,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_015_003.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 17487,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_015_004.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 17488,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_015_005.mp3",
+      "text": "لَمَيِّتُونَ",
+      "translation": "pasti mati",
+      "transliteration": "lamayyitūna"
+    },
+    {
+      "id": 17489,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian sesudah itu, sesungguhnya kamu sekalian benar-benar akan mati.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 151630,
+    "timestamp_to": 160380,
+    "duration": 8750,
+    "segments": [
+      [
+        1,
+        151585,
+        152775
+      ],
+      [
+        2,
+        152775,
+        154995
+      ],
+      [
+        3,
+        154995,
+        156025
+      ],
+      [
+        4,
+        156025,
+        156905
+      ],
+      [
+        5,
+        156905,
+        160280
+      ]
+    ]
+  }
+}

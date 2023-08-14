@@ -1,0 +1,86 @@
+{
+  "id": 5922,
+  "chapter_id": 85,
+  "verse_key": "85:13",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3",
+  "words": [
+    {
+      "id": 15397,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_013_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya Dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 15398,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_013_002.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 15399,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_013_003.mp3",
+      "text": "يُبْدِئُ",
+      "translation": "Dia memulai menciptakan",
+      "transliteration": "yub'di-u"
+    },
+    {
+      "id": 15400,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_013_004.mp3",
+      "text": "وَيُعِيدُ",
+      "translation": "dan Dia mengulangi",
+      "transliteration": "wayuʿīdu"
+    },
+    {
+      "id": 15401,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Dia-lah Yang menciptakan (makhluk) dari permulaan dan menghidupkannya (kembali).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "timestamps": {
+    "timestamp_from": 119530,
+    "timestamp_to": 126790,
+    "duration": 7260,
+    "segments": [
+      [
+        1,
+        119465,
+        121635
+      ],
+      [
+        2,
+        121635,
+        121965
+      ],
+      [
+        3,
+        121965,
+        122935
+      ],
+      [
+        4,
+        122935,
+        126670
+      ]
+    ]
+  }
+}
