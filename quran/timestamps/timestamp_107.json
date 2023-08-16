@@ -1,0 +1,191 @@
+{
+  "id": 1123,
+  "chapter_id": 107,
+  "file_size": 929920,
+  "format": "mp3",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3",
+  "duration": 48000,
+  "verse_timings": [
+    {
+      "verse_key": "107:1",
+      "timestamp_from": 0,
+      "timestamp_to": 6270,
+      "duration": 6270,
+      "segments": [
+        [
+          1,
+          0,
+          1010
+        ],
+        [
+          2,
+          1010,
+          1670
+        ],
+        [
+          3,
+          1670,
+          2990
+        ],
+        [
+          4,
+          2990,
+          6185
+        ]
+      ]
+    },
+    {
+      "verse_key": "107:2",
+      "timestamp_from": 6270,
+      "timestamp_to": 12800,
+      "duration": 6530,
+      "segments": [
+        [
+          1,
+          6185,
+          7335
+        ],
+        [
+          2,
+          7335,
+          8185
+        ],
+        [
+          3,
+          8185,
+          8955
+        ],
+        [
+          4,
+          8955,
+          12620
+        ]
+      ]
+    },
+    {
+      "verse_key": "107:3",
+      "timestamp_from": 12800,
+      "timestamp_to": 20010,
+      "duration": 7210,
+      "segments": [
+        [
+          1,
+          12705,
+          13465
+        ],
+        [
+          2,
+          13465,
+          14435
+        ],
+        [
+          3,
+          14435,
+          14945
+        ],
+        [
+          4,
+          14945,
+          15855
+        ],
+        [
+          5,
+          15855,
+          19850
+        ]
+      ]
+    },
+    {
+      "verse_key": "107:4",
+      "timestamp_from": 20010,
+      "timestamp_to": 25730,
+      "duration": 5720,
+      "segments": [
+        [
+          1,
+          19945,
+          20875
+        ],
+        [
+          2,
+          20875,
+          25310
+        ]
+      ]
+    },
+    {
+      "verse_key": "107:5",
+      "timestamp_from": 25730,
+      "timestamp_to": 33280,
+      "duration": 7550,
+      "segments": [
+        [
+          1,
+          25375,
+          26665
+        ],
+        [
+          2,
+          26665,
+          27055
+        ],
+        [
+          3,
+          27055,
+          27805
+        ],
+        [
+          4,
+          27805,
+          29465
+        ],
+        [
+          5,
+          29465,
+          32850
+        ]
+      ]
+    },
+    {
+      "verse_key": "107:6",
+      "timestamp_from": 33280,
+      "timestamp_to": 40910,
+      "duration": 7630,
+      "segments": [
+        [
+          1,
+          33205,
+          34435
+        ],
+        [
+          2,
+          34435,
+          34895
+        ],
+        [
+          3,
+          34895,
+          40660
+        ]
+      ]
+    },
+    {
+      "verse_key": "107:7",
+      "timestamp_from": 40910,
+      "timestamp_to": 48170,
+      "duration": 7260,
+      "segments": [
+        [
+          1,
+          40735,
+          42235
+        ],
+        [
+          2,
+          42235,
+          47260
+        ]
+      ]
+    }
+  ]
+}

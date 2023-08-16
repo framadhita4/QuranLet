@@ -1,0 +1,158 @@
+{
+  "id": 1137,
+  "chapter_id": 114,
+  "file_size": 811136,
+  "format": "mp3",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3",
+  "duration": 40000,
+  "verse_timings": [
+    {
+      "verse_key": "114:1",
+      "timestamp_from": 0,
+      "timestamp_to": 6110,
+      "duration": 6110,
+      "segments": [
+        [
+          1,
+          0,
+          330
+        ],
+        [
+          2,
+          330,
+          1230
+        ],
+        [
+          3,
+          1230,
+          2050
+        ],
+        [
+          4,
+          2050,
+          6085
+        ]
+      ]
+    },
+    {
+      "verse_key": "114:2",
+      "timestamp_from": 6110,
+      "timestamp_to": 11390,
+      "duration": 5280,
+      "segments": [
+        [
+          1,
+          6085,
+          6725
+        ],
+        [
+          2,
+          6725,
+          11290
+        ]
+      ]
+    },
+    {
+      "verse_key": "114:3",
+      "timestamp_from": 11390,
+      "timestamp_to": 16750,
+      "duration": 5360,
+      "segments": [
+        [
+          1,
+          11315,
+          12155
+        ],
+        [
+          2,
+          12155,
+          16610
+        ]
+      ]
+    },
+    {
+      "verse_key": "114:4",
+      "timestamp_from": 16750,
+      "timestamp_to": 24740,
+      "duration": 7990,
+      "segments": [
+        [
+          1,
+          16685,
+          17085
+        ],
+        [
+          2,
+          17086,
+          18805
+        ],
+        [
+          3,
+          18805,
+          20075
+        ],
+        [
+          4,
+          20075,
+          24600
+        ]
+      ]
+    },
+    {
+      "verse_key": "114:5",
+      "timestamp_from": 24740,
+      "timestamp_to": 32660,
+      "duration": 7920,
+      "segments": [
+        [
+          1,
+          24665,
+          25805
+        ],
+        [
+          2,
+          25805,
+          26795
+        ],
+        [
+          3,
+          26795,
+          27175
+        ],
+        [
+          4,
+          27175,
+          28085
+        ],
+        [
+          5,
+          28085,
+          32530
+        ]
+      ]
+    },
+    {
+      "verse_key": "114:6",
+      "timestamp_from": 32660,
+      "timestamp_to": 40910,
+      "duration": 8260,
+      "segments": [
+        [
+          1,
+          32605,
+          32985
+        ],
+        [
+          2,
+          32985,
+          35215
+        ],
+        [
+          3,
+          35215,
+          40790
+        ]
+      ]
+    }
+  ]
+}

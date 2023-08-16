@@ -1,0 +1,127 @@
+{
+  "id": 1121,
+  "chapter_id": 106,
+  "file_size": 690304,
+  "format": "mp3",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3",
+  "duration": 32000,
+  "verse_timings": [
+    {
+      "verse_key": "106:1",
+      "timestamp_from": 0,
+      "timestamp_to": 4620,
+      "duration": 4620,
+      "segments": [
+        [
+          1,
+          0,
+          1290
+        ],
+        [
+          2,
+          1290,
+          4575
+        ]
+      ]
+    },
+    {
+      "verse_key": "106:2",
+      "timestamp_from": 4620,
+      "timestamp_to": 13480,
+      "duration": 8860,
+      "segments": [
+        [
+          1,
+          4575,
+          6085
+        ],
+        [
+          2,
+          6085,
+          6865
+        ],
+        [
+          3,
+          6865,
+          9535
+        ],
+        [
+          4,
+          9535,
+          13370
+        ]
+      ]
+    },
+    {
+      "verse_key": "106:3",
+      "timestamp_from": 13480,
+      "timestamp_to": 19440,
+      "duration": 5960,
+      "segments": [
+        [
+          1,
+          13415,
+          14965
+        ],
+        [
+          2,
+          14965,
+          15575
+        ],
+        [
+          3,
+          15575,
+          16185
+        ],
+        [
+          4,
+          16185,
+          18940
+        ]
+      ]
+    },
+    {
+      "verse_key": "106:4",
+      "timestamp_from": 19440,
+      "timestamp_to": 33000,
+      "duration": 13560,
+      "segments": [
+        [
+          1,
+          19005,
+          21305
+        ],
+        [
+          2,
+          21305,
+          22435
+        ],
+        [
+          3,
+          22435,
+          23585
+        ],
+        [
+          4,
+          23585,
+          26265
+        ],
+        [
+          5,
+          26265,
+          27725
+        ],
+        [
+          6,
+          27725,
+          28945
+        ],
+        [
+          7,
+          28945,
+          31260
+        ]
+      ]
+    }
+  ]
+}

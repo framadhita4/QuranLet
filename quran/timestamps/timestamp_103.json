@@ -1,0 +1,104 @@
+{
+  "id": 1115,
+  "chapter_id": 103,
+  "file_size": 448640,
+  "format": "mp3",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/103.mp3",
+  "duration": 20000,
+  "verse_timings": [
+    {
+      "verse_key": "103:1",
+      "timestamp_from": 0,
+      "timestamp_to": 1780,
+      "duration": 1780,
+      "segments": [
+        [
+          1,
+          0,
+          1715
+        ]
+      ]
+    },
+    {
+      "verse_key": "103:2",
+      "timestamp_from": 1780,
+      "timestamp_to": 7580,
+      "duration": 5800,
+      "segments": [
+        [
+          1,
+          1715,
+          2965
+        ],
+        [
+          2,
+          2965,
+          5615
+        ],
+        [
+          3,
+          5615,
+          6195
+        ],
+        [
+          4,
+          6195,
+          7260
+        ]
+      ]
+    },
+    {
+      "verse_key": "103:3",
+      "timestamp_from": 7580,
+      "timestamp_to": 20120,
+      "duration": 12540,
+      "segments": [
+        [
+          1,
+          7325,
+          8005
+        ],
+        [
+          2,
+          8005,
+          9015
+        ],
+        [
+          3,
+          9015,
+          10295
+        ],
+        [
+          4,
+          10295,
+          11115
+        ],
+        [
+          5,
+          11115,
+          12735
+        ],
+        [
+          6,
+          12735,
+          13995
+        ],
+        [
+          7,
+          13995,
+          15055
+        ],
+        [
+          8,
+          15055,
+          16445
+        ],
+        [
+          9,
+          16445,
+          19580
+        ]
+      ]
+    }
+  ]
+}
