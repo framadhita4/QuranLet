@@ -1,4 +1,4 @@
-export type Verses = {
+export type VersesType = {
   id: number;
   chapter_id: number;
   verse_key: string;

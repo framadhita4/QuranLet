@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <Head>
       <title>QuranLet</title>
     </Head>
-    <main className={`${notoSans.className} font-semibold text-gray-700`}>
+    <main className={`${notoSans.className} font-medium text-gray-700`}>
       <Component {...pageProps} />
     </main>
   </>

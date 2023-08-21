@@ -48,6 +48,10 @@
   --thr-color-light: #63a4ff;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .off-canvas-enter {
   opacity: 0;
   top: 2.5rem;
@@ -75,4 +79,38 @@ sup {
   cursor: pointer;
   color: var(--sec-color-light);
   padding: 0.2rem;
+}
+
+.audio-bar {
+  -webkit-appearance: none;
+  position: relative;
+  margin-bottom: .25rem;
+  width: 100%;
+  height: .25rem;
+  background-color: theme("colors.slate.300");
+  cursor: pointer;
+  background-image: linear-gradient(theme("colors.sec-color-light"), theme("colors.sec-color-light"));
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+}
+
+/* chrome styling */
+::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: theme("colors.sec-color-light");
+  border: 3px solid white;
+  border-radius: 100%;
+}
+
+/* mozilla styling */
+
+::-moz-range-thumb {
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: theme("colors.sec-color-light");
+  border: 3px solid white;
+  border-radius: 100%;
+  box-sizing: border-box;
 }
