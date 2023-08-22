@@ -1,10 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
 import Link from 'next/link';
-import Setting from './settingButton';
+import Setting from './Setting/setting-button';
 import type { SurahInfo } from '@/types/surah-info-type';
 import { useEffect, useState } from 'react';
-import { useAtom } from 'jotai';
-import { surahInfoAtom } from './atoms/surah-info-atom';
 
 export default function Navbar({ surahInfo }: { surahInfo: SurahInfo | undefined }) {
   const [isActive, setActive] = useState(true);

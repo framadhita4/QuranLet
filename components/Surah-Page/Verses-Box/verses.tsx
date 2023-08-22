@@ -47,10 +47,12 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   }
 
   return <div id={`${id}`} className="rounded-sm border-b-2 mt-10 p-4 flex flex-wrap md:flex-nowrap">
-    <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1">
-      <Button>
-        <p className="text-sm">{verses.verse_key}</p>
-      </Button>
+    <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400">
+      <a href={`#${id}`}>
+        <Button>
+          <p className="text-sm">{verses.verse_key}</p>
+        </Button>
+      </a>
       <Button onClick={playHandler}>
         <FontAwesomeIcon icon={faPlay} />
       </Button>

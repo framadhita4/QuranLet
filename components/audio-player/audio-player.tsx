@@ -220,7 +220,7 @@ export default function AudioPlayer() {
         max={timestamp.duration}
         ref={audioBarRef}
       />
-      <div className="flex justify-between items-center px-4 text-md text-gray-400 font-medium mt-1">
+      <div className="flex justify-between items-center px-4 text-md font-medium mt-1">
         <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
         <div className="w-fit flex gap-4 text-xl">
           <Button onClick={() => wardHandler(1, -1)} >

@@ -1,7 +1,7 @@
-import { Verses } from "./verses-type";
+import { VersesType } from "./verses-type";
 
 export type VersesPage = {
-  verses: Verses[];
+  verses: VersesType[];
   pagination: {
     current_page: number;
     ayahs: number;
