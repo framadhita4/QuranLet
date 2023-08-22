@@ -39,7 +39,7 @@ export default function Word({ verse, isLast }: { verse: WordProps, isLast: bool
   return <div
     onClick={() => { if (!isLast) togglePlay() }}
     onMouseEnter={() => setHover(true)} onMouseLeave={() => setHover(false)} className={
-      `ml-1 mb-2 cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing) && "text-sec-color-light"}${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? "p-2" : ""
+      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing) && "text-sec-color-light"}${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? " p-2 ml-1 mb-2" : " ml-2 mb-5"
       }`}>
     <span dir="rtl" lang="ar" className={`${(isLast) ? "font-uthmani font-bold" : scheherazade.className + " font-thin"} text-[6vw] sm:text-3xl`}>{verse.text}</span>
     {
