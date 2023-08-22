@@ -10,7 +10,10 @@ const resPage = (pageNumber: number, surahInfo: SurahInfo) => {
   let ayahs = 1;
   const totalVerses = () => {
     if (pageNumber < totalPage) return 6;
-    return surahInfo?.ayahs - 6 * Math.floor(surahInfo?.ayahs / 6);
+    const totalLastVerses =
+      surahInfo?.ayahs - 6 * Math.floor(surahInfo?.ayahs / 6);
+    if (totalLastVerses == 0) return 6;
+    return totalLastVerses;
   };
 
   if (pageNumber > totalPage) return null;
@@ -61,7 +64,7 @@ export default async function handler(
     fs.readFileSync(`${quranDir}/surah/surah_${surah}/surah_info.json`, "utf8")
   );
 
-  if (page?.match(/[0-9]/g)) {
+  if (page?.match(/[0-9]/i)) {
     const content = resPage(parseInt(page), surahInfo);
     if (!content) return res404();
 
