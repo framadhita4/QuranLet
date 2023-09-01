@@ -1,9 +1,9 @@
 import type { SurahInfo } from "@/types/surah-info-type";
 import Link from "next/link";
 
-type AppProps = {surahInfo : SurahInfo};
+type AppProps = { surahInfo: SurahInfo };
 
-export default function SurahCard ({surahInfo}: AppProps) {
+export default function SurahCard({ surahInfo }: AppProps) {
   return <>
     <Link href={`/${surahInfo.surah_number}`} className={`${surahInfo.name.toLowerCase()} [&>div>div:nth-child(2)>p]:hover:text-sec-color-light [&>div>div:nth-child(1)>div:nth-child(2)>p]:hover:text-sec-color-light [&>div]:hover:border-sec-color-light [&>div>div:nth-child(1)>div:nth-child(1)]:hover:bg-sec-color-light [&>div>div:nth-child(1)>div:nth-child(1)]:hover:text-white transition-all duration-300 active:scale-95`}>
       <div className="flex justify-between bg-white p-3 border-2 rounded-lg  transition-all duration-300">

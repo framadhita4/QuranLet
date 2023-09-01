@@ -3,22 +3,14 @@ import { useState, useRef } from "react";
 import { isPlaying, setPlaying } from "../../audio-player/audio-player";
 import { useAtom } from "jotai";
 import { settingAtom } from "@/components/atoms/setting-atom";
+import { Word } from "@/types/word-type";
 
 const scheherazade = Scheherazade_New({
   subsets: ["arabic", "latin"],
   weight: ["400", "700"]
 })
 
-type WordProps = {
-  id: number;
-  line_number: number;
-  audio_url: string;
-  text: string;
-  translation: string;
-  transliteration: string;
-}
-
-export default function Word({ verse, isLast }: { verse: WordProps, isLast: boolean }) {
+export default function WordComponent({ verse, isLast }: { verse: Word, isLast: boolean }) {
   const [isHover, setHover] = useState(false);
   const [playing, setPlay] = useState(false);
   const [setting] = useAtom(settingAtom);
@@ -50,9 +42,9 @@ export default function Word({ verse, isLast }: { verse: WordProps, isLast: bool
       setting.wordByWord.translation && setting.wordByWord.display.inline &&
       <p className="mt-1 text-[0.85rem] leading-5 font-normal">{verse.translation}</p>
     }
-    <audio onEnded={() => { setPlaying(false); setPlay(false) }} ref={audioRef} src={verse.audio_url}></audio>
+    <audio onEnded={() => { setPlaying(false); setPlay(false) }} ref={audioRef} src={verse.audio_url} preload="none"></audio>
     {isHover && !isLast && setting.wordByWord.display.tooltip && (setting.wordByWord.transliteration || setting.wordByWord.translation) &&
-      <div className="z-10 absolute flex flex-col justify-center items-center -translate-y-[90px] bg-gray-700 text-white p-2 rounded before:w-7 before:h-7 before:absolute before:translate-y-5 before:rotate-45 before:bg-gray-700 before:-z-[1] before:rounded">
+      <div className="z-10 absolute flex flex-col justify-center items-center -translate-y-[90px] bg-gray-700 text-white p-2 rounded before:w-7 before:h-7 before:absolute before:-bottom-1 before:rotate-45 before:bg-gray-700 before:-z-[1] before:rounded">
         {
           setting.wordByWord.transliteration &&
           <p className="text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>

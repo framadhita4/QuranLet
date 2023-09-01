@@ -4,7 +4,7 @@ import Setting from './Setting/setting-button';
 import type { SurahInfo } from '@/types/surah-info-type';
 import { useEffect, useState } from 'react';
 
-export default function Navbar({ surahInfo }: { surahInfo: SurahInfo | undefined }) {
+export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefined }) {
   const [isActive, setActive] = useState(true);
   const [prevScrollPos, setPrevScrollPos] = useState(Number);
 

@@ -12,7 +12,7 @@ export default function WordByWord() {
         }}
         checked={(setting) => setting.wordByWord.translation} />
       <SwitchButton
-        text="Arab-Latin"
+        text="Latin"
         changeHandler={(setting) => {
           setting.wordByWord.transliteration = !setting.wordByWord.transliteration;
           return setting;

@@ -1,3 +1,5 @@
+import { Word } from "./word-type";
+
 export type VersesType = {
   id: number;
   chapter_id: number;
@@ -10,16 +12,7 @@ export type VersesType = {
   juz_number: number;
   text_uthmani: string;
   audio_url: string;
-  words: [
-    {
-      id: number;
-      line_number: number;
-      audio_url: string;
-      text: string;
-      translation: string;
-      transliteration: string;
-    }
-  ];
+  words: [Word];
   translation: {
     text: string;
     resource_name: string;

@@ -52,6 +52,7 @@ export default async function handler(
   const surah = (req.query.surah || [])[0];
   const page = req.query.page?.toString();
   const ayah = req.query.ayah?.toString();
+
   const res404 = () => {
     res.status(404).send("file not found");
   };

@@ -1,7 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image';
 import Link from 'next/link';
-import Setting from './Setting/setting-button';
 import Search from './search';
 
 type AppProps = { data: string[] | undefined };

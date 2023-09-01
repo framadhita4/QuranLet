@@ -1,14 +1,16 @@
 /* eslint-disable react/no-unescaped-entities */
 import { useRouter } from 'next/router';
 import Head from 'next/head';
+import { useEffect } from 'react';
+import { useAtom } from 'jotai';
 import Navbar from '@/components/navbar';
 import type { SurahInfo } from '@/types/surah-info-type';
-import { useEffect } from 'react';
 import SurahDetailButton from '@/components/Surah-Page/surah-detail';
 import VersesContainer from '@/components/Surah-Page/Verses-Box/verses-container';
 import AudioPlayer from '@/components/audio-player/audio-player';
 import { surahInfoAtom } from '@/components/atoms/surah-info-atom';
-import { useAtom } from 'jotai';
+import Blocker from '@/components/blocker';
+import SurahDetailCard from '@/components/surah-detail/surah-detail-card';
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json());
 
@@ -16,7 +18,6 @@ export default function Home() {
   const router = useRouter();
   const { surah } = router.query;
   const [surahInfo, setSurahInfo] = useAtom(surahInfoAtom);
-
 
   const GetSurahInfo = async () => {
     try {
@@ -62,6 +63,9 @@ export default function Home() {
         {surahInfo &&
           <AudioPlayer />
         }
-      </div></>}
+      </div>
+      <Blocker />
+      <SurahDetailCard />
+    </>}
   </>
 }

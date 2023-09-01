@@ -20,7 +20,7 @@ export default function Home() {
   if (error) return <div>Failed to load</div>;
 
   return <>
-    <Navbar surahInfo={undefined} />
+    <Navbar />
     <Header data={data?.map(e => e.name.toLowerCase())} />
     <div className='p-2 m-auto text-gray-700 md:w-11/12 md:mt-4'>
       <div className='px-2 border-b-2'>

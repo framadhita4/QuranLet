@@ -23,9 +23,9 @@ export default function Setting({ active }: AppProps) {
   });
 
   return <>
-    <div onClick={() => { setCanvas(!offCanvas) }} onMouseEnter={() => { setHover(true) }} onMouseLeave={() => { setHover(false) }}
+    <div onClick={() => { setCanvas(!offCanvas); setHover(false) }} onMouseEnter={() => { setHover(true) }} onMouseLeave={() => { setHover(false) }}
       className={`hover:cursor-pointer overflow-hidden p-2 rounded-full transition duration-200 active:scale-90`}>
-      <div className={`z-10 overflow-hidden bg-gray-700 p-2 w-[40px] h-[40px] -translate-x-2 -translate-y-2 rounded-full absolute transition-all duration-500 ease-in-out ${(isHover || offCanvas) ? "mask-hover" : "mask"}`} >
+      <div className={`z-10 overflow-hidden bg-gray-700 p-2 w-[40px] h-[40px] -translate-x-2 -translate-y-2 rounded-full absolute transition-all duration-300 ease-in-out ${(isHover || offCanvas) ? "mask-hover" : "mask"}`} >
         <div className="absolute">
           <FontAwesomeIcon className="translate-x-[1px] px-[2px] text-center text-white" icon={faGear} size={"lg"} />
         </div>
