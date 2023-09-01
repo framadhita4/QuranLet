@@ -16,7 +16,7 @@ const fetcher = (url: string) => fetch(url).then((res) => res.json());
 
 export default function Home() {
   const router = useRouter();
-  const { surah } = router.query;
+  const surah = router.query.surah?.toString();
   const [surahInfo, setSurahInfo] = useAtom(surahInfoAtom);
 
   const GetSurahInfo = async () => {

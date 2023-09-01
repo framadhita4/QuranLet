@@ -49,13 +49,18 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
-  const surah = (req.query.surah || [])[0];
+  const surah = req.query.surah?.toString();
   const page = req.query.page?.toString();
   const ayah = req.query.ayah?.toString();
 
   const res404 = () => {
     res.status(404).send("file not found");
   };
+
+  if (!surah) {
+    res404();
+    return;
+  }
 
   if (surah.match(/[0-9]/i) && Math.abs(parseInt(surah)) > 114) {
     return res404();
