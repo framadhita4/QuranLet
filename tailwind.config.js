@@ -17,6 +17,7 @@ module.exports = {
       },
       fontFamily: {
         uthmani: "uthmani",
+        meQuran: "meQuran"
       },
       keyframes: {
         click: "",

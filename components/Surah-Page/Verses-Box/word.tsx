@@ -1,14 +1,8 @@
-import { Scheherazade_New } from "next/font/google";
 import { useState, useRef } from "react";
 import { isPlaying, setPlaying } from "../../audio-player/audio-player";
 import { useAtom } from "jotai";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import { Word } from "@/types/word-type";
-
-const scheherazade = Scheherazade_New({
-  subsets: ["arabic", "latin"],
-  weight: ["400", "700"]
-})
 
 export default function WordComponent({ verse, isLast }: { verse: Word, isLast: boolean }) {
   const [isHover, setHover] = useState(false);
@@ -31,9 +25,8 @@ export default function WordComponent({ verse, isLast }: { verse: Word, isLast: 
   return <div
     onClick={() => { if (!isLast) togglePlay() }}
     onMouseEnter={() => setHover(true)} onMouseLeave={() => setHover(false)} className={
-      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing) && "text-sec-color-light"}${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? " p-2 ml-1 mb-2" : " ml-2 mb-5"
-      }`}>
-    <span dir="rtl" lang="ar" className={`${(isLast) ? "font-uthmani font-bold" : scheherazade.className + " font-thin"} text-[6vw] sm:text-3xl`}>{verse.text}</span>
+      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing) && "text-sec-color-light"}${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? " p-2 ml-1 mb-2" : " ml-1 mb-5"}`}>
+    <span dir="rtl" lang="ar" className={`${(isLast ? "font-uthmani font-bold" : "font-meQuran")} text-[6vw] sm:text-3xl`}>{verse.text}</span>
     {
       setting.wordByWord.transliteration && setting.wordByWord.display.inline &&
       <p className="mt-1 text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>

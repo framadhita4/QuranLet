@@ -200,7 +200,7 @@ export default function AudioPlayer() {
     setPlaying(value);
   }
 
-  return <div className="w-full flex flex-col fixed bottom-0 h-14 bg-white">
+  return <div className="w-full z-10 flex flex-col fixed bottom-0 h-14 bg-white">
     {timestamp && surahInfo && <>
       <audio
         className="audio"
