@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 @font-face {
+  font-family: "meQuran";
+  src: url("/font/me_quran.ttf") format("truetype");
+}
+
+@font-face {
   font-family: "uthmani";
   src: url("/font/UthmanicHafs_V21.ttf") format("truetype");
 }
