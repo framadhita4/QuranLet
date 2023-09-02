@@ -3,6 +3,7 @@ import "@/styles/surah.icon.css";
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import { Noto_Sans_Display } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/react';
 
 const notoSans = Noto_Sans_Display({
   subsets: ['latin'],
@@ -16,6 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
     </Head>
     <main className={`${notoSans.className} font-medium text-gray-700`}>
       <Component {...pageProps} />
+      <Analytics />
     </main>
   </>
 }
