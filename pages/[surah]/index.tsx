@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-import { useRouter } from 'next/router';
 import Head from 'next/head';
 import { useEffect } from 'react';
 import { useAtom } from 'jotai';
@@ -11,29 +10,39 @@ import AudioPlayer from '@/components/audio-player/audio-player';
 import { surahInfoAtom } from '@/components/atoms/surah-info-atom';
 import Blocker from '@/components/blocker';
 import SurahDetailCard from '@/components/surah-detail/surah-detail-card';
+import { GetStaticPaths, GetStaticProps } from 'next';
 
-const fetcher = (url: string) => fetch(url).then((res) => res.json());
+export const getStaticPaths: GetStaticPaths = () => {
+  return {
+    paths: [],
+    fallback: "blocking"
+  }
+}
 
-export default function Home() {
-  const router = useRouter();
-  const surah = router.query.surah?.toString();
-  const [surahInfo, setSurahInfo] = useAtom(surahInfoAtom);
+export const getStaticProps: GetStaticProps = async (ctx) => {
+  const surahId = String(ctx.params?.surah)
 
-  const GetSurahInfo = async () => {
-    try {
-      fetcher(`/api/${surah}`).then((data: SurahInfo) => setSurahInfo(data));
-    } catch (error) {
-      console.error(error)
+  if (surahId.match(/[0-9]/i) && (parseInt(surahId) < 115 && parseInt(surahId) > 0)) {
+    const data = await import(`@/quran/surah/surah_${surahId}/surah_info.json`).then((data) => data.default)
+
+    return {
+      props: { data }
     }
   }
 
+  return { notFound: true }
+}
+
+export default function Home({ data }: { data: SurahInfo }) {
+  const [surahInfo, setSurahInfo] = useAtom(surahInfoAtom);
+
   useEffect(() => {
-    if (router.isReady) {
+    if (data) {
       setSurahInfo(undefined);
-      GetSurahInfo();
+      setSurahInfo(data);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [router.isReady]);
+  }, [data]);
 
   return <>
     {surahInfo && <>

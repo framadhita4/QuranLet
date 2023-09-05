@@ -2,36 +2,44 @@ import { surahDetailAtom } from "@/components/atoms/surah-detail-atom";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import Navbar from "@/components/navbar";
 import DetailContainer from "@/components/surah-detail/detail-container";
-import { surahDetail } from "@/types/surah-detail";
+import { SurahDetail } from "@/types/surah-detail";
 import { SurahInfo } from "@/types/surah-info-type";
 import { useAtom } from "jotai";
-import { useRouter } from "next/router"
+import { GetStaticPaths, GetStaticProps } from "next";
 import { useEffect } from "react";
 
-const fetcher = (url: string) => fetch(url).then((res) => res.json());
+export const getStaticPaths: GetStaticPaths = () => {
+  return {
+    paths: [],
+    fallback: "blocking"
+  }
+}
 
-export default function Home() {
-  const router = useRouter();
-  const [, setSurahInfo] = useAtom(surahInfoAtom);
-  const [, setSurahDetail] = useAtom(surahDetailAtom);
+export const getStaticProps: GetStaticProps = async (ctx) => {
+  const surahId = String(ctx.params?.surah)
 
-  const getData = async () => {
-    try {
-      await fetcher(`/api/${router.query.surah}`).then((data: SurahInfo) => setSurahInfo(data));
-      await fetcher(`/api/detail/${router.query.surah}`).then((data: surahDetail) => setSurahDetail(data));
-    } catch (error) {
-      console.error(error);
+  if (surahId.match(/[0-9]/i) && (parseInt(surahId) < 115 && parseInt(surahId) > 0)) {
+    const surahInfo = await import(`@/quran/surah/surah_${surahId}/surah_info.json`).then((data) => data.default)
+    const surahDetail = await import(`@/quran/surah/surah_${surahId}/surah_detail.json`)
+
+    return {
+      props: { surahInfo, surahDetail }
     }
   }
 
+  return { notFound: true }
+}
+
+export default function Home({ surahInfo, surahDetail }: { surahInfo: SurahInfo, surahDetail: SurahDetail }) {
+  const [, setSurahInfo] = useAtom(surahInfoAtom);
+  const [, setSurahDetail] = useAtom(surahDetailAtom);
 
   useEffect(() => {
-    if (router.isReady) {
-      setSurahInfo(undefined);
-      getData();
-    }
+    setSurahInfo(undefined);
+    setSurahInfo(surahInfo);
+    setSurahDetail(surahDetail);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [router.isReady]);
+  }, []);
 
   return <>
     <Navbar />

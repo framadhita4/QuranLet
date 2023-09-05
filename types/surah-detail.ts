@@ -1,4 +1,4 @@
-export type surahDetail = {
+export type SurahDetail = {
   chapterId: number;
   shortText: string;
   source: string;

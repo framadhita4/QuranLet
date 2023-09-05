@@ -5,19 +5,25 @@ import SurahCardSkeleton from '@/components/surah-card/surah-card-sekeleton';
 import type { SurahInfo } from '@/types/surah-info-type';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronUp, faChevronDown } from '@fortawesome/free-solid-svg-icons';
-import useSWR from "swr";
 import { useState, useEffect } from 'react';
+import { GetStaticProps } from 'next';
 
-const fetcher = (url: string) => fetch(url).then((res) => res.json());
+export const getStaticProps: GetStaticProps = async () => {
+  const data = await import(`@/quran/quran.json`).then((data) => data.default);
 
-export default function Home() {
-  const { data, error } = useSWR<Array<SurahInfo>>("/api/quran", fetcher);
+  return {
+    props: { data }
+  }
+}
+
+export default function Home({ data }: { data: Array<SurahInfo> }) {
   const [surahList, setSurahList] = useState<Array<SurahInfo>>();
   const [sort, setSort] = useState<boolean>(true);
   const numbers = Array.from({ length: 114 }, (_, index) => index + 1);
+
   useEffect(() => setSurahList(data), [data]);
 
-  if (error) return <div>Failed to load</div>;
+  if (!data) return <div>Failed to load</div>;
 
   return <>
     <Navbar />
