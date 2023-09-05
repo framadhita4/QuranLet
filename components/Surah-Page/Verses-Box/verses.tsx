@@ -46,7 +46,7 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
     audio.play();
   }
 
-  return <div id={`${id}`} className="rounded-sm border-b-2 mt-10 p-4 flex flex-wrap md:flex-nowrap">
+  return <div id={`${id}`} className="rounded-sm border-b-2 mt-8 p-4 flex flex-wrap md:flex-nowrap">
     <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400">
       <a href={`#${id}`}>
         <Button>
@@ -58,12 +58,12 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
       </Button>
     </div>
     <div className="w-full">
-      <div className={`words-container flex justify-start flex-row-reverse flex-wrap mb-8`}>
+      <div className={`words-container flex justify-start flex-row-reverse flex-wrap mb-4`}>
         {verses.words.map((e, i) => {
           return <Word key={e.id} verse={e} isLast={i == verses.words.length - 1} />
         })}
       </div>
-      <div ref={textRef} className="font-normal text-base mb-6 text-justify ">
+      <div ref={textRef} className="font-normal mb-4">
         {text.split(regex).map((e) => {
           if (!e.match(regex)) return e;
           return parseStringToElement(e);

@@ -26,7 +26,7 @@ export default function WordComponent({ verse, isLast }: { verse: Word, isLast: 
     onClick={() => { if (!isLast) togglePlay() }}
     onMouseEnter={() => setHover(true)} onMouseLeave={() => setHover(false)} className={
       `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing) && "text-sec-color-light"}${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? " p-2 ml-1 mb-2" : " ml-1 mb-5"}`}>
-    <span dir="rtl" lang="ar" className={`${(isLast ? "font-uthmani font-bold" : "font-meQuran")} text-[6vw] sm:text-3xl`}>{verse.text}</span>
+    <span dir="rtl" lang="ar" className={`${(isLast ? "font-uthmani font-bold" : "font-meQuran")} md:text-2xl text-[5vw]`}>{verse.text}</span>
     {
       setting.wordByWord.transliteration && setting.wordByWord.display.inline &&
       <p className="mt-1 text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>
