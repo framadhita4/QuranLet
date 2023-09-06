@@ -1,3 +1,4 @@
+import { surahIconFont } from "@/pages/_app";
 import type { SurahInfo } from "@/types/surah-info-type";
 import Link from "next/link";
 
@@ -17,7 +18,7 @@ export default function SurahCard({ surahInfo }: AppProps) {
           </div>
         </div>
         <div className="text-center w-20">
-          <div className={`icon-${surahInfo.surah_number} text-2xl`}></div>
+          <div className={`icon-${surahInfo.surah_number} text-2xl font-surahIcon ${surahIconFont.className}`}></div>
           <p className="text-[12px] text-gray-500 transition-all duration-300">{surahInfo.ayahs} Ayat</p>
         </div>
       </div>

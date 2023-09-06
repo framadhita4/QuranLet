@@ -1,18 +1,5 @@
-@font-face {
-  font-family: "surahicon";
-  src: url("/font/surahicon.eot");
-  src: url("/font/surahicon-iefix.eot") format("embedded-opentype"),
-    url("/font/surahicon.woff2") format("woff2"),
-    url("/font/surahicon.woff") format("woff"),
-    url("/font/surahicon.ttf") format("truetype"),
-    url("/font/surahicon.svg") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: "surahicon";
   font-style: normal;
   font-weight: normal;
   speak: never;

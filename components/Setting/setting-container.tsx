@@ -1,5 +1,4 @@
 import WordByWord from "./Setting-Sections/wordByWord";
-import SwitchButton from "./switch-button";
 
 export default function SettingContainer() {
 
