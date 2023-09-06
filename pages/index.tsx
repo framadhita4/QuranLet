@@ -5,7 +5,8 @@ import SurahCardSkeleton from '@/components/surah-card/surah-card-sekeleton';
 import type { SurahInfo } from '@/types/surah-info-type';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronUp, faChevronDown } from '@fortawesome/free-solid-svg-icons';
-import { useState, useEffect } from 'react';
+import NextSeoWrapper from '@/components/NextSeoWrapper';
+import { useEffect, useState } from 'react';
 import { GetStaticProps } from 'next';
 
 export const getStaticProps: GetStaticProps = async () => {
@@ -16,16 +17,21 @@ export const getStaticProps: GetStaticProps = async () => {
   }
 }
 
-export default function Home({ data }: { data: Array<SurahInfo> }) {
-  const [surahList, setSurahList] = useState<Array<SurahInfo>>();
+export default function Page({ data }: { data: Array<SurahInfo> }) {
+  const [surahList, setSurahList] = useState<Array<SurahInfo> | undefined>(undefined);
   const [sort, setSort] = useState<boolean>(true);
   const numbers = Array.from({ length: 114 }, (_, index) => index + 1);
 
-  useEffect(() => setSurahList(data), [data]);
+  useEffect(() => { setSurahList(data) }, [data]);
 
-  if (!data) return <div>Failed to load</div>;
+  if (!surahList) return <div>Failed to load</div>;
 
   return <>
+    <NextSeoWrapper
+      title="AL-Quran Bahasa Indonesia"
+      description="Al-Quran dengan terjamahan dan tafsir bahasa Indonesia"
+      url="quranlet.vercel.app"
+    />
     <Navbar />
     <Header data={data?.map(e => e.name.toLowerCase())} />
     <div className='p-2 m-auto text-gray-700 md:w-11/12 md:mt-4'>

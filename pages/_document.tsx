@@ -2,9 +2,10 @@ import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
-    <Html lang="en">
-      <Head >
-        <link rel="shotcut icon" href="/quran.svg" />
+    <Html lang="id">
+      <Head>
+        <link rel="shortcut icon" href="/quran.svg" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="/quran.svg" />
       </Head>
       <body>
         <Main />

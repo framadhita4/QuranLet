@@ -1,5 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
-import Head from 'next/head';
 import { useEffect } from 'react';
 import { useAtom } from 'jotai';
 import Navbar from '@/components/navbar';
@@ -11,6 +9,8 @@ import { surahInfoAtom } from '@/components/atoms/surah-info-atom';
 import Blocker from '@/components/blocker';
 import SurahDetailCard from '@/components/surah-detail/surah-detail-card';
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { surahIconFont } from '../_app';
+import NextSeoWrapper from '@/components/NextSeoWrapper';
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -33,7 +33,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
   return { notFound: true }
 }
 
-export default function Home({ data }: { data: SurahInfo }) {
+const Page = ({ data }: { data: SurahInfo }) => {
   const [surahInfo, setSurahInfo] = useAtom(surahInfoAtom);
 
   useEffect(() => {
@@ -46,18 +46,19 @@ export default function Home({ data }: { data: SurahInfo }) {
 
   return <>
     {surahInfo && <>
-      <Head>
-        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-        <title>{surahInfo && `Surah ${surahInfo?.name}`} - Qur'anlet</title>
-      </Head>
+      <NextSeoWrapper
+        title={`Surah ${surahInfo.name} Bahasa Indonesia`}
+        description={`Baca dan dengarkan mp3 dari surah ${surahInfo.name}. Surah ini termasuk surah ${surahInfo.type}, nama surah ini dalam bahasa Indonesia berarti ${surahInfo.translation.id}, dan juga memiliki ${surahInfo.ayahs} ayat.`}
+        url={`quranlet.vercel.app/${surahInfo.surah_number}`}
+      />
       <Navbar surahInfo={surahInfo} />
       <div className='mt-10'>
         <div className='mx-6 lg:mx-40 md:mx-20'>
-          <div className='m-auto text-[2.5rem] leading-4 w-fit mb-5 mt-5'>
+          <div className={`m-auto text-[10vw] md:text-5xl leading-4 w-fit md:mb-3 mt-5 ${surahIconFont.className}`}>
             <span className={`icon-${surahInfo?.surah_number} ml-2`}></span>
             <span className='icon-0 -ml-2'></span>
           </div>
-          {surahInfo?.surah_number != 1 && <div className='icon-115 text-5xl w-fit m-auto'></div>}
+          {surahInfo?.surah_number != 1 && <div className={`icon-115 text-[10vw] md:text-5xl w-fit m-auto ${surahIconFont.className}`} />}
           <div className='relative flex justify-between text-sm font-medium mt-14'>
             <div className='sticky right-0'>
               <p className='text-gray-500'>Terjemahan Oleh</p>
@@ -75,6 +76,9 @@ export default function Home({ data }: { data: SurahInfo }) {
       </div>
       <Blocker />
       <SurahDetailCard />
-    </>}
+    </>
+    }
   </>
 }
+
+export default Page;

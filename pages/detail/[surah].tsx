@@ -1,3 +1,4 @@
+import NextSeoWrapper from "@/components/NextSeoWrapper";
 import { surahDetailAtom } from "@/components/atoms/surah-detail-atom";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import Navbar from "@/components/navbar";
@@ -30,21 +31,32 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
   return { notFound: true }
 }
 
-export default function Home({ surahInfo, surahDetail }: { surahInfo: SurahInfo, surahDetail: SurahDetail }) {
+const Page = ({ surahInfo, surahDetail }: { surahInfo: SurahInfo, surahDetail: SurahDetail }) => {
   const [, setSurahInfo] = useAtom(surahInfoAtom);
   const [, setSurahDetail] = useAtom(surahDetailAtom);
 
   useEffect(() => {
     setSurahInfo(undefined);
+    setSurahDetail(undefined);
     setSurahInfo(surahInfo);
     setSurahDetail(surahDetail);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return <>
+    <NextSeoWrapper
+      title={`Detail Surah ${surahInfo.name} Bahasa Indonesia`}
+      description={surahDetail.shortText.length > 150 ?
+        surahDetail.shortText.slice(0, 150) + "..." :
+        surahDetail.shortText
+      }
+      url={`quranlet.vercel.app/detail/${surahInfo.surah_number}`}
+    />
     <Navbar />
     <div className="w-11/12 md:w-3/5 m-auto p-4">
       <DetailContainer />
     </div>
   </>
 }
+
+export default Page;
