@@ -28,7 +28,7 @@ export default function SurahDetailButton() {
     return () => {
       document.removeEventListener("mousedown", clickHandler)
     }
-  }, []);
+  });
 
   const showMoreHandler = () => {
     window.history.pushState({}, "", `/detail/${surahInfo?.surah_number}`);

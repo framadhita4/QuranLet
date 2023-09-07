@@ -26,7 +26,7 @@ export default function NextSeoWrapper({ title, description, url }: { title: str
       },
       {
         name: "Distribution",
-        content: "Local"
+        content: "Global"
       },
       {
         name: "Rating",

@@ -1,6 +1,4 @@
-import { useEffect } from 'react';
-import { useAtom } from 'jotai';
-import Navbar from '@/components/navbar';
+import Navbar from '@/components/navbar/navbar';
 import type { SurahInfo } from '@/types/surah-info-type';
 import SurahDetailButton from '@/components/Surah-Page/surah-detail';
 import VersesContainer from '@/components/Surah-Page/Verses-Box/verses-container';
@@ -11,6 +9,7 @@ import SurahDetailCard from '@/components/surah-detail/surah-detail-card';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { surahIconFont } from '../_app';
 import NextSeoWrapper from '@/components/NextSeoWrapper';
+import { useHydrateAtoms } from 'jotai/utils';
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -34,31 +33,23 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 }
 
 const Page = ({ data }: { data: SurahInfo }) => {
-  const [surahInfo, setSurahInfo] = useAtom(surahInfoAtom);
-
-  useEffect(() => {
-    if (data) {
-      setSurahInfo(undefined);
-      setSurahInfo(data);
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [data]);
+  useHydrateAtoms([[surahInfoAtom, data]])
 
   return <>
-    {surahInfo && <>
+    {data && <>
       <NextSeoWrapper
-        title={`Surah ${surahInfo.name} Bahasa Indonesia`}
-        description={`Baca dan dengarkan mp3 dari surah ${surahInfo.name}. Surah ini termasuk surah ${surahInfo.type}, nama surah ini dalam bahasa Indonesia berarti ${surahInfo.translation.id}, dan juga memiliki ${surahInfo.ayahs} ayat.`}
-        url={`quranlet.vercel.app/${surahInfo.surah_number}`}
+        title={`Surah ${data.name} Bahasa Indonesia`}
+        description={`Baca dan dengarkan mp3 dari surah ${data.name}. Surah ini termasuk surah ${data.type}, nama surah ini dalam bahasa Indonesia berarti ${data.translation.id}, dan juga memiliki ${data.ayahs} ayat.`}
+        url={`quranlet.vercel.app/${data.surah_number}`}
       />
-      <Navbar surahInfo={surahInfo} />
+      <Navbar surahInfo={data} />
       <div className='mt-10'>
         <div className='mx-6 lg:mx-40 md:mx-20'>
           <div className={`m-auto text-[10vw] md:text-5xl leading-4 w-fit md:mb-3 mt-5 ${surahIconFont.className}`}>
-            <span className={`icon-${surahInfo?.surah_number} ml-2`}></span>
+            <span className={`icon-${data?.surah_number} ml-2`}></span>
             <span className='icon-0 -ml-2'></span>
           </div>
-          {surahInfo?.surah_number != 1 && <div className={`icon-115 text-[10vw] md:text-5xl w-fit m-auto ${surahIconFont.className}`} />}
+          {data?.surah_number != 1 && <div className={`icon-115 text-[10vw] md:text-5xl w-fit m-auto ${surahIconFont.className}`} />}
           <div className='relative flex justify-between text-sm font-medium mt-14'>
             <div className='sticky right-0'>
               <p className='text-gray-500'>Terjemahan Oleh</p>
@@ -66,11 +57,11 @@ const Page = ({ data }: { data: SurahInfo }) => {
             </div>
             <SurahDetailButton />
           </div>
-          {surahInfo &&
+          {data &&
             <VersesContainer />
           }
         </div>
-        {surahInfo &&
+        {data &&
           <AudioPlayer />
         }
       </div>

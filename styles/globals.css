@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "node_modules/@fortawesome/fontawesome-svg-core/styles";
 
 @font-face {
   font-family: "meQuran";

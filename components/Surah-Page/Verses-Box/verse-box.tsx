@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { VersesPage } from "@/types/verses-page-type";
 import { useRef, useState, useEffect } from "react";
 import VerseBoxSkeleton from "./verse-box-skeleton";

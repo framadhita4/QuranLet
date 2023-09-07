@@ -1,13 +1,14 @@
 import Header from '@/components/header';
 import SurahCard from '@/components/surah-card/surah-card';
-import Navbar from '@/components/navbar';
+import Navbar from '@/components/navbar/navbar';
 import SurahCardSkeleton from '@/components/surah-card/surah-card-sekeleton';
 import type { SurahInfo } from '@/types/surah-info-type';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronUp, faChevronDown } from '@fortawesome/free-solid-svg-icons';
 import NextSeoWrapper from '@/components/NextSeoWrapper';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { GetStaticProps } from 'next';
+import Head from 'next/head';
 
 export const getStaticProps: GetStaticProps = async () => {
   const data = await import(`@/quran/quran.json`).then((data) => data.default);
@@ -18,15 +19,13 @@ export const getStaticProps: GetStaticProps = async () => {
 }
 
 export default function Page({ data }: { data: Array<SurahInfo> }) {
-  const [surahList, setSurahList] = useState<Array<SurahInfo> | undefined>(undefined);
   const [sort, setSort] = useState<boolean>(true);
   const numbers = Array.from({ length: 114 }, (_, index) => index + 1);
 
-  useEffect(() => { setSurahList(data) }, [data]);
-
-  if (!surahList) return <div>Failed to load</div>;
-
   return <>
+    <Head>
+      <link rel="preload" href="/quran.svg" as="image" type="image/svg+xml" />
+    </Head>
     <NextSeoWrapper
       title="AL-Quran Bahasa Indonesia"
       description="Al-Quran dengan terjamahan dan tafsir bahasa Indonesia"
@@ -41,18 +40,16 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
       <div className='flex px-2 text-sm justify-end'>
         <p>Sort By : </p>
         <div onClick={() => {
-          setSurahList(surahList?.reverse());
+          data = data.reverse();
           setSort(!sort)
         }}
           className='sort-type hover:text-sec-color-light hover:cursor-pointer'>
           <span className='mx-1'>{(sort) ? "Ascending" : "Descending"}</span>
-          <span className='-mt-1 text-[12px]'>
-            <FontAwesomeIcon icon={(sort) ? faChevronUp : faChevronDown} className="-mt-1" />
-          </span>
+          <FontAwesomeIcon icon={(sort) ? faChevronUp : faChevronDown} size='sm' />
         </div>
       </div>
       <div className='grid gap-2 mt-2 grid-cols-1 lg:grid-cols-3 md:grid-cols-2'>
-        {surahList ? surahList.map((e) => <SurahCard key={e.surah_number} surahInfo={e} />) : numbers.map((e) => <SurahCardSkeleton key={e} />)}
+        {data ? data.map((e) => <SurahCard key={e.surah_number} surahInfo={e} />) : numbers.map((e) => <SurahCardSkeleton key={e} />)}
       </div>
     </div>
   </>
