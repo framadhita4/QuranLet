@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInfo } from '@fortawesome/free-solid-svg-icons';
 import { useState, useEffect, useRef } from 'react';
@@ -14,10 +15,11 @@ export default function SurahDetailButton() {
   const [surahDetail, setSurahDetail] = useAtom(surahDetailAtom);
   let infoRef = useRef<HTMLDivElement>(null);
 
-
   useEffect(() => {
     fetcher(`/api/detail/${surahInfo?.surah_number}`).then((data) => setSurahDetail(data));
+  }, [])
 
+  useEffect(() => {
     const clickHandler = (e: MouseEvent) => {
       if (isActive && infoRef.current && !infoRef.current.contains(e.target as Node) && !infoRef.current.parentNode?.contains(e.target as Node)) {
         setActive(!isActive);
