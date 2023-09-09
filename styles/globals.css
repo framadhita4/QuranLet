@@ -81,6 +81,24 @@ body {
   transition: all 200ms ease-in-out;
 }
 
+.surah-nav-enter {
+  opacity: 0;
+  transform: translateY(-2.5rem);
+}
+.surah-nav-enter-active {
+  opacity: 1;
+  transform: translateY(0.5rem);
+  transition: all 200ms ease-in-out;
+}
+.surah-nav-exit {
+  opacity: 1;
+}
+.surah-nav-exit-active {
+  opacity: 0;
+  transform: translateY(-2.5rem);
+  transition: all 200ms ease-in-out;
+}
+
 .blocker-enter {
   opacity: 0;
 }

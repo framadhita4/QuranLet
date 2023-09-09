@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import Navbar from '@/components/navbar/navbar';
 import type { SurahInfo } from '@/types/surah-info-type';
 import SurahDetailButton from '@/components/Surah-Page/surah-detail';
@@ -10,6 +11,9 @@ import { GetStaticPaths, GetStaticProps } from 'next';
 import { surahIconFont } from '../_app';
 import NextSeoWrapper from '@/components/NextSeoWrapper';
 import { useHydrateAtoms } from 'jotai/utils';
+import { useRouter } from 'next/router';
+import { useEffect } from 'react';
+import scrollToElement from '@/utils/scrollToElement';
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -33,7 +37,17 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 }
 
 const Page = ({ data }: { data: SurahInfo }) => {
+  const router = useRouter();
   useHydrateAtoms([[surahInfoAtom, data]])
+
+  useEffect(() => {
+    if (!router.query.verse) return;
+
+    const verse = document.getElementById(`${data.surah_number}:${router.query.verse}`);
+    if (!verse) return;
+
+    scrollToElement(verse);
+  }, [router.isReady])
 
   return <>
     {data && <>
@@ -44,12 +58,12 @@ const Page = ({ data }: { data: SurahInfo }) => {
       />
       <Navbar surahInfo={data} />
       <div className='mt-10'>
-        <div className='mx-6 lg:mx-40 md:mx-20'>
-          <div className={`m-auto text-[10vw] md:text-5xl leading-4 w-fit md:mb-3 mt-5 ${surahIconFont.className}`}>
+        <div className='mx-6 lg:mx-40 sm:mx-20'>
+          <div className={`m-auto text-[10vw] sm:text-5xl leading-4 w-fit sm:mb-3 mt-5 ${surahIconFont.className}`}>
             <span className={`icon-${data?.surah_number} ml-2`}></span>
             <span className='icon-0 -ml-2'></span>
           </div>
-          {data?.surah_number != 1 && <div className={`icon-115 text-[10vw] md:text-5xl w-fit m-auto ${surahIconFont.className}`} />}
+          {data?.surah_number != 1 && <div className={`icon-115 text-[10vw] sm:text-5xl w-fit m-auto ${surahIconFont.className}`} />}
           <div className='relative flex justify-between text-sm font-medium mt-14'>
             <div className='sticky right-0'>
               <p className='text-gray-500'>Terjemahan Oleh</p>
