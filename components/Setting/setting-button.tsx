@@ -13,7 +13,9 @@ export default function Setting({ active }: AppProps) {
 
   useEffect(() => {
     const clickHandler = (e: MouseEvent) => {
-      if (ref.current && !ref.current.contains(e.target as Node) && !ref.current.parentNode?.contains(e.target as Node)) setCanvas(!offCanvas);
+      if (ref.current && !ref.current.contains(e.target as Node) && !ref.current.parentNode?.contains(e.target as Node)) {
+        setCanvas(!offCanvas)
+      };
     }
 
     document.addEventListener("mousedown", clickHandler)
@@ -36,9 +38,9 @@ export default function Setting({ active }: AppProps) {
       nodeRef={ref}
       in={offCanvas && active}
       unmountOnExit
-      timeout={500}
+      timeout={300}
       classNames={"off-canvas"}>
-      <div ref={ref} className="fixed rounded-md z-10 flex bg-white top-14 left-4 right-4 drop-shadow-[0_0_3px_rgba(0,0,0,0.15)] md:w-80 md:right-8 md:left-auto">
+      <div ref={ref} className="fixed rounded-md z-10 flex bg-white top-14 left-4 right-4 drop-shadow-[0_0_3px_rgba(0,0,0,0.15)] sm:w-80 sm:right-8 sm:left-auto">
         <SettingContainer />
       </div>
     </CSSTransition>
