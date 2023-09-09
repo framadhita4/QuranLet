@@ -1,4 +1,21 @@
-export default function VerseBoxSkeleton({id}: {id: number}) {
+/* eslint-disable react-hooks/exhaustive-deps */
+import { currentVerseKeyAtom } from "@/components/atoms/audio-atoms"
+import scrollToElement from "@/utils/scrollToElement";
+import { useAtom } from "jotai"
+import { useEffect } from "react";
+
+export default function VerseBoxSkeleton({ id }: { id: string }) {
+  const [currentVerseKey] = useAtom(currentVerseKeyAtom);
+
+  useEffect(() => {
+    if (currentVerseKey == id) {
+      const verse = document.getElementById(id);
+      if (!verse) return;
+
+      scrollToElement(verse);
+    }
+  }, [currentVerseKey])
+
   return <div id={`${id}`} className="border-b-2 mt-10 py-4 flex flex-wrap md:flex-nowrap animate-pulse">
     <div className="mr-10 mb-4 md:mb-0 flex md:flex-col place-items-baseline gap-1">
       <div className="h-8 w-8 bg-slate-200 rounded-full"></div>
