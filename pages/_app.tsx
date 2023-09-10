@@ -2,7 +2,7 @@
 import '@/styles/globals.css';
 import "@/styles/surah.icon.css";
 import type { AppProps } from 'next/app';
-import { Noto_Sans_Display } from '@next/font/google';
+import { Inter } from '@next/font/google';
 import { Analytics } from '@vercel/analytics/react';
 import localFont from "@next/font/local"
 
@@ -13,14 +13,14 @@ export const surahIconFont = localFont({
   variable: "--font-surahicon"
 })
 
-const notoSans = Noto_Sans_Display({
+const notoSans = Inter({
   subsets: ['latin'],
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"]
 });
 
 export default function App({ Component, pageProps }: AppProps) {
   return <>
-    <main className={`${notoSans.className} font-medium text-gray-700`}>
+    <main className={`${notoSans.className} selection:bg-pri-color-light font-medium text-gray-700`}>
       <Component {...pageProps} />
       <Analytics />
     </main>

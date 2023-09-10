@@ -53,7 +53,7 @@ export default function WordComponent({ verse, isLast, id }: { verse: Word, isLa
     }
     <audio onEnded={() => { setPlay(false); setGlobalPlay(false) }} ref={audioRef} src={verse.audio_url} preload="none"></audio>
     {isHover && !isLast && setting.wordByWord.display.tooltip && (setting.wordByWord.transliteration || setting.wordByWord.translation) &&
-      <div className="z-10 absolute flex flex-col justify-center items-center -translate-y-16 bg-gray-700 text-white p-2 rounded before:w-7 before:h-7 before:absolute before:-bottom-1 before:rotate-45 before:bg-gray-700 before:-z-[1] before:rounded">
+      <div className="z-10 absolute flex flex-col justify-center items-center -translate-y-[4.25rem] bg-gray-700 text-white p-2 rounded before:w-7 before:h-7 before:absolute before:-bottom-1 before:rotate-45 before:bg-gray-700 before:-z-[1] before:rounded">
         {
           setting.wordByWord.transliteration &&
           <p className="text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>

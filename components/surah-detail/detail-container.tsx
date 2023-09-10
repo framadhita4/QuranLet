@@ -15,7 +15,7 @@ export default function DetailContainer({ children }: { children?: ReactElement 
   return <>
     <div className="flex justify-between font-bold text-base items-center">
       <div>
-        <h1 className="text-2xl">
+        <h1 className="text-xl">
           {surahInfo?.name} <span className="text-base">({surahInfo?.translation.id})</span>
         </h1>
         <p>
@@ -29,6 +29,6 @@ export default function DetailContainer({ children }: { children?: ReactElement 
       }
     </div>
     <div className="w-full h-[1px] bg-gray-300 my-4"></div>
-    <div dangerouslySetInnerHTML={{ __html: surahDetail?.text }} className="font-normal text-justify flex flex-col gap-3 [&>h2]:font-bold [&>h3]:font-bold" />
+    <div dangerouslySetInnerHTML={{ __html: surahDetail?.text }} className="font-normal text-justify text-sm sm:text-base flex flex-col gap-3 [&>h2]:font-bold [&>h3]:font-bold" />
   </>
 }

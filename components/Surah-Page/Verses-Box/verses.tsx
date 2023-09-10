@@ -55,7 +55,7 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
 
     const rect = ref.current.getBoundingClientRect();
 
-    if (rect.top >= 200 && rect.top <= 250) {
+    if (rect.top >= 130 && rect.top <= 250) {
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
   }
@@ -118,10 +118,14 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
         <div className="border-2 rounded-lg bg-slate-50 p-6 mb-6 text-gray-700">
           <div className="flex justify-between items-center mb-4 -mt-1">
             <h2>Footnote</h2>
-            <Button onClick={() => { setActive(false) }}><FontAwesomeIcon className="text-gray-700" icon={faXmark} /></Button>
+            <Button onClick={() => { setActive(false) }}><FontAwesomeIcon icon={faXmark} /></Button>
           </div>
-          {footNote &&
-            <p className="font-normal text-justify">{footNote?.text}</p>}
+          {(footNote && footNote?.text != "") ?
+            <h2 className="font-normal text-justify text-sm sm:text-base">{footNote?.text}</h2> :
+            <div className="animate-pulse">
+              <div className="bg-slate-300 w-full h-4 rounded mb-2" />
+              <div className="bg-slate-300 w-full h-4 rounded" />
+            </div>}
         </div>
       }
     </div>

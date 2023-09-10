@@ -55,8 +55,10 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
 
   return (
     <div className={`text-gray-700 sticky z-40 transition-all duration-300 ${(isActive) ? "top-0" : "-top-12"}`}>
-      <div className='flex justify-between items-center px-4 sm:px-8 h-12 bg-white'>
-        <Link className="text-lg font-bold" href={"/"}>Qur'anLet</Link>
+      <div className='flex justify-between items-center px-5 sm:px-8 h-12 bg-white'>
+        <Link href={"/"}>
+          <h1 className="text-xl font-bold">Qur'anLet</h1>
+        </Link>
         <Setting active={isActive} />
       </div>
       {surahInfo && <>
