@@ -5,8 +5,10 @@ import Navbar from "@/components/navbar/navbar";
 import DetailContainer from "@/components/surah-detail/detail-container";
 import { SurahDetail } from "@/types/surah-detail";
 import { SurahInfo } from "@/types/surah-info-type";
+import { useImmerAtom } from "jotai-immer";
 import { useHydrateAtoms } from "jotai/utils";
 import { GetStaticPaths, GetStaticProps } from "next";
+import { useEffect } from "react";
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -31,8 +33,17 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 }
 
 const Page = ({ surahInfo, surahDetail }: { surahInfo: SurahInfo, surahDetail: SurahDetail }) => {
-  useHydrateAtoms([[surahInfoAtom, surahInfo]]);
-  useHydrateAtoms([[surahDetailAtom, surahDetail]]);
+  useHydrateAtoms([
+    [surahInfoAtom, surahInfo],
+    [surahDetailAtom, surahDetail]
+  ]);
+  const [, setSurahDetail] = useImmerAtom(surahDetailAtom);
+  const [, setSurahInfo] = useImmerAtom(surahInfoAtom);
+
+  useEffect(() => {
+    setSurahDetail(() => surahDetail);
+    setSurahInfo(() => surahInfo);
+  })
 
   return <>
     <NextSeoWrapper

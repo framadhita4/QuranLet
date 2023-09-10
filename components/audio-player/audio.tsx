@@ -1,6 +1,6 @@
 import { Timestamp } from "@/types/timestamps";
 import { useRef } from "react";
-import { audioStatusAtom, currentTimeAtom, currentVerseKeyAtom, currentWordIndexAtom } from "../atoms/audio-atoms";
+import { audioStatusAtom, currentTimeAtom, currentVerseKeyAtom, currentWordIndexAtom } from "../atoms/audio-atom";
 import { useAtom } from "jotai";
 
 export default function Audio({ timestamp, playToggle, playHandler }: { timestamp: Timestamp, playToggle: () => void, playHandler: () => void }) {

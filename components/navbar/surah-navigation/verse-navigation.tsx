@@ -1,4 +1,4 @@
-import { navigationVerseAtom } from "@/components/atoms/nav-atoms";
+import { currentVerseAtom, navigationVerseAtom } from "@/components/atoms/nav-atom";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom"
 import scrollToElement from "@/utils/scrollToElement";
 import { useAtom } from "jotai"
@@ -6,6 +6,7 @@ import { useAtom } from "jotai"
 export default function VerseNav() {
   const [surahInfo] = useAtom(surahInfoAtom);
   const [, setNavigationVerse] = useAtom(navigationVerseAtom);
+  const [currentVerse] = useAtom(currentVerseAtom);
   if (!surahInfo) return <></>
 
   const numbers = Array.from({ length: surahInfo.ayahs }, (_, i) => i + 1);
@@ -25,7 +26,7 @@ export default function VerseNav() {
       onClick={(event) => { clickHandler(event, e) }}
       key={e}
       href={``}
-      className={`p-2 rounded-md hover:bg-slate-100 cursor-pointer ${false ? "font-semibold bg-slate-100" : ""}`}
+      className={`p-2 rounded-md hover:bg-slate-100 cursor-pointer ${(currentVerse == `${e}`) ? "font-semibold bg-slate-100" : ""}`}
     >
       {e}
     </a>)}

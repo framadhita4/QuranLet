@@ -1,4 +1,4 @@
 import { SurahInfo } from "@/types/surah-info-type";
-import { atom } from "jotai";
+import { atomWithImmer } from "jotai-immer";
 
-export const surahInfoAtom = atom<SurahInfo | undefined>(undefined);
+export const surahInfoAtom = atomWithImmer<SurahInfo | undefined>(undefined);

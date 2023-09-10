@@ -2,7 +2,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlay, faXmark } from "@fortawesome/free-solid-svg-icons";
 import Word from "@/components/Surah-Page/Verses-Box/word";
-import { currentVerseKeyAtom } from "@/components/atoms/audio-atoms";
+import { currentVerseKeyAtom } from "@/components/atoms/audio-atom";
 import { timestampAtom } from "@/components/atoms/timestamp-atom";
 import fetcher from "@/utils/fetcher";
 import scrollToElement from "@/utils/scrollToElement";
@@ -10,7 +10,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Button from "../button";
 import { VersesType } from "@/types/verses-type";
 import { useAtom } from "jotai";
-import { navigationVerseAtom } from "@/components/atoms/nav-atoms";
+import { currentVerseAtom, navigationVerseAtom } from "@/components/atoms/nav-atom";
 import { useRouter } from "next/router";
 
 export default function Verses({ verses, id }: { verses: VersesType, id: string }) {
@@ -18,6 +18,7 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   const [isActive, setActive] = useState(false);
   const [footNote, setFootNote] = useState<{ text: string }>();
   const [currentVerseKey] = useAtom(currentVerseKeyAtom);
+  const [currentVerse, setCurrentVerse] = useAtom(currentVerseAtom);
   const [timestamp] = useAtom(timestampAtom);
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
@@ -40,8 +41,24 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
     if (navigationVerse == verseNumber || router.query.verse == verseNumber) {
       if (!ref.current) return;
       scrollToElement(ref.current);
+      setCurrentVerse(verses.verse_key.split(":")[1]);
     }
+
+    window.addEventListener("scroll", () => scrollHandler());
+    return () => {
+      window.removeEventListener("scroll", () => scrollHandler())
+    };
   }, [])
+
+  const scrollHandler = () => {
+    if (!ref.current) return;
+
+    const rect = ref.current.getBoundingClientRect();
+
+    if (rect.top >= 200 && rect.top <= 250) {
+      setCurrentVerse(verses.verse_key.split(":")[1]);
+    }
+  }
 
   const supHandler = async (footNoteId: string | undefined) => {
     try {

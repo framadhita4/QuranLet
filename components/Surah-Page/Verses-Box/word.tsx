@@ -3,7 +3,7 @@ import { useState, useRef, useMemo, useEffect } from "react";
 import { useAtom } from "jotai";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import { Word } from "@/types/word-type";
-import { audioStatusAtom, currentVerseKeyAtom, currentWordIndexAtom } from "@/components/atoms/audio-atoms";
+import { audioStatusAtom, currentVerseKeyAtom, currentWordIndexAtom } from "@/components/atoms/audio-atom";
 
 export default function WordComponent({ verse, isLast, id }: { verse: Word, isLast: boolean, id: string }) {
   const [isHover, setHover] = useState(false);

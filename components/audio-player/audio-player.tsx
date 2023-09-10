@@ -9,7 +9,7 @@ import { useAtom } from "jotai";
 import { surahInfoAtom } from "../atoms/surah-info-atom";
 import { timestampAtom } from "../atoms/timestamp-atom";
 import Audio from "./audio";
-import { audioStatusAtom, currentTimeAtom, currentVerseKeyAtom, currentWordIndexAtom } from "../atoms/audio-atoms";
+import { audioStatusAtom, currentTimeAtom, currentVerseKeyAtom, currentWordIndexAtom } from "../atoms/audio-atom";
 import AudioBar from "./audio-bar";
 import { useImmerAtom } from "jotai-immer";
 import calcTime from "@/utils/calcTime";

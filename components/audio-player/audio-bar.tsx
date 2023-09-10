@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useAtom } from "jotai"
-import { currentTimeAtom } from "../atoms/audio-atoms"
+import { currentTimeAtom } from "../atoms/audio-atom"
 import { Timestamp } from "@/types/timestamps";
 import { FormEvent, useEffect } from "react";
 

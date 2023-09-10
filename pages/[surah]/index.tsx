@@ -14,6 +14,7 @@ import { useHydrateAtoms } from 'jotai/utils';
 import { useRouter } from 'next/router';
 import { useEffect } from 'react';
 import scrollToElement from '@/utils/scrollToElement';
+import { useImmerAtom } from 'jotai-immer';
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -23,10 +24,10 @@ export const getStaticPaths: GetStaticPaths = () => {
 }
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
-  const surahId = String(ctx.params?.surah)
+  const surahId = String(ctx.params?.surah);
 
   if (surahId.match(/[0-9]/i) && (parseInt(surahId) < 115 && parseInt(surahId) > 0)) {
-    const data = await import(`@/quran/surah/surah_${surahId}/surah_info.json`).then((data) => data.default)
+    const data = await import(`@/quran/surah/surah_${surahId}/surah_info.json`).then((data) => data.default);
 
     return {
       props: { data }
@@ -38,7 +39,8 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 
 const Page = ({ data }: { data: SurahInfo }) => {
   const router = useRouter();
-  useHydrateAtoms([[surahInfoAtom, data]])
+  useHydrateAtoms([[surahInfoAtom, data]]);
+  const [, setSurahInfo] = useImmerAtom(surahInfoAtom);
 
   useEffect(() => {
     if (!router.query.verse) return;
@@ -48,6 +50,10 @@ const Page = ({ data }: { data: SurahInfo }) => {
 
     scrollToElement(verse);
   }, [router.isReady])
+
+  useEffect(() => {
+    setSurahInfo(() => data);
+  }, [data])
 
   return <>
     {data && <>

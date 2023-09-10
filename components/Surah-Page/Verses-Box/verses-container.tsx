@@ -1,7 +1,10 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from "react";
 import VerseBox from "./verse-box";
 import { useAtom } from "jotai";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
+import { recentlyReadAtom } from "@/components/atoms/bookmark-atom";
+import { currentVerseAtom } from "@/components/atoms/nav-atom";
 
 export default function VersesContainer() {
   const [pages, setPages] = useState<undefined[]>();

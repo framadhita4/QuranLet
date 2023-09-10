@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { currentVerseKeyAtom } from "@/components/atoms/audio-atoms"
+import { currentVerseKeyAtom } from "@/components/atoms/audio-atom"
 import scrollToElement from "@/utils/scrollToElement";
 import { useAtom } from "jotai"
 import { useEffect } from "react";
