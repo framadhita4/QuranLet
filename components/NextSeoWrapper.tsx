@@ -4,8 +4,8 @@ export default function NextSeoWrapper({ title, description, url }: { title: str
   return <NextSeo
     title={title}
     description={description}
-    titleTemplate="%s - quranlet.vercel.app"
-    defaultTitle="quranlet.vercel.app"
+    titleTemplate="%s - QuranLet"
+    defaultTitle="QuranLet"
     openGraph={{
       type: "website",
       url: `https://${url}`,

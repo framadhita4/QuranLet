@@ -6,6 +6,7 @@ import { Inter } from '@next/font/google';
 import { Analytics } from '@vercel/analytics/react';
 import localFont from "@next/font/local"
 import { Provider } from 'jotai';
+import Head from 'next/head';
 
 export const surahIconFont = localFont({
   src: "../public/font/surahicon.woff2",
@@ -21,6 +22,11 @@ const notoSans = Inter({
 
 export default function App({ Component, pageProps }: AppProps) {
   return <>
+    <Head>
+      <link rel="shortcut icon" href="/quran.svg" type="image/x-icon" />
+      <link rel="apple-touch-icon" href="/logo/logo-192x.png" sizes="192x192" />
+      <link rel="manifest" href="/manifest.json" />
+    </Head>
     <main className={`${notoSans.className} selection:bg-pri-color-light font-medium text-gray-700`}>
       <Provider>
         <Component {...pageProps} />
