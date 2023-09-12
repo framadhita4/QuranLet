@@ -1,6 +1,6 @@
 import { SurahInfo } from "./surah-info-type";
 
-export type Bookmark = {
-  surahInfo: SurahInfo;
+export type RecentlyRead = {
+  surahInfo: SurahInfo | undefined;
   ayah: string;
 };

@@ -16,7 +16,7 @@ import { useRouter } from "next/router";
 export default function Verses({ verses, id }: { verses: VersesType, id: string }) {
   const router = useRouter();
   const [isActive, setActive] = useState(false);
-  const [footNote, setFootNote] = useState<{ text: string }>();
+  const [footNote, setFootNote] = useState<{ text: string } | undefined>(undefined);
   const [currentVerseKey] = useAtom(currentVerseKeyAtom);
   const [currentVerse, setCurrentVerse] = useAtom(currentVerseAtom);
   const [timestamp] = useAtom(timestampAtom);
@@ -63,7 +63,7 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   const supHandler = async (footNoteId: string | undefined) => {
     try {
       setActive(true);
-      setFootNote({ text: "" });
+      setFootNote(undefined);
       const data = await fetcher(`/api/footnote?id=${footNoteId}`);
       setFootNote(data);
     } catch (error) {

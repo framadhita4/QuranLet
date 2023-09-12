@@ -18,7 +18,7 @@ export default function SurahCard({ surahInfo }: AppProps) {
           </div>
         </div>
         <div className="text-center w-20">
-          <div className={`icon-${surahInfo.surah_number} text-2xl font-surahIcon ${surahIconFont.className}`}></div>
+          <div className={`icon-${surahInfo.surah_number} text-2xl ${surahIconFont.className}`}></div>
           <p className="text-[12px] text-gray-500 transition-all duration-150 group-hover:text-sec-color-light">{surahInfo.ayahs} Ayat</p>
         </div>
       </div>
