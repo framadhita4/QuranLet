@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://quranlet.vercel.app
+
+# Sitemaps
+Sitemap: https://quranlet.vercel.app/sitemap.xml
