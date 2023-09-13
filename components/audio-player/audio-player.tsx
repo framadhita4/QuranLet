@@ -38,10 +38,7 @@ export default function AudioPlayer() {
     setCurrentTime(0);
     setCurrentVerseKey(``);
     setCurrentWordIndex(0);
-  }, []);
-
-  useEffect(() => {
-  }, [currentWordIndex])
+  }, [surahInfo]);
 
   const playToggle = () => {
     const audio = document.querySelector<HTMLAudioElement>(".audio");

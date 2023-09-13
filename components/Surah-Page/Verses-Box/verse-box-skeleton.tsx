@@ -1,13 +1,15 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { currentVerseKeyAtom } from "@/components/atoms/audio-atom"
+import { audioStatusAtom, currentVerseKeyAtom } from "@/components/atoms/audio-atom"
 import scrollToElement from "@/utils/scrollToElement";
 import { useAtom } from "jotai"
 import { useEffect } from "react";
 
 export default function VerseBoxSkeleton({ id }: { id: string }) {
   const [currentVerseKey] = useAtom(currentVerseKeyAtom);
+  const [audioPlay] = useAtom(audioStatusAtom);
 
   useEffect(() => {
+    if (!audioPlay) return;
     if (currentVerseKey == id) {
       const verse = document.getElementById(id);
       if (!verse) return;

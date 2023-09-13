@@ -9,6 +9,7 @@ import { useImmerAtom } from "jotai-immer";
 import { useHydrateAtoms } from "jotai/utils";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useEffect } from "react";
+import { mequranFont } from "../_app";
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -55,7 +56,7 @@ const Page = ({ surahInfo, surahDetail }: { surahInfo: SurahInfo, surahDetail: S
       url={`quranlet.vercel.app/detail/${surahInfo.surah_number}`}
     />
     <Navbar />
-    <div className="w-11/12 md:w-3/5 m-auto p-4">
+    <div className="w-11/12 md:w-3/5 m-auto p-4 mt-14">
       <DetailContainer />
     </div>
   </>

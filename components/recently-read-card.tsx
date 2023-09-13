@@ -14,7 +14,7 @@ export default function RecentlyReadCard({ recentlyRead }: { recentlyRead: Recen
     <div className="rounded-lg w-full py-4 bg-gray-200 mt-3">
       <div className="m-auto w-fit text-center">
         <div className={`icon-${recentlyRead.surahInfo?.surah_number} ${surahIconFont.className} text-2xl`} />
-        <p className="font-normal text-gray-500 text-xs group-hover:text-sec-color-light transition-all duration-150">Ayat {recentlyRead.ayah}</p>
+        <p className="font-semibold text-gray-700 text-xs group-hover:text-sec-color-light transition-all duration-150">Ayat {recentlyRead.ayah}</p>
       </div>
     </div>
   </Link>

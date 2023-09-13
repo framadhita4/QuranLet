@@ -23,7 +23,7 @@ export default function DetailContainer({ children }: { children?: ReactElement 
         </p>
       </div>
       {children ? children :
-        <Link href={`/${surahInfo.surah_number}`} className="font-semibold p-2 rounded-full hover:bg-slate-200 md:rounded md:after:content-['Lihat\a0Surah'] flex items-center gap-1" >
+        <Link href={`/${surahInfo.surah_number}`} className="font-semibold p-2 rounded-full hover:bg-slate-100 md:rounded md:after:content-['Lihat\a0Surah'] flex items-center gap-1" >
           <FontAwesomeIcon icon={faArrowLeft} className="w-6 h-6 md:w-4 md:h-4" />
         </Link>
       }

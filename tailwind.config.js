@@ -15,13 +15,6 @@ module.exports = {
         "sec-color-light": "var(--sec-color-light)",
         "thr-color-light": "var(--thr-color-light)",
       },
-      fontFamily: {
-        uthmani: "uthmani",
-        meQuran: "meQuran"
-      },
-      keyframes: {
-        click: "",
-      },
     },
   },
   plugins: [],

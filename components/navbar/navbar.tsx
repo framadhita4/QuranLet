@@ -54,7 +54,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   })
 
   return (
-    <div className={`text-gray-700 sticky z-40 transition-all duration-300 ${(isActive) ? "top-0" : "-top-12"}`}>
+    <div className={`text-gray-700 fixed w-full z-40 transition-all duration-300 ${(isActive) ? "top-0" : "-top-12"}`}>
       <div className='flex justify-between items-center px-5 sm:px-8 h-12 bg-white'>
         <Link href={"/"}>
           <h1 className="text-xl font-bold">Qur'anLet</h1>
@@ -63,7 +63,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
       </div>
       {surahInfo && <>
         <div className='overflow-x-hidden w-screen'>
-          <div className='px-4 sm:px-8 py-1 bg-white drop-shadow-[0_2px_1px_rgba(0,0,0,0.1)]'>
+          <div className='px-5 sm:px-8 py-1 bg-white drop-shadow-[0_2px_1px_rgba(0,0,0,0.1)]'>
             <div className='w-fit flex items-center gap-1 cursor-pointer font-semibold' onClick={() => setSurahNav(!surahNav)}>
               <span>{surahInfo.name}</span>
               <FontAwesomeIcon icon={faChevronDown} size='sm' className={`${surahNav && "rotate-180"} transition-all duration-200`} />

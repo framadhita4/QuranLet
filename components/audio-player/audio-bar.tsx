@@ -8,7 +8,7 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
   const [currentTime, setCurrentTime] = useAtom(currentTimeAtom);
 
   useEffect(() => {
-    if (!timestamp || !currentTime) return;
+    if (!timestamp) return;
     const percentage = currentTime * 100 / timestamp.duration;
 
     const audioBar = document.querySelector<HTMLInputElement>(".audio-bar");
@@ -24,7 +24,7 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
     const value = parseInt(target.value);
     const percentage = value * 100 / timestamp.duration;
 
-    target.style.backgroundSize = `${percentage}% 100%`
+    target.style.backgroundSize = `${percentage}% 100%`;
     setCurrentTime(value);
 
     const audio = document.querySelector<HTMLAudioElement>(".audio");

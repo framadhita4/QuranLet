@@ -2,7 +2,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlay, faXmark } from "@fortawesome/free-solid-svg-icons";
 import Word from "@/components/Surah-Page/Verses-Box/word";
-import { currentVerseKeyAtom } from "@/components/atoms/audio-atom";
+import { audioStatusAtom, currentVerseKeyAtom } from "@/components/atoms/audio-atom";
 import { timestampAtom } from "@/components/atoms/timestamp-atom";
 import fetcher from "@/utils/fetcher";
 import scrollToElement from "@/utils/scrollToElement";
@@ -11,6 +11,7 @@ import Button from "../button";
 import { VersesType } from "@/types/verses-type";
 import { useAtom } from "jotai";
 import { currentVerseAtom, navigationVerseAtom } from "@/components/atoms/nav-atom";
+import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import { useRouter } from "next/router";
 
 export default function Verses({ verses, id }: { verses: VersesType, id: string }) {
@@ -18,7 +19,9 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   const [isActive, setActive] = useState(false);
   const [footNote, setFootNote] = useState<{ text: string } | undefined>(undefined);
   const [currentVerseKey] = useAtom(currentVerseKeyAtom);
-  const [currentVerse, setCurrentVerse] = useAtom(currentVerseAtom);
+  const [audioPlay] = useAtom(audioStatusAtom);
+  const [, setCurrentVerse] = useAtom(currentVerseAtom);
+  const [surahInfo] = useAtom(surahInfoAtom);
   const [timestamp] = useAtom(timestampAtom);
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
@@ -26,7 +29,7 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   const ref = useRef<HTMLDivElement>(null);
 
   const active = useMemo(() => {
-    if (!ref.current) return false;
+    if (!ref.current || !audioPlay) return false;
 
     if (currentVerseKey == verses.verse_key) {
       scrollToElement(ref.current);
@@ -37,18 +40,20 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   }, [currentVerseKey])
 
   useEffect(() => {
+    window.addEventListener("scroll", () => scrollHandler());
+    return () => {
+      window.removeEventListener("scroll", () => scrollHandler())
+    };
+  }, [])
+
+  useEffect(() => {
     const verseNumber = verses.verse_key.split(":")[1];
     if (navigationVerse == verseNumber || router.query.verse == verseNumber) {
       if (!ref.current) return;
       scrollToElement(ref.current);
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
-
-    window.addEventListener("scroll", () => scrollHandler());
-    return () => {
-      window.removeEventListener("scroll", () => scrollHandler())
-    };
-  }, [])
+  }, [surahInfo])
 
   const scrollHandler = () => {
     if (!ref.current) return;

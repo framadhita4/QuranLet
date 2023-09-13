@@ -40,7 +40,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 const Page = ({ data }: { data: SurahInfo }) => {
   const router = useRouter();
   useHydrateAtoms([[surahInfoAtom, data]]);
-  const [, setSurahInfo] = useImmerAtom(surahInfoAtom);
+  const [surahInfo, setSurahInfo] = useImmerAtom(surahInfoAtom);
 
   useEffect(() => {
     if (!router.query.verse) return;
@@ -49,7 +49,7 @@ const Page = ({ data }: { data: SurahInfo }) => {
     if (!verse) return;
 
     scrollToElement(verse);
-  }, [router.isReady])
+  }, [surahInfo])
 
   useEffect(() => {
     setSurahInfo(() => data);
@@ -63,7 +63,7 @@ const Page = ({ data }: { data: SurahInfo }) => {
         url={`quranlet.vercel.app/${data.surah_number}`}
       />
       <Navbar surahInfo={data} />
-      <div className='mt-10'>
+      <div className='mt-28'>
         <div className='mx-6 lg:mx-40 sm:mx-20'>
           <div className={`m-auto text-[10vw] sm:text-5xl leading-4 w-fit sm:mb-3 mt-5 ${surahIconFont.className}`}>
             <span className={`icon-${data?.surah_number} ml-2`}></span>

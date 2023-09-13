@@ -4,6 +4,7 @@ import { useAtom } from "jotai";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import { Word } from "@/types/word-type";
 import { audioStatusAtom, currentVerseKeyAtom, currentWordIndexAtom } from "@/components/atoms/audio-atom";
+import { hafsFont, mequranFont } from "@/pages/_app";
 
 export default function WordComponent({ verse, isLast, id }: { verse: Word, isLast: boolean, id: string }) {
   const [isHover, setHover] = useState(false);
@@ -42,7 +43,7 @@ export default function WordComponent({ verse, isLast, id }: { verse: Word, isLa
       `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing || active) && "text-sec-color-light"
       } ${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? "p-2 ml-1 mb-2" : " ml-1 mb-5"}`
     }>
-    <span dir="rtl" lang="ar" className={`${(isLast ? "font-uthmani font-bold" : "font-meQuran")} sm:text-2xl text-[5vw]`}>{verse.text}</span>
+    <span dir="rtl" lang="ar" className={`${(isLast ? `${hafsFont.className} font-bold sm:text-3xl text-[6vw]` : mequranFont.className + " sm:text-2xl text-[5vw]")}`}>{verse.text}</span>
     {
       setting.wordByWord.transliteration && setting.wordByWord.display.inline &&
       <p className="mt-1 text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>

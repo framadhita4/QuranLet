@@ -7,7 +7,7 @@ type AppProps = { data: string[] | undefined };
 
 export default function Header({ data }: AppProps) {
   return (
-    <header className='flex bg-gradient-to-br from-pri-color-light to-thr-color-light flex-col p-2'>
+    <header className='flex bg-gradient-to-br from-pri-color-light to-thr-color-light flex-col p-2 pt-14'>
       <div className='p-2 md:px-8'>
         <div className='text-center'>
           <div className='m-auto my-6 w-36 p-8 bg-white rounded-full'>
