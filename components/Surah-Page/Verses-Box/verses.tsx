@@ -13,6 +13,8 @@ import { useAtom } from "jotai";
 import { currentVerseAtom, navigationVerseAtom } from "@/components/atoms/nav-atom";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import { useRouter } from "next/router";
+import { settingAtom } from "@/components/atoms/setting-atom";
+import Translation from "./trasnlation";
 
 export default function Verses({ verses, id }: { verses: VersesType, id: string }) {
   const router = useRouter();
@@ -20,12 +22,12 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
   const [footNote, setFootNote] = useState<{ text: string } | undefined>(undefined);
   const [currentVerseKey] = useAtom(currentVerseKeyAtom);
   const [audioPlay] = useAtom(audioStatusAtom);
+  const [settings] = useAtom(settingAtom);
   const [, setCurrentVerse] = useAtom(currentVerseAtom);
   const [surahInfo] = useAtom(surahInfoAtom);
   const [timestamp] = useAtom(timestampAtom);
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
-  const textRef = useRef<HTMLDivElement>(null);
   const ref = useRef<HTMLDivElement>(null);
 
   const active = useMemo(() => {
@@ -78,11 +80,10 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
 
   const parseStringToElement = (text: string) => {
     const footNoteId = text.match(/"\d+"/g)?.[0].replace(/"/g, "");
-    const footNoteNumber = text.match(/>\d/g)?.[0].replace(">", "");
+    const footNoteNumber = text.match(/>\d+/g)?.[0].replace(">", "");
 
     return <sup className="p-1 cursor-pointer hover:text-sec-color-light " onClick={() => { supHandler(footNoteId) }}>{footNoteNumber}</sup>
   }
-
 
   const playHandler = async () => {
     if (!timestamp) return;
@@ -113,13 +114,20 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
           return <Word key={e.id} id={`${verses.verse_key}:${i + 1}`} verse={e} isLast={i == verses.words.length - 1} />
         })}
       </div>
-      <div ref={textRef} className="text-sm sm:text-base mb-4">
-        {verses.translation.text.split(regex).map((e) => {
-          if (!e.match(regex)) return e;
-          return parseStringToElement(e);
-        })}
-      </div>
-      {isActive &&
+      {settings.translation.latin &&
+        <Translation settings={settings} resourceName="Latin">
+          {verses.transliteration}
+        </Translation>
+      }
+      {settings.translation.id &&
+        <Translation settings={settings} resourceName={verses.translation.resource_name}>
+          {verses.translation.text.split(regex).map((e) => {
+            if (!e.match(regex)) return e;
+            return parseStringToElement(e);
+          })}
+        </Translation>
+      }
+      {isActive && settings.translation.id &&
         <div className="border-2 rounded-lg bg-slate-50 p-6 mb-6 text-gray-700">
           <div className="flex justify-between items-center mb-4 -mt-1">
             <h2>Footnote</h2>
@@ -134,5 +142,5 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
         </div>
       }
     </div>
-  </div>
+  </div >
 }

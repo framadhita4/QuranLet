@@ -17,10 +17,5 @@ export type VersesType = {
     text: string;
     resource_name: string;
   };
-  timestamps: {
-    timestamp_from: number;
-    timestamp_to: number;
-    duration: number;
-    segments: [[number, number, number]];
-  };
+  transliteration: string;
 };

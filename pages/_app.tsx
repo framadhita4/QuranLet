@@ -38,11 +38,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <Head>
       <link rel="shortcut icon" href="/quran.svg" type="image/x-icon" />
       <link rel="apple-touch-icon" href="/logo/logo-192x.png" sizes="192x192" />
-      <link rel="apple-touch-icon" href="/logo/logo-128x.png" sizes="128x128" />
-      <link rel="apple-touch-icon" href="/logo/logo-96x.png" sizes="96x96" />
       <link rel="icon" type="image/png" href="/logo/logo-192x.png" sizes="192x192" />
-      <link rel="icon" type="image/png" href="/logo/logo-128x.png" sizes="128x128" />
-      <link rel="icon" type="image/png" href="/logo/logo-96x.png" sizes="96x96" />
       <link rel="manifest" href="/manifest.json" />
     </Head>
     <main className={`${quicksandFont.className} selection:bg-pri-color-light font-medium text-gray-700`}>

@@ -2,7 +2,7 @@ import SwitchButton from "../switch-button";
 
 export default function WordByWord() {
   return <>
-    <div className="font-semibold text-lg text-gray-700 mb-2">Kata Demi Kata</div>
+    <div className="font-semibold text-base text-gray-700 mb-2">Kata Demi Kata</div>
     <div className="flex flex-col font-normal">
       <SwitchButton
         text="Terjemahan"

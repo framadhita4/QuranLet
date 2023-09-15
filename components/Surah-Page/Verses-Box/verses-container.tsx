@@ -23,7 +23,7 @@ export default function VersesContainer() {
     if (!verseElement) return;
 
     scrollToElement(verseElement);
-  }, [])
+  }, [router.isReady, surahInfo])
 
   useEffect(() => {
     if (!surahInfo || recentlyRead.length == 0) return;

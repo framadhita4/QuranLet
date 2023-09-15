@@ -7,6 +7,10 @@ export type Setting = {
       tooltip: boolean;
     };
   };
+  translation: {
+    id: boolean;
+    latin: boolean;
+  };
 };
 
 export const settingInitValue: Setting = {
@@ -17,5 +21,9 @@ export const settingInitValue: Setting = {
       inline: false,
       tooltip: true,
     },
+  },
+  translation: {
+    id: true,
+    latin: true,
   },
 };

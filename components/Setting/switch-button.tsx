@@ -24,10 +24,10 @@ export default function SwitchButton({ text, disabled = false, changeHandler, ch
         checked={checked(setting)}
         onChange={onChangeHandler}
       />
-      <span className={`mr-3 flex h-[24px] w-9 items-baseline rounded-full p-1 duration-200 ${checked(setting) ? 'bg-gray-700' : 'bg-gray-300'}`}>
-        <span className={`h-[17px] w-[17px] rounded-full bg-white duration-200 ${checked(setting) ? 'translate-x-[12px]' : ''}`} />
-      </span>
-      <span>{text}</span>
+      <div className={`mr-3 flex h-[24px] w-9 items-baseline rounded-full p-1 duration-200 ${checked(setting) ? 'bg-gray-700' : 'bg-gray-300'}`}>
+        <div className={`h-[17px] w-[17px] rounded-full bg-white duration-200 ${checked(setting) ? 'translate-x-[12px]' : ''}`} />
+      </div>
+      <div className="text-sm font-medium">{text}</div>
     </label>
   </>
 }
