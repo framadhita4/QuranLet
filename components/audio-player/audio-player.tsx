@@ -1,26 +1,25 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { faBackward, faForward, faPlay, faPause } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import fetcher from "@/utils/fetcher";
-import { Timestamp } from "@/types/timestamps";
-import Button from "../Surah-Page/button";
-import { useEffect } from "react";
+import { Segments, Timestamp, VerseTiming } from "@/types/timestamps";
+import { useCallback, useEffect, useRef } from "react";
 import { useAtom } from "jotai";
 import { surahInfoAtom } from "../atoms/surah-info-atom";
 import { timestampAtom } from "../atoms/timestamp-atom";
 import Audio from "./audio";
-import { audioStatusAtom, currentTimeAtom, currentVerseKeyAtom, currentWordIndexAtom } from "../atoms/audio-atom";
+import { audioStatusAtom, currentTimeAtom, highlightAtom } from "../atoms/audio-atom";
 import AudioBar from "./audio-bar";
 import { useImmerAtom } from "jotai-immer";
 import calcTime from "@/utils/calcTime";
+import AudioController from "./audio-controller";
 
 export default function AudioPlayer() {
   const [audioPlay, setAudioPlay] = useAtom(audioStatusAtom);
   const [currentTime, setCurrentTime] = useAtom(currentTimeAtom);
-  const [currentVerseKey, setCurrentVerseKey] = useAtom(currentVerseKeyAtom);
-  const [currentWordIndex, setCurrentWordIndex] = useAtom(currentWordIndexAtom);
+  const [highlight, setHighlight] = useAtom(highlightAtom);
   const [surahInfo] = useAtom(surahInfoAtom);
   const [timestamp, setTimestampAtom] = useImmerAtom(timestampAtom);
+  const verseTiming = useRef<VerseTiming | undefined>(undefined);
+  const wordIndex = useRef<Segments | undefined>(undefined)
 
   const getTimestamp = async () => {
     if (!surahInfo) return;
@@ -36,11 +35,10 @@ export default function AudioPlayer() {
 
     setAudioPlay(false);
     setCurrentTime(0);
-    setCurrentVerseKey(``);
-    setCurrentWordIndex(0);
+    setHighlight("init");
   }, [surahInfo]);
 
-  const playToggle = () => {
+  const playToggle = useCallback(() => {
     const audio = document.querySelector<HTMLAudioElement>(".audio");
     if (!audio) return;
 
@@ -52,69 +50,32 @@ export default function AudioPlayer() {
 
     audio.pause();
     setAudioPlay(false);
-  }
+  }, [])
 
-  const wardHandler = (maxVerses: number, operator: number) => {
-    let verseIndex = parseInt(currentVerseKey.split(":")[1]);
-    if (verseIndex == maxVerses || !timestamp) return;
-
-    const audio = document.querySelector<HTMLAudioElement>(".audio");
-    if (!audio) return;
-
-    audio.currentTime = timestamp?.verse_timings[(verseIndex + operator) - 1].timestamp_from * 0.001;  // divide 1000
-  }
-
-
-  const getCurrentVerse = () => {
+  const GetHighlight = () => {
     if (!currentTime || !timestamp) return;
+    let newHighlight: string = "";
 
-    timestamp.verse_timings.every((e) => {
-      if (e.timestamp_from <= currentTime && e.timestamp_to > currentTime) {
-        if (currentVerseKey === e.verse_key) return false;
+    const verseTiming = timestamp.verse_timings.find((e) => (e.timestamp_from <= currentTime && e.timestamp_to > currentTime) && audioPlay);
+    if (!verseTiming) return;
 
-        setCurrentVerseKey(e.verse_key);
-        return false;
-      }
-      return true;
-    })
-  }
+    const wordIndex = verseTiming.segments.find((e) => e[1] <= currentTime && e[2] > currentTime);
+    if (!wordIndex) return;
 
-  const getCurrentWord = () => {
-    if (!currentVerseKey || !currentTime || !timestamp) return;
+    newHighlight = `${verseTiming.verse_key}:${wordIndex[0]}`;
 
-    const versesIndex = parseInt(currentVerseKey.split(":")[1]);
-    timestamp.verse_timings[versesIndex - 1].segments.every((e) => {
-      if (e[1] <= currentTime && e[2] > currentTime) {
-        if (currentWordIndex === e[0]) return false;
-
-        setCurrentWordIndex(e[0]);
-        return false;
-      }
-      return true;
-    })
+    if (newHighlight == highlight) return;
+    setHighlight(newHighlight);
   }
 
   return <div className="w-full z-10 flex flex-col fixed bottom-0 h-14 bg-white">
     {timestamp && surahInfo && <>
-      <Audio playHandler={() => { getCurrentVerse(); getCurrentWord() }} timestamp={timestamp} playToggle={playToggle} />
-      <AudioBar playHandler={() => { getCurrentVerse(); getCurrentWord() }} timestamp={timestamp} />
+      <Audio playHandler={() => { GetHighlight() }} timestamp={timestamp} playToggle={playToggle} />
+      <AudioBar playHandler={() => { GetHighlight() }} timestamp={timestamp} />
 
       <div className="flex justify-between items-center px-4 text-md font-medium mt-1">
         <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
-        <div className="w-fit flex gap-4 text-xl">
-          <Button onClick={() => wardHandler(1, -1)} >
-            <FontAwesomeIcon icon={faBackward} />
-          </Button>
-          <Button onClick={playToggle}>
-            {audioPlay ?
-              <FontAwesomeIcon icon={faPause} /> :
-              <FontAwesomeIcon icon={faPlay} />
-            }
-          </Button>
-          <Button onClick={() => wardHandler(surahInfo?.ayahs, 1)} >
-            <FontAwesomeIcon icon={faForward} />
-          </Button>
-        </div>
+        <AudioController timestamp={timestamp} playToggle={playToggle} />
         <p className="w-20 text-right">{calcTime(timestamp.duration * 0.001)}</p>
       </div>
     </>}

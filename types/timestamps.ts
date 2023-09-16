@@ -13,5 +13,7 @@ export type VerseTiming = {
   timestamp_from: number;
   timestamp_to: number;
   duration: number;
-  segments: [[number, number, number]];
+  segments: Segments[];
 };
+
+export type Segments = [number, number, number];

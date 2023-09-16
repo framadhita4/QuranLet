@@ -2,44 +2,38 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlay, faXmark } from "@fortawesome/free-solid-svg-icons";
 import Word from "@/components/Surah-Page/Verses-Box/word";
-import { audioStatusAtom, currentVerseKeyAtom } from "@/components/atoms/audio-atom";
 import { timestampAtom } from "@/components/atoms/timestamp-atom";
 import fetcher from "@/utils/fetcher";
 import scrollToElement from "@/utils/scrollToElement";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { memo, useEffect, useRef, useState } from "react";
 import Button from "../button";
 import { VersesType } from "@/types/verses-type";
-import { useAtom } from "jotai";
+import { useAtom, useSetAtom } from "jotai";
 import { currentVerseAtom, navigationVerseAtom } from "@/components/atoms/nav-atom";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import { useRouter } from "next/router";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import Translation from "./trasnlation";
 
-export default function Verses({ verses, id }: { verses: VersesType, id: string }) {
+function Verses({ verses, id, highlight }: { verses: VersesType, id: string, highlight: string | null }) {
   const router = useRouter();
   const [isActive, setActive] = useState(false);
   const [footNote, setFootNote] = useState<{ text: string } | undefined>(undefined);
-  const [currentVerseKey] = useAtom(currentVerseKeyAtom);
-  const [audioPlay] = useAtom(audioStatusAtom);
   const [settings] = useAtom(settingAtom);
-  const [, setCurrentVerse] = useAtom(currentVerseAtom);
+  const setCurrentVerse = useSetAtom(currentVerseAtom);
   const [surahInfo] = useAtom(surahInfoAtom);
   const [timestamp] = useAtom(timestampAtom);
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
   const ref = useRef<HTMLDivElement>(null);
 
-  const active = useMemo(() => {
-    if (!ref.current || !audioPlay) return false;
+  useEffect(() => {
+    if (!ref.current) return;
 
-    if (currentVerseKey == verses.verse_key) {
+    if (highlight) {
       scrollToElement(ref.current);
-      return true;
-    } else {
-      return false;
     }
-  }, [currentVerseKey])
+  }, [highlight])
 
   useEffect(() => {
     window.addEventListener("scroll", () => scrollHandler());
@@ -97,7 +91,7 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
     audio.play();
   }
 
-  return <div id={`${id}`} ref={ref} className={`rounded-sm border-b-2 mt-8 p-4 flex flex-wrap md:flex-nowrap ${active && "bg-slate-50"}`}>
+  return <div id={`${id}`} ref={ref} className={`rounded-sm border-b-2 mt-8 p-4 flex flex-wrap md:flex-nowrap ${!!highlight && "bg-slate-50"}`}>
     <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400">
       <a href={`#${id}`}>
         <Button>
@@ -111,7 +105,8 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
     <div className="w-full">
       <div className={`words-container flex justify-start flex-row-reverse flex-wrap mb-4`}>
         {verses.words.map((e, i) => {
-          return <Word key={e.id} id={`${verses.verse_key}:${i + 1}`} verse={e} isLast={i == verses.words.length - 1} />
+          console.log(highlight)
+          return <Word highlight={(highlight === `${verses.verse_key}:${i + 1}`)} key={e.id} verse={e} isLast={i == verses.words.length - 1} />
         })}
       </div>
       {settings.translation.latin &&
@@ -144,3 +139,6 @@ export default function Verses({ verses, id }: { verses: VersesType, id: string 
     </div>
   </div >
 }
+
+const VersesMemo = memo(Verses);
+export default VersesMemo;

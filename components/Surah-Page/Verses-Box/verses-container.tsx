@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useEffect, useState } from "react";
+import { memo, useEffect, useState } from "react";
 import VerseBox from "./verse-box";
 import { useAtom } from "jotai";
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";

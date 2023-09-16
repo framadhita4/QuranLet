@@ -1,4 +1,4 @@
-import { MouseEventHandler, ReactNode } from "react"
+import { MouseEventHandler, ReactNode, memo } from "react"
 
 export default function Button({ children, onClick = () => { } }: { children: ReactNode, onClick?: MouseEventHandler }) {
   return <button onClick={onClick} className={`p-1 flex items-center justify-center w-8 h-8 transition-all relative button hover:text-sec-color-light group active:scale-90 rounded-full`}>

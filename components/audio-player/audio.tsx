@@ -1,13 +1,12 @@
 import { Timestamp } from "@/types/timestamps";
 import { useRef } from "react";
-import { audioStatusAtom, currentTimeAtom, currentVerseKeyAtom, currentWordIndexAtom } from "../atoms/audio-atom";
+import { audioStatusAtom, currentTimeAtom, highlightAtom } from "../atoms/audio-atom";
 import { useAtom } from "jotai";
 
 export default function Audio({ timestamp, playToggle, playHandler }: { timestamp: Timestamp, playToggle: () => void, playHandler: () => void }) {
   const [, setAudioPlay] = useAtom(audioStatusAtom);
   const [, setCurrentTime] = useAtom(currentTimeAtom);
-  const [, setCurrentVerseKey] = useAtom(currentVerseKeyAtom);
-  const [, setCurrentWordIndex] = useAtom(currentWordIndexAtom);
+  const [, setHighlight] = useAtom(highlightAtom);
   const ref = useRef<HTMLAudioElement>(null);
 
   const playingHandler = () => {
@@ -26,7 +25,7 @@ export default function Audio({ timestamp, playToggle, playHandler }: { timestam
   return <audio
     className="audio"
     onPlay={() => setAudioPlay(true)}
-    onPause={() => { setAudioPlay(false); setCurrentVerseKey(""); setCurrentWordIndex(0) }}
+    onPause={() => { setAudioPlay(false); setHighlight("init") }}
     onEnded={playToggle}
     onTimeUpdate={playingHandler}
     src={timestamp.audio_url}

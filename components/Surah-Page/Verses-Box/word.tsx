@@ -1,27 +1,17 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useState, useRef, useMemo, useEffect } from "react";
-import { useAtom } from "jotai";
+import { useState, useRef, memo, useMemo } from "react";
+import { useAtom, useAtomValue } from "jotai";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import { Word } from "@/types/word-type";
-import { audioStatusAtom, currentVerseKeyAtom, currentWordIndexAtom } from "@/components/atoms/audio-atom";
+import { audioStatusAtom } from "@/components/atoms/audio-atom";
 import { hafsFont, mequranFont } from "@/pages/_app";
 
-export default function WordComponent({ verse, isLast, id }: { verse: Word, isLast: boolean, id: string }) {
+function WordComponent({ verse, isLast, highlight }: { verse: Word, isLast: boolean, highlight: boolean }) {
   const [isHover, setHover] = useState(false);
-  const [globalPlay, setGlobalPlay] = useAtom(audioStatusAtom);
+  const [, setGlobalPlay] = useAtom(audioStatusAtom);
   const [playing, setPlay] = useState(false);
-  const [currentWordIndex] = useAtom(currentWordIndexAtom);
-  const [currentVerseKey] = useAtom(currentVerseKeyAtom);
-  const [setting] = useAtom(settingAtom);
+  const setting = useAtomValue(settingAtom);
   const audioRef = useRef<HTMLAudioElement>(null);
-
-  const active = useMemo(() => {
-    if (`${currentVerseKey}:${currentWordIndex}` == id) {
-      return true;
-    } else {
-      return false;
-    }
-  }, [currentWordIndex])
 
   const togglePlay = () => {
     const audioElement = audioRef.current;
@@ -35,12 +25,12 @@ export default function WordComponent({ verse, isLast, id }: { verse: Word, isLa
     setGlobalPlay(true);
   };
 
-  return <div id={id}
+  return <div
     onClick={() => { if (!isLast) togglePlay() }}
     onMouseEnter={() => setHover(true)}
     onMouseLeave={() => setHover(false)}
     className={
-      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing || active) && "text-sec-color-light"
+      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing || highlight) && "text-sec-color-light"
       } ${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? "p-2 ml-1 mb-2" : " ml-1 mb-5"}`
     }>
     <span dir="rtl" lang="ar" className={`${(isLast ? `${hafsFont.className} font-bold sm:text-3xl text-[6vw]` : mequranFont.className + " sm:text-2xl text-[5vw]")}`}>{verse.text}</span>
@@ -67,3 +57,6 @@ export default function WordComponent({ verse, isLast, id }: { verse: Word, isLa
     }
   </div>
 }
+
+const WordComponentMemo = memo(WordComponent);
+export default WordComponentMemo;
