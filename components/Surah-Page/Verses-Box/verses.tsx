@@ -14,6 +14,7 @@ import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import { useRouter } from "next/router";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import Translation from "./trasnlation";
+import { audioStatusAtom } from "@/components/atoms/audio-atom";
 
 function Verses({ verses, id, highlight }: { verses: VersesType, id: string, highlight: string | null }) {
   const router = useRouter();
@@ -23,10 +24,20 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
   const setCurrentVerse = useSetAtom(currentVerseAtom);
   const [surahInfo] = useAtom(surahInfoAtom);
   const [timestamp] = useAtom(timestampAtom);
+  const [audioPlay] = useAtom(audioStatusAtom);
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
   const ref = useRef<HTMLDivElement>(null);
   const highlightPrev = useRef("s");
+
+  useEffect(() => {
+    if (!ref.current) return;
+
+    if (audioPlay) {
+      highlightPrev.current = verses.verse_key;
+      scrollToElement(ref.current);
+    }
+  }, [audioPlay])
 
   useEffect(() => {
     if (!ref.current || highlight?.match(highlightPrev.current + ":")) return;
