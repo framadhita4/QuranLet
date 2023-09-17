@@ -26,11 +26,13 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
   const ref = useRef<HTMLDivElement>(null);
+  const highlightPrev = useRef("s");
 
   useEffect(() => {
-    if (!ref.current) return;
+    if (!ref.current || highlight?.match(highlightPrev.current + ":")) return;
 
     if (highlight) {
+      highlightPrev.current = verses.verse_key;
       scrollToElement(ref.current);
     }
   }, [highlight])
@@ -105,7 +107,6 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
     <div className="w-full">
       <div className={`words-container flex justify-start flex-row-reverse flex-wrap mb-4`}>
         {verses.words.map((e, i) => {
-          console.log(highlight)
           return <Word highlight={(highlight === `${verses.verse_key}:${i + 1}`)} key={e.id} verse={e} isLast={i == verses.words.length - 1} />
         })}
       </div>
