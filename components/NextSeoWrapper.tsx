@@ -11,12 +11,18 @@ export default function NextSeoWrapper({ title, description, url }: { title: str
       url: `https://${url}`,
       title,
       description,
-      siteName: "QuranLet"
+      siteName: "QuranLet",
+      images: [{
+        url: "https://quranlet.vercel.app/og.webp",
+        width: 1200,
+        height: 630,
+        alt: "Quranlet"
+      }]
     }}
     robotsProps={{ noimageindex: true }}
     twitter={{
       handle: "@framadhita",
-      cardType: "summary",
+      cardType: "summary_large_image",
       site: "@framadhita"
     }}
     additionalMetaTags={[
