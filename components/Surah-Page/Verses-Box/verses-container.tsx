@@ -19,10 +19,17 @@ export default function VersesContainer() {
     const verse = router.query.verse;
     if (!verse) return;
 
-    const verseElement = document.getElementById(`${surahInfo?.surah_number}:${verse}`);
-    if (!verseElement) return;
+    // let verseElement = document.getElementById(`${surahInfo?.surah_number}:${verse}`);
+    // if (!verseElement) {
+    setTimeout(() => {
+      const verseElement = document.getElementById(`${surahInfo?.surah_number}:${verse}`);
+      if (!verseElement) return;
 
-    scrollToElement(verseElement);
+      scrollToElement(verseElement);
+    }, 300);
+
+    // };
+
   }, [router.isReady, surahInfo])
 
   useEffect(() => {
