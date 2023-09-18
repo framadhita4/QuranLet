@@ -16,7 +16,7 @@ export default function SurahDetailButton() {
 
   useEffect(() => {
     fetcher(`/api/detail/${surahInfo?.surah_number}`).then((data) => setSurahDetail(data));
-  }, [])
+  }, [surahInfo])
 
   useEffect(() => {
     const clickHandler = (e: MouseEvent) => {

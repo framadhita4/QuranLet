@@ -15,6 +15,7 @@ import { useRouter } from 'next/router';
 import { useEffect } from 'react';
 import scrollToElement from '@/utils/scrollToElement';
 import { useImmerAtom } from 'jotai-immer';
+import SurahNavigator from '@/components/Surah-Page/surah-navigator';
 
 export const getStaticPaths: GetStaticPaths = () => {
   return {
@@ -69,7 +70,9 @@ const Page = ({ data }: { data: SurahInfo }) => {
             <span className={`icon-${data?.surah_number} ml-2`}></span>
             <span className='icon-0 -ml-2'></span>
           </div>
-          {data?.surah_number != 1 && <div className={`icon-115 text-[10vw] sm:text-5xl w-fit m-auto ${surahIconFont.className}`} />}
+          {data?.surah_number != 1 &&
+            <div className={`icon-115 text-[10vw] sm:text-5xl w-fit m-auto ${surahIconFont.className}`} />
+          }
           <div className='relative flex justify-between text-sm font-medium mt-14'>
             <div className='sticky right-0'>
               <p className='text-gray-500'>Terjemahan Oleh</p>
@@ -77,9 +80,10 @@ const Page = ({ data }: { data: SurahInfo }) => {
             </div>
             <SurahDetailButton />
           </div>
-          {data &&
+          {data && <>
             <VersesContainer />
-          }
+            <SurahNavigator />
+          </>}
         </div>
         {data &&
           <AudioPlayer />

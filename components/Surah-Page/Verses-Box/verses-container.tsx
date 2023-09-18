@@ -55,7 +55,7 @@ export default function VersesContainer() {
     setPages(Array.from({ length: (Math.ceil(surahInfo?.ayahs / 6)) }, (_, i) => undefined))
   }, [surahInfo]);
 
-  return <div className="mb-20">{
+  return <div>{
     pages &&
     pages.map((e, i) => <VerseBox id={i + 1} key={i} />)
   }

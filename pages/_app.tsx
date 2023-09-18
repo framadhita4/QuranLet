@@ -7,6 +7,7 @@ import { Analytics } from '@vercel/analytics/react';
 import localFont from "@next/font/local"
 import { Provider } from 'jotai';
 import Head from 'next/head';
+import Footer from '@/components/footer';
 
 export const surahIconFont = localFont({
   src: "../public/font/surahicon.woff2",
@@ -44,6 +45,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <main className={`${quicksandFont.className} selection:bg-pri-color-light font-medium text-gray-700`}>
       <Provider>
         <Component {...pageProps} />
+        <Footer />
       </Provider>
       <Analytics />
     </main>
