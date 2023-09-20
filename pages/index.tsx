@@ -42,7 +42,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
       url="quranlet.vercel.app"
     />
     <Navbar />
-    <Header data={data?.map(e => e.name.toLowerCase())} />
+    <Header data={data} />
     <div className='p-5 m-auto text-gray-700 md:w-11/12 md:mt-4'>
       {isClient && recentlyRead && recentlyRead?.length > 0 &&
         <div>

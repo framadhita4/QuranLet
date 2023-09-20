@@ -1,11 +1,9 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image';
-import Link from 'next/link';
 import Search from './search';
+import { SurahInfo } from '@/types/surah-info-type';
 
-type AppProps = { data: string[] | undefined };
-
-export default function Header({ data }: AppProps) {
+export default function Header({ data }: { data: SurahInfo[] }) {
   return (
     <header className='flex bg-gradient-to-br from-pri-color-light to-thr-color-light flex-col p-2 pt-14 pb-8'>
       <div className='p-2 md:px-8'>
