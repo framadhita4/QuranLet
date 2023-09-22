@@ -43,7 +43,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
     />
     <Navbar />
     <Header data={data} />
-    <div className='p-5 m-auto text-gray-700 md:w-11/12 md:mt-4'>
+    <div className='p-5 m-auto md:w-11/12 md:mt-4'>
       {isClient && recentlyRead && recentlyRead?.length > 0 &&
         <div>
           <div className='px-2 border-b-2'>
@@ -55,7 +55,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
         </div>
       }
       <div>
-        <div className='px-2 border-b-2'>
+        <div className='px-2 border-b-2 dark:border-zinc-300'>
           <p>Surah</p>
         </div>
         <div className='flex px-2 text-sm justify-end'>

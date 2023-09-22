@@ -54,8 +54,8 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   })
 
   return (
-    <div className={`text-gray-700 fixed w-full z-40 transition-all duration-300 ${(isActive) ? "top-0" : "-top-12"}`}>
-      <div className='flex justify-between items-center px-5 sm:px-8 h-12 bg-white'>
+    <div className={`fixed w-full z-40 transition-all duration-300 ${(isActive) ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
+      <div className='flex justify-between items-center px-5 sm:px-8 h-12 bg-white dark:bg-pri-color-dark'>
         <Link href={"/"}>
           <h1 className="text-xl font-bold">Qur'anLet</h1>
         </Link>
@@ -63,10 +63,10 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
       </div>
       {surahInfo && <>
         <div className='overflow-x-hidden w-screen'>
-          <div className='px-5 sm:px-8 py-1 bg-white drop-shadow-[0_2px_1px_rgba(0,0,0,0.1)]'>
+          <div className='px-5 sm:px-8 py-1 bg-white dark:bg-pri-color-dark drop-shadow-[0_3px_0px_rgba(0,0,0,0.1)]'>
             <div className='w-fit flex items-center gap-1 cursor-pointer font-semibold' onClick={() => setSurahNav(!surahNav)}>
               <span>{surahInfo.name}</span>
-              <FontAwesomeIcon icon={faChevronDown} size='sm' className={`${surahNav && "rotate-180"} transition-all duration-200`} />
+              <FontAwesomeIcon icon={faChevronDown} size='sm' className={`${surahNav && "rotate-180"} transition - all duration - 200`} />
             </div>
           </div>
           <CSSTransition
@@ -76,7 +76,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
             unmountOnExit
             classNames={"surah-nav"}
           >
-            <div ref={ref} className="z-[-1] absolute rounded-md p-2 w-fit flex bg-white translate-y-2 left-4 right-4 sm:left-8 drop-shadow-[0_0_3px_rgba(0,0,0,0.15)]" >
+            <div ref={ref} className="z-[-1] absolute rounded-md p-2 w-fit flex bg-white translate-y-2 left-4 right-4 sm:left-8 dark:bg-sec-color-dark drop-shadow-md" >
               <div className="flex gap-1 font-normal">
                 <SurahNav quran={quran} />
                 <VerseNav />

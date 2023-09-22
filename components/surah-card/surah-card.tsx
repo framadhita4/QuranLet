@@ -6,10 +6,10 @@ type AppProps = { surahInfo: SurahInfo };
 
 export default function SurahCard({ surahInfo }: AppProps) {
   return <>
-    <Link href={`/${surahInfo.surah_number}`} className={`${surahInfo.name.toLowerCase()} transition-all duration-150 active:scale-95 group`}>
-      <div className="flex justify-between bg-white p-3 border-2 rounded-lg transition-all duration-150 group-hover:border-sec-color-light">
+    <Link href={`/${surahInfo.surah_number}`} className={`${surahInfo.name.toLowerCase()} transition-all duration-100 active:scale-95 group`}>
+      <div className="flex justify-between p-3 dark:border-zinc-300 border-2 rounded-lg transition-all duration-150 dark:group-hover:border-sec-color-light group-hover:border-sec-color-light">
         <div className="flex justify-center items-center transition-all duration-300">
-          <div className="flex items-center justify-center rounded rotate-45 w-10 h-10 bg-gray-200 ml-1 mr-4 transition-all duration-150 group-hover:bg-sec-color-light">
+          <div className="flex items-center justify-center rounded rotate-45 w-10 h-10 bg-gray-200 dark:bg-sec-color-dark ml-1 mr-4 transition-all duration-150 group-hover:bg-sec-color-light">
             <span className="-rotate-45 m-2 transition-all duration-150 group-hover:text-white">{surahInfo.surah_number}</span>
           </div>
           <div>

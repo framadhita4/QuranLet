@@ -8,14 +8,14 @@ import { hafsFont, mequranFont } from "@/pages/_app";
 
 function WordComponent({ verse, isLast, highlight }: { verse: Word, isLast: boolean, highlight: boolean }) {
   const [isHover, setHover] = useState(false);
-  const [, setGlobalPlay] = useAtom(audioStatusAtom);
+  const [globalPlay, setGlobalPlay] = useAtom(audioStatusAtom);
   const [playing, setPlay] = useState(false);
   const setting = useAtomValue(settingAtom);
   const audioRef = useRef<HTMLAudioElement>(null);
 
   const togglePlay = () => {
     const audioElement = audioRef.current;
-    if (playing) return;
+    if (playing || globalPlay) return;
 
     if (!playing) {
       audioElement?.play();
@@ -44,7 +44,7 @@ function WordComponent({ verse, isLast, highlight }: { verse: Word, isLast: bool
     }
     <audio onEnded={() => { setPlay(false); setGlobalPlay(false) }} ref={audioRef} src={verse.audio_url} preload="none"></audio>
     {isHover && !isLast && setting.wordByWord.display.tooltip && (setting.wordByWord.transliteration || setting.wordByWord.translation) &&
-      <div className="z-10 absolute flex flex-col justify-center items-center -translate-y-[4.25rem] bg-gray-700 text-white p-2 rounded before:w-7 before:h-7 before:absolute before:-bottom-1 before:rotate-45 before:bg-gray-700 before:-z-[1] before:rounded">
+      <div className="z-10 absolute flex flex-col justify-center items-center -translate-y-[4.25rem] bg-gray-700 dark:bg-white text-white dark:text-pri-color-dark p-2 rounded before:w-7 before:h-7 before:absolute before:-bottom-1 before:rotate-45 before:bg-gray-700 dark:before:bg-white before:-z-[1] before:rounded">
         {
           setting.wordByWord.transliteration &&
           <p className="text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>

@@ -2,7 +2,7 @@ import SwitchButton from "../switch-button";
 
 export default function WordByWord() {
   return <>
-    <div className="font-semibold text-base text-gray-700 mb-2">Kata Demi Kata</div>
+    <div className="font-semibold text-base mb-2">Kata Demi Kata</div>
     <div className="flex flex-col font-normal">
       <SwitchButton
         text="Terjemahan"
@@ -25,7 +25,7 @@ export default function WordByWord() {
         Sumber terjemahan kata demi kata : <a className="underline font-bold" href="https://quranwbw.com/">quranwbw</a>
       </p>
     </div>
-    <div className="w-full h-[1.5px] rounded-full bg-gray-300 my-4" />
+    <div className="w-full h-[1.5px] rounded-full bg-zinc-300 my-4" />
     <div className="font-normal">
       <div>
         <div className="mb-2">Tampilan</div>
@@ -47,6 +47,6 @@ export default function WordByWord() {
         </div>
       </div>
     </div>
-    <div className="w-full h-[1.5px] rounded-full bg-gray-700 my-4" />
+    <div className="w-full h-[1.5px] rounded-full bg-gray-700 dark:bg-zinc-300 my-4" />
   </>
 }

@@ -18,8 +18,6 @@ export default function AudioPlayer() {
   const [highlight, setHighlight] = useAtom(highlightAtom);
   const [surahInfo] = useAtom(surahInfoAtom);
   const [timestamp, setTimestampAtom] = useImmerAtom(timestampAtom);
-  const verseTiming = useRef<VerseTiming | undefined>(undefined);
-  const wordIndex = useRef<Segments | undefined>(undefined)
 
   const getTimestamp = async () => {
     if (!surahInfo) return;
@@ -40,7 +38,7 @@ export default function AudioPlayer() {
 
   const playToggle = useCallback(() => {
     const audio = document.querySelector<HTMLAudioElement>(".audio");
-    if (!audio) return;
+    if (!audio || audioPlay) return;
 
     if (audio.paused && !audioPlay) {
       audio.play();
@@ -68,7 +66,7 @@ export default function AudioPlayer() {
     setHighlight(newHighlight);
   }
 
-  return <div className="w-full z-10 flex flex-col fixed bottom-0 h-14 bg-white">
+  return <div className="w-full z-10 flex flex-col fixed bottom-0 h-14 bg-white dark:bg-pri-color-dark">
     {timestamp && surahInfo && <>
       <Audio playHandler={() => { GetHighlight() }} timestamp={timestamp} playToggle={playToggle} />
       <AudioBar playHandler={() => { GetHighlight() }} timestamp={timestamp} />

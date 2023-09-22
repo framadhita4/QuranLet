@@ -5,9 +5,11 @@ import type { AppProps } from 'next/app';
 import { Inter, Quicksand } from '@next/font/google';
 import { Analytics } from '@vercel/analytics/react';
 import localFont from "@next/font/local"
-import { Provider } from 'jotai';
+import { Provider, useAtom } from 'jotai';
 import Head from 'next/head';
 import Footer from '@/components/footer';
+import { settingAtom } from '@/components/atoms/setting-atom';
+import { useEffect } from 'react';
 
 export const surahIconFont = localFont({
   src: "../public/font/surahicon.woff2",
@@ -37,12 +39,12 @@ const quicksandFont = Quicksand({
 export default function App({ Component, pageProps }: AppProps) {
   return <>
     <Head>
-      <link rel="shortcut icon" href="/quran.svg" type="image/x-icon" />
+      <link rel="shortcut icon" href="/logo/logo-256x.png" type="image/png" />
       <link rel="apple-touch-icon" href="/logo/logo-192x.png" sizes="192x192" />
       <link rel="icon" type="image/png" href="/logo/logo-192x.png" sizes="192x192" />
       <link rel="manifest" href="/manifest.json" />
     </Head>
-    <main className={`${quicksandFont.className} selection:bg-pri-color-light font-medium text-gray-700`}>
+    <main className={`${quicksandFont.className} dark:selection:bg-thr-color-light selection:bg-pri-color-light dark:bg-pri-color-dark font-medium text-gray-700 dark:text-zinc-300 transition ease-in-out duration-200`}>
       <Provider>
         <Component {...pageProps} />
         <Footer />

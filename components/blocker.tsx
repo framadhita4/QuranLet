@@ -13,6 +13,6 @@ export default function Blocker() {
     classNames={`blocker`}
     unmountOnExit
     timeout={500} >
-    <div ref={ref} className='fixed top-0 left-0 w-full h-full bg-gray-900 bg-opacity-20 z-50 overflow-scroll py-20' />
+    <div ref={ref} className='fixed top-0 left-0 w-full h-full bg-gray-900 dark:bg-opacity-0 bg-opacity-20 z-[51] overflow-scroll py-20' />
   </CSSTransition>
 }

@@ -4,7 +4,7 @@ import { audioStatusAtom, currentTimeAtom, highlightAtom } from "../atoms/audio-
 import { useAtom } from "jotai";
 
 export default function Audio({ timestamp, playToggle, playHandler }: { timestamp: Timestamp, playToggle: () => void, playHandler: () => void }) {
-  const [, setAudioPlay] = useAtom(audioStatusAtom);
+  const [audioPlay, setAudioPlay] = useAtom(audioStatusAtom);
   const [, setCurrentTime] = useAtom(currentTimeAtom);
   const [, setHighlight] = useAtom(highlightAtom);
   const ref = useRef<HTMLAudioElement>(null);
@@ -17,6 +17,8 @@ export default function Audio({ timestamp, playToggle, playHandler }: { timestam
 
     const value = ref.current?.currentTime * 1000;
     audioBar.value = value.toString();
+
+    if (!audioPlay) return;
     setCurrentTime(value);
 
     playHandler();

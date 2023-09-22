@@ -26,7 +26,7 @@ export default function VerseNav() {
       onClick={(event) => { clickHandler(event, e) }}
       key={e}
       href={``}
-      className={`p-2 rounded-md hover:bg-slate-100 cursor-pointer ${(currentVerse == `${e}`) ? "font-semibold bg-slate-100" : ""}`}
+      className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${(currentVerse == `${e}`) ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
     >
       {e}
     </a>)}

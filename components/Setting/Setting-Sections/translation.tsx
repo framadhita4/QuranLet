@@ -2,7 +2,7 @@ import SwitchButton from "../switch-button";
 
 export default function Translation() {
   return <>
-    <div className="font-semibold text-base text-gray-700 mb-2">Terjemahan</div>
+    <div className="font-semibold text-base mb-2">Terjemahan</div>
     <div className="flex flex-col font-normal">
       <SwitchButton
         text="Latin"

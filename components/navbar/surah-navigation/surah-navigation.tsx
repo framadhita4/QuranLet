@@ -12,7 +12,7 @@ export default function SurahNav({ quran }: { quran: Array<SurahInfo> | undefine
     {quran.map((e) => <Link
       key={e.surah_number}
       href={`/${e.surah_number}`}
-      className={`p-2 rounded-md hover:bg-slate-100 cursor-pointer ${surahInfo.name == e.name ? "font-semibold bg-slate-100" : ""}`}
+      className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name == e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
     >
       {e.name}
     </Link>)}

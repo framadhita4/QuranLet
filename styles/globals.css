@@ -12,12 +12,6 @@
   }
 
   .search {
-    background: linear-gradient(
-      to right,
-      var(--sec-color-light),
-      var(--sec-color-light) 50%,
-      white 50%
-    );
     background-size: 200% 100%;
   }
 
@@ -42,6 +36,9 @@
   --pri-color-light: #83eaf1;
   --sec-color-light: #6dbafb;
   --thr-color-light: #63a4ff;
+  --pri-color-dark: #252933;
+  --sec-color-dark: #313746;
+  --thr-color-dark: #6d7476;
 }
 
 html {

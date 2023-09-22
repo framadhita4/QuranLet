@@ -43,8 +43,8 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
       <Link href={searchResult.length > 0 && searchQuery != "" ? `/${searchResult[0].surah_number}` : ""}
         onMouseEnter={() => { setHover(true) }}
         onMouseLeave={() => { setHover(false) }}
-        className={`z-[1] flex items-center justify-center overflow-hidden text-white border-[3px] border-white hover:cursor-pointer w-20 h-14 rounded-r-full duration-500 ease-in-out transition-all search ring-0 focus:outline-none search bg-clip-border ${(isHover) ? "search-100" : "search-0"}`}>
-        <FontAwesomeIcon className={`duration-300 delay ease-in-out ${(isHover) ? "text-white" : "text-sec-color-light"}`} icon={faSearch} size={"lg"} />
+        className={`z-[1] flex items-center justify-center overflow-hidden border-[3px] border-white hover:cursor-pointer w-20 h-14 rounded-r-full duration-500 ease-in-out transition-all search ring-0 focus:outline-none search from-sec-color-light dark:from-sec-color-dark dark:to-white to-white from-50% to-50% bg-gradient-to-r bg-clip-border ${(isHover) ? "search-100" : "search-0"}`}>
+        <FontAwesomeIcon className={`duration-300 delay ease-in-out ${(isHover) ? "text-white" : "text-sec-color-light dark:text-pri-color-dark"}`} icon={faSearch} size={"lg"} />
       </Link>
     </div >
   </>);

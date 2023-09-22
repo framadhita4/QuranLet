@@ -14,8 +14,8 @@ import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import { useRouter } from "next/router";
 import { settingAtom } from "@/components/atoms/setting-atom";
 import Translation from "./trasnlation";
-import { audioStatusAtom } from "@/components/atoms/audio-atom";
 
+let highlightPrev = "s";
 function Verses({ verses, id, highlight }: { verses: VersesType, id: string, highlight: string | null }) {
   const router = useRouter();
   const [isActive, setActive] = useState(false);
@@ -27,14 +27,15 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
   const ref = useRef<HTMLDivElement>(null);
-  const highlightPrev = useRef("s");
 
   useEffect(() => {
-    if (!ref.current || highlight?.match(highlightPrev.current + ":")) return;
+    if (!ref.current || highlight?.split(":")[1] === highlightPrev) {
+      return;
+    };
 
     if (highlight) {
-      highlightPrev.current = verses.verse_key;
       scrollToElement(ref.current);
+      highlightPrev = highlight.split(":")[1];
     }
   }, [highlight])
 
@@ -94,8 +95,8 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
     audio.play();
   }
 
-  return <div id={`${id}`} ref={ref} className={`rounded-sm border-b-2 mt-8 p-4 flex flex-wrap md:flex-nowrap ${!!highlight && "bg-slate-50"}`}>
-    <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400">
+  return <div id={`${id}`} ref={ref} className={`rounded-sm border-b-2 dark:border-zinc-300 mt-8 p-4 flex flex-wrap md:flex-nowrap ${!!highlight && "bg-slate-50 dark:bg-sec-color-dark"}`}>
+    <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400 dark:text-zinc-300">
       <a href={`#${id}`}>
         <Button>
           <p className="text-sm">{verses.verse_key}</p>
@@ -125,7 +126,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
         </Translation>
       }
       {isActive && settings.translation.id &&
-        <div className="border-2 rounded-lg bg-slate-50 p-6 mb-6 text-gray-700">
+        <div className="border-2 rounded-lg bg-slate-50 dark:border-zinc-300 dark:bg-sec-color-dark p-6 mb-6">
           <div className="flex justify-between items-center mb-4 -mt-1">
             <h2>Footnote</h2>
             <Button onClick={() => { setActive(false) }}><FontAwesomeIcon icon={faXmark} /></Button>

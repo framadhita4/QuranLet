@@ -2,14 +2,18 @@
 import Image from 'next/image';
 import Search from './search';
 import { SurahInfo } from '@/types/surah-info-type';
+import { useAtom } from 'jotai';
+import { settingAtom } from './atoms/setting-atom';
 
 export default function Header({ data }: { data: SurahInfo[] }) {
+  const [settings] = useAtom(settingAtom);
+
   return (
-    <header className='flex bg-gradient-to-br from-pri-color-light to-thr-color-light flex-col p-2 pt-14 pb-8'>
+    <header className=' bg-gradient-to-br dark:from-sec-color-dark dark:to-pri-color-dark from-pri-color-light to-thr-color-light flex-col p-2 pt-14 pb-8'>
       <div className='p-2 md:px-8'>
         <div className='text-center'>
           <div className='m-auto my-6 w-36 p-8 bg-white rounded-full'>
-            <Image src="/quran.svg" alt="qur'an logo" width={1000} height={1000} />
+            <Image src={`${settings.theme ? "/quran-dark.svg" : "/quran.svg"}`} alt="qur'an logo" width={1000} height={1000} />
           </div>
         </div>
       </div>

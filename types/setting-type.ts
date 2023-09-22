@@ -1,4 +1,5 @@
 export type Setting = {
+  theme: number;
   wordByWord: {
     translation: boolean;
     transliteration: boolean;
@@ -14,6 +15,7 @@ export type Setting = {
 };
 
 export const settingInitValue: Setting = {
+  theme: 0,
   wordByWord: {
     translation: true,
     transliteration: true,
