@@ -44,7 +44,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <link rel="icon" type="image/png" href="/logo/logo-192x.png" sizes="192x192" />
       <link rel="manifest" href="/manifest.json" />
     </Head>
-    <main className={`${quicksandFont.className} dark:selection:bg-thr-color-light selection:bg-pri-color-light dark:bg-pri-color-dark font-medium text-gray-700 dark:text-zinc-300 transition ease-in-out duration-200`}>
+    <main className={`${quicksandFont.className} dark:selection:bg-thr-color-light selection:bg-pri-color-light dark:bg-pri-color-dark font-medium text-gray-700 dark:text-zinc-300`}>
       <Provider>
         <Component {...pageProps} />
         <Footer />

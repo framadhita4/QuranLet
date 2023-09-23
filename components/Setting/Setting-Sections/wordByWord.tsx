@@ -22,7 +22,7 @@ export default function WordByWord() {
         Pembaca : <span className="font-bold">Shaikh Wisam Sharieff.</span> Klik pada kata untuk mendengarkan bacaannya.
       </p>
       <p className="text-xs">
-        Sumber terjemahan kata demi kata : <a className="underline font-bold" href="https://quranwbw.com/">quranwbw</a>
+        Sumber terjemahan kata demi kata : <a className="link" href="https://quranwbw.com/">quranwbw</a>
       </p>
     </div>
     <div className="w-full h-[1.5px] rounded-full bg-zinc-300 my-4" />

@@ -26,7 +26,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
         id="search"
         className='relative search-query rounded-l-full p-2 pl-4 h-14 w-11/12 outline-none'
         onBlur={() => { setFocus(false) }} onFocus={() => { setFocus(true) }}
-        onChange={(e) => { setQuery(e.target.value) }}
+        onInput={(e) => { setQuery(e.currentTarget.value) }}
         value={searchQuery} />
       <CSSTransition
         in={searchQuery !== "" && isFocus}

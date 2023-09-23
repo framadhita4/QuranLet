@@ -13,7 +13,7 @@ import { currentVerseAtom, navigationVerseAtom } from "@/components/atoms/nav-at
 import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import { useRouter } from "next/router";
 import { settingAtom } from "@/components/atoms/setting-atom";
-import Translation from "./trasnlation";
+import Translation from "./translation";
 
 let highlightPrev = "s";
 function Verses({ verses, id, highlight }: { verses: VersesType, id: string, highlight: string | null }) {
@@ -80,7 +80,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
     const footNoteId = text.match(/"\d+"/g)?.[0].replace(/"/g, "");
     const footNoteNumber = text.match(/>\d+/g)?.[0].replace(">", "");
 
-    return <sup className="p-1 cursor-pointer hover:text-sec-color-light " onClick={() => { supHandler(footNoteId) }}>{footNoteNumber}</sup>
+    return <sup className="p-1 cursor-pointer hover:underline" onClick={() => { supHandler(footNoteId) }}>{footNoteNumber}</sup>
   }
 
   const playHandler = async () => {

@@ -54,7 +54,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   })
 
   return (
-    <div className={`fixed w-full z-40 transition-all duration-300 ${(isActive) ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
+    <div className={`fixed w-full z-40 transition-all duration-100 ${(isActive) ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
       <div className='flex justify-between items-center px-5 sm:px-8 h-12 bg-white dark:bg-pri-color-dark'>
         <Link href={"/"}>
           <h1 className="text-xl font-bold">Qur'anLet</h1>
@@ -66,7 +66,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
           <div className='px-5 sm:px-8 py-1 bg-white dark:bg-pri-color-dark drop-shadow-[0_3px_0px_rgba(0,0,0,0.1)]'>
             <div className='w-fit flex items-center gap-1 cursor-pointer font-semibold' onClick={() => setSurahNav(!surahNav)}>
               <span>{surahInfo.name}</span>
-              <FontAwesomeIcon icon={faChevronDown} size='sm' className={`${surahNav && "rotate-180"} transition - all duration - 200`} />
+              <FontAwesomeIcon icon={faChevronDown} size='sm' className={`${surahNav && "rotate-180"} transition-transform duration-200`} />
             </div>
           </div>
           <CSSTransition

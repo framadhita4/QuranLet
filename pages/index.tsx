@@ -43,13 +43,13 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
     />
     <Navbar />
     <Header data={data} />
-    <div className='p-5 m-auto md:w-11/12 md:mt-4'>
+    <div className='p-5 m-auto md:w-10/12 md:mt-4'>
       {isClient && recentlyRead && recentlyRead?.length > 0 &&
         <div>
           <div className='px-2 border-b-2'>
             <p>Baru Saja Dibaca</p>
           </div>
-          <div className='flex gap-4 my-4 w-full overflow-scroll pb-2'>
+          <div className='flex gap-4 my-4 w-full overflow-x-scroll pb-2'>
             {recentlyRead.map((e, i) => <RecentlyReadCard key={i} recentlyRead={e} />)}
           </div>
         </div>
@@ -71,7 +71,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
             </div>
           </div>
         </div>
-        <div className='grid gap-2 mt-2 grid-cols-1 lg:grid-cols-3 md:grid-cols-2'>
+        <div className='grid gap-4 mt-2 grid-cols-1 lg:grid-cols-3 md:grid-cols-2'>
           {data ? data.map((e) => <SurahCard key={e.surah_number} surahInfo={e} />) : numbers.map((e) => <SurahCardSkeleton key={e} />)}
         </div>
       </div>

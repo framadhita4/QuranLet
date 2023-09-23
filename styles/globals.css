@@ -80,7 +80,9 @@ body {
 .off-canvas-enter-active {
   opacity: 1;
   top: 3.5rem;
-  transition: all 200ms ease-in-out;
+  transition-property: top, opacity;
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
 }
 .off-canvas-exit {
   opacity: 1;
@@ -89,7 +91,9 @@ body {
 .off-canvas-exit-active {
   opacity: 0;
   top: 2.5rem;
-  transition: all 200ms ease-in-out;
+  transition-property: top, opacity;
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
 }
 
 .surah-nav-enter {
@@ -185,4 +189,27 @@ sup {
   border: 3px solid white;
   border-radius: 100%;
   box-sizing: border-box;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: none;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.6);
 }

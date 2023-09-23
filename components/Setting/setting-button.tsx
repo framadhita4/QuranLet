@@ -47,7 +47,7 @@ export default function Setting({ active }: AppProps) {
       unmountOnExit
       timeout={300}
       classNames={"off-canvas"}>
-      <div ref={ref} className="fixed rounded-md z-10 flex bg-white dark:bg-sec-color-dark top-14 left-4 right-4 drop-shadow-[0_0_3px_rgba(0,0,0,0.15)] transition-colors ease-in-out duration-200 sm:w-80 sm:right-8 sm:left-auto">
+      <div ref={ref} className="fixed p-2 rounded-md z-10 flex bg-white dark:bg-sec-color-dark top-14 left-4 right-4 drop-shadow-[0_0_3px_rgba(0,0,0,0.15)] sm:w-80 sm:right-8 sm:left-auto">
         <SettingContainer />
       </div>
     </CSSTransition>
