@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function SurahNavigator() {
   const [surahInfo] = useAtom(surahInfoAtom);
-  const className = "border-[1.5px] p-2 rounded hover:border-sec-color-light hover:text-sec-color-light"
+  const className = "border-[1.5px] p-2 rounded hover:glow hover:border-sec-color-light hover:text-sec-color-light"
 
   const clickHandler = () => {
     window.scroll({

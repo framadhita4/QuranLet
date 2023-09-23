@@ -3,6 +3,30 @@
 @tailwind utilities;
 @import "node_modules/@fortawesome/fontawesome-svg-core/styles";
 
+@layer components {
+  .h1 {
+    font-size: theme("fontSize.xl");
+    font-weight: theme("fontWeight.bold");
+  }
+
+  .link {
+    text-decoration: underline;
+  }
+
+  .link:hover {
+    color: theme("colors.sec-color-light");
+    text-shadow: 0 0 10px rgba(131, 234, 241, 0.2);
+  }
+
+  .glow {
+    box-shadow: 0 0 10px rgba(131, 234, 241, 0.2);
+  }
+
+  .text-glow {
+    text-shadow: 0 0 10px rgba(131, 234, 241, 0.2);
+  }
+}
+
 @layer utilities {
   .mask {
     clip-path: circle(40% at 50% 140%);

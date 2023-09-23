@@ -30,10 +30,10 @@ function WordComponent({ verse, isLast, highlight }: { verse: Word, isLast: bool
     onMouseEnter={() => setHover(true)}
     onMouseLeave={() => setHover(false)}
     className={
-      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing || highlight) && "text-sec-color-light"
+      `cursor-pointer flex flex-col items-center max-w-[130px] text-center ${(isHover || playing || highlight) && "text-sec-color-light text-glow"
       } ${(setting.wordByWord.translation || setting.wordByWord.transliteration) && setting.wordByWord.display.inline ? "p-2 ml-1 mb-2" : " ml-1 mb-5"}`
     }>
-    <span dir="rtl" lang="ar" className={`${(isLast ? `${hafsFont.className} font-bold sm:text-3xl text-[6vw]` : mequranFont.className + " sm:text-2xl text-[5vw]")}`}>{verse.text}</span>
+    <span dir="rtl" lang="ar" className={`${(isLast ? `${hafsFont.className} hover:text-glow font-bold sm:text-3xl text-[6vw]` : mequranFont.className + " sm:text-2xl text-[5vw]")}`}>{verse.text}</span>
     {
       setting.wordByWord.transliteration && setting.wordByWord.display.inline &&
       <p className="mt-1 text-[0.85rem] leading-5 font-normal">{verse.transliteration}</p>

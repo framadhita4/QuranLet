@@ -64,7 +64,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
             data = data.reverse();
             setSort(!sort);
           }}
-            className='sort-type hover:text-sec-color-light hover:cursor-pointer flex'>
+            className='sort-type hover:text-glow hover:text-sec-color-light hover:cursor-pointer flex'>
             <span className='mx-1'>{(sort) ? "Ascending" : "Descending"}</span>
             <div className={`${!sort ? "rotate-180" : ""} transition-transform duration-200`}>
               <FontAwesomeIcon icon={faChevronUp} size='sm' />

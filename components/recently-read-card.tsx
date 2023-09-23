@@ -3,7 +3,7 @@ import { RecentlyRead } from "@/types/recently-type";
 import Link from "next/link";
 
 export default function RecentlyReadCard({ recentlyRead }: { recentlyRead: RecentlyRead | undefined }) {
-  return <>{recentlyRead && <Link href={`/${recentlyRead.surahInfo?.surah_number}?verse=${recentlyRead.ayah}`} className="w-40 p-3 rounded-lg border-2 dark:border-zinc-300 group hover:border-sec-color-light dark:hover:border-sec-color-light transition-all duration-150">
+  return <>{recentlyRead && <Link href={`/${recentlyRead.surahInfo?.surah_number}?verse=${recentlyRead.ayah}`} className="w-40 p-3 rounded-lg border-2 dark:border-zinc-300 group hover:glow hover:border-sec-color-light dark:hover:border-sec-color-light transition-all duration-150">
     <div>
       <div className="flex justify-between font-semibold leading-5">
         <p>Surah <br /> {recentlyRead.surahInfo?.name}</p>

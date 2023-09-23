@@ -18,7 +18,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
   }, [searchQuery])
 
   return (<>
-    <div className='flex relative items-center w-full m-auto mb-2 text-gray-700 sm:w-[600px] p-2 sm:p-0'>
+    <div className='flex relative items-center w-full m-auto mb-2 text-gray-700 sm:w-4/6 md:w-3/6 p-2 sm:p-0'>
       <input autoComplete="off"
         placeholder="Cari Nama Surah"
         type="search"
