@@ -50,7 +50,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     const progressBar = document.querySelector<HTMLDivElement>(".progress-bar");
     if (!progressBar) return;
 
-    progressBar.style.width = ((window.scrollY + document.documentElement.clientHeight) / (document.body.scrollHeight / 100)) + "vw"
+    progressBar.style.width = ((window.scrollY) / ((document.body.scrollHeight - document.documentElement.clientHeight) / 100)) + "vw"
   })
 
   return (
